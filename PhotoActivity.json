@@ -1,0 +1,246 @@
+[
+  {
+    "id": "photo-promotion-010",
+    "name": "岩盤浴",
+    "type": 2,
+    "thumbAssetId": "bedrock-00",
+    "stageId": "stage-photo-bedrock-00",
+    "costumeTypeIds": [
+      "mizg"
+    ],
+    "forceCostumeTypeId": "mizg",
+    "photoShootingMotionSetId": "bedrock-00",
+    "isDeleteCharacter": true,
+    "order": 9
+  },
+  {
+    "id": "photo_activity-cafe",
+    "name": "カフェ",
+    "type": 2,
+    "thumbAssetId": "cafe-00",
+    "stageId": "stage-photo-cafe-00",
+    "costumeTypeIds": [
+      "casl",
+      "schl",
+      "trng"
+    ],
+    "forceCostumeTypeId": "casl",
+    "photoShootingMotionSetId": "cafe-00",
+    "isDeleteCharacter": true,
+    "order": 110,
+    "unlockConditionId": "cd-manager_level_gte-20"
+  },
+  {
+    "id": "photo_activity-catstreet-01",
+    "name": "クリスマス",
+    "type": 1,
+    "thumbAssetId": "shopping-01",
+    "stageId": "stage-photo-catstreet-01",
+    "costumeTypeIds": [
+      "idol",
+      "casl",
+      "schl",
+      "trng"
+    ],
+    "forceCostumeTypeId": "casl",
+    "photoShootingMotionSetId": "catstreet-01",
+    "isDeleteCharacter": true,
+    "order": 6,
+    "viewConditionId": "cd-time-photo-shopping-01-close"
+  },
+  {
+    "id": "photo_activity-event_stage",
+    "name": "イベントステージ",
+    "type": 1,
+    "thumbAssetId": "event_stage-00",
+    "stageId": "stage-photo-ministage-00",
+    "costumeTypeIds": [
+      "idol",
+      "casl"
+    ],
+    "forceCostumeTypeId": "idol",
+    "photoShootingMotionSetId": "ministage-00",
+    "isDeleteCharacter": true,
+    "order": 150,
+    "viewConditionId": "cd-manager_level_gte-45",
+    "unlockConditionId": "cd-manager_level_gte-80"
+  },
+  {
+    "id": "photo_activity-fashion_model",
+    "name": "雑誌モデル",
+    "type": 1,
+    "thumbAssetId": "fashion_model-00",
+    "stageId": "stage-photo-studio-01",
+    "costumeTypeIds": [
+      "idol",
+      "casl"
+    ],
+    "forceCostumeTypeId": "casl",
+    "photoShootingMotionSetId": "house-00",
+    "isDeleteCharacter": true,
+    "order": 160,
+    "viewConditionId": "cd-manager_level_gte-45",
+    "unlockConditionId": "cd-manager_level_gte-90"
+  },
+  {
+    "id": "photo_activity-flyers",
+    "name": "チラシ配り",
+    "type": 1,
+    "thumbAssetId": "flyers-00",
+    "stageId": "stage-photo-square-00",
+    "costumeTypeIds": [
+      "idol",
+      "casl",
+      "schl"
+    ],
+    "forceCostumeTypeId": "idol",
+    "photoShootingMotionSetId": "square-00",
+    "isDeleteCharacter": true,
+    "order": 100
+  },
+  {
+    "id": "photo_activity-hot_spring",
+    "name": "温泉",
+    "type": 2,
+    "thumbAssetId": "hot_spring-00",
+    "stageId": "stage-photo-spa-00",
+    "costumeTypeIds": [
+      "mizg"
+    ],
+    "forceCostumeTypeId": "mizg",
+    "photoShootingMotionSetId": "spa-00",
+    "isDeleteCharacter": true,
+    "order": 170,
+    "viewConditionId": "cd-manager_level_gte-45",
+    "unlockConditionId": "cd-manager_level_gte-115"
+  },
+  {
+    "id": "photo_activity-living",
+    "name": "東京寮リビング",
+    "type": 1,
+    "thumbAssetId": "living-01",
+    "stageId": "stage-photo-living-01",
+    "costumeTypeIds": [
+      "casl",
+      "schl"
+    ],
+    "forceCostumeTypeId": "casl",
+    "photoShootingMotionSetId": "living-01",
+    "isDeleteCharacter": true,
+    "order": 4
+  },
+  {
+    "id": "photo_activity-ministage",
+    "name": "月森の丘",
+    "type": 1,
+    "thumbAssetId": "ministage-01",
+    "stageId": "stage-photo-ministage-01",
+    "costumeTypeIds": [
+      "idol",
+      "schl",
+      "trng",
+      "casl",
+      "mizg-water-ng"
+    ],
+    "forceCostumeTypeId": "idol",
+    "photoShootingMotionSetId": "ministage-01",
+    "isDeleteCharacter": true,
+    "order": 7,
+    "viewConditionId": "cd-time-photo-ministage-01-close"
+  },
+  {
+    "id": "photo_activity-pool",
+    "name": "水着グラビア撮影",
+    "type": 2,
+    "thumbAssetId": "pool-00",
+    "stageId": "stage-photo-pool-00",
+    "costumeTypeIds": [
+      "mizg",
+      "mizg-water-ng"
+    ],
+    "forceCostumeTypeId": "mizg",
+    "photoShootingMotionSetId": "pool-00",
+    "isDeleteCharacter": true,
+    "order": 10
+  },
+  {
+    "id": "photo_activity-radio_distribution",
+    "name": "ラジオ収録",
+    "type": 1,
+    "thumbAssetId": "recording-00",
+    "stageId": "stage-photo-recording-00",
+    "costumeTypeIds": [
+      "idol",
+      "casl",
+      "schl"
+    ],
+    "forceCostumeTypeId": "casl",
+    "photoShootingMotionSetId": "recording-00",
+    "isDeleteCharacter": true,
+    "order": 140,
+    "viewConditionId": "cd-manager_level_gte-45",
+    "unlockConditionId": "cd-manager_level_gte-60"
+  },
+  {
+    "id": "photo_activity-shopping",
+    "name": "ショッピング",
+    "type": 2,
+    "thumbAssetId": "shopping-00",
+    "stageId": "stage-photo-catstreet-00",
+    "costumeTypeIds": [
+      "casl",
+      "schl",
+      "trng"
+    ],
+    "forceCostumeTypeId": "casl",
+    "photoShootingMotionSetId": "catstreet-00",
+    "isDeleteCharacter": true,
+    "order": 130,
+    "unlockConditionId": "cd-manager_level_gte-45"
+  },
+  {
+    "id": "photo_activity-studio-00",
+    "name": "撮影スタジオ",
+    "type": 1,
+    "thumbAssetId": "studio-00",
+    "stageId": "stage-photo-studio-00",
+    "costumeTypeIds": [
+      "casl"
+    ],
+    "forceCostumeTypeId": "casl",
+    "photoShootingMotionSetId": "studio-00",
+    "isDeleteCharacter": true,
+    "order": 5
+  },
+  {
+    "id": "photo_activity-theme_park",
+    "name": "テーマパーク",
+    "type": 2,
+    "thumbAssetId": "themepark-00",
+    "stageId": "stage-photo-themepark-00",
+    "costumeTypeIds": [
+      "casl",
+      "schl",
+      "trng"
+    ],
+    "forceCostumeTypeId": "casl",
+    "photoShootingMotionSetId": "themepark-00",
+    "isDeleteCharacter": true,
+    "order": 8
+  },
+  {
+    "id": "photo_activity-video_distribution",
+    "name": "番組配信",
+    "type": 1,
+    "thumbAssetId": "video_destribution-00",
+    "stageId": "stage-photo-cooking-00",
+    "costumeTypeIds": [
+      "casl"
+    ],
+    "forceCostumeTypeId": "casl",
+    "photoShootingMotionSetId": "cooking-00",
+    "isDeleteCharacter": true,
+    "order": 120,
+    "unlockConditionId": "cd-manager_level_gte-30"
+  }
+]

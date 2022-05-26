@@ -1,0 +1,1363 @@
+[
+  {
+    "id": "item-act_cheer_point_up",
+    "name": "応援キャンディ",
+    "assetId": "activity-fan-event-cheer-point-up",
+    "description": "ファンレターによる応援ゲージの上昇を100%UPさせる",
+    "howToGet": "イベント、ショップなど",
+    "type": 1005,
+    "value": 1000,
+    "order": 50
+  },
+  {
+    "id": "item-act_promotion_shorten",
+    "name": "スキップウォッチ",
+    "assetId": "act-promotion-shorten",
+    "description": "プロモーションの時間を2時間分すぐに進行する",
+    "howToGet": "イベント、ショップなど",
+    "type": 1002,
+    "value": 120,
+    "order": 80
+  },
+  {
+    "id": "item-act_refresh_shorten",
+    "name": "アワーグラス",
+    "assetId": "act-refresh-shorten",
+    "description": "リフレッシュの時間を2時間分すぐに進行する",
+    "howToGet": "イベント、ショップなど",
+    "type": 1001,
+    "value": 120,
+    "order": 90
+  },
+  {
+    "id": "item-act_speed_up",
+    "name": "エナジーゼリー",
+    "assetId": "activity-fan-event-speed-up",
+    "description": "ファンイベントの進行速度を100%UPさせる",
+    "howToGet": "イベント、ショップなど",
+    "type": 1004,
+    "value": 1000,
+    "order": 60
+  },
+  {
+    "id": "item-act_super_mode",
+    "name": "フィーバードリンク",
+    "assetId": "activity-fan-event-super-mode",
+    "description": "一定ステップの間、FEVER状態になり、応援ゲージ+1回\n※応援ゲージ上昇効果は適用されません",
+    "howToGet": "イベント、ショップなど",
+    "type": 1003,
+    "value": 4000,
+    "order": 70
+  },
+  {
+    "id": "item-backside_medal",
+    "name": "合宿メダル",
+    "assetId": "medal-backside",
+    "description": "合宿メダル交換所で様々なアイテムと交換できる\nイベント終了後はコインに変換されます",
+    "howToGet": "合宿イベント",
+    "type": 3001,
+    "value": 1,
+    "order": 99
+  },
+  {
+    "id": "item-backside_medal-21-1031-01",
+    "name": "合宿メダル",
+    "assetId": "medal-backside",
+    "description": "合宿メダル交換所で様々なアイテムと交換できる\nイベント終了後はコインに変換されます",
+    "howToGet": "合宿イベント",
+    "type": 3001,
+    "value": 1,
+    "order": 99
+  },
+  {
+    "id": "item-card_ability",
+    "name": "エールパウダー",
+    "assetId": "card-ability",
+    "description": "エールのLvを上昇させることができる",
+    "howToGet": "イベント、ショップなど",
+    "type": 4,
+    "value": 1,
+    "order": 100,
+    "salePrice": 100
+  },
+  {
+    "id": "item-card_enhance",
+    "name": "レッスンピース",
+    "assetId": "card-enhance",
+    "description": "アイドルのLvを上昇させることができる",
+    "howToGet": "デイリーライブ、プロモーション、ファンイベントなど",
+    "type": 1,
+    "value": 1,
+    "order": 110,
+    "salePrice": 1
+  },
+  {
+    "id": "item-card_limit_break",
+    "name": "ブルームピース",
+    "assetId": "card-limit-break",
+    "description": "アイドルを才能開花させることができる",
+    "howToGet": "VENUSタワー、交換所など",
+    "type": 2,
+    "value": 1,
+    "order": 120
+  },
+  {
+    "id": "item-card_skill",
+    "name": "スキルパウダー",
+    "assetId": "card-skill",
+    "description": "アピールのLvを上昇させることができる",
+    "howToGet": "ファンイベント、VENUSタワーなど",
+    "type": 3,
+    "value": 1,
+    "order": 130,
+    "salePrice": 10
+  },
+  {
+    "id": "item-card_support_release",
+    "name": "レベルアシストPt",
+    "assetId": "card-support-release",
+    "description": "レベルアシストのアシスト枠解放アイテム",
+    "howToGet": "自主トレ、メインライブなど",
+    "type": 12,
+    "value": 1,
+    "order": 10
+  },
+  {
+    "id": "item-contest_medal-21-1228",
+    "name": "フォトメダル",
+    "assetId": "medal-contest",
+    "description": "フォトメダル交換所で様々なアイテムと交換できる\nイベント終了後はコインに変換されます",
+    "howToGet": "フォトオーディション",
+    "type": 3001,
+    "value": 1,
+    "order": 99
+  },
+  {
+    "id": "item-contest_medal-22-0328",
+    "name": "フォトメダル",
+    "assetId": "medal-contest",
+    "description": "フォトメダル交換所で様々なアイテムと交換できる\nイベント終了後はコインに変換されます",
+    "howToGet": "フォトオーディション",
+    "type": 3001,
+    "value": 1,
+    "order": 99
+  },
+  {
+    "id": "item-contest_submitting-21-1228",
+    "name": "イベントフィルム",
+    "assetId": "photo-shooting-contest",
+    "description": "フォトオーディションに写真を提出できる\nイベント終了後はコインに変換されます",
+    "howToGet": "フォトオーディション、プロモーション、ファンイベントなど",
+    "type": 6001,
+    "value": 1,
+    "order": 1
+  },
+  {
+    "id": "item-contest_submitting-22-0328",
+    "name": "イベント撮影パス",
+    "assetId": "photo-shooting-contest-ticket",
+    "description": "フォトオーディションに写真を提出できる\nイベント終了後はコインに変換されます",
+    "howToGet": "フォトオーディション、プロモーション、ファンイベントなど",
+    "type": 6001,
+    "value": 1,
+    "order": 1
+  },
+  {
+    "id": "item-daily_quest_ticket_01",
+    "name": "レッスンパス",
+    "assetId": "quest-daily-card-enhance-ticket",
+    "description": "有効期限：入手後180日\nデイリーライブ【レッスンピース】に挑戦できる",
+    "howToGet": "イベント、ショップなど",
+    "type": 2002,
+    "value": 1,
+    "order": 190
+  },
+  {
+    "id": "item-daily_quest_ticket_02",
+    "name": "コインパス",
+    "assetId": "quest-daily-gold-ticket",
+    "description": "有効期限：入手後180日\nデイリーライブ【コイン】に挑戦できる",
+    "howToGet": "イベント、ショップなど",
+    "type": 2001,
+    "value": 1,
+    "order": 200
+  },
+  {
+    "id": "item-daily_quest_ticket_03",
+    "name": "フィルムパス",
+    "assetId": "quest-daily-photo-ticket-ticket",
+    "description": "有効期限：入手後180日\nデイリーライブ【撮影フィルム】に挑戦できる",
+    "howToGet": "イベント、ショップなど",
+    "type": 2003,
+    "value": 1,
+    "order": 210
+  },
+  {
+    "id": "item-daily_quest_ticket_sp-22-0526",
+    "name": "スペシャルパス",
+    "assetId": "quest-daily-special",
+    "description": "デイリーライブ【スペシャル】に挑戦できる\nイベント終了後は消失します",
+    "howToGet": "ショップなど",
+    "type": 2006,
+    "value": 1,
+    "order": 220
+  },
+  {
+    "id": "item-exchange-anniversary-medal-22-0526",
+    "name": "1周年記念メダル",
+    "assetId": "medal-anniversary",
+    "description": "1周年記念メダル交換所で様々なアイテムと交換できる イベント終了後はコインに変換されます",
+    "howToGet": "ガチャ、ショップなど",
+    "type": 10,
+    "value": 1,
+    "order": 140
+  },
+  {
+    "id": "item-exchange-beginner-ticket-22-0328",
+    "name": "★5契約書",
+    "assetId": "card-exchange-05",
+    "description": "★5アイドル交換所で好きな\nメンバーと交換できるチケット",
+    "howToGet": "スタートダッシュ\nドリームギフトガチャ",
+    "type": 10,
+    "value": 1,
+    "order": 140
+  },
+  {
+    "id": "item-exchange-ticket-21-1224",
+    "name": "★5契約書",
+    "assetId": "card-exchange-05",
+    "description": "★5アイドル交換所で好きな\nメンバーと交換できるチケット",
+    "howToGet": "ハーフアニバーサリー記念\nドリームギフトガチャ",
+    "type": 10,
+    "value": 1,
+    "order": 140
+  },
+  {
+    "id": "item-exchange-ticket-22-0328",
+    "name": "★5契約書",
+    "assetId": "card-exchange-05",
+    "description": "★5アイドル交換所で好きな\nメンバーと交換できるチケット",
+    "howToGet": "スタートダッシュ\nドリームギフトガチャ",
+    "type": 10,
+    "value": 1,
+    "order": 140
+  },
+  {
+    "id": "item-gacha_fukubiki-ticket-22-0101",
+    "name": "福引券",
+    "assetId": "fukubiki-ticket",
+    "description": "10枚で福引券ガチャを1回引くことができる\nイベント終了後はコインに変換されます",
+    "howToGet": "イベント、ショップなど",
+    "type": 8,
+    "value": 1,
+    "order": 100
+  },
+  {
+    "id": "item-gacha_lottery-ticket-22-0212",
+    "name": "福引券",
+    "assetId": "lottery-ticket",
+    "description": "10枚で福引券ガチャを1回引くことができる\nイベント終了後はコインに変換されます",
+    "howToGet": "イベント、ショップなど",
+    "type": 8,
+    "value": 1,
+    "order": 100
+  },
+  {
+    "id": "item-gacha_lottery-ticket-22-0413",
+    "name": "福引券",
+    "assetId": "lottery-ticket",
+    "description": "10枚で福引券ガチャを1回引くことができる\n使用期限終了後はコインに変換されます",
+    "howToGet": "イベント、ショップなど",
+    "type": 8,
+    "value": 1,
+    "order": 100
+  },
+  {
+    "id": "item-gacha_medal",
+    "name": "アイドルメダル",
+    "assetId": "idol-medal",
+    "description": "アイドルメダル交換所で様々なアイテムと交換できる",
+    "howToGet": "同アイドル獲得時",
+    "type": 5,
+    "value": 1,
+    "order": 140
+  },
+  {
+    "id": "item-gacha_point",
+    "name": "共通ガチャPt",
+    "assetId": "gacha-point",
+    "description": "ガチャPt交換所で様々なアイテムと交換できる",
+    "howToGet": "ガチャ",
+    "type": 9,
+    "value": 1,
+    "order": 140
+  },
+  {
+    "id": "item-gacha_point-fes-21-0928",
+    "name": "アイプラフェスガチャPt",
+    "assetId": "gacha-point",
+    "description": "該当するガチャページの「ガチャPt」から\nガチャPtを消費してアイドルを獲得できる",
+    "howToGet": "ガチャ",
+    "type": 9,
+    "value": 1,
+    "order": 140
+  },
+  {
+    "id": "item-gacha_point-fs-set-bloom-21-1228",
+    "name": "アイプラフェスガチャPt",
+    "assetId": "gacha-point",
+    "description": "該当するガチャページの「ガチャPt」から\nガチャPtを消費してアイドルを獲得できる",
+    "type": 9,
+    "value": 1,
+    "order": 140
+  },
+  {
+    "id": "item-gacha_point-fs-set-bloom-22-0328-01",
+    "name": "アイプラフェスピックアップ1ガチャPt",
+    "assetId": "gacha-point",
+    "description": "該当するガチャページの「ガチャPt」から\nガチャPtを消費してアイドルを獲得できる",
+    "type": 9,
+    "value": 1,
+    "order": 140
+  },
+  {
+    "id": "item-gacha_point-fs-set-bloom-22-0328-02",
+    "name": "アイプラフェスピックアップ2ガチャPt",
+    "assetId": "gacha-point",
+    "description": "該当するガチャページの「ガチャPt」から\nガチャPtを消費してアイドルを獲得できる",
+    "type": 9,
+    "value": 1,
+    "order": 140
+  },
+  {
+    "id": "item-gacha_point-gacha-pickup-21-0624-01",
+    "name": "リリース記念ガチャPt",
+    "assetId": "gacha-point",
+    "description": "該当するガチャページの「ガチャPt」から\nガチャPtを消費してアイドルを獲得できる",
+    "howToGet": "ガチャ",
+    "type": 9,
+    "value": 1,
+    "order": 140
+  },
+  {
+    "id": "item-gacha_point-limited-21-0630",
+    "name": "琉球の楽園ガチャPt",
+    "assetId": "gacha-point",
+    "description": "該当するガチャページの「ガチャPt」から\nガチャPtを消費してアイドルを獲得できる",
+    "howToGet": "ガチャ",
+    "type": 9,
+    "value": 1,
+    "order": 140
+  },
+  {
+    "id": "item-gacha_point-limited-21-0731",
+    "name": "月の夏恋ガチャPt",
+    "assetId": "gacha-point",
+    "description": "該当するガチャページの「ガチャPt」から\nガチャPtを消費してアイドルを獲得できる",
+    "howToGet": "ガチャ",
+    "type": 9,
+    "value": 1,
+    "order": 140
+  },
+  {
+    "id": "item-gacha_point-limited-21-0831",
+    "name": "ラブサインはさりげなくガチャPt",
+    "assetId": "gacha-point",
+    "description": "該当するガチャページの「ガチャPt」から\nガチャPtを消費してアイドルを獲得できる",
+    "howToGet": "ガチャ",
+    "type": 9,
+    "value": 1,
+    "order": 140
+  },
+  {
+    "id": "item-gacha_point-limited-21-1004",
+    "name": "白と黒の祝福ガチャPt",
+    "assetId": "gacha-point",
+    "description": "該当するガチャページの「ガチャPt」から\nガチャPtを消費してアイドルを獲得できる",
+    "howToGet": "ガチャ",
+    "type": 9,
+    "value": 1,
+    "order": 140
+  },
+  {
+    "id": "item-gacha_point-limited-21-1031",
+    "name": "熱帯びるくまさんガチャPt",
+    "assetId": "gacha-point",
+    "description": "該当するガチャページの「ガチャPt」から\nガチャPtを消費してアイドルを獲得できる",
+    "howToGet": "ガチャ",
+    "type": 9,
+    "value": 1,
+    "order": 140
+  },
+  {
+    "id": "item-gacha_point-lm-set-bloom-21-1130",
+    "name": "この瞬間に灯る想いガチャPt",
+    "assetId": "gacha-point",
+    "description": "該当するガチャページの「ガチャPt」から\nガチャPtを消費してアイドルを獲得できる",
+    "type": 9,
+    "value": 1,
+    "order": 140
+  },
+  {
+    "id": "item-gacha_point-lm-set-bloom-21-1217",
+    "name": "この瞬間をいつまでもガチャPt",
+    "assetId": "gacha-point",
+    "description": "該当するガチャページの「ガチャPt」から\nガチャPtを消費してアイドルを獲得できる",
+    "type": 9,
+    "value": 1,
+    "order": 140
+  },
+  {
+    "id": "item-gacha_point-lm-set-bloom-22-0103",
+    "name": "SUNNY NEW YEAR ガチャPt",
+    "assetId": "gacha-point",
+    "description": "該当するガチャページの「ガチャPt」から\nガチャPtを消費してアイドルを獲得できる",
+    "type": 9,
+    "value": 1,
+    "order": 140
+  },
+  {
+    "id": "item-gacha_point-lm-set-bloom-22-0131",
+    "name": "Valentine MemoriesガチャPt",
+    "assetId": "gacha-point",
+    "description": "該当するガチャページの「ガチャPt」から\nガチャPtを消費してアイドルを獲得できる",
+    "type": 9,
+    "value": 1,
+    "order": 140
+  },
+  {
+    "id": "item-gacha_point-lm-set-bloom-22-0228",
+    "name": "いつもと違う笑顔でガチャPt",
+    "assetId": "gacha-point",
+    "description": "該当するガチャページの「ガチャPt」から\nガチャPtを消費してアイドルを獲得できる",
+    "type": 9,
+    "value": 1,
+    "order": 140
+  },
+  {
+    "id": "item-gacha_point-lm-set-bloom-22-0404",
+    "name": "宝物はなんですか？ ガチャPt",
+    "assetId": "gacha-point",
+    "description": "該当するガチャページの「ガチャPt」から\nガチャPtを消費してアイドルを獲得できる",
+    "type": 9,
+    "value": 1,
+    "order": 140
+  },
+  {
+    "id": "item-gacha_point-lm-set-bloom-22-0428",
+    "name": "隣にいなくてもガチャPt",
+    "assetId": "gacha-point",
+    "description": "該当するガチャページの「ガチャPt」から\nガチャPtを消費してアイドルを獲得できる",
+    "type": 9,
+    "value": 1,
+    "order": 140
+  },
+  {
+    "id": "item-gacha_point-lm-set-bloom-22-0526",
+    "name": "The SUNガチャPt",
+    "assetId": "gacha-point",
+    "description": "該当するガチャページの「ガチャPt」から\nガチャPtを消費してアイドルを獲得できる",
+    "type": 9,
+    "value": 1,
+    "order": 140
+  },
+  {
+    "id": "item-gacha_point-pick-set-bloom-21-1112",
+    "name": "福招く獅子舞娘ガチャPt",
+    "assetId": "gacha-point",
+    "description": "該当するガチャページの「ガチャPt」から\nガチャPtを消費してアイドルを獲得できる",
+    "howToGet": "ガチャ",
+    "type": 9,
+    "value": 1,
+    "order": 140
+  },
+  {
+    "id": "item-gacha_point-pick-set-bloom-21-1122",
+    "name": "イノセントフラワーガチャPt",
+    "assetId": "gacha-point",
+    "description": "該当するガチャページの「ガチャPt」から\nガチャPtを消費してアイドルを獲得できる",
+    "howToGet": "ガチャ",
+    "type": 9,
+    "value": 1,
+    "order": 140
+  },
+  {
+    "id": "item-gacha_point-pick-set-bloom-22-0120",
+    "name": "咲き乱れる和ロック魂ガチャPt",
+    "assetId": "gacha-point",
+    "description": "該当するガチャページの「ガチャPt」から\nガチャPtを消費してアイドルを獲得できる",
+    "type": 9,
+    "value": 1,
+    "order": 140
+  },
+  {
+    "id": "item-gacha_point-pick-set-bloom-22-0212",
+    "name": "僕なりのバレンタインガチャPt",
+    "assetId": "gacha-point",
+    "description": "該当するガチャページの「ガチャPt」から\nガチャPtを消費してアイドルを獲得できる",
+    "type": 9,
+    "value": 1,
+    "order": 140
+  },
+  {
+    "id": "item-gacha_point-pick-set-bloom-22-0221",
+    "name": "熱帯びる勇気ガチャPt",
+    "assetId": "gacha-point",
+    "description": "該当するガチャページの「ガチャPt」から\nガチャPtを消費してアイドルを獲得できる",
+    "type": 9,
+    "value": 1,
+    "order": 140
+  },
+  {
+    "id": "item-gacha_point-pick-set-bloom-22-0311",
+    "name": "さくらんぼのおねえさんガチャPt",
+    "assetId": "gacha-point",
+    "description": "該当するガチャページの「ガチャPt」から\nガチャPtを消費してアイドルを獲得できる",
+    "type": 9,
+    "value": 1,
+    "order": 140
+  },
+  {
+    "id": "item-gacha_point-pick-set-bloom-22-0321",
+    "name": "福招く十七歳大人ガチャPt",
+    "assetId": "gacha-point",
+    "description": "該当するガチャページの「ガチャPt」から\nガチャPtを消費してアイドルを獲得できる",
+    "type": 9,
+    "value": 1,
+    "order": 140
+  },
+  {
+    "id": "item-gacha_point-pick-set-bloom-22-0420",
+    "name": "追懐の零れ桜ガチャPt",
+    "assetId": "gacha-point",
+    "description": "該当するガチャページの「ガチャPt」から\nガチャPtを消費してアイドルを獲得できる",
+    "type": 9,
+    "value": 1,
+    "order": 140
+  },
+  {
+    "id": "item-gacha_point-pick-set-bloom-22-0511",
+    "name": "君は夏を連れてガチャPt",
+    "assetId": "gacha-point",
+    "description": "該当するガチャページの「ガチャPt」から\nガチャPtを消費してアイドルを獲得できる",
+    "type": 9,
+    "value": 1,
+    "order": 140
+  },
+  {
+    "id": "item-gacha_point-pick-set-bloom-22-0520",
+    "name": "AIM YOUR HEARTガチャPt",
+    "assetId": "gacha-point",
+    "description": "該当するガチャページの「ガチャPt」から\nガチャPtを消費してアイドルを獲得できる",
+    "type": 9,
+    "value": 1,
+    "order": 140
+  },
+  {
+    "id": "item-gacha_point-pickup-21-0712",
+    "name": "光射す海宴ガチャPt",
+    "assetId": "gacha-point",
+    "description": "該当するガチャページの「ガチャPt」から\nガチャPtを消費してアイドルを獲得できる",
+    "howToGet": "ガチャ",
+    "type": 9,
+    "value": 1,
+    "order": 140
+  },
+  {
+    "id": "item-gacha_point-pickup-21-0721",
+    "name": "砂上の天姫ガチャPt",
+    "assetId": "gacha-point",
+    "description": "該当するガチャページの「ガチャPt」から\nガチャPtを消費してアイドルを獲得できる",
+    "howToGet": "ガチャ",
+    "type": 9,
+    "value": 1,
+    "order": 140
+  },
+  {
+    "id": "item-gacha_point-pickup-21-0811",
+    "name": "鳴き砂の渚ガチャPt",
+    "assetId": "gacha-point",
+    "description": "該当するガチャページの「ガチャPt」から\nガチャPtを消費してアイドルを獲得できる",
+    "howToGet": "ガチャ",
+    "type": 9,
+    "value": 1,
+    "order": 140
+  },
+  {
+    "id": "item-gacha_point-pickup-21-0820",
+    "name": "麗しのフロートガチャPt",
+    "assetId": "gacha-point",
+    "description": "該当するガチャページの「ガチャPt」から\nガチャPtを消費してアイドルを獲得できる",
+    "howToGet": "ガチャ",
+    "type": 9,
+    "value": 1,
+    "order": 140
+  },
+  {
+    "id": "item-gacha_point-pickup-21-0910",
+    "name": "薔薇の幕劇ガチャPt",
+    "assetId": "gacha-point",
+    "description": "該当するガチャページの「ガチャPt」から\nガチャPtを消費してアイドルを獲得できる",
+    "howToGet": "ガチャ",
+    "type": 9,
+    "value": 1,
+    "order": 140
+  },
+  {
+    "id": "item-gacha_point-pickup-21-0915",
+    "name": "★5ビジュアルガチャPt",
+    "assetId": "gacha-point",
+    "description": "該当するガチャページの「ガチャPt」から\nガチャPtを消費してアイドルを獲得できる",
+    "howToGet": "ガチャ",
+    "type": 9,
+    "value": 1,
+    "order": 140
+  },
+  {
+    "id": "item-gacha_point-pickup-21-0921",
+    "name": "熱帯びる狂踏ガチャPt",
+    "assetId": "gacha-point",
+    "description": "該当するガチャページの「ガチャPt」から\nガチャPtを消費してアイドルを獲得できる",
+    "howToGet": "ガチャ",
+    "type": 9,
+    "value": 1,
+    "order": 140
+  },
+  {
+    "id": "item-gacha_point-pickup-21-1012",
+    "name": "★5ボーカルガチャPt",
+    "assetId": "gacha-point",
+    "description": "該当するガチャページの「ガチャPt」から\nガチャPtを消費してアイドルを獲得できる",
+    "howToGet": "ガチャ",
+    "type": 9,
+    "value": 1,
+    "order": 140
+  },
+  {
+    "id": "item-gacha_point-pickup-21-1020",
+    "name": "トリックオアナースガチャPt",
+    "assetId": "gacha-point",
+    "description": "該当するガチャページの「ガチャPt」から\nガチャPtを消費してアイドルを獲得できる",
+    "howToGet": "ガチャ",
+    "type": 9,
+    "value": 1,
+    "order": 140
+  },
+  {
+    "id": "item-gacha_point-pickup-21-1104",
+    "name": "★5スコアラーガチャPt",
+    "assetId": "gacha-point",
+    "description": "該当するガチャページの「ガチャPt」から\nガチャPtを消費してアイドルを獲得できる",
+    "howToGet": "ガチャ",
+    "type": 9,
+    "value": 1,
+    "order": 140
+  },
+  {
+    "id": "item-gacha_point-pickup-21-1116",
+    "name": "★5ビジュアルガチャPt",
+    "assetId": "gacha-point",
+    "description": "該当するガチャページの「ガチャPt」から\nガチャPtを消費してアイドルを獲得できる",
+    "howToGet": "ガチャ",
+    "type": 9,
+    "value": 1,
+    "order": 140
+  },
+  {
+    "id": "item-gacha_point-rev-limited-21-1225",
+    "name": "【復刻】琉球の楽園ガチャPt",
+    "assetId": "gacha-point",
+    "description": "該当するガチャページの「ガチャPt」から\nガチャPtを消費してアイドルを獲得できる",
+    "type": 9,
+    "value": 1,
+    "order": 140
+  },
+  {
+    "id": "item-gacha_point-rev-limited-22-0125",
+    "name": "【復刻】ラブサインはさりげなくガチャPt",
+    "assetId": "gacha-point",
+    "description": "該当するガチャページの「ガチャPt」から\nガチャPtを消費してアイドルを獲得できる",
+    "type": 9,
+    "value": 1,
+    "order": 140
+  },
+  {
+    "id": "item-gacha_point-rev-limited-22-0223",
+    "name": "【復刻】月の夏恋ガチャPt",
+    "assetId": "gacha-point",
+    "description": "該当するガチャページの「ガチャPt」から\nガチャPtを消費してアイドルを獲得できる",
+    "type": 9,
+    "value": 1,
+    "order": 140
+  },
+  {
+    "id": "item-gacha_point-rev-limited-22-0407",
+    "name": "【復刻】ラブサインはさりげなくガチャPt",
+    "assetId": "gacha-point",
+    "description": "該当するガチャページの「ガチャPt」から\nガチャPtを消費してアイドルを獲得できる",
+    "type": 9,
+    "value": 1,
+    "order": 140
+  },
+  {
+    "id": "item-gacha_point-rev-limited-22-0523",
+    "name": "【復刻】熱帯びるくまさんガチャPt",
+    "assetId": "gacha-point",
+    "description": "該当するガチャページの「ガチャPt」から\nガチャPtを消費してアイドルを獲得できる",
+    "type": 9,
+    "value": 1,
+    "order": 140
+  },
+  {
+    "id": "item-gacha_point-rev-select-01-22-0324",
+    "name": "選べる★5水着ガチャPt",
+    "assetId": "gacha-point",
+    "description": "該当するガチャページの「ガチャPt」から\nガチャPtを消費してアイドルを獲得できる",
+    "type": 9,
+    "value": 1,
+    "order": 140
+  },
+  {
+    "id": "item-gacha_point-select-01-21-1206",
+    "name": "選べる★5バッファーガチャPt",
+    "assetId": "gacha-point",
+    "description": "該当するガチャページの「ガチャPt」から\nガチャPtを消費してアイドルを獲得できる",
+    "type": 9,
+    "value": 1,
+    "order": 140
+  },
+  {
+    "id": "item-gacha_point-select-01-21-1213",
+    "name": "選べる★5ダンスガチャPt",
+    "assetId": "gacha-point",
+    "description": "該当するガチャページの「ガチャPt」から\nガチャPtを消費してアイドルを獲得できる",
+    "type": 9,
+    "value": 1,
+    "order": 140
+  },
+  {
+    "id": "item-gacha_point-select-01-22-0112",
+    "name": "選べる★5サポーターガチャPt",
+    "assetId": "gacha-point",
+    "description": "該当するガチャページの「ガチャPt」から\nガチャPtを消費してアイドルを獲得できる",
+    "type": 9,
+    "value": 1,
+    "order": 140
+  },
+  {
+    "id": "item-gacha_point-select-01-22-0207",
+    "name": "選べる★5スコアラーガチャPt",
+    "assetId": "gacha-point",
+    "description": "該当するガチャページの「ガチャPt」から\nガチャPtを消費してアイドルを獲得できる",
+    "type": 9,
+    "value": 1,
+    "order": 140
+  },
+  {
+    "id": "item-gacha_point-select-01-22-0314",
+    "name": "選べる★5ボーカルガチャPt",
+    "assetId": "gacha-point",
+    "description": "該当するガチャページの「ガチャPt」から\nガチャPtを消費してアイドルを獲得できる",
+    "type": 9,
+    "value": 1,
+    "order": 140
+  },
+  {
+    "id": "item-gacha_point-select-01-22-0423",
+    "name": "選べる★5ビジュアルガチャPt",
+    "assetId": "gacha-point",
+    "description": "該当するガチャページの「ガチャPt」から\nガチャPtを消費してアイドルを獲得できる",
+    "type": 9,
+    "value": 1,
+    "order": 140
+  },
+  {
+    "id": "item-gacha_point-select-01-22-0513",
+    "name": "選べる★5サポーターガチャPt",
+    "assetId": "gacha-point",
+    "description": "該当するガチャページの「ガチャPt」から\nガチャPtを消費してアイドルを獲得できる",
+    "type": 9,
+    "value": 1,
+    "order": 140
+  },
+  {
+    "id": "item-gacha_ticket",
+    "name": "ガチャチケ",
+    "assetId": "gacha-ticket-normal",
+    "description": "有効期限：入手後180日\nガチャを引くことができる",
+    "howToGet": "イベントなど",
+    "type": 8,
+    "value": 1,
+    "order": 150
+  },
+  {
+    "id": "item-gacha_ticket-r5",
+    "name": "★5確定ガチャチケ",
+    "assetId": "gacha-ticket-r5",
+    "description": "有効期限：入手後180日\n★5確定ガチャを引くことができる",
+    "howToGet": "ショップなど",
+    "type": 8,
+    "value": 1,
+    "order": 140
+  },
+  {
+    "id": "item-gacha_ticket_piece",
+    "name": "ガチャ補助券",
+    "assetId": "gacha-ticket-piece",
+    "description": "30枚で補助券ガチャを1回引くことができる",
+    "howToGet": "ハイスコアライブなど",
+    "type": 8,
+    "value": 1,
+    "order": 150
+  },
+  {
+    "id": "item-gacha_ticket_piece-area-01",
+    "name": "プロモガチャ補助券",
+    "assetId": "gacha-ticket-piece-area-01",
+    "description": "30枚でプロモーションガチャを1回引くことができる",
+    "howToGet": "プロモーション",
+    "type": 8,
+    "value": 1,
+    "order": 230
+  },
+  {
+    "id": "item-gacha_ticket_piece-area-02",
+    "name": "ファンイベガチャ補助券",
+    "assetId": "gacha-ticket-piece-area-02",
+    "description": "30枚でファンイベントガチャを1回引くことができる",
+    "howToGet": "ファンイベント",
+    "type": 8,
+    "value": 1,
+    "order": 240
+  },
+  {
+    "id": "item-gacha_ticket_piece-r5",
+    "name": "★5確定ガチャ補助券",
+    "assetId": "gacha-ticket-piece-5",
+    "description": "30枚で★5確定補助券ガチャを1回引くことができる",
+    "howToGet": "VENUSタワーなど",
+    "type": 8,
+    "value": 1,
+    "order": 100
+  },
+  {
+    "id": "item-ladder_pt_22-0513",
+    "name": "メッセPt",
+    "assetId": "ladder-pt",
+    "description": "メッセージミッションで報酬を獲得することができます\nイベント終了後はコインに変換されます",
+    "howToGet": "メッセージミッション、自主トレ、プロモーション、ファンイベントなど",
+    "type": 8001,
+    "value": 1,
+    "order": 100
+  },
+  {
+    "id": "item-marathon_medal-21-0930",
+    "name": "リンクスメダル",
+    "assetId": "medal-marathon",
+    "description": "BOXガチャを引くことができます\nイベント終了後はコインに変換されます",
+    "howToGet": "リンクスイベント",
+    "type": 4001,
+    "value": 1,
+    "order": 1000
+  },
+  {
+    "id": "item-marathon_medal-21-1130",
+    "name": "リンクスメダル",
+    "assetId": "medal-marathon",
+    "description": "BOXガチャを引くことができます\nイベント終了後はコインに変換されます",
+    "howToGet": "リンクスイベント",
+    "type": 4001,
+    "value": 1,
+    "order": 1000
+  },
+  {
+    "id": "item-marathon_medal-22-0131",
+    "name": "リンクスメダル",
+    "assetId": "medal-marathon",
+    "description": "BOXガチャを引くことができます\nイベント終了後はコインに変換されます",
+    "howToGet": "リンクスイベント",
+    "type": 4001,
+    "value": 1,
+    "order": 1000
+  },
+  {
+    "id": "item-marathon_medal-22-0526",
+    "name": "リンクスメダル",
+    "assetId": "medal-marathon",
+    "description": "BOXガチャを引くことができます\nイベント終了後はコインに変換されます",
+    "howToGet": "リンクスイベント",
+    "type": 4001,
+    "value": 1,
+    "order": 1000
+  },
+  {
+    "id": "item-marathon_quest_unlock-21-0930",
+    "name": "解放Pt",
+    "assetId": "marathon-release-pt",
+    "description": "リンクスイベントの解放Ptです\nイベント終了後はコインに変換されます",
+    "howToGet": "リンクスイベント",
+    "type": 5002,
+    "value": 1,
+    "order": 1002
+  },
+  {
+    "id": "item-marathon_quest_unlock-21-1130",
+    "name": "解放Pt",
+    "assetId": "marathon-release-pt",
+    "description": "リンクスイベントの解放Ptです\nイベント終了後はコインに変換されます",
+    "howToGet": "リンクスイベント",
+    "type": 5002,
+    "value": 1,
+    "order": 1002
+  },
+  {
+    "id": "item-marathon_quest_unlock-22-0131",
+    "name": "解放Pt",
+    "assetId": "marathon-release-pt",
+    "description": "リンクスイベントの解放Ptです\nイベント終了後はコインに変換されます",
+    "howToGet": "リンクスイベント",
+    "type": 5002,
+    "value": 1,
+    "order": 1002
+  },
+  {
+    "id": "item-marathon_quest_unlock-22-0526",
+    "name": "解放Pt",
+    "assetId": "marathon-release-pt",
+    "description": "リンクスイベントの解放Ptです\nイベント終了後はコインに変換されます",
+    "howToGet": "リンクスイベント",
+    "type": 5002,
+    "value": 1,
+    "order": 1002
+  },
+  {
+    "id": "item-marathon_stamina_recovery-21-0930",
+    "name": "リンクスキャンディ",
+    "assetId": "marathon-stamina-recovery",
+    "description": "リンクスイベントの体力を回復します\nイベント終了後はコインに変換されます",
+    "howToGet": "ハイスコアライブ、プロモーション、ファンイベント、ショップなど",
+    "type": 5001,
+    "value": 20,
+    "order": 1001
+  },
+  {
+    "id": "item-marathon_stamina_recovery-21-1130",
+    "name": "リンクスキャンディ",
+    "assetId": "marathon-stamina-recovery",
+    "description": "リンクスイベントの体力を回復します\nイベント終了後はコインに変換されます",
+    "howToGet": "ハイスコアライブ、プロモーション、ファンイベント、ショップなど",
+    "type": 5001,
+    "value": 20,
+    "order": 1001
+  },
+  {
+    "id": "item-marathon_stamina_recovery-22-0131",
+    "name": "リンクスキャンディ",
+    "assetId": "marathon-stamina-recovery",
+    "description": "リンクスイベントの体力を回復します\nイベント終了後はコインに変換されます",
+    "howToGet": "ハイスコアライブ、プロモーション、ファンイベント、ショップなど",
+    "type": 5001,
+    "value": 20,
+    "order": 1001
+  },
+  {
+    "id": "item-marathon_stamina_recovery-22-0526",
+    "name": "リンクスキャンディ",
+    "assetId": "marathon-stamina-recovery",
+    "description": "リンクスイベントの体力を回復します\nイベント終了後はコインに変換されます",
+    "howToGet": "ハイスコアライブ、プロモーション、ファンイベント、ショップなど",
+    "type": 5001,
+    "value": 20,
+    "order": 1001
+  },
+  {
+    "id": "item-mini-marathon_medal-22-0413",
+    "name": "ミニリンクスメダル",
+    "assetId": "medal-marathon",
+    "description": "BOXガチャを引くことができます\nイベント終了後はコインに変換されます",
+    "howToGet": "ミニリンクスイベント",
+    "type": 4001,
+    "value": 1,
+    "order": 1000
+  },
+  {
+    "id": "item-mini-marathon_quest_unlock-22-0413",
+    "name": "解放Pt",
+    "assetId": "marathon-release-pt",
+    "description": "ミニリンクスイベントの解放Ptです\nイベント終了後はコインに変換されます",
+    "howToGet": "ミニリンクスイベント",
+    "type": 5002,
+    "value": 1,
+    "order": 1002
+  },
+  {
+    "id": "item-mini-marathon_stamina_recovery-22-0413",
+    "name": "リンクスキャンディ",
+    "assetId": "marathon-stamina-recovery",
+    "description": "ミニリンクスイベントの体力を回復します\nイベント終了後はコインに変換されます",
+    "howToGet": "ハイスコアライブ、プロモーション、ファンイベントなど",
+    "type": 5001,
+    "value": 20,
+    "order": 1001
+  },
+  {
+    "id": "item-mini-tour_medal-tour-21-0721",
+    "name": "ミニイベントメダル",
+    "assetId": "medal-mini-tour",
+    "description": "ミニイベントメダル交換所で様々なアイテムと交換できる\nイベント終了後も他のアイテムには変換されません",
+    "howToGet": "定例ツアーライブやミニイベント",
+    "type": 3001,
+    "value": 1,
+    "order": 99
+  },
+  {
+    "id": "item-photo_contest_create-22-0328",
+    "name": "イベント現像フィルム",
+    "assetId": "photo-shooting-contest",
+    "description": "フォトオーディションの写真を現像できる\nイベント終了後はコインに変換されます",
+    "howToGet": "フォトオーディション",
+    "type": 6002,
+    "value": 1,
+    "order": 99
+  },
+  {
+    "id": "item-photo_enhance",
+    "name": "アドバンスフィルム",
+    "assetId": "photo-enhance",
+    "description": "フォトの品質アップをすることができる",
+    "howToGet": "イベントなど",
+    "type": 7,
+    "value": 1,
+    "order": 160
+  },
+  {
+    "id": "item-photo_reroll",
+    "name": "リサイクルフィルム",
+    "assetId": "photo-reroll",
+    "description": "フォトの振り直しをすることができる",
+    "howToGet": "フォトの売却",
+    "type": 6,
+    "value": 1,
+    "order": 170
+  },
+  {
+    "id": "item-photo_shooting-01",
+    "name": "撮影フィルムLv.1",
+    "assetId": "photo-shooting-01",
+    "description": "撮影を行うことができる\nLvが高いほど高品質なフォトを獲得できる",
+    "howToGet": "デイリーライブ、プロモーションなど",
+    "type": 11,
+    "value": 1,
+    "order": 230
+  },
+  {
+    "id": "item-photo_shooting-02",
+    "name": "撮影フィルムLv.2",
+    "assetId": "photo-shooting-01",
+    "description": "撮影を行うことができる\nLvが高いほど高品質なフォトを獲得できる",
+    "howToGet": "デイリーライブ、プロモーションなど",
+    "type": 11,
+    "value": 2,
+    "order": 230
+  },
+  {
+    "id": "item-photo_shooting-03",
+    "name": "撮影フィルムLv.3",
+    "assetId": "photo-shooting-01",
+    "description": "撮影を行うことができる\nLvが高いほど高品質なフォトを獲得できる",
+    "howToGet": "デイリーライブ、プロモーションなど",
+    "type": 11,
+    "value": 3,
+    "order": 230
+  },
+  {
+    "id": "item-photo_shooting-03-21-0721",
+    "name": "★5確定撮影フィルムLv.3",
+    "assetId": "photo-shooting-01-r5",
+    "description": "撮影を行うことができる\n★5確定で品質60のフォトを獲得できる",
+    "howToGet": "ショップ",
+    "type": 11,
+    "value": 3,
+    "order": 22
+  },
+  {
+    "id": "item-photo_shooting-04",
+    "name": "撮影フィルムLv.4",
+    "assetId": "photo-shooting-02",
+    "description": "撮影を行うことができる\nLvが高いほど高品質なフォトを獲得できる",
+    "howToGet": "デイリーライブ、プロモーションなど",
+    "type": 11,
+    "value": 4,
+    "order": 230
+  },
+  {
+    "id": "item-photo_shooting-04-21-0831",
+    "name": "★5確定撮影フィルムLv.4",
+    "assetId": "photo-shooting-01-r5-1",
+    "description": "撮影を行うことができる\n★5確定で品質90のフォトを獲得できる",
+    "howToGet": "ショップ",
+    "type": 11,
+    "value": 4,
+    "order": 23
+  },
+  {
+    "id": "item-photo_shooting-04-21-1031",
+    "name": "★5確定撮影フィルムLv.4",
+    "assetId": "photo-shooting-01-r5-1",
+    "description": "撮影を行うことができる\n★5確定で品質100のフォトを獲得できる",
+    "howToGet": "ショップ",
+    "type": 11,
+    "value": 4,
+    "order": 24
+  },
+  {
+    "id": "item-photo_shooting-04-22-0212",
+    "name": "★5確定撮影フィルムLv.5",
+    "assetId": "photo-shooting-01-r5-2",
+    "description": "撮影を行うことができる\n★5確定で品質120のフォトを獲得できる",
+    "howToGet": "ショップ",
+    "type": 11,
+    "value": 5,
+    "order": 24
+  },
+  {
+    "id": "item-photo_shooting-05",
+    "name": "撮影フィルムLv.5",
+    "assetId": "photo-shooting-02",
+    "description": "撮影を行うことができる\nLvが高いほど高品質なフォトを獲得できる",
+    "howToGet": "デイリーライブ、プロモーションなど",
+    "type": 11,
+    "value": 5,
+    "order": 230
+  },
+  {
+    "id": "item-photo_shooting-06",
+    "name": "撮影フィルムLv.6",
+    "assetId": "photo-shooting-02",
+    "description": "撮影を行うことができる\nLvが高いほど高品質なフォトを獲得できる",
+    "howToGet": "デイリーライブなど",
+    "type": 11,
+    "value": 6,
+    "order": 230
+  },
+  {
+    "id": "item-photo_shooting-07",
+    "name": "撮影フィルムLv.7",
+    "assetId": "photo-shooting-03",
+    "description": "撮影を行うことができる\nLvが高いほど高品質なフォトを獲得できる",
+    "howToGet": "デイリーライブなど",
+    "type": 11,
+    "value": 7,
+    "order": 230
+  },
+  {
+    "id": "item-photo_shooting-08",
+    "name": "撮影フィルムLv.8",
+    "assetId": "photo-shooting-03",
+    "description": "撮影を行うことができる\nLvが高いほど高品質なフォトを獲得できる",
+    "howToGet": "VENUSタワーなど",
+    "type": 11,
+    "value": 8,
+    "order": 23
+  },
+  {
+    "id": "item-photo_shooting_level_change-01",
+    "name": "MLv撮影フィルム",
+    "assetId": "photo-shooting-level-change",
+    "description": "撮影を行うことができる\n現像時のマネージャーLvに応じた品質のフォトを獲得できます。\n[最大品質:150]",
+    "howToGet": "イベントなど",
+    "type": 13,
+    "value": 5,
+    "order": 240
+  },
+  {
+    "id": "item-promo_lottery-ticket-0328-01",
+    "name": "アイプラ宝くじ抽選券",
+    "assetId": "lottery-ticket-22-0328",
+    "description": "所持しているだけでアイプラ宝くじに参加できる\n詳細はお知らせやTwitterをご確認ください\n期間終了後はレッスンパス×1に変換されます",
+    "howToGet": "3/28 12:00~3/29 11:59にログイン",
+    "type": 3001,
+    "value": 1,
+    "order": 2001
+  },
+  {
+    "id": "item-promo_lottery-ticket-0328-02",
+    "name": "アイプラ宝くじ抽選券",
+    "assetId": "lottery-ticket-22-0328",
+    "description": "所持しているだけでアイプラ宝くじに参加できる\n詳細はお知らせやTwitterをご確認ください\n期間終了後はレッスンパス×1に変換されます",
+    "howToGet": "3/29 12:00~3/30 11:59にログイン",
+    "type": 3001,
+    "value": 1,
+    "order": 2002
+  },
+  {
+    "id": "item-promo_lottery-ticket-0328-03",
+    "name": "アイプラ宝くじ抽選券",
+    "assetId": "lottery-ticket-22-0328",
+    "description": "所持しているだけでアイプラ宝くじに参加できる\n詳細はお知らせやTwitterをご確認ください\n期間終了後はレッスンパス×1に変換されます",
+    "howToGet": "3/30 12:00~3/31 11:59にログイン",
+    "type": 3001,
+    "value": 1,
+    "order": 2003
+  },
+  {
+    "id": "item-promo_lottery-ticket-0328-04",
+    "name": "アイプラ宝くじ抽選券",
+    "assetId": "lottery-ticket-22-0328",
+    "description": "所持しているだけでアイプラ宝くじに参加できる\n詳細はお知らせやTwitterをご確認ください\n期間終了後はレッスンパス×1に変換されます",
+    "howToGet": "3/31 12:00~4/1 11:59にログイン",
+    "type": 3001,
+    "value": 1,
+    "order": 2004
+  },
+  {
+    "id": "item-promo_lottery-ticket-0328-05",
+    "name": "アイプラ宝くじ抽選券",
+    "assetId": "lottery-ticket-22-0328",
+    "description": "所持しているだけでアイプラ宝くじに参加できる\n詳細はお知らせやTwitterをご確認ください\n期間終了後はレッスンパス×1に変換されます",
+    "howToGet": "4/1 12:00~4/2 11:59にログイン",
+    "type": 3001,
+    "value": 1,
+    "order": 2005
+  },
+  {
+    "id": "item-promo_lottery-ticket-prize-0328-01",
+    "name": "アイプラ宝くじ1等当選券",
+    "assetId": "lottery-ticket-prize-22-0328",
+    "description": "アイプラ宝くじ1等当選券です\nお知らせやTwitterから必要情報入力サイトをご確認ください\n入力期限：4/15 23:59",
+    "howToGet": "アイプラ宝くじに当選",
+    "type": 3001,
+    "value": 1,
+    "order": 2001
+  },
+  {
+    "id": "item-promo_lottery-ticket-prize-0328-02",
+    "name": "アイプラ宝くじ2等当選券",
+    "assetId": "lottery-ticket-prize-22-0328",
+    "description": "アイプラ宝くじ2等当選券です\nお知らせやTwitterから必要情報入力サイトをご確認ください\n入力期限：4/15 23:59",
+    "howToGet": "アイプラ宝くじに当選",
+    "type": 3001,
+    "value": 1,
+    "order": 2002
+  },
+  {
+    "id": "item-promo_lottery-ticket-prize-0328-03",
+    "name": "アイプラ宝くじ3等当選券",
+    "assetId": "lottery-ticket-prize-22-0328",
+    "description": "アイプラ宝くじ3等当選券です\nお知らせやTwitterから必要情報入力サイトをご確認ください\n入力期限：4/15 23:59",
+    "howToGet": "アイプラ宝くじに当選",
+    "type": 3001,
+    "value": 1,
+    "order": 2003
+  },
+  {
+    "id": "item-pvp_ticket",
+    "name": "バトルパス",
+    "assetId": "pvp-ticket",
+    "description": "有効期限：入手後180日\nVENUSバトルに挑戦できる",
+    "howToGet": "マーケットなど",
+    "type": 2005,
+    "value": 1,
+    "order": 250
+  },
+  {
+    "id": "item-quest_contest_ticket",
+    "name": "ハイスコアパス",
+    "assetId": "quest-contest-ticket",
+    "description": "ハイスコアライブの挑戦やユニオンライブの再挑戦に使用できる",
+    "howToGet": "ファンイベント、メインライブなど",
+    "type": 2004,
+    "value": 1,
+    "order": 180
+  },
+  {
+    "id": "item-race_medal-22-0228",
+    "name": "レースメダル",
+    "assetId": "medal-race",
+    "description": "ライブボーナスを習得・強化することができます\nイベント終了後は消失します",
+    "howToGet": "VENUSレース",
+    "type": 3001,
+    "value": 1,
+    "order": 1000
+  },
+  {
+    "id": "item-race_medal-22-0428",
+    "name": "レースメダル",
+    "assetId": "medal-race",
+    "description": "ライブボーナスを習得・強化することができます\nイベント終了後は消失します",
+    "howToGet": "VENUSレース",
+    "type": 3001,
+    "value": 1,
+    "order": 1000
+  },
+  {
+    "id": "item-race_point-22-0228",
+    "name": "レースPt",
+    "assetId": "race-pt",
+    "description": "マスを進めたりVENUSステージに挑戦することができます\nイベント終了後は消失します",
+    "howToGet": "VENUSレース",
+    "type": 7001,
+    "value": 1,
+    "order": 1001
+  },
+  {
+    "id": "item-race_point-22-0428",
+    "name": "レースPt",
+    "assetId": "race-pt",
+    "description": "マスを進めたりVENUSステージに挑戦することができます\nイベント終了後は消失します",
+    "howToGet": "VENUSレース",
+    "type": 7001,
+    "value": 1,
+    "order": 1001
+  },
+  {
+    "id": "item-race_reset-live-bonus-22-0228",
+    "name": "ボーナスイレイザー",
+    "assetId": "race-bonus-reset",
+    "description": "習得・強化したライブボーナスをリセットすることができます\nイベント終了後は消失します",
+    "howToGet": "VENUSレース",
+    "type": 7002,
+    "value": 1,
+    "order": 1002
+  },
+  {
+    "id": "item-race_reset-live-bonus-22-0428",
+    "name": "ボーナスイレイザー",
+    "assetId": "race-bonus-reset",
+    "description": "習得・強化したライブボーナスをリセットすることができます\nイベント終了後は消失します",
+    "howToGet": "VENUSレース",
+    "type": 7002,
+    "value": 1,
+    "order": 1002
+  },
+  {
+    "id": "item-rarity_exp_medal-21-1228",
+    "name": "開花Ptメダル",
+    "assetId": "medal-rarity_exp",
+    "description": "開花Ptメダル交換所で一部アイドルの開花Ptと交換できる",
+    "howToGet": "ショップなど",
+    "type": 3001,
+    "value": 1,
+    "order": 145
+  },
+  {
+    "id": "item-tour_medal-tour-21-0630",
+    "name": "ツアーメダル",
+    "assetId": "medal-tour",
+    "description": "ツアーメダル交換所で様々なアイテムと交換できる\nイベント終了後はコインに変換されます",
+    "howToGet": "ツアーライブ",
+    "type": 3001,
+    "value": 1,
+    "order": 99
+  },
+  {
+    "id": "item-tour_medal-tour-21-0731",
+    "name": "ツアーメダル",
+    "assetId": "medal-tour",
+    "description": "ツアーメダル交換所で様々なアイテムと交換できる\nイベント終了後はコインに変換されます",
+    "howToGet": "ツアーライブ",
+    "type": 3001,
+    "value": 1,
+    "order": 99
+  }
+]

@@ -1,0 +1,54 @@
+[
+  {
+    "id": "act-ref-01",
+    "name": "休息",
+    "unlockConditionId": "cd-clear-area-main-009",
+    "order": 1,
+    "levels": [
+      {
+        "level": 1,
+        "name": "カフェ"
+      },
+      {
+        "level": 2,
+        "name": "ショッピング",
+        "unlockConditionId": "cd-clear-area-main-021"
+      },
+      {
+        "level": 3,
+        "name": "岩盤浴",
+        "viewConditionId": "cd-clear-area-main-026",
+        "unlockConditionId": "cd-clear-area-main-030"
+      },
+      {
+        "level": 4,
+        "name": "カラオケ",
+        "viewConditionId": "cd-clear-area-main-035",
+        "unlockConditionId": "cd-clear-area-main-061"
+      }
+    ]
+  },
+  {
+    "id": "act-ref-02",
+    "name": "休暇",
+    "unlockConditionId": "cd-clear-area-main-014",
+    "order": 2,
+    "levels": [
+      {
+        "level": 1,
+        "name": "寮で過ごす"
+      },
+      {
+        "level": 2,
+        "name": "テーマパーク",
+        "unlockConditionId": "cd-clear-area-main-026"
+      },
+      {
+        "level": 3,
+        "name": "温泉",
+        "viewConditionId": "cd-clear-area-main-026",
+        "unlockConditionId": "cd-clear-area-main-035"
+      }
+    ]
+  }
+]

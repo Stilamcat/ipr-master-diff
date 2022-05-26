@@ -1,0 +1,512 @@
+[
+  {
+    "id": "st-eve-2107-tour",
+    "assetId": "event-tour-21-0630",
+    "name": "雨上がりの太陽と共に",
+    "description": "雨上がりの太陽と共に",
+    "order": 970,
+    "episodes": [
+      {
+        "episode": 1,
+        "assetId": "event_2107_01_01",
+        "storyId": "st-eve-2107-tour-001",
+        "unlockConditionId": "cd-event-story-read-001"
+      },
+      {
+        "episode": 2,
+        "assetId": "event_2107_01_02",
+        "storyId": "st-eve-2107-tour-002",
+        "unlockConditionId": "cd-tour-area_clear-01-21-0630"
+      },
+      {
+        "episode": 3,
+        "assetId": "event_2107_01_03",
+        "storyId": "st-eve-2107-tour-003",
+        "unlockConditionId": "cd-tour-area_clear-02-21-0630"
+      },
+      {
+        "episode": 4,
+        "assetId": "event_2107_01_04",
+        "storyId": "st-eve-2107-tour-004",
+        "unlockConditionId": "cd-tour-area_clear-03-21-0630"
+      },
+      {
+        "episode": 5,
+        "assetId": "event_2107_01_05",
+        "storyId": "st-eve-2107-tour-005",
+        "unlockConditionId": "cd-tour-area_clear-04-21-0630"
+      }
+    ]
+  },
+  {
+    "id": "st-eve-2108-tour",
+    "assetId": "event-tour-21-0731",
+    "name": "月夜に輝く恋の魔法",
+    "description": "月夜に輝く恋の魔法",
+    "order": 980,
+    "viewConditionId": "cd-event-story-0731",
+    "episodes": [
+      {
+        "episode": 1,
+        "assetId": "event_2108_01_01",
+        "storyId": "st-eve-2108-tour-001",
+        "unlockConditionId": "cd-event-story-read-001-0731-0818"
+      },
+      {
+        "episode": 2,
+        "assetId": "event_2108_01_02",
+        "storyId": "st-eve-2108-tour-002",
+        "unlockConditionId": "cd-tour-area_clear-01-21-0731"
+      },
+      {
+        "episode": 3,
+        "assetId": "event_2108_01_03",
+        "storyId": "st-eve-2108-tour-003",
+        "unlockConditionId": "cd-tour-area_clear-02-21-0731"
+      },
+      {
+        "episode": 4,
+        "assetId": "event_2108_01_04",
+        "storyId": "st-eve-2108-tour-004",
+        "unlockConditionId": "cd-tour-area_clear-03-21-0731"
+      },
+      {
+        "episode": 5,
+        "assetId": "event_2108_01_05",
+        "storyId": "st-eve-2108-tour-005",
+        "unlockConditionId": "cd-tour-area_clear-04-21-0731"
+      }
+    ]
+  },
+  {
+    "id": "st-eve-2109-backside",
+    "assetId": "event-backside-21-0831",
+    "name": "芽吹く黒ユリの蕾",
+    "description": "芽吹く黒ユリの蕾",
+    "order": 990,
+    "viewConditionId": "cd-event-story-0831",
+    "episodes": [
+      {
+        "episode": 1,
+        "assetId": "event_2109_01_01",
+        "storyId": "st-eve-2109-backside-001",
+        "unlockConditionId": "cd-event-story-read-001-0831-0918"
+      },
+      {
+        "episode": 2,
+        "assetId": "event_2109_01_02",
+        "storyId": "st-eve-2109-backside-002",
+        "unlockConditionId": "cd-backside-area_clear-rehearsal-practice-21-0831"
+      },
+      {
+        "episode": 3,
+        "assetId": "event_2109_01_03",
+        "storyId": "st-eve-2109-backside-003",
+        "unlockConditionId": "cd-backside-area_clear-04-21-0831"
+      },
+      {
+        "episode": 4,
+        "assetId": "event_2109_01_04",
+        "storyId": "st-eve-2109-backside-004",
+        "unlockConditionId": "cd-backside-area_clear-real-practice-21-0831"
+      },
+      {
+        "episode": 5,
+        "assetId": "event_2109_01_05",
+        "storyId": "st-eve-2109-backside-005",
+        "unlockConditionId": "cd-backside-area_clear-real-practice-04-21-0831"
+      }
+    ]
+  },
+  {
+    "id": "st-eve-2110-marathon",
+    "assetId": "event-marathon-21-0930",
+    "name": "煌めく奇跡をもう一度",
+    "description": "煌めく奇跡をもう一度",
+    "order": 1000,
+    "viewConditionId": "cd-event-story-0930",
+    "episodes": [
+      {
+        "episode": 1,
+        "assetId": "event_2110_01_01",
+        "storyId": "st-eve-2110-marathon-001",
+        "unlockConditionId": "cd-event-story-read-001-0930-1016-1"
+      },
+      {
+        "episode": 2,
+        "assetId": "event_2110_01_02",
+        "storyId": "st-eve-2110-marathon-002",
+        "unlockConditionId": "cd-event-story-read-001-0930-1016-1"
+      },
+      {
+        "episode": 3,
+        "assetId": "event_2110_01_03",
+        "storyId": "st-eve-2110-marathon-003",
+        "unlockConditionId": "cd-st-eve-2108-marathon-001"
+      },
+      {
+        "episode": 4,
+        "assetId": "event_2110_01_04",
+        "storyId": "st-eve-2110-marathon-004",
+        "unlockConditionId": "cd-st-eve-2108-marathon-002"
+      },
+      {
+        "episode": 5,
+        "assetId": "event_2110_01_05",
+        "storyId": "st-eve-2110-marathon-005",
+        "unlockConditionId": "cd-st-eve-2108-marathon-003"
+      },
+      {
+        "episode": 6,
+        "assetId": "event_2110_01_06",
+        "storyId": "st-eve-2110-marathon-006",
+        "unlockConditionId": "cd-st-eve-2108-marathon-004"
+      }
+    ]
+  },
+  {
+    "id": "st-eve-2111-backside",
+    "assetId": "event-backside-21-1031",
+    "name": "イベントストーリー",
+    "description": "夢踊るステージに架け橋を",
+    "order": 1100,
+    "viewConditionId": "cd-event-story-1031",
+    "episodes": [
+      {
+        "episode": 1,
+        "assetId": "event_2111_01_01",
+        "storyId": "st-eve-2111-backside-001",
+        "unlockConditionId": "cd-event-story-read-001-1031-1117"
+      },
+      {
+        "episode": 2,
+        "assetId": "event_2111_01_02",
+        "storyId": "st-eve-2111-backside-002",
+        "unlockConditionId": "cd-backside-area_clear-rehearsal-practice-21-1031"
+      },
+      {
+        "episode": 3,
+        "assetId": "event_2111_01_03",
+        "storyId": "st-eve-2111-backside-003",
+        "unlockConditionId": "cd-backside-area_clear-04-21-1031"
+      },
+      {
+        "episode": 4,
+        "assetId": "event_2111_01_04",
+        "storyId": "st-eve-2111-backside-004",
+        "unlockConditionId": "cd-backside-area_clear-real-practice-21-1031"
+      },
+      {
+        "episode": 5,
+        "assetId": "event_2111_01_05",
+        "storyId": "st-eve-2111-backside-005",
+        "unlockConditionId": "cd-backside-area_clear-real-practice-04-21-1031"
+      }
+    ]
+  },
+  {
+    "id": "st-eve-2112-marathon",
+    "assetId": "event-marathon-21-1130",
+    "name": "羽休む聖夜のサプライズ",
+    "description": "羽休む聖夜のサプライズ",
+    "order": 1200,
+    "viewConditionId": "cd-event-story-1130",
+    "episodes": [
+      {
+        "episode": 1,
+        "assetId": "event_2112_01_01",
+        "storyId": "st-eve-2112-marathon-001",
+        "unlockConditionId": "cd-event-story-read-001-1130-1216"
+      },
+      {
+        "episode": 2,
+        "assetId": "event_2112_01_02",
+        "storyId": "st-eve-2112-marathon-002",
+        "unlockConditionId": "cd-st-eve-2112-marathon-001"
+      },
+      {
+        "episode": 3,
+        "assetId": "event_2112_01_03",
+        "storyId": "st-eve-2112-marathon-003",
+        "unlockConditionId": "cd-st-eve-2112-marathon-002"
+      },
+      {
+        "episode": 4,
+        "assetId": "event_2112_01_04",
+        "storyId": "st-eve-2112-marathon-004",
+        "unlockConditionId": "cd-st-eve-2112-marathon-003"
+      },
+      {
+        "episode": 5,
+        "assetId": "event_2112_01_05",
+        "storyId": "st-eve-2112-marathon-005",
+        "unlockConditionId": "cd-st-eve-2112-marathon-004"
+      }
+    ]
+  },
+  {
+    "id": "st-eve-2201-contest",
+    "assetId": "event-contest-21-1228",
+    "name": "昇る初陽に咲く笑顔",
+    "description": "昇る初陽に咲く笑顔",
+    "order": 1300,
+    "viewConditionId": "cd-photo_section-open-22-0103-only",
+    "episodes": [
+      {
+        "episode": 1,
+        "assetId": "event_2201_01_01",
+        "storyId": "st-eve-2201-contest-001",
+        "unlockConditionId": "cd-event-story-read-001-contest-21-1228"
+      },
+      {
+        "episode": 2,
+        "assetId": "event_2201_01_02",
+        "storyId": "st-eve-2201-contest-002",
+        "unlockConditionId": "cd-contest-21-1228-total_submit_count_gte-3"
+      },
+      {
+        "episode": 3,
+        "assetId": "event_2201_01_03",
+        "storyId": "st-eve-2201-contest-003",
+        "unlockConditionId": "cd-contest-21-1228-total_submit_count_gte-10"
+      },
+      {
+        "episode": 4,
+        "assetId": "event_2201_01_04",
+        "storyId": "st-eve-2201-contest-004",
+        "unlockConditionId": "cd-contest-21-1228-total_submit_count_gte-20"
+      },
+      {
+        "episode": 5,
+        "assetId": "event_2201_01_05",
+        "storyId": "st-eve-2201-contest-005",
+        "unlockConditionId": "cd-contest-21-1228-total_submit_count_gte-35"
+      }
+    ]
+  },
+  {
+    "id": "st-eve-2202-marathon",
+    "assetId": "event-marathon-22-0131",
+    "name": "イベントストーリー",
+    "description": "心愛溶けるビターチョコレート",
+    "order": 1400,
+    "viewConditionId": "cd-event-story-0131",
+    "episodes": [
+      {
+        "episode": 1,
+        "assetId": "event_2202_01_01",
+        "storyId": "st-eve-2202-marathon-001",
+        "unlockConditionId": "cd-event-story-read-001-0131-0217"
+      },
+      {
+        "episode": 2,
+        "assetId": "event_2202_01_02",
+        "storyId": "st-eve-2202-marathon-002",
+        "unlockConditionId": "cd-st-eve-2202-marathon-001",
+        "isAppeal": true
+      },
+      {
+        "episode": 3,
+        "assetId": "event_2202_01_03",
+        "storyId": "st-eve-2202-marathon-003",
+        "unlockConditionId": "cd-st-eve-2202-marathon-002",
+        "isAppeal": true
+      },
+      {
+        "episode": 4,
+        "assetId": "event_2202_01_04",
+        "storyId": "st-eve-2202-marathon-004",
+        "unlockConditionId": "cd-st-eve-2202-marathon-003",
+        "isAppeal": true
+      },
+      {
+        "episode": 5,
+        "assetId": "event_2202_01_05",
+        "storyId": "st-eve-2202-marathon-005",
+        "unlockConditionId": "cd-st-eve-2202-marathon-004",
+        "isAppeal": true
+      }
+    ]
+  },
+  {
+    "id": "st-eve-2203-race",
+    "assetId": "event-race-22-0228",
+    "name": "並び立つ歌姫のフルリール",
+    "description": "並び立つ歌姫のフルリール",
+    "order": 1500,
+    "viewConditionId": "cd-event-story-22-0228",
+    "episodes": [
+      {
+        "episode": 1,
+        "assetId": "event_2203_01_01",
+        "storyId": "st-eve-2203-race-001",
+        "unlockConditionId": "cd-event-race-22-0228-close"
+      },
+      {
+        "episode": 2,
+        "assetId": "event_2203_01_02",
+        "storyId": "st-eve-2203-race-002",
+        "unlockConditionId": "cd-event-race-22-0228-close"
+      },
+      {
+        "episode": 3,
+        "assetId": "event_2203_01_03",
+        "storyId": "st-eve-2203-race-003",
+        "unlockConditionId": "cd-event-race-22-0228-close"
+      },
+      {
+        "episode": 4,
+        "assetId": "event_2203_01_04",
+        "storyId": "st-eve-2203-race-004",
+        "unlockConditionId": "cd-event-race-22-0228-close"
+      },
+      {
+        "episode": 5,
+        "assetId": "event_2203_01_05",
+        "storyId": "st-eve-2203-race-005",
+        "unlockConditionId": "cd-event-race-22-0228-close"
+      },
+      {
+        "episode": 6,
+        "assetId": "event_2203_01_06",
+        "storyId": "st-eve-2203-race-006",
+        "unlockConditionId": "cd-event-race-22-0228-close"
+      }
+    ]
+  },
+  {
+    "id": "st-eve-2204-contest",
+    "assetId": "event-contest-22-0328",
+    "name": "愛歌う星の継承者",
+    "description": "愛歌う星の継承者",
+    "order": 1600,
+    "viewConditionId": "cd-event-story-0328",
+    "episodes": [
+      {
+        "episode": 1,
+        "assetId": "event_2204_01_01",
+        "storyId": "st-eve-2204-contest-001",
+        "unlockConditionId": "cd-event-story-read-001-contest-22-0328"
+      },
+      {
+        "episode": 2,
+        "assetId": "event_2204_01_02",
+        "storyId": "st-eve-2204-contest-002",
+        "unlockConditionId": "cd-contest-22-0328-total_submit_count_gte-3",
+        "isAppeal": true
+      },
+      {
+        "episode": 3,
+        "assetId": "event_2204_01_03",
+        "storyId": "st-eve-2204-contest-003",
+        "unlockConditionId": "cd-contest-22-0328-total_submit_count_gte-10",
+        "isAppeal": true
+      },
+      {
+        "episode": 4,
+        "assetId": "event_2204_01_04",
+        "storyId": "st-eve-2204-contest-004",
+        "unlockConditionId": "cd-contest-22-0328-total_submit_count_gte-20",
+        "isAppeal": true
+      },
+      {
+        "episode": 5,
+        "assetId": "event_2204_01_05",
+        "storyId": "st-eve-2204-contest-005",
+        "unlockConditionId": "cd-contest-22-0328-total_submit_count_gte-30",
+        "isAppeal": true
+      },
+      {
+        "episode": 6,
+        "assetId": "event_2204_01_06",
+        "storyId": "st-eve-2204-contest-006",
+        "unlockConditionId": "cd-contest-22-0328-total_submit_count_gte-40",
+        "isAppeal": true
+      }
+    ]
+  },
+  {
+    "id": "st-eve-2205-race",
+    "assetId": "event-race-22-0428",
+    "name": "心紡ぎ合う輝きの競演",
+    "description": "心紡ぎ合う輝きの競演",
+    "order": 1700,
+    "viewConditionId": "cd-event-story-22-0428",
+    "episodes": [
+      {
+        "episode": 1,
+        "assetId": "event_2205_01_01",
+        "storyId": "st-eve-2205-race-001",
+        "unlockConditionId": "cd-event-race-22-0428-close"
+      },
+      {
+        "episode": 2,
+        "assetId": "event_2205_01_02",
+        "storyId": "st-eve-2205-race-002",
+        "unlockConditionId": "cd-event-race-22-0428-close"
+      },
+      {
+        "episode": 3,
+        "assetId": "event_2205_01_03",
+        "storyId": "st-eve-2205-race-003",
+        "unlockConditionId": "cd-event-race-22-0428-close"
+      },
+      {
+        "episode": 4,
+        "assetId": "event_2205_01_04",
+        "storyId": "st-eve-2205-race-004",
+        "unlockConditionId": "cd-event-race-22-0428-close"
+      },
+      {
+        "episode": 5,
+        "assetId": "event_2205_01_05",
+        "storyId": "st-eve-2205-race-005",
+        "unlockConditionId": "cd-event-race-22-0428-close"
+      }
+    ]
+  },
+  {
+    "id": "st-eve-2206-marathon",
+    "assetId": "event-marathon-22-0526",
+    "name": "導きのファンファーレ",
+    "description": "導きのファンファーレ",
+    "order": 1800,
+    "viewConditionId": "cd-event-story-0526",
+    "episodes": [
+      {
+        "episode": 1,
+        "assetId": "event_2206_01_01",
+        "storyId": "st-eve-2206-marathon-001",
+        "unlockConditionId": "cd-event-story-read-001-0526-0612"
+      },
+      {
+        "episode": 2,
+        "assetId": "event_2206_01_02",
+        "storyId": "st-eve-2206-marathon-002",
+        "unlockConditionId": "cd-st-eve-2206-marathon-001",
+        "isAppeal": true
+      },
+      {
+        "episode": 3,
+        "assetId": "event_2206_01_03",
+        "storyId": "st-eve-2206-marathon-003",
+        "unlockConditionId": "cd-st-eve-2206-marathon-002",
+        "isAppeal": true
+      },
+      {
+        "episode": 4,
+        "assetId": "event_2206_01_04",
+        "storyId": "st-eve-2206-marathon-004",
+        "unlockConditionId": "cd-st-eve-2206-marathon-003",
+        "isAppeal": true
+      },
+      {
+        "episode": 5,
+        "assetId": "event_2206_01_05",
+        "storyId": "st-eve-2206-marathon-005",
+        "unlockConditionId": "cd-st-eve-2206-marathon-004",
+        "isAppeal": true
+      }
+    ]
+  }
+]

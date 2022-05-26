@@ -1,0 +1,122 @@
+[
+  {
+    "id": "photo_activity-21-1228-event_stage",
+    "name": "イベントステージ",
+    "type": 1,
+    "thumbAssetId": "event_stage-00",
+    "stageId": "stage-photo-ministage-00",
+    "costumeTypeIds": [
+      "idol",
+      "casl"
+    ],
+    "forceCostumeTypeId": "idol",
+    "photoShootingMotionSetId": "ministage-00",
+    "isDeleteCharacter": true,
+    "order": 1
+  },
+  {
+    "id": "photo_activity-21-1228-hot_spring",
+    "name": "温泉",
+    "type": 2,
+    "thumbAssetId": "hot_spring-00",
+    "stageId": "stage-photo-spa-00",
+    "costumeTypeIds": [
+      "mizg"
+    ],
+    "forceCostumeTypeId": "mizg",
+    "photoShootingMotionSetId": "spa-00",
+    "isDeleteCharacter": true,
+    "order": 4
+  },
+  {
+    "id": "photo_activity-21-1228-radio_distribution",
+    "name": "ラジオ収録",
+    "type": 1,
+    "thumbAssetId": "recording-00",
+    "stageId": "stage-photo-recording-00",
+    "costumeTypeIds": [
+      "idol",
+      "casl",
+      "schl"
+    ],
+    "forceCostumeTypeId": "casl",
+    "photoShootingMotionSetId": "recording-00",
+    "isDeleteCharacter": true,
+    "order": 2
+  },
+  {
+    "id": "photo_activity-21-1228-shopping",
+    "name": "ショッピング",
+    "type": 2,
+    "thumbAssetId": "shopping-00",
+    "stageId": "stage-photo-catstreet-00",
+    "costumeTypeIds": [
+      "casl",
+      "schl",
+      "trng"
+    ],
+    "forceCostumeTypeId": "casl",
+    "photoShootingMotionSetId": "catstreet-00",
+    "isDeleteCharacter": true,
+    "order": 3
+  },
+  {
+    "id": "photo_activity-22-0328-fashion_model-00",
+    "name": "雑誌モデル",
+    "type": 1,
+    "thumbAssetId": "fashion_model-00",
+    "stageId": "stage-photo-studio-01",
+    "costumeTypeIds": [
+      "idol",
+      "casl"
+    ],
+    "forceCostumeTypeId": "casl",
+    "photoShootingMotionSetId": "house-00",
+    "isDeleteCharacter": true,
+    "order": 1
+  },
+  {
+    "id": "photo_activity-22-0328-flyers-00",
+    "name": "チラシ配り",
+    "type": 1,
+    "thumbAssetId": "flyers-00",
+    "stageId": "stage-photo-square-00",
+    "costumeTypeIds": [
+      "idol",
+      "casl",
+      "schl"
+    ],
+    "forceCostumeTypeId": "idol",
+    "photoShootingMotionSetId": "square-00",
+    "isDeleteCharacter": true,
+    "order": 2
+  },
+  {
+    "id": "photo_activity-22-0328-studio-00",
+    "name": "撮影スタジオ",
+    "type": 1,
+    "thumbAssetId": "studio-00",
+    "stageId": "stage-photo-studio-00",
+    "costumeTypeIds": [
+      "casl"
+    ],
+    "forceCostumeTypeId": "casl",
+    "photoShootingMotionSetId": "studio-00",
+    "isDeleteCharacter": true,
+    "order": 4
+  },
+  {
+    "id": "photo_activity-22-0328-video_destribution-00",
+    "name": "番組配信",
+    "type": 1,
+    "thumbAssetId": "video_destribution-00",
+    "stageId": "stage-photo-cooking-00",
+    "costumeTypeIds": [
+      "casl"
+    ],
+    "forceCostumeTypeId": "casl",
+    "photoShootingMotionSetId": "cooking-00",
+    "isDeleteCharacter": true,
+    "order": 5
+  }
+]

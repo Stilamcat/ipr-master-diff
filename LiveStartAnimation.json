@@ -1,0 +1,81 @@
+[
+  {
+    "id": "live-start-anim_01-mna-sp",
+    "characterAmount": 1,
+    "motionAssetIds": [
+      "mot_live_chr_mna_start-003_00_in"
+    ],
+    "voiceAssetGroupId": "live-start-voice_01-mna-sp",
+    "characterIds": [
+      "char-mna"
+    ],
+    "npcCharacterIds": [
+      "char-koh"
+    ],
+    "npcMotionAssetIds": [
+      "mot_live_chr_koh_start-003_01_in"
+    ],
+    "layoutMotionAssetId": "mot_live_start-003_in_layout",
+    "cameraMotionAssetId": "mot_live_start-003_in_cam"
+  },
+  {
+    "id": "live-start-anim_01-other-default",
+    "characterAmount": 1,
+    "motionAssetIds": [
+      "mot_live_chr_cmn_start-002_00_in"
+    ],
+    "voiceAssetGroupId": "live-start-voice_01-other-default",
+    "layoutMotionAssetId": "mot_live_start-002_in_layout",
+    "cameraMotionAssetId": "mot_live_start-002_in_cam"
+  },
+  {
+    "id": "live-start-anim_02-other-default",
+    "characterAmount": 2,
+    "motionAssetIds": [
+      "mot_live_chr_cmn_start-004_00_in",
+      "mot_live_chr_cmn_start-004_01_in"
+    ],
+    "voiceAssetGroupId": "live-start-voice_02-all-default",
+    "layoutMotionAssetId": "mot_live_start-004_in_layout",
+    "cameraMotionAssetId": "mot_live_start-004_in_cam"
+  },
+  {
+    "id": "live-start-anim_03-all-default",
+    "characterAmount": 3,
+    "motionAssetIds": [
+      "mot_live_chr_cmn_start-001_00_in",
+      "mot_live_chr_cmn_start-001_01_in",
+      "mot_live_chr_cmn_start-001_02_in"
+    ],
+    "voiceAssetGroupId": "live-start-voice_05-all-default",
+    "layoutMotionAssetId": "mot_live_start-001_in_layout",
+    "cameraMotionAssetId": "mot_live_start-001_in_cam"
+  },
+  {
+    "id": "live-start-anim_04-all-default",
+    "characterAmount": 4,
+    "motionAssetIds": [
+      "mot_live_chr_cmn_start-001_00_in",
+      "mot_live_chr_cmn_start-001_01_in",
+      "mot_live_chr_cmn_start-001_02_in",
+      "mot_live_chr_cmn_start-001_03_in"
+    ],
+    "voiceAssetGroupId": "live-start-voice_05-all-default",
+    "layoutMotionAssetId": "mot_live_start-001_in_layout",
+    "cameraMotionAssetId": "mot_live_start-001_in_cam"
+  },
+  {
+    "id": "live-start-anim_05-all-default",
+    "characterAmount": 5,
+    "motionAssetIds": [
+      "mot_live_chr_cmn_start-001_00_in",
+      "mot_live_chr_cmn_start-001_01_in",
+      "mot_live_chr_cmn_start-001_02_in",
+      "mot_live_chr_cmn_start-001_03_in",
+      "mot_live_chr_cmn_start-001_04_in"
+    ],
+    "voiceAssetGroupId": "live-start-voice_05-all-default",
+    "layoutMotionAssetId": "mot_live_start-001_in_layout",
+    "cameraMotionAssetId": "mot_live_start-001_in_cam"
+  }
+]

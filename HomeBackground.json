@@ -1,0 +1,240 @@
+[
+  {
+    "homeBackgroundId": "home-bg-lesson-01",
+    "name": "レッスン室背景_予備",
+    "placeType": 4,
+    "backgroundAssetId": "env_home_lesson-01-000-noon",
+    "cameraAssetId": "mot_home_talkcamera-003_in_cam",
+    "priority": 1,
+    "positions": [
+      4.77,
+      0.0,
+      2.44
+    ],
+    "angles": [
+      0.0,
+      49.0,
+      0.0
+    ],
+    "characterCostumeGroupId": "costume-group-home-lesson-00"
+  },
+  {
+    "homeBackgroundId": "home-bg-lesson-01-noon",
+    "name": "レッスン室背景_昼",
+    "placeType": 4,
+    "backgroundAssetId": "env_home_lesson-01-000-noon",
+    "cameraAssetId": "mot_home_talkcamera-003_in_cam",
+    "conditionId": "cd-time-home-noon",
+    "priority": 2,
+    "positions": [
+      4.77,
+      0.0,
+      2.44
+    ],
+    "angles": [
+      0.0,
+      49.0,
+      0.0
+    ],
+    "characterCostumeGroupId": "costume-group-home-lesson-00"
+  },
+  {
+    "homeBackgroundId": "home-bg-office_01",
+    "name": "オフィス背景_予備",
+    "placeType": 3,
+    "backgroundAssetId": "env_home_office-01-000-noon",
+    "cameraAssetId": "mot_home_talkcamera-001_in_cam",
+    "priority": 1,
+    "positions": [
+      7.23,
+      0.0,
+      -1.75
+    ],
+    "angles": [
+      0.0,
+      50.0,
+      0.0
+    ],
+    "characterCostumeGroupId": "costume-group-home-lesson-00"
+  },
+  {
+    "homeBackgroundId": "home-bg-office_01-evening",
+    "name": "オフィス背景_夕方",
+    "placeType": 3,
+    "backgroundAssetId": "env_home_office-01-000-evening",
+    "cameraAssetId": "mot_home_talkcamera-001_in_cam",
+    "conditionId": "cd-time-home-evening",
+    "priority": 2,
+    "positions": [
+      7.23,
+      0.0,
+      -1.75
+    ],
+    "angles": [
+      0.0,
+      50.0,
+      0.0
+    ],
+    "characterCostumeGroupId": "costume-group-home-lesson-00"
+  },
+  {
+    "homeBackgroundId": "home-bg-office_01-night",
+    "name": "オフィス背景_夜",
+    "placeType": 3,
+    "backgroundAssetId": "env_home_office-01-000-night",
+    "cameraAssetId": "mot_home_talkcamera-001_in_cam",
+    "conditionId": "cd-time-home-night",
+    "priority": 2,
+    "positions": [
+      7.23,
+      0.0,
+      -1.75
+    ],
+    "angles": [
+      0.0,
+      50.0,
+      0.0
+    ],
+    "characterCostumeGroupId": "costume-group-home-lesson-00"
+  },
+  {
+    "homeBackgroundId": "home-bg-office_01-noon",
+    "name": "オフィス背景_昼",
+    "placeType": 3,
+    "backgroundAssetId": "env_home_office-01-000-noon",
+    "cameraAssetId": "mot_home_talkcamera-001_in_cam",
+    "conditionId": "cd-time-home-noon",
+    "priority": 2,
+    "positions": [
+      7.23,
+      0.0,
+      -1.75
+    ],
+    "angles": [
+      0.0,
+      50.0,
+      0.0
+    ],
+    "characterCostumeGroupId": "costume-group-home-lesson-00"
+  },
+  {
+    "homeBackgroundId": "home-bg-office_02-evening",
+    "name": "オフィス背景_クリスマス_夕方",
+    "placeType": 3,
+    "backgroundAssetId": "env_home_office-01-001-evening",
+    "cameraAssetId": "mot_home_talkcamera-001_in_cam",
+    "conditionId": "cd-time-home-winter-evening",
+    "priority": 3,
+    "positions": [
+      7.23,
+      0.0,
+      -1.75
+    ],
+    "angles": [
+      0.0,
+      50.0,
+      0.0
+    ],
+    "characterCostumeGroupId": "costume-group-home-lesson-00"
+  },
+  {
+    "homeBackgroundId": "home-bg-office_02-night",
+    "name": "オフィス背景_クリスマス_夜",
+    "placeType": 3,
+    "backgroundAssetId": "env_home_office-01-001-night",
+    "cameraAssetId": "mot_home_talkcamera-001_in_cam",
+    "conditionId": "cd-time-home-winter-night",
+    "priority": 3,
+    "positions": [
+      7.23,
+      0.0,
+      -1.75
+    ],
+    "angles": [
+      0.0,
+      50.0,
+      0.0
+    ],
+    "characterCostumeGroupId": "costume-group-home-lesson-00"
+  },
+  {
+    "homeBackgroundId": "home-bg-office_02-noon",
+    "name": "オフィス背景_クリスマス_昼",
+    "placeType": 3,
+    "backgroundAssetId": "env_home_office-01-001-noon",
+    "cameraAssetId": "mot_home_talkcamera-001_in_cam",
+    "conditionId": "cd-time-home-winter-noon",
+    "priority": 3,
+    "positions": [
+      7.23,
+      0.0,
+      -1.75
+    ],
+    "angles": [
+      0.0,
+      50.0,
+      0.0
+    ],
+    "characterCostumeGroupId": "costume-group-home-lesson-00"
+  },
+  {
+    "homeBackgroundId": "home-bg-office_03-evening",
+    "name": "オフィス背景_正月_夕方",
+    "placeType": 3,
+    "backgroundAssetId": "env_home_office-01-002-evening",
+    "cameraAssetId": "mot_home_talkcamera-001_in_cam",
+    "conditionId": "cd-time-home-newyear-evening",
+    "priority": 3,
+    "positions": [
+      7.23,
+      0.0,
+      -1.75
+    ],
+    "angles": [
+      0.0,
+      50.0,
+      0.0
+    ],
+    "characterCostumeGroupId": "costume-group-home-lesson-00"
+  },
+  {
+    "homeBackgroundId": "home-bg-office_03-night",
+    "name": "オフィス背景_正月_夜",
+    "placeType": 3,
+    "backgroundAssetId": "env_home_office-01-002-night",
+    "cameraAssetId": "mot_home_talkcamera-001_in_cam",
+    "conditionId": "cd-time-home-newyear-night",
+    "priority": 3,
+    "positions": [
+      7.23,
+      0.0,
+      -1.75
+    ],
+    "angles": [
+      0.0,
+      50.0,
+      0.0
+    ],
+    "characterCostumeGroupId": "costume-group-home-lesson-00"
+  },
+  {
+    "homeBackgroundId": "home-bg-office_03-noon",
+    "name": "オフィス背景_正月_昼",
+    "placeType": 3,
+    "backgroundAssetId": "env_home_office-01-002-noon",
+    "cameraAssetId": "mot_home_talkcamera-001_in_cam",
+    "conditionId": "cd-time-home-newyear-noon",
+    "priority": 3,
+    "positions": [
+      7.23,
+      0.0,
+      -1.75
+    ],
+    "angles": [
+      0.0,
+      50.0,
+      0.0
+    ],
+    "characterCostumeGroupId": "costume-group-home-lesson-00"
+  }
+]
