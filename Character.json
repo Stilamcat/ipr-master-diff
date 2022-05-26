@@ -1,0 +1,2770 @@
+[
+  {
+    "id": "char-ai",
+    "assetId": "ai",
+    "characterGroupId": "character_group_4",
+    "order": 16,
+    "name": "小美山愛",
+    "enName": "AI KOMIYAMA",
+    "cv": "寿美菜子",
+    "age": "16歳",
+    "birthday": "2月9日",
+    "height": "164cm",
+    "weight": "51kg",
+    "zodiacSign": "みずがめ座",
+    "hometown": "私立 月出高校 芸能コース",
+    "favorite": "人を笑顔にする事、掃除",
+    "unfavorite": "暗い所、父を馬鹿にする人",
+    "profile": "人を笑顔にすることが大好きな、LizNoirのムードメーカー。こころとは養成所時代からの仲で、よくイジられている。確かな技術力を持っているが、肝心な時にドジをしてしまい莉央から怒られることもしばしば。",
+    "costumeIds": [
+      "cos-ai-casl-00",
+      "cos-ai-casl-01",
+      "cos-ai-idol-00",
+      "cos-ai-idol-02",
+      "cos-ai-kait-00",
+      "cos-ai-mizg-00",
+      "cos-ai-schl-00",
+      "cos-ai-sdam-00",
+      "cos-ai-sdpl-00",
+      "cos-ai-tact-00",
+      "cos-ai-trng-00",
+      "cos-ai-vlnt-00"
+    ],
+    "altCharacters": [
+      {
+        "characterId": "char-aoi",
+        "priority": 1
+      },
+      {
+        "characterId": "char-chs",
+        "priority": 15
+      },
+      {
+        "characterId": "char-hrk",
+        "priority": 13
+      },
+      {
+        "characterId": "char-kkr",
+        "priority": 2
+      },
+      {
+        "characterId": "char-ktn",
+        "priority": 9
+      },
+      {
+        "characterId": "char-mei",
+        "priority": 11
+      },
+      {
+        "characterId": "char-ngs",
+        "priority": 10
+      },
+      {
+        "characterId": "char-rei",
+        "priority": 16
+      },
+      {
+        "characterId": "char-rio",
+        "priority": 3
+      },
+      {
+        "characterId": "char-rui",
+        "priority": 6
+      },
+      {
+        "characterId": "char-ski",
+        "priority": 8
+      },
+      {
+        "characterId": "char-skr",
+        "priority": 14
+      },
+      {
+        "characterId": "char-smr",
+        "priority": 5
+      },
+      {
+        "characterId": "char-suz",
+        "priority": 7
+      },
+      {
+        "characterId": "char-szk",
+        "priority": 12
+      },
+      {
+        "characterId": "char-yu",
+        "priority": 4
+      }
+    ],
+    "defaultCostumeId": "cos-ai-schl-00",
+    "heightCorrectionPermil": 692,
+    "color": "7ECCEE",
+    "activityFanEventWords": [
+      {
+        "word": "ありがたい\nです！",
+        "voiceAssetId": "sud_vo_act_ai_fan-01"
+      },
+      {
+        "word": "会えて\n嬉しいです！",
+        "voiceAssetId": "sud_vo_act_ai_fan-02"
+      },
+      {
+        "word": "また来て\n下さい！",
+        "voiceAssetId": "sud_vo_act_ai_fan-03"
+      }
+    ],
+    "talkArrivalMotionAssetId": "mot_adv_chr_ai_appr-001_in",
+    "personalityType": 2,
+    "simplePersonalityType": 2,
+    "sdPersonalityType": 2,
+    "costumeMotionAssetIds": [
+      "mot_dress_chr_cmn_action-001-b_in",
+      "mot_dress_chr_cmn_action-002-b_in"
+    ],
+    "costumeAdditionMotionAssetIds": [
+      "",
+      ""
+    ],
+    "costumeVoiceAssetIds": [
+      "sud_vo_cmn_ai_dress-01",
+      "sud_vo_cmn_ai_dress-02"
+    ],
+    "psylliumColerType": 8,
+    "shortProfile": "人を笑顔にすることが\n大好きなLizNoirの\nムードメーカー",
+    "threeSize": "B85・W59・H86",
+    "catchphrase": "なるほど！\n腹筋1000回\nすればいいんですね！",
+    "firstName": "愛",
+    "idiom": "真剣",
+    "defaultLiveCostumeId": "cos-ai-schl-00"
+  },
+  {
+    "id": "char-aoi",
+    "assetId": "aoi",
+    "characterGroupId": "character_group_4",
+    "order": 15,
+    "name": "井川葵",
+    "enName": "AOI IGAWA",
+    "cv": "高垣彩陽",
+    "age": "17歳",
+    "birthday": "6月19日",
+    "height": "157cm",
+    "weight": "45kg",
+    "zodiacSign": "ふたご座",
+    "hometown": "私立 月出高校 芸能コース",
+    "favorite": "スイーツ、料理",
+    "unfavorite": "犬",
+    "profile": "感情の起伏が少なく、常に冷静なLizNoirのブレーン。莉央との信頼関係は非常に厚く、活動休止に追い込まれた際も、新メンバーの提案を蹴り彼女を待ち続けた。一度見たダンスをすぐにコピーできる実力者。",
+    "costumeIds": [
+      "cos-aoi-casl-00",
+      "cos-aoi-casl-01",
+      "cos-aoi-idol-00",
+      "cos-aoi-idol-02",
+      "cos-aoi-kait-00",
+      "cos-aoi-mizg-00",
+      "cos-aoi-schl-00",
+      "cos-aoi-sdam-00",
+      "cos-aoi-sdpl-00",
+      "cos-aoi-trng-00",
+      "cos-aoi-vlnt-00"
+    ],
+    "altCharacters": [
+      {
+        "characterId": "char-ai",
+        "priority": 3
+      },
+      {
+        "characterId": "char-chs",
+        "priority": 14
+      },
+      {
+        "characterId": "char-hrk",
+        "priority": 12
+      },
+      {
+        "characterId": "char-kkr",
+        "priority": 1
+      },
+      {
+        "characterId": "char-ktn",
+        "priority": 8
+      },
+      {
+        "characterId": "char-mei",
+        "priority": 10
+      },
+      {
+        "characterId": "char-ngs",
+        "priority": 9
+      },
+      {
+        "characterId": "char-rei",
+        "priority": 15
+      },
+      {
+        "characterId": "char-rio",
+        "priority": 2
+      },
+      {
+        "characterId": "char-rui",
+        "priority": 5
+      },
+      {
+        "characterId": "char-ski",
+        "priority": 7
+      },
+      {
+        "characterId": "char-skr",
+        "priority": 13
+      },
+      {
+        "characterId": "char-smr",
+        "priority": 4
+      },
+      {
+        "characterId": "char-suz",
+        "priority": 11
+      },
+      {
+        "characterId": "char-szk",
+        "priority": 16
+      },
+      {
+        "characterId": "char-yu",
+        "priority": 6
+      }
+    ],
+    "defaultCostumeId": "cos-aoi-schl-00",
+    "heightCorrectionPermil": 154,
+    "color": "6F77CC",
+    "activityFanEventWords": [
+      {
+        "word": "ありがとう。",
+        "voiceAssetId": "sud_vo_act_aoi_fan-01"
+      },
+      {
+        "word": "会えて\nよかったよ。",
+        "voiceAssetId": "sud_vo_act_aoi_fan-02"
+      },
+      {
+        "word": "また来てよ。",
+        "voiceAssetId": "sud_vo_act_aoi_fan-03"
+      }
+    ],
+    "talkArrivalMotionAssetId": "mot_adv_chr_aoi_appr-001_in",
+    "personalityType": 5,
+    "simplePersonalityType": 3,
+    "sdPersonalityType": 5,
+    "costumeMotionAssetIds": [
+      "mot_dress_chr_cmn_action-001-e_in",
+      "mot_dress_chr_cmn_action-002-e_in"
+    ],
+    "costumeAdditionMotionAssetIds": [
+      "",
+      ""
+    ],
+    "costumeVoiceAssetIds": [
+      "sud_vo_cmn_aoi_dress-01",
+      "sud_vo_cmn_aoi_dress-02"
+    ],
+    "isLeftHanded": true,
+    "psylliumColerType": 13,
+    "shortProfile": "感情の起伏が少なく\n常に冷静な\nLizNoirのブレーン",
+    "threeSize": "B79・W57・H75",
+    "catchphrase": "なんでもいいよ。",
+    "firstName": "葵",
+    "idiom": "随意",
+    "defaultLiveCostumeId": "cos-aoi-schl-00"
+  },
+  {
+    "id": "char-chs",
+    "assetId": "chs",
+    "characterGroupId": "character_group_2",
+    "order": 8,
+    "name": "白石千紗",
+    "enName": "CHISA SHIRAISHI",
+    "cv": "高尾奏音",
+    "age": "17歳",
+    "birthday": "11月22日",
+    "height": "147cm",
+    "weight": "39kg",
+    "zodiacSign": "さそり座",
+    "hometown": "公立 光ヶ崎高校",
+    "favorite": "沙季、ホラー",
+    "unfavorite": "白子、牡蠣",
+    "profile": "引っ込み思案で臆病な性格。そんな自分を変えるためアイドルを志した。はじめは姉の後ろをついていくことしかできなかった彼女だが、アイドル活動を通して徐々に自信をつけ、姉と並び自らの足で歩む決意を固めた。",
+    "costumeIds": [
+      "cos-chs-casl-00",
+      "cos-chs-casl-01",
+      "cos-chs-chsk-00",
+      "cos-chs-idol-00",
+      "cos-chs-idol-01",
+      "cos-chs-idol-02",
+      "cos-chs-idol-03",
+      "cos-chs-mizg-00",
+      "cos-chs-mizg-01",
+      "cos-chs-newy-00",
+      "cos-chs-rock-00",
+      "cos-chs-schl-00",
+      "cos-chs-sdam-00",
+      "cos-chs-sdpl-00",
+      "cos-chs-seik-00",
+      "cos-chs-trng-00"
+    ],
+    "altCharacters": [
+      {
+        "characterId": "char-ai",
+        "priority": 16
+      },
+      {
+        "characterId": "char-aoi",
+        "priority": 15
+      },
+      {
+        "characterId": "char-hrk",
+        "priority": 1
+      },
+      {
+        "characterId": "char-kkr",
+        "priority": 13
+      },
+      {
+        "characterId": "char-ktn",
+        "priority": 6
+      },
+      {
+        "characterId": "char-mei",
+        "priority": 8
+      },
+      {
+        "characterId": "char-ngs",
+        "priority": 7
+      },
+      {
+        "characterId": "char-rei",
+        "priority": 3
+      },
+      {
+        "characterId": "char-rio",
+        "priority": 14
+      },
+      {
+        "characterId": "char-rui",
+        "priority": 11
+      },
+      {
+        "characterId": "char-ski",
+        "priority": 5
+      },
+      {
+        "characterId": "char-skr",
+        "priority": 2
+      },
+      {
+        "characterId": "char-smr",
+        "priority": 10
+      },
+      {
+        "characterId": "char-suz",
+        "priority": 9
+      },
+      {
+        "characterId": "char-szk",
+        "priority": 4
+      },
+      {
+        "characterId": "char-yu",
+        "priority": 12
+      }
+    ],
+    "defaultCostumeId": "cos-chs-schl-00",
+    "heightCorrectionPermil": -615,
+    "color": "E7BBD2",
+    "activityFanEventWords": [
+      {
+        "word": "ありがとう\nございます！",
+        "voiceAssetId": "sud_vo_act_chs_fan-01"
+      },
+      {
+        "word": "来てもらえて\n嬉しいです！",
+        "voiceAssetId": "sud_vo_act_chs_fan-02"
+      },
+      {
+        "word": "また来て\n下さいね。",
+        "voiceAssetId": "sud_vo_act_chs_fan-03"
+      }
+    ],
+    "talkArrivalMotionAssetId": "mot_adv_chr_chs_appr-001_in",
+    "personalityType": 2,
+    "simplePersonalityType": 2,
+    "sdPersonalityType": 2,
+    "costumeMotionAssetIds": [
+      "mot_dress_chr_cmn_action-001-b_in",
+      "mot_dress_chr_cmn_action-002-b_in"
+    ],
+    "costumeAdditionMotionAssetIds": [
+      "",
+      ""
+    ],
+    "costumeVoiceAssetIds": [
+      "sud_vo_cmn_chs_dress-01",
+      "sud_vo_cmn_chs_dress-02"
+    ],
+    "psylliumColerType": 9,
+    "shortProfile": "引っ込み思案で臆病\nそんな自分を変えるため\nアイドルを志した",
+    "threeSize": "B76・W58・H78",
+    "catchphrase": "お姉ちゃんは合格して、\n私は落ちちゃったから……。",
+    "firstName": "千紗",
+    "idiom": "昇華",
+    "defaultLiveCostumeId": "cos-chs-schl-00"
+  },
+  {
+    "id": "char-hrk",
+    "assetId": "hrk",
+    "characterGroupId": "character_group_2",
+    "order": 10,
+    "name": "佐伯遙子",
+    "enName": "HARUKO SAEKI",
+    "cv": "佐々木奈緒",
+    "age": "20歳",
+    "birthday": "1月3日",
+    "height": "163cm",
+    "weight": "48kg",
+    "zodiacSign": "やぎ座",
+    "hometown": "私立 青洋学園大学",
+    "favorite": "星村、ジグソーパズル、米",
+    "unfavorite": "あきらめる事",
+    "profile": "みんなのお姉さんで、サニーピースのまとめ役。生前の麻奈を知る、星見プロダクション最初の所属アイドル。一時は夢を諦めかけていたが、信じてくれる人を裏切りたくない気持ちから、強い覚悟でアイドル活動に励む。",
+    "costumeIds": [
+      "cos-hrk-casl-00",
+      "cos-hrk-casl-01",
+      "cos-hrk-chna-00",
+      "cos-hrk-idol-00",
+      "cos-hrk-idol-01",
+      "cos-hrk-idol-02",
+      "cos-hrk-idol-03",
+      "cos-hrk-mizg-00",
+      "cos-hrk-mizg-01",
+      "cos-hrk-newy-00",
+      "cos-hrk-schl-00",
+      "cos-hrk-sdam-00",
+      "cos-hrk-sdpl-00",
+      "cos-hrk-trng-00",
+      "cos-hrk-xmas-00"
+    ],
+    "altCharacters": [
+      {
+        "characterId": "char-ai",
+        "priority": 15
+      },
+      {
+        "characterId": "char-aoi",
+        "priority": 14
+      },
+      {
+        "characterId": "char-chs",
+        "priority": 2
+      },
+      {
+        "characterId": "char-kkr",
+        "priority": 16
+      },
+      {
+        "characterId": "char-ktn",
+        "priority": 9
+      },
+      {
+        "characterId": "char-mei",
+        "priority": 6
+      },
+      {
+        "characterId": "char-ngs",
+        "priority": 5
+      },
+      {
+        "characterId": "char-rei",
+        "priority": 3
+      },
+      {
+        "characterId": "char-rio",
+        "priority": 13
+      },
+      {
+        "characterId": "char-rui",
+        "priority": 11
+      },
+      {
+        "characterId": "char-ski",
+        "priority": 8
+      },
+      {
+        "characterId": "char-skr",
+        "priority": 1
+      },
+      {
+        "characterId": "char-smr",
+        "priority": 10
+      },
+      {
+        "characterId": "char-suz",
+        "priority": 7
+      },
+      {
+        "characterId": "char-szk",
+        "priority": 4
+      },
+      {
+        "characterId": "char-yu",
+        "priority": 12
+      }
+    ],
+    "defaultCostumeId": "cos-hrk-trng-00",
+    "heightCorrectionPermil": 615,
+    "color": "C1A7E2",
+    "activityFanEventWords": [
+      {
+        "word": "ありがとう！",
+        "voiceAssetId": "sud_vo_act_hrk_fan-01"
+      },
+      {
+        "word": "会えて\n嬉しいな。",
+        "voiceAssetId": "sud_vo_act_hrk_fan-02"
+      },
+      {
+        "word": "また遊びに\n来てね。",
+        "voiceAssetId": "sud_vo_act_hrk_fan-03"
+      }
+    ],
+    "talkArrivalMotionAssetId": "mot_adv_chr_hrk_appr-001_in",
+    "personalityType": 3,
+    "simplePersonalityType": 2,
+    "sdPersonalityType": 3,
+    "costumeMotionAssetIds": [
+      "mot_dress_chr_cmn_action-001-c_in",
+      "mot_dress_chr_cmn_action-002-c_in"
+    ],
+    "costumeAdditionMotionAssetIds": [
+      "",
+      ""
+    ],
+    "costumeVoiceAssetIds": [
+      "sud_vo_cmn_hrk_dress-01",
+      "sud_vo_cmn_hrk_dress-02"
+    ],
+    "psylliumColerType": 11,
+    "shortProfile": "みんなのお姉さんで\nサニーピースのまとめ役",
+    "threeSize": "B90・W62・H87",
+    "catchphrase": "私ってやっぱり\n地味で、普通で……\n華がなくて……",
+    "firstName": "遙子",
+    "idiom": "執念",
+    "defaultLiveCostumeId": "cos-hrk-trng-00"
+  },
+  {
+    "id": "char-kkr",
+    "assetId": "kkr",
+    "characterGroupId": "character_group_4",
+    "order": 17,
+    "name": "赤崎こころ",
+    "enName": "KOKORO AKAZAKI",
+    "cv": "豊崎愛生",
+    "age": "14歳",
+    "birthday": "12月6日",
+    "height": "153cm",
+    "weight": "43kg",
+    "zodiacSign": "いて座",
+    "hometown": "私立 麗葉女学院中等部",
+    "favorite": "書道、誰かの困った顔",
+    "unfavorite": "仲間はずれにされる事",
+    "profile": "人懐っこくお調子者な、LizNoirの切り込み隊長。愛とはお互いを認め合う仲だが、良からぬことを吹き込みがち。今までのLizNoirにはない愛嬌と可愛らしさを見せ、グループに新しい風を吹かせている。",
+    "costumeIds": [
+      "cos-kkr-casl-00",
+      "cos-kkr-casl-01",
+      "cos-kkr-idol-00",
+      "cos-kkr-idol-02",
+      "cos-kkr-mizg-00",
+      "cos-kkr-schl-00",
+      "cos-kkr-sdam-00",
+      "cos-kkr-sdpl-00",
+      "cos-kkr-seik-00",
+      "cos-kkr-trng-00",
+      "cos-kkr-vlnt-00"
+    ],
+    "altCharacters": [
+      {
+        "characterId": "char-ai",
+        "priority": 3
+      },
+      {
+        "characterId": "char-aoi",
+        "priority": 2
+      },
+      {
+        "characterId": "char-chs",
+        "priority": 16
+      },
+      {
+        "characterId": "char-hrk",
+        "priority": 14
+      },
+      {
+        "characterId": "char-ktn",
+        "priority": 10
+      },
+      {
+        "characterId": "char-mei",
+        "priority": 7
+      },
+      {
+        "characterId": "char-ngs",
+        "priority": 11
+      },
+      {
+        "characterId": "char-rei",
+        "priority": 12
+      },
+      {
+        "characterId": "char-rio",
+        "priority": 1
+      },
+      {
+        "characterId": "char-rui",
+        "priority": 4
+      },
+      {
+        "characterId": "char-ski",
+        "priority": 9
+      },
+      {
+        "characterId": "char-skr",
+        "priority": 15
+      },
+      {
+        "characterId": "char-smr",
+        "priority": 6
+      },
+      {
+        "characterId": "char-suz",
+        "priority": 8
+      },
+      {
+        "characterId": "char-szk",
+        "priority": 13
+      },
+      {
+        "characterId": "char-yu",
+        "priority": 5
+      }
+    ],
+    "defaultCostumeId": "cos-kkr-schl-00",
+    "heightCorrectionPermil": -154,
+    "color": "FC9BB3",
+    "activityFanEventWords": [
+      {
+        "word": "ありがとっ！",
+        "voiceAssetId": "sud_vo_act_kkr_fan-01"
+      },
+      {
+        "word": "会えて\n嬉しいな～",
+        "voiceAssetId": "sud_vo_act_kkr_fan-02"
+      },
+      {
+        "word": "また来て\n下さーい！",
+        "voiceAssetId": "sud_vo_act_kkr_fan-03"
+      }
+    ],
+    "talkArrivalMotionAssetId": "mot_adv_chr_kkr_appr-001_in",
+    "personalityType": 1,
+    "simplePersonalityType": 1,
+    "sdPersonalityType": 1,
+    "costumeMotionAssetIds": [
+      "mot_dress_chr_cmn_action-001-a_in",
+      "mot_dress_chr_cmn_action-002-a_in"
+    ],
+    "costumeAdditionMotionAssetIds": [
+      "",
+      ""
+    ],
+    "costumeVoiceAssetIds": [
+      "sud_vo_cmn_kkr_dress-01",
+      "sud_vo_cmn_kkr_dress-02"
+    ],
+    "psylliumColerType": 9,
+    "shortProfile": "人懐っこくお調子者な\nLizNoirの切り込み隊長",
+    "threeSize": "B74・W54・H73",
+    "catchphrase": "アナタの心を鷲掴み☆\n赤崎こころ、\n14歳でーすっ！",
+    "firstName": "こころ",
+    "idiom": "打破",
+    "defaultLiveCostumeId": "cos-kkr-schl-00"
+  },
+  {
+    "id": "char-koh",
+    "assetId": "koh",
+    "order": 998,
+    "name": "牧野航平",
+    "enName": "KOHEI MAKINO",
+    "cv": "石谷春貴",
+    "age": "-",
+    "birthday": "-",
+    "height": "-",
+    "weight": "-",
+    "isNpc": true,
+    "costumeIds": [
+      "cos-koh-casl-00"
+    ],
+    "altCharacters": [
+      {
+        "characterId": "char-ai",
+        "priority": 16
+      },
+      {
+        "characterId": "char-aoi",
+        "priority": 15
+      },
+      {
+        "characterId": "char-chs",
+        "priority": 8
+      },
+      {
+        "characterId": "char-hrk",
+        "priority": 10
+      },
+      {
+        "characterId": "char-kkr",
+        "priority": 17
+      },
+      {
+        "characterId": "char-ktn",
+        "priority": 1
+      },
+      {
+        "characterId": "char-mei",
+        "priority": 5
+      },
+      {
+        "characterId": "char-ngs",
+        "priority": 2
+      },
+      {
+        "characterId": "char-rei",
+        "priority": 9
+      },
+      {
+        "characterId": "char-rio",
+        "priority": 14
+      },
+      {
+        "characterId": "char-rui",
+        "priority": 11
+      },
+      {
+        "characterId": "char-ski",
+        "priority": 3
+      },
+      {
+        "characterId": "char-skr",
+        "priority": 6
+      },
+      {
+        "characterId": "char-smr",
+        "priority": 13
+      },
+      {
+        "characterId": "char-suz",
+        "priority": 4
+      },
+      {
+        "characterId": "char-szk",
+        "priority": 7
+      },
+      {
+        "characterId": "char-yu",
+        "priority": 12
+      }
+    ],
+    "defaultCostumeId": "cos-koh-casl-00",
+    "heightCorrectionPermil": 1333,
+    "talkArrivalMotionAssetId": "mot_adv_chr_cmn_glad-005_in",
+    "personalityType": 1,
+    "simplePersonalityType": 1,
+    "sdPersonalityType": 1,
+    "psylliumColerType": 13,
+    "firstName": "牧野",
+    "defaultLiveCostumeId": "cos-koh-casl-00"
+  },
+  {
+    "id": "char-ktn",
+    "assetId": "ktn",
+    "characterGroupId": "character_group_1",
+    "order": 1,
+    "name": "長瀬琴乃",
+    "enName": "KOTONO NAGASE",
+    "cv": "橘美來",
+    "age": "17歳",
+    "birthday": "12月25日",
+    "height": "162cm",
+    "weight": "43kg",
+    "zodiacSign": "やぎ座",
+    "hometown": "私立 星見高校",
+    "favorite": "姉、アイドル、わたあめ",
+    "unfavorite": "自分が分からない事",
+    "profile": "姉・長瀬麻奈の遺志を受け継ぎアイドルを志した少女。グループ結成当初は、人とのコミュニケーションを避けて孤立することもあった。しかし、メンバーと苦難を乗り越える中で成長し、今ではみんなを引っ張る存在に。",
+    "costumeIds": [
+      "cos-ktn-casl-00",
+      "cos-ktn-casl-01",
+      "cos-ktn-fest-00",
+      "cos-ktn-idol-00",
+      "cos-ktn-idol-01",
+      "cos-ktn-idol-02",
+      "cos-ktn-mizg-00",
+      "cos-ktn-mizg-01",
+      "cos-ktn-schl-00",
+      "cos-ktn-sdam-00",
+      "cos-ktn-sdpl-00",
+      "cos-ktn-trng-00"
+    ],
+    "altCharacters": [
+      {
+        "characterId": "char-ai",
+        "priority": 12
+      },
+      {
+        "characterId": "char-aoi",
+        "priority": 11
+      },
+      {
+        "characterId": "char-chs",
+        "priority": 6
+      },
+      {
+        "characterId": "char-hrk",
+        "priority": 9
+      },
+      {
+        "characterId": "char-kkr",
+        "priority": 13
+      },
+      {
+        "characterId": "char-mei",
+        "priority": 2
+      },
+      {
+        "characterId": "char-ngs",
+        "priority": 1
+      },
+      {
+        "characterId": "char-rei",
+        "priority": 7
+      },
+      {
+        "characterId": "char-rio",
+        "priority": 10
+      },
+      {
+        "characterId": "char-rui",
+        "priority": 14
+      },
+      {
+        "characterId": "char-ski",
+        "priority": 4
+      },
+      {
+        "characterId": "char-skr",
+        "priority": 5
+      },
+      {
+        "characterId": "char-smr",
+        "priority": 16
+      },
+      {
+        "characterId": "char-suz",
+        "priority": 3
+      },
+      {
+        "characterId": "char-szk",
+        "priority": 8
+      },
+      {
+        "characterId": "char-yu",
+        "priority": 15
+      }
+    ],
+    "defaultCostumeId": "cos-ktn-schl-00",
+    "heightCorrectionPermil": 538,
+    "color": "5C88DA",
+    "activityFanEventWords": [
+      {
+        "word": "ありがとう。",
+        "voiceAssetId": "sud_vo_act_ktn_fan-01"
+      },
+      {
+        "word": "嬉しいです。",
+        "voiceAssetId": "sud_vo_act_ktn_fan-02"
+      },
+      {
+        "word": "じゃあまた。",
+        "voiceAssetId": "sud_vo_act_ktn_fan-03"
+      }
+    ],
+    "talkArrivalMotionAssetId": "mot_adv_chr_ktn_appr-001_in",
+    "personalityType": 4,
+    "simplePersonalityType": 3,
+    "sdPersonalityType": 4,
+    "costumeMotionAssetIds": [
+      "mot_dress_chr_cmn_action-001-d_in",
+      "mot_dress_chr_cmn_action-002-d_in"
+    ],
+    "costumeAdditionMotionAssetIds": [
+      "",
+      ""
+    ],
+    "costumeVoiceAssetIds": [
+      "sud_vo_cmn_ktn_dress-01",
+      "sud_vo_cmn_ktn_dress-02"
+    ],
+    "psylliumColerType": 14,
+    "shortProfile": "姉・長瀬麻奈の遺志を\n受け継ぎアイドルを\n志した少女",
+    "threeSize": "B79・W55・H80",
+    "catchphrase": "私、一人で\n出来るので。",
+    "firstName": "琴乃",
+    "idiom": "呪縛",
+    "defaultLiveCostumeId": "cos-ktn-schl-00"
+  },
+  {
+    "id": "char-mei",
+    "assetId": "mei",
+    "characterGroupId": "character_group_1",
+    "order": 5,
+    "name": "早坂芽衣",
+    "enName": "MEI HAYASAKA",
+    "cv": "日向もか",
+    "age": "16歳",
+    "birthday": "7月7日",
+    "height": "157cm",
+    "weight": "48kg",
+    "zodiacSign": "かに座",
+    "hometown": "私立 星見高校",
+    "favorite": "マネージャー、面白そうな事",
+    "unfavorite": "ピクルス",
+    "profile": "直感に従い生きる、予測不能で無邪気な少女。勧誘を受け「面白そう」という単純な動機で事務所へ入る。しかし、麻奈が持つアイドルとしての姿勢に感銘を受け、彼女のようなアイドルを本気で目指すようになる。",
+    "costumeIds": [
+      "cos-mei-casl-00",
+      "cos-mei-casl-01",
+      "cos-mei-fest-00",
+      "cos-mei-idol-00",
+      "cos-mei-idol-01",
+      "cos-mei-idol-02",
+      "cos-mei-mizg-00",
+      "cos-mei-mizg-01",
+      "cos-mei-rock-00",
+      "cos-mei-schl-00",
+      "cos-mei-sdam-00",
+      "cos-mei-sdpl-00",
+      "cos-mei-trng-00"
+    ],
+    "altCharacters": [
+      {
+        "characterId": "char-ai",
+        "priority": 10
+      },
+      {
+        "characterId": "char-aoi",
+        "priority": 13
+      },
+      {
+        "characterId": "char-chs",
+        "priority": 8
+      },
+      {
+        "characterId": "char-hrk",
+        "priority": 6
+      },
+      {
+        "characterId": "char-kkr",
+        "priority": 11
+      },
+      {
+        "characterId": "char-ktn",
+        "priority": 3
+      },
+      {
+        "characterId": "char-ngs",
+        "priority": 4
+      },
+      {
+        "characterId": "char-rei",
+        "priority": 9
+      },
+      {
+        "characterId": "char-rio",
+        "priority": 12
+      },
+      {
+        "characterId": "char-rui",
+        "priority": 16
+      },
+      {
+        "characterId": "char-ski",
+        "priority": 2
+      },
+      {
+        "characterId": "char-skr",
+        "priority": 7
+      },
+      {
+        "characterId": "char-smr",
+        "priority": 15
+      },
+      {
+        "characterId": "char-suz",
+        "priority": 1
+      },
+      {
+        "characterId": "char-szk",
+        "priority": 5
+      },
+      {
+        "characterId": "char-yu",
+        "priority": 14
+      }
+    ],
+    "defaultCostumeId": "cos-mei-schl-00",
+    "heightCorrectionPermil": 154,
+    "color": "E03E52",
+    "activityFanEventWords": [
+      {
+        "word": "ありがと～！",
+        "voiceAssetId": "sud_vo_act_mei_fan-01"
+      },
+      {
+        "word": "ハッピー！",
+        "voiceAssetId": "sud_vo_act_mei_fan-02"
+      },
+      {
+        "word": "まったねー！",
+        "voiceAssetId": "sud_vo_act_mei_fan-03"
+      }
+    ],
+    "talkArrivalMotionAssetId": "mot_adv_chr_mei_appr-001_in",
+    "personalityType": 1,
+    "simplePersonalityType": 1,
+    "sdPersonalityType": 1,
+    "costumeMotionAssetIds": [
+      "mot_dress_chr_cmn_action-001-a_in",
+      "mot_dress_chr_cmn_action-002-a_in"
+    ],
+    "costumeAdditionMotionAssetIds": [
+      "",
+      ""
+    ],
+    "costumeVoiceAssetIds": [
+      "sud_vo_cmn_mei_dress-01",
+      "sud_vo_cmn_mei_dress-02"
+    ],
+    "psylliumColerType": 1,
+    "shortProfile": "直感に従い生きる\n予測不能で無邪気な少女",
+    "threeSize": "B86・W58・H84",
+    "catchphrase": "何恥ずかしがってるの？\n一緒に塀の上で\nデートした仲なのに。",
+    "firstName": "芽衣",
+    "idiom": "憧憬",
+    "defaultLiveCostumeId": "cos-mei-schl-00"
+  },
+  {
+    "id": "char-mna",
+    "assetId": "mna",
+    "characterGroupId": "character_group_5",
+    "order": 1000,
+    "name": "長瀬麻奈",
+    "enName": "MANA NAGASE",
+    "cv": "神田沙也加",
+    "age": "19歳",
+    "birthday": "10月9日",
+    "height": "158cm",
+    "weight": "44kg",
+    "zodiacSign": "てんびん座",
+    "hometown": "私立 星見高校",
+    "favorite": "妹、アイドル、カレー",
+    "unfavorite": "ファンをがっかりさせること",
+    "profile": "『星降る奇跡』と呼ばれる伝説のアイドル。デビューからわずか一年半でこの世を去った。しかし、その短い活動期間で数々の伝説や記録を打ち立て、死後もなお、多くのアイドルに影響を与えている。",
+    "costumeIds": [
+      "cos-mna-casl-00",
+      "cos-mna-fest-00",
+      "cos-mna-idol-00",
+      "cos-mna-mizg-00",
+      "cos-mna-schl-00",
+      "cos-mna-trng-00"
+    ],
+    "altCharacters": [
+      {
+        "characterId": "char-aoi",
+        "priority": 1
+      },
+      {
+        "characterId": "char-chs",
+        "priority": 15
+      },
+      {
+        "characterId": "char-hrk",
+        "priority": 13
+      },
+      {
+        "characterId": "char-kkr",
+        "priority": 2
+      },
+      {
+        "characterId": "char-ktn",
+        "priority": 9
+      },
+      {
+        "characterId": "char-mei",
+        "priority": 11
+      },
+      {
+        "characterId": "char-ngs",
+        "priority": 10
+      },
+      {
+        "characterId": "char-rei",
+        "priority": 16
+      },
+      {
+        "characterId": "char-rio",
+        "priority": 3
+      },
+      {
+        "characterId": "char-rui",
+        "priority": 6
+      },
+      {
+        "characterId": "char-ski",
+        "priority": 8
+      },
+      {
+        "characterId": "char-skr",
+        "priority": 14
+      },
+      {
+        "characterId": "char-smr",
+        "priority": 5
+      },
+      {
+        "characterId": "char-suz",
+        "priority": 7
+      },
+      {
+        "characterId": "char-szk",
+        "priority": 12
+      },
+      {
+        "characterId": "char-yu",
+        "priority": 4
+      }
+    ],
+    "defaultCostumeId": "cos-mna-trng-00",
+    "heightCorrectionPermil": 231,
+    "color": "#F252B0",
+    "talkArrivalMotionAssetId": "mot_adv_chr_mna_appr-001_in",
+    "personalityType": 1,
+    "simplePersonalityType": 1,
+    "sdPersonalityType": 1,
+    "costumeMotionAssetIds": [
+      "mot_dress_chr_cmn_action-001-a_in",
+      "mot_dress_chr_cmn_action-002-a_in"
+    ],
+    "costumeAdditionMotionAssetIds": [
+      "",
+      ""
+    ],
+    "costumeVoiceAssetIds": [
+      "sud_vo_cmn_mna_dress-01",
+      "sud_vo_cmn_mna_dress-02"
+    ],
+    "psylliumColerType": 4,
+    "shortProfile": "『星降る奇跡』\nと呼ばれる\n伝説のアイドル",
+    "threeSize": "B82・W55・H80",
+    "catchphrase": "さあ、アイドルの頂点へ！",
+    "firstName": "麻奈",
+    "idiom": "奇跡",
+    "isMemories": true,
+    "defaultLiveCostumeId": "cos-mna-trng-00"
+  },
+  {
+    "id": "char-ngs",
+    "assetId": "ngs",
+    "characterGroupId": "character_group_1",
+    "order": 2,
+    "name": "伊吹渚",
+    "enName": "NAGISA IBUKI",
+    "cv": "夏目ここな",
+    "age": "17歳",
+    "birthday": "8月3日",
+    "height": "154cm",
+    "weight": "46kg",
+    "zodiacSign": "しし座",
+    "hometown": "私立 星見高校",
+    "favorite": "琴乃、桃、日記をつける事",
+    "unfavorite": "琴乃を傷つけるもの、ゴーヤ",
+    "profile": "親友・琴乃を支えるためにアイドルとなった少女。想像力が豊かで、思わぬところに好奇心を見せる一面も。アイドルとしての長所がなく自信をなくしたこともあったが、琴乃を支えることを力にして、日々奮闘している。",
+    "costumeIds": [
+      "cos-ngs-akma-00",
+      "cos-ngs-casl-00",
+      "cos-ngs-casl-01",
+      "cos-ngs-flow-00",
+      "cos-ngs-idol-00",
+      "cos-ngs-idol-01",
+      "cos-ngs-idol-02",
+      "cos-ngs-mizg-00",
+      "cos-ngs-mizg-01",
+      "cos-ngs-schl-00",
+      "cos-ngs-sdam-00",
+      "cos-ngs-sdpl-00",
+      "cos-ngs-trng-00"
+    ],
+    "altCharacters": [
+      {
+        "characterId": "char-ai",
+        "priority": 13
+      },
+      {
+        "characterId": "char-aoi",
+        "priority": 12
+      },
+      {
+        "characterId": "char-chs",
+        "priority": 7
+      },
+      {
+        "characterId": "char-hrk",
+        "priority": 5
+      },
+      {
+        "characterId": "char-kkr",
+        "priority": 10
+      },
+      {
+        "characterId": "char-ktn",
+        "priority": 2
+      },
+      {
+        "characterId": "char-mei",
+        "priority": 3
+      },
+      {
+        "characterId": "char-rei",
+        "priority": 8
+      },
+      {
+        "characterId": "char-rio",
+        "priority": 11
+      },
+      {
+        "characterId": "char-rui",
+        "priority": 15
+      },
+      {
+        "characterId": "char-ski",
+        "priority": 1
+      },
+      {
+        "characterId": "char-skr",
+        "priority": 6
+      },
+      {
+        "characterId": "char-smr",
+        "priority": 14
+      },
+      {
+        "characterId": "char-suz",
+        "priority": 4
+      },
+      {
+        "characterId": "char-szk",
+        "priority": 9
+      },
+      {
+        "characterId": "char-yu",
+        "priority": 16
+      }
+    ],
+    "defaultCostumeId": "cos-ngs-schl-00",
+    "heightCorrectionPermil": -77,
+    "color": "F56D9E",
+    "activityFanEventWords": [
+      {
+        "word": "ありがとう。",
+        "voiceAssetId": "sud_vo_act_ngs_fan-01"
+      },
+      {
+        "word": "会えて\n嬉しい！",
+        "voiceAssetId": "sud_vo_act_ngs_fan-02"
+      },
+      {
+        "word": "また来てね～",
+        "voiceAssetId": "sud_vo_act_ngs_fan-03"
+      }
+    ],
+    "talkArrivalMotionAssetId": "mot_adv_chr_ngs_appr-001_in",
+    "personalityType": 2,
+    "simplePersonalityType": 2,
+    "sdPersonalityType": 2,
+    "costumeMotionAssetIds": [
+      "mot_dress_chr_cmn_action-001-b_in",
+      "mot_dress_chr_cmn_action-002-b_in"
+    ],
+    "costumeAdditionMotionAssetIds": [
+      "",
+      ""
+    ],
+    "costumeVoiceAssetIds": [
+      "sud_vo_cmn_ngs_dress-01",
+      "sud_vo_cmn_ngs_dress-02"
+    ],
+    "psylliumColerType": 4,
+    "shortProfile": "親友・琴乃を支えるために\nアイドルとなった少女",
+    "threeSize": "B83・W59・H85",
+    "catchphrase": "琴乃ちゃんがそういうなら\n私は反対しないよ。",
+    "firstName": "渚",
+    "idiom": "献身",
+    "defaultLiveCostumeId": "cos-ngs-schl-00"
+  },
+  {
+    "id": "char-rei",
+    "assetId": "rei",
+    "characterGroupId": "character_group_2",
+    "order": 9,
+    "name": "一ノ瀬怜",
+    "enName": "REI ICHINOSE",
+    "cv": "結城萌子",
+    "age": "18歳",
+    "birthday": "3月8日",
+    "height": "160cm",
+    "weight": "46kg",
+    "zodiacSign": "うお座",
+    "hometown": "私立 麗葉女学院高等部",
+    "favorite": "兄、ダンス、マカロン",
+    "unfavorite": "両親、ホルモン、朝",
+    "profile": "ダンス大会で優勝するほどの実力者。両親にダンスを仕事として認めてもらうため、アイドルを志す。加入当初は、メンバーに高いレベルを要求し衝突することもあったが、その技術力でみんなを導いていく道を見つけた。",
+    "costumeIds": [
+      "cos-rei-casl-00",
+      "cos-rei-casl-01",
+      "cos-rei-idol-00",
+      "cos-rei-idol-01",
+      "cos-rei-idol-02",
+      "cos-rei-idol-03",
+      "cos-rei-mizg-00",
+      "cos-rei-mizg-01",
+      "cos-rei-newy-00",
+      "cos-rei-onep-00",
+      "cos-rei-rock-00",
+      "cos-rei-schl-00",
+      "cos-rei-sdam-00",
+      "cos-rei-sdpl-00",
+      "cos-rei-trng-00"
+    ],
+    "altCharacters": [
+      {
+        "characterId": "char-ai",
+        "priority": 13
+      },
+      {
+        "characterId": "char-aoi",
+        "priority": 16
+      },
+      {
+        "characterId": "char-chs",
+        "priority": 4
+      },
+      {
+        "characterId": "char-hrk",
+        "priority": 2
+      },
+      {
+        "characterId": "char-kkr",
+        "priority": 14
+      },
+      {
+        "characterId": "char-ktn",
+        "priority": 7
+      },
+      {
+        "characterId": "char-mei",
+        "priority": 9
+      },
+      {
+        "characterId": "char-ngs",
+        "priority": 8
+      },
+      {
+        "characterId": "char-rio",
+        "priority": 15
+      },
+      {
+        "characterId": "char-rui",
+        "priority": 12
+      },
+      {
+        "characterId": "char-ski",
+        "priority": 6
+      },
+      {
+        "characterId": "char-skr",
+        "priority": 3
+      },
+      {
+        "characterId": "char-smr",
+        "priority": 11
+      },
+      {
+        "characterId": "char-suz",
+        "priority": 5
+      },
+      {
+        "characterId": "char-szk",
+        "priority": 1
+      },
+      {
+        "characterId": "char-yu",
+        "priority": 10
+      }
+    ],
+    "defaultCostumeId": "cos-rei-schl-00",
+    "heightCorrectionPermil": 385,
+    "color": "ACE3EF",
+    "activityFanEventWords": [
+      {
+        "word": "ありがとう\nございます。",
+        "voiceAssetId": "sud_vo_act_rei_fan-01"
+      },
+      {
+        "word": "会えて\n嬉しいです。",
+        "voiceAssetId": "sud_vo_act_rei_fan-02"
+      },
+      {
+        "word": "また来て\n下さい。",
+        "voiceAssetId": "sud_vo_act_rei_fan-03"
+      }
+    ],
+    "talkArrivalMotionAssetId": "mot_adv_chr_rei_appr-001_in",
+    "personalityType": 4,
+    "simplePersonalityType": 3,
+    "sdPersonalityType": 4,
+    "costumeMotionAssetIds": [
+      "mot_dress_chr_cmn_action-001-d_in",
+      "mot_dress_chr_cmn_action-002-d_in"
+    ],
+    "costumeAdditionMotionAssetIds": [
+      "",
+      ""
+    ],
+    "costumeVoiceAssetIds": [
+      "sud_vo_cmn_rei_dress-01",
+      "sud_vo_cmn_rei_dress-02"
+    ],
+    "psylliumColerType": 8,
+    "shortProfile": "両親にダンスを仕事として\n認めてもらうため\nアイドルを志す",
+    "threeSize": "B83・W56・H85",
+    "catchphrase": "私が全部、\nそうするって決めた\nことだから。",
+    "firstName": "怜",
+    "idiom": "不屈",
+    "defaultLiveCostumeId": "cos-rei-schl-00"
+  },
+  {
+    "id": "char-rio",
+    "assetId": "rio",
+    "characterGroupId": "character_group_4",
+    "order": 14,
+    "name": "神崎莉央",
+    "enName": "RIO KANZAKI",
+    "cv": "戸松遥",
+    "age": "22歳",
+    "birthday": "8月28日",
+    "height": "160cm",
+    "weight": "44kg",
+    "zodiacSign": "おとめ座",
+    "hometown": "私立 月出高校 芸能コース",
+    "favorite": "アイドル、料理",
+    "unfavorite": "長瀬麻奈",
+    "profile": "勝利に貪欲な、LizNoir不動のセンター。グランプリの決勝で戦う予定だった麻奈が先立ち、目標を失った喪失感から活動休止を余儀なくされた過去を持つ。メンバー増員以降は気持ちも変化し、成長を遂げている。",
+    "costumeIds": [
+      "cos-rio-casl-00",
+      "cos-rio-casl-01",
+      "cos-rio-fest-00",
+      "cos-rio-halw-00",
+      "cos-rio-idol-00",
+      "cos-rio-idol-02",
+      "cos-rio-kait-00",
+      "cos-rio-mizg-00",
+      "cos-rio-schl-00",
+      "cos-rio-sdam-00",
+      "cos-rio-sdpl-00",
+      "cos-rio-trng-00",
+      "cos-rio-vlnt-00"
+    ],
+    "altCharacters": [
+      {
+        "characterId": "char-ai",
+        "priority": 2
+      },
+      {
+        "characterId": "char-aoi",
+        "priority": 1
+      },
+      {
+        "characterId": "char-chs",
+        "priority": 13
+      },
+      {
+        "characterId": "char-hrk",
+        "priority": 16
+      },
+      {
+        "characterId": "char-kkr",
+        "priority": 3
+      },
+      {
+        "characterId": "char-ktn",
+        "priority": 7
+      },
+      {
+        "characterId": "char-mei",
+        "priority": 9
+      },
+      {
+        "characterId": "char-ngs",
+        "priority": 8
+      },
+      {
+        "characterId": "char-rei",
+        "priority": 14
+      },
+      {
+        "characterId": "char-rui",
+        "priority": 4
+      },
+      {
+        "characterId": "char-ski",
+        "priority": 11
+      },
+      {
+        "characterId": "char-skr",
+        "priority": 12
+      },
+      {
+        "characterId": "char-smr",
+        "priority": 6
+      },
+      {
+        "characterId": "char-suz",
+        "priority": 10
+      },
+      {
+        "characterId": "char-szk",
+        "priority": 15
+      },
+      {
+        "characterId": "char-yu",
+        "priority": 5
+      }
+    ],
+    "defaultCostumeId": "cos-rio-trng-00",
+    "heightCorrectionPermil": 385,
+    "color": "AE5287",
+    "activityFanEventWords": [
+      {
+        "word": "ありがとう。",
+        "voiceAssetId": "sud_vo_act_rio_fan-01"
+      },
+      {
+        "word": "嬉しいわ。",
+        "voiceAssetId": "sud_vo_act_rio_fan-02"
+      },
+      {
+        "word": "また来てね。",
+        "voiceAssetId": "sud_vo_act_rio_fan-03"
+      }
+    ],
+    "talkArrivalMotionAssetId": "mot_adv_chr_rio_appr-001_in",
+    "personalityType": 4,
+    "simplePersonalityType": 3,
+    "sdPersonalityType": 4,
+    "costumeMotionAssetIds": [
+      "mot_dress_chr_cmn_action-001-d_in",
+      "mot_dress_chr_cmn_action-002-d_in"
+    ],
+    "costumeAdditionMotionAssetIds": [
+      "",
+      ""
+    ],
+    "costumeVoiceAssetIds": [
+      "sud_vo_cmn_rio_dress-01",
+      "sud_vo_cmn_rio_dress-02"
+    ],
+    "psylliumColerType": 12,
+    "shortProfile": "勝利に貪欲な\nLizNoir不動のセンター",
+    "threeSize": "B83・W56・H83",
+    "catchphrase": "初めての挫折を、\n私達が味わわせてあげる。",
+    "firstName": "莉央",
+    "idiom": "気魄",
+    "defaultLiveCostumeId": "cos-rio-trng-00"
+  },
+  {
+    "id": "char-rui",
+    "assetId": "rui",
+    "characterGroupId": "character_group_3",
+    "order": 11,
+    "name": "天動瑠依",
+    "enName": "RUI TENDO",
+    "cv": "雨宮天",
+    "age": "17歳",
+    "birthday": "11月11日",
+    "height": "165cm",
+    "weight": "46kg",
+    "zodiacSign": "さそり座",
+    "hometown": "私立 月出高校 芸能コース",
+    "favorite": "アイドル、勝利、グミ",
+    "unfavorite": "敗北、牛肉",
+    "profile": "TRINITYAiLEの絶対的センター。天才と謳われているが、その実態は圧倒的な努力に裏打ちされたもの。凛とした姿から完全無欠だと思われがちだが、突然寝落ちしたり、偏食な一面なども持ち合わせている。",
+    "costumeIds": [
+      "cos-rui-casl-00",
+      "cos-rui-casl-01",
+      "cos-rui-date-00",
+      "cos-rui-idol-00",
+      "cos-rui-idol-02",
+      "cos-rui-mizg-00",
+      "cos-rui-mizg-01",
+      "cos-rui-schl-00",
+      "cos-rui-sdam-00",
+      "cos-rui-sdpl-00",
+      "cos-rui-trng-00",
+      "cos-rui-xmas-00",
+      "cos-rui-yuru-00"
+    ],
+    "altCharacters": [
+      {
+        "characterId": "char-ai",
+        "priority": 5
+      },
+      {
+        "characterId": "char-aoi",
+        "priority": 4
+      },
+      {
+        "characterId": "char-chs",
+        "priority": 8
+      },
+      {
+        "characterId": "char-hrk",
+        "priority": 11
+      },
+      {
+        "characterId": "char-kkr",
+        "priority": 6
+      },
+      {
+        "characterId": "char-ktn",
+        "priority": 12
+      },
+      {
+        "characterId": "char-mei",
+        "priority": 14
+      },
+      {
+        "characterId": "char-ngs",
+        "priority": 13
+      },
+      {
+        "characterId": "char-rei",
+        "priority": 9
+      },
+      {
+        "characterId": "char-rio",
+        "priority": 3
+      },
+      {
+        "characterId": "char-ski",
+        "priority": 16
+      },
+      {
+        "characterId": "char-skr",
+        "priority": 7
+      },
+      {
+        "characterId": "char-smr",
+        "priority": 2
+      },
+      {
+        "characterId": "char-suz",
+        "priority": 15
+      },
+      {
+        "characterId": "char-szk",
+        "priority": 10
+      },
+      {
+        "characterId": "char-yu",
+        "priority": 1
+      }
+    ],
+    "defaultCostumeId": "cos-rui-schl-00",
+    "heightCorrectionPermil": 769,
+    "color": "FCFAF1",
+    "activityFanEventWords": [
+      {
+        "word": "ありがとう\nございます！",
+        "voiceAssetId": "sud_vo_act_rui_fan-01"
+      },
+      {
+        "word": "来てくれて\n嬉しいです。",
+        "voiceAssetId": "sud_vo_act_rui_fan-02"
+      },
+      {
+        "word": "また会いに\n来て下さい。",
+        "voiceAssetId": "sud_vo_act_rui_fan-03"
+      }
+    ],
+    "talkArrivalMotionAssetId": "mot_adv_chr_rui_appr-001_in",
+    "personalityType": 4,
+    "simplePersonalityType": 3,
+    "sdPersonalityType": 4,
+    "costumeMotionAssetIds": [
+      "mot_dress_chr_cmn_action-001-d_in",
+      "mot_dress_chr_cmn_action-002-d_in"
+    ],
+    "costumeAdditionMotionAssetIds": [
+      "",
+      ""
+    ],
+    "costumeVoiceAssetIds": [
+      "sud_vo_cmn_rui_dress-01",
+      "sud_vo_cmn_rui_dress-02"
+    ],
+    "psylliumColerType": 16,
+    "shortProfile": "TRINITYAiLEの\n絶対的センター",
+    "threeSize": "B84・W56・H84",
+    "catchphrase": "私たち三人は\n最高のチームですから。",
+    "firstName": "瑠依",
+    "idiom": "堅固",
+    "defaultLiveCostumeId": "cos-rui-schl-00"
+  },
+  {
+    "id": "char-ski",
+    "assetId": "ski",
+    "characterGroupId": "character_group_1",
+    "order": 3,
+    "name": "白石沙季",
+    "enName": "SAKI SHIRAISHI",
+    "cv": "宮沢小春",
+    "age": "18歳",
+    "birthday": "9月26日",
+    "height": "160cm",
+    "weight": "45kg",
+    "zodiacSign": "てんびん座",
+    "hometown": "公立 光ヶ崎高校",
+    "favorite": "千紗、アイドル、くさや",
+    "unfavorite": "千紗を傷つけるもの",
+    "profile": "学校では生徒会長も務める絵に描いたような優等生で、月のテンペストのまとめ役。デビュー当初は、妹・千紗に対する自身の過保護さに苦悩した過去もあったが、現在はお互い信頼し合いそれぞれの道を歩んでいる。",
+    "costumeIds": [
+      "cos-ski-casl-00",
+      "cos-ski-casl-01",
+      "cos-ski-chsk-00",
+      "cos-ski-idol-00",
+      "cos-ski-idol-01",
+      "cos-ski-idol-02",
+      "cos-ski-kifj-00",
+      "cos-ski-mizg-00",
+      "cos-ski-mizg-01",
+      "cos-ski-schl-00",
+      "cos-ski-sdam-00",
+      "cos-ski-sdpl-00",
+      "cos-ski-trng-00",
+      "cos-ski-waso-00"
+    ],
+    "altCharacters": [
+      {
+        "characterId": "char-ai",
+        "priority": 12
+      },
+      {
+        "characterId": "char-aoi",
+        "priority": 11
+      },
+      {
+        "characterId": "char-chs",
+        "priority": 5
+      },
+      {
+        "characterId": "char-hrk",
+        "priority": 8
+      },
+      {
+        "characterId": "char-kkr",
+        "priority": 13
+      },
+      {
+        "characterId": "char-ktn",
+        "priority": 1
+      },
+      {
+        "characterId": "char-mei",
+        "priority": 3
+      },
+      {
+        "characterId": "char-ngs",
+        "priority": 2
+      },
+      {
+        "characterId": "char-rei",
+        "priority": 6
+      },
+      {
+        "characterId": "char-rio",
+        "priority": 10
+      },
+      {
+        "characterId": "char-rui",
+        "priority": 15
+      },
+      {
+        "characterId": "char-skr",
+        "priority": 9
+      },
+      {
+        "characterId": "char-smr",
+        "priority": 14
+      },
+      {
+        "characterId": "char-suz",
+        "priority": 4
+      },
+      {
+        "characterId": "char-szk",
+        "priority": 7
+      },
+      {
+        "characterId": "char-yu",
+        "priority": 16
+      }
+    ],
+    "defaultCostumeId": "cos-ski-schl-00",
+    "heightCorrectionPermil": 385,
+    "color": "6ACEB9",
+    "activityFanEventWords": [
+      {
+        "word": "ありがとう\nございます。",
+        "voiceAssetId": "sud_vo_act_ski_fan-01"
+      },
+      {
+        "word": "私も\n嬉しいです。",
+        "voiceAssetId": "sud_vo_act_ski_fan-02"
+      },
+      {
+        "word": "また来て\n下さいね。",
+        "voiceAssetId": "sud_vo_act_ski_fan-03"
+      }
+    ],
+    "talkArrivalMotionAssetId": "mot_adv_chr_ski_appr-001_in",
+    "personalityType": 3,
+    "simplePersonalityType": 2,
+    "sdPersonalityType": 3,
+    "costumeMotionAssetIds": [
+      "mot_dress_chr_cmn_action-001-c_in",
+      "mot_dress_chr_cmn_action-002-c_in"
+    ],
+    "costumeAdditionMotionAssetIds": [
+      "",
+      ""
+    ],
+    "costumeVoiceAssetIds": [
+      "sud_vo_cmn_ski_dress-01",
+      "sud_vo_cmn_ski_dress-02"
+    ],
+    "psylliumColerType": 10,
+    "shortProfile": "絵に描いたような優等生で\n月のテンペストのまとめ役",
+    "threeSize": "B84・W58・H80",
+    "catchphrase": "だって私が…\nお姉ちゃんなんだから。",
+    "firstName": "沙季",
+    "idiom": "熱誠",
+    "defaultLiveCostumeId": "cos-ski-schl-00"
+  },
+  {
+    "id": "char-skr",
+    "assetId": "skr",
+    "characterGroupId": "character_group_2",
+    "order": 6,
+    "name": "川咲さくら",
+    "enName": "SAKURA KAWASAKI",
+    "cv": "菅野真衣",
+    "age": "17歳",
+    "birthday": "4月3日",
+    "height": "156cm",
+    "weight": "44kg",
+    "zodiacSign": "おひつじ座",
+    "hometown": "公立 光ヶ崎高校",
+    "favorite": "麻奈、アイドル、トンカツ",
+    "unfavorite": "陰口",
+    "profile": "何気ない日々を大切にする、天真爛漫なアイドル。麻奈そっくりな歌声を持ち人気を博したが、次第に麻奈の声でステージに立つことに疑問を抱く。苦悩を乗り越え麻奈の声から決別する道を選び、未来に進む。",
+    "costumeIds": [
+      "cos-skr-casl-00",
+      "cos-skr-casl-01",
+      "cos-skr-fest-00",
+      "cos-skr-idol-00",
+      "cos-skr-idol-01",
+      "cos-skr-idol-02",
+      "cos-skr-idol-03",
+      "cos-skr-mizg-00",
+      "cos-skr-mizg-01",
+      "cos-skr-newy-00",
+      "cos-skr-schl-00",
+      "cos-skr-sdam-00",
+      "cos-skr-sdpl-00",
+      "cos-skr-trng-00"
+    ],
+    "altCharacters": [
+      {
+        "characterId": "char-ai",
+        "priority": 15
+      },
+      {
+        "characterId": "char-aoi",
+        "priority": 14
+      },
+      {
+        "characterId": "char-chs",
+        "priority": 1
+      },
+      {
+        "characterId": "char-hrk",
+        "priority": 4
+      },
+      {
+        "characterId": "char-kkr",
+        "priority": 16
+      },
+      {
+        "characterId": "char-ktn",
+        "priority": 5
+      },
+      {
+        "characterId": "char-mei",
+        "priority": 7
+      },
+      {
+        "characterId": "char-ngs",
+        "priority": 6
+      },
+      {
+        "characterId": "char-rei",
+        "priority": 2
+      },
+      {
+        "characterId": "char-rio",
+        "priority": 13
+      },
+      {
+        "characterId": "char-rui",
+        "priority": 10
+      },
+      {
+        "characterId": "char-ski",
+        "priority": 9
+      },
+      {
+        "characterId": "char-smr",
+        "priority": 12
+      },
+      {
+        "characterId": "char-suz",
+        "priority": 8
+      },
+      {
+        "characterId": "char-szk",
+        "priority": 3
+      },
+      {
+        "characterId": "char-yu",
+        "priority": 11
+      }
+    ],
+    "defaultCostumeId": "cos-skr-schl-00",
+    "heightCorrectionPermil": 77,
+    "color": "F69941",
+    "activityFanEventWords": [
+      {
+        "word": "ありがとうー！",
+        "voiceAssetId": "sud_vo_act_skr_fan-01"
+      },
+      {
+        "word": "嬉しいな～",
+        "voiceAssetId": "sud_vo_act_skr_fan-02"
+      },
+      {
+        "word": "また来てね！",
+        "voiceAssetId": "sud_vo_act_skr_fan-03"
+      }
+    ],
+    "talkArrivalMotionAssetId": "mot_adv_chr_skr_appr-001_in",
+    "personalityType": 2,
+    "simplePersonalityType": 2,
+    "sdPersonalityType": 2,
+    "costumeMotionAssetIds": [
+      "mot_dress_chr_cmn_action-001-b_in",
+      "mot_dress_chr_cmn_action-002-b_in"
+    ],
+    "costumeAdditionMotionAssetIds": [
+      "",
+      ""
+    ],
+    "costumeVoiceAssetIds": [
+      "sud_vo_cmn_skr_dress-01",
+      "sud_vo_cmn_skr_dress-02"
+    ],
+    "isLeftHanded": true,
+    "psylliumColerType": 6,
+    "shortProfile": "何気ない日々を大切にする\n天真爛漫なアイドル",
+    "threeSize": "B82・W57・H81",
+    "catchphrase": "今、この胸、すっごい\nドキドキしてるから。",
+    "firstName": "さくら",
+    "idiom": "覚醒",
+    "defaultLiveCostumeId": "cos-skr-schl-00"
+  },
+  {
+    "id": "char-smr",
+    "assetId": "smr",
+    "characterGroupId": "character_group_3",
+    "order": 13,
+    "name": "奥山すみれ",
+    "enName": "SUMIRE OKUYAMA",
+    "cv": "夏川椎菜",
+    "age": "15歳",
+    "birthday": "5月5日",
+    "height": "147cm",
+    "weight": "37kg",
+    "zodiacSign": "おうし座",
+    "hometown": "公立 紅花中学校",
+    "favorite": "兄、故郷、さくらんぼ",
+    "unfavorite": "なし",
+    "profile": "家族を想いアイドルを志した、元天才子役。中学生とは思えないほどしっかりしており、一度会った人の顔と名前を覚える特技を持つ。しかし、心許せる仲間の間では、年相応の無邪気さを覗かせることも。",
+    "costumeIds": [
+      "cos-smr-casl-00",
+      "cos-smr-casl-01",
+      "cos-smr-frut-00",
+      "cos-smr-idol-00",
+      "cos-smr-idol-02",
+      "cos-smr-mizg-00",
+      "cos-smr-mizg-01",
+      "cos-smr-schl-00",
+      "cos-smr-sdam-00",
+      "cos-smr-sdpl-00",
+      "cos-smr-trng-00",
+      "cos-smr-xmas-00"
+    ],
+    "altCharacters": [
+      {
+        "characterId": "char-ai",
+        "priority": 3
+      },
+      {
+        "characterId": "char-aoi",
+        "priority": 6
+      },
+      {
+        "characterId": "char-chs",
+        "priority": 10
+      },
+      {
+        "characterId": "char-hrk",
+        "priority": 8
+      },
+      {
+        "characterId": "char-kkr",
+        "priority": 4
+      },
+      {
+        "characterId": "char-ktn",
+        "priority": 14
+      },
+      {
+        "characterId": "char-mei",
+        "priority": 16
+      },
+      {
+        "characterId": "char-ngs",
+        "priority": 15
+      },
+      {
+        "characterId": "char-rei",
+        "priority": 11
+      },
+      {
+        "characterId": "char-rio",
+        "priority": 5
+      },
+      {
+        "characterId": "char-rui",
+        "priority": 1
+      },
+      {
+        "characterId": "char-ski",
+        "priority": 13
+      },
+      {
+        "characterId": "char-skr",
+        "priority": 9
+      },
+      {
+        "characterId": "char-suz",
+        "priority": 12
+      },
+      {
+        "characterId": "char-szk",
+        "priority": 7
+      },
+      {
+        "characterId": "char-yu",
+        "priority": 2
+      }
+    ],
+    "defaultCostumeId": "cos-smr-schl-00",
+    "heightCorrectionPermil": -615,
+    "color": "FFE495",
+    "activityFanEventWords": [
+      {
+        "word": "ありがとう\nございます！",
+        "voiceAssetId": "sud_vo_act_smr_fan-01"
+      },
+      {
+        "word": "会えて\n嬉しいです！",
+        "voiceAssetId": "sud_vo_act_smr_fan-02"
+      },
+      {
+        "word": "また来て\n下さい！",
+        "voiceAssetId": "sud_vo_act_smr_fan-03"
+      }
+    ],
+    "talkArrivalMotionAssetId": "mot_adv_chr_smr_appr-001_in",
+    "personalityType": 1,
+    "simplePersonalityType": 1,
+    "sdPersonalityType": 1,
+    "costumeMotionAssetIds": [
+      "mot_dress_chr_cmn_action-001-a_in",
+      "mot_dress_chr_cmn_action-002-a_in"
+    ],
+    "costumeAdditionMotionAssetIds": [
+      "",
+      ""
+    ],
+    "costumeVoiceAssetIds": [
+      "sud_vo_cmn_smr_dress-01",
+      "sud_vo_cmn_smr_dress-02"
+    ],
+    "psylliumColerType": 15,
+    "shortProfile": "家族を想い\nアイドルを志した\n元天才子役",
+    "threeSize": "B73・W54・H75",
+    "catchphrase": "元子役？\nえへへ、どうでしょうね〜",
+    "firstName": "すみれ",
+    "idiom": "再燃",
+    "defaultLiveCostumeId": "cos-smr-schl-00"
+  },
+  {
+    "id": "char-stm",
+    "assetId": "stm",
+    "order": 998,
+    "name": "橋本さとみ",
+    "enName": "SATOMI HASHIMOTO",
+    "cv": "楠木ともり",
+    "age": "-",
+    "birthday": "-",
+    "height": "-",
+    "weight": "-",
+    "isNpc": true,
+    "costumeIds": [
+      "cos-stm-casl-00"
+    ],
+    "altCharacters": [
+      {
+        "characterId": "char-ai",
+        "priority": 16
+      },
+      {
+        "characterId": "char-aoi",
+        "priority": 15
+      },
+      {
+        "characterId": "char-chs",
+        "priority": 8
+      },
+      {
+        "characterId": "char-hrk",
+        "priority": 10
+      },
+      {
+        "characterId": "char-kkr",
+        "priority": 17
+      },
+      {
+        "characterId": "char-ktn",
+        "priority": 1
+      },
+      {
+        "characterId": "char-mei",
+        "priority": 5
+      },
+      {
+        "characterId": "char-ngs",
+        "priority": 2
+      },
+      {
+        "characterId": "char-rei",
+        "priority": 9
+      },
+      {
+        "characterId": "char-rio",
+        "priority": 14
+      },
+      {
+        "characterId": "char-rui",
+        "priority": 11
+      },
+      {
+        "characterId": "char-ski",
+        "priority": 3
+      },
+      {
+        "characterId": "char-skr",
+        "priority": 6
+      },
+      {
+        "characterId": "char-smr",
+        "priority": 13
+      },
+      {
+        "characterId": "char-suz",
+        "priority": 4
+      },
+      {
+        "characterId": "char-szk",
+        "priority": 7
+      },
+      {
+        "characterId": "char-yu",
+        "priority": 12
+      }
+    ],
+    "defaultCostumeId": "cos-stm-casl-00",
+    "heightCorrectionPermil": -154,
+    "talkArrivalMotionAssetId": "mot_adv_chr_cmn_glad-005_in",
+    "personalityType": 1,
+    "simplePersonalityType": 1,
+    "sdPersonalityType": 1,
+    "firstName": "橋本",
+    "defaultLiveCostumeId": "cos-stm-casl-00"
+  },
+  {
+    "id": "char-suz",
+    "assetId": "suz",
+    "characterGroupId": "character_group_1",
+    "order": 4,
+    "name": "成宮すず",
+    "enName": "SUZU NARUMIYA",
+    "cv": "相川奏多",
+    "age": "15歳",
+    "birthday": "9月13日",
+    "height": "142cm",
+    "weight": "35kg",
+    "zodiacSign": "おとめ座",
+    "hometown": "私立 麗葉女学院中等部",
+    "favorite": "麻奈、お金、お茶",
+    "unfavorite": "コーヒー、留学",
+    "profile": "麻奈を崇拝する、ドジでいじられやすいお嬢様。両親から留学を迫られ、半ば逃げるように事務所を訪れた。その後、自身の逃げ癖を克服し両親から正式に活動を認めてもらい、星見プロダクションを盛り上げている。",
+    "costumeIds": [
+      "cos-suz-anml-00",
+      "cos-suz-casl-00",
+      "cos-suz-casl-01",
+      "cos-suz-idol-00",
+      "cos-suz-idol-01",
+      "cos-suz-idol-02",
+      "cos-suz-mizg-00",
+      "cos-suz-mizg-01",
+      "cos-suz-onep-00",
+      "cos-suz-schl-00",
+      "cos-suz-sdam-00",
+      "cos-suz-sdpl-00",
+      "cos-suz-trng-00"
+    ],
+    "altCharacters": [
+      {
+        "characterId": "char-ai",
+        "priority": 11
+      },
+      {
+        "characterId": "char-aoi",
+        "priority": 10
+      },
+      {
+        "characterId": "char-chs",
+        "priority": 9
+      },
+      {
+        "characterId": "char-hrk",
+        "priority": 7
+      },
+      {
+        "characterId": "char-kkr",
+        "priority": 12
+      },
+      {
+        "characterId": "char-ktn",
+        "priority": 4
+      },
+      {
+        "characterId": "char-mei",
+        "priority": 2
+      },
+      {
+        "characterId": "char-ngs",
+        "priority": 1
+      },
+      {
+        "characterId": "char-rei",
+        "priority": 5
+      },
+      {
+        "characterId": "char-rio",
+        "priority": 13
+      },
+      {
+        "characterId": "char-rui",
+        "priority": 14
+      },
+      {
+        "characterId": "char-ski",
+        "priority": 3
+      },
+      {
+        "characterId": "char-skr",
+        "priority": 8
+      },
+      {
+        "characterId": "char-smr",
+        "priority": 16
+      },
+      {
+        "characterId": "char-szk",
+        "priority": 6
+      },
+      {
+        "characterId": "char-yu",
+        "priority": 15
+      }
+    ],
+    "defaultCostumeId": "cos-suz-schl-00",
+    "heightCorrectionPermil": -1000,
+    "color": "F2EE56",
+    "activityFanEventWords": [
+      {
+        "word": "感謝ですわ。",
+        "voiceAssetId": "sud_vo_act_suz_fan-01"
+      },
+      {
+        "word": "会えて嬉しい\nですわ。",
+        "voiceAssetId": "sud_vo_act_suz_fan-02"
+      },
+      {
+        "word": "ごきげん\nよう。",
+        "voiceAssetId": "sud_vo_act_suz_fan-03"
+      }
+    ],
+    "talkArrivalMotionAssetId": "mot_adv_chr_suz_appr-001_in",
+    "personalityType": 1,
+    "simplePersonalityType": 1,
+    "sdPersonalityType": 1,
+    "costumeMotionAssetIds": [
+      "mot_dress_chr_cmn_action-001-a_in",
+      "mot_dress_chr_cmn_action-002-a_in"
+    ],
+    "costumeAdditionMotionAssetIds": [
+      "",
+      ""
+    ],
+    "costumeVoiceAssetIds": [
+      "sud_vo_cmn_suz_dress-01",
+      "sud_vo_cmn_suz_dress-02"
+    ],
+    "psylliumColerType": 5,
+    "shortProfile": "長瀬麻奈を崇拝する\nドジでいじられやすい\nお嬢様",
+    "threeSize": "B71・W53・H73",
+    "catchphrase": "私の足を引っ張らないよう\n皆様、よろしく\nお願いしますわ。",
+    "firstName": "すず",
+    "idiom": "一念",
+    "defaultLiveCostumeId": "cos-suz-schl-00"
+  },
+  {
+    "id": "char-szk",
+    "assetId": "szk",
+    "characterGroupId": "character_group_2",
+    "order": 7,
+    "name": "兵藤雫",
+    "enName": "SHIZUKU HYODO",
+    "cv": "首藤志奈",
+    "age": "16歳",
+    "birthday": "10月15日",
+    "height": "150cm",
+    "weight": "40kg",
+    "zodiacSign": "てんびん座",
+    "hometown": "公立 光ヶ崎高校",
+    "favorite": "アイドル、従姉、饅頭",
+    "unfavorite": "家族以外の人、わさび",
+    "profile": "笑顔が少し苦手で寡黙なアイドルオタク。加入当初、トーク力や乏しい感情表現に不安を覚え、アイドルとしての自信をなくしていた。しかし、同じ悩みを抱えていた千紗と意気投合し、支え合いながら日々成長している。",
+    "costumeIds": [
+      "cos-szk-casl-00",
+      "cos-szk-casl-01",
+      "cos-szk-chna-00",
+      "cos-szk-idol-00",
+      "cos-szk-idol-01",
+      "cos-szk-idol-02",
+      "cos-szk-idol-03",
+      "cos-szk-mizg-00",
+      "cos-szk-mizg-01",
+      "cos-szk-newy-00",
+      "cos-szk-schl-00",
+      "cos-szk-sdam-00",
+      "cos-szk-sdpl-00",
+      "cos-szk-trng-00",
+      "cos-szk-yuru-00"
+    ],
+    "altCharacters": [
+      {
+        "characterId": "char-ai",
+        "priority": 14
+      },
+      {
+        "characterId": "char-aoi",
+        "priority": 13
+      },
+      {
+        "characterId": "char-chs",
+        "priority": 1
+      },
+      {
+        "characterId": "char-hrk",
+        "priority": 3
+      },
+      {
+        "characterId": "char-kkr",
+        "priority": 15
+      },
+      {
+        "characterId": "char-ktn",
+        "priority": 8
+      },
+      {
+        "characterId": "char-mei",
+        "priority": 5
+      },
+      {
+        "characterId": "char-ngs",
+        "priority": 9
+      },
+      {
+        "characterId": "char-rei",
+        "priority": 2
+      },
+      {
+        "characterId": "char-rio",
+        "priority": 16
+      },
+      {
+        "characterId": "char-rui",
+        "priority": 10
+      },
+      {
+        "characterId": "char-ski",
+        "priority": 7
+      },
+      {
+        "characterId": "char-skr",
+        "priority": 4
+      },
+      {
+        "characterId": "char-smr",
+        "priority": 12
+      },
+      {
+        "characterId": "char-suz",
+        "priority": 6
+      },
+      {
+        "characterId": "char-yu",
+        "priority": 11
+      }
+    ],
+    "defaultCostumeId": "cos-szk-schl-00",
+    "heightCorrectionPermil": -385,
+    "color": "99C99B",
+    "activityFanEventWords": [
+      {
+        "word": "来てくれて\n嬉しい…",
+        "voiceAssetId": "sud_vo_act_szk_fan-01"
+      },
+      {
+        "word": "会えて\nよかった…",
+        "voiceAssetId": "sud_vo_act_szk_fan-02"
+      },
+      {
+        "word": "また来てね…",
+        "voiceAssetId": "sud_vo_act_szk_fan-03"
+      }
+    ],
+    "talkArrivalMotionAssetId": "mot_adv_chr_szk_appr-001_in",
+    "personalityType": 5,
+    "simplePersonalityType": 3,
+    "sdPersonalityType": 5,
+    "costumeMotionAssetIds": [
+      "mot_dress_chr_cmn_action-001-e_in",
+      "mot_dress_chr_cmn_action-002-e_in"
+    ],
+    "costumeAdditionMotionAssetIds": [
+      "",
+      ""
+    ],
+    "costumeVoiceAssetIds": [
+      "sud_vo_cmn_szk_dress-01",
+      "sud_vo_cmn_szk_dress-02"
+    ],
+    "isLeftHanded": true,
+    "psylliumColerType": 2,
+    "shortProfile": "笑顔が少し苦手で寡黙な\nアイドルオタク",
+    "threeSize": "B77・W57・H79",
+    "catchphrase": "トーク、は……\nなんとか、\nがんばる。",
+    "firstName": "雫",
+    "idiom": "開花",
+    "defaultLiveCostumeId": "cos-szk-schl-00"
+  },
+  {
+    "id": "char-vns",
+    "assetId": "vns",
+    "order": 999,
+    "name": "VENUS事務局",
+    "enName": "VENUS",
+    "age": "-",
+    "birthday": "-",
+    "height": "-",
+    "weight": "-",
+    "isNpc": true,
+    "costumeIds": [
+      "cos-vns-casl-00"
+    ],
+    "altCharacters": [
+      {
+        "characterId": "char-ai",
+        "priority": 16
+      },
+      {
+        "characterId": "char-aoi",
+        "priority": 15
+      },
+      {
+        "characterId": "char-chs",
+        "priority": 8
+      },
+      {
+        "characterId": "char-hrk",
+        "priority": 10
+      },
+      {
+        "characterId": "char-kkr",
+        "priority": 17
+      },
+      {
+        "characterId": "char-ktn",
+        "priority": 1
+      },
+      {
+        "characterId": "char-mei",
+        "priority": 5
+      },
+      {
+        "characterId": "char-ngs",
+        "priority": 2
+      },
+      {
+        "characterId": "char-rei",
+        "priority": 9
+      },
+      {
+        "characterId": "char-rio",
+        "priority": 14
+      },
+      {
+        "characterId": "char-rui",
+        "priority": 11
+      },
+      {
+        "characterId": "char-ski",
+        "priority": 3
+      },
+      {
+        "characterId": "char-skr",
+        "priority": 6
+      },
+      {
+        "characterId": "char-smr",
+        "priority": 13
+      },
+      {
+        "characterId": "char-suz",
+        "priority": 4
+      },
+      {
+        "characterId": "char-szk",
+        "priority": 7
+      },
+      {
+        "characterId": "char-yu",
+        "priority": 12
+      }
+    ],
+    "defaultCostumeId": "cos-stm-casl-00",
+    "heightCorrectionPermil": -154,
+    "talkArrivalMotionAssetId": "mot_adv_chr_cmn_glad-005_in",
+    "personalityType": 1,
+    "simplePersonalityType": 1,
+    "sdPersonalityType": 1,
+    "firstName": "VENUS事務局",
+    "defaultLiveCostumeId": "cos-stm-casl-00"
+  },
+  {
+    "id": "char-yu",
+    "assetId": "yu",
+    "characterGroupId": "character_group_3",
+    "order": 12,
+    "name": "鈴村優",
+    "enName": "YU SUZUMURA",
+    "cv": "麻倉もも",
+    "age": "16歳",
+    "birthday": "2月27日",
+    "height": "155cm",
+    "weight": "46kg",
+    "zodiacSign": "うお座",
+    "hometown": "私立 月出高校 芸能コース",
+    "favorite": "瑠依、クロワッサン",
+    "unfavorite": "瑠依を批判する人、お蕎麦",
+    "profile": "京都出身で、常に冷静なTRINITYAiLEのまとめ役。大企業の社長の父と有名女優の母を持つ。瑠依に魅了され、彼女を第一に考え行動する。ファンにも周知の事実で、優の献身的な姿に惹かれるファンも多い。",
+    "costumeIds": [
+      "cos-yu-casl-00",
+      "cos-yu-casl-01",
+      "cos-yu-idol-00",
+      "cos-yu-idol-02",
+      "cos-yu-mizg-00",
+      "cos-yu-mizg-01",
+      "cos-yu-schl-00",
+      "cos-yu-sdam-00",
+      "cos-yu-sdpl-00",
+      "cos-yu-trng-00",
+      "cos-yu-xmas-00"
+    ],
+    "altCharacters": [
+      {
+        "characterId": "char-ai",
+        "priority": 6
+      },
+      {
+        "characterId": "char-aoi",
+        "priority": 5
+      },
+      {
+        "characterId": "char-chs",
+        "priority": 9
+      },
+      {
+        "characterId": "char-hrk",
+        "priority": 7
+      },
+      {
+        "characterId": "char-kkr",
+        "priority": 3
+      },
+      {
+        "characterId": "char-ktn",
+        "priority": 13
+      },
+      {
+        "characterId": "char-mei",
+        "priority": 15
+      },
+      {
+        "characterId": "char-ngs",
+        "priority": 14
+      },
+      {
+        "characterId": "char-rei",
+        "priority": 10
+      },
+      {
+        "characterId": "char-rio",
+        "priority": 4
+      },
+      {
+        "characterId": "char-rui",
+        "priority": 2
+      },
+      {
+        "characterId": "char-ski",
+        "priority": 12
+      },
+      {
+        "characterId": "char-skr",
+        "priority": 8
+      },
+      {
+        "characterId": "char-smr",
+        "priority": 1
+      },
+      {
+        "characterId": "char-suz",
+        "priority": 16
+      },
+      {
+        "characterId": "char-szk",
+        "priority": 11
+      }
+    ],
+    "defaultCostumeId": "cos-yu-schl-00",
+    "color": "AECE6E",
+    "activityFanEventWords": [
+      {
+        "word": "わざわざ\nおおきに～",
+        "voiceAssetId": "sud_vo_act_yu_fan-01"
+      },
+      {
+        "word": "会えて\n嬉しいわ～",
+        "voiceAssetId": "sud_vo_act_yu_fan-02"
+      },
+      {
+        "word": "また来てな～",
+        "voiceAssetId": "sud_vo_act_yu_fan-03"
+      }
+    ],
+    "talkArrivalMotionAssetId": "mot_adv_chr_yu_appr-001_in",
+    "personalityType": 3,
+    "simplePersonalityType": 2,
+    "sdPersonalityType": 3,
+    "costumeMotionAssetIds": [
+      "mot_dress_chr_cmn_action-001-c_in",
+      "mot_dress_chr_cmn_action-002-c_in"
+    ],
+    "costumeAdditionMotionAssetIds": [
+      "",
+      ""
+    ],
+    "costumeVoiceAssetIds": [
+      "sud_vo_cmn_yu_dress-01",
+      "sud_vo_cmn_yu_dress-02"
+    ],
+    "psylliumColerType": 7,
+    "shortProfile": "常に冷静な\nTRINITYAiLEの\nまとめ役",
+    "threeSize": "B88・W59・H86",
+    "catchphrase": "瑠依ちゃんが一番に\nなってくれたら\nええんや。",
+    "firstName": "優",
+    "idiom": "誠忠",
+    "defaultLiveCostumeId": "cos-yu-schl-00"
+  }
+]

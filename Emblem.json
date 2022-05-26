@@ -1,0 +1,2523 @@
+[
+  {
+    "id": "emb-001",
+    "name": "駆け出し",
+    "assetId": "manager_a",
+    "isViewableInInactive": true,
+    "order": 100,
+    "description": "最初から所持している称号"
+  },
+  {
+    "id": "emb-002",
+    "name": "BIG4",
+    "assetId": "big4",
+    "autoProvideConditionId": "cd-achievement-hie-001-001",
+    "isViewableInInactive": true,
+    "order": 4010,
+    "description": "VENUSプログラムBIG4到達"
+  },
+  {
+    "id": "emb-003",
+    "name": "ユニオン統括",
+    "assetId": "guild",
+    "order": 2000,
+    "description": "ユニオンの指定条件達成"
+  },
+  {
+    "id": "emb-004",
+    "name": "神対応",
+    "assetId": "faneve_kami",
+    "autoProvideConditionId": "cd-fan_event_best_score_rank-s_plus-1",
+    "isViewableInInactive": true,
+    "order": 4040,
+    "description": "ファンイベントのランクS+1以上"
+  },
+  {
+    "id": "emb-005",
+    "name": "初任給",
+    "assetId": "salary_a",
+    "autoProvideConditionId": "cd-highest_salary_gte-1",
+    "isViewableInInactive": true,
+    "order": 4070,
+    "description": "初任給を受け取る"
+  },
+  {
+    "id": "emb-006",
+    "name": "稼ぎ頭",
+    "assetId": "salary_b",
+    "autoProvideConditionId": "cd-highest_salary_gte-5000",
+    "isViewableInInactive": true,
+    "order": 4020,
+    "description": "過去最高の給料が5000以上"
+  },
+  {
+    "id": "emb-007",
+    "name": "ワーカーホリック",
+    "assetId": "work",
+    "autoProvideConditionId": "cd-accumulation_login_days_gte-25",
+    "isViewableInInactive": true,
+    "order": 4080,
+    "description": "累計ログイン日数25日以上"
+  },
+  {
+    "id": "emb-008",
+    "name": "一人前マネージャー",
+    "assetId": "manager_b",
+    "autoProvideConditionId": "cd-manager_level_gte-50",
+    "isViewableInInactive": true,
+    "order": 4080,
+    "description": "マネージャーLv50"
+  },
+  {
+    "id": "emb-009",
+    "name": "チーフマネージャー",
+    "assetId": "manager_c",
+    "autoProvideConditionId": "cd-manager_level_gte-100",
+    "isViewableInInactive": true,
+    "order": 4050,
+    "description": "マネージャーLv100"
+  },
+  {
+    "id": "emb-010",
+    "name": "ライブデビュー",
+    "assetId": "live_main-01",
+    "autoProvideConditionId": "cd-clear-area-main-007",
+    "isViewableInInactive": true,
+    "order": 4160,
+    "description": "メインライブ#7をクリア"
+  },
+  {
+    "id": "emb-011",
+    "name": "ホールデビュー",
+    "assetId": "live_main-02",
+    "autoProvideConditionId": "cd-clear-area-main-015",
+    "isViewableInInactive": true,
+    "order": 4170,
+    "description": "メインライブ#15をクリア"
+  },
+  {
+    "id": "emb-012",
+    "name": "アリーナデビュー",
+    "assetId": "live_main-03",
+    "autoProvideConditionId": "cd-clear-area-main-025",
+    "isViewableInInactive": true,
+    "order": 4180,
+    "description": "メインライブ#25をクリア"
+  },
+  {
+    "id": "emb-014",
+    "name": "Fight oh!!",
+    "assetId": "area_1_100",
+    "order": 2110,
+    "description": "ハイスコアライブ「Fight oh!!」で100位以内獲得"
+  },
+  {
+    "id": "emb-015",
+    "name": "攻めちゃうんだミライ",
+    "assetId": "area_1",
+    "order": 2120,
+    "description": "ハイスコアライブ「Fight oh!!」で1位獲得"
+  },
+  {
+    "id": "emb-018",
+    "name": "Shine Purity",
+    "assetId": "area_3_100",
+    "order": 2010,
+    "description": "ハイスコアライブ「Shine Purity」で100位以内獲得"
+  },
+  {
+    "id": "emb-019",
+    "name": "星を見て輝かせて",
+    "assetId": "area_3",
+    "order": 2020,
+    "description": "ハイスコアライブ「Shine Purity」で1位獲得"
+  },
+  {
+    "id": "emb-020",
+    "name": "月下儚美",
+    "assetId": "area_4_100",
+    "order": 2070,
+    "description": "ハイスコアライブ「月下儚美」で100位以内獲得"
+  },
+  {
+    "id": "emb-021",
+    "name": "月明かり照らす光",
+    "assetId": "area_4",
+    "order": 2080,
+    "description": "ハイスコアライブ「月下儚美」で1位獲得"
+  },
+  {
+    "id": "emb-024",
+    "name": "SUNNY PEACE HARMONY",
+    "assetId": "area_6_100",
+    "order": 2030,
+    "description": "ハイスコアライブ「SUNNY PEACE HARMONY」で100位以内獲得"
+  },
+  {
+    "id": "emb-025",
+    "name": "キラキラと輝いて",
+    "assetId": "area_6",
+    "order": 2040,
+    "description": "ハイスコアライブ「SUNNY PEACE HARMONY」で1位獲得"
+  },
+  {
+    "id": "emb-028",
+    "name": "Aile to Yell",
+    "assetId": "area_8_100",
+    "order": 2050,
+    "description": "ハイスコアライブ「Aile to Yell」で100位以内獲得"
+  },
+  {
+    "id": "emb-029",
+    "name": "まっすぐに届けるよ",
+    "assetId": "area_8",
+    "order": 2060,
+    "description": "ハイスコアライブ「Aile to Yell」で1位獲得"
+  },
+  {
+    "id": "emb-030",
+    "name": "Shock out, Dance!!",
+    "assetId": "area_9_100",
+    "order": 2090,
+    "description": "ハイスコアライブ「Shock out, Dance!!」で100位以内獲得"
+  },
+  {
+    "id": "emb-031",
+    "name": "心を闇から取り戻せ",
+    "assetId": "area_9",
+    "order": 2100,
+    "description": "ハイスコアライブ「Shock out, Dance!!」で1位獲得"
+  },
+  {
+    "id": "emb-032",
+    "name": "期待の新人",
+    "assetId": "tower_50",
+    "autoProvideConditionId": "cd-clear-qt-tower-050",
+    "isViewableInInactive": true,
+    "order": 4110,
+    "description": "VENUSタワーSTAGE50クリア"
+  },
+  {
+    "id": "emb-033",
+    "name": "著名アイドル",
+    "assetId": "tower_100",
+    "autoProvideConditionId": "cd-clear-qt-tower-100",
+    "isViewableInInactive": true,
+    "order": 4120,
+    "description": "VENUSタワーSTAGE100クリア"
+  },
+  {
+    "id": "emb-034",
+    "name": "売れっ子アイドル",
+    "assetId": "tower_200",
+    "autoProvideConditionId": "cd-clear-qt-tower-200",
+    "isViewableInInactive": true,
+    "order": 4130,
+    "description": "VENUSタワーSTAGE200クリア"
+  },
+  {
+    "id": "emb-035",
+    "name": "時代の寵児",
+    "assetId": "tower_300",
+    "autoProvideConditionId": "cd-clear-qt-tower-300",
+    "isViewableInInactive": true,
+    "order": 4140,
+    "description": "VENUSタワーSTAGE300クリア"
+  },
+  {
+    "id": "emb-036",
+    "name": "アイドル界の至宝",
+    "assetId": "tower_500",
+    "autoProvideConditionId": "cd-clear-qt-tower-500",
+    "isViewableInInactive": true,
+    "order": 4150,
+    "description": "VENUSタワーSTAGE500クリア"
+  },
+  {
+    "id": "emb-037",
+    "name": "長瀬琴乃-呪縛",
+    "assetId": "job_ktn",
+    "autoProvideConditionId": "cd-activity_level-ktn-30",
+    "isViewableInInactive": true,
+    "order": 5010,
+    "description": "長瀬琴乃お仕事Lv30"
+  },
+  {
+    "id": "emb-038",
+    "name": "伊吹渚-献身",
+    "assetId": "job_ngs",
+    "autoProvideConditionId": "cd-activity_level-ngs-30",
+    "isViewableInInactive": true,
+    "order": 5020,
+    "description": "伊吹渚お仕事Lv30"
+  },
+  {
+    "id": "emb-039",
+    "name": "早坂芽衣-憧憬",
+    "assetId": "job_mei",
+    "autoProvideConditionId": "cd-activity_level-mei-30",
+    "isViewableInInactive": true,
+    "order": 5030,
+    "description": "早坂芽衣お仕事Lv30"
+  },
+  {
+    "id": "emb-040",
+    "name": "成宮すず-一念",
+    "assetId": "job_suz",
+    "autoProvideConditionId": "cd-activity_level-suz-30",
+    "isViewableInInactive": true,
+    "order": 5040,
+    "description": "成宮すずお仕事Lv30"
+  },
+  {
+    "id": "emb-041",
+    "name": "白石沙季-熱誠",
+    "assetId": "job_ski",
+    "autoProvideConditionId": "cd-activity_level-ski-30",
+    "isViewableInInactive": true,
+    "order": 5050,
+    "description": "白石沙季お仕事Lv30"
+  },
+  {
+    "id": "emb-042",
+    "name": "川咲さくら-覚醒",
+    "assetId": "job_skr",
+    "autoProvideConditionId": "cd-activity_level-skr-30",
+    "isViewableInInactive": true,
+    "order": 5060,
+    "description": "川咲さくらお仕事Lv30"
+  },
+  {
+    "id": "emb-043",
+    "name": "白石千紗-昇華",
+    "assetId": "job_chs",
+    "autoProvideConditionId": "cd-activity_level-chs-30",
+    "isViewableInInactive": true,
+    "order": 5070,
+    "description": "白石千紗お仕事Lv30"
+  },
+  {
+    "id": "emb-044",
+    "name": "一ノ瀬怜-不屈",
+    "assetId": "job_rei",
+    "autoProvideConditionId": "cd-activity_level-rei-30",
+    "isViewableInInactive": true,
+    "order": 5080,
+    "description": "一ノ瀬怜お仕事Lv30"
+  },
+  {
+    "id": "emb-045",
+    "name": "兵藤雫-開花",
+    "assetId": "job_szk",
+    "autoProvideConditionId": "cd-activity_level-szk-30",
+    "isViewableInInactive": true,
+    "order": 5090,
+    "description": "兵藤雫お仕事Lv30"
+  },
+  {
+    "id": "emb-046",
+    "name": "佐伯遙子-執念",
+    "assetId": "job_hrk",
+    "autoProvideConditionId": "cd-activity_level-hrk-30",
+    "isViewableInInactive": true,
+    "order": 5100,
+    "description": "佐伯遙子お仕事Lv30"
+  },
+  {
+    "id": "emb-047",
+    "name": "天動瑠依-堅固",
+    "assetId": "job_rui",
+    "autoProvideConditionId": "cd-activity_level-rui-30",
+    "isViewableInInactive": true,
+    "order": 5110,
+    "description": "天動瑠依お仕事Lv30"
+  },
+  {
+    "id": "emb-048",
+    "name": "鈴村優-誠忠",
+    "assetId": "job_yu",
+    "autoProvideConditionId": "cd-activity_level-yu-30",
+    "isViewableInInactive": true,
+    "order": 5120,
+    "description": "鈴村優お仕事Lv30"
+  },
+  {
+    "id": "emb-049",
+    "name": "奥山すみれ-再燃",
+    "assetId": "job_smr",
+    "autoProvideConditionId": "cd-activity_level-smr-30",
+    "isViewableInInactive": true,
+    "order": 5130,
+    "description": "奥山すみれお仕事Lv30"
+  },
+  {
+    "id": "emb-050",
+    "name": "神崎莉央-気魄",
+    "assetId": "job_rio",
+    "autoProvideConditionId": "cd-activity_level-rio-30",
+    "isViewableInInactive": true,
+    "order": 5140,
+    "description": "神崎莉央お仕事Lv30"
+  },
+  {
+    "id": "emb-051",
+    "name": "井川葵-随意",
+    "assetId": "job_aoi",
+    "autoProvideConditionId": "cd-activity_level-aoi-30",
+    "isViewableInInactive": true,
+    "order": 5150,
+    "description": "井川葵お仕事Lv30"
+  },
+  {
+    "id": "emb-052",
+    "name": "小美山愛-真剣",
+    "assetId": "job_ai",
+    "autoProvideConditionId": "cd-activity_level-ai-30",
+    "isViewableInInactive": true,
+    "order": 5160,
+    "description": "小美山愛お仕事Lv30"
+  },
+  {
+    "id": "emb-053",
+    "name": "赤崎こころ-打破",
+    "assetId": "job_kkr",
+    "autoProvideConditionId": "cd-activity_level-kkr-30",
+    "isViewableInInactive": true,
+    "order": 5170,
+    "description": "赤崎こころお仕事Lv30"
+  },
+  {
+    "id": "emb-054",
+    "name": "自然な笑顔",
+    "assetId": "story_ktn",
+    "autoProvideConditionId": "cd-ms-read-message-story-ktn-001-004",
+    "order": 3050,
+    "description": "「私に怖いイメージがある」読了"
+  },
+  {
+    "id": "emb-055",
+    "name": "気配り上手",
+    "assetId": "story_ngs",
+    "autoProvideConditionId": "cd-ms-read-message-story-ngs-001-004",
+    "order": 3060,
+    "description": "「こっそりゆず風呂」読了"
+  },
+  {
+    "id": "emb-056",
+    "name": "型破りなアイドル",
+    "assetId": "story_mei",
+    "autoProvideConditionId": "cd-ms-read-message-story-mei-001-004",
+    "order": 3070,
+    "description": "「特殊能力」読了"
+  },
+  {
+    "id": "emb-057",
+    "name": "大人の階段",
+    "assetId": "story_suz",
+    "autoProvideConditionId": "cd-ms-read-message-story-suz-001-004",
+    "order": 3080,
+    "description": "「ダベデジダワ～！」読了"
+  },
+  {
+    "id": "emb-058",
+    "name": "優等生",
+    "assetId": "story_ski",
+    "autoProvideConditionId": "cd-ms-read-message-story-ski-001-004",
+    "order": 3090,
+    "description": "「寮の惨状」読了"
+  },
+  {
+    "id": "emb-059",
+    "name": "まだスタートライン",
+    "assetId": "story_skr",
+    "autoProvideConditionId": "cd-ms-read-message-story-skr-001-004",
+    "order": 3100,
+    "description": "「なかよし大作戦」読了"
+  },
+  {
+    "id": "emb-060",
+    "name": "踏み出した一歩",
+    "assetId": "story_chs",
+    "autoProvideConditionId": "cd-ms-read-message-story-chs-001-004",
+    "order": 3110,
+    "description": "「クビの危機」読了"
+  },
+  {
+    "id": "emb-061",
+    "name": "以心伝心",
+    "assetId": "story_rei",
+    "autoProvideConditionId": "cd-ms-read-message-story-rei-001-004",
+    "order": 3120,
+    "description": "「アドバイスの工夫」読了"
+  },
+  {
+    "id": "emb-062",
+    "name": "おしゃべり上手",
+    "assetId": "story_szk",
+    "autoProvideConditionId": "cd-ms-read-message-story-szk-001-004",
+    "order": 3130,
+    "description": "「アイドルMCあるある」読了"
+  },
+  {
+    "id": "emb-063",
+    "name": "頼れるお姉さん",
+    "assetId": "story_hrk",
+    "autoProvideConditionId": "cd-ms-read-message-story-hrk-001-004",
+    "order": 3140,
+    "description": "「オール平均点」読了"
+  },
+  {
+    "id": "emb-064",
+    "name": "グループの強み",
+    "assetId": "story_rui",
+    "autoProvideConditionId": "cd-ms-read-message-story-rui-001-004",
+    "order": 3150,
+    "description": "「夜遊び禁止」読了"
+  },
+  {
+    "id": "emb-065",
+    "name": "地元愛",
+    "assetId": "story_yu",
+    "autoProvideConditionId": "cd-ms-read-message-story-yu-001-004",
+    "order": 3160,
+    "description": "「はんなりとこてこて」読了"
+  },
+  {
+    "id": "emb-066",
+    "name": "流行に敏感",
+    "assetId": "story_smr",
+    "autoProvideConditionId": "cd-ms-read-message-story-smr-001-004",
+    "order": 3170,
+    "description": "「都会の流行」読了"
+  },
+  {
+    "id": "emb-067",
+    "name": "意外な特技",
+    "assetId": "story_rio",
+    "autoProvideConditionId": "cd-ms-read-message-story-rio-001-004",
+    "order": 3180,
+    "description": "「保護者同伴」読了"
+  },
+  {
+    "id": "emb-068",
+    "name": "変わらないスタンス",
+    "assetId": "story_aoi",
+    "autoProvideConditionId": "cd-ms-read-message-story-aoi-001-004",
+    "order": 3190,
+    "description": "「歌のレッスン」読了"
+  },
+  {
+    "id": "emb-069",
+    "name": "程よい筋肉",
+    "assetId": "story_ai",
+    "autoProvideConditionId": "cd-ms-read-message-story-ai-001-004",
+    "order": 3200,
+    "description": "「私強そう事件＠お台場」読了"
+  },
+  {
+    "id": "emb-070",
+    "name": "MC上手",
+    "assetId": "story_kkr",
+    "autoProvideConditionId": "cd-ms-read-message-story-kkr-001-004",
+    "order": 3210,
+    "description": "「ほめ殺しのこころ」読了"
+  },
+  {
+    "id": "emb-071",
+    "name": "ファン第一！",
+    "assetId": "fan",
+    "autoProvideConditionId": "cd-fan_event_total_count_gte-50",
+    "isViewableInInactive": true,
+    "order": 4090,
+    "description": "ファンイベントを50回行う"
+  },
+  {
+    "id": "emb-072",
+    "name": "引っ張りだこ",
+    "assetId": "oct",
+    "autoProvideConditionId": "cd-promotion_total_hours_gte-500",
+    "isViewableInInactive": true,
+    "order": 4100,
+    "description": "プロモーションを500時間行う"
+  },
+  {
+    "id": "emb-073",
+    "name": "息抜き上手",
+    "assetId": "refresh",
+    "autoProvideConditionId": "cd-refresh_total_count_gte-50",
+    "isViewableInInactive": true,
+    "order": 6010,
+    "description": "リフレッシュを50回行う"
+  },
+  {
+    "id": "emb-074",
+    "name": "長瀬琴乃担当",
+    "assetId": "fan_3_ktn",
+    "autoProvideConditionId": "cd-fan_amount-ktn-100",
+    "isViewableInInactive": true,
+    "order": 5350,
+    "description": "長瀬琴乃ファン100人"
+  },
+  {
+    "id": "emb-075",
+    "name": "長瀬琴乃専属",
+    "assetId": "fan_5_ktn",
+    "autoProvideConditionId": "cd-fan_amount-ktn-100000",
+    "isViewableInInactive": true,
+    "order": 5180,
+    "description": "長瀬琴乃ファン10万人"
+  },
+  {
+    "id": "emb-076",
+    "name": "伊吹渚担当",
+    "assetId": "fan_3_ngs",
+    "autoProvideConditionId": "cd-fan_amount-ngs-100",
+    "isViewableInInactive": true,
+    "order": 5360,
+    "description": "伊吹渚ファン100人"
+  },
+  {
+    "id": "emb-077",
+    "name": "伊吹渚専属",
+    "assetId": "fan_5_ngs",
+    "autoProvideConditionId": "cd-fan_amount-ngs-100000",
+    "isViewableInInactive": true,
+    "order": 5190,
+    "description": "伊吹渚ファン10万人"
+  },
+  {
+    "id": "emb-078",
+    "name": "早坂芽衣担当",
+    "assetId": "fan_3_mei",
+    "autoProvideConditionId": "cd-fan_amount-mei-100",
+    "isViewableInInactive": true,
+    "order": 5370,
+    "description": "早坂芽衣ファン100人"
+  },
+  {
+    "id": "emb-079",
+    "name": "早坂芽衣専属",
+    "assetId": "fan_5_mei",
+    "autoProvideConditionId": "cd-fan_amount-mei-100000",
+    "isViewableInInactive": true,
+    "order": 5200,
+    "description": "早坂芽衣ファン10万人"
+  },
+  {
+    "id": "emb-080",
+    "name": "成宮すず担当",
+    "assetId": "fan_3_suz",
+    "autoProvideConditionId": "cd-fan_amount-suz-100",
+    "isViewableInInactive": true,
+    "order": 5380,
+    "description": "成宮すずファン100人"
+  },
+  {
+    "id": "emb-081",
+    "name": "成宮すず専属",
+    "assetId": "fan_5_suz",
+    "autoProvideConditionId": "cd-fan_amount-suz-100000",
+    "isViewableInInactive": true,
+    "order": 5210,
+    "description": "成宮すずファン10万人"
+  },
+  {
+    "id": "emb-082",
+    "name": "白石沙季担当",
+    "assetId": "fan_3_ski",
+    "autoProvideConditionId": "cd-fan_amount-ski-100",
+    "isViewableInInactive": true,
+    "order": 5390,
+    "description": "白石沙季ファン100人"
+  },
+  {
+    "id": "emb-083",
+    "name": "白石沙季専属",
+    "assetId": "fan_5_ski",
+    "autoProvideConditionId": "cd-fan_amount-ski-100000",
+    "isViewableInInactive": true,
+    "order": 5220,
+    "description": "白石沙季ファン10万人"
+  },
+  {
+    "id": "emb-084",
+    "name": "川咲さくら担当",
+    "assetId": "fan_3_skr",
+    "autoProvideConditionId": "cd-fan_amount-skr-100",
+    "isViewableInInactive": true,
+    "order": 5400,
+    "description": "川咲さくらファン100人"
+  },
+  {
+    "id": "emb-085",
+    "name": "川咲さくら専属",
+    "assetId": "fan_5_skr",
+    "autoProvideConditionId": "cd-fan_amount-skr-100000",
+    "isViewableInInactive": true,
+    "order": 5230,
+    "description": "川咲さくらファン10万人"
+  },
+  {
+    "id": "emb-086",
+    "name": "白石千紗担当",
+    "assetId": "fan_3_chs",
+    "autoProvideConditionId": "cd-fan_amount-chs-100",
+    "isViewableInInactive": true,
+    "order": 5410,
+    "description": "白石千紗ファン100人"
+  },
+  {
+    "id": "emb-087",
+    "name": "白石千紗専属",
+    "assetId": "fan_5_chs",
+    "autoProvideConditionId": "cd-fan_amount-chs-100000",
+    "isViewableInInactive": true,
+    "order": 5240,
+    "description": "白石千紗ファン10万人"
+  },
+  {
+    "id": "emb-088",
+    "name": "一ノ瀬怜担当",
+    "assetId": "fan_3_rei",
+    "autoProvideConditionId": "cd-fan_amount-rei-100",
+    "isViewableInInactive": true,
+    "order": 5420,
+    "description": "一ノ瀬怜ファン100人"
+  },
+  {
+    "id": "emb-089",
+    "name": "一ノ瀬怜専属",
+    "assetId": "fan_5_rei",
+    "autoProvideConditionId": "cd-fan_amount-rei-100000",
+    "isViewableInInactive": true,
+    "order": 5250,
+    "description": "一ノ瀬怜ファン10万人"
+  },
+  {
+    "id": "emb-090",
+    "name": "兵藤雫担当",
+    "assetId": "fan_3_szk",
+    "autoProvideConditionId": "cd-fan_amount-szk-100",
+    "isViewableInInactive": true,
+    "order": 5430,
+    "description": "兵藤雫ファン100人"
+  },
+  {
+    "id": "emb-091",
+    "name": "兵藤雫専属",
+    "assetId": "fan_5_szk",
+    "autoProvideConditionId": "cd-fan_amount-szk-100000",
+    "isViewableInInactive": true,
+    "order": 5260,
+    "description": "兵藤雫ファン10万人"
+  },
+  {
+    "id": "emb-092",
+    "name": "佐伯遙子担当",
+    "assetId": "fan_3_hrk",
+    "autoProvideConditionId": "cd-fan_amount-hrk-100",
+    "isViewableInInactive": true,
+    "order": 5440,
+    "description": "佐伯遙子ファン100人"
+  },
+  {
+    "id": "emb-093",
+    "name": "佐伯遙子専属",
+    "assetId": "fan_5_hrk",
+    "autoProvideConditionId": "cd-fan_amount-hrk-100000",
+    "isViewableInInactive": true,
+    "order": 5270,
+    "description": "佐伯遙子ファン10万人"
+  },
+  {
+    "id": "emb-094",
+    "name": "天動瑠依担当",
+    "assetId": "fan_3_rui",
+    "autoProvideConditionId": "cd-fan_amount-rui-100",
+    "isViewableInInactive": true,
+    "order": 5450,
+    "description": "天動瑠依ファン100人"
+  },
+  {
+    "id": "emb-095",
+    "name": "天動瑠依専属",
+    "assetId": "fan_5_rui",
+    "autoProvideConditionId": "cd-fan_amount-rui-100000",
+    "isViewableInInactive": true,
+    "order": 5280,
+    "description": "天動瑠依ファン10万人"
+  },
+  {
+    "id": "emb-096",
+    "name": "鈴村優担当",
+    "assetId": "fan_3_yu",
+    "autoProvideConditionId": "cd-fan_amount-yu-100",
+    "isViewableInInactive": true,
+    "order": 5460,
+    "description": "鈴村優ファン100人"
+  },
+  {
+    "id": "emb-097",
+    "name": "鈴村優専属",
+    "assetId": "fan_5_yu",
+    "autoProvideConditionId": "cd-fan_amount-yu-100000",
+    "isViewableInInactive": true,
+    "order": 5290,
+    "description": "鈴村優ファン10万人"
+  },
+  {
+    "id": "emb-098",
+    "name": "奥山すみれ担当",
+    "assetId": "fan_3_smr",
+    "autoProvideConditionId": "cd-fan_amount-smr-100",
+    "isViewableInInactive": true,
+    "order": 5470,
+    "description": "奥山すみれファン100人"
+  },
+  {
+    "id": "emb-099",
+    "name": "奥山すみれ専属",
+    "assetId": "fan_5_smr",
+    "autoProvideConditionId": "cd-fan_amount-smr-100000",
+    "isViewableInInactive": true,
+    "order": 5300,
+    "description": "奥山すみれファン10万人"
+  },
+  {
+    "id": "emb-100",
+    "name": "神崎莉央担当",
+    "assetId": "fan_3_rio",
+    "autoProvideConditionId": "cd-fan_amount-rio-100",
+    "isViewableInInactive": true,
+    "order": 5480,
+    "description": "神崎莉央ファン100人"
+  },
+  {
+    "id": "emb-101",
+    "name": "神崎莉央専属",
+    "assetId": "fan_5_rio",
+    "autoProvideConditionId": "cd-fan_amount-rio-100000",
+    "isViewableInInactive": true,
+    "order": 5310,
+    "description": "神崎莉央ファン10万人"
+  },
+  {
+    "id": "emb-102",
+    "name": "井川葵担当",
+    "assetId": "fan_3_aoi",
+    "autoProvideConditionId": "cd-fan_amount-aoi-100",
+    "isViewableInInactive": true,
+    "order": 5490,
+    "description": "井川葵ファン100人"
+  },
+  {
+    "id": "emb-103",
+    "name": "井川葵専属",
+    "assetId": "fan_5_aoi",
+    "autoProvideConditionId": "cd-fan_amount-aoi-100000",
+    "isViewableInInactive": true,
+    "order": 5320,
+    "description": "井川葵ファン10万人"
+  },
+  {
+    "id": "emb-104",
+    "name": "小美山愛担当",
+    "assetId": "fan_3_ai",
+    "autoProvideConditionId": "cd-fan_amount-ai-100",
+    "isViewableInInactive": true,
+    "order": 5500,
+    "description": "小美山愛ファン100人"
+  },
+  {
+    "id": "emb-105",
+    "name": "小美山愛専属",
+    "assetId": "fan_5_ai",
+    "autoProvideConditionId": "cd-fan_amount-ai-100000",
+    "isViewableInInactive": true,
+    "order": 5330,
+    "description": "小美山愛ファン10万人"
+  },
+  {
+    "id": "emb-106",
+    "name": "赤崎こころ担当",
+    "assetId": "fan_3_kkr",
+    "autoProvideConditionId": "cd-fan_amount-kkr-100",
+    "isViewableInInactive": true,
+    "order": 5510,
+    "description": "赤崎こころファン100人"
+  },
+  {
+    "id": "emb-107",
+    "name": "赤崎こころ専属",
+    "assetId": "fan_5_kkr",
+    "autoProvideConditionId": "cd-fan_amount-kkr-100000",
+    "isViewableInInactive": true,
+    "order": 5340,
+    "description": "赤崎こころファン10万人"
+  },
+  {
+    "id": "emb-108",
+    "name": "月の光を手に",
+    "assetId": "story_tsu",
+    "autoProvideConditionId": "cd-st-original-cmn-01-04-24",
+    "order": 3010,
+    "description": "星見編4章24話クリア"
+  },
+  {
+    "id": "emb-109",
+    "name": "太陽の光と共に",
+    "assetId": "story_san",
+    "autoProvideConditionId": "cd-st-original-cmn-01-04-24",
+    "order": 3020,
+    "description": "星見編4章24話クリア"
+  },
+  {
+    "id": "emb-112",
+    "name": "敏腕カメラマン",
+    "assetId": "camera",
+    "autoProvideConditionId": "cd-photo_shoot_total_count_gte-30",
+    "order": 6020,
+    "description": "撮影を30回行う"
+  },
+  {
+    "id": "emb-113",
+    "name": "星見組",
+    "assetId": "staff",
+    "autoProvideConditionId": "cd-staff_train_total_count_gte-200",
+    "isViewableInInactive": true,
+    "order": 4030,
+    "description": "スタッフ育成の合計Lv200"
+  },
+  {
+    "id": "emb-114",
+    "name": "名物ライター",
+    "assetId": "writer",
+    "autoProvideConditionId": "cd-forum_create_reply_count_gte-1",
+    "order": 6030,
+    "description": "掲示板に3回書き込む"
+  },
+  {
+    "id": "emb-115",
+    "name": "インフルエンサー",
+    "assetId": "influencer",
+    "autoProvideConditionId": "cd-forum_create_reply_count_gte-30",
+    "order": 6040,
+    "description": "掲示板に30回書き込む"
+  },
+  {
+    "id": "emb-116",
+    "name": "【殿堂入り】長瀬琴乃",
+    "assetId": "score_ktn",
+    "autoProvideConditionId": "cd-live_character_highest_score-ktn-10000000",
+    "isViewableInInactive": true,
+    "order": 4200,
+    "description": "長瀬琴乃ハイスコア10000000"
+  },
+  {
+    "id": "emb-117",
+    "name": "【殿堂入り】伊吹渚",
+    "assetId": "score_ngs",
+    "autoProvideConditionId": "cd-live_character_highest_score-ngs-10000000",
+    "isViewableInInactive": true,
+    "order": 4210,
+    "description": "伊吹渚ハイスコア10000000"
+  },
+  {
+    "id": "emb-118",
+    "name": "【殿堂入り】早坂芽衣",
+    "assetId": "score_mei",
+    "autoProvideConditionId": "cd-live_character_highest_score-mei-10000000",
+    "isViewableInInactive": true,
+    "order": 4220,
+    "description": "早坂芽衣ハイスコア10000000"
+  },
+  {
+    "id": "emb-119",
+    "name": "【殿堂入り】成宮すず",
+    "assetId": "score_suz",
+    "autoProvideConditionId": "cd-live_character_highest_score-suz-10000000",
+    "isViewableInInactive": true,
+    "order": 4230,
+    "description": "成宮すずハイスコア10000000"
+  },
+  {
+    "id": "emb-120",
+    "name": "【殿堂入り】白石沙季",
+    "assetId": "score_ski",
+    "autoProvideConditionId": "cd-live_character_highest_score-ski-10000000",
+    "isViewableInInactive": true,
+    "order": 4240,
+    "description": "白石沙季ハイスコア10000000"
+  },
+  {
+    "id": "emb-121",
+    "name": "【殿堂入り】川咲さくら",
+    "assetId": "score_skr",
+    "autoProvideConditionId": "cd-live_character_highest_score-skr-10000000",
+    "isViewableInInactive": true,
+    "order": 4250,
+    "description": "川咲さくらハイスコア10000000"
+  },
+  {
+    "id": "emb-122",
+    "name": "【殿堂入り】白石千紗",
+    "assetId": "score_chs",
+    "autoProvideConditionId": "cd-live_character_highest_score-chs-10000000",
+    "isViewableInInactive": true,
+    "order": 4260,
+    "description": "白石千紗ハイスコア10000000"
+  },
+  {
+    "id": "emb-123",
+    "name": "【殿堂入り】一ノ瀬怜",
+    "assetId": "score_rei",
+    "autoProvideConditionId": "cd-live_character_highest_score-rei-10000000",
+    "isViewableInInactive": true,
+    "order": 4270,
+    "description": "一ノ瀬怜ハイスコア10000000"
+  },
+  {
+    "id": "emb-124",
+    "name": "【殿堂入り】兵藤雫",
+    "assetId": "score_szk",
+    "autoProvideConditionId": "cd-live_character_highest_score-szk-10000000",
+    "isViewableInInactive": true,
+    "order": 4280,
+    "description": "兵藤雫ハイスコア10000000"
+  },
+  {
+    "id": "emb-125",
+    "name": "【殿堂入り】佐伯遙子",
+    "assetId": "score_hrk",
+    "autoProvideConditionId": "cd-live_character_highest_score-hrk-10000000",
+    "isViewableInInactive": true,
+    "order": 4290,
+    "description": "佐伯遙子ハイスコア10000000"
+  },
+  {
+    "id": "emb-126",
+    "name": "【殿堂入り】天動瑠依",
+    "assetId": "score_rui",
+    "autoProvideConditionId": "cd-live_character_highest_score-rui-10000000",
+    "isViewableInInactive": true,
+    "order": 4340,
+    "description": "天動瑠依ハイスコア10000000"
+  },
+  {
+    "id": "emb-127",
+    "name": "【殿堂入り】鈴村優",
+    "assetId": "score_yu",
+    "autoProvideConditionId": "cd-live_character_highest_score-yu-10000000",
+    "isViewableInInactive": true,
+    "order": 4350,
+    "description": "鈴村優ハイスコア10000000"
+  },
+  {
+    "id": "emb-128",
+    "name": "【殿堂入り】奥山すみれ",
+    "assetId": "score_smr",
+    "autoProvideConditionId": "cd-live_character_highest_score-smr-10000000",
+    "isViewableInInactive": true,
+    "order": 4360,
+    "description": "奥山すみれハイスコア10000000"
+  },
+  {
+    "id": "emb-129",
+    "name": "【殿堂入り】神崎莉央",
+    "assetId": "score_rio",
+    "autoProvideConditionId": "cd-live_character_highest_score-rio-10000000",
+    "isViewableInInactive": true,
+    "order": 4300,
+    "description": "神崎莉央ハイスコア10000000"
+  },
+  {
+    "id": "emb-130",
+    "name": "【殿堂入り】井川葵",
+    "assetId": "score_aoi",
+    "autoProvideConditionId": "cd-live_character_highest_score-aoi-10000000",
+    "isViewableInInactive": true,
+    "order": 4310,
+    "description": "井川葵ハイスコア10000000"
+  },
+  {
+    "id": "emb-131",
+    "name": "【殿堂入り】小美山愛",
+    "assetId": "score_ai",
+    "autoProvideConditionId": "cd-live_character_highest_score-ai-10000000",
+    "isViewableInInactive": true,
+    "order": 4320,
+    "description": "小美山愛ハイスコア10000000"
+  },
+  {
+    "id": "emb-132",
+    "name": "【殿堂入り】赤崎こころ",
+    "assetId": "score_kkr",
+    "autoProvideConditionId": "cd-live_character_highest_score-kkr-10000000",
+    "isViewableInInactive": true,
+    "order": 4330,
+    "description": "赤崎こころハイスコア10000000"
+  },
+  {
+    "id": "emb-140",
+    "name": "自分の夢",
+    "assetId": "story_ktn-3",
+    "autoProvideConditionId": "cd-ms-read-message-story-ktn-003-004",
+    "order": 3220,
+    "description": "「私が出来る子ぶった事件」読了"
+  },
+  {
+    "id": "emb-141",
+    "name": "全力サポート",
+    "assetId": "story_ngs-3",
+    "autoProvideConditionId": "cd-ms-read-message-story-ngs-003-004",
+    "order": 3230,
+    "description": "「星見トピックス」読了"
+  },
+  {
+    "id": "emb-142",
+    "name": "ムードメーカー",
+    "assetId": "story_mei-3",
+    "autoProvideConditionId": "cd-ms-read-message-story-mei-003-004",
+    "order": 3240,
+    "description": "「過ぎ去る時間」読了"
+  },
+  {
+    "id": "emb-143",
+    "name": "逃げない意思",
+    "assetId": "story_suz-3",
+    "autoProvideConditionId": "cd-ms-read-message-story-suz-003-004",
+    "order": 3250,
+    "description": "「地球の裏側まで」読了"
+  },
+  {
+    "id": "emb-144",
+    "name": "自立する姉",
+    "assetId": "story_ski-3",
+    "autoProvideConditionId": "cd-ms-read-message-story-ski-003-004",
+    "order": 3260,
+    "description": "「ロボットダンス感」読了"
+  },
+  {
+    "id": "emb-145",
+    "name": "自分の歌",
+    "assetId": "story_skr-3",
+    "autoProvideConditionId": "cd-ms-read-message-story-skr-003-004",
+    "order": 3270,
+    "description": "「さくらの感覚」読了"
+  },
+  {
+    "id": "emb-146",
+    "name": "ここ一番の力",
+    "assetId": "story_chs-3",
+    "autoProvideConditionId": "cd-ms-read-message-story-chs-003-004",
+    "order": 3280,
+    "description": "「ヘビに睨まれたカエル」読了"
+  },
+  {
+    "id": "emb-147",
+    "name": "上昇志向",
+    "assetId": "story_rei-3",
+    "autoProvideConditionId": "cd-ms-read-message-story-rei-003-004",
+    "order": 3290,
+    "description": "「ダンスの壁」読了"
+  },
+  {
+    "id": "emb-148",
+    "name": "不意に見せる笑顔",
+    "assetId": "story_szk-3",
+    "autoProvideConditionId": "cd-ms-read-message-story-szk-003-004",
+    "order": 3300,
+    "description": "「兵藤フィッシングクラブ」読了"
+  },
+  {
+    "id": "emb-149",
+    "name": "諦めない心",
+    "assetId": "story_hrk-3",
+    "autoProvideConditionId": "cd-ms-read-message-story-hrk-003-004",
+    "order": 3310,
+    "description": "「キャンプのお仕事」読了"
+  },
+  {
+    "id": "emb-150",
+    "name": "真っ直ぐな瞳",
+    "assetId": "story_rui-3",
+    "autoProvideConditionId": "cd-ms-read-message-story-rui-003-004",
+    "order": 3320,
+    "description": "「眠り姫」読了"
+  },
+  {
+    "id": "emb-151",
+    "name": "支える気持ち",
+    "assetId": "story_yu-3",
+    "autoProvideConditionId": "cd-ms-read-message-story-yu-003-004",
+    "order": 3330,
+    "description": "「ほめ殺し」読了"
+  },
+  {
+    "id": "emb-152",
+    "name": "健気な振る舞い",
+    "assetId": "story_smr-3",
+    "autoProvideConditionId": "cd-ms-read-message-story-smr-003-004",
+    "order": 3340,
+    "description": "「果物PR」読了"
+  },
+  {
+    "id": "emb-153",
+    "name": "気高い心",
+    "assetId": "story_rio-3",
+    "autoProvideConditionId": "cd-ms-read-message-story-rio-003-004",
+    "order": 3350,
+    "description": "「リズノワのイメージ」読了"
+  },
+  {
+    "id": "emb-154",
+    "name": "ダンスなら負けない",
+    "assetId": "story_aoi-3",
+    "autoProvideConditionId": "cd-ms-read-message-story-aoi-003-004",
+    "order": 3360,
+    "description": "「カニカマと犬」読了"
+  },
+  {
+    "id": "emb-155",
+    "name": "筋トレ日和",
+    "assetId": "story_ai-3",
+    "autoProvideConditionId": "cd-ms-read-message-story-ai-003-004",
+    "order": 3370,
+    "description": "「板前感」読了"
+  },
+  {
+    "id": "emb-156",
+    "name": "鋭い一言",
+    "assetId": "story_kkr-3",
+    "autoProvideConditionId": "cd-ms-read-message-story-kkr-003-004",
+    "order": 3380,
+    "description": "「個性を伸ばそう」読了"
+  },
+  {
+    "id": "emb-157",
+    "name": "【誕生日】長瀬琴乃",
+    "assetId": "birthday_ktn",
+    "autoProvideConditionId": "cd-birthday_emb-ktn-1225",
+    "order": 3390,
+    "description": "琴乃の誕生日を迎える"
+  },
+  {
+    "id": "emb-158",
+    "name": "【誕生日】伊吹渚",
+    "assetId": "birthday_ngs",
+    "autoProvideConditionId": "cd-birthday_emb-ngs-0803",
+    "order": 3400,
+    "description": "渚の誕生日を迎える"
+  },
+  {
+    "id": "emb-159",
+    "name": "【誕生日】早坂芽衣",
+    "assetId": "birthday_mei",
+    "autoProvideConditionId": "cd-birthday_emb-mei-0707",
+    "order": 3410,
+    "description": "芽衣の誕生日を迎える"
+  },
+  {
+    "id": "emb-160",
+    "name": "【誕生日】成宮すず",
+    "assetId": "birthday_suz",
+    "autoProvideConditionId": "cd-birthday_emb-suz-0913",
+    "order": 3420,
+    "description": "すずの誕生日を迎える"
+  },
+  {
+    "id": "emb-161",
+    "name": "【誕生日】白石沙季",
+    "assetId": "birthday_ski",
+    "autoProvideConditionId": "cd-birthday_emb-ski-0926",
+    "order": 3430,
+    "description": "沙季の誕生日を迎える"
+  },
+  {
+    "id": "emb-162",
+    "name": "【誕生日】川咲さくら",
+    "assetId": "birthday_skr",
+    "autoProvideConditionId": "cd-birthday_emb-skr-0403",
+    "order": 3440,
+    "description": "さくらの誕生日を迎える"
+  },
+  {
+    "id": "emb-163",
+    "name": "【誕生日】白石千紗",
+    "assetId": "birthday_chs",
+    "autoProvideConditionId": "cd-birthday_emb-chs-1122",
+    "order": 3450,
+    "description": "千紗の誕生日を迎える"
+  },
+  {
+    "id": "emb-164",
+    "name": "【誕生日】一ノ瀬怜",
+    "assetId": "birthday_rei",
+    "autoProvideConditionId": "cd-birthday_emb-rei-0308",
+    "order": 3460,
+    "description": "怜の誕生日を迎える"
+  },
+  {
+    "id": "emb-165",
+    "name": "【誕生日】兵藤雫",
+    "assetId": "birthday_szk",
+    "autoProvideConditionId": "cd-birthday_emb-szk-1015",
+    "order": 3470,
+    "description": "雫の誕生日を迎える"
+  },
+  {
+    "id": "emb-166",
+    "name": "【誕生日】佐伯遙子",
+    "assetId": "birthday_hrk",
+    "autoProvideConditionId": "cd-birthday_emb-hrk-0103",
+    "order": 3480,
+    "description": "遙子の誕生日を迎える"
+  },
+  {
+    "id": "emb-167",
+    "name": "【誕生日】神崎莉央",
+    "assetId": "birthday_rio",
+    "autoProvideConditionId": "cd-birthday_emb-rio-0828",
+    "order": 3490,
+    "description": "莉央の誕生日を迎える"
+  },
+  {
+    "id": "emb-168",
+    "name": "【誕生日】井川葵",
+    "assetId": "birthday_aoi",
+    "autoProvideConditionId": "cd-birthday_emb-aoi-0619",
+    "order": 3500,
+    "description": "葵の誕生日を迎える"
+  },
+  {
+    "id": "emb-169",
+    "name": "【誕生日】小美山愛",
+    "assetId": "birthday_ai",
+    "autoProvideConditionId": "cd-birthday_emb-ai-0209",
+    "order": 3510,
+    "description": "愛の誕生日を迎える"
+  },
+  {
+    "id": "emb-170",
+    "name": "【誕生日】赤崎こころ",
+    "assetId": "birthday_kkr",
+    "autoProvideConditionId": "cd-birthday_emb-kkr-1206",
+    "order": 3520,
+    "description": "こころの誕生日を迎える"
+  },
+  {
+    "id": "emb-171",
+    "name": "【誕生日】天動瑠依",
+    "assetId": "birthday_rui",
+    "autoProvideConditionId": "cd-birthday_emb-rui-1111",
+    "order": 3530,
+    "description": "瑠依の誕生日を迎える"
+  },
+  {
+    "id": "emb-172",
+    "name": "【誕生日】鈴村優",
+    "assetId": "birthday_yu",
+    "autoProvideConditionId": "cd-birthday_emb-yu-0227",
+    "order": 3540,
+    "description": "優の誕生日を迎える"
+  },
+  {
+    "id": "emb-173",
+    "name": "【誕生日】奥山すみれ",
+    "assetId": "birthday_smr",
+    "autoProvideConditionId": "cd-birthday_emb-smr-0505",
+    "order": 3550,
+    "description": "すみれの誕生日を迎える"
+  },
+  {
+    "id": "emb-174",
+    "name": "Pray for you",
+    "assetId": "area_2_100",
+    "order": 2130,
+    "description": "ハイスコアライブ「Pray for you」で100位以内獲得"
+  },
+  {
+    "id": "emb-175",
+    "name": "心はもっと近くなる",
+    "assetId": "area_2",
+    "order": 2140,
+    "description": "ハイスコアライブ「Pray for you」で1位獲得"
+  },
+  {
+    "id": "emb-176",
+    "name": "EVERYDAY! SUNNYDAY!",
+    "assetId": "area_7_100",
+    "order": 2150,
+    "description": "ハイスコアライブ「EVERYDAY! SUNNYDAY!」で100位以内獲得"
+  },
+  {
+    "id": "emb-177",
+    "name": "最高のハーモニー",
+    "assetId": "area_7",
+    "order": 2160,
+    "description": "ハイスコアライブ「EVERYDAY! SUNNYDAY!」で1位獲得"
+  },
+  {
+    "id": "emb-178",
+    "name": "ドームデビュー",
+    "assetId": "live_main-04",
+    "autoProvideConditionId": "cd-clear-area-main-035",
+    "isViewableInInactive": true,
+    "order": 4190,
+    "description": "メインライブ#35をクリア"
+  },
+  {
+    "id": "emb-179",
+    "name": "スーパーアイドル",
+    "assetId": "story_mna",
+    "autoProvideConditionId": "cd-ms-read-message-story-mna-001-004",
+    "order": 3220,
+    "description": "「発想の転換」読了"
+  },
+  {
+    "id": "emb-180",
+    "name": "【殿堂入り】長瀬麻奈",
+    "assetId": "score_mna",
+    "autoProvideConditionId": "cd-live_character_highest_score-mna-10000000",
+    "isViewableInInactive": true,
+    "order": 4340,
+    "description": "長瀬麻奈ハイスコア10000000"
+  },
+  {
+    "id": "emb-181",
+    "name": "星降る奇跡",
+    "assetId": "story_mna-3",
+    "autoProvideConditionId": "cd-ms-read-message-story-mna-003-004",
+    "order": 3390,
+    "description": "「キミの笑顔」読了"
+  },
+  {
+    "id": "emb-182",
+    "name": "goodbye to goodbye",
+    "assetId": "story_group-mna",
+    "autoProvideConditionId": "cd-st-group-mna-01-15",
+    "order": 3050,
+    "description": "番外編長瀬麻奈 1章15話クリア"
+  },
+  {
+    "id": "emb-183",
+    "name": "The One and Only",
+    "assetId": "area_5_100",
+    "order": 2170,
+    "description": "ハイスコアライブ「The One and Only」で100位以内獲得"
+  },
+  {
+    "id": "emb-184",
+    "name": "一緒に輝こう",
+    "assetId": "area_5",
+    "order": 2180,
+    "description": "ハイスコアライブ「The One and Only」で1位獲得"
+  },
+  {
+    "id": "emb-185",
+    "name": "réaliser",
+    "assetId": "area_10_100",
+    "order": 2190,
+    "description": "ハイスコアライブ「réaliser」で100位以内獲得"
+  },
+  {
+    "id": "emb-186",
+    "name": "君となら",
+    "assetId": "area_10",
+    "order": 2200,
+    "description": "ハイスコアライブ「réaliser」で1位獲得"
+  },
+  {
+    "id": "emb-187",
+    "name": "春闘",
+    "assetId": "april-001",
+    "autoProvideConditionId": "cd-dokan-campaign-april-22-0401-bonus",
+    "order": 5175,
+    "description": "アイドル業界の労働環境改善のために戦った"
+  },
+  {
+    "id": "emb-188",
+    "name": "The Last Chance",
+    "assetId": "area_11_100",
+    "order": 2210,
+    "description": "ハイスコアライブ「The Last Chance」で100位以内獲得"
+  },
+  {
+    "id": "emb-189",
+    "name": "焦るな 焦るよ 鼓動が熱い",
+    "assetId": "area_11",
+    "order": 2220,
+    "description": "ハイスコアライブ「The Last Chance」で1位獲得"
+  },
+  {
+    "id": "emb-400",
+    "name": "[奇跡]",
+    "assetId": "emb-cd-5-0001-limited",
+    "order": 110,
+    "description": "Collection Album [奇跡] 初回生産限定盤特典"
+  },
+  {
+    "id": "emb-401",
+    "name": "[奇跡]",
+    "assetId": "emb-cd-5-0001-normal",
+    "order": 111,
+    "description": "Collection Album [奇跡] 通常盤特典"
+  },
+  {
+    "id": "emb-402",
+    "name": "[約束]",
+    "assetId": "emb-cd-5-0002-limited",
+    "order": 112,
+    "description": "Collection Album [約束] 初回生産限定盤特典"
+  },
+  {
+    "id": "emb-403",
+    "name": "[約束]",
+    "assetId": "emb-cd-5-0002-normal",
+    "order": 113,
+    "description": "Collection Album [約束] 通常盤特典"
+  },
+  {
+    "id": "emb-404",
+    "name": "The SUN",
+    "assetId": "sp-the-sun-22-0526",
+    "order": 114,
+    "description": "東京編完結記念"
+  },
+  {
+    "id": "emb-500",
+    "name": "VENUSシーズン1 No.1",
+    "assetId": "pvp-season-001-top001",
+    "order": 1011,
+    "description": "VENUSバトルシーズン1で1位獲得"
+  },
+  {
+    "id": "emb-501",
+    "name": "VENUSシーズン1 TOP10",
+    "assetId": "pvp-season-001-top010",
+    "order": 1012,
+    "description": "VENUSバトルシーズン1で10位以内獲得"
+  },
+  {
+    "id": "emb-502",
+    "name": "VENUSシーズン1 TOP100",
+    "assetId": "pvp-season-001-top100",
+    "order": 1013,
+    "description": "VENUSバトルシーズン1で100位以内獲得"
+  },
+  {
+    "id": "emb-503",
+    "name": "VENUSシーズン2 No.1",
+    "assetId": "pvp-season-002-top001",
+    "order": 1021,
+    "description": "VENUSバトルシーズン2で1位獲得"
+  },
+  {
+    "id": "emb-504",
+    "name": "VENUSシーズン2 TOP10",
+    "assetId": "pvp-season-002-top010",
+    "order": 1022,
+    "description": "VENUSバトルシーズン2で10位以内獲得"
+  },
+  {
+    "id": "emb-505",
+    "name": "VENUSシーズン2 TOP100",
+    "assetId": "pvp-season-002-top100",
+    "order": 1023,
+    "description": "VENUSバトルシーズン2で100位以内獲得"
+  },
+  {
+    "id": "emb-506",
+    "name": "VENUSシーズン3 No.1",
+    "assetId": "pvp-season-003-top001",
+    "order": 1031,
+    "description": "VENUSバトルシーズン3で1位獲得"
+  },
+  {
+    "id": "emb-507",
+    "name": "VENUSシーズン3 TOP10",
+    "assetId": "pvp-season-003-top010",
+    "order": 1032,
+    "description": "VENUSバトルシーズン3で10位以内獲得"
+  },
+  {
+    "id": "emb-508",
+    "name": "VENUSシーズン3 TOP100",
+    "assetId": "pvp-season-003-top100",
+    "order": 1033,
+    "description": "VENUSバトルシーズン3で100位以内獲得"
+  },
+  {
+    "id": "emb-509",
+    "name": "VENUSシーズン4 No.1",
+    "assetId": "pvp-season-004-top001",
+    "order": 1041,
+    "description": "VENUSバトルシーズン4で1位獲得"
+  },
+  {
+    "id": "emb-510",
+    "name": "VENUSシーズン4 TOP10",
+    "assetId": "pvp-season-004-top010",
+    "order": 1042,
+    "description": "VENUSバトルシーズン4で10位以内獲得"
+  },
+  {
+    "id": "emb-511",
+    "name": "VENUSシーズン4 TOP100",
+    "assetId": "pvp-season-004-top100",
+    "order": 1043,
+    "description": "VENUSバトルシーズン4で100位以内獲得"
+  },
+  {
+    "id": "emb-512",
+    "name": "VENUSシーズン5 No.1",
+    "assetId": "pvp-season-005-top001",
+    "order": 1051,
+    "description": "VENUSバトルシーズン5で1位獲得"
+  },
+  {
+    "id": "emb-513",
+    "name": "VENUSシーズン5 TOP10",
+    "assetId": "pvp-season-005-top010",
+    "order": 1052,
+    "description": "VENUSバトルシーズン5で10位以内獲得"
+  },
+  {
+    "id": "emb-514",
+    "name": "VENUSシーズン5 TOP100",
+    "assetId": "pvp-season-005-top100",
+    "order": 1053,
+    "description": "VENUSバトルシーズン5で100位以内獲得"
+  },
+  {
+    "id": "emb-515",
+    "name": "VENUSシーズン6 No.1",
+    "assetId": "pvp-season-006-top001",
+    "order": 1061,
+    "description": "VENUSバトルシーズン6で1位獲得"
+  },
+  {
+    "id": "emb-516",
+    "name": "VENUSシーズン6 TOP10",
+    "assetId": "pvp-season-006-top010",
+    "order": 1062,
+    "description": "VENUSバトルシーズン6で10位以内獲得"
+  },
+  {
+    "id": "emb-517",
+    "name": "VENUSシーズン6 TOP100",
+    "assetId": "pvp-season-006-top100",
+    "order": 1063,
+    "description": "VENUSバトルシーズン6で100位以内獲得"
+  },
+  {
+    "id": "emb-518",
+    "name": "VENUSシーズン7 No.1",
+    "assetId": "pvp-season-007-top001",
+    "order": 1071,
+    "description": "VENUSバトルシーズン7で1位獲得"
+  },
+  {
+    "id": "emb-519",
+    "name": "VENUSシーズン7 TOP10",
+    "assetId": "pvp-season-007-top010",
+    "order": 1072,
+    "description": "VENUSバトルシーズン7で10位以内獲得"
+  },
+  {
+    "id": "emb-520",
+    "name": "VENUSシーズン7 TOP100",
+    "assetId": "pvp-season-007-top100",
+    "order": 1073,
+    "description": "VENUSバトルシーズン7で100位以内獲得"
+  },
+  {
+    "id": "emb-521",
+    "name": "VENUSシーズン8 No.1",
+    "assetId": "pvp-season-008-top001",
+    "order": 1081,
+    "description": "VENUSバトルシーズン8で1位獲得"
+  },
+  {
+    "id": "emb-522",
+    "name": "VENUSシーズン8 TOP10",
+    "assetId": "pvp-season-008-top010",
+    "order": 1082,
+    "description": "VENUSバトルシーズン8で10位以内獲得"
+  },
+  {
+    "id": "emb-523",
+    "name": "VENUSシーズン8 TOP100",
+    "assetId": "pvp-season-008-top100",
+    "order": 1083,
+    "description": "VENUSバトルシーズン8で100位以内獲得"
+  },
+  {
+    "id": "emb-524",
+    "name": "VENUSシーズン9 No.1",
+    "assetId": "pvp-season-009-top001",
+    "order": 1091,
+    "description": "VENUSバトルシーズン9で1位獲得"
+  },
+  {
+    "id": "emb-525",
+    "name": "VENUSシーズン9 TOP10",
+    "assetId": "pvp-season-009-top010",
+    "order": 1092,
+    "description": "VENUSバトルシーズン9で10位以内獲得"
+  },
+  {
+    "id": "emb-526",
+    "name": "VENUSシーズン9 TOP100",
+    "assetId": "pvp-season-009-top100",
+    "order": 1093,
+    "description": "VENUSバトルシーズン9で100位以内獲得"
+  },
+  {
+    "id": "emb-527",
+    "name": "VENUSシーズン10 No.1",
+    "assetId": "pvp-season-010-top001",
+    "order": 1101,
+    "description": "VENUSバトルシーズン10で1位獲得"
+  },
+  {
+    "id": "emb-528",
+    "name": "VENUSシーズン10 TOP10",
+    "assetId": "pvp-season-010-top010",
+    "order": 1102,
+    "description": "VENUSバトルシーズン10で10位以内獲得"
+  },
+  {
+    "id": "emb-529",
+    "name": "VENUSシーズン10 TOP100",
+    "assetId": "pvp-season-010-top100",
+    "order": 1103,
+    "description": "VENUSバトルシーズン10で100位以内獲得"
+  },
+  {
+    "id": "emb-530",
+    "name": "VENUSシーズン11 No.1",
+    "assetId": "pvp-season-011-top001",
+    "order": 1111,
+    "description": "VENUSバトルシーズン11で1位獲得"
+  },
+  {
+    "id": "emb-531",
+    "name": "VENUSシーズン11 TOP10",
+    "assetId": "pvp-season-011-top010",
+    "order": 1112,
+    "description": "VENUSバトルシーズン11で10位以内獲得"
+  },
+  {
+    "id": "emb-532",
+    "name": "VENUSシーズン11 TOP100",
+    "assetId": "pvp-season-011-top100",
+    "order": 1113,
+    "description": "VENUSバトルシーズン11で100位以内獲得"
+  },
+  {
+    "id": "emb-533",
+    "name": "VENUSシーズン12 No.1",
+    "assetId": "pvp-season-012-top001",
+    "order": 1121,
+    "description": "VENUSバトルシーズン12で1位獲得"
+  },
+  {
+    "id": "emb-534",
+    "name": "VENUSシーズン12 TOP10",
+    "assetId": "pvp-season-012-top010",
+    "order": 1122,
+    "description": "VENUSバトルシーズン12で10位以内獲得"
+  },
+  {
+    "id": "emb-535",
+    "name": "VENUSシーズン12 TOP100",
+    "assetId": "pvp-season-012-top100",
+    "order": 1123,
+    "description": "VENUSバトルシーズン12で100位以内獲得"
+  },
+  {
+    "id": "emb-536",
+    "name": "VENUSシーズン13 No.1",
+    "assetId": "pvp-season-013-top001",
+    "order": 1131,
+    "description": "VENUSバトルシーズン13で1位獲得"
+  },
+  {
+    "id": "emb-537",
+    "name": "VENUSシーズン13 TOP10",
+    "assetId": "pvp-season-013-top010",
+    "order": 1132,
+    "description": "VENUSバトルシーズン13で10位以内獲得"
+  },
+  {
+    "id": "emb-538",
+    "name": "VENUSシーズン13 TOP100",
+    "assetId": "pvp-season-013-top100",
+    "order": 1133,
+    "description": "VENUSバトルシーズン13で100位以内獲得"
+  },
+  {
+    "id": "emb-539",
+    "name": "VENUSシーズン14 No.1",
+    "assetId": "pvp-season-014-top001",
+    "order": 1141,
+    "description": "VENUSバトルシーズン14で1位獲得"
+  },
+  {
+    "id": "emb-540",
+    "name": "VENUSシーズン14 TOP10",
+    "assetId": "pvp-season-014-top010",
+    "order": 1142,
+    "description": "VENUSバトルシーズン14で10位以内獲得"
+  },
+  {
+    "id": "emb-541",
+    "name": "VENUSシーズン14 TOP100",
+    "assetId": "pvp-season-014-top100",
+    "order": 1143,
+    "description": "VENUSバトルシーズン14で100位以内獲得"
+  },
+  {
+    "id": "emb-542",
+    "name": "VENUSシーズン15 No.1",
+    "assetId": "pvp-season-015-top001",
+    "order": 1151,
+    "description": "VENUSバトルシーズン15で1位獲得"
+  },
+  {
+    "id": "emb-543",
+    "name": "VENUSシーズン15 TOP10",
+    "assetId": "pvp-season-015-top010",
+    "order": 1152,
+    "description": "VENUSバトルシーズン15で10位以内獲得"
+  },
+  {
+    "id": "emb-544",
+    "name": "VENUSシーズン15 TOP100",
+    "assetId": "pvp-season-015-top100",
+    "order": 1153,
+    "description": "VENUSバトルシーズン15で100位以内獲得"
+  },
+  {
+    "id": "emb-545",
+    "name": "VENUSシーズン16 No.1",
+    "assetId": "pvp-season-016-top001",
+    "order": 1161,
+    "description": "VENUSバトルシーズン16で1位獲得"
+  },
+  {
+    "id": "emb-546",
+    "name": "VENUSシーズン16 TOP10",
+    "assetId": "pvp-season-016-top010",
+    "order": 1162,
+    "description": "VENUSバトルシーズン16で10位以内獲得"
+  },
+  {
+    "id": "emb-547",
+    "name": "VENUSシーズン16 TOP100",
+    "assetId": "pvp-season-016-top100",
+    "order": 1163,
+    "description": "VENUSバトルシーズン16で100位以内獲得"
+  },
+  {
+    "id": "emb-548",
+    "name": "VENUSシーズン17 No.1",
+    "assetId": "pvp-season-017-top001",
+    "order": 1171,
+    "description": "VENUSバトルシーズン17で1位獲得"
+  },
+  {
+    "id": "emb-549",
+    "name": "VENUSシーズン17 TOP10",
+    "assetId": "pvp-season-017-top010",
+    "order": 1172,
+    "description": "VENUSバトルシーズン17で10位以内獲得"
+  },
+  {
+    "id": "emb-550",
+    "name": "VENUSシーズン17 TOP100",
+    "assetId": "pvp-season-017-top100",
+    "order": 1173,
+    "description": "VENUSバトルシーズン17で100位以内獲得"
+  },
+  {
+    "id": "emb-551",
+    "name": "VENUSシーズン18 No.1",
+    "assetId": "pvp-season-018-top001",
+    "order": 1181,
+    "description": "VENUSバトルシーズン18で1位獲得"
+  },
+  {
+    "id": "emb-552",
+    "name": "VENUSシーズン18 TOP10",
+    "assetId": "pvp-season-018-top010",
+    "order": 1182,
+    "description": "VENUSバトルシーズン18で10位以内獲得"
+  },
+  {
+    "id": "emb-553",
+    "name": "VENUSシーズン18 TOP100",
+    "assetId": "pvp-season-018-top100",
+    "order": 1183,
+    "description": "VENUSバトルシーズン18で100位以内獲得"
+  },
+  {
+    "id": "emb-554",
+    "name": "VENUSシーズン19 No.1",
+    "assetId": "pvp-season-019-top001",
+    "order": 1191,
+    "description": "VENUSバトルシーズン19で1位獲得"
+  },
+  {
+    "id": "emb-555",
+    "name": "VENUSシーズン19 TOP10",
+    "assetId": "pvp-season-019-top010",
+    "order": 1192,
+    "description": "VENUSバトルシーズン19で10位以内獲得"
+  },
+  {
+    "id": "emb-556",
+    "name": "VENUSシーズン19 TOP100",
+    "assetId": "pvp-season-019-top100",
+    "order": 1193,
+    "description": "VENUSバトルシーズン19で100位以内獲得"
+  },
+  {
+    "id": "emb-557",
+    "name": "VENUSシーズン20 No.1",
+    "assetId": "pvp-season-020-top001",
+    "order": 1201,
+    "description": "VENUSバトルシーズン20で1位獲得"
+  },
+  {
+    "id": "emb-558",
+    "name": "VENUSシーズン20 TOP10",
+    "assetId": "pvp-season-020-top010",
+    "order": 1202,
+    "description": "VENUSバトルシーズン20で10位以内獲得"
+  },
+  {
+    "id": "emb-559",
+    "name": "VENUSシーズン20 TOP100",
+    "assetId": "pvp-season-020-top100",
+    "order": 1203,
+    "description": "VENUSバトルシーズン20で100位以内獲得"
+  },
+  {
+    "id": "emb-560",
+    "name": "VENUSシーズン21 No.1",
+    "assetId": "pvp-season-021-top001",
+    "order": 1211,
+    "description": "VENUSバトルシーズン21で1位獲得"
+  },
+  {
+    "id": "emb-561",
+    "name": "VENUSシーズン21 TOP10",
+    "assetId": "pvp-season-021-top010",
+    "order": 1212,
+    "description": "VENUSバトルシーズン21で10位以内獲得"
+  },
+  {
+    "id": "emb-562",
+    "name": "VENUSシーズン21 TOP100",
+    "assetId": "pvp-season-021-top100",
+    "order": 1213,
+    "description": "VENUSバトルシーズン21で100位以内獲得"
+  },
+  {
+    "id": "emb-563",
+    "name": "VENUSシーズン22 No.1",
+    "assetId": "pvp-season-022-top001",
+    "order": 1221,
+    "description": "VENUSバトルシーズン22で1位獲得"
+  },
+  {
+    "id": "emb-564",
+    "name": "VENUSシーズン22 TOP10",
+    "assetId": "pvp-season-022-top010",
+    "order": 1222,
+    "description": "VENUSバトルシーズン22で10位以内獲得"
+  },
+  {
+    "id": "emb-565",
+    "name": "VENUSシーズン22 TOP100",
+    "assetId": "pvp-season-022-top100",
+    "order": 1223,
+    "description": "VENUSバトルシーズン22で100位以内獲得"
+  },
+  {
+    "id": "emb-566",
+    "name": "VENUSシーズン23 No.1",
+    "assetId": "pvp-season-023-top001",
+    "order": 1231,
+    "description": "VENUSバトルシーズン23で1位獲得"
+  },
+  {
+    "id": "emb-567",
+    "name": "VENUSシーズン23 TOP10",
+    "assetId": "pvp-season-023-top010",
+    "order": 1232,
+    "description": "VENUSバトルシーズン23で10位以内獲得"
+  },
+  {
+    "id": "emb-568",
+    "name": "VENUSシーズン23 TOP100",
+    "assetId": "pvp-season-023-top100",
+    "order": 1233,
+    "description": "VENUSバトルシーズン23で100位以内獲得"
+  },
+  {
+    "id": "emb-569",
+    "name": "VENUSシーズン24 No.1",
+    "assetId": "pvp-season-024-top001",
+    "order": 1241,
+    "description": "VENUSバトルシーズン24で1位獲得"
+  },
+  {
+    "id": "emb-570",
+    "name": "VENUSシーズン24 TOP10",
+    "assetId": "pvp-season-024-top010",
+    "order": 1242,
+    "description": "VENUSバトルシーズン24で10位以内獲得"
+  },
+  {
+    "id": "emb-571",
+    "name": "VENUSシーズン24 TOP100",
+    "assetId": "pvp-season-024-top100",
+    "order": 1243,
+    "description": "VENUSバトルシーズン24で100位以内獲得"
+  },
+  {
+    "id": "emb-572",
+    "name": "VENUSシーズン25 No.1",
+    "assetId": "pvp-season-025-top001",
+    "order": 1251,
+    "description": "VENUSバトルシーズン25で1位獲得"
+  },
+  {
+    "id": "emb-573",
+    "name": "VENUSシーズン25 TOP10",
+    "assetId": "pvp-season-025-top010",
+    "order": 1252,
+    "description": "VENUSバトルシーズン25で10位以内獲得"
+  },
+  {
+    "id": "emb-574",
+    "name": "VENUSシーズン25 TOP100",
+    "assetId": "pvp-season-025-top100",
+    "order": 1253,
+    "description": "VENUSバトルシーズン25で100位以内獲得"
+  },
+  {
+    "id": "emb-575",
+    "name": "VENUSシーズン26 No.1",
+    "assetId": "pvp-season-026-top001",
+    "order": 1261,
+    "description": "VENUSバトルシーズン26で1位獲得"
+  },
+  {
+    "id": "emb-576",
+    "name": "VENUSシーズン26 TOP10",
+    "assetId": "pvp-season-026-top010",
+    "order": 1262,
+    "description": "VENUSバトルシーズン26で10位以内獲得"
+  },
+  {
+    "id": "emb-577",
+    "name": "VENUSシーズン26 TOP100",
+    "assetId": "pvp-season-026-top100",
+    "order": 1263,
+    "description": "VENUSバトルシーズン26で100位以内獲得"
+  },
+  {
+    "id": "emb-578",
+    "name": "VENUSシーズン27 No.1",
+    "assetId": "pvp-season-027-top001",
+    "order": 1271,
+    "description": "VENUSバトルシーズン27で1位獲得"
+  },
+  {
+    "id": "emb-579",
+    "name": "VENUSシーズン27 TOP10",
+    "assetId": "pvp-season-027-top010",
+    "order": 1272,
+    "description": "VENUSバトルシーズン27で10位以内獲得"
+  },
+  {
+    "id": "emb-580",
+    "name": "VENUSシーズン27 TOP100",
+    "assetId": "pvp-season-027-top100",
+    "order": 1273,
+    "description": "VENUSバトルシーズン27で100位以内獲得"
+  },
+  {
+    "id": "emb-581",
+    "name": "VENUSシーズン28 No.1",
+    "assetId": "pvp-season-028-top001",
+    "order": 1281,
+    "description": "VENUSバトルシーズン28で1位獲得"
+  },
+  {
+    "id": "emb-582",
+    "name": "VENUSシーズン28 TOP10",
+    "assetId": "pvp-season-028-top010",
+    "order": 1282,
+    "description": "VENUSバトルシーズン28で10位以内獲得"
+  },
+  {
+    "id": "emb-583",
+    "name": "VENUSシーズン28 TOP100",
+    "assetId": "pvp-season-028-top100",
+    "order": 1283,
+    "description": "VENUSバトルシーズン28で100位以内獲得"
+  },
+  {
+    "id": "emb-584",
+    "name": "VENUSシーズン29 No.1",
+    "assetId": "pvp-season-029-top001",
+    "order": 1291,
+    "description": "VENUSバトルシーズン29で1位獲得"
+  },
+  {
+    "id": "emb-585",
+    "name": "VENUSシーズン29 TOP10",
+    "assetId": "pvp-season-029-top010",
+    "order": 1292,
+    "description": "VENUSバトルシーズン29で10位以内獲得"
+  },
+  {
+    "id": "emb-586",
+    "name": "VENUSシーズン29 TOP100",
+    "assetId": "pvp-season-029-top100",
+    "order": 1293,
+    "description": "VENUSバトルシーズン29で100位以内獲得"
+  },
+  {
+    "id": "emb-587",
+    "name": "VENUSシーズン30 No.1",
+    "assetId": "pvp-season-030-top001",
+    "order": 1301,
+    "description": "VENUSバトルシーズン30で1位獲得"
+  },
+  {
+    "id": "emb-588",
+    "name": "VENUSシーズン30 TOP10",
+    "assetId": "pvp-season-030-top010",
+    "order": 1302,
+    "description": "VENUSバトルシーズン30で10位以内獲得"
+  },
+  {
+    "id": "emb-589",
+    "name": "VENUSシーズン30 TOP100",
+    "assetId": "pvp-season-030-top100",
+    "order": 1303,
+    "description": "VENUSバトルシーズン30で100位以内獲得"
+  },
+  {
+    "id": "emb-590",
+    "name": "VENUSシーズン31 No.1",
+    "assetId": "pvp-season-031-top001",
+    "order": 1311,
+    "description": "VENUSバトルシーズン31で1位獲得"
+  },
+  {
+    "id": "emb-591",
+    "name": "VENUSシーズン31 TOP10",
+    "assetId": "pvp-season-031-top010",
+    "order": 1312,
+    "description": "VENUSバトルシーズン31で10位以内獲得"
+  },
+  {
+    "id": "emb-592",
+    "name": "VENUSシーズン31 TOP100",
+    "assetId": "pvp-season-031-top100",
+    "order": 1313,
+    "description": "VENUSバトルシーズン31で100位以内獲得"
+  },
+  {
+    "id": "emb-593",
+    "name": "VENUSシーズン32 No.1",
+    "assetId": "pvp-season-032-top001",
+    "order": 1321,
+    "description": "VENUSバトルシーズン32で1位獲得"
+  },
+  {
+    "id": "emb-594",
+    "name": "VENUSシーズン32 TOP10",
+    "assetId": "pvp-season-032-top010",
+    "order": 1322,
+    "description": "VENUSバトルシーズン32で10位以内獲得"
+  },
+  {
+    "id": "emb-595",
+    "name": "VENUSシーズン32 TOP100",
+    "assetId": "pvp-season-032-top100",
+    "order": 1323,
+    "description": "VENUSバトルシーズン32で100位以内獲得"
+  },
+  {
+    "id": "emb-596",
+    "name": "VENUSシーズン33 No.1",
+    "assetId": "pvp-season-033-top001",
+    "order": 1331,
+    "description": "VENUSバトルシーズン33で1位獲得"
+  },
+  {
+    "id": "emb-597",
+    "name": "VENUSシーズン33 TOP10",
+    "assetId": "pvp-season-033-top010",
+    "order": 1332,
+    "description": "VENUSバトルシーズン33で10位以内獲得"
+  },
+  {
+    "id": "emb-598",
+    "name": "VENUSシーズン33 TOP100",
+    "assetId": "pvp-season-033-top100",
+    "order": 1333,
+    "description": "VENUSバトルシーズン33で100位以内獲得"
+  },
+  {
+    "id": "emb-599",
+    "name": "VENUSシーズン34 No.1",
+    "assetId": "pvp-season-034-top001",
+    "order": 1341,
+    "description": "VENUSバトルシーズン34で1位獲得"
+  },
+  {
+    "id": "emb-600",
+    "name": "VENUSシーズン34 TOP10",
+    "assetId": "pvp-season-034-top010",
+    "order": 1342,
+    "description": "VENUSバトルシーズン34で10位以内獲得"
+  },
+  {
+    "id": "emb-601",
+    "name": "VENUSシーズン34 TOP100",
+    "assetId": "pvp-season-034-top100",
+    "order": 1343,
+    "description": "VENUSバトルシーズン34で100位以内獲得"
+  },
+  {
+    "id": "emb-602",
+    "name": "VENUSシーズン35 No.1",
+    "assetId": "pvp-season-035-top001",
+    "order": 1351,
+    "description": "VENUSバトルシーズン35で1位獲得"
+  },
+  {
+    "id": "emb-603",
+    "name": "VENUSシーズン35 TOP10",
+    "assetId": "pvp-season-035-top010",
+    "order": 1352,
+    "description": "VENUSバトルシーズン35で10位以内獲得"
+  },
+  {
+    "id": "emb-604",
+    "name": "VENUSシーズン35 TOP100",
+    "assetId": "pvp-season-035-top100",
+    "order": 1353,
+    "description": "VENUSバトルシーズン35で100位以内獲得"
+  },
+  {
+    "id": "emb-605",
+    "name": "VENUSシーズン36 No.1",
+    "assetId": "pvp-season-036-top001",
+    "order": 1361,
+    "description": "VENUSバトルシーズン36で1位獲得"
+  },
+  {
+    "id": "emb-606",
+    "name": "VENUSシーズン36 TOP10",
+    "assetId": "pvp-season-036-top010",
+    "order": 1362,
+    "description": "VENUSバトルシーズン36で10位以内獲得"
+  },
+  {
+    "id": "emb-607",
+    "name": "VENUSシーズン36 TOP100",
+    "assetId": "pvp-season-036-top100",
+    "order": 1363,
+    "description": "VENUSバトルシーズン36で100位以内獲得"
+  },
+  {
+    "id": "emb-608",
+    "name": "VENUSシーズン37 No.1",
+    "assetId": "pvp-season-037-top001",
+    "order": 1371,
+    "description": "VENUSバトルシーズン37で1位獲得"
+  },
+  {
+    "id": "emb-609",
+    "name": "VENUSシーズン37 TOP10",
+    "assetId": "pvp-season-037-top010",
+    "order": 1372,
+    "description": "VENUSバトルシーズン37で10位以内獲得"
+  },
+  {
+    "id": "emb-610",
+    "name": "VENUSシーズン37 TOP100",
+    "assetId": "pvp-season-037-top100",
+    "order": 1373,
+    "description": "VENUSバトルシーズン37で100位以内獲得"
+  },
+  {
+    "id": "emb-611",
+    "name": "VENUSシーズン38 No.1",
+    "assetId": "pvp-season-038-top001",
+    "order": 1381,
+    "description": "VENUSバトルシーズン38で1位獲得"
+  },
+  {
+    "id": "emb-612",
+    "name": "VENUSシーズン38 TOP10",
+    "assetId": "pvp-season-038-top010",
+    "order": 1382,
+    "description": "VENUSバトルシーズン38で10位以内獲得"
+  },
+  {
+    "id": "emb-613",
+    "name": "VENUSシーズン38 TOP100",
+    "assetId": "pvp-season-038-top100",
+    "order": 1383,
+    "description": "VENUSバトルシーズン38で100位以内獲得"
+  },
+  {
+    "id": "emb-614",
+    "name": "VENUSシーズン39 No.1",
+    "assetId": "pvp-season-039-top001",
+    "order": 1391,
+    "description": "VENUSバトルシーズン39で1位獲得"
+  },
+  {
+    "id": "emb-615",
+    "name": "VENUSシーズン39 TOP10",
+    "assetId": "pvp-season-039-top010",
+    "order": 1392,
+    "description": "VENUSバトルシーズン39で10位以内獲得"
+  },
+  {
+    "id": "emb-616",
+    "name": "VENUSシーズン39 TOP100",
+    "assetId": "pvp-season-039-top100",
+    "order": 1393,
+    "description": "VENUSバトルシーズン39で100位以内獲得"
+  },
+  {
+    "id": "emb-617",
+    "name": "VENUSシーズン40 No.1",
+    "assetId": "pvp-season-040-top001",
+    "order": 1401,
+    "description": "VENUSバトルシーズン40で1位獲得"
+  },
+  {
+    "id": "emb-618",
+    "name": "VENUSシーズン40 TOP10",
+    "assetId": "pvp-season-040-top010",
+    "order": 1402,
+    "description": "VENUSバトルシーズン40で10位以内獲得"
+  },
+  {
+    "id": "emb-619",
+    "name": "VENUSシーズン40 TOP100",
+    "assetId": "pvp-season-040-top100",
+    "order": 1403,
+    "description": "VENUSバトルシーズン40で100位以内獲得"
+  },
+  {
+    "id": "emb-800",
+    "name": "雨上がりの太陽と共に",
+    "assetId": "tour-21-0630",
+    "order": 1701,
+    "description": "ツアーライブ「雨上がりの太陽と共に」クリア"
+  },
+  {
+    "id": "emb-801",
+    "name": "月夜に輝く恋の魔法",
+    "assetId": "tour-21-0731",
+    "order": 1702,
+    "description": "ツアーライブ「月夜に輝く恋の魔法」クリア"
+  },
+  {
+    "id": "emb-802",
+    "name": "芽吹く黒ユリの蕾",
+    "assetId": "backside-21-0831",
+    "order": 1703,
+    "description": "合宿「芽吹く黒ユリの蕾」クリア"
+  },
+  {
+    "id": "emb-803",
+    "name": "煌めく奇跡をもう一度",
+    "assetId": "marathon-21-0930",
+    "order": 1704,
+    "description": "リンクスイベント「煌めく奇跡をもう一度」クリア"
+  },
+  {
+    "id": "emb-804",
+    "name": "夢踊るステージに架け橋を",
+    "assetId": "backside-21-1031",
+    "order": 1705,
+    "description": "合宿イベント「夢踊るステージに架け橋を」クリア"
+  },
+  {
+    "id": "emb-805",
+    "name": "羽休む聖夜のサプライズ",
+    "assetId": "marathon-21-1130",
+    "order": 1706,
+    "description": "リンクスイベント「羽休む聖夜のサプライズ」クリア"
+  },
+  {
+    "id": "emb-806",
+    "name": "昇る初陽に咲く笑顔",
+    "assetId": "contest-21-1228",
+    "order": 1707,
+    "description": "フォトオーディション「昇る初陽に咲く笑顔」条件達成"
+  },
+  {
+    "id": "emb-807",
+    "name": "心愛溶けるビターチョコレート",
+    "assetId": "marathon-22-0131",
+    "order": 1708,
+    "description": "リンクスイベント「心愛溶けるビターチョコレート」クリア"
+  },
+  {
+    "id": "emb-808",
+    "name": "並び立つ歌姫のフルリール",
+    "assetId": "race-22-0228",
+    "order": 1708,
+    "description": "VENUSレース「並び立つ歌姫のフルリール」クリア"
+  },
+  {
+    "id": "emb-809",
+    "name": "愛歌う星の継承者",
+    "assetId": "contest-22-0328",
+    "order": 1710,
+    "description": "フォトオーディション「愛歌う星の継承者」条件達成"
+  },
+  {
+    "id": "emb-810",
+    "name": "心紡ぎ合う輝きの競演",
+    "assetId": "race-22-0428",
+    "order": 1711,
+    "description": "VENUSレース「心紡ぎ合う輝きの競演」クリア"
+  },
+  {
+    "id": "emb-811",
+    "name": "導きのファンファーレ",
+    "assetId": "marathon-22-0526",
+    "order": 1712,
+    "description": "リンクスイベント「導きのファンファーレ」クリア"
+  },
+  {
+    "id": "emb-900",
+    "name": "ユニオンシーズン4 No.1",
+    "assetId": "gvg-season-004-top001",
+    "order": 1511,
+    "description": "ユニオンライブシーズン4で1位獲得"
+  },
+  {
+    "id": "emb-901",
+    "name": "ユニオンシーズン4 TOP10",
+    "assetId": "gvg-season-004-top010",
+    "order": 1512,
+    "description": "ユニオンライブシーズン4で10位以内獲得"
+  },
+  {
+    "id": "emb-902",
+    "name": "ユニオンシーズン5 No.1",
+    "assetId": "gvg-season-005-top001",
+    "order": 1513,
+    "description": "ユニオンライブシーズン5で1位獲得"
+  },
+  {
+    "id": "emb-903",
+    "name": "ユニオンシーズン5 TOP10",
+    "assetId": "gvg-season-005-top010",
+    "order": 1514,
+    "description": "ユニオンライブシーズン5で10位以内獲得"
+  },
+  {
+    "id": "emb-904",
+    "name": "ユニオンシーズン6 No.1",
+    "assetId": "gvg-season-006-top001",
+    "order": 1515,
+    "description": "ユニオンライブシーズン6で1位獲得"
+  },
+  {
+    "id": "emb-905",
+    "name": "ユニオンシーズン6 TOP10",
+    "assetId": "gvg-season-006-top010",
+    "order": 1516,
+    "description": "ユニオンライブシーズン6で10位以内獲得"
+  },
+  {
+    "id": "emb-906",
+    "name": "ユニオンシーズン7 No.1",
+    "assetId": "gvg-season-007-top001",
+    "order": 1517,
+    "description": "ユニオンライブシーズン7で1位獲得"
+  },
+  {
+    "id": "emb-907",
+    "name": "ユニオンシーズン7 TOP10",
+    "assetId": "gvg-season-007-top010",
+    "order": 1518,
+    "description": "ユニオンライブシーズン7で10位以内獲得"
+  },
+  {
+    "id": "emb-908",
+    "name": "ユニオンシーズン8 No.1",
+    "assetId": "gvg-season-008-top001",
+    "order": 1519,
+    "description": "ユニオンライブシーズン8で1位獲得"
+  },
+  {
+    "id": "emb-909",
+    "name": "ユニオンシーズン8 TOP10",
+    "assetId": "gvg-season-008-top010",
+    "order": 1520,
+    "description": "ユニオンライブシーズン8で10位以内獲得"
+  },
+  {
+    "id": "emb-910",
+    "name": "ユニオンシーズン9 No.1",
+    "assetId": "gvg-season-009-top001",
+    "order": 1521,
+    "description": "ユニオンライブシーズン9で1位獲得"
+  },
+  {
+    "id": "emb-911",
+    "name": "ユニオンシーズン9 TOP10",
+    "assetId": "gvg-season-009-top010",
+    "order": 1522,
+    "description": "ユニオンライブシーズン9で10位以内獲得"
+  },
+  {
+    "id": "emb-912",
+    "name": "ユニオンシーズン10 No.1",
+    "assetId": "gvg-season-010-top001",
+    "order": 1523,
+    "description": "ユニオンライブシーズン10で1位獲得"
+  },
+  {
+    "id": "emb-913",
+    "name": "ユニオンシーズン10 TOP10",
+    "assetId": "gvg-season-010-top010",
+    "order": 1524,
+    "description": "ユニオンライブシーズン10で10位以内獲得"
+  },
+  {
+    "id": "emb-914",
+    "name": "ユニオンシーズン11 No.1",
+    "assetId": "gvg-season-011-top001",
+    "order": 1525,
+    "description": "ユニオンライブシーズン11で1位獲得"
+  },
+  {
+    "id": "emb-915",
+    "name": "ユニオンシーズン11 TOP10",
+    "assetId": "gvg-season-011-top010",
+    "order": 1526,
+    "description": "ユニオンライブシーズン11で10位以内獲得"
+  }
+]

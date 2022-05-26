@@ -1,0 +1,477 @@
+[
+  {
+    "id": "ambassador",
+    "costumeTypeIds": [
+      "sd-ambassador"
+    ],
+    "forceCostumeTypeId": "sd-ambassador",
+    "fieldId": "ambassador-00",
+    "existBackground": true,
+    "backgroundTopColorCode": "6294f4",
+    "backgroundBottomColorCode": "978070",
+    "fieldSpineNumber": 1,
+    "existProp": true
+  },
+  {
+    "id": "bedrock_bath",
+    "costumeTypeIds": [
+      "mizg"
+    ],
+    "forceCostumeTypeId": "mizg",
+    "fieldId": "bedrock-bath-00",
+    "existBackground": true,
+    "backgroundTopColorCode": "e48054",
+    "backgroundBottomColorCode": "eecbbc",
+    "existProp": true
+  },
+  {
+    "id": "cafe",
+    "costumeTypeIds": [
+      "casl",
+      "schl",
+      "trng"
+    ],
+    "forceCostumeTypeId": "casl",
+    "fieldId": "cafe-00",
+    "existBackground": true,
+    "existForeground": true,
+    "backgroundTopColorCode": "c7c8ca",
+    "backgroundBottomColorCode": "9f948d",
+    "fieldSpineNumber": 1,
+    "existProp": true
+  },
+  {
+    "id": "dormitory",
+    "costumeTypeIds": [
+      "casl",
+      "schl",
+      "trng"
+    ],
+    "forceCostumeTypeId": "casl",
+    "fieldId": "dormitory-00",
+    "existBackground": true,
+    "backgroundTopColorCode": "f9f2d7",
+    "backgroundBottomColorCode": "dba86d",
+    "fieldSpineNumber": 1,
+    "existProp": true
+  },
+  {
+    "id": "event-booth",
+    "costumeTypeIds": [
+      "idol",
+      "casl",
+      "mizg",
+      "mizg-water-ng"
+    ],
+    "forceCostumeTypeId": "casl",
+    "fieldId": "event-booth-00",
+    "existBackground": true,
+    "backgroundTopColorCode": "1e1f26",
+    "backgroundBottomColorCode": "a7a6b9",
+    "fieldSpineNumber": 7,
+    "existProp": true
+  },
+  {
+    "id": "event_stage",
+    "costumeTypeIds": [
+      "idol",
+      "casl"
+    ],
+    "forceCostumeTypeId": "idol",
+    "fieldId": "event-stage-00",
+    "existBackground": true,
+    "backgroundTopColorCode": "f8f8f8",
+    "backgroundBottomColorCode": "f8f8f8",
+    "fieldSpineNumber": 6,
+    "fieldSpineColorSlotId": "emitting",
+    "fieldSpineColorSlotNumber": 1,
+    "existProp": true
+  },
+  {
+    "id": "fashion-show",
+    "costumeTypeIds": [
+      "idol",
+      "casl",
+      "schl",
+      "mizg-water-ng"
+    ],
+    "forceCostumeTypeId": "casl",
+    "fieldId": "fashion-show-00",
+    "existBackground": true,
+    "backgroundTopColorCode": "373a45",
+    "backgroundBottomColorCode": "bebbd5",
+    "fieldSpineNumber": 1
+  },
+  {
+    "id": "fashion_model",
+    "costumeTypeIds": [
+      "idol",
+      "casl"
+    ],
+    "forceCostumeTypeId": "casl",
+    "fieldId": "fashion-model-00",
+    "existBackground": true,
+    "backgroundTopColorCode": "f9f2d7",
+    "backgroundBottomColorCode": "e6b17b",
+    "fieldSpineNumber": 2
+  },
+  {
+    "id": "flyers",
+    "costumeTypeIds": [
+      "idol",
+      "casl",
+      "schl"
+    ],
+    "forceCostumeTypeId": "idol",
+    "fieldId": "flyers-00",
+    "existBackground": true,
+    "existForeground": true,
+    "backgroundTopColorCode": "e2e3dd",
+    "backgroundBottomColorCode": "676567",
+    "fieldSpineNumber": 5,
+    "existProp": true
+  },
+  {
+    "id": "handshake-stage-1",
+    "costumeTypeIds": [
+      "idol",
+      "casl"
+    ],
+    "forceCostumeTypeId": "idol",
+    "fieldId": "tent-00",
+    "existBackground": true,
+    "existForeground": true,
+    "backgroundTopColorCode": "a4d554",
+    "backgroundBottomColorCode": "f2e5cc",
+    "existProp": true
+  },
+  {
+    "id": "handshake-stage-2",
+    "costumeTypeIds": [
+      "idol",
+      "casl"
+    ],
+    "forceCostumeTypeId": "idol",
+    "fieldId": "cd-shop-00",
+    "existBackground": true,
+    "existForeground": true,
+    "backgroundTopColorCode": "bbbaba",
+    "backgroundBottomColorCode": "d9bd9c",
+    "existProp": true
+  },
+  {
+    "id": "handshake-stage-3",
+    "costumeTypeIds": [
+      "idol",
+      "casl"
+    ],
+    "forceCostumeTypeId": "idol",
+    "fieldId": "live-house-00",
+    "existBackground": true,
+    "existForeground": true,
+    "backgroundTopColorCode": "293248",
+    "backgroundBottomColorCode": "91a1af",
+    "existProp": true
+  },
+  {
+    "id": "handshake-stage-4",
+    "costumeTypeIds": [
+      "idol",
+      "casl"
+    ],
+    "forceCostumeTypeId": "idol",
+    "fieldId": "event-space-00",
+    "existBackground": true,
+    "existForeground": true,
+    "backgroundTopColorCode": "e3e9f1",
+    "backgroundBottomColorCode": "fcdcb5",
+    "existProp": true
+  },
+  {
+    "id": "hot_spring",
+    "costumeTypeIds": [
+      "mizg"
+    ],
+    "forceCostumeTypeId": "mizg",
+    "fieldId": "hot-spring-00",
+    "existBackground": true,
+    "backgroundTopColorCode": "a9acbb",
+    "backgroundBottomColorCode": "aaaebd",
+    "fieldSpineNumber": 1,
+    "existProp": true
+  },
+  {
+    "id": "karaoke",
+    "costumeTypeIds": [
+      "casl",
+      "schl"
+    ],
+    "forceCostumeTypeId": "casl",
+    "fieldId": "karaoke-00",
+    "existBackground": true,
+    "backgroundTopColorCode": "56546e",
+    "backgroundBottomColorCode": "5678a2",
+    "fieldSpineNumber": 1,
+    "existProp": true
+  },
+  {
+    "id": "music-program",
+    "costumeTypeIds": [
+      "idol",
+      "mizg-water-ng"
+    ],
+    "forceCostumeTypeId": "idol",
+    "fieldId": "music-program-00",
+    "existBackground": true,
+    "backgroundTopColorCode": "3f7dd3",
+    "backgroundBottomColorCode": "464867",
+    "fieldSpineNumber": 3,
+    "existProp": true
+  },
+  {
+    "id": "photo-session-stage-1",
+    "costumeTypeIds": [
+      "idol",
+      "casl"
+    ],
+    "forceCostumeTypeId": "idol",
+    "fieldId": "tent-00",
+    "existBackground": true,
+    "existForeground": true,
+    "backgroundTopColorCode": "a4d554",
+    "backgroundBottomColorCode": "f2e5cc",
+    "existProp": true,
+    "assistantNpcSpineId": "cameraman"
+  },
+  {
+    "id": "photo-session-stage-2",
+    "costumeTypeIds": [
+      "idol",
+      "casl"
+    ],
+    "forceCostumeTypeId": "idol",
+    "fieldId": "cd-shop-00",
+    "existBackground": true,
+    "existForeground": true,
+    "backgroundTopColorCode": "bbbaba",
+    "backgroundBottomColorCode": "d9bd9c",
+    "existProp": true,
+    "assistantNpcSpineId": "cameraman"
+  },
+  {
+    "id": "photo-session-stage-3",
+    "costumeTypeIds": [
+      "idol",
+      "casl"
+    ],
+    "forceCostumeTypeId": "idol",
+    "fieldId": "live-house-00",
+    "existBackground": true,
+    "existForeground": true,
+    "backgroundTopColorCode": "293248",
+    "backgroundBottomColorCode": "91a1af",
+    "existProp": true,
+    "assistantNpcSpineId": "cameraman"
+  },
+  {
+    "id": "photo-session-stage-4",
+    "costumeTypeIds": [
+      "idol",
+      "casl"
+    ],
+    "forceCostumeTypeId": "idol",
+    "fieldId": "event-space-00",
+    "existBackground": true,
+    "existForeground": true,
+    "backgroundTopColorCode": "e3e9f1",
+    "backgroundBottomColorCode": "fcdcb5",
+    "existProp": true,
+    "assistantNpcSpineId": "cameraman"
+  },
+  {
+    "id": "police",
+    "costumeTypeIds": [
+      "sd-police"
+    ],
+    "forceCostumeTypeId": "sd-police",
+    "fieldId": "police-00",
+    "existBackground": true,
+    "backgroundTopColorCode": "605a5e",
+    "backgroundBottomColorCode": "777377",
+    "fieldSpineNumber": 2,
+    "existProp": true
+  },
+  {
+    "id": "promotion-video",
+    "costumeTypeIds": [
+      "idol",
+      "mizg-water-ng"
+    ],
+    "forceCostumeTypeId": "idol",
+    "fieldId": "promotion-video-00",
+    "existBackground": true,
+    "backgroundTopColorCode": "387b8b",
+    "backgroundBottomColorCode": "c3b9c1",
+    "fieldSpineNumber": 3
+  },
+  {
+    "id": "pr_shooting",
+    "costumeTypeIds": [
+      "idol",
+      "casl",
+      "schl",
+      "mizg",
+      "mizg-water-ng"
+    ],
+    "forceCostumeTypeId": "idol",
+    "fieldId": "pr-shooting-00",
+    "existBackground": true,
+    "backgroundTopColorCode": "ebe5df",
+    "backgroundBottomColorCode": "f7f7f7",
+    "fieldSpineNumber": 1
+  },
+  {
+    "id": "quiz_program",
+    "costumeTypeIds": [
+      "idol",
+      "casl"
+    ],
+    "forceCostumeTypeId": "casl",
+    "fieldId": "quiz-program-00",
+    "existBackground": true,
+    "backgroundTopColorCode": "88c8f7",
+    "backgroundBottomColorCode": "f7f2dd",
+    "fieldSpineNumber": 1,
+    "existProp": true
+  },
+  {
+    "id": "radio_distribution",
+    "costumeTypeIds": [
+      "idol",
+      "casl",
+      "schl"
+    ],
+    "forceCostumeTypeId": "casl",
+    "fieldId": "radio-distribution-00",
+    "existBackground": true,
+    "backgroundTopColorCode": "f5dbc8",
+    "backgroundBottomColorCode": "ba9168",
+    "fieldSpineNumber": 1,
+    "existProp": true
+  },
+  {
+    "id": "shopping",
+    "costumeTypeIds": [
+      "casl",
+      "schl",
+      "trng"
+    ],
+    "forceCostumeTypeId": "casl",
+    "fieldId": "shopping-00",
+    "existBackground": true,
+    "backgroundTopColorCode": "ffe9a8",
+    "backgroundBottomColorCode": "eadbc8",
+    "fieldSpineNumber": 2,
+    "existProp": true
+  },
+  {
+    "id": "sign-stage-1",
+    "costumeTypeIds": [
+      "idol",
+      "casl"
+    ],
+    "forceCostumeTypeId": "idol",
+    "fieldId": "tent-00",
+    "existBackground": true,
+    "existForeground": true,
+    "backgroundTopColorCode": "a4d554",
+    "backgroundBottomColorCode": "f2e5cc",
+    "existProp": true
+  },
+  {
+    "id": "sign-stage-2",
+    "costumeTypeIds": [
+      "idol",
+      "casl"
+    ],
+    "forceCostumeTypeId": "idol",
+    "fieldId": "cd-shop-00",
+    "existBackground": true,
+    "existForeground": true,
+    "backgroundTopColorCode": "bbbaba",
+    "backgroundBottomColorCode": "d9bd9c",
+    "existProp": true
+  },
+  {
+    "id": "sign-stage-3",
+    "costumeTypeIds": [
+      "idol",
+      "casl"
+    ],
+    "forceCostumeTypeId": "idol",
+    "fieldId": "live-house-00",
+    "existBackground": true,
+    "existForeground": true,
+    "backgroundTopColorCode": "293248",
+    "backgroundBottomColorCode": "91a1af",
+    "existProp": true
+  },
+  {
+    "id": "sign-stage-4",
+    "costumeTypeIds": [
+      "idol",
+      "casl"
+    ],
+    "forceCostumeTypeId": "idol",
+    "fieldId": "event-space-00",
+    "existBackground": true,
+    "existForeground": true,
+    "backgroundTopColorCode": "e3e9f1",
+    "backgroundBottomColorCode": "fcdcb5",
+    "existProp": true
+  },
+  {
+    "id": "swimwear_shooting",
+    "costumeTypeIds": [
+      "mizg",
+      "mizg-water-ng"
+    ],
+    "forceCostumeTypeId": "mizg",
+    "fieldId": "swimwear-shooting-00",
+    "existBackground": true,
+    "existForeground": true,
+    "backgroundTopColorCode": "dead53",
+    "backgroundBottomColorCode": "e8e6e3",
+    "fieldSpineNumber": 2,
+    "existProp": true
+  },
+  {
+    "id": "theme_park",
+    "costumeTypeIds": [
+      "casl",
+      "schl",
+      "trng"
+    ],
+    "forceCostumeTypeId": "casl",
+    "fieldId": "theme-park-00",
+    "existBackground": true,
+    "existForeground": true,
+    "backgroundTopColorCode": "d69571",
+    "backgroundBottomColorCode": "ddbe90",
+    "fieldSpineNumber": 3,
+    "existProp": true
+  },
+  {
+    "id": "video_distribution",
+    "costumeTypeIds": [
+      "casl"
+    ],
+    "forceCostumeTypeId": "casl",
+    "fieldId": "video-distribution-00",
+    "existBackground": true,
+    "backgroundTopColorCode": "76d5f2",
+    "backgroundBottomColorCode": "eac792",
+    "fieldSpineNumber": 1,
+    "existProp": true
+  }
+]

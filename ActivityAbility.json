@@ -1,0 +1,534 @@
+[
+  {
+    "id": "aab-ai-05-kait-00",
+    "name": "コインアップ",
+    "levels": [
+      {
+        "level": 1,
+        "description": "プロモーションの獲得コイン1.0%上昇",
+        "type": 2002,
+        "value": 10
+      },
+      {
+        "level": 2,
+        "description": "プロモーションの獲得コイン1.5%上昇",
+        "type": 2002,
+        "requiredItemAmount": 200,
+        "requiredCardLevel": 120,
+        "value": 15
+      },
+      {
+        "level": 3,
+        "description": "プロモーションの獲得コイン2.0%上昇",
+        "type": 2002,
+        "requiredItemAmount": 500,
+        "requiredCardLevel": 140,
+        "value": 20
+      }
+    ]
+  },
+  {
+    "id": "aab-fan_event_manager_exp_up",
+    "name": "MEXPアップ【ファンイベント】",
+    "levels": [
+      {
+        "level": 1,
+        "description": "ファンイベントの獲得マネージャー経験値10.0%上昇",
+        "type": 1002,
+        "value": 100
+      },
+      {
+        "level": 2,
+        "description": "ファンイベントの獲得マネージャー経験値12.5%上昇",
+        "type": 1002,
+        "requiredItemAmount": 200,
+        "requiredCardLevel": 120,
+        "value": 125
+      },
+      {
+        "level": 3,
+        "description": "ファンイベントの獲得マネージャー経験値15.0%上昇",
+        "type": 1002,
+        "requiredItemAmount": 500,
+        "requiredCardLevel": 140,
+        "value": 150
+      }
+    ]
+  },
+  {
+    "id": "aab-kkr-05-seik-00",
+    "name": "MEXPアップ【ファンイベント】",
+    "levels": [
+      {
+        "level": 1,
+        "description": "ファンイベントの獲得マネージャー経験値10.0%上昇",
+        "type": 1002,
+        "value": 100
+      },
+      {
+        "level": 2,
+        "description": "ファンイベントの獲得マネージャー経験値12.5%上昇",
+        "type": 1002,
+        "requiredItemAmount": 200,
+        "requiredCardLevel": 120,
+        "value": 125
+      },
+      {
+        "level": 3,
+        "description": "ファンイベントの獲得マネージャー経験値15.0%上昇",
+        "type": 1002,
+        "requiredItemAmount": 500,
+        "requiredCardLevel": 140,
+        "value": 150
+      }
+    ]
+  },
+  {
+    "id": "aab-ktn-04-casl-00",
+    "name": "コインアップ",
+    "levels": [
+      {
+        "level": 1,
+        "description": "プロモーションの獲得コイン1.0%上昇",
+        "type": 2002,
+        "value": 10
+      },
+      {
+        "level": 2,
+        "description": "プロモーションの獲得コイン1.5%上昇",
+        "type": 2002,
+        "requiredItemAmount": 200,
+        "requiredCardLevel": 120,
+        "value": 15
+      },
+      {
+        "level": 3,
+        "description": "プロモーションの獲得コイン2.0%上昇",
+        "type": 2002,
+        "requiredItemAmount": 500,
+        "requiredCardLevel": 140,
+        "value": 20
+      }
+    ]
+  },
+  {
+    "id": "aab-ktn-05-mizg-01",
+    "name": "MEXPアップ【ファンイベント】",
+    "levels": [
+      {
+        "level": 1,
+        "description": "ファンイベントの獲得マネージャー経験値10.0%上昇",
+        "type": 1002,
+        "value": 100
+      },
+      {
+        "level": 2,
+        "description": "ファンイベントの獲得マネージャー経験値12.5%上昇",
+        "type": 1002,
+        "requiredItemAmount": 200,
+        "requiredCardLevel": 120,
+        "value": 125
+      },
+      {
+        "level": 3,
+        "description": "ファンイベントの獲得マネージャー経験値15.0%上昇",
+        "type": 1002,
+        "requiredItemAmount": 500,
+        "requiredCardLevel": 140,
+        "value": 150
+      }
+    ]
+  },
+  {
+    "id": "aab-mei-04-casl-00",
+    "name": "元気回復アップ",
+    "levels": [
+      {
+        "level": 1,
+        "description": "リフレッシュの回復量1.0%上昇",
+        "type": 3001,
+        "value": 10
+      },
+      {
+        "level": 2,
+        "description": "リフレッシュの回復量1.5%上昇",
+        "type": 3001,
+        "requiredItemAmount": 200,
+        "requiredCardLevel": 120,
+        "value": 15
+      },
+      {
+        "level": 3,
+        "description": "リフレッシュの回復量2.0%上昇",
+        "type": 3001,
+        "requiredItemAmount": 500,
+        "requiredCardLevel": 140,
+        "value": 20
+      }
+    ]
+  },
+  {
+    "id": "aab-mna-05-idol-00",
+    "name": "MEXPアップ【プロモーション】",
+    "levels": [
+      {
+        "level": 1,
+        "description": "プロモーションの獲得マネージャー経験値4.0%上昇",
+        "type": 2001,
+        "value": 40
+      },
+      {
+        "level": 2,
+        "description": "プロモーションの獲得マネージャー経験値5.0%上昇",
+        "type": 2001,
+        "requiredItemAmount": 200,
+        "requiredCardLevel": 120,
+        "value": 50
+      },
+      {
+        "level": 3,
+        "description": "プロモーションの獲得マネージャー経験値6.0%上昇",
+        "type": 2001,
+        "requiredItemAmount": 500,
+        "requiredCardLevel": 140,
+        "value": 60
+      }
+    ]
+  },
+  {
+    "id": "aab-promotion_accessory_multi_step_reward_up",
+    "name": "アクセサリーアップ",
+    "levels": [
+      {
+        "level": 1,
+        "description": "プロモーションのアクセサリ獲得率4.0%上昇",
+        "type": 2003,
+        "value": 40
+      },
+      {
+        "level": 2,
+        "description": "プロモーションのアクセサリ獲得率5.0%上昇",
+        "type": 2003,
+        "requiredItemAmount": 200,
+        "requiredCardLevel": 120,
+        "value": 50
+      },
+      {
+        "level": 3,
+        "description": "プロモーションのアクセサリ獲得率6.0%上昇",
+        "type": 2003,
+        "requiredItemAmount": 500,
+        "requiredCardLevel": 140,
+        "value": 60
+      }
+    ]
+  },
+  {
+    "id": "aab-promotion_gold_up",
+    "name": "コインアップ",
+    "levels": [
+      {
+        "level": 1,
+        "description": "プロモーションの獲得コイン1.0%上昇",
+        "type": 2002,
+        "value": 10
+      },
+      {
+        "level": 2,
+        "description": "プロモーションの獲得コイン1.5%上昇",
+        "type": 2002,
+        "requiredItemAmount": 200,
+        "requiredCardLevel": 120,
+        "value": 15
+      },
+      {
+        "level": 3,
+        "description": "プロモーションの獲得コイン2.0%上昇",
+        "type": 2002,
+        "requiredItemAmount": 500,
+        "requiredCardLevel": 140,
+        "value": 20
+      }
+    ]
+  },
+  {
+    "id": "aab-promotion_manager_exp_up",
+    "name": "MEXPアップ【プロモーション】",
+    "levels": [
+      {
+        "level": 1,
+        "description": "プロモーションの獲得マネージャー経験値4.0%上昇",
+        "type": 2001,
+        "value": 40
+      },
+      {
+        "level": 2,
+        "description": "プロモーションの獲得マネージャー経験値5.0%上昇",
+        "type": 2001,
+        "requiredItemAmount": 200,
+        "requiredCardLevel": 120,
+        "value": 50
+      },
+      {
+        "level": 3,
+        "description": "プロモーションの獲得マネージャー経験値6.0%上昇",
+        "type": 2001,
+        "requiredItemAmount": 500,
+        "requiredCardLevel": 140,
+        "value": 60
+      }
+    ]
+  },
+  {
+    "id": "aab-refresh_stamina_up",
+    "name": "元気回復アップ",
+    "levels": [
+      {
+        "level": 1,
+        "description": "リフレッシュの回復量1.0%上昇",
+        "type": 3001,
+        "value": 10
+      },
+      {
+        "level": 2,
+        "description": "リフレッシュの回復量1.5%上昇",
+        "type": 3001,
+        "requiredItemAmount": 200,
+        "requiredCardLevel": 120,
+        "value": 15
+      },
+      {
+        "level": 3,
+        "description": "リフレッシュの回復量2.0%上昇",
+        "type": 3001,
+        "requiredItemAmount": 500,
+        "requiredCardLevel": 140,
+        "value": 20
+      }
+    ]
+  },
+  {
+    "id": "aab-rui-05-mizg-01",
+    "name": "MEXPアップ【プロモーション】",
+    "levels": [
+      {
+        "level": 1,
+        "description": "プロモーションの獲得マネージャー経験値4.0%上昇",
+        "type": 2001,
+        "value": 40
+      },
+      {
+        "level": 2,
+        "description": "プロモーションの獲得マネージャー経験値5.0%上昇",
+        "type": 2001,
+        "requiredItemAmount": 200,
+        "requiredCardLevel": 120,
+        "value": 50
+      },
+      {
+        "level": 3,
+        "description": "プロモーションの獲得マネージャー経験値6.0%上昇",
+        "type": 2001,
+        "requiredItemAmount": 500,
+        "requiredCardLevel": 140,
+        "value": 60
+      }
+    ]
+  },
+  {
+    "id": "aab-ski-05-idol-00",
+    "name": "MEXPアップ【ファンイベント】",
+    "levels": [
+      {
+        "level": 1,
+        "description": "ファンイベントの獲得マネージャー経験値10.0%上昇",
+        "type": 1002,
+        "value": 100
+      },
+      {
+        "level": 2,
+        "description": "ファンイベントの獲得マネージャー経験値12.5%上昇",
+        "type": 1002,
+        "requiredItemAmount": 200,
+        "requiredCardLevel": 120,
+        "value": 125
+      },
+      {
+        "level": 3,
+        "description": "ファンイベントの獲得マネージャー経験値15.0%上昇",
+        "type": 1002,
+        "requiredItemAmount": 500,
+        "requiredCardLevel": 140,
+        "value": 150
+      }
+    ]
+  },
+  {
+    "id": "aab-skr-04-casl-00",
+    "name": "元気回復アップ",
+    "levels": [
+      {
+        "level": 1,
+        "description": "リフレッシュの回復量1.0%上昇",
+        "type": 3001,
+        "value": 10
+      },
+      {
+        "level": 2,
+        "description": "リフレッシュの回復量1.5%上昇",
+        "type": 3001,
+        "requiredItemAmount": 200,
+        "requiredCardLevel": 120,
+        "value": 15
+      },
+      {
+        "level": 3,
+        "description": "リフレッシュの回復量2.0%上昇",
+        "type": 3001,
+        "requiredItemAmount": 500,
+        "requiredCardLevel": 140,
+        "value": 20
+      }
+    ]
+  },
+  {
+    "id": "aab-suz-05-anml-00",
+    "name": "アクセサリーアップ",
+    "levels": [
+      {
+        "level": 1,
+        "description": "プロモーションのアクセサリ獲得率4.0%上昇",
+        "type": 2003,
+        "value": 40
+      },
+      {
+        "level": 2,
+        "description": "プロモーションのアクセサリ獲得率5.0%上昇",
+        "type": 2003,
+        "requiredItemAmount": 200,
+        "requiredCardLevel": 120,
+        "value": 50
+      },
+      {
+        "level": 3,
+        "description": "プロモーションのアクセサリ獲得率6.0%上昇",
+        "type": 2003,
+        "requiredItemAmount": 500,
+        "requiredCardLevel": 140,
+        "value": 60
+      }
+    ]
+  },
+  {
+    "id": "aab-suz-05-mizg-01",
+    "name": "元気回復アップ",
+    "levels": [
+      {
+        "level": 1,
+        "description": "リフレッシュの回復量1.0%上昇",
+        "type": 3001,
+        "value": 10
+      },
+      {
+        "level": 2,
+        "description": "リフレッシュの回復量1.5%上昇",
+        "type": 3001,
+        "requiredItemAmount": 200,
+        "requiredCardLevel": 120,
+        "value": 15
+      },
+      {
+        "level": 3,
+        "description": "リフレッシュの回復量2.0%上昇",
+        "type": 3001,
+        "requiredItemAmount": 500,
+        "requiredCardLevel": 140,
+        "value": 20
+      }
+    ]
+  },
+  {
+    "id": "aab-szk-04-casl-00",
+    "name": "コインアップ",
+    "levels": [
+      {
+        "level": 1,
+        "description": "プロモーションの獲得コイン1.0%上昇",
+        "type": 2002,
+        "value": 10
+      },
+      {
+        "level": 2,
+        "description": "プロモーションの獲得コイン1.5%上昇",
+        "type": 2002,
+        "requiredItemAmount": 200,
+        "requiredCardLevel": 120,
+        "value": 15
+      },
+      {
+        "level": 3,
+        "description": "プロモーションの獲得コイン2.0%上昇",
+        "type": 2002,
+        "requiredItemAmount": 500,
+        "requiredCardLevel": 140,
+        "value": 20
+      }
+    ]
+  },
+  {
+    "id": "aab-szk-05-idol-00",
+    "name": "MEXPアップ【プロモーション】",
+    "levels": [
+      {
+        "level": 1,
+        "description": "プロモーションの獲得マネージャー経験値4.0%上昇",
+        "type": 2001,
+        "value": 40
+      },
+      {
+        "level": 2,
+        "description": "プロモーションの獲得マネージャー経験値5.0%上昇",
+        "type": 2001,
+        "requiredItemAmount": 200,
+        "requiredCardLevel": 120,
+        "value": 50
+      },
+      {
+        "level": 3,
+        "description": "プロモーションの獲得マネージャー経験値6.0%上昇",
+        "type": 2001,
+        "requiredItemAmount": 500,
+        "requiredCardLevel": 140,
+        "value": 60
+      }
+    ]
+  },
+  {
+    "id": "aab-yu-05-idol-00",
+    "name": "アクセサリーアップ",
+    "levels": [
+      {
+        "level": 1,
+        "description": "プロモーションのアクセサリ獲得率4.0%上昇",
+        "type": 2003,
+        "value": 40
+      },
+      {
+        "level": 2,
+        "description": "プロモーションのアクセサリ獲得率5.0%上昇",
+        "type": 2003,
+        "requiredItemAmount": 200,
+        "requiredCardLevel": 120,
+        "value": 50
+      },
+      {
+        "level": 3,
+        "description": "プロモーションのアクセサリ獲得率6.0%上昇",
+        "type": 2003,
+        "requiredItemAmount": 500,
+        "requiredCardLevel": 140,
+        "value": 60
+      }
+    ]
+  }
+]

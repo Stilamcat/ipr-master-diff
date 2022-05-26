@@ -1,0 +1,505 @@
+[
+  {
+    "id": "login_bonus-campaign-21-0624-01",
+    "name": "スタートダッシュ 第一弾",
+    "description": "3日間の特別なログインボーナス",
+    "type": 2,
+    "assetId": "login-campaign-21-0910-01",
+    "topColorCode": "00CEFF",
+    "bottomColorCode": "D0FFA0",
+    "priority": 10,
+    "rewardIds": [
+      "rd_auto;gold;;100000",
+      "rd_auto;item;item-gacha_ticket-r5;1",
+      "rd_auto;stone;;1000"
+    ]
+  },
+  {
+    "id": "login_bonus-campaign-21-0624-02",
+    "name": "スタートダッシュ 第二弾",
+    "description": "7日間の特別なログインボーナス",
+    "type": 2,
+    "assetId": "login-campaign-21-0910-02",
+    "topColorCode": "00CEFF",
+    "bottomColorCode": "D0FFA0",
+    "priority": 9,
+    "rewardIds": [
+      "rd_auto;item;item-act_super_mode;1",
+      "rd_auto;item;item-card_enhance;500000",
+      "rd_auto;item;item-act_refresh_shorten;2",
+      "rd_auto;stone;;500",
+      "rd_auto;gold;;1000000",
+      "rd_auto;item;item-card_skill;1000",
+      "rd_auto;stone;;500"
+    ],
+    "openConditionId": "cd-accumulation_login_days_gte-4",
+    "receiveConditionId": "cd-accumulation_login_days_gte-4"
+  },
+  {
+    "id": "login_bonus-campaign-21-0706-01",
+    "name": "育成応援\nログボ",
+    "description": "5日間の特別なログインボーナス",
+    "type": 2,
+    "assetId": "login-campaign-21-0706-01",
+    "topColorCode": "00CEFF",
+    "bottomColorCode": "D0FFA0",
+    "priority": 10,
+    "rewardIds": [
+      "rd_auto;item;item-card_enhance;300000",
+      "rd_auto;gold;;400000",
+      "rd_auto;item;item-act_refresh_shorten;1",
+      "rd_auto;item;item-act_promotion_shorten;1",
+      "rd_auto;stone;;500"
+    ],
+    "openConditionId": "cd-time-login-21-0706-0720",
+    "receiveConditionId": "cd-time-login-21-0706-0720"
+  },
+  {
+    "id": "login_bonus-campaign-21-0727-01",
+    "name": "育成応援\nログボ",
+    "description": "5日間の特別なログインボーナス",
+    "type": 2,
+    "assetId": "login-campaign-21-0706-01",
+    "topColorCode": "00CEFF",
+    "bottomColorCode": "D0FFA0",
+    "priority": 10,
+    "rewardIds": [
+      "rd_auto;item;item-card_enhance;300000",
+      "rd_auto;gold;;400000",
+      "rd_auto;item;item-card_skill;500",
+      "rd_auto;item;item-act_promotion_shorten;1",
+      "rd_auto;stone;;500"
+    ],
+    "openConditionId": "cd-time-login-21-0727-0810",
+    "receiveConditionId": "cd-time-login-21-0727-0810"
+  },
+  {
+    "id": "login_bonus-campaign-21-0813-01",
+    "name": "育成応援\nログボ",
+    "description": "5日間の特別なログインボーナス",
+    "type": 2,
+    "assetId": "login-campaign-21-0706-01",
+    "topColorCode": "00CEFF",
+    "bottomColorCode": "D0FFA0",
+    "priority": 10,
+    "rewardIds": [
+      "rd_auto;item;item-daily_quest_ticket_01;2",
+      "rd_auto;item;item-daily_quest_ticket_02;2",
+      "rd_auto;item;item-act_refresh_shorten;1",
+      "rd_auto;item;item-act_promotion_shorten;1",
+      "rd_auto;stone;;500"
+    ],
+    "openConditionId": "cd-time-login-21-0813-0817",
+    "receiveConditionId": "cd-time-login-21-0813-0822"
+  },
+  {
+    "id": "login_bonus-campaign-21-0906-01",
+    "name": "育成応援\nログボ",
+    "description": "5日間の特別なログインボーナス",
+    "type": 2,
+    "assetId": "login-campaign-21-0706-01",
+    "topColorCode": "00CEFF",
+    "bottomColorCode": "D0FFA0",
+    "priority": 10,
+    "rewardIds": [
+      "rd_auto;item;item-daily_quest_ticket_01;2",
+      "rd_auto;item;item-daily_quest_ticket_02;2",
+      "rd_auto;item;item-card_skill;1000",
+      "rd_auto;item;item-act_promotion_shorten;1",
+      "rd_auto;stone;;500"
+    ],
+    "openConditionId": "cd-time-login-21-0906-0910",
+    "receiveConditionId": "cd-time-login-21-0906-0915"
+  },
+  {
+    "id": "login_bonus-campaign-21-0928-01",
+    "name": "麻奈登場記念",
+    "description": "7日間の特別なログインボーナス",
+    "type": 2,
+    "assetId": "login-campaign-21-0927-01",
+    "topColorCode": "00CEFF",
+    "bottomColorCode": "D0FFA0",
+    "priority": 9,
+    "rewardIds": [
+      "rd_auto;item;item-act_promotion_shorten;1",
+      "rd_auto;stone;;100",
+      "rd_auto;item;item-daily_quest_ticket_01;1",
+      "rd_auto;item;item-daily_quest_ticket_02;1",
+      "rd_auto;stone;;100",
+      "rd_auto;item;item-daily_quest_ticket_03;1",
+      "rd_auto;item;item-gacha_ticket-r5;1"
+    ],
+    "openConditionId": "cd-time-login-21-0928-1004",
+    "receiveConditionId": "cd-time-login-21-0928-1018"
+  },
+  {
+    "id": "login_bonus-campaign-21-1015-01",
+    "name": "育成応援",
+    "description": "5日間の特別なログインボーナス",
+    "type": 2,
+    "assetId": "login-campaign-21-0706-01",
+    "topColorCode": "00CEFF",
+    "bottomColorCode": "D0FFA0",
+    "priority": 10,
+    "rewardIds": [
+      "rd_auto;item;item-daily_quest_ticket_01;2",
+      "rd_auto;item;item-daily_quest_ticket_02;2",
+      "rd_auto;item;item-act_refresh_shorten;1",
+      "rd_auto;item;item-act_promotion_shorten;1",
+      "rd_auto;stone;;500"
+    ],
+    "openConditionId": "cd-time-login-21-1015-1019",
+    "receiveConditionId": "cd-time-login-21-1015-1024"
+  },
+  {
+    "id": "login_bonus-campaign-21-1106-01",
+    "name": "育成応援",
+    "description": "5日間の特別なログインボーナス",
+    "type": 2,
+    "assetId": "login-campaign-21-0706-01",
+    "topColorCode": "00CEFF",
+    "bottomColorCode": "D0FFA0",
+    "priority": 10,
+    "rewardIds": [
+      "rd_auto;item;item-daily_quest_ticket_01;2",
+      "rd_auto;item;item-daily_quest_ticket_02;2",
+      "rd_auto;item;item-card_skill;1000",
+      "rd_auto;item;item-act_promotion_shorten;1",
+      "rd_auto;stone;;500"
+    ],
+    "openConditionId": "cd-time-login-21-1106-1110",
+    "receiveConditionId": "cd-time-login-21-1106-1115"
+  },
+  {
+    "id": "login_bonus-campaign-21-1124-01",
+    "name": "育成応援",
+    "description": "5日間の特別なログインボーナス",
+    "type": 2,
+    "assetId": "login-campaign-21-0706-01",
+    "topColorCode": "00CEFF",
+    "bottomColorCode": "D0FFA0",
+    "priority": 10,
+    "rewardIds": [
+      "rd_auto;item;item-daily_quest_ticket_01;2",
+      "rd_auto;item;item-daily_quest_ticket_02;2",
+      "rd_auto;item;item-card_skill;1000",
+      "rd_auto;item;item-daily_quest_ticket_03;1",
+      "rd_auto;stone;;500"
+    ],
+    "openConditionId": "cd-time-login-21-1124-1128",
+    "receiveConditionId": "cd-time-login-21-1124-1203"
+  },
+  {
+    "id": "login_bonus-campaign-21-1206-01",
+    "name": "クリスマス",
+    "description": "7日間の特別なログインボーナス",
+    "type": 2,
+    "assetId": "login-campaign-21-1206-01",
+    "topColorCode": "00CEFF",
+    "bottomColorCode": "D0FFA0",
+    "priority": 10,
+    "rewardIds": [
+      "rd_auto;item;item-act_promotion_shorten;2",
+      "rd_auto;item;item-daily_quest_ticket_01;3",
+      "rd_auto;item;item-daily_quest_ticket_02;3",
+      "rd_auto;item;item-card_skill;2000",
+      "rd_auto;item;item-daily_quest_ticket_03;3",
+      "rd_auto;decoration;deco-login-campaign-21-1206-01;1",
+      "rd_auto;stone;;500"
+    ],
+    "openConditionId": "cd-time-login-21-1206-1212",
+    "receiveConditionId": "cd-time-login-21-1206-1219"
+  },
+  {
+    "id": "login_bonus-campaign-21-1219-01",
+    "name": "クリスマス 第二弾",
+    "description": "7日間の特別なログインボーナス",
+    "type": 2,
+    "assetId": "login-campaign-21-1219-01",
+    "topColorCode": "00CEFF",
+    "bottomColorCode": "D0FFA0",
+    "priority": 10,
+    "rewardIds": [
+      "rd_auto;item;item-act_promotion_shorten;2",
+      "rd_auto;item;item-gacha_ticket_piece-r5;10",
+      "rd_auto;item;item-act_refresh_shorten;2",
+      "rd_auto;item;item-gacha_ticket_piece-r5;10",
+      "rd_auto;item;item-card_skill;3000",
+      "rd_auto;item;item-gacha_ticket_piece-r5;10",
+      "rd_auto;stone;;500"
+    ],
+    "openConditionId": "cd-time-login-21-1219-1225",
+    "receiveConditionId": "cd-time-login-21-1219-0101"
+  },
+  {
+    "id": "login_bonus-campaign-21-1228-01",
+    "name": "ハーフ\nアニバーサリー",
+    "description": "7日間の特別なログインボーナス",
+    "type": 2,
+    "assetId": "login-campaign-21-1228-01",
+    "topColorCode": "00CEFF",
+    "bottomColorCode": "D0FFA0",
+    "priority": 10,
+    "rewardIds": [
+      "rd_auto;decoration;deco-login-campaign-21-1228-01;1",
+      "rd_auto;stone;;200",
+      "rd_auto;item;item-rarity_exp_medal-21-1228;1",
+      "rd_auto;stone;;200",
+      "rd_auto;item;item-card_limit_break;100",
+      "rd_auto;stone;;200",
+      "rd_auto;item;item-gacha_ticket-r5;1"
+    ],
+    "openConditionId": "cd-time-login-21-1228-0103",
+    "receiveConditionId": "cd-time-login-21-1228-0110"
+  },
+  {
+    "id": "login_bonus-campaign-22-0104-01",
+    "name": "育成応援",
+    "description": "5日間の特別なログインボーナス",
+    "type": 2,
+    "assetId": "login-campaign-22-0104-01",
+    "topColorCode": "00CEFF",
+    "bottomColorCode": "D0FFA0",
+    "priority": 10,
+    "rewardIds": [
+      "rd_auto;item;item-daily_quest_ticket_01;2",
+      "rd_auto;item;item-daily_quest_ticket_02;2",
+      "rd_auto;item;item-act_refresh_shorten;1",
+      "rd_auto;item;item-act_promotion_shorten;1",
+      "rd_auto;stone;;500"
+    ],
+    "openConditionId": "cd-time-login-21-0104-0108",
+    "receiveConditionId": "cd-time-login-21-0104-0113"
+  },
+  {
+    "id": "login_bonus-campaign-22-0124-01",
+    "name": "育成応援",
+    "description": "5日間の特別なログインボーナス",
+    "type": 2,
+    "assetId": "login-campaign-21-0706-01",
+    "topColorCode": "00CEFF",
+    "bottomColorCode": "D0FFA0",
+    "priority": 10,
+    "rewardIds": [
+      "rd_auto;item;item-daily_quest_ticket_01;2",
+      "rd_auto;item;item-daily_quest_ticket_02;2",
+      "rd_auto;item;item-card_skill;1000",
+      "rd_auto;item;item-act_promotion_shorten;1",
+      "rd_auto;stone;;500"
+    ],
+    "openConditionId": "cd-time-login-21-0124-0128",
+    "receiveConditionId": "cd-time-login-21-0124-0202"
+  },
+  {
+    "id": "login_bonus-campaign-22-0207-01",
+    "name": "育成応援",
+    "description": "5日間の特別なログインボーナス",
+    "type": 2,
+    "assetId": "login-campaign-21-0706-01",
+    "topColorCode": "00CEFF",
+    "bottomColorCode": "D0FFA0",
+    "priority": 10,
+    "rewardIds": [
+      "rd_auto;item;item-daily_quest_ticket_01;2",
+      "rd_auto;item;item-daily_quest_ticket_02;2",
+      "rd_auto;item;item-card_skill;1000",
+      "rd_auto;item;item-daily_quest_ticket_03;1",
+      "rd_auto;stone;;500"
+    ],
+    "openConditionId": "cd-time-login-21-0207-0211",
+    "receiveConditionId": "cd-time-login-21-0207-0216"
+  },
+  {
+    "id": "login_bonus-campaign-22-0212-01",
+    "name": "バレンタイン",
+    "description": "7日間の特別なログインボーナス",
+    "type": 2,
+    "assetId": "login-campaign-22-0212-01",
+    "topColorCode": "00CEFF",
+    "bottomColorCode": "D0FFA0",
+    "priority": 10,
+    "rewardIds": [
+      "rd_auto;costume;cos-rio-vlnt-00;1",
+      "rd_auto;item;item-daily_quest_ticket_01;3",
+      "rd_auto;decoration;deco-login-campaign-22-0212-01;1",
+      "rd_auto;item;item-daily_quest_ticket_02;3",
+      "rd_auto;item;item-daily_quest_ticket_03;3",
+      "rd_auto;item;item-card_skill;3000",
+      "rd_auto;stone;;500"
+    ],
+    "openConditionId": "cd-time-login-21-0212-0218",
+    "receiveConditionId": "cd-time-login-21-0212-0228"
+  },
+  {
+    "id": "login_bonus-campaign-22-0221-01",
+    "name": "育成応援",
+    "description": "5日間の特別なログインボーナス",
+    "type": 2,
+    "assetId": "login-campaign-21-0706-01",
+    "topColorCode": "00CEFF",
+    "bottomColorCode": "D0FFA0",
+    "priority": 10,
+    "rewardIds": [
+      "rd_auto;item;item-daily_quest_ticket_01;2",
+      "rd_auto;item;item-daily_quest_ticket_02;2",
+      "rd_auto;item;item-card_skill;2500",
+      "rd_auto;item;item-act_promotion_shorten;1",
+      "rd_auto;stone;;500"
+    ],
+    "openConditionId": "cd-time-login-22-0221-0225",
+    "receiveConditionId": "cd-time-login-21-0221-0302"
+  },
+  {
+    "id": "login_bonus-campaign-22-0316-01",
+    "name": "育成応援",
+    "description": "5日間の特別なログインボーナス",
+    "type": 2,
+    "assetId": "login-campaign-21-0706-01",
+    "topColorCode": "00CEFF",
+    "bottomColorCode": "D0FFA0",
+    "priority": 10,
+    "rewardIds": [
+      "rd_auto;item;item-daily_quest_ticket_01;2",
+      "rd_auto;item;item-daily_quest_ticket_02;2",
+      "rd_auto;item;item-card_skill;2500",
+      "rd_auto;item;item-daily_quest_ticket_03;1",
+      "rd_auto;stone;;500"
+    ],
+    "openConditionId": "cd-time-login-21-0316-0320",
+    "receiveConditionId": "cd-time-login-21-0316-0325"
+  },
+  {
+    "id": "login_bonus-campaign-22-0328-01",
+    "name": "カムバック\nログイン",
+    "description": "5日間の特別なログインボーナス",
+    "type": 2,
+    "assetId": "login-comeback-22-0328-01",
+    "topColorCode": "00CEFF",
+    "bottomColorCode": "D0FFA0",
+    "priority": 8,
+    "rewardIds": [
+      "rd_auto;item;item-daily_quest_ticket_01;5",
+      "rd_auto;item;item-gacha_ticket-r5;1",
+      "rd_auto;item;item-act_promotion_shorten;5",
+      "rd_auto;item;item-daily_quest_ticket_02;5",
+      "rd_auto;item;item-card_enhance;10000000"
+    ],
+    "openConditionId": "cd-time-login-21-0328-0402",
+    "receiveConditionId": "cd-time-login-21-0328-0407"
+  },
+  {
+    "id": "login_bonus-campaign-22-0329-01",
+    "name": "感謝祭",
+    "description": "7日間の特別なログインボーナス",
+    "type": 2,
+    "assetId": "login-campaign-22-0329-01",
+    "topColorCode": "00CEFF",
+    "bottomColorCode": "D0FFA0",
+    "priority": 10,
+    "rewardIds": [
+      "rd_auto;photo_all_in_one;phot-prm-5-2;1",
+      "rd_auto;item;item-daily_quest_ticket_01;3",
+      "rd_auto;item;item-daily_quest_ticket_02;3",
+      "rd_auto;item;item-rarity_exp_medal-21-1228;1",
+      "rd_auto;item;item-daily_quest_ticket_03;3",
+      "rd_auto;item;item-card_skill;3000",
+      "rd_auto;stone;;500"
+    ],
+    "openConditionId": "cd-time-login-21-0329-0404",
+    "receiveConditionId": "cd-time-login-21-0329-0411"
+  },
+  {
+    "id": "login_bonus-campaign-22-0406-01",
+    "name": "感謝祭\n第2弾",
+    "description": "7日間の特別なログインボーナス",
+    "type": 2,
+    "assetId": "login-campaign-22-0406-01",
+    "topColorCode": "00CEFF",
+    "bottomColorCode": "D0FFA0",
+    "priority": 10,
+    "rewardIds": [
+      "rd_auto;item;item-act_promotion_shorten;2",
+      "rd_auto;stone;;200",
+      "rd_auto;item;item-act_refresh_shorten;2",
+      "rd_auto;stone;;200",
+      "rd_auto;item;item-card_skill;3000",
+      "rd_auto;stone;;200",
+      "rd_auto;item;item-gacha_ticket-r5;1"
+    ],
+    "openConditionId": "cd-time-login-22-0406-0412",
+    "receiveConditionId": "cd-time-login-22-0406-0419"
+  },
+  {
+    "id": "login_bonus-campaign-22-0429-01",
+    "name": "GW特別\nログボ",
+    "description": "7日間の特別なログインボーナス",
+    "type": 2,
+    "assetId": "login-campaign-22-0429-01",
+    "topColorCode": "00CEFF",
+    "bottomColorCode": "D0FFA0",
+    "priority": 10,
+    "rewardIds": [
+      "rd_auto;item;item-gacha_ticket_piece-r5;10",
+      "rd_auto;item;item-daily_quest_ticket_01;3",
+      "rd_auto;item;item-gacha_ticket_piece-r5;10",
+      "rd_auto;item;item-daily_quest_ticket_02;3",
+      "rd_auto;item;item-daily_quest_ticket_03;3",
+      "rd_auto;item;item-gacha_ticket_piece-r5;10",
+      "rd_auto;stone;;500"
+    ],
+    "openConditionId": "cd-time-login-22-0429-0505",
+    "receiveConditionId": "cd-time-login-22-0429-0512"
+  },
+  {
+    "id": "login_bonus-campaign-22-0528-01",
+    "name": "もうすぐ\n1周年記念",
+    "description": "7日間の特別なログインボーナス",
+    "type": 2,
+    "assetId": "login-campaign-22-0528",
+    "topColorCode": "00CEFF",
+    "bottomColorCode": "D0FFA0",
+    "priority": 10,
+    "rewardIds": [
+      "rd_auto;item;item-daily_quest_ticket_sp-22-0526;3",
+      "rd_auto;decoration;deco-login-campaign-22-0526-01;1",
+      "rd_auto;item;item-daily_quest_ticket_sp-22-0526;3",
+      "rd_auto;item;item-daily_quest_ticket_sp-22-0526;3",
+      "rd_auto;item;item-rarity_exp_medal-21-1228;1",
+      "rd_auto;item;item-daily_quest_ticket_sp-22-0526;3",
+      "rd_auto;stone;;500"
+    ],
+    "openConditionId": "cd-time-login-22-0528-0603",
+    "receiveConditionId": "cd-time-login-22-0528-0610"
+  },
+  {
+    "id": "login_bonus-normal-01",
+    "name": "デイリー",
+    "description": "毎日もらえるログインボーナス",
+    "type": 1,
+    "topColorCode": "00CEFF",
+    "bottomColorCode": "D0FFA0",
+    "priority": 1,
+    "rewardIds": [
+      "rd_auto;item;item-act_promotion_shorten;1",
+      "rd_auto;stone;;100",
+      "rd_auto;item;item-act_refresh_shorten;1",
+      "rd_auto;item;item-daily_quest_ticket_01;1",
+      "rd_auto;item;item-gacha_ticket;1",
+      "rd_auto;item;item-act_promotion_shorten;1",
+      "rd_auto;item;item-act_speed_up;1",
+      "rd_auto;item;item-card_skill;200",
+      "rd_auto;item;item-daily_quest_ticket_02;1",
+      "rd_auto;item;item-gacha_ticket_piece-r5;10",
+      "rd_auto;item;item-act_promotion_shorten;1",
+      "rd_auto;item;item-act_speed_up;1",
+      "rd_auto;item;item-act_refresh_shorten;1",
+      "rd_auto;stone;;100",
+      "rd_auto;item;item-gacha_ticket;1",
+      "rd_auto;item;item-act_promotion_shorten;1",
+      "rd_auto;item;item-act_super_mode;1",
+      "rd_auto;item;item-card_skill;200",
+      "rd_auto;item;item-daily_quest_ticket_03;1",
+      "rd_auto;stone;;500"
+    ]
+  }
+]
