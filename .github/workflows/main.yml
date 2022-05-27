@@ -1,0 +1,33 @@
+name: Archive Files
+
+on:
+  push:
+    # branches: [ main ]
+    paths:
+      - '**version.txt'
+  workflow_dispatch:
+
+jobs:
+  archive-files:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v3
+      
+      # - name: Create archive file
+        # run: |
+          # files='!version.txt'
+          # version=`cat ${files}`
+          # for file in *.json; do
+            # files+=" ${file}"
+          # done
+          # tar -cvzf "${version}.tar.gz" ${files}
+          
+      - name: Archive artifact
+        uses: actions/upload-artifact@v3
+        with:
+          name: databases
+          path: |
+            *version.txt
+            *.json
