@@ -7,7 +7,8 @@
     "levels": [
       {
         "level": 1,
-        "name": "チラシ配り"
+        "name": "チラシ配り",
+        "unlockConditionId": ""
       },
       {
         "level": 2,
@@ -204,7 +205,8 @@
         "name": "親善大使",
         "unlockConditionId": "cd-clear-area-main-074"
       }
-    ]
+    ],
+    "viewConditionId": ""
   },
   {
     "id": "act-pro-02",
@@ -214,7 +216,8 @@
     "levels": [
       {
         "level": 1,
-        "name": "PR写真撮影"
+        "name": "PR写真撮影",
+        "unlockConditionId": ""
       },
       {
         "level": 2,
@@ -386,7 +389,8 @@
         "name": "PV撮影",
         "unlockConditionId": "cd-clear-area-main-075"
       }
-    ]
+    ],
+    "viewConditionId": ""
   },
   {
     "id": "act-pro-03",
@@ -396,7 +400,8 @@
     "levels": [
       {
         "level": 1,
-        "name": "番組配信"
+        "name": "番組配信",
+        "unlockConditionId": ""
       },
       {
         "level": 2,
@@ -568,6 +573,7 @@
         "name": "音楽番組",
         "unlockConditionId": "cd-clear-area-main-075"
       }
-    ]
+    ],
+    "viewConditionId": ""
   }
 ]

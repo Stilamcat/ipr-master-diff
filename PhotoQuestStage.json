@@ -6,7 +6,8 @@
     "maxCapacity": 10000,
     "order": 9,
     "viewConditionId": "cd-clear-area-main-021",
-    "unlockConditionId": "cd-clear-area-main-023"
+    "unlockConditionId": "cd-clear-area-main-023",
+    "description": ""
   },
   {
     "id": "stage-live-dome-01-00",
@@ -15,7 +16,8 @@
     "maxCapacity": 14500,
     "order": 10,
     "viewConditionId": "cd-clear-area-main-023",
-    "unlockConditionId": "cd-clear-area-main-029"
+    "unlockConditionId": "cd-clear-area-main-029",
+    "description": ""
   },
   {
     "id": "stage-live-dome-02-00",
@@ -24,7 +26,8 @@
     "maxCapacity": 14500,
     "order": 12,
     "viewConditionId": "cd-clear-area-main-036",
-    "unlockConditionId": "cd-clear-area-main-037"
+    "unlockConditionId": "cd-clear-area-main-037",
+    "description": ""
   },
   {
     "id": "stage-live-dome-03-00",
@@ -33,7 +36,8 @@
     "maxCapacity": 17500,
     "order": 11,
     "viewConditionId": "cd-clear-area-main-029",
-    "unlockConditionId": "cd-clear-area-main-036"
+    "unlockConditionId": "cd-clear-area-main-036",
+    "description": ""
   },
   {
     "id": "stage-live-dome-04-00",
@@ -42,7 +46,8 @@
     "maxCapacity": 21000,
     "order": 13,
     "viewConditionId": "cd-clear-area-main-037",
-    "unlockConditionId": "cd-clear-area-main-038"
+    "unlockConditionId": "cd-clear-area-main-038",
+    "description": ""
   },
   {
     "id": "stage-live-hall-00-00",
@@ -51,7 +56,8 @@
     "maxCapacity": 1000,
     "order": 5,
     "viewConditionId": "cd-clear-area-main-006",
-    "unlockConditionId": "cd-clear-area-main-007"
+    "unlockConditionId": "cd-clear-area-main-007",
+    "description": ""
   },
   {
     "id": "stage-live-hall-01-00",
@@ -60,7 +66,8 @@
     "maxCapacity": 1500,
     "order": 6,
     "viewConditionId": "cd-clear-area-main-007",
-    "unlockConditionId": "cd-clear-area-main-012"
+    "unlockConditionId": "cd-clear-area-main-012",
+    "description": ""
   },
   {
     "id": "stage-live-hall-02-00",
@@ -69,7 +76,8 @@
     "maxCapacity": 2600,
     "order": 7,
     "viewConditionId": "cd-clear-area-main-012",
-    "unlockConditionId": "cd-clear-area-main-018"
+    "unlockConditionId": "cd-clear-area-main-018",
+    "description": ""
   },
   {
     "id": "stage-live-hall-03-00",
@@ -78,14 +86,18 @@
     "maxCapacity": 4800,
     "order": 8,
     "viewConditionId": "cd-clear-area-main-018",
-    "unlockConditionId": "cd-clear-area-main-021"
+    "unlockConditionId": "cd-clear-area-main-021",
+    "description": ""
   },
   {
     "id": "stage-live-house-00-00",
     "assetId": "house-00",
     "name": "Rapture渋谷",
     "maxCapacity": 100,
-    "order": 1
+    "order": 1,
+    "description": "",
+    "viewConditionId": "",
+    "unlockConditionId": ""
   },
   {
     "id": "stage-live-house-01-00",
@@ -93,7 +105,9 @@
     "name": "秋葉原フレッシュ劇場",
     "maxCapacity": 220,
     "order": 2,
-    "unlockConditionId": "cd-clear-area-main-003"
+    "unlockConditionId": "cd-clear-area-main-003",
+    "description": "",
+    "viewConditionId": ""
   },
   {
     "id": "stage-live-house-02-00",
@@ -102,7 +116,8 @@
     "maxCapacity": 520,
     "order": 3,
     "viewConditionId": "cd-clear-area-main-003",
-    "unlockConditionId": "cd-clear-area-main-005"
+    "unlockConditionId": "cd-clear-area-main-005",
+    "description": ""
   },
   {
     "id": "stage-live-house-03-00",
@@ -111,6 +126,7 @@
     "maxCapacity": 700,
     "order": 4,
     "viewConditionId": "cd-clear-area-main-005",
-    "unlockConditionId": "cd-clear-area-main-006"
+    "unlockConditionId": "cd-clear-area-main-006",
+    "description": ""
   }
 ]

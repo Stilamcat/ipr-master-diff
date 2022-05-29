@@ -29,7 +29,16 @@
     "displayScale2": 1.2,
     "highlightDisplayPositionX2": -0.4,
     "highlightDisplayPositionY2": -0.04,
-    "highlightDisplayScale2": 1.0
+    "highlightDisplayScale2": 1.0,
+    "liveAbilityId": "",
+    "activityAbilityId": "",
+    "rewardCostumeId": "",
+    "displayPositionX1": 0.0,
+    "highlightDisplayPositionX1": 0.0,
+    "obtainMessage": "",
+    "stories": [],
+    "messages": [],
+    "homeTalks": []
   },
   {
     "id": "card-ai-04-casl-00",
@@ -63,7 +72,14 @@
     "displayScale2": 1.4,
     "highlightDisplayPositionX2": 0.5,
     "highlightDisplayPositionY2": 0.3,
-    "highlightDisplayScale2": 1.1
+    "highlightDisplayScale2": 1.1,
+    "activityAbilityId": "",
+    "displayPositionX1": 0.0,
+    "highlightDisplayPositionX1": 0.0,
+    "obtainMessage": "",
+    "stories": [],
+    "messages": [],
+    "homeTalks": []
   },
   {
     "id": "card-ai-05-idol-00",
@@ -114,17 +130,20 @@
     ],
     "messages": [
       {
-        "messageId": "message-card-ai-05-idol-00"
+        "messageId": "message-card-ai-05-idol-00",
+        "telephoneId": ""
       },
       {
-        "telephoneId": "tel-card-ai-05-idol-00"
+        "telephoneId": "tel-card-ai-05-idol-00",
+        "messageId": ""
       }
     ],
     "homeTalks": [
       {
         "homeTalkId": "home-talk-card-ai-05-idol-00-talk-01"
       }
-    ]
+    ],
+    "activityAbilityId": ""
   },
   {
     "id": "card-ai-05-kait-00",
@@ -175,17 +194,20 @@
     ],
     "messages": [
       {
-        "messageId": "message-card-ai-05-kait-00"
+        "messageId": "message-card-ai-05-kait-00",
+        "telephoneId": ""
       },
       {
-        "telephoneId": "tel-card-ai-05-kait-00"
+        "telephoneId": "tel-card-ai-05-kait-00",
+        "messageId": ""
       }
     ],
     "homeTalks": [
       {
         "homeTalkId": "home-talk-card-ai-05-kait-00-talk-01"
       }
-    ]
+    ],
+    "liveAbilityId": ""
   },
   {
     "id": "card-ai-05-tact-00",
@@ -236,12 +258,16 @@
     ],
     "messages": [
       {
-        "messageId": "message-card-ai-05-tact-00"
+        "messageId": "message-card-ai-05-tact-00",
+        "telephoneId": ""
       },
       {
-        "telephoneId": "tel-card-ai-05-tact-00"
+        "telephoneId": "tel-card-ai-05-tact-00",
+        "messageId": ""
       }
-    ]
+    ],
+    "liveAbilityId": "",
+    "homeTalks": []
   },
   {
     "id": "card-ai-05-vlnt-00",
@@ -290,12 +316,18 @@
     ],
     "messages": [
       {
-        "messageId": "message-card-ai-05-vlnt-00-01"
+        "messageId": "message-card-ai-05-vlnt-00-01",
+        "telephoneId": ""
       },
       {
-        "messageId": "message-card-ai-05-vlnt-00-02"
+        "messageId": "message-card-ai-05-vlnt-00-02",
+        "telephoneId": ""
       }
-    ]
+    ],
+    "liveAbilityId": "",
+    "displayPositionY1": 0.0,
+    "displayPositionY2": 0.0,
+    "homeTalks": []
   },
   {
     "id": "card-aoi-03-schl-00",
@@ -327,7 +359,16 @@
     "displayScale2": 1.2,
     "highlightDisplayPositionX2": 0.2,
     "highlightDisplayPositionY2": 0.3,
-    "highlightDisplayScale2": 1.0
+    "highlightDisplayScale2": 1.0,
+    "liveAbilityId": "",
+    "activityAbilityId": "",
+    "rewardCostumeId": "",
+    "displayPositionX1": 0.0,
+    "highlightDisplayPositionX1": 0.0,
+    "obtainMessage": "",
+    "stories": [],
+    "messages": [],
+    "homeTalks": []
   },
   {
     "id": "card-aoi-04-casl-00",
@@ -361,7 +402,14 @@
     "displayScale2": 1.7,
     "highlightDisplayPositionX2": -0.1,
     "highlightDisplayPositionY2": 0.4,
-    "highlightDisplayScale2": 1.0
+    "highlightDisplayScale2": 1.0,
+    "activityAbilityId": "",
+    "displayPositionX1": 0.0,
+    "highlightDisplayPositionX1": 0.0,
+    "obtainMessage": "",
+    "stories": [],
+    "messages": [],
+    "homeTalks": []
   },
   {
     "id": "card-aoi-05-idol-00",
@@ -410,17 +458,22 @@
     ],
     "messages": [
       {
-        "messageId": "message-card-aoi-05-idol-00"
+        "messageId": "message-card-aoi-05-idol-00",
+        "telephoneId": ""
       },
       {
-        "telephoneId": "tel-card-aoi-05-idol-00"
+        "telephoneId": "tel-card-aoi-05-idol-00",
+        "messageId": ""
       }
     ],
     "homeTalks": [
       {
         "homeTalkId": "home-talk-card-aoi-05-idol-00-talk-01"
       }
-    ]
+    ],
+    "activityAbilityId": "",
+    "displayPositionY1": 0.0,
+    "displayPositionY2": 0.0
   },
   {
     "id": "card-aoi-05-kait-00",
@@ -471,17 +524,20 @@
     ],
     "messages": [
       {
-        "messageId": "message-card-aoi-05-kait-00"
+        "messageId": "message-card-aoi-05-kait-00",
+        "telephoneId": ""
       },
       {
-        "telephoneId": "tel-card-aoi-05-kait-00"
+        "telephoneId": "tel-card-aoi-05-kait-00",
+        "messageId": ""
       }
     ],
     "homeTalks": [
       {
         "homeTalkId": "home-talk-card-aoi-05-kait-00-talk-01"
       }
-    ]
+    ],
+    "activityAbilityId": ""
   },
   {
     "id": "card-aoi-05-vlnt-00",
@@ -530,12 +586,18 @@
     ],
     "messages": [
       {
-        "messageId": "message-card-aoi-05-vlnt-00"
+        "messageId": "message-card-aoi-05-vlnt-00",
+        "telephoneId": ""
       },
       {
-        "telephoneId": "tel-card-aoi-05-vlnt-00"
+        "telephoneId": "tel-card-aoi-05-vlnt-00",
+        "messageId": ""
       }
-    ]
+    ],
+    "activityAbilityId": "",
+    "displayPositionY1": 0.0,
+    "displayPositionY2": 0.0,
+    "homeTalks": []
   },
   {
     "id": "card-chs-02-eve-01",
@@ -569,7 +631,14 @@
     "displayScale2": 1.2,
     "highlightDisplayPositionX2": -0.561,
     "highlightDisplayPositionY2": -0.015,
-    "highlightDisplayScale2": 0.6
+    "highlightDisplayScale2": 0.6,
+    "liveAbilityId": "",
+    "activityAbilityId": "",
+    "rewardCostumeId": "",
+    "obtainMessage": "",
+    "stories": [],
+    "messages": [],
+    "homeTalks": []
   },
   {
     "id": "card-chs-03-schl-00",
@@ -600,7 +669,17 @@
     "displayScale2": 1.0,
     "highlightDisplayPositionX2": -0.1,
     "highlightDisplayPositionY2": 0.1,
-    "highlightDisplayScale2": 0.9
+    "highlightDisplayScale2": 0.9,
+    "liveAbilityId": "",
+    "activityAbilityId": "",
+    "rewardCostumeId": "",
+    "displayPositionX1": 0.0,
+    "highlightDisplayPositionX1": 0.0,
+    "displayPositionY2": 0.0,
+    "obtainMessage": "",
+    "stories": [],
+    "messages": [],
+    "homeTalks": []
   },
   {
     "id": "card-chs-04-casl-00",
@@ -634,7 +713,14 @@
     "displayScale2": 1.1,
     "highlightDisplayPositionX2": -0.3,
     "highlightDisplayPositionY2": 0.25,
-    "highlightDisplayScale2": 1.0
+    "highlightDisplayScale2": 1.0,
+    "activityAbilityId": "",
+    "displayPositionX1": 0.0,
+    "highlightDisplayPositionX1": 0.0,
+    "obtainMessage": "",
+    "stories": [],
+    "messages": [],
+    "homeTalks": []
   },
   {
     "id": "card-chs-05-chsk-00",
@@ -685,12 +771,16 @@
     ],
     "messages": [
       {
-        "messageId": "message-card-chs-05-chsk-00-01"
+        "messageId": "message-card-chs-05-chsk-00-01",
+        "telephoneId": ""
       },
       {
-        "messageId": "message-card-chs-05-chsk-00-02"
+        "messageId": "message-card-chs-05-chsk-00-02",
+        "telephoneId": ""
       }
-    ]
+    ],
+    "activityAbilityId": "",
+    "homeTalks": []
   },
   {
     "id": "card-chs-05-idol-00",
@@ -741,17 +831,20 @@
     ],
     "messages": [
       {
-        "messageId": "message-card-chs-05-idol-00"
+        "messageId": "message-card-chs-05-idol-00",
+        "telephoneId": ""
       },
       {
-        "telephoneId": "tel-card-chs-05-idol-00"
+        "telephoneId": "tel-card-chs-05-idol-00",
+        "messageId": ""
       }
     ],
     "homeTalks": [
       {
         "homeTalkId": "home-talk-card-chs-05-idol-00-talk-01"
       }
-    ]
+    ],
+    "activityAbilityId": ""
   },
   {
     "id": "card-chs-05-rock-00",
@@ -800,12 +893,18 @@
     ],
     "messages": [
       {
-        "messageId": "message-card-chs-05-rock-00"
+        "messageId": "message-card-chs-05-rock-00",
+        "telephoneId": ""
       },
       {
-        "telephoneId": "tel-card-chs-05-rock-00"
+        "telephoneId": "tel-card-chs-05-rock-00",
+        "messageId": ""
       }
-    ]
+    ],
+    "activityAbilityId": "",
+    "displayPositionY1": 0.0,
+    "displayPositionY2": 0.0,
+    "homeTalks": []
   },
   {
     "id": "card-chs-05-seik-00",
@@ -856,17 +955,20 @@
     ],
     "messages": [
       {
-        "messageId": "message-card-chs-05-seik-00"
+        "messageId": "message-card-chs-05-seik-00",
+        "telephoneId": ""
       },
       {
-        "telephoneId": "tel-card-chs-05-seik-00"
+        "telephoneId": "tel-card-chs-05-seik-00",
+        "messageId": ""
       }
     ],
     "homeTalks": [
       {
         "homeTalkId": "home-talk-card-chs-05-seik-00-talk-01"
       }
-    ]
+    ],
+    "activityAbilityId": ""
   },
   {
     "id": "card-hrk-02-eve-01",
@@ -900,7 +1002,14 @@
     "displayScale2": 1.3,
     "highlightDisplayPositionX2": 0.379,
     "highlightDisplayPositionY2": 0.256,
-    "highlightDisplayScale2": 2.0
+    "highlightDisplayScale2": 2.0,
+    "liveAbilityId": "",
+    "activityAbilityId": "",
+    "rewardCostumeId": "",
+    "obtainMessage": "",
+    "stories": [],
+    "messages": [],
+    "homeTalks": []
   },
   {
     "id": "card-hrk-03-schl-00",
@@ -931,7 +1040,17 @@
     "displayScale2": 1.0,
     "highlightDisplayPositionX2": -0.3,
     "highlightDisplayPositionY2": 0.2,
-    "highlightDisplayScale2": 0.8
+    "highlightDisplayScale2": 0.8,
+    "liveAbilityId": "",
+    "activityAbilityId": "",
+    "rewardCostumeId": "",
+    "displayPositionX1": 0.0,
+    "highlightDisplayPositionX1": 0.0,
+    "displayPositionY2": 0.0,
+    "obtainMessage": "",
+    "stories": [],
+    "messages": [],
+    "homeTalks": []
   },
   {
     "id": "card-hrk-04-casl-00",
@@ -964,7 +1083,15 @@
     "displayScale2": 1.0,
     "highlightDisplayPositionX2": -0.15,
     "highlightDisplayPositionY2": 0.25,
-    "highlightDisplayScale2": 0.8
+    "highlightDisplayScale2": 0.8,
+    "activityAbilityId": "",
+    "displayPositionX1": 0.0,
+    "highlightDisplayPositionX1": 0.0,
+    "displayPositionY2": 0.0,
+    "obtainMessage": "",
+    "stories": [],
+    "messages": [],
+    "homeTalks": []
   },
   {
     "id": "card-hrk-05-chna-00",
@@ -1015,12 +1142,16 @@
     ],
     "messages": [
       {
-        "messageId": "message-card-hrk-05-chna-00"
+        "messageId": "message-card-hrk-05-chna-00",
+        "telephoneId": ""
       },
       {
-        "telephoneId": "tel-card-hrk-05-chna-00"
+        "telephoneId": "tel-card-hrk-05-chna-00",
+        "messageId": ""
       }
-    ]
+    ],
+    "liveAbilityId": "",
+    "homeTalks": []
   },
   {
     "id": "card-hrk-05-idol-00",
@@ -1071,17 +1202,20 @@
     ],
     "messages": [
       {
-        "messageId": "message-card-hrk-05-idol-00"
+        "messageId": "message-card-hrk-05-idol-00",
+        "telephoneId": ""
       },
       {
-        "telephoneId": "tel-card-hrk-05-idol-00"
+        "telephoneId": "tel-card-hrk-05-idol-00",
+        "messageId": ""
       }
     ],
     "homeTalks": [
       {
         "homeTalkId": "home-talk-card-hrk-05-idol-00-talk-01"
       }
-    ]
+    ],
+    "activityAbilityId": ""
   },
   {
     "id": "card-hrk-05-idol-03",
@@ -1130,12 +1264,18 @@
     ],
     "messages": [
       {
-        "messageId": "message-card-hrk-05-idol-03"
+        "messageId": "message-card-hrk-05-idol-03",
+        "telephoneId": ""
       },
       {
-        "telephoneId": "tel-card-hrk-05-idol-03"
+        "telephoneId": "tel-card-hrk-05-idol-03",
+        "messageId": ""
       }
-    ]
+    ],
+    "activityAbilityId": "",
+    "displayPositionY1": 0.0,
+    "displayPositionY2": 0.0,
+    "homeTalks": []
   },
   {
     "id": "card-hrk-05-mizg-01",
@@ -1186,17 +1326,20 @@
     ],
     "messages": [
       {
-        "messageId": "message-card-hrk-05-mizg-01"
+        "messageId": "message-card-hrk-05-mizg-01",
+        "telephoneId": ""
       },
       {
-        "telephoneId": "tel-card-hrk-05-mizg-01"
+        "telephoneId": "tel-card-hrk-05-mizg-01",
+        "messageId": ""
       }
     ],
     "homeTalks": [
       {
         "homeTalkId": "home-talk-card-hrk-05-mizg-01-talk-01"
       }
-    ]
+    ],
+    "activityAbilityId": ""
   },
   {
     "id": "card-hrk-05-xmas-00",
@@ -1245,12 +1388,18 @@
     ],
     "messages": [
       {
-        "messageId": "message-card-hrk-05-xmas-00"
+        "messageId": "message-card-hrk-05-xmas-00",
+        "telephoneId": ""
       },
       {
-        "telephoneId": "tel-card-hrk-05-xmas-00"
+        "telephoneId": "tel-card-hrk-05-xmas-00",
+        "messageId": ""
       }
-    ]
+    ],
+    "liveAbilityId": "",
+    "displayPositionY1": 0.0,
+    "displayPositionY2": 0.0,
+    "homeTalks": []
   },
   {
     "id": "card-kkr-03-schl-00",
@@ -1282,7 +1431,16 @@
     "displayScale2": 1.1,
     "highlightDisplayPositionX2": 0.15,
     "highlightDisplayPositionY2": 0.2,
-    "highlightDisplayScale2": 1.0
+    "highlightDisplayScale2": 1.0,
+    "liveAbilityId": "",
+    "activityAbilityId": "",
+    "rewardCostumeId": "",
+    "displayPositionX1": 0.0,
+    "highlightDisplayPositionX1": 0.0,
+    "obtainMessage": "",
+    "stories": [],
+    "messages": [],
+    "homeTalks": []
   },
   {
     "id": "card-kkr-04-casl-00",
@@ -1316,7 +1474,14 @@
     "displayScale2": 1.1,
     "highlightDisplayPositionX2": -0.25,
     "highlightDisplayPositionY2": 0.2,
-    "highlightDisplayScale2": 0.8
+    "highlightDisplayScale2": 0.8,
+    "activityAbilityId": "",
+    "displayPositionX1": 0.0,
+    "highlightDisplayPositionX1": 0.0,
+    "obtainMessage": "",
+    "stories": [],
+    "messages": [],
+    "homeTalks": []
   },
   {
     "id": "card-kkr-05-idol-00",
@@ -1367,17 +1532,20 @@
     ],
     "messages": [
       {
-        "messageId": "message-card-kkr-05-idol-00"
+        "messageId": "message-card-kkr-05-idol-00",
+        "telephoneId": ""
       },
       {
-        "telephoneId": "tel-card-kkr-05-idol-00"
+        "telephoneId": "tel-card-kkr-05-idol-00",
+        "messageId": ""
       }
     ],
     "homeTalks": [
       {
         "homeTalkId": "home-talk-card-kkr-05-idol-00-talk-01"
       }
-    ]
+    ],
+    "activityAbilityId": ""
   },
   {
     "id": "card-kkr-05-seik-00",
@@ -1428,17 +1596,20 @@
     ],
     "messages": [
       {
-        "messageId": "message-card-kkr-05-seik-00"
+        "messageId": "message-card-kkr-05-seik-00",
+        "telephoneId": ""
       },
       {
-        "telephoneId": "tel-card-kkr-05-seik-00"
+        "telephoneId": "tel-card-kkr-05-seik-00",
+        "messageId": ""
       }
     ],
     "homeTalks": [
       {
         "homeTalkId": "home-talk-card-kkr-05-seik-00-talk-01"
       }
-    ]
+    ],
+    "liveAbilityId": ""
   },
   {
     "id": "card-kkr-05-vlnt-00",
@@ -1487,12 +1658,18 @@
     ],
     "messages": [
       {
-        "messageId": "message-card-kkr-05-vlnt-00"
+        "messageId": "message-card-kkr-05-vlnt-00",
+        "telephoneId": ""
       },
       {
-        "telephoneId": "tel-card-kkr-05-vlnt-00"
+        "telephoneId": "tel-card-kkr-05-vlnt-00",
+        "messageId": ""
       }
-    ]
+    ],
+    "activityAbilityId": "",
+    "displayPositionY1": 0.0,
+    "displayPositionY2": 0.0,
+    "homeTalks": []
   },
   {
     "id": "card-ktn-02-casl-00",
@@ -1523,7 +1700,17 @@
     "displayPositionY2": -0.008,
     "displayScale2": 1.5,
     "highlightDisplayPositionX2": -0.1,
-    "highlightDisplayScale2": 1.5
+    "highlightDisplayScale2": 1.5,
+    "liveAbilityId": "",
+    "activityAbilityId": "",
+    "rewardCostumeId": "",
+    "displayPositionX1": 0.0,
+    "highlightDisplayPositionX1": 0.0,
+    "highlightDisplayPositionY2": 0.0,
+    "obtainMessage": "",
+    "stories": [],
+    "messages": [],
+    "homeTalks": []
   },
   {
     "id": "card-ktn-02-eve-01",
@@ -1557,7 +1744,14 @@
     "displayScale2": 1.3,
     "highlightDisplayPositionX2": -0.299,
     "highlightDisplayPositionY2": 0.184,
-    "highlightDisplayScale2": 0.7
+    "highlightDisplayScale2": 0.7,
+    "liveAbilityId": "",
+    "activityAbilityId": "",
+    "rewardCostumeId": "",
+    "obtainMessage": "",
+    "stories": [],
+    "messages": [],
+    "homeTalks": []
   },
   {
     "id": "card-ktn-03-schl-00",
@@ -1588,7 +1782,17 @@
     "displayPositionY2": 0.083,
     "displayScale2": 1.2,
     "highlightDisplayPositionY2": 0.25,
-    "highlightDisplayScale2": 0.8
+    "highlightDisplayScale2": 0.8,
+    "liveAbilityId": "",
+    "activityAbilityId": "",
+    "rewardCostumeId": "",
+    "displayPositionX1": 0.0,
+    "highlightDisplayPositionX1": 0.0,
+    "highlightDisplayPositionX2": 0.0,
+    "obtainMessage": "",
+    "stories": [],
+    "messages": [],
+    "homeTalks": []
   },
   {
     "id": "card-ktn-04-casl-00",
@@ -1620,7 +1824,16 @@
     "displayPositionX2": -0.023,
     "displayScale2": 1.0,
     "highlightDisplayPositionX2": -0.05,
-    "highlightDisplayScale2": 0.8
+    "highlightDisplayScale2": 0.8,
+    "liveAbilityId": "",
+    "displayPositionX1": 0.0,
+    "highlightDisplayPositionX1": 0.0,
+    "displayPositionY2": 0.0,
+    "highlightDisplayPositionY2": 0.0,
+    "obtainMessage": "",
+    "stories": [],
+    "messages": [],
+    "homeTalks": []
   },
   {
     "id": "card-ktn-05-fest-00",
@@ -1669,12 +1882,18 @@
     ],
     "messages": [
       {
-        "messageId": "message-card-ktn-05-fest-00"
+        "messageId": "message-card-ktn-05-fest-00",
+        "telephoneId": ""
       },
       {
-        "telephoneId": "tel-card-ktn-05-fest-00"
+        "telephoneId": "tel-card-ktn-05-fest-00",
+        "messageId": ""
       }
-    ]
+    ],
+    "liveAbilityId": "",
+    "displayPositionY1": 0.0,
+    "displayPositionY2": 0.0,
+    "homeTalks": []
   },
   {
     "id": "card-ktn-05-idol-00",
@@ -1725,17 +1944,20 @@
     ],
     "messages": [
       {
-        "messageId": "message-card-ktn-05-idol-00"
+        "messageId": "message-card-ktn-05-idol-00",
+        "telephoneId": ""
       },
       {
-        "telephoneId": "tel-card-ktn-05-idol-00"
+        "telephoneId": "tel-card-ktn-05-idol-00",
+        "messageId": ""
       }
     ],
     "homeTalks": [
       {
         "homeTalkId": "home-talk-card-ktn-05-idol-00-talk-01"
       }
-    ]
+    ],
+    "activityAbilityId": ""
   },
   {
     "id": "card-ktn-05-mizg-01",
@@ -1786,17 +2008,20 @@
     ],
     "messages": [
       {
-        "messageId": "message-card-ktn-05-mizg-01"
+        "messageId": "message-card-ktn-05-mizg-01",
+        "telephoneId": ""
       },
       {
-        "telephoneId": "tel-card-ktn-05-mizg-01"
+        "telephoneId": "tel-card-ktn-05-mizg-01",
+        "messageId": ""
       }
     ],
     "homeTalks": [
       {
         "homeTalkId": "home-talk-card-ktn-05-mizg-01-talk-01"
       }
-    ]
+    ],
+    "liveAbilityId": ""
   },
   {
     "id": "card-mei-03-schl-00",
@@ -1828,7 +2053,16 @@
     "displayScale2": 1.2,
     "highlightDisplayPositionX2": -0.2,
     "highlightDisplayPositionY2": 0.2,
-    "highlightDisplayScale2": 0.8
+    "highlightDisplayScale2": 0.8,
+    "liveAbilityId": "",
+    "activityAbilityId": "",
+    "rewardCostumeId": "",
+    "displayPositionX1": 0.0,
+    "highlightDisplayPositionX1": 0.0,
+    "obtainMessage": "",
+    "stories": [],
+    "messages": [],
+    "homeTalks": []
   },
   {
     "id": "card-mei-04-casl-00",
@@ -1859,7 +2093,17 @@
     "imageType2": 2,
     "displayPositionX2": -0.181,
     "displayScale2": 1.0,
-    "highlightDisplayScale2": 0.8
+    "highlightDisplayScale2": 0.8,
+    "liveAbilityId": "",
+    "displayPositionX1": 0.0,
+    "highlightDisplayPositionX1": 0.0,
+    "displayPositionY2": 0.0,
+    "highlightDisplayPositionX2": 0.0,
+    "highlightDisplayPositionY2": 0.0,
+    "obtainMessage": "",
+    "stories": [],
+    "messages": [],
+    "homeTalks": []
   },
   {
     "id": "card-mei-05-fest-00",
@@ -1908,12 +2152,18 @@
     ],
     "messages": [
       {
-        "messageId": "message-card-mei-05-fest-00-01"
+        "messageId": "message-card-mei-05-fest-00-01",
+        "telephoneId": ""
       },
       {
-        "messageId": "message-card-mei-05-fest-00-02"
+        "messageId": "message-card-mei-05-fest-00-02",
+        "telephoneId": ""
       }
-    ]
+    ],
+    "liveAbilityId": "",
+    "displayPositionY1": 0.0,
+    "displayPositionY2": 0.0,
+    "homeTalks": []
   },
   {
     "id": "card-mei-05-idol-00",
@@ -1964,17 +2214,20 @@
     ],
     "messages": [
       {
-        "messageId": "message-card-mei-05-idol-00"
+        "messageId": "message-card-mei-05-idol-00",
+        "telephoneId": ""
       },
       {
-        "telephoneId": "tel-card-mei-05-idol-00"
+        "telephoneId": "tel-card-mei-05-idol-00",
+        "messageId": ""
       }
     ],
     "homeTalks": [
       {
         "homeTalkId": "home-talk-card-mei-05-idol-00-talk-01"
       }
-    ]
+    ],
+    "activityAbilityId": ""
   },
   {
     "id": "card-mei-05-mizg-01",
@@ -2025,17 +2278,20 @@
     ],
     "messages": [
       {
-        "messageId": "message-card-mei-05-mizg-01"
+        "messageId": "message-card-mei-05-mizg-01",
+        "telephoneId": ""
       },
       {
-        "telephoneId": "tel-card-mei-05-mizg-01"
+        "telephoneId": "tel-card-mei-05-mizg-01",
+        "messageId": ""
       }
     ],
     "homeTalks": [
       {
         "homeTalkId": "home-talk-card-mei-05-mizg-01-talk-01"
       }
-    ]
+    ],
+    "activityAbilityId": ""
   },
   {
     "id": "card-mei-05-rock-00",
@@ -2086,12 +2342,16 @@
     ],
     "messages": [
       {
-        "messageId": "message-card-mei-05-rock-00"
+        "messageId": "message-card-mei-05-rock-00",
+        "telephoneId": ""
       },
       {
-        "telephoneId": "tel-card-mei-05-rock-00"
+        "telephoneId": "tel-card-mei-05-rock-00",
+        "messageId": ""
       }
-    ]
+    ],
+    "activityAbilityId": "",
+    "homeTalks": []
   },
   {
     "id": "card-mna-05-fest-00",
@@ -2140,9 +2400,14 @@
     ],
     "messages": [
       {
-        "messageId": "message-card-mna-05-fest-00"
+        "messageId": "message-card-mna-05-fest-00",
+        "telephoneId": ""
       }
-    ]
+    ],
+    "activityAbilityId": "",
+    "displayPositionY1": 0.0,
+    "displayPositionY2": 0.0,
+    "homeTalks": []
   },
   {
     "id": "card-mna-05-idol-00",
@@ -2193,17 +2458,20 @@
     ],
     "messages": [
       {
-        "messageId": "message-card-mna-05-idol-00"
+        "messageId": "message-card-mna-05-idol-00",
+        "telephoneId": ""
       },
       {
-        "telephoneId": "tel-card-mna-05-idol-00"
+        "telephoneId": "tel-card-mna-05-idol-00",
+        "messageId": ""
       }
     ],
     "homeTalks": [
       {
         "homeTalkId": "home-talk-card-mna-05-idol-00-talk-01"
       }
-    ]
+    ],
+    "liveAbilityId": ""
   },
   {
     "id": "card-ngs-02-eve-01",
@@ -2237,7 +2505,14 @@
     "displayScale2": 1.3,
     "highlightDisplayPositionX2": 0.125,
     "highlightDisplayPositionY2": 0.115,
-    "highlightDisplayScale2": 1.0
+    "highlightDisplayScale2": 1.0,
+    "liveAbilityId": "",
+    "activityAbilityId": "",
+    "rewardCostumeId": "",
+    "obtainMessage": "",
+    "stories": [],
+    "messages": [],
+    "homeTalks": []
   },
   {
     "id": "card-ngs-03-schl-00",
@@ -2268,7 +2543,17 @@
     "displayScale2": 1.0,
     "highlightDisplayPositionX2": -0.2,
     "highlightDisplayPositionY2": 0.15,
-    "highlightDisplayScale2": 0.8
+    "highlightDisplayScale2": 0.8,
+    "liveAbilityId": "",
+    "activityAbilityId": "",
+    "rewardCostumeId": "",
+    "displayPositionX1": 0.0,
+    "highlightDisplayPositionX1": 0.0,
+    "displayPositionY2": 0.0,
+    "obtainMessage": "",
+    "stories": [],
+    "messages": [],
+    "homeTalks": []
   },
   {
     "id": "card-ngs-04-casl-00",
@@ -2302,7 +2587,14 @@
     "displayScale2": 1.2,
     "highlightDisplayPositionX2": -0.15,
     "highlightDisplayPositionY2": 0.2,
-    "highlightDisplayScale2": 0.8
+    "highlightDisplayScale2": 0.8,
+    "activityAbilityId": "",
+    "displayPositionX1": 0.0,
+    "highlightDisplayPositionX1": 0.0,
+    "obtainMessage": "",
+    "stories": [],
+    "messages": [],
+    "homeTalks": []
   },
   {
     "id": "card-ngs-05-akma-00",
@@ -2351,12 +2643,18 @@
     ],
     "messages": [
       {
-        "messageId": "message-card-ngs-05-akma-00"
+        "messageId": "message-card-ngs-05-akma-00",
+        "telephoneId": ""
       },
       {
-        "telephoneId": "tel-card-ngs-05-akma-00"
+        "telephoneId": "tel-card-ngs-05-akma-00",
+        "messageId": ""
       }
-    ]
+    ],
+    "liveAbilityId": "",
+    "displayPositionY1": 0.0,
+    "displayPositionY2": 0.0,
+    "homeTalks": []
   },
   {
     "id": "card-ngs-05-flow-00",
@@ -2407,12 +2705,16 @@
     ],
     "messages": [
       {
-        "messageId": "message-card-ngs-05-flow-00"
+        "messageId": "message-card-ngs-05-flow-00",
+        "telephoneId": ""
       },
       {
-        "telephoneId": "tel-card-ngs-05-flow-00"
+        "telephoneId": "tel-card-ngs-05-flow-00",
+        "messageId": ""
       }
-    ]
+    ],
+    "activityAbilityId": "",
+    "homeTalks": []
   },
   {
     "id": "card-ngs-05-idol-00",
@@ -2463,17 +2765,20 @@
     ],
     "messages": [
       {
-        "messageId": "message-card-ngs-05-idol-00"
+        "messageId": "message-card-ngs-05-idol-00",
+        "telephoneId": ""
       },
       {
-        "telephoneId": "tel-card-ngs-05-idol-00"
+        "telephoneId": "tel-card-ngs-05-idol-00",
+        "messageId": ""
       }
     ],
     "homeTalks": [
       {
         "homeTalkId": "home-talk-card-ngs-05-idol-00-talk-01"
       }
-    ]
+    ],
+    "activityAbilityId": ""
   },
   {
     "id": "card-ngs-05-mizg-01",
@@ -2524,17 +2829,20 @@
     ],
     "messages": [
       {
-        "messageId": "message-card-ngs-05-mizg-01"
+        "messageId": "message-card-ngs-05-mizg-01",
+        "telephoneId": ""
       },
       {
-        "telephoneId": "tel-card-ngs-05-mizg-01"
+        "telephoneId": "tel-card-ngs-05-mizg-01",
+        "messageId": ""
       }
     ],
     "homeTalks": [
       {
         "homeTalkId": "home-talk-card-ngs-05-mizg-01-talk-01"
       }
-    ]
+    ],
+    "activityAbilityId": ""
   },
   {
     "id": "card-rei-02-eve-01",
@@ -2566,7 +2874,16 @@
     "displayScale2": 1.0,
     "highlightDisplayPositionX2": 0.211,
     "highlightDisplayPositionY2": 0.317,
-    "highlightDisplayScale2": 1.1
+    "highlightDisplayScale2": 1.1,
+    "liveAbilityId": "",
+    "activityAbilityId": "",
+    "rewardCostumeId": "",
+    "displayPositionX1": 0.0,
+    "displayPositionY2": 0.0,
+    "obtainMessage": "",
+    "stories": [],
+    "messages": [],
+    "homeTalks": []
   },
   {
     "id": "card-rei-03-schl-00",
@@ -2598,7 +2915,16 @@
     "displayScale2": 1.1,
     "highlightDisplayPositionX2": -0.15,
     "highlightDisplayPositionY2": 0.2,
-    "highlightDisplayScale2": 1.0
+    "highlightDisplayScale2": 1.0,
+    "liveAbilityId": "",
+    "activityAbilityId": "",
+    "rewardCostumeId": "",
+    "displayPositionX1": 0.0,
+    "highlightDisplayPositionX1": 0.0,
+    "obtainMessage": "",
+    "stories": [],
+    "messages": [],
+    "homeTalks": []
   },
   {
     "id": "card-rei-04-casl-00",
@@ -2631,7 +2957,15 @@
     "displayPositionY2": 0.045,
     "displayScale2": 1.1,
     "highlightDisplayPositionY2": 0.15,
-    "highlightDisplayScale2": 0.8
+    "highlightDisplayScale2": 0.8,
+    "activityAbilityId": "",
+    "displayPositionX1": 0.0,
+    "highlightDisplayPositionX1": 0.0,
+    "highlightDisplayPositionX2": 0.0,
+    "obtainMessage": "",
+    "stories": [],
+    "messages": [],
+    "homeTalks": []
   },
   {
     "id": "card-rei-05-idol-00",
@@ -2682,17 +3016,20 @@
     ],
     "messages": [
       {
-        "messageId": "message-card-rei-05-idol-00"
+        "messageId": "message-card-rei-05-idol-00",
+        "telephoneId": ""
       },
       {
-        "telephoneId": "tel-card-rei-05-idol-00"
+        "telephoneId": "tel-card-rei-05-idol-00",
+        "messageId": ""
       }
     ],
     "homeTalks": [
       {
         "homeTalkId": "home-talk-card-rei-05-idol-00-talk-01"
       }
-    ]
+    ],
+    "activityAbilityId": ""
   },
   {
     "id": "card-rei-05-newy-00",
@@ -2743,12 +3080,16 @@
     ],
     "messages": [
       {
-        "messageId": "message-card-rei-05-newy-00"
+        "messageId": "message-card-rei-05-newy-00",
+        "telephoneId": ""
       },
       {
-        "telephoneId": "tel-card-rei-05-newy-00"
+        "telephoneId": "tel-card-rei-05-newy-00",
+        "messageId": ""
       }
-    ]
+    ],
+    "activityAbilityId": "",
+    "homeTalks": []
   },
   {
     "id": "card-rei-05-onep-00",
@@ -2797,12 +3138,18 @@
     ],
     "messages": [
       {
-        "messageId": "message-card-rei-05-onep-00-01"
+        "messageId": "message-card-rei-05-onep-00-01",
+        "telephoneId": ""
       },
       {
-        "messageId": "message-card-rei-05-onep-00-02"
+        "messageId": "message-card-rei-05-onep-00-02",
+        "telephoneId": ""
       }
-    ]
+    ],
+    "liveAbilityId": "",
+    "displayPositionY1": 0.0,
+    "displayPositionY2": 0.0,
+    "homeTalks": []
   },
   {
     "id": "card-rei-05-rock-00",
@@ -2853,17 +3200,20 @@
     ],
     "messages": [
       {
-        "messageId": "message-card-rei-05-rock-00"
+        "messageId": "message-card-rei-05-rock-00",
+        "telephoneId": ""
       },
       {
-        "telephoneId": "tel-card-rei-05-rock-00"
+        "telephoneId": "tel-card-rei-05-rock-00",
+        "messageId": ""
       }
     ],
     "homeTalks": [
       {
         "homeTalkId": "home-talk-card-rei-05-rock-00-talk-01"
       }
-    ]
+    ],
+    "activityAbilityId": ""
   },
   {
     "id": "card-rio-01-casl-00",
@@ -2894,7 +3244,17 @@
     "displayPositionY2": 0.045,
     "displayScale2": 1.1,
     "highlightDisplayPositionY2": 0.2,
-    "highlightDisplayScale2": 1.5
+    "highlightDisplayScale2": 1.5,
+    "liveAbilityId": "",
+    "activityAbilityId": "",
+    "rewardCostumeId": "",
+    "displayPositionX1": 0.0,
+    "highlightDisplayPositionX1": 0.0,
+    "highlightDisplayPositionX2": 0.0,
+    "obtainMessage": "",
+    "stories": [],
+    "messages": [],
+    "homeTalks": []
   },
   {
     "id": "card-rio-02-eve-01",
@@ -2927,7 +3287,15 @@
     "displayScale2": 1.3,
     "highlightDisplayPositionX2": 0.1,
     "highlightDisplayPositionY2": 0.13,
-    "highlightDisplayScale2": 1.3
+    "highlightDisplayScale2": 1.3,
+    "liveAbilityId": "",
+    "activityAbilityId": "",
+    "rewardCostumeId": "",
+    "highlightDisplayPositionX1": 0.0,
+    "obtainMessage": "",
+    "stories": [],
+    "messages": [],
+    "homeTalks": []
   },
   {
     "id": "card-rio-02-eve-02",
@@ -2960,7 +3328,15 @@
     "displayScale2": 1.0,
     "highlightDisplayPositionX2": 0.022,
     "highlightDisplayPositionY2": 0.222,
-    "highlightDisplayScale2": 0.8
+    "highlightDisplayScale2": 0.8,
+    "liveAbilityId": "",
+    "activityAbilityId": "",
+    "rewardCostumeId": "",
+    "displayPositionY2": 0.0,
+    "obtainMessage": "",
+    "stories": [],
+    "messages": [],
+    "homeTalks": []
   },
   {
     "id": "card-rio-03-schl-00",
@@ -2991,7 +3367,17 @@
     "displayPositionY2": 0.083,
     "displayScale2": 1.2,
     "highlightDisplayPositionY2": 0.25,
-    "highlightDisplayScale2": 1.0
+    "highlightDisplayScale2": 1.0,
+    "liveAbilityId": "",
+    "activityAbilityId": "",
+    "rewardCostumeId": "",
+    "displayPositionX1": 0.0,
+    "highlightDisplayPositionX1": 0.0,
+    "highlightDisplayPositionX2": 0.0,
+    "obtainMessage": "",
+    "stories": [],
+    "messages": [],
+    "homeTalks": []
   },
   {
     "id": "card-rio-04-casl-00",
@@ -3025,7 +3411,14 @@
     "displayScale2": 1.1,
     "highlightDisplayPositionX2": -0.15,
     "highlightDisplayPositionY2": 0.13,
-    "highlightDisplayScale2": 0.8
+    "highlightDisplayScale2": 0.8,
+    "activityAbilityId": "",
+    "displayPositionX1": 0.0,
+    "highlightDisplayPositionX1": 0.0,
+    "obtainMessage": "",
+    "stories": [],
+    "messages": [],
+    "homeTalks": []
   },
   {
     "id": "card-rio-05-fest-00",
@@ -3076,12 +3469,16 @@
     ],
     "messages": [
       {
-        "messageId": "message-card-rio-05-fest-00"
+        "messageId": "message-card-rio-05-fest-00",
+        "telephoneId": ""
       },
       {
-        "telephoneId": "tel-card-rio-05-fest-00"
+        "telephoneId": "tel-card-rio-05-fest-00",
+        "messageId": ""
       }
-    ]
+    ],
+    "activityAbilityId": "",
+    "homeTalks": []
   },
   {
     "id": "card-rio-05-halw-00",
@@ -3130,17 +3527,22 @@
     ],
     "messages": [
       {
-        "messageId": "message-card-rio-05-halw-00"
+        "messageId": "message-card-rio-05-halw-00",
+        "telephoneId": ""
       },
       {
-        "telephoneId": "tel-card-rio-05-halw-00"
+        "telephoneId": "tel-card-rio-05-halw-00",
+        "messageId": ""
       }
     ],
     "homeTalks": [
       {
         "homeTalkId": "home-talk-card-rio-05-halw-00-talk-01"
       }
-    ]
+    ],
+    "activityAbilityId": "",
+    "displayPositionY1": 0.0,
+    "displayPositionY2": 0.0
   },
   {
     "id": "card-rio-05-idol-00",
@@ -3191,17 +3593,20 @@
     ],
     "messages": [
       {
-        "messageId": "message-card-rio-05-idol-00"
+        "messageId": "message-card-rio-05-idol-00",
+        "telephoneId": ""
       },
       {
-        "telephoneId": "tel-card-rio-05-idol-00"
+        "telephoneId": "tel-card-rio-05-idol-00",
+        "messageId": ""
       }
     ],
     "homeTalks": [
       {
         "homeTalkId": "home-talk-card-rio-05-idol-00-talk-01"
       }
-    ]
+    ],
+    "activityAbilityId": ""
   },
   {
     "id": "card-rio-05-kait-00",
@@ -3252,12 +3657,16 @@
     ],
     "messages": [
       {
-        "messageId": "message-card-rio-05-kait-00"
+        "messageId": "message-card-rio-05-kait-00",
+        "telephoneId": ""
       },
       {
-        "telephoneId": "tel-card-rio-05-kait-00"
+        "telephoneId": "tel-card-rio-05-kait-00",
+        "messageId": ""
       }
-    ]
+    ],
+    "activityAbilityId": "",
+    "homeTalks": []
   },
   {
     "id": "card-rui-01-casl-00",
@@ -3288,7 +3697,17 @@
     "displayScale2": 1.0,
     "highlightDisplayPositionX2": 0.1,
     "highlightDisplayPositionY2": 0.18,
-    "highlightDisplayScale2": 1.5
+    "highlightDisplayScale2": 1.5,
+    "liveAbilityId": "",
+    "activityAbilityId": "",
+    "rewardCostumeId": "",
+    "displayPositionX1": 0.0,
+    "highlightDisplayPositionX1": 0.0,
+    "displayPositionY2": 0.0,
+    "obtainMessage": "",
+    "stories": [],
+    "messages": [],
+    "homeTalks": []
   },
   {
     "id": "card-rui-02-eve-01",
@@ -3320,7 +3739,16 @@
     "displayScale2": 1.3,
     "highlightDisplayPositionX2": 0.168,
     "highlightDisplayPositionY2": 0.237,
-    "highlightDisplayScale2": 2.0
+    "highlightDisplayScale2": 2.0,
+    "liveAbilityId": "",
+    "activityAbilityId": "",
+    "rewardCostumeId": "",
+    "displayPositionX1": 0.0,
+    "highlightDisplayPositionX1": 0.0,
+    "obtainMessage": "",
+    "stories": [],
+    "messages": [],
+    "homeTalks": []
   },
   {
     "id": "card-rui-03-schl-00",
@@ -3352,7 +3780,16 @@
     "displayScale2": 1.3,
     "highlightDisplayPositionX2": 0.1,
     "highlightDisplayPositionY2": 0.3,
-    "highlightDisplayScale2": 0.8
+    "highlightDisplayScale2": 0.8,
+    "liveAbilityId": "",
+    "activityAbilityId": "",
+    "rewardCostumeId": "",
+    "displayPositionX1": 0.0,
+    "highlightDisplayPositionX1": 0.0,
+    "obtainMessage": "",
+    "stories": [],
+    "messages": [],
+    "homeTalks": []
   },
   {
     "id": "card-rui-04-casl-00",
@@ -3385,7 +3822,15 @@
     "displayScale2": 1.0,
     "highlightDisplayPositionX2": 0.15,
     "highlightDisplayPositionY2": 0.15,
-    "highlightDisplayScale2": 0.8
+    "highlightDisplayScale2": 0.8,
+    "activityAbilityId": "",
+    "displayPositionX1": 0.0,
+    "highlightDisplayPositionX1": 0.0,
+    "displayPositionY2": 0.0,
+    "obtainMessage": "",
+    "stories": [],
+    "messages": [],
+    "homeTalks": []
   },
   {
     "id": "card-rui-05-date-00",
@@ -3436,12 +3881,16 @@
     ],
     "messages": [
       {
-        "messageId": "message-card-rui-05-date-00"
+        "messageId": "message-card-rui-05-date-00",
+        "telephoneId": ""
       },
       {
-        "telephoneId": "tel-card-rui-05-date-00"
+        "telephoneId": "tel-card-rui-05-date-00",
+        "messageId": ""
       }
-    ]
+    ],
+    "liveAbilityId": "",
+    "homeTalks": []
   },
   {
     "id": "card-rui-05-idol-00",
@@ -3492,17 +3941,20 @@
     ],
     "messages": [
       {
-        "messageId": "message-card-rui-05-idol-00"
+        "messageId": "message-card-rui-05-idol-00",
+        "telephoneId": ""
       },
       {
-        "telephoneId": "tel-card-rui-05-idol-00"
+        "telephoneId": "tel-card-rui-05-idol-00",
+        "messageId": ""
       }
     ],
     "homeTalks": [
       {
         "homeTalkId": "home-talk-card-rui-05-idol-00-talk-01"
       }
-    ]
+    ],
+    "activityAbilityId": ""
   },
   {
     "id": "card-rui-05-mizg-01",
@@ -3553,17 +4005,20 @@
     ],
     "messages": [
       {
-        "messageId": "message-card-rui-05-mizg-01"
+        "messageId": "message-card-rui-05-mizg-01",
+        "telephoneId": ""
       },
       {
-        "telephoneId": "tel-card-rui-05-mizg-01"
+        "telephoneId": "tel-card-rui-05-mizg-01",
+        "messageId": ""
       }
     ],
     "homeTalks": [
       {
         "homeTalkId": "home-talk-card-rui-05-mizg-01-talk-01"
       }
-    ]
+    ],
+    "liveAbilityId": ""
   },
   {
     "id": "card-rui-05-xmas-00",
@@ -3614,12 +4069,16 @@
     ],
     "messages": [
       {
-        "messageId": "message-card-rui-05-xmas-00"
+        "messageId": "message-card-rui-05-xmas-00",
+        "telephoneId": ""
       },
       {
-        "telephoneId": "tel-card-rui-05-xmas-00"
+        "telephoneId": "tel-card-rui-05-xmas-00",
+        "messageId": ""
       }
-    ]
+    ],
+    "activityAbilityId": "",
+    "homeTalks": []
   },
   {
     "id": "card-ski-02-mizg-01",
@@ -3652,7 +4111,15 @@
     "displayScale2": 1.3,
     "highlightDisplayPositionX2": 0.2,
     "highlightDisplayPositionY2": 0.01,
-    "highlightDisplayScale2": 1.7
+    "highlightDisplayScale2": 1.7,
+    "liveAbilityId": "",
+    "activityAbilityId": "",
+    "rewardCostumeId": "",
+    "highlightDisplayPositionX1": 0.0,
+    "obtainMessage": "",
+    "stories": [],
+    "messages": [],
+    "homeTalks": []
   },
   {
     "id": "card-ski-03-schl-00",
@@ -3684,7 +4151,16 @@
     "displayScale2": 1.1,
     "highlightDisplayPositionX2": -0.25,
     "highlightDisplayPositionY2": 0.1,
-    "highlightDisplayScale2": 0.8
+    "highlightDisplayScale2": 0.8,
+    "liveAbilityId": "",
+    "activityAbilityId": "",
+    "rewardCostumeId": "",
+    "displayPositionX1": 0.0,
+    "highlightDisplayPositionX1": 0.0,
+    "obtainMessage": "",
+    "stories": [],
+    "messages": [],
+    "homeTalks": []
   },
   {
     "id": "card-ski-04-casl-00",
@@ -3718,7 +4194,14 @@
     "displayScale2": 1.2,
     "highlightDisplayPositionX2": 0.18,
     "highlightDisplayPositionY2": 0.16,
-    "highlightDisplayScale2": 0.8
+    "highlightDisplayScale2": 0.8,
+    "activityAbilityId": "",
+    "displayPositionX1": 0.0,
+    "highlightDisplayPositionX1": 0.0,
+    "obtainMessage": "",
+    "stories": [],
+    "messages": [],
+    "homeTalks": []
   },
   {
     "id": "card-ski-05-chsk-00",
@@ -3769,12 +4252,16 @@
     ],
     "messages": [
       {
-        "messageId": "message-card-ski-05-chsk-00"
+        "messageId": "message-card-ski-05-chsk-00",
+        "telephoneId": ""
       },
       {
-        "telephoneId": "tel-card-ski-05-chsk-00"
+        "telephoneId": "tel-card-ski-05-chsk-00",
+        "messageId": ""
       }
-    ]
+    ],
+    "liveAbilityId": "",
+    "homeTalks": []
   },
   {
     "id": "card-ski-05-idol-00",
@@ -3825,17 +4312,20 @@
     ],
     "messages": [
       {
-        "messageId": "message-card-ski-05-idol-00"
+        "messageId": "message-card-ski-05-idol-00",
+        "telephoneId": ""
       },
       {
-        "telephoneId": "tel-card-ski-05-idol-00"
+        "telephoneId": "tel-card-ski-05-idol-00",
+        "messageId": ""
       }
     ],
     "homeTalks": [
       {
         "homeTalkId": "home-talk-card-ski-05-idol-00-talk-01"
       }
-    ]
+    ],
+    "liveAbilityId": ""
   },
   {
     "id": "card-ski-05-kifj-00",
@@ -3886,17 +4376,20 @@
     ],
     "messages": [
       {
-        "messageId": "message-card-ski-05-kifj-00"
+        "messageId": "message-card-ski-05-kifj-00",
+        "telephoneId": ""
       },
       {
-        "telephoneId": "tel-card-ski-05-kifj-00"
+        "telephoneId": "tel-card-ski-05-kifj-00",
+        "messageId": ""
       }
     ],
     "homeTalks": [
       {
         "homeTalkId": "home-talk-card-ski-05-kifj-00-talk-01"
       }
-    ]
+    ],
+    "activityAbilityId": ""
   },
   {
     "id": "card-ski-05-waso-00",
@@ -3945,12 +4438,18 @@
     ],
     "messages": [
       {
-        "messageId": "message-card-ski-05-waso-00"
+        "messageId": "message-card-ski-05-waso-00",
+        "telephoneId": ""
       },
       {
-        "telephoneId": "tel-card-ski-05-waso-00"
+        "telephoneId": "tel-card-ski-05-waso-00",
+        "messageId": ""
       }
-    ]
+    ],
+    "activityAbilityId": "",
+    "displayPositionY1": 0.0,
+    "displayPositionY2": 0.0,
+    "homeTalks": []
   },
   {
     "id": "card-skr-02-casl-00",
@@ -3982,7 +4481,16 @@
     "displayScale2": 1.2,
     "highlightDisplayPositionX2": -0.15,
     "highlightDisplayPositionY2": -0.05,
-    "highlightDisplayScale2": 1.2
+    "highlightDisplayScale2": 1.2,
+    "liveAbilityId": "",
+    "activityAbilityId": "",
+    "rewardCostumeId": "",
+    "displayPositionX1": 0.0,
+    "highlightDisplayPositionX1": 0.0,
+    "obtainMessage": "",
+    "stories": [],
+    "messages": [],
+    "homeTalks": []
   },
   {
     "id": "card-skr-03-schl-00",
@@ -4014,7 +4522,16 @@
     "displayScale2": 1.2,
     "highlightDisplayPositionX2": -0.25,
     "highlightDisplayPositionY2": 0.2,
-    "highlightDisplayScale2": 0.8
+    "highlightDisplayScale2": 0.8,
+    "liveAbilityId": "",
+    "activityAbilityId": "",
+    "rewardCostumeId": "",
+    "displayPositionX1": 0.0,
+    "highlightDisplayPositionX1": 0.0,
+    "obtainMessage": "",
+    "stories": [],
+    "messages": [],
+    "homeTalks": []
   },
   {
     "id": "card-skr-04-casl-00",
@@ -4048,7 +4565,14 @@
     "displayScale2": 1.1,
     "highlightDisplayPositionX2": -0.15,
     "highlightDisplayPositionY2": 0.17,
-    "highlightDisplayScale2": 0.8
+    "highlightDisplayScale2": 0.8,
+    "liveAbilityId": "",
+    "displayPositionX1": 0.0,
+    "highlightDisplayPositionX1": 0.0,
+    "obtainMessage": "",
+    "stories": [],
+    "messages": [],
+    "homeTalks": []
   },
   {
     "id": "card-skr-05-fest-00",
@@ -4099,17 +4623,20 @@
     ],
     "messages": [
       {
-        "messageId": "message-card-skr-05-fest-00"
+        "messageId": "message-card-skr-05-fest-00",
+        "telephoneId": ""
       },
       {
-        "telephoneId": "tel-card-skr-05-fest-00"
+        "telephoneId": "tel-card-skr-05-fest-00",
+        "messageId": ""
       }
     ],
     "homeTalks": [
       {
         "homeTalkId": "home-talk-card-skr-05-fest-00-talk-01"
       }
-    ]
+    ],
+    "activityAbilityId": ""
   },
   {
     "id": "card-skr-05-idol-00",
@@ -4160,17 +4687,20 @@
     ],
     "messages": [
       {
-        "messageId": "message-card-skr-05-idol-00"
+        "messageId": "message-card-skr-05-idol-00",
+        "telephoneId": ""
       },
       {
-        "telephoneId": "tel-card-skr-05-idol-00"
+        "telephoneId": "tel-card-skr-05-idol-00",
+        "messageId": ""
       }
     ],
     "homeTalks": [
       {
         "homeTalkId": "home-talk-card-skr-05-idol-00-talk-01"
       }
-    ]
+    ],
+    "activityAbilityId": ""
   },
   {
     "id": "card-skr-05-idol-03",
@@ -4221,12 +4751,16 @@
     ],
     "messages": [
       {
-        "messageId": "message-card-skr-05-idol-03"
+        "messageId": "message-card-skr-05-idol-03",
+        "telephoneId": ""
       },
       {
-        "telephoneId": "tel-card-skr-05-idol-03"
+        "telephoneId": "tel-card-skr-05-idol-03",
+        "messageId": ""
       }
-    ]
+    ],
+    "activityAbilityId": "",
+    "homeTalks": []
   },
   {
     "id": "card-skr-05-newy-00",
@@ -4275,12 +4809,18 @@
     ],
     "messages": [
       {
-        "messageId": "message-card-skr-05-newy-00"
+        "messageId": "message-card-skr-05-newy-00",
+        "telephoneId": ""
       },
       {
-        "telephoneId": "tel-card-skr-05-newy-00"
+        "telephoneId": "tel-card-skr-05-newy-00",
+        "messageId": ""
       }
-    ]
+    ],
+    "liveAbilityId": "",
+    "displayPositionY1": 0.0,
+    "displayPositionY2": 0.0,
+    "homeTalks": []
   },
   {
     "id": "card-smr-03-schl-00",
@@ -4312,7 +4852,16 @@
     "displayScale2": 1.2,
     "highlightDisplayPositionX2": -0.05,
     "highlightDisplayPositionY2": 0.17,
-    "highlightDisplayScale2": 0.9
+    "highlightDisplayScale2": 0.9,
+    "liveAbilityId": "",
+    "activityAbilityId": "",
+    "rewardCostumeId": "",
+    "displayPositionX1": 0.0,
+    "highlightDisplayPositionX1": 0.0,
+    "obtainMessage": "",
+    "stories": [],
+    "messages": [],
+    "homeTalks": []
   },
   {
     "id": "card-smr-04-casl-00",
@@ -4345,7 +4894,15 @@
     "displayScale2": 1.0,
     "highlightDisplayPositionX2": -0.2,
     "highlightDisplayPositionY2": 0.1,
-    "highlightDisplayScale2": 0.8
+    "highlightDisplayScale2": 0.8,
+    "activityAbilityId": "",
+    "displayPositionX1": 0.0,
+    "highlightDisplayPositionX1": 0.0,
+    "displayPositionY2": 0.0,
+    "obtainMessage": "",
+    "stories": [],
+    "messages": [],
+    "homeTalks": []
   },
   {
     "id": "card-smr-05-frut-00",
@@ -4396,12 +4953,16 @@
     ],
     "messages": [
       {
-        "messageId": "message-card-smr-05-frut-00"
+        "messageId": "message-card-smr-05-frut-00",
+        "telephoneId": ""
       },
       {
-        "telephoneId": "tel-card-smr-05-frut-00"
+        "telephoneId": "tel-card-smr-05-frut-00",
+        "messageId": ""
       }
-    ]
+    ],
+    "activityAbilityId": "",
+    "homeTalks": []
   },
   {
     "id": "card-smr-05-idol-00",
@@ -4452,17 +5013,20 @@
     ],
     "messages": [
       {
-        "messageId": "message-card-smr-05-idol-00"
+        "messageId": "message-card-smr-05-idol-00",
+        "telephoneId": ""
       },
       {
-        "telephoneId": "tel-card-smr-05-idol-00"
+        "telephoneId": "tel-card-smr-05-idol-00",
+        "messageId": ""
       }
     ],
     "homeTalks": [
       {
         "homeTalkId": "home-talk-card-smr-05-idol-00-talk-01"
       }
-    ]
+    ],
+    "activityAbilityId": ""
   },
   {
     "id": "card-smr-05-mizg-01",
@@ -4513,17 +5077,20 @@
     ],
     "messages": [
       {
-        "messageId": "message-card-smr-05-mizg-01"
+        "messageId": "message-card-smr-05-mizg-01",
+        "telephoneId": ""
       },
       {
-        "telephoneId": "tel-card-smr-05-mizg-01"
+        "telephoneId": "tel-card-smr-05-mizg-01",
+        "messageId": ""
       }
     ],
     "homeTalks": [
       {
         "homeTalkId": "home-talk-card-smr-05-mizg-01-talk-01"
       }
-    ]
+    ],
+    "activityAbilityId": ""
   },
   {
     "id": "card-smr-05-xmas-00",
@@ -4574,12 +5141,16 @@
     ],
     "messages": [
       {
-        "messageId": "message-card-smr-05-xmas-00"
+        "messageId": "message-card-smr-05-xmas-00",
+        "telephoneId": ""
       },
       {
-        "telephoneId": "tel-card-smr-05-xmas-00"
+        "telephoneId": "tel-card-smr-05-xmas-00",
+        "messageId": ""
       }
-    ]
+    ],
+    "liveAbilityId": "",
+    "homeTalks": []
   },
   {
     "id": "card-suz-02-eve-01",
@@ -4613,7 +5184,14 @@
     "displayScale2": 1.8,
     "highlightDisplayPositionX2": 0.41,
     "highlightDisplayPositionY2": -0.041,
-    "highlightDisplayScale2": 0.6
+    "highlightDisplayScale2": 0.6,
+    "liveAbilityId": "",
+    "activityAbilityId": "",
+    "rewardCostumeId": "",
+    "obtainMessage": "",
+    "stories": [],
+    "messages": [],
+    "homeTalks": []
   },
   {
     "id": "card-suz-03-schl-00",
@@ -4645,7 +5223,16 @@
     "displayScale2": 1.3,
     "highlightDisplayPositionX2": -0.05,
     "highlightDisplayPositionY2": 0.28,
-    "highlightDisplayScale2": 0.8
+    "highlightDisplayScale2": 0.8,
+    "liveAbilityId": "",
+    "activityAbilityId": "",
+    "rewardCostumeId": "",
+    "displayPositionX1": 0.0,
+    "highlightDisplayPositionX1": 0.0,
+    "obtainMessage": "",
+    "stories": [],
+    "messages": [],
+    "homeTalks": []
   },
   {
     "id": "card-suz-04-casl-00",
@@ -4679,7 +5266,14 @@
     "displayScale2": 1.1,
     "highlightDisplayPositionX2": -0.15,
     "highlightDisplayPositionY2": 0.15,
-    "highlightDisplayScale2": 0.8
+    "highlightDisplayScale2": 0.8,
+    "activityAbilityId": "",
+    "displayPositionX1": 0.0,
+    "highlightDisplayPositionX1": 0.0,
+    "obtainMessage": "",
+    "stories": [],
+    "messages": [],
+    "homeTalks": []
   },
   {
     "id": "card-suz-05-anml-00",
@@ -4730,12 +5324,16 @@
     ],
     "messages": [
       {
-        "messageId": "message-card-suz-05-anml-00"
+        "messageId": "message-card-suz-05-anml-00",
+        "telephoneId": ""
       },
       {
-        "telephoneId": "tel-card-suz-05-anml-00"
+        "telephoneId": "tel-card-suz-05-anml-00",
+        "messageId": ""
       }
-    ]
+    ],
+    "liveAbilityId": "",
+    "homeTalks": []
   },
   {
     "id": "card-suz-05-idol-00",
@@ -4786,17 +5384,20 @@
     ],
     "messages": [
       {
-        "messageId": "message-card-suz-05-idol-00"
+        "messageId": "message-card-suz-05-idol-00",
+        "telephoneId": ""
       },
       {
-        "telephoneId": "tel-card-suz-05-idol-00"
+        "telephoneId": "tel-card-suz-05-idol-00",
+        "messageId": ""
       }
     ],
     "homeTalks": [
       {
         "homeTalkId": "home-talk-card-suz-05-idol-00-talk-01"
       }
-    ]
+    ],
+    "activityAbilityId": ""
   },
   {
     "id": "card-suz-05-mizg-01",
@@ -4847,17 +5448,20 @@
     ],
     "messages": [
       {
-        "messageId": "message-card-suz-05-mizg-01"
+        "messageId": "message-card-suz-05-mizg-01",
+        "telephoneId": ""
       },
       {
-        "telephoneId": "tel-card-suz-05-mizg-01"
+        "telephoneId": "tel-card-suz-05-mizg-01",
+        "messageId": ""
       }
     ],
     "homeTalks": [
       {
         "homeTalkId": "home-talk-card-suz-05-mizg-01-talk-01"
       }
-    ]
+    ],
+    "liveAbilityId": ""
   },
   {
     "id": "card-suz-05-onep-00",
@@ -4908,12 +5512,16 @@
     ],
     "messages": [
       {
-        "messageId": "message-card-suz-05-onep-00-01"
+        "messageId": "message-card-suz-05-onep-00-01",
+        "telephoneId": ""
       },
       {
-        "messageId": "message-card-suz-05-onep-00-02"
+        "messageId": "message-card-suz-05-onep-00-02",
+        "telephoneId": ""
       }
-    ]
+    ],
+    "liveAbilityId": "",
+    "homeTalks": []
   },
   {
     "id": "card-szk-02-eve-01",
@@ -4946,7 +5554,15 @@
     "displayScale2": 1.0,
     "highlightDisplayPositionX2": -0.018,
     "highlightDisplayPositionY2": 0.299,
-    "highlightDisplayScale2": 1.2
+    "highlightDisplayScale2": 1.2,
+    "liveAbilityId": "",
+    "activityAbilityId": "",
+    "rewardCostumeId": "",
+    "displayPositionY2": 0.0,
+    "obtainMessage": "",
+    "stories": [],
+    "messages": [],
+    "homeTalks": []
   },
   {
     "id": "card-szk-02-mizg-01",
@@ -4978,7 +5594,16 @@
     "displayScale2": 1.3,
     "highlightDisplayPositionX2": 0.4,
     "highlightDisplayPositionY2": -0.03,
-    "highlightDisplayScale2": 1.5
+    "highlightDisplayScale2": 1.5,
+    "liveAbilityId": "",
+    "activityAbilityId": "",
+    "rewardCostumeId": "",
+    "displayPositionX1": 0.0,
+    "highlightDisplayPositionX1": 0.0,
+    "obtainMessage": "",
+    "stories": [],
+    "messages": [],
+    "homeTalks": []
   },
   {
     "id": "card-szk-03-schl-00",
@@ -5010,7 +5635,16 @@
     "displayScale2": 1.2,
     "highlightDisplayPositionX2": -0.2,
     "highlightDisplayPositionY2": 0.25,
-    "highlightDisplayScale2": 1.0
+    "highlightDisplayScale2": 1.0,
+    "liveAbilityId": "",
+    "activityAbilityId": "",
+    "rewardCostumeId": "",
+    "displayPositionX1": 0.0,
+    "highlightDisplayPositionX1": 0.0,
+    "obtainMessage": "",
+    "stories": [],
+    "messages": [],
+    "homeTalks": []
   },
   {
     "id": "card-szk-04-casl-00",
@@ -5043,7 +5677,15 @@
     "displayScale2": 1.0,
     "highlightDisplayPositionX2": -0.1,
     "highlightDisplayPositionY2": 0.12,
-    "highlightDisplayScale2": 0.8
+    "highlightDisplayScale2": 0.8,
+    "liveAbilityId": "",
+    "displayPositionX1": 0.0,
+    "highlightDisplayPositionX1": 0.0,
+    "displayPositionY2": 0.0,
+    "obtainMessage": "",
+    "stories": [],
+    "messages": [],
+    "homeTalks": []
   },
   {
     "id": "card-szk-05-chna-00",
@@ -5094,12 +5736,16 @@
     ],
     "messages": [
       {
-        "messageId": "message-card-szk-05-chna-00"
+        "messageId": "message-card-szk-05-chna-00",
+        "telephoneId": ""
       },
       {
-        "telephoneId": "tel-card-szk-05-chna-00"
+        "telephoneId": "tel-card-szk-05-chna-00",
+        "messageId": ""
       }
-    ]
+    ],
+    "activityAbilityId": "",
+    "homeTalks": []
   },
   {
     "id": "card-szk-05-idol-00",
@@ -5148,17 +5794,22 @@
     ],
     "messages": [
       {
-        "messageId": "message-card-szk-05-idol-00"
+        "messageId": "message-card-szk-05-idol-00",
+        "telephoneId": ""
       },
       {
-        "telephoneId": "tel-card-szk-05-idol-00"
+        "telephoneId": "tel-card-szk-05-idol-00",
+        "messageId": ""
       }
     ],
     "homeTalks": [
       {
         "homeTalkId": "home-talk-card-szk-05-idol-00-talk-01"
       }
-    ]
+    ],
+    "liveAbilityId": "",
+    "displayPositionY1": 0.0,
+    "displayPositionY2": 0.0
   },
   {
     "id": "card-szk-05-yuru-00",
@@ -5207,12 +5858,18 @@
     ],
     "messages": [
       {
-        "messageId": "message-card-szk-05-yuru-00-01"
+        "messageId": "message-card-szk-05-yuru-00-01",
+        "telephoneId": ""
       },
       {
-        "messageId": "message-card-szk-05-yuru-00-02"
+        "messageId": "message-card-szk-05-yuru-00-02",
+        "telephoneId": ""
       }
-    ]
+    ],
+    "activityAbilityId": "",
+    "displayPositionY1": 0.0,
+    "displayPositionY2": 0.0,
+    "homeTalks": []
   },
   {
     "id": "card-yu-03-schl-00",
@@ -5244,7 +5901,16 @@
     "displayScale2": 1.2,
     "highlightDisplayPositionX2": 0.4,
     "highlightDisplayPositionY2": 0.3,
-    "highlightDisplayScale2": 1.0
+    "highlightDisplayScale2": 1.0,
+    "liveAbilityId": "",
+    "activityAbilityId": "",
+    "rewardCostumeId": "",
+    "displayPositionX1": 0.0,
+    "highlightDisplayPositionX1": 0.0,
+    "obtainMessage": "",
+    "stories": [],
+    "messages": [],
+    "homeTalks": []
   },
   {
     "id": "card-yu-04-casl-00",
@@ -5278,7 +5944,14 @@
     "displayScale2": 1.2,
     "highlightDisplayPositionX2": -0.17,
     "highlightDisplayPositionY2": 0.28,
-    "highlightDisplayScale2": 0.9
+    "highlightDisplayScale2": 0.9,
+    "activityAbilityId": "",
+    "displayPositionX1": 0.0,
+    "highlightDisplayPositionX1": 0.0,
+    "obtainMessage": "",
+    "stories": [],
+    "messages": [],
+    "homeTalks": []
   },
   {
     "id": "card-yu-05-idol-00",
@@ -5329,17 +6002,20 @@
     ],
     "messages": [
       {
-        "messageId": "message-card-yu-05-idol-00"
+        "messageId": "message-card-yu-05-idol-00",
+        "telephoneId": ""
       },
       {
-        "telephoneId": "tel-card-yu-05-idol-00"
+        "telephoneId": "tel-card-yu-05-idol-00",
+        "messageId": ""
       }
     ],
     "homeTalks": [
       {
         "homeTalkId": "home-talk-card-yu-05-idol-00-talk-01"
       }
-    ]
+    ],
+    "liveAbilityId": ""
   },
   {
     "id": "card-yu-05-mizg-01",
@@ -5390,17 +6066,20 @@
     ],
     "messages": [
       {
-        "messageId": "message-card-yu-05-mizg-01"
+        "messageId": "message-card-yu-05-mizg-01",
+        "telephoneId": ""
       },
       {
-        "telephoneId": "tel-card-yu-05-mizg-01"
+        "telephoneId": "tel-card-yu-05-mizg-01",
+        "messageId": ""
       }
     ],
     "homeTalks": [
       {
         "homeTalkId": "home-talk-card-yu-05-mizg-01-talk-01"
       }
-    ]
+    ],
+    "activityAbilityId": ""
   },
   {
     "id": "card-yu-05-xmas-00",
@@ -5449,11 +6128,17 @@
     ],
     "messages": [
       {
-        "messageId": "message-card-yu-05-xmas-00"
+        "messageId": "message-card-yu-05-xmas-00",
+        "telephoneId": ""
       },
       {
-        "telephoneId": "tel-card-yu-05-xmas-00"
+        "telephoneId": "tel-card-yu-05-xmas-00",
+        "messageId": ""
       }
-    ]
+    ],
+    "activityAbilityId": "",
+    "displayPositionY1": 0.0,
+    "displayPositionY2": 0.0,
+    "homeTalks": []
   }
 ]

@@ -8,7 +8,8 @@
     "levels": [
       {
         "level": 1,
-        "name": "握手会"
+        "name": "握手会",
+        "unlockConditionId": ""
       },
       {
         "level": 2,
@@ -120,7 +121,8 @@
         "name": "握手会",
         "unlockConditionId": "cd-clear-area-main-073"
       }
-    ]
+    ],
+    "viewConditionId": ""
   },
   {
     "id": "act-fan-02",
@@ -131,7 +133,8 @@
     "levels": [
       {
         "level": 1,
-        "name": "撮影会"
+        "name": "撮影会",
+        "unlockConditionId": ""
       },
       {
         "level": 2,
@@ -233,7 +236,8 @@
         "name": "撮影会",
         "unlockConditionId": "cd-clear-area-main-074"
       }
-    ]
+    ],
+    "viewConditionId": ""
   },
   {
     "id": "act-fan-03",
@@ -244,7 +248,8 @@
     "levels": [
       {
         "level": 1,
-        "name": "サイン会"
+        "name": "サイン会",
+        "unlockConditionId": ""
       },
       {
         "level": 2,
@@ -336,6 +341,7 @@
         "name": "サイン会",
         "unlockConditionId": "cd-clear-area-main-075"
       }
-    ]
+    ],
+    "viewConditionId": ""
   }
 ]

@@ -11,7 +11,9 @@
     "forceCostumeTypeId": "mizg",
     "photoShootingMotionSetId": "bedrock-00",
     "isDeleteCharacter": true,
-    "order": 9
+    "order": 9,
+    "viewConditionId": "",
+    "unlockConditionId": ""
   },
   {
     "id": "photo_activity-cafe",
@@ -28,7 +30,8 @@
     "photoShootingMotionSetId": "cafe-00",
     "isDeleteCharacter": true,
     "order": 110,
-    "unlockConditionId": "cd-manager_level_gte-20"
+    "unlockConditionId": "cd-manager_level_gte-20",
+    "viewConditionId": ""
   },
   {
     "id": "photo_activity-catstreet-01",
@@ -46,7 +49,8 @@
     "photoShootingMotionSetId": "catstreet-01",
     "isDeleteCharacter": true,
     "order": 6,
-    "viewConditionId": "cd-time-photo-shopping-01-close"
+    "viewConditionId": "cd-time-photo-shopping-01-close",
+    "unlockConditionId": ""
   },
   {
     "id": "photo_activity-event_stage",
@@ -96,7 +100,9 @@
     "forceCostumeTypeId": "idol",
     "photoShootingMotionSetId": "square-00",
     "isDeleteCharacter": true,
-    "order": 100
+    "order": 100,
+    "viewConditionId": "",
+    "unlockConditionId": ""
   },
   {
     "id": "photo_activity-hot_spring",
@@ -127,7 +133,9 @@
     "forceCostumeTypeId": "casl",
     "photoShootingMotionSetId": "living-01",
     "isDeleteCharacter": true,
-    "order": 4
+    "order": 4,
+    "viewConditionId": "",
+    "unlockConditionId": ""
   },
   {
     "id": "photo_activity-ministage",
@@ -146,7 +154,8 @@
     "photoShootingMotionSetId": "ministage-01",
     "isDeleteCharacter": true,
     "order": 7,
-    "viewConditionId": "cd-time-photo-ministage-01-close"
+    "viewConditionId": "cd-time-photo-ministage-01-close",
+    "unlockConditionId": ""
   },
   {
     "id": "photo_activity-pool",
@@ -161,7 +170,9 @@
     "forceCostumeTypeId": "mizg",
     "photoShootingMotionSetId": "pool-00",
     "isDeleteCharacter": true,
-    "order": 10
+    "order": 10,
+    "viewConditionId": "",
+    "unlockConditionId": ""
   },
   {
     "id": "photo_activity-radio_distribution",
@@ -196,7 +207,8 @@
     "photoShootingMotionSetId": "catstreet-00",
     "isDeleteCharacter": true,
     "order": 130,
-    "unlockConditionId": "cd-manager_level_gte-45"
+    "unlockConditionId": "cd-manager_level_gte-45",
+    "viewConditionId": ""
   },
   {
     "id": "photo_activity-studio-00",
@@ -210,7 +222,9 @@
     "forceCostumeTypeId": "casl",
     "photoShootingMotionSetId": "studio-00",
     "isDeleteCharacter": true,
-    "order": 5
+    "order": 5,
+    "viewConditionId": "",
+    "unlockConditionId": ""
   },
   {
     "id": "photo_activity-theme_park",
@@ -226,7 +240,9 @@
     "forceCostumeTypeId": "casl",
     "photoShootingMotionSetId": "themepark-00",
     "isDeleteCharacter": true,
-    "order": 8
+    "order": 8,
+    "viewConditionId": "",
+    "unlockConditionId": ""
   },
   {
     "id": "photo_activity-video_distribution",
@@ -241,6 +257,7 @@
     "photoShootingMotionSetId": "cooking-00",
     "isDeleteCharacter": true,
     "order": 120,
-    "unlockConditionId": "cd-manager_level_gte-30"
+    "unlockConditionId": "cd-manager_level_gte-30",
+    "viewConditionId": ""
   }
 ]

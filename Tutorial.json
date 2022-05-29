@@ -4,7 +4,11 @@
     "stepInfo": [
       {
         "step": 10,
-        "subStep": 100
+        "subStep": 100,
+        "navigationType": 0,
+        "navigationPositionType": 0,
+        "texts": [],
+        "assetIds": []
       },
       {
         "step": 100,
@@ -16,7 +20,8 @@
           "えーっと、まずは\n本日のスケジュール確認ですね……",
           "ライブに……\nレッスンに……",
           "むむっなんだか大変な1日に\r\nなりそうですね！\r"
-        ]
+        ],
+        "assetIds": []
       },
       {
         "step": 100,
@@ -25,7 +30,8 @@
         "navigationPositionType": 3,
         "texts": [
           "さっそくライブ会場に\n向かいましょう！"
-        ]
+        ],
+        "assetIds": []
       },
       {
         "step": 100,
@@ -34,7 +40,8 @@
         "navigationPositionType": 2,
         "texts": [
           "本日のライブはこちらでっす！"
-        ]
+        ],
+        "assetIds": []
       },
       {
         "step": 100,
@@ -43,11 +50,16 @@
         "navigationPositionType": 1,
         "texts": [
           "メインライブでは、各会場のライブをすべて成功させることで次の会場へ進むことができます。"
-        ]
+        ],
+        "assetIds": []
       },
       {
         "step": 100,
-        "subStep": 140
+        "subStep": 140,
+        "navigationType": 0,
+        "navigationPositionType": 0,
+        "texts": [],
+        "assetIds": []
       },
       {
         "step": 100,
@@ -56,7 +68,8 @@
         "navigationPositionType": 3,
         "texts": [
           "では！　今回のライブについて\n確認していきましょう！"
-        ]
+        ],
+        "assetIds": []
       },
       {
         "step": 100,
@@ -65,7 +78,8 @@
         "navigationPositionType": 1,
         "texts": [
           "ライブでは配置によって有利に働く3種類のパラメータが存在します。"
-        ]
+        ],
+        "assetIds": []
       },
       {
         "step": 100,
@@ -75,7 +89,8 @@
         "texts": [
           "ピンク：ボーカル\nブルー：ダンス\nイエロー：ビジュアル\nとなっています。",
           "ボーカルにはボーカルの得意なアイドル、というように適切なアイドルを配置しましょう。"
-        ]
+        ],
+        "assetIds": []
       },
       {
         "step": 100,
@@ -84,7 +99,8 @@
         "navigationPositionType": 2,
         "texts": [
           "ライブに出演するアイドルは\nこちらから確認・変更が可能です。"
-        ]
+        ],
+        "assetIds": []
       },
       {
         "step": 100,
@@ -93,7 +109,8 @@
         "navigationPositionType": 2,
         "texts": [
           "次のステージはこちらのメンバーに\n出演していただきましょう！"
-        ]
+        ],
+        "assetIds": []
       },
       {
         "step": 100,
@@ -103,7 +120,8 @@
         "texts": [
           "編成はこちらから変更可能です。",
           "困ったときは「おまかせ」することでライブに合ったユニットを自動で編成します。"
-        ]
+        ],
+        "assetIds": []
       },
       {
         "step": 100,
@@ -112,7 +130,8 @@
         "navigationPositionType": 3,
         "texts": [
           "はっ！　先輩見てください！\nファンの方々がライブに来てくれているみたいですよ！"
-        ]
+        ],
+        "assetIds": []
       },
       {
         "step": 100,
@@ -122,7 +141,8 @@
         "texts": [
           "来場ファン数はライブのスコアに\n影響します。",
           "「お仕事」でファンを獲得すると\nライブに来てくれるファン数も\n増加します。"
-        ]
+        ],
+        "assetIds": []
       },
       {
         "step": 100,
@@ -131,7 +151,8 @@
         "navigationPositionType": 3,
         "texts": [
           "「お仕事」をがんばって、もっと\nもーっと星見プロをファンの方々に\n知ってもらわないとですね！\n私もがんばりまっす！"
-        ]
+        ],
+        "assetIds": []
       },
       {
         "step": 100,
@@ -141,7 +162,8 @@
         "texts": [
           "いよいよライブが始まりますね。",
           "なんだか緊張してきました……！\n先輩は落ち着いててさすがでっす！"
-        ]
+        ],
+        "assetIds": []
       },
       {
         "step": 100,
@@ -154,7 +176,8 @@
           "アイドルは自立したパフォーマンスを行うので、マネージャーの操作や介入は不要です。",
           "システムによって自動で判定されたフィードバックが表示されます。",
           "リハーサルを開始します。"
-        ]
+        ],
+        "assetIds": []
       },
       {
         "step": 100,
@@ -163,7 +186,8 @@
         "navigationPositionType": 1,
         "texts": [
           "「ビート」に合わせて各アイドル\nのスコアを測定します。"
-        ]
+        ],
+        "assetIds": []
       },
       {
         "step": 100,
@@ -172,7 +196,8 @@
         "navigationPositionType": 1,
         "texts": [
           "ビートで獲得できるスコアはアイドルのボーカル・ダンス・ビジュアルの総合値で決まります。"
-        ]
+        ],
+        "assetIds": []
       },
       {
         "step": 100,
@@ -181,7 +206,8 @@
         "navigationPositionType": 1,
         "texts": [
           "「アピールスキル」を所持しているアイドルを配置していればスタミナを消費してスキルを発動します。"
-        ]
+        ],
+        "assetIds": []
       },
       {
         "step": 100,
@@ -190,7 +216,8 @@
         "navigationPositionType": 1,
         "texts": [
           "「アピールスキル」は高いスコアを獲得でき、さらに場合によっては様々な効果をもたらします。"
-        ]
+        ],
+        "assetIds": []
       },
       {
         "step": 100,
@@ -199,7 +226,8 @@
         "navigationPositionType": 1,
         "texts": [
           "「スペシャルスキル」は所持しているアイドルが限られますので配置には注意しましょう。"
-        ]
+        ],
+        "assetIds": []
       },
       {
         "step": 100,
@@ -208,7 +236,8 @@
         "navigationPositionType": 3,
         "texts": [
           "「スペシャルスキル」は非常に高いスコア評価を獲得できます。"
-        ]
+        ],
+        "assetIds": []
       },
       {
         "step": 100,
@@ -218,7 +247,8 @@
         "texts": [
           "配置ごとのスキルチャンスの種類や回数は異なります。",
           "ライブに合わせてユニットの組み合わせやアイドルの配置を工夫してみましょう。"
-        ]
+        ],
+        "assetIds": []
       },
       {
         "step": 100,
@@ -227,7 +257,8 @@
         "navigationPositionType": 4,
         "texts": [
           "ビートやスキルで獲得したスコアが目標に到達するとライブ成功となります。"
-        ]
+        ],
+        "assetIds": []
       },
       {
         "step": 100,
@@ -237,7 +268,8 @@
         "texts": [
           "VENUSプログラムって\nすごいんですね！",
           "「AIによる自動判定」って何だか\n難しそうで、私なんて覚えるのに\n時間がかかっちゃいそうです。"
-        ]
+        ],
+        "assetIds": []
       },
       {
         "step": 100,
@@ -246,7 +278,8 @@
         "navigationPositionType": 3,
         "texts": [
           "VENUSプログラムが難しかったり\n結果だけ知りたい、という時はハイライトを確認できるみたいです。"
-        ]
+        ],
+        "assetIds": []
       },
       {
         "step": 100,
@@ -256,7 +289,8 @@
         "texts": [
           "ハイライトではスキルの発動結果と\n獲得スコアのみを確認することが\n出来ます。",
           "また、画面を長押しすると倍速に\nすることも可能です。"
-        ]
+        ],
+        "assetIds": []
       },
       {
         "step": 100,
@@ -266,7 +300,8 @@
         "texts": [
           "アイドルの活躍と結果を知りたい、\nという時はハイライトが分かりやすいですね！",
           "リハーサルは以上です。\nいよいよライブの本番。\nドキドキしますね……！"
-        ]
+        ],
+        "assetIds": []
       },
       {
         "step": 110,
@@ -277,7 +312,8 @@
           "ライブお疲れさまでした！\nはぁ～尊いなぁ～\n",
           "星見プロのみなさんを\nトップアイドルに導くのが\n私たちの使命ですよね！",
           "これからがんばって、\n大きな会場で超満員の\nライブを目指しましょう！"
-        ]
+        ],
+        "assetIds": []
       },
       {
         "step": 110,
@@ -286,11 +322,16 @@
         "navigationPositionType": 3,
         "texts": [
           "ライブの後なのに、みなさんもう\n練習に取り組んでいますね！"
-        ]
+        ],
+        "assetIds": []
       },
       {
         "step": 110,
-        "subStep": 120
+        "subStep": 120,
+        "navigationType": 0,
+        "navigationPositionType": 0,
+        "texts": [],
+        "assetIds": []
       },
       {
         "step": 110,
@@ -301,7 +342,8 @@
           "「自主トレ」では実際の時間経過に応じて報酬が獲得できます。",
           "アプリを閉じている間も\n成果は増え続けます。",
           "成果を確認せず一定時間経過するとアイドルは休憩に入ります。"
-        ]
+        ],
+        "assetIds": []
       },
       {
         "step": 110,
@@ -310,7 +352,8 @@
         "navigationPositionType": 1,
         "texts": [
           "時間あたりの報酬量はメインライブの進行に応じて上昇します。"
-        ]
+        ],
+        "assetIds": []
       },
       {
         "step": 110,
@@ -320,11 +363,16 @@
         "texts": [
           "みなさん毎日トレーニング\n頑張ってますね！",
           "よーし、私も負けずに支えまっす！"
-        ]
+        ],
+        "assetIds": []
       },
       {
         "step": 110,
-        "subStep": 160
+        "subStep": 160,
+        "navigationType": 0,
+        "navigationPositionType": 0,
+        "texts": [],
+        "assetIds": []
       },
       {
         "step": 120,
@@ -333,11 +381,16 @@
         "navigationPositionType": 3,
         "texts": [
           "さぁ、次はみなさんのレッスンを\n手伝いましょう！"
-        ]
+        ],
+        "assetIds": []
       },
       {
         "step": 120,
-        "subStep": 110
+        "subStep": 110,
+        "navigationType": 0,
+        "navigationPositionType": 0,
+        "texts": [],
+        "assetIds": []
       },
       {
         "step": 120,
@@ -346,7 +399,8 @@
         "navigationPositionType": 2,
         "texts": [
           "えーっと…今回は…\n長瀬さんのレッスンでしたね。"
-        ]
+        ],
+        "assetIds": []
       },
       {
         "step": 120,
@@ -355,7 +409,8 @@
         "navigationPositionType": 2,
         "texts": [
           "「レッスンピース」を消費して\nアイドルのレベルを上げること\nができます。"
-        ]
+        ],
+        "assetIds": []
       },
       {
         "step": 120,
@@ -364,7 +419,8 @@
         "navigationPositionType": 4,
         "texts": [
           "アイドルにレッスンを行うことで\nパラメータの上昇やスキルを習得\nすることができます。"
-        ]
+        ],
+        "assetIds": []
       },
       {
         "step": 120,
@@ -373,11 +429,16 @@
         "navigationPositionType": 3,
         "texts": [
           "ライブを盛り上げるためにも日々の\nレッスンはかかせませんから！"
-        ]
+        ],
+        "assetIds": []
       },
       {
         "step": 120,
-        "subStep": 170
+        "subStep": 170,
+        "navigationType": 0,
+        "navigationPositionType": 0,
+        "texts": [],
+        "assetIds": []
       },
       {
         "step": 130,
@@ -387,7 +448,8 @@
         "texts": [
           "メンバーも頑張ってますし、\nあとはどんなユニットで\nライブに出演するかですね！",
           "ここからライブに出演する\nメンバーを編成できます！"
-        ]
+        ],
+        "assetIds": []
       },
       {
         "step": 130,
@@ -396,7 +458,8 @@
         "navigationPositionType": 3,
         "texts": [
           "編成では\nアイドル・フォト・アクセサリを\n組み合わせてユニットを組みます。"
-        ]
+        ],
+        "assetIds": []
       },
       {
         "step": 130,
@@ -406,7 +469,8 @@
         "texts": [
           "アイドルの並び順はライブのそれぞれの立ち位置に関連しています。",
           "配置によってスキルの発動やライブの演出に影響があります。"
-        ]
+        ],
+        "assetIds": []
       },
       {
         "step": 130,
@@ -415,7 +479,8 @@
         "navigationPositionType": 3,
         "texts": [
           "「フォト」や「アクセサリ」は\nここから設定できます。"
-        ]
+        ],
+        "assetIds": []
       },
       {
         "step": 130,
@@ -424,7 +489,8 @@
         "navigationPositionType": 1,
         "texts": [
           "もうひとつユニットを\n組んでみましょう。"
-        ]
+        ],
+        "assetIds": []
       },
       {
         "step": 130,
@@ -433,7 +499,8 @@
         "navigationPositionType": 3,
         "texts": [
           "ライブに合わせて編成するのが重要\nですが、最初のうちは「おまかせ」\nを活用しましょう。"
-        ]
+        ],
+        "assetIds": []
       },
       {
         "step": 130,
@@ -443,11 +510,16 @@
         "texts": [
           "えっ！\n私に任せてくれるんですか！？",
           "お、おそれ多い……でも、どんな\nメンバーでユニットを組むのか、\n想像するだけで興奮しちゃいます！\nはぁ～眼福眼福。"
-        ]
+        ],
+        "assetIds": []
       },
       {
         "step": 130,
-        "subStep": 180
+        "subStep": 180,
+        "navigationType": 0,
+        "navigationPositionType": 0,
+        "texts": [],
+        "assetIds": []
       },
       {
         "step": 130,
@@ -456,11 +528,16 @@
         "navigationPositionType": 3,
         "texts": [
           "いかがでしょう！\n我ながら尊いなぁ～"
-        ]
+        ],
+        "assetIds": []
       },
       {
         "step": 130,
-        "subStep": 200
+        "subStep": 200,
+        "navigationType": 0,
+        "navigationPositionType": 0,
+        "texts": [],
+        "assetIds": []
       },
       {
         "step": 140,
@@ -469,19 +546,32 @@
         "navigationPositionType": 3,
         "texts": [
           "あれ？　スマホ鳴ってますよ"
-        ]
+        ],
+        "assetIds": []
       },
       {
         "step": 140,
-        "subStep": 120
+        "subStep": 120,
+        "navigationType": 0,
+        "navigationPositionType": 0,
+        "texts": [],
+        "assetIds": []
       },
       {
         "step": 140,
-        "subStep": 130
+        "subStep": 130,
+        "navigationType": 0,
+        "navigationPositionType": 0,
+        "texts": [],
+        "assetIds": []
       },
       {
         "step": 140,
-        "subStep": 140
+        "subStep": 140,
+        "navigationType": 0,
+        "navigationPositionType": 0,
+        "texts": [],
+        "assetIds": []
       },
       {
         "step": 140,
@@ -491,15 +581,24 @@
         "texts": [
           "先輩、いつもちゃんと\nメッセージ返してますか？",
           "毎日のコミュニケーションは\nとっても大事ですよ！"
-        ]
+        ],
+        "assetIds": []
       },
       {
         "step": 140,
-        "subStep": 160
+        "subStep": 160,
+        "navigationType": 0,
+        "navigationPositionType": 0,
+        "texts": [],
+        "assetIds": []
       },
       {
         "step": 140,
-        "subStep": 165
+        "subStep": 165,
+        "navigationType": 0,
+        "navigationPositionType": 0,
+        "texts": [],
+        "assetIds": []
       },
       {
         "step": 140,
@@ -510,11 +609,16 @@
           "あなたの行動に紐づいて、\nメッセージが届くことがあります。",
           "メッセージを返していくと、\nより親密なメッセージが\n来ることがあります。",
           "また、やり取りを繰り返していくと\n「電話」や事務所での「会話」が\n発生することもあります。"
-        ]
+        ],
+        "assetIds": []
       },
       {
         "step": 140,
-        "subStep": 180
+        "subStep": 180,
+        "navigationType": 0,
+        "navigationPositionType": 0,
+        "texts": [],
+        "assetIds": []
       },
       {
         "step": 150,
@@ -525,7 +629,8 @@
         ],
         "assetIds": [
           "img_tutorial_tips_tips-001"
-        ]
+        ],
+        "navigationPositionType": 0
       },
       {
         "step": 150,
@@ -535,7 +640,8 @@
         "texts": [
           "いつ届いても反応できるように通知\nをONにしておかなきゃですね！",
           "なんてったって我々は\nマネージャーですから！"
-        ]
+        ],
+        "assetIds": []
       },
       {
         "step": 150,
@@ -545,9 +651,11 @@
         "texts": [
           "チュートリアルは以上になります。\n引き続きIDOLY PRIDEをお楽しみください。",
           "タイトルに戻ります。"
-        ]
+        ],
+        "assetIds": []
       }
-    ]
+    ],
+    "unlockConditionId": ""
   },
   {
     "type": 2,
@@ -559,11 +667,16 @@
         "navigationPositionType": 3,
         "texts": [
           "「撮影」できるようになりました！\nさっそく撮ってみましょう！"
-        ]
+        ],
+        "assetIds": []
       },
       {
         "step": 1,
-        "subStep": 110
+        "subStep": 110,
+        "navigationType": 0,
+        "navigationPositionType": 0,
+        "texts": [],
+        "assetIds": []
       },
       {
         "step": 1,
@@ -573,19 +686,32 @@
         "texts": [
           "撮影するキャラクター、衣装、\n楽曲、ステージを選択できます！",
           "今回はこのメンバーで撮影して\nみましょう！"
-        ]
+        ],
+        "assetIds": []
       },
       {
         "step": 1,
-        "subStep": 140
+        "subStep": 140,
+        "navigationType": 0,
+        "navigationPositionType": 0,
+        "texts": [],
+        "assetIds": []
       },
       {
         "step": 1,
-        "subStep": 160
+        "subStep": 160,
+        "navigationType": 0,
+        "navigationPositionType": 0,
+        "texts": [],
+        "assetIds": []
       },
       {
         "step": 1,
-        "subStep": 170
+        "subStep": 170,
+        "navigationType": 0,
+        "navigationPositionType": 0,
+        "texts": [],
+        "assetIds": []
       },
       {
         "step": 1,
@@ -595,7 +721,8 @@
         "texts": [
           "撮影モードでは自由に「フォト」を\n撮ることができますよ！\n",
           "撮影した「フォト」はユニット編成\nでみなさんにセットできまっす！"
-        ]
+        ],
+        "assetIds": []
       },
       {
         "step": 1,
@@ -604,7 +731,8 @@
         "navigationPositionType": 3,
         "texts": [
           "ボタンをTAPすれば好きなタイミングで撮影できちゃうんです！"
-        ]
+        ],
+        "assetIds": []
       },
       {
         "step": 1,
@@ -613,11 +741,16 @@
         "navigationPositionType": 3,
         "texts": [
           "今回はお試し撮影なので\n「おまかせ」でいっときましょう！"
-        ]
+        ],
+        "assetIds": []
       },
       {
         "step": 1,
-        "subStep": 200
+        "subStep": 200,
+        "navigationType": 0,
+        "navigationPositionType": 0,
+        "texts": [],
+        "assetIds": []
       },
       {
         "step": 1,
@@ -626,11 +759,16 @@
         "navigationPositionType": 2,
         "texts": [
           "撮影した写真の中から「フォト」\nにする写真を選択しましょう！"
-        ]
+        ],
+        "assetIds": []
       },
       {
         "step": 1,
-        "subStep": 220
+        "subStep": 220,
+        "navigationType": 0,
+        "navigationPositionType": 0,
+        "texts": [],
+        "assetIds": []
       },
       {
         "step": 1,
@@ -641,9 +779,11 @@
           "使用するフィルムによって\nフォトの「品質」が変わります。",
           "フォトのレアリティや効果は\nランダムで決まります。",
           "ライブのスコアUPに重要なので、\nフィルムを入手したら撮影を行いましょう。"
-        ]
+        ],
+        "assetIds": []
       }
-    ]
+    ],
+    "unlockConditionId": ""
   },
   {
     "type": 3,
@@ -655,7 +795,8 @@
         "navigationPositionType": 3,
         "texts": [
           "おぉーっと！\nアイドルたちに少しずつ\nファンがついてきたようですね！"
-        ]
+        ],
+        "assetIds": []
       },
       {
         "step": 1,
@@ -664,7 +805,8 @@
         "navigationPositionType": 3,
         "texts": [
           "ファンのみなさんに喜んでもらえる\nファンイベントをやりましょう！"
-        ]
+        ],
+        "assetIds": []
       },
       {
         "step": 1,
@@ -674,15 +816,24 @@
         "texts": [
           "ファンイベントでは各アイドルの\r\n「コアファン率」が上昇します！\r",
           "「コアファン率」が高いほど\nライブに来てくれるファンの割合が\n高くなるので重要ですよー！"
-        ]
+        ],
+        "assetIds": []
       },
       {
         "step": 1,
-        "subStep": 140
+        "subStep": 140,
+        "navigationType": 0,
+        "navigationPositionType": 0,
+        "texts": [],
+        "assetIds": []
       },
       {
         "step": 1,
-        "subStep": 150
+        "subStep": 150,
+        "navigationType": 0,
+        "navigationPositionType": 0,
+        "texts": [],
+        "assetIds": []
       },
       {
         "step": 1,
@@ -691,11 +842,16 @@
         "navigationPositionType": 5,
         "texts": [
           "今回はこちらのみなさんにお仕事を受けてもらいましょう。"
-        ]
+        ],
+        "assetIds": []
       },
       {
         "step": 1,
-        "subStep": 170
+        "subStep": 170,
+        "navigationType": 0,
+        "navigationPositionType": 0,
+        "texts": [],
+        "assetIds": []
       },
       {
         "step": 1,
@@ -704,7 +860,8 @@
         "navigationPositionType": 3,
         "texts": [
           "ファンイベントは基本的に\n自動で進行します。"
-        ]
+        ],
+        "assetIds": []
       },
       {
         "step": 1,
@@ -713,11 +870,16 @@
         "navigationPositionType": 3,
         "texts": [
           "ファンイベントはファンの方々に\n楽しんでもらう大切なお仕事です！\n張り切ってサポートしましょう！"
-        ]
+        ],
+        "assetIds": []
       },
       {
         "step": 1,
-        "subStep": 200
+        "subStep": 200,
+        "navigationType": 0,
+        "navigationPositionType": 0,
+        "texts": [],
+        "assetIds": []
       },
       {
         "step": 1,
@@ -727,7 +889,8 @@
         "texts": [
           "ファンと交流すると、\n「ファン満足度」が上昇します！",
           "イベント終了時の満足度によって\n報酬が変化しますよ！"
-        ]
+        ],
+        "assetIds": []
       },
       {
         "step": 1,
@@ -737,11 +900,16 @@
         "texts": [
           "握手1回ごとにキャラクターの\n元気が減っていきます。",
           "全員の元気がなくなると\nファンイベント終了です！\nほわ～アイドルのみなさんも\n大忙しでっす！"
-        ]
+        ],
+        "assetIds": []
       },
       {
         "step": 1,
-        "subStep": 230
+        "subStep": 230,
+        "navigationType": 0,
+        "navigationPositionType": 0,
+        "texts": [],
+        "assetIds": []
       },
       {
         "step": 1,
@@ -750,11 +918,16 @@
         "navigationPositionType": 5,
         "texts": [
           "はっ！　ファンレターを持ってきて\nくれたファンの方がいますね！"
-        ]
+        ],
+        "assetIds": []
       },
       {
         "step": 1,
-        "subStep": 250
+        "subStep": 250,
+        "navigationType": 0,
+        "navigationPositionType": 0,
+        "texts": [],
+        "assetIds": []
       },
       {
         "step": 1,
@@ -764,11 +937,16 @@
         "texts": [
           "ファンレターをもらうと\n応援ゲージが上昇します。",
           "応援ゲージがたまると他のアイドルを応援に呼ぶことができます。"
-        ]
+        ],
+        "assetIds": []
       },
       {
         "step": 1,
-        "subStep": 270
+        "subStep": 270,
+        "navigationType": 0,
+        "navigationPositionType": 0,
+        "texts": [],
+        "assetIds": []
       },
       {
         "step": 1,
@@ -777,19 +955,32 @@
         "navigationPositionType": 3,
         "texts": [
           "アイテムを使用することで\nFEVER状態にできます。"
-        ]
+        ],
+        "assetIds": []
       },
       {
         "step": 1,
-        "subStep": 290
+        "subStep": 290,
+        "navigationType": 0,
+        "navigationPositionType": 0,
+        "texts": [],
+        "assetIds": []
       },
       {
         "step": 1,
-        "subStep": 300
+        "subStep": 300,
+        "navigationType": 0,
+        "navigationPositionType": 0,
+        "texts": [],
+        "assetIds": []
       },
       {
         "step": 1,
-        "subStep": 310
+        "subStep": 310,
+        "navigationType": 0,
+        "navigationPositionType": 0,
+        "texts": [],
+        "assetIds": []
       },
       {
         "step": 1,
@@ -798,11 +989,16 @@
         "navigationPositionType": 3,
         "texts": [
           "FEVER中はたくさんの\n「ファン満足度」を獲得出来ます！"
-        ]
+        ],
+        "assetIds": []
       },
       {
         "step": 1,
-        "subStep": 330
+        "subStep": 330,
+        "navigationType": 0,
+        "navigationPositionType": 0,
+        "texts": [],
+        "assetIds": []
       },
       {
         "step": 1,
@@ -812,7 +1008,8 @@
         "texts": [
           "ファンの方もご満悦のようですし、\nちょうどいいタイミングですね！",
           "次のファンの方に\n交代してもらいましょう。"
-        ]
+        ],
+        "assetIds": []
       },
       {
         "step": 1,
@@ -821,11 +1018,16 @@
         "navigationPositionType": 3,
         "texts": [
           "FEVER中はタイミングよくTAP\nすることで高い満足度を得られます"
-        ]
+        ],
+        "assetIds": []
       },
       {
         "step": 1,
-        "subStep": 360
+        "subStep": 360,
+        "navigationType": 0,
+        "navigationPositionType": 0,
+        "texts": [],
+        "assetIds": []
       },
       {
         "step": 1,
@@ -834,7 +1036,8 @@
         "navigationPositionType": 1,
         "texts": [
           "はわっ！\n応援ゲージがたまってますね！\n応援を呼んじゃいましょう！"
-        ]
+        ],
+        "assetIds": []
       },
       {
         "step": 1,
@@ -843,11 +1046,16 @@
         "navigationPositionType": 3,
         "texts": [
           "応援アイドルが来ている間は、\n獲得できる満足度が上昇しますよ！"
-        ]
+        ],
+        "assetIds": []
       },
       {
         "step": 1,
-        "subStep": 400
+        "subStep": 400,
+        "navigationType": 0,
+        "navigationPositionType": 0,
+        "texts": [],
+        "assetIds": []
       },
       {
         "step": 1,
@@ -858,9 +1066,11 @@
           "お仕事は順調そうですね！\nはぁ～眼福眼福～",
           "現場はアイドルたちに任せて、\n私たちは事務所に戻りましょう。",
           "次のファンイベントを行うアイドル\nに指示を出してあげてくださいね。"
-        ]
+        ],
+        "assetIds": []
       }
-    ]
+    ],
+    "unlockConditionId": ""
   },
   {
     "type": 4,
@@ -872,7 +1082,8 @@
         "navigationPositionType": 3,
         "texts": [
           "アイドルとしてのお仕事はライブ\nだけじゃありません！"
-        ]
+        ],
+        "assetIds": []
       },
       {
         "step": 1,
@@ -881,11 +1092,16 @@
         "navigationPositionType": 2,
         "texts": [
           "プロモーションではファンを獲得\nできます。その他にも様々な報酬\nがもらえます。"
-        ]
+        ],
+        "assetIds": []
       },
       {
         "step": 1,
-        "subStep": 120
+        "subStep": 120,
+        "navigationType": 0,
+        "navigationPositionType": 0,
+        "texts": [],
+        "assetIds": []
       },
       {
         "step": 1,
@@ -894,11 +1110,16 @@
         "navigationPositionType": 4,
         "texts": [
           "今回はこちらのメンバーにお仕事を受けてもらいましょう。"
-        ]
+        ],
+        "assetIds": []
       },
       {
         "step": 1,
-        "subStep": 140
+        "subStep": 140,
+        "navigationType": 0,
+        "navigationPositionType": 0,
+        "texts": [],
+        "assetIds": []
       },
       {
         "step": 1,
@@ -907,7 +1128,8 @@
         "navigationPositionType": 3,
         "texts": [
           "終了までの時間です。\nお仕事に出したアイドルの元気が\n無くなるまで自動で続きます。"
-        ]
+        ],
+        "assetIds": []
       },
       {
         "step": 1,
@@ -916,7 +1138,8 @@
         "navigationPositionType": 3,
         "texts": [
           "「元気」は時間経過か、\n「リフレッシュ」で回復します。"
-        ]
+        ],
+        "assetIds": []
       },
       {
         "step": 1,
@@ -925,15 +1148,24 @@
         "navigationPositionType": 3,
         "texts": [
           "アイテムを使用するとお仕事の時間を一気に進めることができます。"
-        ]
+        ],
+        "assetIds": []
       },
       {
         "step": 1,
-        "subStep": 180
+        "subStep": 180,
+        "navigationType": 0,
+        "navigationPositionType": 0,
+        "texts": [],
+        "assetIds": []
       },
       {
         "step": 1,
-        "subStep": 190
+        "subStep": 190,
+        "navigationType": 0,
+        "navigationPositionType": 0,
+        "texts": [],
+        "assetIds": []
       },
       {
         "step": 1,
@@ -943,7 +1175,8 @@
         "texts": [
           "お仕事の報酬をいただいた\nみたいですよ！",
           "ここから経過時間分のお仕事の\n成果が確認できます！"
-        ]
+        ],
+        "assetIds": []
       },
       {
         "step": 1,
@@ -954,7 +1187,8 @@
           "やりました！\nファンが少し増えましたね！",
           "地道な活動から、一歩一歩です！",
           "毎日お仕事をこなして大きなお仕事\nのオファーをいただけるよう\nがんばりましょう！"
-        ]
+        ],
+        "assetIds": []
       },
       {
         "step": 1,
@@ -964,9 +1198,11 @@
         "texts": [
           "アプリを閉じている間もお仕事は\n自動で進行します。",
           "アイドルの元気の状態を把握し、\n的確に指示を出しましょう。"
-        ]
+        ],
+        "assetIds": []
       }
-    ]
+    ],
+    "unlockConditionId": ""
   },
   {
     "type": 5,
@@ -978,7 +1214,8 @@
         "navigationPositionType": 3,
         "texts": [
           "大事なことを忘れるとこでした！\nお疲れ気味のメンバーは\nいませんか？"
-        ]
+        ],
+        "assetIds": []
       },
       {
         "step": 1,
@@ -987,11 +1224,16 @@
         "navigationPositionType": 3,
         "texts": [
           "お休みを確保して「リフレッシュ」\nしてもらうことも忘れないで\nくださいね！"
-        ]
+        ],
+        "assetIds": []
       },
       {
         "step": 1,
-        "subStep": 120
+        "subStep": 120,
+        "navigationType": 0,
+        "navigationPositionType": 0,
+        "texts": [],
+        "assetIds": []
       },
       {
         "step": 1,
@@ -1001,7 +1243,8 @@
         "texts": [
           "リフレッシュではコインを消費してアイドルの元気を回復させることができます。",
           "「元気」はお仕事をしていない時に自然回復しますが、リフレッシュではより多くの元気を回復することができます。"
-        ]
+        ],
+        "assetIds": []
       },
       {
         "step": 1,
@@ -1010,16 +1253,22 @@
         "navigationPositionType": 1,
         "texts": [
           "アイドルたちにはいつも元気でいてもらいましょうね！"
-        ]
+        ],
+        "assetIds": []
       }
-    ]
+    ],
+    "unlockConditionId": ""
   },
   {
     "type": 6,
     "stepInfo": [
       {
         "step": 1,
-        "subStep": 100
+        "subStep": 100,
+        "navigationType": 0,
+        "navigationPositionType": 0,
+        "texts": [],
+        "assetIds": []
       },
       {
         "step": 2,
@@ -1028,7 +1277,8 @@
         "navigationPositionType": 3,
         "texts": [
           "ハイスコアライブでは各楽曲の\nスコアで順位を競います"
-        ]
+        ],
+        "assetIds": []
       },
       {
         "step": 2,
@@ -1038,7 +1288,8 @@
         "texts": [
           "挑戦できる楽曲はメインライブを進行すると解放されていきます。",
           "全楽曲の合計ハイスコアを伸ばすと\nミッションから豪華な報酬が\n獲得できます。"
-        ]
+        ],
+        "assetIds": []
       },
       {
         "step": 2,
@@ -1047,16 +1298,22 @@
         "navigationPositionType": 1,
         "texts": [
           "楽曲に合わせてユニット編成を\n工夫し、ハイスコアの更新を\n目指しましょう！"
-        ]
+        ],
+        "assetIds": []
       }
-    ]
+    ],
+    "unlockConditionId": ""
   },
   {
     "type": 7,
     "stepInfo": [
       {
         "step": 1,
-        "subStep": 100
+        "subStep": 100,
+        "navigationType": 0,
+        "navigationPositionType": 0,
+        "texts": [],
+        "assetIds": []
       },
       {
         "step": 2,
@@ -1065,7 +1322,8 @@
         "navigationPositionType": 3,
         "texts": [
           "いよいよVENUSバトルに参加できることになりましたね！"
-        ]
+        ],
+        "assetIds": []
       },
       {
         "step": 2,
@@ -1075,7 +1333,8 @@
         "texts": [
           "対戦相手はこちらから\n選択するみたいです！",
           "VENUSレートの高いユニットは\n強敵ですが、勝利するとレートが\n大きく上昇しますよ！"
-        ]
+        ],
+        "assetIds": []
       },
       {
         "step": 2,
@@ -1084,7 +1343,8 @@
         "navigationPositionType": 1,
         "texts": [
           "定められたシーズン終了時の\nVENUSレートで順位が決定します"
-        ]
+        ],
+        "assetIds": []
       },
       {
         "step": 2,
@@ -1094,16 +1354,22 @@
         "texts": [
           "報酬やランキングはこちらから\n確認できるみたいでっす！",
           "頑張って上位を目指しましょう！"
-        ]
+        ],
+        "assetIds": []
       }
-    ]
+    ],
+    "unlockConditionId": ""
   },
   {
     "type": 8,
     "stepInfo": [
       {
         "step": 1,
-        "subStep": 100
+        "subStep": 100,
+        "navigationType": 0,
+        "navigationPositionType": 0,
+        "texts": [],
+        "assetIds": []
       },
       {
         "step": 2,
@@ -1112,7 +1378,8 @@
         "navigationPositionType": 3,
         "texts": [
           "デイリーライブでは各種アイテムを\nたくさん獲得することができます。"
-        ]
+        ],
+        "assetIds": []
       },
       {
         "step": 2,
@@ -1123,16 +1390,22 @@
           "デイリーライブの開催には、\n「ライブパス」が必要です。",
           "毎日2枚の無料パスが\n配布されますよ！",
           "無料パスは毎日0時にリセット\nされるので、毎日欠かさず\nライブに出ましょう！"
-        ]
+        ],
+        "assetIds": []
       }
-    ]
+    ],
+    "unlockConditionId": ""
   },
   {
     "type": 9,
     "stepInfo": [
       {
         "step": 1,
-        "subStep": 100
+        "subStep": 100,
+        "navigationType": 0,
+        "navigationPositionType": 0,
+        "texts": [],
+        "assetIds": []
       },
       {
         "step": 2,
@@ -1142,7 +1415,8 @@
         "texts": [
           "VENUSタワーはクリアすると\n上のSTAGEへ進めるライブです。",
           "上に進むほど難易度は上昇します。"
-        ]
+        ],
+        "assetIds": []
       },
       {
         "step": 2,
@@ -1152,16 +1426,22 @@
         "texts": [
           "各STAGEをクリアすると豪華な\r\n報酬を獲得することができまっす！",
           "VENUSプログラムでの存在感を\n示すためにも、どんどん進めて\n星見プロの名を知らしめましょー！"
-        ]
+        ],
+        "assetIds": []
       }
-    ]
+    ],
+    "unlockConditionId": ""
   },
   {
     "type": 10,
     "stepInfo": [
       {
         "step": 1,
-        "subStep": 100
+        "subStep": 100,
+        "navigationType": 0,
+        "navigationPositionType": 0,
+        "texts": [],
+        "assetIds": []
       },
       {
         "step": 2,
@@ -1170,7 +1450,8 @@
         "navigationPositionType": 3,
         "texts": [
           "レベルアシストは、Lv上位5名\nのアイドルがトレーナーとなり、\n他アイドルのLvを引き上げます！"
-        ]
+        ],
+        "assetIds": []
       },
       {
         "step": 2,
@@ -1179,7 +1460,8 @@
         "navigationPositionType": 1,
         "texts": [
           "アシスト枠にアイドルを設定すると\nアシストLvまでLvアップします"
-        ]
+        ],
+        "assetIds": []
       },
       {
         "step": 2,
@@ -1189,7 +1471,8 @@
         "texts": [
           "「アシストLv」はLv上位のアイドル5名がトレーナーとなり、一時的に他のアイドルのLvを引き上げることができます。",
           "引き上げられるLvはトレーナーの\n最も低いLvで更新されます。"
-        ]
+        ],
+        "assetIds": []
       },
       {
         "step": 2,
@@ -1198,16 +1481,22 @@
         "navigationPositionType": 1,
         "texts": [
           "仲間同士が高め合う関係って\n素敵ですね！　はぁ～尊いなぁ～"
-        ]
+        ],
+        "assetIds": []
       }
-    ]
+    ],
+    "unlockConditionId": ""
   },
   {
     "type": 11,
     "stepInfo": [
       {
         "step": 1,
-        "subStep": 100
+        "subStep": 100,
+        "navigationType": 0,
+        "navigationPositionType": 0,
+        "texts": [],
+        "assetIds": []
       },
       {
         "step": 2,
@@ -1219,7 +1508,8 @@
           "ユニオン同士でライブバトルを\n行い、最強のユニオンがどこかを\n競い合います。",
           "ユニオンは特定の期間以外は\nいつでも移籍も可能です。",
           "さっそく所属してみましょう。"
-        ]
+        ],
+        "assetIds": []
       },
       {
         "step": 2,
@@ -1230,9 +1520,11 @@
         ],
         "assetIds": [
           "img_tutorial_tips_tips-006"
-        ]
+        ],
+        "navigationPositionType": 0
       }
-    ]
+    ],
+    "unlockConditionId": ""
   },
   {
     "type": 12,
@@ -1244,7 +1536,8 @@
         "navigationPositionType": 3,
         "texts": [
           "VENUSプログラムのランキングが確認できるようになりましたよ！"
-        ]
+        ],
+        "assetIds": []
       },
       {
         "step": 1,
@@ -1255,7 +1548,8 @@
         ],
         "assetIds": [
           "img_tutorial_tips_tips-002"
-        ]
+        ],
+        "navigationPositionType": 0
       },
       {
         "step": 1,
@@ -1264,16 +1558,22 @@
         "navigationPositionType": 3,
         "texts": [
           "目指すはVENUSプログラムの頂点\nですね！"
-        ]
+        ],
+        "assetIds": []
       }
-    ]
+    ],
+    "unlockConditionId": ""
   },
   {
     "type": 14,
     "stepInfo": [
       {
         "step": 1,
-        "subStep": 100
+        "subStep": 100,
+        "navigationType": 0,
+        "navigationPositionType": 0,
+        "texts": [],
+        "assetIds": []
       },
       {
         "step": 2,
@@ -1284,16 +1584,22 @@
         ],
         "assetIds": [
           "img_tutorial_tips_tips-008"
-        ]
+        ],
+        "navigationPositionType": 0
       }
-    ]
+    ],
+    "unlockConditionId": ""
   },
   {
     "type": 15,
     "stepInfo": [
       {
         "step": 1,
-        "subStep": 100
+        "subStep": 100,
+        "navigationType": 0,
+        "navigationPositionType": 0,
+        "texts": [],
+        "assetIds": []
       },
       {
         "step": 2,
@@ -1304,16 +1610,22 @@
         ],
         "assetIds": [
           "img_tutorial_tips_tips-005"
-        ]
+        ],
+        "navigationPositionType": 0
       }
-    ]
+    ],
+    "unlockConditionId": ""
   },
   {
     "type": 16,
     "stepInfo": [
       {
         "step": 1,
-        "subStep": 100
+        "subStep": 100,
+        "navigationType": 0,
+        "navigationPositionType": 0,
+        "texts": [],
+        "assetIds": []
       },
       {
         "step": 1,
@@ -1324,9 +1636,11 @@
         ],
         "assetIds": [
           "img_tutorial_tips_tips-003"
-        ]
+        ],
+        "navigationPositionType": 0
       }
-    ]
+    ],
+    "unlockConditionId": ""
   },
   {
     "type": 18,
@@ -1340,16 +1654,22 @@
         ],
         "assetIds": [
           "img_tutorial_tips_tips-007"
-        ]
+        ],
+        "navigationPositionType": 0
       }
-    ]
+    ],
+    "unlockConditionId": ""
   },
   {
     "type": 19,
     "stepInfo": [
       {
         "step": 1,
-        "subStep": 100
+        "subStep": 100,
+        "navigationType": 0,
+        "navigationPositionType": 0,
+        "texts": [],
+        "assetIds": []
       },
       {
         "step": 2,
@@ -1360,9 +1680,11 @@
         ],
         "assetIds": [
           "img_tutorial_tips_tips-004"
-        ]
+        ],
+        "navigationPositionType": 0
       }
-    ]
+    ],
+    "unlockConditionId": ""
   },
   {
     "type": 20,
@@ -1376,16 +1698,22 @@
         ],
         "assetIds": [
           "img_tutorial_tips_tips-009"
-        ]
+        ],
+        "navigationPositionType": 0
       }
-    ]
+    ],
+    "unlockConditionId": ""
   },
   {
     "type": 21,
     "stepInfo": [
       {
         "step": 1,
-        "subStep": 100
+        "subStep": 100,
+        "navigationType": 0,
+        "navigationPositionType": 0,
+        "texts": [],
+        "assetIds": []
       },
       {
         "step": 2,
@@ -1395,9 +1723,11 @@
         "texts": [
           "掲示板では他のマネージャーさんと交流を行うことができます。",
           "マナーを守って利用しましょう！"
-        ]
+        ],
+        "assetIds": []
       }
-    ]
+    ],
+    "unlockConditionId": ""
   },
   {
     "type": 22,
@@ -1409,7 +1739,8 @@
         "navigationPositionType": 3,
         "texts": [
           "アイドルのレベルが上がったことで\nライブスキルの強化が可能になりました！"
-        ]
+        ],
+        "assetIds": []
       },
       {
         "step": 1,
@@ -1419,9 +1750,11 @@
         "texts": [
           "ライブスキルを強化することで\nより強力な効果になり、ライブで\n活躍してくれます！",
           "強化に必要なスキルパウダーは\nファンイベントで入手することが\nできます。"
-        ]
+        ],
+        "assetIds": []
       }
-    ]
+    ],
+    "unlockConditionId": ""
   },
   {
     "type": 23,
@@ -1435,7 +1768,8 @@
         ],
         "assetIds": [
           "img_tutorial_tips_tips-010"
-        ]
+        ],
+        "navigationPositionType": 0
       },
       {
         "step": 2,
@@ -1446,7 +1780,8 @@
         ],
         "assetIds": [
           "img_tutorial_tips_tips-011"
-        ]
+        ],
+        "navigationPositionType": 0
       },
       {
         "step": 3,
@@ -1457,9 +1792,11 @@
         ],
         "assetIds": [
           "img_tutorial_tips_tips-012"
-        ]
+        ],
+        "navigationPositionType": 0
       }
-    ]
+    ],
+    "unlockConditionId": ""
   },
   {
     "type": 24,
@@ -1473,9 +1810,11 @@
         ],
         "assetIds": [
           "img_tutorial_tips_tips-014"
-        ]
+        ],
+        "navigationPositionType": 0
       }
-    ]
+    ],
+    "unlockConditionId": ""
   },
   {
     "type": 25,
@@ -1489,9 +1828,11 @@
         ],
         "assetIds": [
           "img_tutorial_tips_tips-013"
-        ]
+        ],
+        "navigationPositionType": 0
       }
-    ]
+    ],
+    "unlockConditionId": ""
   },
   {
     "type": 27,
@@ -1505,9 +1846,11 @@
         ],
         "assetIds": [
           "img_tutorial_tips_tips-015"
-        ]
+        ],
+        "navigationPositionType": 0
       }
-    ]
+    ],
+    "unlockConditionId": ""
   },
   {
     "type": 28,
@@ -1521,8 +1864,10 @@
         ],
         "assetIds": [
           "img_tutorial_tips_tips-016"
-        ]
+        ],
+        "navigationPositionType": 0
       }
-    ]
+    ],
+    "unlockConditionId": ""
   }
 ]
