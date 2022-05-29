@@ -7,12 +7,15 @@
     "levels": [
       {
         "level": 1,
-        "name": "カフェ"
+        "name": "カフェ",
+        "viewConditionId": "",
+        "unlockConditionId": ""
       },
       {
         "level": 2,
         "name": "ショッピング",
-        "unlockConditionId": "cd-clear-area-main-021"
+        "unlockConditionId": "cd-clear-area-main-021",
+        "viewConditionId": ""
       },
       {
         "level": 3,
@@ -26,7 +29,8 @@
         "viewConditionId": "cd-clear-area-main-035",
         "unlockConditionId": "cd-clear-area-main-061"
       }
-    ]
+    ],
+    "viewConditionId": ""
   },
   {
     "id": "act-ref-02",
@@ -36,12 +40,15 @@
     "levels": [
       {
         "level": 1,
-        "name": "寮で過ごす"
+        "name": "寮で過ごす",
+        "viewConditionId": "",
+        "unlockConditionId": ""
       },
       {
         "level": 2,
         "name": "テーマパーク",
-        "unlockConditionId": "cd-clear-area-main-026"
+        "unlockConditionId": "cd-clear-area-main-026",
+        "viewConditionId": ""
       },
       {
         "level": 3,
@@ -49,6 +56,7 @@
         "viewConditionId": "cd-clear-area-main-026",
         "unlockConditionId": "cd-clear-area-main-035"
       }
-    ]
+    ],
+    "viewConditionId": ""
   }
 ]

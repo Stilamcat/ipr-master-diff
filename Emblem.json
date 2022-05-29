@@ -5,7 +5,8 @@
     "assetId": "manager_a",
     "isViewableInInactive": true,
     "order": 100,
-    "description": "最初から所持している称号"
+    "description": "最初から所持している称号",
+    "autoProvideConditionId": ""
   },
   {
     "id": "emb-002",
@@ -21,7 +22,9 @@
     "name": "ユニオン統括",
     "assetId": "guild",
     "order": 2000,
-    "description": "ユニオンの指定条件達成"
+    "description": "ユニオンの指定条件達成",
+    "autoProvideConditionId": "",
+    "isViewableInInactive": false
   },
   {
     "id": "emb-004",
@@ -109,84 +112,108 @@
     "name": "Fight oh!!",
     "assetId": "area_1_100",
     "order": 2110,
-    "description": "ハイスコアライブ「Fight oh!!」で100位以内獲得"
+    "description": "ハイスコアライブ「Fight oh!!」で100位以内獲得",
+    "autoProvideConditionId": "",
+    "isViewableInInactive": false
   },
   {
     "id": "emb-015",
     "name": "攻めちゃうんだミライ",
     "assetId": "area_1",
     "order": 2120,
-    "description": "ハイスコアライブ「Fight oh!!」で1位獲得"
+    "description": "ハイスコアライブ「Fight oh!!」で1位獲得",
+    "autoProvideConditionId": "",
+    "isViewableInInactive": false
   },
   {
     "id": "emb-018",
     "name": "Shine Purity",
     "assetId": "area_3_100",
     "order": 2010,
-    "description": "ハイスコアライブ「Shine Purity」で100位以内獲得"
+    "description": "ハイスコアライブ「Shine Purity」で100位以内獲得",
+    "autoProvideConditionId": "",
+    "isViewableInInactive": false
   },
   {
     "id": "emb-019",
     "name": "星を見て輝かせて",
     "assetId": "area_3",
     "order": 2020,
-    "description": "ハイスコアライブ「Shine Purity」で1位獲得"
+    "description": "ハイスコアライブ「Shine Purity」で1位獲得",
+    "autoProvideConditionId": "",
+    "isViewableInInactive": false
   },
   {
     "id": "emb-020",
     "name": "月下儚美",
     "assetId": "area_4_100",
     "order": 2070,
-    "description": "ハイスコアライブ「月下儚美」で100位以内獲得"
+    "description": "ハイスコアライブ「月下儚美」で100位以内獲得",
+    "autoProvideConditionId": "",
+    "isViewableInInactive": false
   },
   {
     "id": "emb-021",
     "name": "月明かり照らす光",
     "assetId": "area_4",
     "order": 2080,
-    "description": "ハイスコアライブ「月下儚美」で1位獲得"
+    "description": "ハイスコアライブ「月下儚美」で1位獲得",
+    "autoProvideConditionId": "",
+    "isViewableInInactive": false
   },
   {
     "id": "emb-024",
     "name": "SUNNY PEACE HARMONY",
     "assetId": "area_6_100",
     "order": 2030,
-    "description": "ハイスコアライブ「SUNNY PEACE HARMONY」で100位以内獲得"
+    "description": "ハイスコアライブ「SUNNY PEACE HARMONY」で100位以内獲得",
+    "autoProvideConditionId": "",
+    "isViewableInInactive": false
   },
   {
     "id": "emb-025",
     "name": "キラキラと輝いて",
     "assetId": "area_6",
     "order": 2040,
-    "description": "ハイスコアライブ「SUNNY PEACE HARMONY」で1位獲得"
+    "description": "ハイスコアライブ「SUNNY PEACE HARMONY」で1位獲得",
+    "autoProvideConditionId": "",
+    "isViewableInInactive": false
   },
   {
     "id": "emb-028",
     "name": "Aile to Yell",
     "assetId": "area_8_100",
     "order": 2050,
-    "description": "ハイスコアライブ「Aile to Yell」で100位以内獲得"
+    "description": "ハイスコアライブ「Aile to Yell」で100位以内獲得",
+    "autoProvideConditionId": "",
+    "isViewableInInactive": false
   },
   {
     "id": "emb-029",
     "name": "まっすぐに届けるよ",
     "assetId": "area_8",
     "order": 2060,
-    "description": "ハイスコアライブ「Aile to Yell」で1位獲得"
+    "description": "ハイスコアライブ「Aile to Yell」で1位獲得",
+    "autoProvideConditionId": "",
+    "isViewableInInactive": false
   },
   {
     "id": "emb-030",
     "name": "Shock out, Dance!!",
     "assetId": "area_9_100",
     "order": 2090,
-    "description": "ハイスコアライブ「Shock out, Dance!!」で100位以内獲得"
+    "description": "ハイスコアライブ「Shock out, Dance!!」で100位以内獲得",
+    "autoProvideConditionId": "",
+    "isViewableInInactive": false
   },
   {
     "id": "emb-031",
     "name": "心を闇から取り戻せ",
     "assetId": "area_9",
     "order": 2100,
-    "description": "ハイスコアライブ「Shock out, Dance!!」で1位獲得"
+    "description": "ハイスコアライブ「Shock out, Dance!!」で1位獲得",
+    "autoProvideConditionId": "",
+    "isViewableInInactive": false
   },
   {
     "id": "emb-032",
@@ -392,7 +419,8 @@
     "assetId": "story_ktn",
     "autoProvideConditionId": "cd-ms-read-message-story-ktn-001-004",
     "order": 3050,
-    "description": "「私に怖いイメージがある」読了"
+    "description": "「私に怖いイメージがある」読了",
+    "isViewableInInactive": false
   },
   {
     "id": "emb-055",
@@ -400,7 +428,8 @@
     "assetId": "story_ngs",
     "autoProvideConditionId": "cd-ms-read-message-story-ngs-001-004",
     "order": 3060,
-    "description": "「こっそりゆず風呂」読了"
+    "description": "「こっそりゆず風呂」読了",
+    "isViewableInInactive": false
   },
   {
     "id": "emb-056",
@@ -408,7 +437,8 @@
     "assetId": "story_mei",
     "autoProvideConditionId": "cd-ms-read-message-story-mei-001-004",
     "order": 3070,
-    "description": "「特殊能力」読了"
+    "description": "「特殊能力」読了",
+    "isViewableInInactive": false
   },
   {
     "id": "emb-057",
@@ -416,7 +446,8 @@
     "assetId": "story_suz",
     "autoProvideConditionId": "cd-ms-read-message-story-suz-001-004",
     "order": 3080,
-    "description": "「ダベデジダワ～！」読了"
+    "description": "「ダベデジダワ～！」読了",
+    "isViewableInInactive": false
   },
   {
     "id": "emb-058",
@@ -424,7 +455,8 @@
     "assetId": "story_ski",
     "autoProvideConditionId": "cd-ms-read-message-story-ski-001-004",
     "order": 3090,
-    "description": "「寮の惨状」読了"
+    "description": "「寮の惨状」読了",
+    "isViewableInInactive": false
   },
   {
     "id": "emb-059",
@@ -432,7 +464,8 @@
     "assetId": "story_skr",
     "autoProvideConditionId": "cd-ms-read-message-story-skr-001-004",
     "order": 3100,
-    "description": "「なかよし大作戦」読了"
+    "description": "「なかよし大作戦」読了",
+    "isViewableInInactive": false
   },
   {
     "id": "emb-060",
@@ -440,7 +473,8 @@
     "assetId": "story_chs",
     "autoProvideConditionId": "cd-ms-read-message-story-chs-001-004",
     "order": 3110,
-    "description": "「クビの危機」読了"
+    "description": "「クビの危機」読了",
+    "isViewableInInactive": false
   },
   {
     "id": "emb-061",
@@ -448,7 +482,8 @@
     "assetId": "story_rei",
     "autoProvideConditionId": "cd-ms-read-message-story-rei-001-004",
     "order": 3120,
-    "description": "「アドバイスの工夫」読了"
+    "description": "「アドバイスの工夫」読了",
+    "isViewableInInactive": false
   },
   {
     "id": "emb-062",
@@ -456,7 +491,8 @@
     "assetId": "story_szk",
     "autoProvideConditionId": "cd-ms-read-message-story-szk-001-004",
     "order": 3130,
-    "description": "「アイドルMCあるある」読了"
+    "description": "「アイドルMCあるある」読了",
+    "isViewableInInactive": false
   },
   {
     "id": "emb-063",
@@ -464,7 +500,8 @@
     "assetId": "story_hrk",
     "autoProvideConditionId": "cd-ms-read-message-story-hrk-001-004",
     "order": 3140,
-    "description": "「オール平均点」読了"
+    "description": "「オール平均点」読了",
+    "isViewableInInactive": false
   },
   {
     "id": "emb-064",
@@ -472,7 +509,8 @@
     "assetId": "story_rui",
     "autoProvideConditionId": "cd-ms-read-message-story-rui-001-004",
     "order": 3150,
-    "description": "「夜遊び禁止」読了"
+    "description": "「夜遊び禁止」読了",
+    "isViewableInInactive": false
   },
   {
     "id": "emb-065",
@@ -480,7 +518,8 @@
     "assetId": "story_yu",
     "autoProvideConditionId": "cd-ms-read-message-story-yu-001-004",
     "order": 3160,
-    "description": "「はんなりとこてこて」読了"
+    "description": "「はんなりとこてこて」読了",
+    "isViewableInInactive": false
   },
   {
     "id": "emb-066",
@@ -488,7 +527,8 @@
     "assetId": "story_smr",
     "autoProvideConditionId": "cd-ms-read-message-story-smr-001-004",
     "order": 3170,
-    "description": "「都会の流行」読了"
+    "description": "「都会の流行」読了",
+    "isViewableInInactive": false
   },
   {
     "id": "emb-067",
@@ -496,7 +536,8 @@
     "assetId": "story_rio",
     "autoProvideConditionId": "cd-ms-read-message-story-rio-001-004",
     "order": 3180,
-    "description": "「保護者同伴」読了"
+    "description": "「保護者同伴」読了",
+    "isViewableInInactive": false
   },
   {
     "id": "emb-068",
@@ -504,7 +545,8 @@
     "assetId": "story_aoi",
     "autoProvideConditionId": "cd-ms-read-message-story-aoi-001-004",
     "order": 3190,
-    "description": "「歌のレッスン」読了"
+    "description": "「歌のレッスン」読了",
+    "isViewableInInactive": false
   },
   {
     "id": "emb-069",
@@ -512,7 +554,8 @@
     "assetId": "story_ai",
     "autoProvideConditionId": "cd-ms-read-message-story-ai-001-004",
     "order": 3200,
-    "description": "「私強そう事件＠お台場」読了"
+    "description": "「私強そう事件＠お台場」読了",
+    "isViewableInInactive": false
   },
   {
     "id": "emb-070",
@@ -520,7 +563,8 @@
     "assetId": "story_kkr",
     "autoProvideConditionId": "cd-ms-read-message-story-kkr-001-004",
     "order": 3210,
-    "description": "「ほめ殺しのこころ」読了"
+    "description": "「ほめ殺しのこころ」読了",
+    "isViewableInInactive": false
   },
   {
     "id": "emb-071",
@@ -861,7 +905,8 @@
     "assetId": "story_tsu",
     "autoProvideConditionId": "cd-st-original-cmn-01-04-24",
     "order": 3010,
-    "description": "星見編4章24話クリア"
+    "description": "星見編4章24話クリア",
+    "isViewableInInactive": false
   },
   {
     "id": "emb-109",
@@ -869,7 +914,8 @@
     "assetId": "story_san",
     "autoProvideConditionId": "cd-st-original-cmn-01-04-24",
     "order": 3020,
-    "description": "星見編4章24話クリア"
+    "description": "星見編4章24話クリア",
+    "isViewableInInactive": false
   },
   {
     "id": "emb-112",
@@ -877,7 +923,8 @@
     "assetId": "camera",
     "autoProvideConditionId": "cd-photo_shoot_total_count_gte-30",
     "order": 6020,
-    "description": "撮影を30回行う"
+    "description": "撮影を30回行う",
+    "isViewableInInactive": false
   },
   {
     "id": "emb-113",
@@ -894,7 +941,8 @@
     "assetId": "writer",
     "autoProvideConditionId": "cd-forum_create_reply_count_gte-1",
     "order": 6030,
-    "description": "掲示板に3回書き込む"
+    "description": "掲示板に3回書き込む",
+    "isViewableInInactive": false
   },
   {
     "id": "emb-115",
@@ -902,7 +950,8 @@
     "assetId": "influencer",
     "autoProvideConditionId": "cd-forum_create_reply_count_gte-30",
     "order": 6040,
-    "description": "掲示板に30回書き込む"
+    "description": "掲示板に30回書き込む",
+    "isViewableInInactive": false
   },
   {
     "id": "emb-116",
@@ -1063,7 +1112,8 @@
     "assetId": "story_ktn-3",
     "autoProvideConditionId": "cd-ms-read-message-story-ktn-003-004",
     "order": 3220,
-    "description": "「私が出来る子ぶった事件」読了"
+    "description": "「私が出来る子ぶった事件」読了",
+    "isViewableInInactive": false
   },
   {
     "id": "emb-141",
@@ -1071,7 +1121,8 @@
     "assetId": "story_ngs-3",
     "autoProvideConditionId": "cd-ms-read-message-story-ngs-003-004",
     "order": 3230,
-    "description": "「星見トピックス」読了"
+    "description": "「星見トピックス」読了",
+    "isViewableInInactive": false
   },
   {
     "id": "emb-142",
@@ -1079,7 +1130,8 @@
     "assetId": "story_mei-3",
     "autoProvideConditionId": "cd-ms-read-message-story-mei-003-004",
     "order": 3240,
-    "description": "「過ぎ去る時間」読了"
+    "description": "「過ぎ去る時間」読了",
+    "isViewableInInactive": false
   },
   {
     "id": "emb-143",
@@ -1087,7 +1139,8 @@
     "assetId": "story_suz-3",
     "autoProvideConditionId": "cd-ms-read-message-story-suz-003-004",
     "order": 3250,
-    "description": "「地球の裏側まで」読了"
+    "description": "「地球の裏側まで」読了",
+    "isViewableInInactive": false
   },
   {
     "id": "emb-144",
@@ -1095,7 +1148,8 @@
     "assetId": "story_ski-3",
     "autoProvideConditionId": "cd-ms-read-message-story-ski-003-004",
     "order": 3260,
-    "description": "「ロボットダンス感」読了"
+    "description": "「ロボットダンス感」読了",
+    "isViewableInInactive": false
   },
   {
     "id": "emb-145",
@@ -1103,7 +1157,8 @@
     "assetId": "story_skr-3",
     "autoProvideConditionId": "cd-ms-read-message-story-skr-003-004",
     "order": 3270,
-    "description": "「さくらの感覚」読了"
+    "description": "「さくらの感覚」読了",
+    "isViewableInInactive": false
   },
   {
     "id": "emb-146",
@@ -1111,7 +1166,8 @@
     "assetId": "story_chs-3",
     "autoProvideConditionId": "cd-ms-read-message-story-chs-003-004",
     "order": 3280,
-    "description": "「ヘビに睨まれたカエル」読了"
+    "description": "「ヘビに睨まれたカエル」読了",
+    "isViewableInInactive": false
   },
   {
     "id": "emb-147",
@@ -1119,7 +1175,8 @@
     "assetId": "story_rei-3",
     "autoProvideConditionId": "cd-ms-read-message-story-rei-003-004",
     "order": 3290,
-    "description": "「ダンスの壁」読了"
+    "description": "「ダンスの壁」読了",
+    "isViewableInInactive": false
   },
   {
     "id": "emb-148",
@@ -1127,7 +1184,8 @@
     "assetId": "story_szk-3",
     "autoProvideConditionId": "cd-ms-read-message-story-szk-003-004",
     "order": 3300,
-    "description": "「兵藤フィッシングクラブ」読了"
+    "description": "「兵藤フィッシングクラブ」読了",
+    "isViewableInInactive": false
   },
   {
     "id": "emb-149",
@@ -1135,7 +1193,8 @@
     "assetId": "story_hrk-3",
     "autoProvideConditionId": "cd-ms-read-message-story-hrk-003-004",
     "order": 3310,
-    "description": "「キャンプのお仕事」読了"
+    "description": "「キャンプのお仕事」読了",
+    "isViewableInInactive": false
   },
   {
     "id": "emb-150",
@@ -1143,7 +1202,8 @@
     "assetId": "story_rui-3",
     "autoProvideConditionId": "cd-ms-read-message-story-rui-003-004",
     "order": 3320,
-    "description": "「眠り姫」読了"
+    "description": "「眠り姫」読了",
+    "isViewableInInactive": false
   },
   {
     "id": "emb-151",
@@ -1151,7 +1211,8 @@
     "assetId": "story_yu-3",
     "autoProvideConditionId": "cd-ms-read-message-story-yu-003-004",
     "order": 3330,
-    "description": "「ほめ殺し」読了"
+    "description": "「ほめ殺し」読了",
+    "isViewableInInactive": false
   },
   {
     "id": "emb-152",
@@ -1159,7 +1220,8 @@
     "assetId": "story_smr-3",
     "autoProvideConditionId": "cd-ms-read-message-story-smr-003-004",
     "order": 3340,
-    "description": "「果物PR」読了"
+    "description": "「果物PR」読了",
+    "isViewableInInactive": false
   },
   {
     "id": "emb-153",
@@ -1167,7 +1229,8 @@
     "assetId": "story_rio-3",
     "autoProvideConditionId": "cd-ms-read-message-story-rio-003-004",
     "order": 3350,
-    "description": "「リズノワのイメージ」読了"
+    "description": "「リズノワのイメージ」読了",
+    "isViewableInInactive": false
   },
   {
     "id": "emb-154",
@@ -1175,7 +1238,8 @@
     "assetId": "story_aoi-3",
     "autoProvideConditionId": "cd-ms-read-message-story-aoi-003-004",
     "order": 3360,
-    "description": "「カニカマと犬」読了"
+    "description": "「カニカマと犬」読了",
+    "isViewableInInactive": false
   },
   {
     "id": "emb-155",
@@ -1183,7 +1247,8 @@
     "assetId": "story_ai-3",
     "autoProvideConditionId": "cd-ms-read-message-story-ai-003-004",
     "order": 3370,
-    "description": "「板前感」読了"
+    "description": "「板前感」読了",
+    "isViewableInInactive": false
   },
   {
     "id": "emb-156",
@@ -1191,7 +1256,8 @@
     "assetId": "story_kkr-3",
     "autoProvideConditionId": "cd-ms-read-message-story-kkr-003-004",
     "order": 3380,
-    "description": "「個性を伸ばそう」読了"
+    "description": "「個性を伸ばそう」読了",
+    "isViewableInInactive": false
   },
   {
     "id": "emb-157",
@@ -1199,7 +1265,8 @@
     "assetId": "birthday_ktn",
     "autoProvideConditionId": "cd-birthday_emb-ktn-1225",
     "order": 3390,
-    "description": "琴乃の誕生日を迎える"
+    "description": "琴乃の誕生日を迎える",
+    "isViewableInInactive": false
   },
   {
     "id": "emb-158",
@@ -1207,7 +1274,8 @@
     "assetId": "birthday_ngs",
     "autoProvideConditionId": "cd-birthday_emb-ngs-0803",
     "order": 3400,
-    "description": "渚の誕生日を迎える"
+    "description": "渚の誕生日を迎える",
+    "isViewableInInactive": false
   },
   {
     "id": "emb-159",
@@ -1215,7 +1283,8 @@
     "assetId": "birthday_mei",
     "autoProvideConditionId": "cd-birthday_emb-mei-0707",
     "order": 3410,
-    "description": "芽衣の誕生日を迎える"
+    "description": "芽衣の誕生日を迎える",
+    "isViewableInInactive": false
   },
   {
     "id": "emb-160",
@@ -1223,7 +1292,8 @@
     "assetId": "birthday_suz",
     "autoProvideConditionId": "cd-birthday_emb-suz-0913",
     "order": 3420,
-    "description": "すずの誕生日を迎える"
+    "description": "すずの誕生日を迎える",
+    "isViewableInInactive": false
   },
   {
     "id": "emb-161",
@@ -1231,7 +1301,8 @@
     "assetId": "birthday_ski",
     "autoProvideConditionId": "cd-birthday_emb-ski-0926",
     "order": 3430,
-    "description": "沙季の誕生日を迎える"
+    "description": "沙季の誕生日を迎える",
+    "isViewableInInactive": false
   },
   {
     "id": "emb-162",
@@ -1239,7 +1310,8 @@
     "assetId": "birthday_skr",
     "autoProvideConditionId": "cd-birthday_emb-skr-0403",
     "order": 3440,
-    "description": "さくらの誕生日を迎える"
+    "description": "さくらの誕生日を迎える",
+    "isViewableInInactive": false
   },
   {
     "id": "emb-163",
@@ -1247,7 +1319,8 @@
     "assetId": "birthday_chs",
     "autoProvideConditionId": "cd-birthday_emb-chs-1122",
     "order": 3450,
-    "description": "千紗の誕生日を迎える"
+    "description": "千紗の誕生日を迎える",
+    "isViewableInInactive": false
   },
   {
     "id": "emb-164",
@@ -1255,7 +1328,8 @@
     "assetId": "birthday_rei",
     "autoProvideConditionId": "cd-birthday_emb-rei-0308",
     "order": 3460,
-    "description": "怜の誕生日を迎える"
+    "description": "怜の誕生日を迎える",
+    "isViewableInInactive": false
   },
   {
     "id": "emb-165",
@@ -1263,7 +1337,8 @@
     "assetId": "birthday_szk",
     "autoProvideConditionId": "cd-birthday_emb-szk-1015",
     "order": 3470,
-    "description": "雫の誕生日を迎える"
+    "description": "雫の誕生日を迎える",
+    "isViewableInInactive": false
   },
   {
     "id": "emb-166",
@@ -1271,7 +1346,8 @@
     "assetId": "birthday_hrk",
     "autoProvideConditionId": "cd-birthday_emb-hrk-0103",
     "order": 3480,
-    "description": "遙子の誕生日を迎える"
+    "description": "遙子の誕生日を迎える",
+    "isViewableInInactive": false
   },
   {
     "id": "emb-167",
@@ -1279,7 +1355,8 @@
     "assetId": "birthday_rio",
     "autoProvideConditionId": "cd-birthday_emb-rio-0828",
     "order": 3490,
-    "description": "莉央の誕生日を迎える"
+    "description": "莉央の誕生日を迎える",
+    "isViewableInInactive": false
   },
   {
     "id": "emb-168",
@@ -1287,7 +1364,8 @@
     "assetId": "birthday_aoi",
     "autoProvideConditionId": "cd-birthday_emb-aoi-0619",
     "order": 3500,
-    "description": "葵の誕生日を迎える"
+    "description": "葵の誕生日を迎える",
+    "isViewableInInactive": false
   },
   {
     "id": "emb-169",
@@ -1295,7 +1373,8 @@
     "assetId": "birthday_ai",
     "autoProvideConditionId": "cd-birthday_emb-ai-0209",
     "order": 3510,
-    "description": "愛の誕生日を迎える"
+    "description": "愛の誕生日を迎える",
+    "isViewableInInactive": false
   },
   {
     "id": "emb-170",
@@ -1303,7 +1382,8 @@
     "assetId": "birthday_kkr",
     "autoProvideConditionId": "cd-birthday_emb-kkr-1206",
     "order": 3520,
-    "description": "こころの誕生日を迎える"
+    "description": "こころの誕生日を迎える",
+    "isViewableInInactive": false
   },
   {
     "id": "emb-171",
@@ -1311,7 +1391,8 @@
     "assetId": "birthday_rui",
     "autoProvideConditionId": "cd-birthday_emb-rui-1111",
     "order": 3530,
-    "description": "瑠依の誕生日を迎える"
+    "description": "瑠依の誕生日を迎える",
+    "isViewableInInactive": false
   },
   {
     "id": "emb-172",
@@ -1319,7 +1400,8 @@
     "assetId": "birthday_yu",
     "autoProvideConditionId": "cd-birthday_emb-yu-0227",
     "order": 3540,
-    "description": "優の誕生日を迎える"
+    "description": "優の誕生日を迎える",
+    "isViewableInInactive": false
   },
   {
     "id": "emb-173",
@@ -1327,35 +1409,44 @@
     "assetId": "birthday_smr",
     "autoProvideConditionId": "cd-birthday_emb-smr-0505",
     "order": 3550,
-    "description": "すみれの誕生日を迎える"
+    "description": "すみれの誕生日を迎える",
+    "isViewableInInactive": false
   },
   {
     "id": "emb-174",
     "name": "Pray for you",
     "assetId": "area_2_100",
     "order": 2130,
-    "description": "ハイスコアライブ「Pray for you」で100位以内獲得"
+    "description": "ハイスコアライブ「Pray for you」で100位以内獲得",
+    "autoProvideConditionId": "",
+    "isViewableInInactive": false
   },
   {
     "id": "emb-175",
     "name": "心はもっと近くなる",
     "assetId": "area_2",
     "order": 2140,
-    "description": "ハイスコアライブ「Pray for you」で1位獲得"
+    "description": "ハイスコアライブ「Pray for you」で1位獲得",
+    "autoProvideConditionId": "",
+    "isViewableInInactive": false
   },
   {
     "id": "emb-176",
     "name": "EVERYDAY! SUNNYDAY!",
     "assetId": "area_7_100",
     "order": 2150,
-    "description": "ハイスコアライブ「EVERYDAY! SUNNYDAY!」で100位以内獲得"
+    "description": "ハイスコアライブ「EVERYDAY! SUNNYDAY!」で100位以内獲得",
+    "autoProvideConditionId": "",
+    "isViewableInInactive": false
   },
   {
     "id": "emb-177",
     "name": "最高のハーモニー",
     "assetId": "area_7",
     "order": 2160,
-    "description": "ハイスコアライブ「EVERYDAY! SUNNYDAY!」で1位獲得"
+    "description": "ハイスコアライブ「EVERYDAY! SUNNYDAY!」で1位獲得",
+    "autoProvideConditionId": "",
+    "isViewableInInactive": false
   },
   {
     "id": "emb-178",
@@ -1372,7 +1463,8 @@
     "assetId": "story_mna",
     "autoProvideConditionId": "cd-ms-read-message-story-mna-001-004",
     "order": 3220,
-    "description": "「発想の転換」読了"
+    "description": "「発想の転換」読了",
+    "isViewableInInactive": false
   },
   {
     "id": "emb-180",
@@ -1389,7 +1481,8 @@
     "assetId": "story_mna-3",
     "autoProvideConditionId": "cd-ms-read-message-story-mna-003-004",
     "order": 3390,
-    "description": "「キミの笑顔」読了"
+    "description": "「キミの笑顔」読了",
+    "isViewableInInactive": false
   },
   {
     "id": "emb-182",
@@ -1397,35 +1490,44 @@
     "assetId": "story_group-mna",
     "autoProvideConditionId": "cd-st-group-mna-01-15",
     "order": 3050,
-    "description": "番外編長瀬麻奈 1章15話クリア"
+    "description": "番外編長瀬麻奈 1章15話クリア",
+    "isViewableInInactive": false
   },
   {
     "id": "emb-183",
     "name": "The One and Only",
     "assetId": "area_5_100",
     "order": 2170,
-    "description": "ハイスコアライブ「The One and Only」で100位以内獲得"
+    "description": "ハイスコアライブ「The One and Only」で100位以内獲得",
+    "autoProvideConditionId": "",
+    "isViewableInInactive": false
   },
   {
     "id": "emb-184",
     "name": "一緒に輝こう",
     "assetId": "area_5",
     "order": 2180,
-    "description": "ハイスコアライブ「The One and Only」で1位獲得"
+    "description": "ハイスコアライブ「The One and Only」で1位獲得",
+    "autoProvideConditionId": "",
+    "isViewableInInactive": false
   },
   {
     "id": "emb-185",
     "name": "réaliser",
     "assetId": "area_10_100",
     "order": 2190,
-    "description": "ハイスコアライブ「réaliser」で100位以内獲得"
+    "description": "ハイスコアライブ「réaliser」で100位以内獲得",
+    "autoProvideConditionId": "",
+    "isViewableInInactive": false
   },
   {
     "id": "emb-186",
     "name": "君となら",
     "assetId": "area_10",
     "order": 2200,
-    "description": "ハイスコアライブ「réaliser」で1位獲得"
+    "description": "ハイスコアライブ「réaliser」で1位獲得",
+    "autoProvideConditionId": "",
+    "isViewableInInactive": false
   },
   {
     "id": "emb-187",
@@ -1433,1091 +1535,1402 @@
     "assetId": "april-001",
     "autoProvideConditionId": "cd-dokan-campaign-april-22-0401-bonus",
     "order": 5175,
-    "description": "アイドル業界の労働環境改善のために戦った"
+    "description": "アイドル業界の労働環境改善のために戦った",
+    "isViewableInInactive": false
   },
   {
     "id": "emb-188",
     "name": "The Last Chance",
     "assetId": "area_11_100",
     "order": 2210,
-    "description": "ハイスコアライブ「The Last Chance」で100位以内獲得"
+    "description": "ハイスコアライブ「The Last Chance」で100位以内獲得",
+    "autoProvideConditionId": "",
+    "isViewableInInactive": false
   },
   {
     "id": "emb-189",
     "name": "焦るな 焦るよ 鼓動が熱い",
     "assetId": "area_11",
     "order": 2220,
-    "description": "ハイスコアライブ「The Last Chance」で1位獲得"
+    "description": "ハイスコアライブ「The Last Chance」で1位獲得",
+    "autoProvideConditionId": "",
+    "isViewableInInactive": false
   },
   {
     "id": "emb-400",
     "name": "[奇跡]",
     "assetId": "emb-cd-5-0001-limited",
     "order": 110,
-    "description": "Collection Album [奇跡] 初回生産限定盤特典"
+    "description": "Collection Album [奇跡] 初回生産限定盤特典",
+    "autoProvideConditionId": "",
+    "isViewableInInactive": false
   },
   {
     "id": "emb-401",
     "name": "[奇跡]",
     "assetId": "emb-cd-5-0001-normal",
     "order": 111,
-    "description": "Collection Album [奇跡] 通常盤特典"
+    "description": "Collection Album [奇跡] 通常盤特典",
+    "autoProvideConditionId": "",
+    "isViewableInInactive": false
   },
   {
     "id": "emb-402",
     "name": "[約束]",
     "assetId": "emb-cd-5-0002-limited",
     "order": 112,
-    "description": "Collection Album [約束] 初回生産限定盤特典"
+    "description": "Collection Album [約束] 初回生産限定盤特典",
+    "autoProvideConditionId": "",
+    "isViewableInInactive": false
   },
   {
     "id": "emb-403",
     "name": "[約束]",
     "assetId": "emb-cd-5-0002-normal",
     "order": 113,
-    "description": "Collection Album [約束] 通常盤特典"
+    "description": "Collection Album [約束] 通常盤特典",
+    "autoProvideConditionId": "",
+    "isViewableInInactive": false
   },
   {
     "id": "emb-404",
     "name": "The SUN",
     "assetId": "sp-the-sun-22-0526",
     "order": 114,
-    "description": "東京編完結記念"
+    "description": "東京編完結記念",
+    "autoProvideConditionId": "",
+    "isViewableInInactive": false
   },
   {
     "id": "emb-500",
     "name": "VENUSシーズン1 No.1",
     "assetId": "pvp-season-001-top001",
     "order": 1011,
-    "description": "VENUSバトルシーズン1で1位獲得"
+    "description": "VENUSバトルシーズン1で1位獲得",
+    "autoProvideConditionId": "",
+    "isViewableInInactive": false
   },
   {
     "id": "emb-501",
     "name": "VENUSシーズン1 TOP10",
     "assetId": "pvp-season-001-top010",
     "order": 1012,
-    "description": "VENUSバトルシーズン1で10位以内獲得"
+    "description": "VENUSバトルシーズン1で10位以内獲得",
+    "autoProvideConditionId": "",
+    "isViewableInInactive": false
   },
   {
     "id": "emb-502",
     "name": "VENUSシーズン1 TOP100",
     "assetId": "pvp-season-001-top100",
     "order": 1013,
-    "description": "VENUSバトルシーズン1で100位以内獲得"
+    "description": "VENUSバトルシーズン1で100位以内獲得",
+    "autoProvideConditionId": "",
+    "isViewableInInactive": false
   },
   {
     "id": "emb-503",
     "name": "VENUSシーズン2 No.1",
     "assetId": "pvp-season-002-top001",
     "order": 1021,
-    "description": "VENUSバトルシーズン2で1位獲得"
+    "description": "VENUSバトルシーズン2で1位獲得",
+    "autoProvideConditionId": "",
+    "isViewableInInactive": false
   },
   {
     "id": "emb-504",
     "name": "VENUSシーズン2 TOP10",
     "assetId": "pvp-season-002-top010",
     "order": 1022,
-    "description": "VENUSバトルシーズン2で10位以内獲得"
+    "description": "VENUSバトルシーズン2で10位以内獲得",
+    "autoProvideConditionId": "",
+    "isViewableInInactive": false
   },
   {
     "id": "emb-505",
     "name": "VENUSシーズン2 TOP100",
     "assetId": "pvp-season-002-top100",
     "order": 1023,
-    "description": "VENUSバトルシーズン2で100位以内獲得"
+    "description": "VENUSバトルシーズン2で100位以内獲得",
+    "autoProvideConditionId": "",
+    "isViewableInInactive": false
   },
   {
     "id": "emb-506",
     "name": "VENUSシーズン3 No.1",
     "assetId": "pvp-season-003-top001",
     "order": 1031,
-    "description": "VENUSバトルシーズン3で1位獲得"
+    "description": "VENUSバトルシーズン3で1位獲得",
+    "autoProvideConditionId": "",
+    "isViewableInInactive": false
   },
   {
     "id": "emb-507",
     "name": "VENUSシーズン3 TOP10",
     "assetId": "pvp-season-003-top010",
     "order": 1032,
-    "description": "VENUSバトルシーズン3で10位以内獲得"
+    "description": "VENUSバトルシーズン3で10位以内獲得",
+    "autoProvideConditionId": "",
+    "isViewableInInactive": false
   },
   {
     "id": "emb-508",
     "name": "VENUSシーズン3 TOP100",
     "assetId": "pvp-season-003-top100",
     "order": 1033,
-    "description": "VENUSバトルシーズン3で100位以内獲得"
+    "description": "VENUSバトルシーズン3で100位以内獲得",
+    "autoProvideConditionId": "",
+    "isViewableInInactive": false
   },
   {
     "id": "emb-509",
     "name": "VENUSシーズン4 No.1",
     "assetId": "pvp-season-004-top001",
     "order": 1041,
-    "description": "VENUSバトルシーズン4で1位獲得"
+    "description": "VENUSバトルシーズン4で1位獲得",
+    "autoProvideConditionId": "",
+    "isViewableInInactive": false
   },
   {
     "id": "emb-510",
     "name": "VENUSシーズン4 TOP10",
     "assetId": "pvp-season-004-top010",
     "order": 1042,
-    "description": "VENUSバトルシーズン4で10位以内獲得"
+    "description": "VENUSバトルシーズン4で10位以内獲得",
+    "autoProvideConditionId": "",
+    "isViewableInInactive": false
   },
   {
     "id": "emb-511",
     "name": "VENUSシーズン4 TOP100",
     "assetId": "pvp-season-004-top100",
     "order": 1043,
-    "description": "VENUSバトルシーズン4で100位以内獲得"
+    "description": "VENUSバトルシーズン4で100位以内獲得",
+    "autoProvideConditionId": "",
+    "isViewableInInactive": false
   },
   {
     "id": "emb-512",
     "name": "VENUSシーズン5 No.1",
     "assetId": "pvp-season-005-top001",
     "order": 1051,
-    "description": "VENUSバトルシーズン5で1位獲得"
+    "description": "VENUSバトルシーズン5で1位獲得",
+    "autoProvideConditionId": "",
+    "isViewableInInactive": false
   },
   {
     "id": "emb-513",
     "name": "VENUSシーズン5 TOP10",
     "assetId": "pvp-season-005-top010",
     "order": 1052,
-    "description": "VENUSバトルシーズン5で10位以内獲得"
+    "description": "VENUSバトルシーズン5で10位以内獲得",
+    "autoProvideConditionId": "",
+    "isViewableInInactive": false
   },
   {
     "id": "emb-514",
     "name": "VENUSシーズン5 TOP100",
     "assetId": "pvp-season-005-top100",
     "order": 1053,
-    "description": "VENUSバトルシーズン5で100位以内獲得"
+    "description": "VENUSバトルシーズン5で100位以内獲得",
+    "autoProvideConditionId": "",
+    "isViewableInInactive": false
   },
   {
     "id": "emb-515",
     "name": "VENUSシーズン6 No.1",
     "assetId": "pvp-season-006-top001",
     "order": 1061,
-    "description": "VENUSバトルシーズン6で1位獲得"
+    "description": "VENUSバトルシーズン6で1位獲得",
+    "autoProvideConditionId": "",
+    "isViewableInInactive": false
   },
   {
     "id": "emb-516",
     "name": "VENUSシーズン6 TOP10",
     "assetId": "pvp-season-006-top010",
     "order": 1062,
-    "description": "VENUSバトルシーズン6で10位以内獲得"
+    "description": "VENUSバトルシーズン6で10位以内獲得",
+    "autoProvideConditionId": "",
+    "isViewableInInactive": false
   },
   {
     "id": "emb-517",
     "name": "VENUSシーズン6 TOP100",
     "assetId": "pvp-season-006-top100",
     "order": 1063,
-    "description": "VENUSバトルシーズン6で100位以内獲得"
+    "description": "VENUSバトルシーズン6で100位以内獲得",
+    "autoProvideConditionId": "",
+    "isViewableInInactive": false
   },
   {
     "id": "emb-518",
     "name": "VENUSシーズン7 No.1",
     "assetId": "pvp-season-007-top001",
     "order": 1071,
-    "description": "VENUSバトルシーズン7で1位獲得"
+    "description": "VENUSバトルシーズン7で1位獲得",
+    "autoProvideConditionId": "",
+    "isViewableInInactive": false
   },
   {
     "id": "emb-519",
     "name": "VENUSシーズン7 TOP10",
     "assetId": "pvp-season-007-top010",
     "order": 1072,
-    "description": "VENUSバトルシーズン7で10位以内獲得"
+    "description": "VENUSバトルシーズン7で10位以内獲得",
+    "autoProvideConditionId": "",
+    "isViewableInInactive": false
   },
   {
     "id": "emb-520",
     "name": "VENUSシーズン7 TOP100",
     "assetId": "pvp-season-007-top100",
     "order": 1073,
-    "description": "VENUSバトルシーズン7で100位以内獲得"
+    "description": "VENUSバトルシーズン7で100位以内獲得",
+    "autoProvideConditionId": "",
+    "isViewableInInactive": false
   },
   {
     "id": "emb-521",
     "name": "VENUSシーズン8 No.1",
     "assetId": "pvp-season-008-top001",
     "order": 1081,
-    "description": "VENUSバトルシーズン8で1位獲得"
+    "description": "VENUSバトルシーズン8で1位獲得",
+    "autoProvideConditionId": "",
+    "isViewableInInactive": false
   },
   {
     "id": "emb-522",
     "name": "VENUSシーズン8 TOP10",
     "assetId": "pvp-season-008-top010",
     "order": 1082,
-    "description": "VENUSバトルシーズン8で10位以内獲得"
+    "description": "VENUSバトルシーズン8で10位以内獲得",
+    "autoProvideConditionId": "",
+    "isViewableInInactive": false
   },
   {
     "id": "emb-523",
     "name": "VENUSシーズン8 TOP100",
     "assetId": "pvp-season-008-top100",
     "order": 1083,
-    "description": "VENUSバトルシーズン8で100位以内獲得"
+    "description": "VENUSバトルシーズン8で100位以内獲得",
+    "autoProvideConditionId": "",
+    "isViewableInInactive": false
   },
   {
     "id": "emb-524",
     "name": "VENUSシーズン9 No.1",
     "assetId": "pvp-season-009-top001",
     "order": 1091,
-    "description": "VENUSバトルシーズン9で1位獲得"
+    "description": "VENUSバトルシーズン9で1位獲得",
+    "autoProvideConditionId": "",
+    "isViewableInInactive": false
   },
   {
     "id": "emb-525",
     "name": "VENUSシーズン9 TOP10",
     "assetId": "pvp-season-009-top010",
     "order": 1092,
-    "description": "VENUSバトルシーズン9で10位以内獲得"
+    "description": "VENUSバトルシーズン9で10位以内獲得",
+    "autoProvideConditionId": "",
+    "isViewableInInactive": false
   },
   {
     "id": "emb-526",
     "name": "VENUSシーズン9 TOP100",
     "assetId": "pvp-season-009-top100",
     "order": 1093,
-    "description": "VENUSバトルシーズン9で100位以内獲得"
+    "description": "VENUSバトルシーズン9で100位以内獲得",
+    "autoProvideConditionId": "",
+    "isViewableInInactive": false
   },
   {
     "id": "emb-527",
     "name": "VENUSシーズン10 No.1",
     "assetId": "pvp-season-010-top001",
     "order": 1101,
-    "description": "VENUSバトルシーズン10で1位獲得"
+    "description": "VENUSバトルシーズン10で1位獲得",
+    "autoProvideConditionId": "",
+    "isViewableInInactive": false
   },
   {
     "id": "emb-528",
     "name": "VENUSシーズン10 TOP10",
     "assetId": "pvp-season-010-top010",
     "order": 1102,
-    "description": "VENUSバトルシーズン10で10位以内獲得"
+    "description": "VENUSバトルシーズン10で10位以内獲得",
+    "autoProvideConditionId": "",
+    "isViewableInInactive": false
   },
   {
     "id": "emb-529",
     "name": "VENUSシーズン10 TOP100",
     "assetId": "pvp-season-010-top100",
     "order": 1103,
-    "description": "VENUSバトルシーズン10で100位以内獲得"
+    "description": "VENUSバトルシーズン10で100位以内獲得",
+    "autoProvideConditionId": "",
+    "isViewableInInactive": false
   },
   {
     "id": "emb-530",
     "name": "VENUSシーズン11 No.1",
     "assetId": "pvp-season-011-top001",
     "order": 1111,
-    "description": "VENUSバトルシーズン11で1位獲得"
+    "description": "VENUSバトルシーズン11で1位獲得",
+    "autoProvideConditionId": "",
+    "isViewableInInactive": false
   },
   {
     "id": "emb-531",
     "name": "VENUSシーズン11 TOP10",
     "assetId": "pvp-season-011-top010",
     "order": 1112,
-    "description": "VENUSバトルシーズン11で10位以内獲得"
+    "description": "VENUSバトルシーズン11で10位以内獲得",
+    "autoProvideConditionId": "",
+    "isViewableInInactive": false
   },
   {
     "id": "emb-532",
     "name": "VENUSシーズン11 TOP100",
     "assetId": "pvp-season-011-top100",
     "order": 1113,
-    "description": "VENUSバトルシーズン11で100位以内獲得"
+    "description": "VENUSバトルシーズン11で100位以内獲得",
+    "autoProvideConditionId": "",
+    "isViewableInInactive": false
   },
   {
     "id": "emb-533",
     "name": "VENUSシーズン12 No.1",
     "assetId": "pvp-season-012-top001",
     "order": 1121,
-    "description": "VENUSバトルシーズン12で1位獲得"
+    "description": "VENUSバトルシーズン12で1位獲得",
+    "autoProvideConditionId": "",
+    "isViewableInInactive": false
   },
   {
     "id": "emb-534",
     "name": "VENUSシーズン12 TOP10",
     "assetId": "pvp-season-012-top010",
     "order": 1122,
-    "description": "VENUSバトルシーズン12で10位以内獲得"
+    "description": "VENUSバトルシーズン12で10位以内獲得",
+    "autoProvideConditionId": "",
+    "isViewableInInactive": false
   },
   {
     "id": "emb-535",
     "name": "VENUSシーズン12 TOP100",
     "assetId": "pvp-season-012-top100",
     "order": 1123,
-    "description": "VENUSバトルシーズン12で100位以内獲得"
+    "description": "VENUSバトルシーズン12で100位以内獲得",
+    "autoProvideConditionId": "",
+    "isViewableInInactive": false
   },
   {
     "id": "emb-536",
     "name": "VENUSシーズン13 No.1",
     "assetId": "pvp-season-013-top001",
     "order": 1131,
-    "description": "VENUSバトルシーズン13で1位獲得"
+    "description": "VENUSバトルシーズン13で1位獲得",
+    "autoProvideConditionId": "",
+    "isViewableInInactive": false
   },
   {
     "id": "emb-537",
     "name": "VENUSシーズン13 TOP10",
     "assetId": "pvp-season-013-top010",
     "order": 1132,
-    "description": "VENUSバトルシーズン13で10位以内獲得"
+    "description": "VENUSバトルシーズン13で10位以内獲得",
+    "autoProvideConditionId": "",
+    "isViewableInInactive": false
   },
   {
     "id": "emb-538",
     "name": "VENUSシーズン13 TOP100",
     "assetId": "pvp-season-013-top100",
     "order": 1133,
-    "description": "VENUSバトルシーズン13で100位以内獲得"
+    "description": "VENUSバトルシーズン13で100位以内獲得",
+    "autoProvideConditionId": "",
+    "isViewableInInactive": false
   },
   {
     "id": "emb-539",
     "name": "VENUSシーズン14 No.1",
     "assetId": "pvp-season-014-top001",
     "order": 1141,
-    "description": "VENUSバトルシーズン14で1位獲得"
+    "description": "VENUSバトルシーズン14で1位獲得",
+    "autoProvideConditionId": "",
+    "isViewableInInactive": false
   },
   {
     "id": "emb-540",
     "name": "VENUSシーズン14 TOP10",
     "assetId": "pvp-season-014-top010",
     "order": 1142,
-    "description": "VENUSバトルシーズン14で10位以内獲得"
+    "description": "VENUSバトルシーズン14で10位以内獲得",
+    "autoProvideConditionId": "",
+    "isViewableInInactive": false
   },
   {
     "id": "emb-541",
     "name": "VENUSシーズン14 TOP100",
     "assetId": "pvp-season-014-top100",
     "order": 1143,
-    "description": "VENUSバトルシーズン14で100位以内獲得"
+    "description": "VENUSバトルシーズン14で100位以内獲得",
+    "autoProvideConditionId": "",
+    "isViewableInInactive": false
   },
   {
     "id": "emb-542",
     "name": "VENUSシーズン15 No.1",
     "assetId": "pvp-season-015-top001",
     "order": 1151,
-    "description": "VENUSバトルシーズン15で1位獲得"
+    "description": "VENUSバトルシーズン15で1位獲得",
+    "autoProvideConditionId": "",
+    "isViewableInInactive": false
   },
   {
     "id": "emb-543",
     "name": "VENUSシーズン15 TOP10",
     "assetId": "pvp-season-015-top010",
     "order": 1152,
-    "description": "VENUSバトルシーズン15で10位以内獲得"
+    "description": "VENUSバトルシーズン15で10位以内獲得",
+    "autoProvideConditionId": "",
+    "isViewableInInactive": false
   },
   {
     "id": "emb-544",
     "name": "VENUSシーズン15 TOP100",
     "assetId": "pvp-season-015-top100",
     "order": 1153,
-    "description": "VENUSバトルシーズン15で100位以内獲得"
+    "description": "VENUSバトルシーズン15で100位以内獲得",
+    "autoProvideConditionId": "",
+    "isViewableInInactive": false
   },
   {
     "id": "emb-545",
     "name": "VENUSシーズン16 No.1",
     "assetId": "pvp-season-016-top001",
     "order": 1161,
-    "description": "VENUSバトルシーズン16で1位獲得"
+    "description": "VENUSバトルシーズン16で1位獲得",
+    "autoProvideConditionId": "",
+    "isViewableInInactive": false
   },
   {
     "id": "emb-546",
     "name": "VENUSシーズン16 TOP10",
     "assetId": "pvp-season-016-top010",
     "order": 1162,
-    "description": "VENUSバトルシーズン16で10位以内獲得"
+    "description": "VENUSバトルシーズン16で10位以内獲得",
+    "autoProvideConditionId": "",
+    "isViewableInInactive": false
   },
   {
     "id": "emb-547",
     "name": "VENUSシーズン16 TOP100",
     "assetId": "pvp-season-016-top100",
     "order": 1163,
-    "description": "VENUSバトルシーズン16で100位以内獲得"
+    "description": "VENUSバトルシーズン16で100位以内獲得",
+    "autoProvideConditionId": "",
+    "isViewableInInactive": false
   },
   {
     "id": "emb-548",
     "name": "VENUSシーズン17 No.1",
     "assetId": "pvp-season-017-top001",
     "order": 1171,
-    "description": "VENUSバトルシーズン17で1位獲得"
+    "description": "VENUSバトルシーズン17で1位獲得",
+    "autoProvideConditionId": "",
+    "isViewableInInactive": false
   },
   {
     "id": "emb-549",
     "name": "VENUSシーズン17 TOP10",
     "assetId": "pvp-season-017-top010",
     "order": 1172,
-    "description": "VENUSバトルシーズン17で10位以内獲得"
+    "description": "VENUSバトルシーズン17で10位以内獲得",
+    "autoProvideConditionId": "",
+    "isViewableInInactive": false
   },
   {
     "id": "emb-550",
     "name": "VENUSシーズン17 TOP100",
     "assetId": "pvp-season-017-top100",
     "order": 1173,
-    "description": "VENUSバトルシーズン17で100位以内獲得"
+    "description": "VENUSバトルシーズン17で100位以内獲得",
+    "autoProvideConditionId": "",
+    "isViewableInInactive": false
   },
   {
     "id": "emb-551",
     "name": "VENUSシーズン18 No.1",
     "assetId": "pvp-season-018-top001",
     "order": 1181,
-    "description": "VENUSバトルシーズン18で1位獲得"
+    "description": "VENUSバトルシーズン18で1位獲得",
+    "autoProvideConditionId": "",
+    "isViewableInInactive": false
   },
   {
     "id": "emb-552",
     "name": "VENUSシーズン18 TOP10",
     "assetId": "pvp-season-018-top010",
     "order": 1182,
-    "description": "VENUSバトルシーズン18で10位以内獲得"
+    "description": "VENUSバトルシーズン18で10位以内獲得",
+    "autoProvideConditionId": "",
+    "isViewableInInactive": false
   },
   {
     "id": "emb-553",
     "name": "VENUSシーズン18 TOP100",
     "assetId": "pvp-season-018-top100",
     "order": 1183,
-    "description": "VENUSバトルシーズン18で100位以内獲得"
+    "description": "VENUSバトルシーズン18で100位以内獲得",
+    "autoProvideConditionId": "",
+    "isViewableInInactive": false
   },
   {
     "id": "emb-554",
     "name": "VENUSシーズン19 No.1",
     "assetId": "pvp-season-019-top001",
     "order": 1191,
-    "description": "VENUSバトルシーズン19で1位獲得"
+    "description": "VENUSバトルシーズン19で1位獲得",
+    "autoProvideConditionId": "",
+    "isViewableInInactive": false
   },
   {
     "id": "emb-555",
     "name": "VENUSシーズン19 TOP10",
     "assetId": "pvp-season-019-top010",
     "order": 1192,
-    "description": "VENUSバトルシーズン19で10位以内獲得"
+    "description": "VENUSバトルシーズン19で10位以内獲得",
+    "autoProvideConditionId": "",
+    "isViewableInInactive": false
   },
   {
     "id": "emb-556",
     "name": "VENUSシーズン19 TOP100",
     "assetId": "pvp-season-019-top100",
     "order": 1193,
-    "description": "VENUSバトルシーズン19で100位以内獲得"
+    "description": "VENUSバトルシーズン19で100位以内獲得",
+    "autoProvideConditionId": "",
+    "isViewableInInactive": false
   },
   {
     "id": "emb-557",
     "name": "VENUSシーズン20 No.1",
     "assetId": "pvp-season-020-top001",
     "order": 1201,
-    "description": "VENUSバトルシーズン20で1位獲得"
+    "description": "VENUSバトルシーズン20で1位獲得",
+    "autoProvideConditionId": "",
+    "isViewableInInactive": false
   },
   {
     "id": "emb-558",
     "name": "VENUSシーズン20 TOP10",
     "assetId": "pvp-season-020-top010",
     "order": 1202,
-    "description": "VENUSバトルシーズン20で10位以内獲得"
+    "description": "VENUSバトルシーズン20で10位以内獲得",
+    "autoProvideConditionId": "",
+    "isViewableInInactive": false
   },
   {
     "id": "emb-559",
     "name": "VENUSシーズン20 TOP100",
     "assetId": "pvp-season-020-top100",
     "order": 1203,
-    "description": "VENUSバトルシーズン20で100位以内獲得"
+    "description": "VENUSバトルシーズン20で100位以内獲得",
+    "autoProvideConditionId": "",
+    "isViewableInInactive": false
   },
   {
     "id": "emb-560",
     "name": "VENUSシーズン21 No.1",
     "assetId": "pvp-season-021-top001",
     "order": 1211,
-    "description": "VENUSバトルシーズン21で1位獲得"
+    "description": "VENUSバトルシーズン21で1位獲得",
+    "autoProvideConditionId": "",
+    "isViewableInInactive": false
   },
   {
     "id": "emb-561",
     "name": "VENUSシーズン21 TOP10",
     "assetId": "pvp-season-021-top010",
     "order": 1212,
-    "description": "VENUSバトルシーズン21で10位以内獲得"
+    "description": "VENUSバトルシーズン21で10位以内獲得",
+    "autoProvideConditionId": "",
+    "isViewableInInactive": false
   },
   {
     "id": "emb-562",
     "name": "VENUSシーズン21 TOP100",
     "assetId": "pvp-season-021-top100",
     "order": 1213,
-    "description": "VENUSバトルシーズン21で100位以内獲得"
+    "description": "VENUSバトルシーズン21で100位以内獲得",
+    "autoProvideConditionId": "",
+    "isViewableInInactive": false
   },
   {
     "id": "emb-563",
     "name": "VENUSシーズン22 No.1",
     "assetId": "pvp-season-022-top001",
     "order": 1221,
-    "description": "VENUSバトルシーズン22で1位獲得"
+    "description": "VENUSバトルシーズン22で1位獲得",
+    "autoProvideConditionId": "",
+    "isViewableInInactive": false
   },
   {
     "id": "emb-564",
     "name": "VENUSシーズン22 TOP10",
     "assetId": "pvp-season-022-top010",
     "order": 1222,
-    "description": "VENUSバトルシーズン22で10位以内獲得"
+    "description": "VENUSバトルシーズン22で10位以内獲得",
+    "autoProvideConditionId": "",
+    "isViewableInInactive": false
   },
   {
     "id": "emb-565",
     "name": "VENUSシーズン22 TOP100",
     "assetId": "pvp-season-022-top100",
     "order": 1223,
-    "description": "VENUSバトルシーズン22で100位以内獲得"
+    "description": "VENUSバトルシーズン22で100位以内獲得",
+    "autoProvideConditionId": "",
+    "isViewableInInactive": false
   },
   {
     "id": "emb-566",
     "name": "VENUSシーズン23 No.1",
     "assetId": "pvp-season-023-top001",
     "order": 1231,
-    "description": "VENUSバトルシーズン23で1位獲得"
+    "description": "VENUSバトルシーズン23で1位獲得",
+    "autoProvideConditionId": "",
+    "isViewableInInactive": false
   },
   {
     "id": "emb-567",
     "name": "VENUSシーズン23 TOP10",
     "assetId": "pvp-season-023-top010",
     "order": 1232,
-    "description": "VENUSバトルシーズン23で10位以内獲得"
+    "description": "VENUSバトルシーズン23で10位以内獲得",
+    "autoProvideConditionId": "",
+    "isViewableInInactive": false
   },
   {
     "id": "emb-568",
     "name": "VENUSシーズン23 TOP100",
     "assetId": "pvp-season-023-top100",
     "order": 1233,
-    "description": "VENUSバトルシーズン23で100位以内獲得"
+    "description": "VENUSバトルシーズン23で100位以内獲得",
+    "autoProvideConditionId": "",
+    "isViewableInInactive": false
   },
   {
     "id": "emb-569",
     "name": "VENUSシーズン24 No.1",
     "assetId": "pvp-season-024-top001",
     "order": 1241,
-    "description": "VENUSバトルシーズン24で1位獲得"
+    "description": "VENUSバトルシーズン24で1位獲得",
+    "autoProvideConditionId": "",
+    "isViewableInInactive": false
   },
   {
     "id": "emb-570",
     "name": "VENUSシーズン24 TOP10",
     "assetId": "pvp-season-024-top010",
     "order": 1242,
-    "description": "VENUSバトルシーズン24で10位以内獲得"
+    "description": "VENUSバトルシーズン24で10位以内獲得",
+    "autoProvideConditionId": "",
+    "isViewableInInactive": false
   },
   {
     "id": "emb-571",
     "name": "VENUSシーズン24 TOP100",
     "assetId": "pvp-season-024-top100",
     "order": 1243,
-    "description": "VENUSバトルシーズン24で100位以内獲得"
+    "description": "VENUSバトルシーズン24で100位以内獲得",
+    "autoProvideConditionId": "",
+    "isViewableInInactive": false
   },
   {
     "id": "emb-572",
     "name": "VENUSシーズン25 No.1",
     "assetId": "pvp-season-025-top001",
     "order": 1251,
-    "description": "VENUSバトルシーズン25で1位獲得"
+    "description": "VENUSバトルシーズン25で1位獲得",
+    "autoProvideConditionId": "",
+    "isViewableInInactive": false
   },
   {
     "id": "emb-573",
     "name": "VENUSシーズン25 TOP10",
     "assetId": "pvp-season-025-top010",
     "order": 1252,
-    "description": "VENUSバトルシーズン25で10位以内獲得"
+    "description": "VENUSバトルシーズン25で10位以内獲得",
+    "autoProvideConditionId": "",
+    "isViewableInInactive": false
   },
   {
     "id": "emb-574",
     "name": "VENUSシーズン25 TOP100",
     "assetId": "pvp-season-025-top100",
     "order": 1253,
-    "description": "VENUSバトルシーズン25で100位以内獲得"
+    "description": "VENUSバトルシーズン25で100位以内獲得",
+    "autoProvideConditionId": "",
+    "isViewableInInactive": false
   },
   {
     "id": "emb-575",
     "name": "VENUSシーズン26 No.1",
     "assetId": "pvp-season-026-top001",
     "order": 1261,
-    "description": "VENUSバトルシーズン26で1位獲得"
+    "description": "VENUSバトルシーズン26で1位獲得",
+    "autoProvideConditionId": "",
+    "isViewableInInactive": false
   },
   {
     "id": "emb-576",
     "name": "VENUSシーズン26 TOP10",
     "assetId": "pvp-season-026-top010",
     "order": 1262,
-    "description": "VENUSバトルシーズン26で10位以内獲得"
+    "description": "VENUSバトルシーズン26で10位以内獲得",
+    "autoProvideConditionId": "",
+    "isViewableInInactive": false
   },
   {
     "id": "emb-577",
     "name": "VENUSシーズン26 TOP100",
     "assetId": "pvp-season-026-top100",
     "order": 1263,
-    "description": "VENUSバトルシーズン26で100位以内獲得"
+    "description": "VENUSバトルシーズン26で100位以内獲得",
+    "autoProvideConditionId": "",
+    "isViewableInInactive": false
   },
   {
     "id": "emb-578",
     "name": "VENUSシーズン27 No.1",
     "assetId": "pvp-season-027-top001",
     "order": 1271,
-    "description": "VENUSバトルシーズン27で1位獲得"
+    "description": "VENUSバトルシーズン27で1位獲得",
+    "autoProvideConditionId": "",
+    "isViewableInInactive": false
   },
   {
     "id": "emb-579",
     "name": "VENUSシーズン27 TOP10",
     "assetId": "pvp-season-027-top010",
     "order": 1272,
-    "description": "VENUSバトルシーズン27で10位以内獲得"
+    "description": "VENUSバトルシーズン27で10位以内獲得",
+    "autoProvideConditionId": "",
+    "isViewableInInactive": false
   },
   {
     "id": "emb-580",
     "name": "VENUSシーズン27 TOP100",
     "assetId": "pvp-season-027-top100",
     "order": 1273,
-    "description": "VENUSバトルシーズン27で100位以内獲得"
+    "description": "VENUSバトルシーズン27で100位以内獲得",
+    "autoProvideConditionId": "",
+    "isViewableInInactive": false
   },
   {
     "id": "emb-581",
     "name": "VENUSシーズン28 No.1",
     "assetId": "pvp-season-028-top001",
     "order": 1281,
-    "description": "VENUSバトルシーズン28で1位獲得"
+    "description": "VENUSバトルシーズン28で1位獲得",
+    "autoProvideConditionId": "",
+    "isViewableInInactive": false
   },
   {
     "id": "emb-582",
     "name": "VENUSシーズン28 TOP10",
     "assetId": "pvp-season-028-top010",
     "order": 1282,
-    "description": "VENUSバトルシーズン28で10位以内獲得"
+    "description": "VENUSバトルシーズン28で10位以内獲得",
+    "autoProvideConditionId": "",
+    "isViewableInInactive": false
   },
   {
     "id": "emb-583",
     "name": "VENUSシーズン28 TOP100",
     "assetId": "pvp-season-028-top100",
     "order": 1283,
-    "description": "VENUSバトルシーズン28で100位以内獲得"
+    "description": "VENUSバトルシーズン28で100位以内獲得",
+    "autoProvideConditionId": "",
+    "isViewableInInactive": false
   },
   {
     "id": "emb-584",
     "name": "VENUSシーズン29 No.1",
     "assetId": "pvp-season-029-top001",
     "order": 1291,
-    "description": "VENUSバトルシーズン29で1位獲得"
+    "description": "VENUSバトルシーズン29で1位獲得",
+    "autoProvideConditionId": "",
+    "isViewableInInactive": false
   },
   {
     "id": "emb-585",
     "name": "VENUSシーズン29 TOP10",
     "assetId": "pvp-season-029-top010",
     "order": 1292,
-    "description": "VENUSバトルシーズン29で10位以内獲得"
+    "description": "VENUSバトルシーズン29で10位以内獲得",
+    "autoProvideConditionId": "",
+    "isViewableInInactive": false
   },
   {
     "id": "emb-586",
     "name": "VENUSシーズン29 TOP100",
     "assetId": "pvp-season-029-top100",
     "order": 1293,
-    "description": "VENUSバトルシーズン29で100位以内獲得"
+    "description": "VENUSバトルシーズン29で100位以内獲得",
+    "autoProvideConditionId": "",
+    "isViewableInInactive": false
   },
   {
     "id": "emb-587",
     "name": "VENUSシーズン30 No.1",
     "assetId": "pvp-season-030-top001",
     "order": 1301,
-    "description": "VENUSバトルシーズン30で1位獲得"
+    "description": "VENUSバトルシーズン30で1位獲得",
+    "autoProvideConditionId": "",
+    "isViewableInInactive": false
   },
   {
     "id": "emb-588",
     "name": "VENUSシーズン30 TOP10",
     "assetId": "pvp-season-030-top010",
     "order": 1302,
-    "description": "VENUSバトルシーズン30で10位以内獲得"
+    "description": "VENUSバトルシーズン30で10位以内獲得",
+    "autoProvideConditionId": "",
+    "isViewableInInactive": false
   },
   {
     "id": "emb-589",
     "name": "VENUSシーズン30 TOP100",
     "assetId": "pvp-season-030-top100",
     "order": 1303,
-    "description": "VENUSバトルシーズン30で100位以内獲得"
+    "description": "VENUSバトルシーズン30で100位以内獲得",
+    "autoProvideConditionId": "",
+    "isViewableInInactive": false
   },
   {
     "id": "emb-590",
     "name": "VENUSシーズン31 No.1",
     "assetId": "pvp-season-031-top001",
     "order": 1311,
-    "description": "VENUSバトルシーズン31で1位獲得"
+    "description": "VENUSバトルシーズン31で1位獲得",
+    "autoProvideConditionId": "",
+    "isViewableInInactive": false
   },
   {
     "id": "emb-591",
     "name": "VENUSシーズン31 TOP10",
     "assetId": "pvp-season-031-top010",
     "order": 1312,
-    "description": "VENUSバトルシーズン31で10位以内獲得"
+    "description": "VENUSバトルシーズン31で10位以内獲得",
+    "autoProvideConditionId": "",
+    "isViewableInInactive": false
   },
   {
     "id": "emb-592",
     "name": "VENUSシーズン31 TOP100",
     "assetId": "pvp-season-031-top100",
     "order": 1313,
-    "description": "VENUSバトルシーズン31で100位以内獲得"
+    "description": "VENUSバトルシーズン31で100位以内獲得",
+    "autoProvideConditionId": "",
+    "isViewableInInactive": false
   },
   {
     "id": "emb-593",
     "name": "VENUSシーズン32 No.1",
     "assetId": "pvp-season-032-top001",
     "order": 1321,
-    "description": "VENUSバトルシーズン32で1位獲得"
+    "description": "VENUSバトルシーズン32で1位獲得",
+    "autoProvideConditionId": "",
+    "isViewableInInactive": false
   },
   {
     "id": "emb-594",
     "name": "VENUSシーズン32 TOP10",
     "assetId": "pvp-season-032-top010",
     "order": 1322,
-    "description": "VENUSバトルシーズン32で10位以内獲得"
+    "description": "VENUSバトルシーズン32で10位以内獲得",
+    "autoProvideConditionId": "",
+    "isViewableInInactive": false
   },
   {
     "id": "emb-595",
     "name": "VENUSシーズン32 TOP100",
     "assetId": "pvp-season-032-top100",
     "order": 1323,
-    "description": "VENUSバトルシーズン32で100位以内獲得"
+    "description": "VENUSバトルシーズン32で100位以内獲得",
+    "autoProvideConditionId": "",
+    "isViewableInInactive": false
   },
   {
     "id": "emb-596",
     "name": "VENUSシーズン33 No.1",
     "assetId": "pvp-season-033-top001",
     "order": 1331,
-    "description": "VENUSバトルシーズン33で1位獲得"
+    "description": "VENUSバトルシーズン33で1位獲得",
+    "autoProvideConditionId": "",
+    "isViewableInInactive": false
   },
   {
     "id": "emb-597",
     "name": "VENUSシーズン33 TOP10",
     "assetId": "pvp-season-033-top010",
     "order": 1332,
-    "description": "VENUSバトルシーズン33で10位以内獲得"
+    "description": "VENUSバトルシーズン33で10位以内獲得",
+    "autoProvideConditionId": "",
+    "isViewableInInactive": false
   },
   {
     "id": "emb-598",
     "name": "VENUSシーズン33 TOP100",
     "assetId": "pvp-season-033-top100",
     "order": 1333,
-    "description": "VENUSバトルシーズン33で100位以内獲得"
+    "description": "VENUSバトルシーズン33で100位以内獲得",
+    "autoProvideConditionId": "",
+    "isViewableInInactive": false
   },
   {
     "id": "emb-599",
     "name": "VENUSシーズン34 No.1",
     "assetId": "pvp-season-034-top001",
     "order": 1341,
-    "description": "VENUSバトルシーズン34で1位獲得"
+    "description": "VENUSバトルシーズン34で1位獲得",
+    "autoProvideConditionId": "",
+    "isViewableInInactive": false
   },
   {
     "id": "emb-600",
     "name": "VENUSシーズン34 TOP10",
     "assetId": "pvp-season-034-top010",
     "order": 1342,
-    "description": "VENUSバトルシーズン34で10位以内獲得"
+    "description": "VENUSバトルシーズン34で10位以内獲得",
+    "autoProvideConditionId": "",
+    "isViewableInInactive": false
   },
   {
     "id": "emb-601",
     "name": "VENUSシーズン34 TOP100",
     "assetId": "pvp-season-034-top100",
     "order": 1343,
-    "description": "VENUSバトルシーズン34で100位以内獲得"
+    "description": "VENUSバトルシーズン34で100位以内獲得",
+    "autoProvideConditionId": "",
+    "isViewableInInactive": false
   },
   {
     "id": "emb-602",
     "name": "VENUSシーズン35 No.1",
     "assetId": "pvp-season-035-top001",
     "order": 1351,
-    "description": "VENUSバトルシーズン35で1位獲得"
+    "description": "VENUSバトルシーズン35で1位獲得",
+    "autoProvideConditionId": "",
+    "isViewableInInactive": false
   },
   {
     "id": "emb-603",
     "name": "VENUSシーズン35 TOP10",
     "assetId": "pvp-season-035-top010",
     "order": 1352,
-    "description": "VENUSバトルシーズン35で10位以内獲得"
+    "description": "VENUSバトルシーズン35で10位以内獲得",
+    "autoProvideConditionId": "",
+    "isViewableInInactive": false
   },
   {
     "id": "emb-604",
     "name": "VENUSシーズン35 TOP100",
     "assetId": "pvp-season-035-top100",
     "order": 1353,
-    "description": "VENUSバトルシーズン35で100位以内獲得"
+    "description": "VENUSバトルシーズン35で100位以内獲得",
+    "autoProvideConditionId": "",
+    "isViewableInInactive": false
   },
   {
     "id": "emb-605",
     "name": "VENUSシーズン36 No.1",
     "assetId": "pvp-season-036-top001",
     "order": 1361,
-    "description": "VENUSバトルシーズン36で1位獲得"
+    "description": "VENUSバトルシーズン36で1位獲得",
+    "autoProvideConditionId": "",
+    "isViewableInInactive": false
   },
   {
     "id": "emb-606",
     "name": "VENUSシーズン36 TOP10",
     "assetId": "pvp-season-036-top010",
     "order": 1362,
-    "description": "VENUSバトルシーズン36で10位以内獲得"
+    "description": "VENUSバトルシーズン36で10位以内獲得",
+    "autoProvideConditionId": "",
+    "isViewableInInactive": false
   },
   {
     "id": "emb-607",
     "name": "VENUSシーズン36 TOP100",
     "assetId": "pvp-season-036-top100",
     "order": 1363,
-    "description": "VENUSバトルシーズン36で100位以内獲得"
+    "description": "VENUSバトルシーズン36で100位以内獲得",
+    "autoProvideConditionId": "",
+    "isViewableInInactive": false
   },
   {
     "id": "emb-608",
     "name": "VENUSシーズン37 No.1",
     "assetId": "pvp-season-037-top001",
     "order": 1371,
-    "description": "VENUSバトルシーズン37で1位獲得"
+    "description": "VENUSバトルシーズン37で1位獲得",
+    "autoProvideConditionId": "",
+    "isViewableInInactive": false
   },
   {
     "id": "emb-609",
     "name": "VENUSシーズン37 TOP10",
     "assetId": "pvp-season-037-top010",
     "order": 1372,
-    "description": "VENUSバトルシーズン37で10位以内獲得"
+    "description": "VENUSバトルシーズン37で10位以内獲得",
+    "autoProvideConditionId": "",
+    "isViewableInInactive": false
   },
   {
     "id": "emb-610",
     "name": "VENUSシーズン37 TOP100",
     "assetId": "pvp-season-037-top100",
     "order": 1373,
-    "description": "VENUSバトルシーズン37で100位以内獲得"
+    "description": "VENUSバトルシーズン37で100位以内獲得",
+    "autoProvideConditionId": "",
+    "isViewableInInactive": false
   },
   {
     "id": "emb-611",
     "name": "VENUSシーズン38 No.1",
     "assetId": "pvp-season-038-top001",
     "order": 1381,
-    "description": "VENUSバトルシーズン38で1位獲得"
+    "description": "VENUSバトルシーズン38で1位獲得",
+    "autoProvideConditionId": "",
+    "isViewableInInactive": false
   },
   {
     "id": "emb-612",
     "name": "VENUSシーズン38 TOP10",
     "assetId": "pvp-season-038-top010",
     "order": 1382,
-    "description": "VENUSバトルシーズン38で10位以内獲得"
+    "description": "VENUSバトルシーズン38で10位以内獲得",
+    "autoProvideConditionId": "",
+    "isViewableInInactive": false
   },
   {
     "id": "emb-613",
     "name": "VENUSシーズン38 TOP100",
     "assetId": "pvp-season-038-top100",
     "order": 1383,
-    "description": "VENUSバトルシーズン38で100位以内獲得"
+    "description": "VENUSバトルシーズン38で100位以内獲得",
+    "autoProvideConditionId": "",
+    "isViewableInInactive": false
   },
   {
     "id": "emb-614",
     "name": "VENUSシーズン39 No.1",
     "assetId": "pvp-season-039-top001",
     "order": 1391,
-    "description": "VENUSバトルシーズン39で1位獲得"
+    "description": "VENUSバトルシーズン39で1位獲得",
+    "autoProvideConditionId": "",
+    "isViewableInInactive": false
   },
   {
     "id": "emb-615",
     "name": "VENUSシーズン39 TOP10",
     "assetId": "pvp-season-039-top010",
     "order": 1392,
-    "description": "VENUSバトルシーズン39で10位以内獲得"
+    "description": "VENUSバトルシーズン39で10位以内獲得",
+    "autoProvideConditionId": "",
+    "isViewableInInactive": false
   },
   {
     "id": "emb-616",
     "name": "VENUSシーズン39 TOP100",
     "assetId": "pvp-season-039-top100",
     "order": 1393,
-    "description": "VENUSバトルシーズン39で100位以内獲得"
+    "description": "VENUSバトルシーズン39で100位以内獲得",
+    "autoProvideConditionId": "",
+    "isViewableInInactive": false
   },
   {
     "id": "emb-617",
     "name": "VENUSシーズン40 No.1",
     "assetId": "pvp-season-040-top001",
     "order": 1401,
-    "description": "VENUSバトルシーズン40で1位獲得"
+    "description": "VENUSバトルシーズン40で1位獲得",
+    "autoProvideConditionId": "",
+    "isViewableInInactive": false
   },
   {
     "id": "emb-618",
     "name": "VENUSシーズン40 TOP10",
     "assetId": "pvp-season-040-top010",
     "order": 1402,
-    "description": "VENUSバトルシーズン40で10位以内獲得"
+    "description": "VENUSバトルシーズン40で10位以内獲得",
+    "autoProvideConditionId": "",
+    "isViewableInInactive": false
   },
   {
     "id": "emb-619",
     "name": "VENUSシーズン40 TOP100",
     "assetId": "pvp-season-040-top100",
     "order": 1403,
-    "description": "VENUSバトルシーズン40で100位以内獲得"
+    "description": "VENUSバトルシーズン40で100位以内獲得",
+    "autoProvideConditionId": "",
+    "isViewableInInactive": false
   },
   {
     "id": "emb-800",
     "name": "雨上がりの太陽と共に",
     "assetId": "tour-21-0630",
     "order": 1701,
-    "description": "ツアーライブ「雨上がりの太陽と共に」クリア"
+    "description": "ツアーライブ「雨上がりの太陽と共に」クリア",
+    "autoProvideConditionId": "",
+    "isViewableInInactive": false
   },
   {
     "id": "emb-801",
     "name": "月夜に輝く恋の魔法",
     "assetId": "tour-21-0731",
     "order": 1702,
-    "description": "ツアーライブ「月夜に輝く恋の魔法」クリア"
+    "description": "ツアーライブ「月夜に輝く恋の魔法」クリア",
+    "autoProvideConditionId": "",
+    "isViewableInInactive": false
   },
   {
     "id": "emb-802",
     "name": "芽吹く黒ユリの蕾",
     "assetId": "backside-21-0831",
     "order": 1703,
-    "description": "合宿「芽吹く黒ユリの蕾」クリア"
+    "description": "合宿「芽吹く黒ユリの蕾」クリア",
+    "autoProvideConditionId": "",
+    "isViewableInInactive": false
   },
   {
     "id": "emb-803",
     "name": "煌めく奇跡をもう一度",
     "assetId": "marathon-21-0930",
     "order": 1704,
-    "description": "リンクスイベント「煌めく奇跡をもう一度」クリア"
+    "description": "リンクスイベント「煌めく奇跡をもう一度」クリア",
+    "autoProvideConditionId": "",
+    "isViewableInInactive": false
   },
   {
     "id": "emb-804",
     "name": "夢踊るステージに架け橋を",
     "assetId": "backside-21-1031",
     "order": 1705,
-    "description": "合宿イベント「夢踊るステージに架け橋を」クリア"
+    "description": "合宿イベント「夢踊るステージに架け橋を」クリア",
+    "autoProvideConditionId": "",
+    "isViewableInInactive": false
   },
   {
     "id": "emb-805",
     "name": "羽休む聖夜のサプライズ",
     "assetId": "marathon-21-1130",
     "order": 1706,
-    "description": "リンクスイベント「羽休む聖夜のサプライズ」クリア"
+    "description": "リンクスイベント「羽休む聖夜のサプライズ」クリア",
+    "autoProvideConditionId": "",
+    "isViewableInInactive": false
   },
   {
     "id": "emb-806",
     "name": "昇る初陽に咲く笑顔",
     "assetId": "contest-21-1228",
     "order": 1707,
-    "description": "フォトオーディション「昇る初陽に咲く笑顔」条件達成"
+    "description": "フォトオーディション「昇る初陽に咲く笑顔」条件達成",
+    "autoProvideConditionId": "",
+    "isViewableInInactive": false
   },
   {
     "id": "emb-807",
     "name": "心愛溶けるビターチョコレート",
     "assetId": "marathon-22-0131",
     "order": 1708,
-    "description": "リンクスイベント「心愛溶けるビターチョコレート」クリア"
+    "description": "リンクスイベント「心愛溶けるビターチョコレート」クリア",
+    "autoProvideConditionId": "",
+    "isViewableInInactive": false
   },
   {
     "id": "emb-808",
     "name": "並び立つ歌姫のフルリール",
     "assetId": "race-22-0228",
     "order": 1708,
-    "description": "VENUSレース「並び立つ歌姫のフルリール」クリア"
+    "description": "VENUSレース「並び立つ歌姫のフルリール」クリア",
+    "autoProvideConditionId": "",
+    "isViewableInInactive": false
   },
   {
     "id": "emb-809",
     "name": "愛歌う星の継承者",
     "assetId": "contest-22-0328",
     "order": 1710,
-    "description": "フォトオーディション「愛歌う星の継承者」条件達成"
+    "description": "フォトオーディション「愛歌う星の継承者」条件達成",
+    "autoProvideConditionId": "",
+    "isViewableInInactive": false
   },
   {
     "id": "emb-810",
     "name": "心紡ぎ合う輝きの競演",
     "assetId": "race-22-0428",
     "order": 1711,
-    "description": "VENUSレース「心紡ぎ合う輝きの競演」クリア"
+    "description": "VENUSレース「心紡ぎ合う輝きの競演」クリア",
+    "autoProvideConditionId": "",
+    "isViewableInInactive": false
   },
   {
     "id": "emb-811",
     "name": "導きのファンファーレ",
     "assetId": "marathon-22-0526",
     "order": 1712,
-    "description": "リンクスイベント「導きのファンファーレ」クリア"
+    "description": "リンクスイベント「導きのファンファーレ」クリア",
+    "autoProvideConditionId": "",
+    "isViewableInInactive": false
   },
   {
     "id": "emb-900",
     "name": "ユニオンシーズン4 No.1",
     "assetId": "gvg-season-004-top001",
     "order": 1511,
-    "description": "ユニオンライブシーズン4で1位獲得"
+    "description": "ユニオンライブシーズン4で1位獲得",
+    "autoProvideConditionId": "",
+    "isViewableInInactive": false
   },
   {
     "id": "emb-901",
     "name": "ユニオンシーズン4 TOP10",
     "assetId": "gvg-season-004-top010",
     "order": 1512,
-    "description": "ユニオンライブシーズン4で10位以内獲得"
+    "description": "ユニオンライブシーズン4で10位以内獲得",
+    "autoProvideConditionId": "",
+    "isViewableInInactive": false
   },
   {
     "id": "emb-902",
     "name": "ユニオンシーズン5 No.1",
     "assetId": "gvg-season-005-top001",
     "order": 1513,
-    "description": "ユニオンライブシーズン5で1位獲得"
+    "description": "ユニオンライブシーズン5で1位獲得",
+    "autoProvideConditionId": "",
+    "isViewableInInactive": false
   },
   {
     "id": "emb-903",
     "name": "ユニオンシーズン5 TOP10",
     "assetId": "gvg-season-005-top010",
     "order": 1514,
-    "description": "ユニオンライブシーズン5で10位以内獲得"
+    "description": "ユニオンライブシーズン5で10位以内獲得",
+    "autoProvideConditionId": "",
+    "isViewableInInactive": false
   },
   {
     "id": "emb-904",
     "name": "ユニオンシーズン6 No.1",
     "assetId": "gvg-season-006-top001",
     "order": 1515,
-    "description": "ユニオンライブシーズン6で1位獲得"
+    "description": "ユニオンライブシーズン6で1位獲得",
+    "autoProvideConditionId": "",
+    "isViewableInInactive": false
   },
   {
     "id": "emb-905",
     "name": "ユニオンシーズン6 TOP10",
     "assetId": "gvg-season-006-top010",
     "order": 1516,
-    "description": "ユニオンライブシーズン6で10位以内獲得"
+    "description": "ユニオンライブシーズン6で10位以内獲得",
+    "autoProvideConditionId": "",
+    "isViewableInInactive": false
   },
   {
     "id": "emb-906",
     "name": "ユニオンシーズン7 No.1",
     "assetId": "gvg-season-007-top001",
     "order": 1517,
-    "description": "ユニオンライブシーズン7で1位獲得"
+    "description": "ユニオンライブシーズン7で1位獲得",
+    "autoProvideConditionId": "",
+    "isViewableInInactive": false
   },
   {
     "id": "emb-907",
     "name": "ユニオンシーズン7 TOP10",
     "assetId": "gvg-season-007-top010",
     "order": 1518,
-    "description": "ユニオンライブシーズン7で10位以内獲得"
+    "description": "ユニオンライブシーズン7で10位以内獲得",
+    "autoProvideConditionId": "",
+    "isViewableInInactive": false
   },
   {
     "id": "emb-908",
     "name": "ユニオンシーズン8 No.1",
     "assetId": "gvg-season-008-top001",
     "order": 1519,
-    "description": "ユニオンライブシーズン8で1位獲得"
+    "description": "ユニオンライブシーズン8で1位獲得",
+    "autoProvideConditionId": "",
+    "isViewableInInactive": false
   },
   {
     "id": "emb-909",
     "name": "ユニオンシーズン8 TOP10",
     "assetId": "gvg-season-008-top010",
     "order": 1520,
-    "description": "ユニオンライブシーズン8で10位以内獲得"
+    "description": "ユニオンライブシーズン8で10位以内獲得",
+    "autoProvideConditionId": "",
+    "isViewableInInactive": false
   },
   {
     "id": "emb-910",
     "name": "ユニオンシーズン9 No.1",
     "assetId": "gvg-season-009-top001",
     "order": 1521,
-    "description": "ユニオンライブシーズン9で1位獲得"
+    "description": "ユニオンライブシーズン9で1位獲得",
+    "autoProvideConditionId": "",
+    "isViewableInInactive": false
   },
   {
     "id": "emb-911",
     "name": "ユニオンシーズン9 TOP10",
     "assetId": "gvg-season-009-top010",
     "order": 1522,
-    "description": "ユニオンライブシーズン9で10位以内獲得"
+    "description": "ユニオンライブシーズン9で10位以内獲得",
+    "autoProvideConditionId": "",
+    "isViewableInInactive": false
   },
   {
     "id": "emb-912",
     "name": "ユニオンシーズン10 No.1",
     "assetId": "gvg-season-010-top001",
     "order": 1523,
-    "description": "ユニオンライブシーズン10で1位獲得"
+    "description": "ユニオンライブシーズン10で1位獲得",
+    "autoProvideConditionId": "",
+    "isViewableInInactive": false
   },
   {
     "id": "emb-913",
     "name": "ユニオンシーズン10 TOP10",
     "assetId": "gvg-season-010-top010",
     "order": 1524,
-    "description": "ユニオンライブシーズン10で10位以内獲得"
+    "description": "ユニオンライブシーズン10で10位以内獲得",
+    "autoProvideConditionId": "",
+    "isViewableInInactive": false
   },
   {
     "id": "emb-914",
     "name": "ユニオンシーズン11 No.1",
     "assetId": "gvg-season-011-top001",
     "order": 1525,
-    "description": "ユニオンライブシーズン11で1位獲得"
+    "description": "ユニオンライブシーズン11で1位獲得",
+    "autoProvideConditionId": "",
+    "isViewableInInactive": false
   },
   {
     "id": "emb-915",
     "name": "ユニオンシーズン11 TOP10",
     "assetId": "gvg-season-011-top010",
     "order": 1526,
-    "description": "ユニオンライブシーズン11で10位以内獲得"
+    "description": "ユニオンライブシーズン11で10位以内獲得",
+    "autoProvideConditionId": "",
+    "isViewableInInactive": false
   }
 ]

@@ -4,91 +4,119 @@
     "hierarchyGradeId": "hie-001",
     "subName": "BIG4",
     "requiredHierarchyPoint": "25000",
-    "requiredHierarchyRank": 4
+    "requiredHierarchyRank": 4,
+    "order": 0
   },
   {
     "id": "hie-002-001",
     "hierarchyGradeId": "hie-002",
     "subName": "Di",
     "requiredHierarchyPoint": "15000",
-    "requiredHierarchyRank": 1000
+    "requiredHierarchyRank": 1000,
+    "order": 0
   },
   {
     "id": "hie-003-001",
     "hierarchyGradeId": "hie-003",
     "subName": "Pl",
     "requiredHierarchyPoint": "10000",
-    "requiredHierarchyRank": 2000
+    "requiredHierarchyRank": 2000,
+    "order": 0
   },
   {
     "id": "hie-004-001",
     "hierarchyGradeId": "hie-004",
     "subName": "G3",
-    "requiredHierarchyPoint": "7000"
+    "requiredHierarchyPoint": "7000",
+    "requiredHierarchyRank": 0,
+    "order": 0
   },
   {
     "id": "hie-004-002",
     "hierarchyGradeId": "hie-004",
     "subName": "G2",
-    "requiredHierarchyPoint": "6200"
+    "requiredHierarchyPoint": "6200",
+    "requiredHierarchyRank": 0,
+    "order": 0
   },
   {
     "id": "hie-004-003",
     "hierarchyGradeId": "hie-004",
     "subName": "G1",
-    "requiredHierarchyPoint": "5400"
+    "requiredHierarchyPoint": "5400",
+    "requiredHierarchyRank": 0,
+    "order": 0
   },
   {
     "id": "hie-005-001",
     "hierarchyGradeId": "hie-005",
     "subName": "S3",
-    "requiredHierarchyPoint": "4500"
+    "requiredHierarchyPoint": "4500",
+    "requiredHierarchyRank": 0,
+    "order": 0
   },
   {
     "id": "hie-005-002",
     "hierarchyGradeId": "hie-005",
     "subName": "S2",
-    "requiredHierarchyPoint": "3700"
+    "requiredHierarchyPoint": "3700",
+    "requiredHierarchyRank": 0,
+    "order": 0
   },
   {
     "id": "hie-005-003",
     "hierarchyGradeId": "hie-005",
     "subName": "S1",
-    "requiredHierarchyPoint": "3000"
+    "requiredHierarchyPoint": "3000",
+    "requiredHierarchyRank": 0,
+    "order": 0
   },
   {
     "id": "hie-006-001",
     "hierarchyGradeId": "hie-006",
     "subName": "B3",
-    "requiredHierarchyPoint": "2000"
+    "requiredHierarchyPoint": "2000",
+    "requiredHierarchyRank": 0,
+    "order": 0
   },
   {
     "id": "hie-006-002",
     "hierarchyGradeId": "hie-006",
     "subName": "B2",
-    "requiredHierarchyPoint": "1500"
+    "requiredHierarchyPoint": "1500",
+    "requiredHierarchyRank": 0,
+    "order": 0
   },
   {
     "id": "hie-006-003",
     "hierarchyGradeId": "hie-006",
     "subName": "B1",
-    "requiredHierarchyPoint": "1000"
+    "requiredHierarchyPoint": "1000",
+    "requiredHierarchyRank": 0,
+    "order": 0
   },
   {
     "id": "hie-007-001",
     "hierarchyGradeId": "hie-007",
     "subName": "C3",
-    "requiredHierarchyPoint": "600"
+    "requiredHierarchyPoint": "600",
+    "requiredHierarchyRank": 0,
+    "order": 0
   },
   {
     "id": "hie-007-002",
     "hierarchyGradeId": "hie-007",
     "subName": "C2",
-    "requiredHierarchyPoint": "300"
+    "requiredHierarchyPoint": "300",
+    "requiredHierarchyRank": 0,
+    "order": 0
   },
   {
     "id": "hie-007-003",
     "hierarchyGradeId": "hie-007",
-    "subName": "C1"
+    "subName": "C1",
+    "requiredHierarchyPoint": "0",
+    "requiredHierarchyRank": 0,
+    "order": 0
   }
 ]
