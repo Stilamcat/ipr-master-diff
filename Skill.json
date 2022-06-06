@@ -20844,6 +20844,474 @@
     "assetId": ""
   },
   {
+    "id": "sk-ktn-05-wedd-00-1",
+    "name": "花嫁の心得",
+    "categoryType": 2,
+    "levels": [
+      {
+        "level": 1,
+        "description": "410%のスコア獲得\n全員にコンボ継続効果[40ビート]\n全員に6段階消費スタミナ低下効果[45ビート]\nスタミナ134消費 CT:50",
+        "shortDescription": "\n\n\nスタミナ134消費 CT:50",
+        "stamina": 134,
+        "probabilityPermil": 1000,
+        "coolTime": 50,
+        "skillDetails": [
+          {
+            "efficacyId": "ef-score_get-4100-chart_dependence",
+            "triggerId": ""
+          },
+          {
+            "efficacyId": "ef-combo_continuation-target-all-40",
+            "triggerId": ""
+          },
+          {
+            "efficacyId": "ef-stamina_consumption_reduction-6-target-all-45",
+            "triggerId": ""
+          }
+        ],
+        "requiredItemAmount": 0,
+        "requiredCardLevel": 0,
+        "triggerId": "",
+        "limitCount": 0
+      },
+      {
+        "level": 2,
+        "description": "430%のスコア獲得\n全員にコンボ継続効果[45ビート]\n全員に6段階消費スタミナ低下効果[55ビート]\nスタミナ143消費 CT:50",
+        "shortDescription": "\n\n\nスタミナ143消費 CT:50",
+        "requiredItemAmount": 500,
+        "requiredCardLevel": 40,
+        "stamina": 143,
+        "probabilityPermil": 1000,
+        "coolTime": 50,
+        "skillDetails": [
+          {
+            "efficacyId": "ef-score_get-4300-chart_dependence",
+            "triggerId": ""
+          },
+          {
+            "efficacyId": "ef-combo_continuation-target-all-45",
+            "triggerId": ""
+          },
+          {
+            "efficacyId": "ef-stamina_consumption_reduction-6-target-all-55",
+            "triggerId": ""
+          }
+        ],
+        "triggerId": "",
+        "limitCount": 0
+      },
+      {
+        "level": 3,
+        "description": "450%のスコア獲得\n全員にコンボ継続効果[50ビート]\n全員に7段階消費スタミナ低下効果[55ビート]\nスタミナ152消費 CT:50",
+        "shortDescription": "\n\n\nスタミナ152消費 CT:50",
+        "requiredItemAmount": 2000,
+        "requiredCardLevel": 60,
+        "stamina": 152,
+        "probabilityPermil": 1000,
+        "coolTime": 50,
+        "skillDetails": [
+          {
+            "efficacyId": "ef-score_get-4500-chart_dependence",
+            "triggerId": ""
+          },
+          {
+            "efficacyId": "ef-combo_continuation-target-all-50",
+            "triggerId": ""
+          },
+          {
+            "efficacyId": "ef-stamina_consumption_reduction-7-target-all-55",
+            "triggerId": ""
+          }
+        ],
+        "triggerId": "",
+        "limitCount": 0
+      },
+      {
+        "level": 4,
+        "description": "480%のスコア獲得\n全員にコンボ継続効果[60ビート]\n全員に7段階消費スタミナ低下効果[65ビート]\nスタミナ165消費 CT:50",
+        "shortDescription": "\n\n\nスタミナ165消費 CT:50",
+        "requiredItemAmount": 15000,
+        "requiredCardLevel": 90,
+        "stamina": 165,
+        "probabilityPermil": 1000,
+        "coolTime": 50,
+        "skillDetails": [
+          {
+            "efficacyId": "ef-score_get-4800-chart_dependence",
+            "triggerId": ""
+          },
+          {
+            "efficacyId": "ef-combo_continuation-target-all-60",
+            "triggerId": ""
+          },
+          {
+            "efficacyId": "ef-stamina_consumption_reduction-7-target-all-65",
+            "triggerId": ""
+          }
+        ],
+        "triggerId": "",
+        "limitCount": 0
+      },
+      {
+        "level": 5,
+        "description": "500%のスコア獲得\n全員にコンボ継続効果[65ビート]\n全員に8段階消費スタミナ低下効果[65ビート]\nスタミナ173消費 CT:50",
+        "shortDescription": "\n\n\nスタミナ173消費 CT:50",
+        "requiredItemAmount": 100000,
+        "requiredCardLevel": 150,
+        "stamina": 173,
+        "probabilityPermil": 1000,
+        "coolTime": 50,
+        "skillDetails": [
+          {
+            "efficacyId": "ef-score_get-5000-chart_dependence",
+            "triggerId": ""
+          },
+          {
+            "efficacyId": "ef-combo_continuation-target-all-65",
+            "triggerId": ""
+          },
+          {
+            "efficacyId": "ef-stamina_consumption_reduction-8-target-all-65",
+            "triggerId": ""
+          }
+        ],
+        "triggerId": "",
+        "limitCount": 0
+      },
+      {
+        "level": 6,
+        "description": "530%のスコア獲得\n全員にコンボ継続効果[75ビート]\n全員に8段階消費スタミナ低下効果[75ビート]\nスタミナ187消費 CT:50",
+        "shortDescription": "\n\n\nスタミナ187消費 CT:50",
+        "requiredItemAmount": 230000,
+        "requiredCardLevel": 180,
+        "stamina": 187,
+        "probabilityPermil": 1000,
+        "coolTime": 50,
+        "skillDetails": [
+          {
+            "efficacyId": "ef-score_get-5300-chart_dependence",
+            "triggerId": ""
+          },
+          {
+            "efficacyId": "ef-combo_continuation-target-all-75",
+            "triggerId": ""
+          },
+          {
+            "efficacyId": "ef-stamina_consumption_reduction-8-target-all-75",
+            "triggerId": ""
+          }
+        ],
+        "triggerId": "",
+        "limitCount": 0
+      }
+    ],
+    "assetId": ""
+  },
+  {
+    "id": "sk-ktn-05-wedd-00-2",
+    "name": "ドリームウエディング",
+    "categoryType": 2,
+    "levels": [
+      {
+        "level": 1,
+        "description": "410%のスコア獲得\n隣接するアイドルのCTを10減少\n自身がビジュアルレーンの時 スコアラータイプ2人に3段階クリティカル係数上昇効果[40ビート]\nスタミナ134消費 CT:50",
+        "shortDescription": "\n\n \nスタミナ134消費 CT:50",
+        "stamina": 134,
+        "probabilityPermil": 1000,
+        "coolTime": 50,
+        "skillDetails": [
+          {
+            "efficacyId": "ef-score_get-4100-chart_dependence",
+            "triggerId": ""
+          },
+          {
+            "efficacyId": "ef-cool_time_reduction-10-target-neighbor",
+            "triggerId": ""
+          },
+          {
+            "efficacyId": "ef-critical_bonus_permil_up-3-target-character_type-1-2-40",
+            "triggerId": "tg-position_attribute_visual"
+          }
+        ],
+        "requiredItemAmount": 0,
+        "requiredCardLevel": 0,
+        "triggerId": "",
+        "limitCount": 0
+      },
+      {
+        "level": 2,
+        "description": "430%のスコア獲得\n隣接するアイドルのCTを10減少\n自身がビジュアルレーンの時 スコアラータイプ2人に3段階クリティカル係数上昇効果[45ビート]\nスタミナ141消費 CT:50",
+        "shortDescription": "\n\n \nスタミナ141消費 CT:50",
+        "requiredItemAmount": 1000,
+        "requiredCardLevel": 50,
+        "stamina": 141,
+        "probabilityPermil": 1000,
+        "coolTime": 50,
+        "skillDetails": [
+          {
+            "efficacyId": "ef-score_get-4300-chart_dependence",
+            "triggerId": ""
+          },
+          {
+            "efficacyId": "ef-cool_time_reduction-10-target-neighbor",
+            "triggerId": ""
+          },
+          {
+            "efficacyId": "ef-critical_bonus_permil_up-3-target-character_type-1-2-45",
+            "triggerId": "tg-position_attribute_visual"
+          }
+        ],
+        "triggerId": "",
+        "limitCount": 0
+      },
+      {
+        "level": 3,
+        "description": "460%のスコア獲得\n隣接するアイドルのCTを10減少\n自身がビジュアルレーンの時 スコアラータイプ2人に4段階クリティカル係数上昇効果[50ビート]\nスタミナ153消費 CT:50",
+        "shortDescription": "\n\n \nスタミナ153消費 CT:50",
+        "requiredItemAmount": 4000,
+        "requiredCardLevel": 70,
+        "stamina": 153,
+        "probabilityPermil": 1000,
+        "coolTime": 50,
+        "skillDetails": [
+          {
+            "efficacyId": "ef-score_get-4600-chart_dependence",
+            "triggerId": ""
+          },
+          {
+            "efficacyId": "ef-cool_time_reduction-10-target-neighbor",
+            "triggerId": ""
+          },
+          {
+            "efficacyId": "ef-critical_bonus_permil_up-4-target-character_type-1-2-50",
+            "triggerId": "tg-position_attribute_visual"
+          }
+        ],
+        "triggerId": "",
+        "limitCount": 0
+      },
+      {
+        "level": 4,
+        "description": "490%のスコア獲得\n隣接するアイドルのCTを15減少\n自身がビジュアルレーンの時 スコアラータイプ2人に4段階クリティカル係数上昇効果[55ビート]\nスタミナ169消費 CT:50",
+        "shortDescription": "\n\n \nスタミナ169消費 CT:50",
+        "requiredItemAmount": 30000,
+        "requiredCardLevel": 110,
+        "stamina": 169,
+        "probabilityPermil": 1000,
+        "coolTime": 50,
+        "skillDetails": [
+          {
+            "efficacyId": "ef-score_get-4900-chart_dependence",
+            "triggerId": ""
+          },
+          {
+            "efficacyId": "ef-cool_time_reduction-15-target-neighbor",
+            "triggerId": ""
+          },
+          {
+            "efficacyId": "ef-critical_bonus_permil_up-4-target-character_type-1-2-55",
+            "triggerId": "tg-position_attribute_visual"
+          }
+        ],
+        "triggerId": "",
+        "limitCount": 0
+      },
+      {
+        "level": 5,
+        "description": "520%のスコア獲得\n隣接するアイドルのCTを15減少\n自身がビジュアルレーンの時 スコアラータイプ2人に5段階クリティカル係数上昇効果[55ビート]\nスタミナ180消費 CT:50",
+        "shortDescription": "\n\n \nスタミナ180消費 CT:50",
+        "requiredItemAmount": 140000,
+        "requiredCardLevel": 160,
+        "stamina": 180,
+        "probabilityPermil": 1000,
+        "coolTime": 50,
+        "skillDetails": [
+          {
+            "efficacyId": "ef-score_get-5200-chart_dependence",
+            "triggerId": ""
+          },
+          {
+            "efficacyId": "ef-cool_time_reduction-15-target-neighbor",
+            "triggerId": ""
+          },
+          {
+            "efficacyId": "ef-critical_bonus_permil_up-5-target-character_type-1-2-55",
+            "triggerId": "tg-position_attribute_visual"
+          }
+        ],
+        "triggerId": "",
+        "limitCount": 0
+      },
+      {
+        "level": 6,
+        "description": "550%のスコア獲得\n隣接するアイドルのCTを15減少\n自身がビジュアルレーンの時 スコアラータイプ2人に5段階クリティカル係数上昇効果[60ビート]\nスタミナ190消費 CT:50",
+        "shortDescription": "\n\n \nスタミナ190消費 CT:50",
+        "requiredItemAmount": 140000,
+        "requiredCardLevel": 210,
+        "stamina": 190,
+        "probabilityPermil": 1000,
+        "coolTime": 50,
+        "skillDetails": [
+          {
+            "efficacyId": "ef-score_get-5500-chart_dependence",
+            "triggerId": ""
+          },
+          {
+            "efficacyId": "ef-cool_time_reduction-15-target-neighbor",
+            "triggerId": ""
+          },
+          {
+            "efficacyId": "ef-critical_bonus_permil_up-5-target-character_type-1-2-60",
+            "triggerId": "tg-position_attribute_visual"
+          }
+        ],
+        "triggerId": "",
+        "limitCount": 0
+      }
+    ],
+    "assetId": ""
+  },
+  {
+    "id": "sk-ktn-05-wedd-00-3",
+    "name": "結婚への願望",
+    "categoryType": 3,
+    "levels": [
+      {
+        "level": 1,
+        "description": "隣接するアイドルのスタミナを900回復\n[ライブバトルのみ]同じレーンの相手のスタミナを1200消費\nスタミナ154消費 CT:40",
+        "shortDescription": "\n\nスタミナ154消費 CT:40",
+        "stamina": 154,
+        "probabilityPermil": 1000,
+        "coolTime": 40,
+        "skillDetails": [
+          {
+            "efficacyId": "ef-fix_stamina_recovery-900-target-neighbor",
+            "triggerId": ""
+          },
+          {
+            "efficacyId": "ef-stamina_consumption-1200-target-opponent_same_position",
+            "triggerId": ""
+          }
+        ],
+        "requiredItemAmount": 0,
+        "requiredCardLevel": 0,
+        "triggerId": "",
+        "limitCount": 0
+      },
+      {
+        "level": 2,
+        "description": "隣接するアイドルのスタミナを1200回復\n[ライブバトルのみ]同じレーンの相手のスタミナを1400消費\nスタミナ179消費 CT:40",
+        "shortDescription": "\n\nスタミナ179消費 CT:40",
+        "requiredItemAmount": 15000,
+        "requiredCardLevel": 100,
+        "stamina": 179,
+        "probabilityPermil": 1000,
+        "coolTime": 40,
+        "skillDetails": [
+          {
+            "efficacyId": "ef-fix_stamina_recovery-1200-target-neighbor",
+            "triggerId": ""
+          },
+          {
+            "efficacyId": "ef-stamina_consumption-1400-target-opponent_same_position",
+            "triggerId": ""
+          }
+        ],
+        "triggerId": "",
+        "limitCount": 0
+      },
+      {
+        "level": 3,
+        "description": "隣接するアイドルのスタミナを2100回復\n[ライブバトルのみ]同じレーンの相手のスタミナを1600消費\nスタミナ204消費 CT:40",
+        "shortDescription": "\n\nスタミナ204消費 CT:40",
+        "requiredItemAmount": 60000,
+        "requiredCardLevel": 130,
+        "stamina": 204,
+        "probabilityPermil": 1000,
+        "coolTime": 40,
+        "skillDetails": [
+          {
+            "efficacyId": "ef-fix_stamina_recovery-2100-target-neighbor",
+            "triggerId": ""
+          },
+          {
+            "efficacyId": "ef-stamina_consumption-1600-target-opponent_same_position",
+            "triggerId": ""
+          }
+        ],
+        "triggerId": "",
+        "limitCount": 0
+      },
+      {
+        "level": 4,
+        "description": "隣接するアイドルのスタミナを3200回復\n[ライブバトルのみ]同じレーンの相手のスタミナを1900消費\nスタミナ243消費 CT:40",
+        "shortDescription": "\n\nスタミナ243消費 CT:40",
+        "requiredItemAmount": 180000,
+        "requiredCardLevel": 170,
+        "stamina": 243,
+        "probabilityPermil": 1000,
+        "coolTime": 40,
+        "skillDetails": [
+          {
+            "efficacyId": "ef-fix_stamina_recovery-3200-target-neighbor",
+            "triggerId": ""
+          },
+          {
+            "efficacyId": "ef-stamina_consumption-1900-target-opponent_same_position",
+            "triggerId": ""
+          }
+        ],
+        "triggerId": "",
+        "limitCount": 0
+      },
+      {
+        "level": 5,
+        "description": "隣接するアイドルのスタミナを3600回復\n[ライブバトルのみ]同じレーンの相手のスタミナを2200消費\nスタミナ273消費 CT:40",
+        "shortDescription": "\n\nスタミナ273消費 CT:40",
+        "requiredItemAmount": 230000,
+        "requiredCardLevel": 190,
+        "stamina": 273,
+        "probabilityPermil": 1000,
+        "coolTime": 40,
+        "skillDetails": [
+          {
+            "efficacyId": "ef-fix_stamina_recovery-3600-target-neighbor",
+            "triggerId": ""
+          },
+          {
+            "efficacyId": "ef-stamina_consumption-2200-target-opponent_same_position",
+            "triggerId": ""
+          }
+        ],
+        "triggerId": "",
+        "limitCount": 0
+      },
+      {
+        "level": 6,
+        "description": "隣接するアイドルのスタミナを3800回復\n[ライブバトルのみ]同じレーンの相手のスタミナを2500消費\nスタミナ312消費 CT:40",
+        "shortDescription": "\n\nスタミナ312消費 CT:40",
+        "requiredItemAmount": 230000,
+        "requiredCardLevel": 220,
+        "stamina": 312,
+        "probabilityPermil": 1000,
+        "coolTime": 40,
+        "skillDetails": [
+          {
+            "efficacyId": "ef-fix_stamina_recovery-3800-target-neighbor",
+            "triggerId": ""
+          },
+          {
+            "efficacyId": "ef-stamina_consumption-2500-target-opponent_same_position",
+            "triggerId": ""
+          }
+        ],
+        "triggerId": "",
+        "limitCount": 0
+      }
+    ],
+    "assetId": ""
+  },
+  {
     "id": "sk-live-lba-passive_skill-001",
     "name": "ライブボーナス",
     "categoryType": 3,
