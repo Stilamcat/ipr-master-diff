@@ -3250,6 +3250,16 @@
     "maxGrade": 0
   },
   {
+    "id": "ef-combo_continuation-target-all-45",
+    "name": "全体にコンボ継続",
+    "type": 12,
+    "description": "全員にコンボ継続効果[45ビート]",
+    "skillTargetId": "target-all",
+    "shortDescription": "",
+    "grade": 0,
+    "maxGrade": 0
+  },
+  {
     "id": "ef-combo_continuation-target-all-50",
     "name": "全体にコンボ継続",
     "type": 12,
@@ -3264,6 +3274,16 @@
     "name": "全体にコンボ継続",
     "type": 12,
     "description": "全員にコンボ継続効果[60ビート]",
+    "skillTargetId": "target-all",
+    "shortDescription": "",
+    "grade": 0,
+    "maxGrade": 0
+  },
+  {
+    "id": "ef-combo_continuation-target-all-65",
+    "name": "全体にコンボ継続",
+    "type": 12,
+    "description": "全員にコンボ継続効果[65ビート]",
     "skillTargetId": "target-all",
     "shortDescription": "",
     "grade": 0,
@@ -3500,6 +3520,16 @@
     "maxGrade": 0
   },
   {
+    "id": "ef-cool_time_reduction-10-target-neighbor",
+    "name": "隣接するアイドルのCTを低下",
+    "type": 27,
+    "description": "隣接するアイドルのCTを10減少",
+    "skillTargetId": "target-neighbor",
+    "shortDescription": "",
+    "grade": 0,
+    "maxGrade": 0
+  },
+  {
     "id": "ef-cool_time_reduction-10-target-self",
     "name": "自身のCTを低下",
     "type": 27,
@@ -3625,6 +3655,16 @@
     "type": 27,
     "description": "ダンスが高い3人のCTを15減少",
     "skillTargetId": "target-dance_higher-3",
+    "shortDescription": "",
+    "grade": 0,
+    "maxGrade": 0
+  },
+  {
+    "id": "ef-cool_time_reduction-15-target-neighbor",
+    "name": "隣接するアイドルのCTを低下",
+    "type": 27,
+    "description": "隣接するアイドルのCTを15減少",
+    "skillTargetId": "target-neighbor",
     "shortDescription": "",
     "grade": 0,
     "maxGrade": 0
@@ -4650,6 +4690,26 @@
     "shortDescription": ""
   },
   {
+    "id": "ef-critical_bonus_permil_up-3-target-character_type-1-2-40",
+    "name": "スコアラータイプ2人にクリティカル係数アップ",
+    "type": 20,
+    "description": "スコアラータイプ2人に3段階クリティカル係数上昇効果[40ビート]",
+    "grade": 3,
+    "maxGrade": 20,
+    "skillTargetId": "target-character_type-1-2",
+    "shortDescription": ""
+  },
+  {
+    "id": "ef-critical_bonus_permil_up-3-target-character_type-1-2-45",
+    "name": "スコアラータイプ2人にクリティカル係数アップ",
+    "type": 20,
+    "description": "スコアラータイプ2人に3段階クリティカル係数上昇効果[45ビート]",
+    "grade": 3,
+    "maxGrade": 20,
+    "skillTargetId": "target-character_type-1-2",
+    "shortDescription": ""
+  },
+  {
     "id": "ef-critical_bonus_permil_up-3-target-self-32",
     "name": "自身にクリティカル係数アップ",
     "type": 20,
@@ -4974,6 +5034,26 @@
     "name": "スコアラー2人のクリティカル係数アップ",
     "type": 20,
     "description": "スコアラータイプ2人に4段階クリティカル係数上昇効果[48ビート]",
+    "grade": 4,
+    "maxGrade": 20,
+    "skillTargetId": "target-character_type-1-2",
+    "shortDescription": ""
+  },
+  {
+    "id": "ef-critical_bonus_permil_up-4-target-character_type-1-2-50",
+    "name": "スコアラータイプ2人にクリティカル係数アップ",
+    "type": 20,
+    "description": "スコアラータイプ2人に4段階クリティカル係数上昇効果[50ビート]",
+    "grade": 4,
+    "maxGrade": 20,
+    "skillTargetId": "target-character_type-1-2",
+    "shortDescription": ""
+  },
+  {
+    "id": "ef-critical_bonus_permil_up-4-target-character_type-1-2-55",
+    "name": "スコアラータイプ2人にクリティカル係数アップ",
+    "type": 20,
+    "description": "スコアラータイプ2人に4段階クリティカル係数上昇効果[55ビート]",
     "grade": 4,
     "maxGrade": 20,
     "skillTargetId": "target-character_type-1-2",
@@ -5360,10 +5440,30 @@
     "shortDescription": ""
   },
   {
+    "id": "ef-critical_bonus_permil_up-5-target-character_type-1-2-55",
+    "name": "スコアラータイプ2人にクリティカル係数アップ",
+    "type": 20,
+    "description": "スコアラータイプ2人に5段階クリティカル係数上昇効果[55ビート]",
+    "grade": 5,
+    "maxGrade": 20,
+    "skillTargetId": "target-character_type-1-2",
+    "shortDescription": ""
+  },
+  {
     "id": "ef-critical_bonus_permil_up-5-target-character_type-1-2-56",
     "name": "スコアラー2人のクリティカル係数アップ",
     "type": 20,
     "description": "スコアラータイプ2人に5段階クリティカル係数上昇効果[56ビート]",
+    "grade": 5,
+    "maxGrade": 20,
+    "skillTargetId": "target-character_type-1-2",
+    "shortDescription": ""
+  },
+  {
+    "id": "ef-critical_bonus_permil_up-5-target-character_type-1-2-60",
+    "name": "スコアラータイプ2人にクリティカル係数アップ",
+    "type": 20,
+    "description": "スコアラータイプ2人に5段階クリティカル係数上昇効果[60ビート]",
     "grade": 5,
     "maxGrade": 20,
     "skillTargetId": "target-character_type-1-2",
@@ -11790,6 +11890,16 @@
     "maxGrade": 0
   },
   {
+    "id": "ef-fix_stamina_recovery-1200-target-neighbor",
+    "name": "隣接するアイドルのスタミナを回復",
+    "type": 23,
+    "description": "隣接するアイドルのスタミナを1200回復",
+    "skillTargetId": "target-neighbor",
+    "shortDescription": "",
+    "grade": 0,
+    "maxGrade": 0
+  },
+  {
     "id": "ef-fix_stamina_recovery-1200-target-self",
     "name": "自身のスタミナ回復",
     "type": 23,
@@ -12145,6 +12255,16 @@
     "type": 23,
     "description": "全員のスタミナを2100回復",
     "skillTargetId": "target-all",
+    "shortDescription": "",
+    "grade": 0,
+    "maxGrade": 0
+  },
+  {
+    "id": "ef-fix_stamina_recovery-2100-target-neighbor",
+    "name": "隣接するアイドルのスタミナを回復",
+    "type": 23,
+    "description": "隣接するアイドルのスタミナを2100回復",
+    "skillTargetId": "target-neighbor",
     "shortDescription": "",
     "grade": 0,
     "maxGrade": 0
@@ -12560,6 +12680,16 @@
     "maxGrade": 0
   },
   {
+    "id": "ef-fix_stamina_recovery-3200-target-neighbor",
+    "name": "隣接するアイドルのスタミナを回復",
+    "type": 23,
+    "description": "隣接するアイドルのスタミナを3200回復",
+    "skillTargetId": "target-neighbor",
+    "shortDescription": "",
+    "grade": 0,
+    "maxGrade": 0
+  },
+  {
     "id": "ef-fix_stamina_recovery-3200-target-self",
     "name": "自身のスタミナ回復",
     "type": 23,
@@ -12670,6 +12800,16 @@
     "maxGrade": 0
   },
   {
+    "id": "ef-fix_stamina_recovery-3600-target-neighbor",
+    "name": "隣接するアイドルのスタミナを回復",
+    "type": 23,
+    "description": "隣接するアイドルのスタミナを3600回復",
+    "skillTargetId": "target-neighbor",
+    "shortDescription": "",
+    "grade": 0,
+    "maxGrade": 0
+  },
+  {
     "id": "ef-fix_stamina_recovery-3600-target-self",
     "name": "自身のスタミナ回復",
     "type": 23,
@@ -12725,6 +12865,16 @@
     "type": 23,
     "description": "スコアラータイプ2人のスタミナを3800回復",
     "skillTargetId": "target-character_type-1-2",
+    "shortDescription": "",
+    "grade": 0,
+    "maxGrade": 0
+  },
+  {
+    "id": "ef-fix_stamina_recovery-3800-target-neighbor",
+    "name": "隣接するアイドルのスタミナを回復",
+    "type": 23,
+    "description": "隣接するアイドルのスタミナを3800回復",
+    "skillTargetId": "target-neighbor",
     "shortDescription": "",
     "grade": 0,
     "maxGrade": 0
@@ -13545,6 +13695,16 @@
     "type": 23,
     "description": "全員のスタミナを900回復",
     "skillTargetId": "target-all",
+    "shortDescription": "",
+    "grade": 0,
+    "maxGrade": 0
+  },
+  {
+    "id": "ef-fix_stamina_recovery-900-target-neighbor",
+    "name": "隣接するアイドルのスタミナを回復",
+    "type": 23,
+    "description": "隣接するアイドルのスタミナを900回復",
+    "skillTargetId": "target-neighbor",
     "shortDescription": "",
     "grade": 0,
     "maxGrade": 0
@@ -22370,6 +22530,66 @@
     "shortDescription": ""
   },
   {
+    "id": "ef-stamina_consumption-1200-target-opponent_same_position",
+    "name": "同じレーンの相手のスタミナを消費",
+    "type": 49,
+    "description": "[ライブバトルのみ]同じレーンの相手のスタミナを1200消費",
+    "skillTargetId": "target-opponent_same_position",
+    "shortDescription": "",
+    "grade": 0,
+    "maxGrade": 0
+  },
+  {
+    "id": "ef-stamina_consumption-1400-target-opponent_same_position",
+    "name": "同じレーンの相手のスタミナを消費",
+    "type": 49,
+    "description": "[ライブバトルのみ]同じレーンの相手のスタミナを1400消費",
+    "skillTargetId": "target-opponent_same_position",
+    "shortDescription": "",
+    "grade": 0,
+    "maxGrade": 0
+  },
+  {
+    "id": "ef-stamina_consumption-1600-target-opponent_same_position",
+    "name": "同じレーンの相手のスタミナを消費",
+    "type": 49,
+    "description": "[ライブバトルのみ]同じレーンの相手のスタミナを1600消費",
+    "skillTargetId": "target-opponent_same_position",
+    "shortDescription": "",
+    "grade": 0,
+    "maxGrade": 0
+  },
+  {
+    "id": "ef-stamina_consumption-1900-target-opponent_same_position",
+    "name": "同じレーンの相手のスタミナを消費",
+    "type": 49,
+    "description": "[ライブバトルのみ]同じレーンの相手のスタミナを1900消費",
+    "skillTargetId": "target-opponent_same_position",
+    "shortDescription": "",
+    "grade": 0,
+    "maxGrade": 0
+  },
+  {
+    "id": "ef-stamina_consumption-2200-target-opponent_same_position",
+    "name": "同じレーンの相手のスタミナを消費",
+    "type": 49,
+    "description": "[ライブバトルのみ]同じレーンの相手のスタミナを2200消費",
+    "skillTargetId": "target-opponent_same_position",
+    "shortDescription": "",
+    "grade": 0,
+    "maxGrade": 0
+  },
+  {
+    "id": "ef-stamina_consumption-2500-target-opponent_same_position",
+    "name": "同じレーンの相手のスタミナを消費",
+    "type": 49,
+    "description": "[ライブバトルのみ]同じレーンの相手のスタミナを2500消費",
+    "skillTargetId": "target-opponent_same_position",
+    "shortDescription": "",
+    "grade": 0,
+    "maxGrade": 0
+  },
+  {
     "id": "ef-stamina_consumption_increase-10-target-opponent_center-40",
     "name": "相手のセンターにスタミナ消費増加",
     "type": 33,
@@ -22890,6 +23110,26 @@
     "shortDescription": ""
   },
   {
+    "id": "ef-stamina_consumption_reduction-6-target-all-45",
+    "name": "全体にスタミナ消費低減",
+    "type": 11,
+    "description": "全員に6段階消費スタミナ低下効果[45ビート]",
+    "grade": 6,
+    "maxGrade": 20,
+    "skillTargetId": "target-all",
+    "shortDescription": ""
+  },
+  {
+    "id": "ef-stamina_consumption_reduction-6-target-all-55",
+    "name": "全体にスタミナ消費低減",
+    "type": 11,
+    "description": "全員に6段階消費スタミナ低下効果[55ビート]",
+    "grade": 6,
+    "maxGrade": 20,
+    "skillTargetId": "target-all",
+    "shortDescription": ""
+  },
+  {
     "id": "ef-stamina_consumption_reduction-6-target-center-53",
     "name": "センターにスタミナ消費低減",
     "type": 11,
@@ -22990,6 +23230,26 @@
     "shortDescription": ""
   },
   {
+    "id": "ef-stamina_consumption_reduction-7-target-all-55",
+    "name": "全体にスタミナ消費低減",
+    "type": 11,
+    "description": "全員に7段階消費スタミナ低下効果[55ビート]",
+    "grade": 7,
+    "maxGrade": 20,
+    "skillTargetId": "target-all",
+    "shortDescription": ""
+  },
+  {
+    "id": "ef-stamina_consumption_reduction-7-target-all-65",
+    "name": "全体にスタミナ消費低減",
+    "type": 11,
+    "description": "全員に7段階消費スタミナ低下効果[65ビート]",
+    "grade": 7,
+    "maxGrade": 20,
+    "skillTargetId": "target-all",
+    "shortDescription": ""
+  },
+  {
     "id": "ef-stamina_consumption_reduction-7-target-neighbor-25",
     "name": "隣接するアイドルにスタミナ消費低減",
     "type": 11,
@@ -23034,6 +23294,26 @@
     "name": "全体にスタミナ消費軽減",
     "type": 11,
     "description": "全員に8段階消費スタミナ低下効果[48ビート]",
+    "grade": 8,
+    "maxGrade": 20,
+    "skillTargetId": "target-all",
+    "shortDescription": ""
+  },
+  {
+    "id": "ef-stamina_consumption_reduction-8-target-all-65",
+    "name": "全体にスタミナ消費低減",
+    "type": 11,
+    "description": "全員に8段階消費スタミナ低下効果[65ビート]",
+    "grade": 8,
+    "maxGrade": 20,
+    "skillTargetId": "target-all",
+    "shortDescription": ""
+  },
+  {
+    "id": "ef-stamina_consumption_reduction-8-target-all-75",
+    "name": "全体にスタミナ消費低減",
+    "type": 11,
+    "description": "全員に8段階消費スタミナ低下効果[75ビート]",
     "grade": 8,
     "maxGrade": 20,
     "skillTargetId": "target-all",

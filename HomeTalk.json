@@ -1010,6 +1010,50 @@
     ]
   },
   {
+    "homeTalkId": "home-talk-card-ktn-05-wedd-00-talk-01",
+    "characterId": "char-ktn",
+    "placeType": 1,
+    "conditionId": "cd-st-read-st-card-ktn-05-wedd-00-03",
+    "firstPriority": 9900,
+    "weight": 1,
+    "callPatternId": "call-pattern-card-ktn-05-wedd-00",
+    "choiceText": "お役に立てて嬉しいよ。",
+    "managerText": "お役に立てて嬉しいよ。",
+    "reliability": 5,
+    "characterTalks": [
+      {
+        "text": "これをきっかけにお母さんからは\n話も聞けたし、その時の気持ちも\nなんとなく分かったんです。",
+        "voiceAssetId": "sud_vo_home_ktn-05-wedd-00_talk-01-01",
+        "motionAssetId": "mot_adv_chr_cmn_pos-005_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "でもお父さんは照れてあんまり\n話してくれなかったんです。\nスッといなくなっちゃったし。",
+        "voiceAssetId": "sud_vo_home_ktn-05-wedd-00_talk-01-02",
+        "motionAssetId": "mot_adv_chr_cmn_glad-009_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "私はもっと聞きたかったので、\n翌日も話に出してみたんですけど、\n眠いとか言って横になっちゃって。",
+        "voiceAssetId": "sud_vo_home_ktn-05-wedd-00_talk-01-03",
+        "motionAssetId": "mot_adv_chr_cmn_talk-006_in",
+        "additionMotionAssetId": "mot_all_chr_cmn_facial-057_in"
+      },
+      {
+        "text": "ちょっと可愛かったです。",
+        "voiceAssetId": "sud_vo_home_ktn-05-wedd-00_talk-01-04",
+        "motionAssetId": "mot_adv_chr_cmn_glad-012_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "男の人ってこういう話\n苦手なんでしょうか。",
+        "voiceAssetId": "sud_vo_home_ktn-05-wedd-00_talk-01-05",
+        "motionAssetId": "mot_adv_chr_cmn_emb-004_in",
+        "additionMotionAssetId": ""
+      }
+    ]
+  },
+  {
     "homeTalkId": "home-talk-card-mei-05-fest-00-talk-01",
     "characterId": "char-mei",
     "placeType": 1,

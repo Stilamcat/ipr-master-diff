@@ -2024,6 +2024,66 @@
     "liveAbilityId": ""
   },
   {
+    "id": "card-ktn-05-wedd-00",
+    "assetId": "ktn-05-wedd-00",
+    "name": "Perfect Bride",
+    "description": "わぁ……素敵。ここが当日の会場なんですね\nでも……今更ですけど、本当にいいんでしょうか？\n私、まだ高校生ですよ？　その……結婚なんて",
+    "type": 3,
+    "characterId": "char-ktn",
+    "initialRarity": 5,
+    "cardParameterId": "card-param-01",
+    "vocalRatioPermil": 330,
+    "danceRatioPermil": 287,
+    "visualRatioPermil": 413,
+    "staminaRatioPermil": 900,
+    "cardLevelReleaseId": "card_level_release_1",
+    "skillId1": "sk-ktn-05-wedd-00-1",
+    "skillId2": "sk-ktn-05-wedd-00-2",
+    "skillId3": "sk-ktn-05-wedd-00-3",
+    "liveAbilityId": "lba-stamina_add",
+    "order": 217,
+    "releaseDate": "1654484400000",
+    "rewardCostumeId": "cos-ktn-wedd-00",
+    "imageType1": 3,
+    "displayPositionX1": 0.152,
+    "displayScale1": 1.0,
+    "highlightDisplayPositionX1": -0.2,
+    "highlightDisplayPositionY1": 0.099,
+    "highlightDisplayScale1": 1.1,
+    "imageType2": 3,
+    "displayPositionX2": 0.152,
+    "displayScale2": 1.0,
+    "highlightDisplayPositionX2": -0.2,
+    "highlightDisplayPositionY2": 0.099,
+    "highlightDisplayScale2": 1.1,
+    "obtainMessage": "結婚もいいかもって思いました",
+    "stories": [
+      {
+        "storyId": "st-card-ktn-05-wedd-00-01"
+      },
+      {
+        "storyId": "st-card-ktn-05-wedd-00-02"
+      },
+      {
+        "storyId": "st-card-ktn-05-wedd-00-03"
+      }
+    ],
+    "messages": [
+      {
+        "messageId": "message-card-ktn-05-wedd-00",
+        "telephoneId": ""
+      },
+      {
+        "telephoneId": "tel-card-ktn-05-wedd-00",
+        "messageId": ""
+      }
+    ],
+    "activityAbilityId": "",
+    "displayPositionY1": 0.0,
+    "displayPositionY2": 0.0,
+    "homeTalks": []
+  },
+  {
     "id": "card-mei-03-schl-00",
     "assetId": "mei-03-schl-00",
     "name": "バランス感覚UP",

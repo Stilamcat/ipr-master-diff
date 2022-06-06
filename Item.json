@@ -517,6 +517,17 @@
     "salePrice": 0
   },
   {
+    "id": "item-gacha_point-lm-set-bloom-22-0606",
+    "name": "皓月と花束ガチャPt",
+    "assetId": "gacha-point",
+    "description": "該当するガチャページの「ガチャPt」から\nガチャPtを消費してアイドルを獲得できる",
+    "type": 9,
+    "value": 1,
+    "order": 140,
+    "howToGet": "",
+    "salePrice": 0
+  },
+  {
     "id": "item-gacha_point-pick-set-bloom-21-1112",
     "name": "福招く獅子舞娘ガチャPt",
     "assetId": "gacha-point",
@@ -968,6 +979,17 @@
     "salePrice": 0
   },
   {
+    "id": "item-ladder_pt_22-0610",
+    "name": "メッセPt",
+    "assetId": "ladder-pt",
+    "description": "メッセージミッションで報酬を獲得することができます\nイベント終了後はコインに変換されます",
+    "howToGet": "メッセージミッション、自主トレ、プロモーション、ファンイベントなど",
+    "type": 8001,
+    "value": 1,
+    "order": 100,
+    "salePrice": 0
+  },
+  {
     "id": "item-marathon_medal-21-0930",
     "name": "リンクスメダル",
     "assetId": "medal-marathon",
@@ -1261,6 +1283,17 @@
     "howToGet": "ショップ",
     "type": 11,
     "value": 5,
+    "order": 24,
+    "salePrice": 0
+  },
+  {
+    "id": "item-photo_shooting-04-22-0606",
+    "name": "★5確定撮影フィルムLv.7",
+    "assetId": "photo-shooting-01-r5-2",
+    "description": "撮影を行うことができる\n★5確定で品質140のフォトを獲得できる",
+    "howToGet": "ショップ",
+    "type": 11,
+    "value": 7,
     "order": 24,
     "salePrice": 0
   },
