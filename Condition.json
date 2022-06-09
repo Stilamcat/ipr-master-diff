@@ -4938,6 +4938,17 @@
     ]
   },
   {
+    "id": "cd-chr-thrx-never-view",
+    "settings": [
+      {
+        "term": {
+          "nowAfter": "2556111599000",
+          "nowBefore": "0"
+        }
+      }
+    ]
+  },
+  {
     "id": "cd-clear-area-main-001",
     "settings": [
       {
@@ -37513,6 +37524,136 @@
     ]
   },
   {
+    "id": "cd-st-group-thrx-01-01-01",
+    "settings": [
+      {
+        "satisfyCondition": {
+          "conditionId": "cd-st-thrx-22-0610"
+        },
+        "readStory": {
+          "storyId": "st-group-thrx-01-01-01"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-st-group-thrx-01-01-02",
+    "settings": [
+      {
+        "satisfyCondition": {
+          "conditionId": "cd-st-thrx-22-0610"
+        },
+        "readStory": {
+          "storyId": "st-group-thrx-01-01-02"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-st-group-thrx-01-01-03",
+    "settings": [
+      {
+        "satisfyCondition": {
+          "conditionId": "cd-st-thrx-22-0610"
+        },
+        "readStory": {
+          "storyId": "st-group-thrx-01-01-03"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-st-group-thrx-01-01-04",
+    "settings": [
+      {
+        "satisfyCondition": {
+          "conditionId": "cd-st-thrx-22-0610"
+        },
+        "readStory": {
+          "storyId": "st-group-thrx-01-01-04"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-st-group-thrx-01-01-05",
+    "settings": [
+      {
+        "satisfyCondition": {
+          "conditionId": "cd-st-thrx-22-0610"
+        },
+        "readStory": {
+          "storyId": "st-group-thrx-01-01-05"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-st-group-thrx-01-01-06",
+    "settings": [
+      {
+        "satisfyCondition": {
+          "conditionId": "cd-st-thrx-22-0610"
+        },
+        "readStory": {
+          "storyId": "st-group-thrx-01-01-06"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-st-group-thrx-01-01-07",
+    "settings": [
+      {
+        "satisfyCondition": {
+          "conditionId": "cd-st-thrx-22-0610"
+        },
+        "readStory": {
+          "storyId": "st-group-thrx-01-01-07"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-st-group-thrx-01-01-08",
+    "settings": [
+      {
+        "satisfyCondition": {
+          "conditionId": "cd-st-thrx-22-0610"
+        },
+        "readStory": {
+          "storyId": "st-group-thrx-01-01-08"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-st-group-thrx-01-01-09",
+    "settings": [
+      {
+        "satisfyCondition": {
+          "conditionId": "cd-st-thrx-22-0610"
+        },
+        "readStory": {
+          "storyId": "st-group-thrx-01-01-09"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-st-group-thrx-01-01-10",
+    "settings": [
+      {
+        "satisfyCondition": {
+          "conditionId": "cd-st-thrx-22-0610"
+        },
+        "readStory": {
+          "storyId": "st-group-thrx-01-01-10"
+        }
+      }
+    ]
+  },
+  {
     "id": "cd-st-group-tri-01-01-01",
     "settings": [
       {
@@ -39135,6 +39276,17 @@
       {
         "readStory": {
           "storyId": "st-card-yu-05-xmas-00-03"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-st-thrx-22-0610",
+    "settings": [
+      {
+        "term": {
+          "nowAfter": "1654830000000",
+          "nowBefore": "0"
         }
       }
     ]

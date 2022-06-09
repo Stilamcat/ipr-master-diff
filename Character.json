@@ -578,6 +578,129 @@
     "isMemories": false
   },
   {
+    "id": "char-kan",
+    "assetId": "kan",
+    "order": 1001,
+    "name": "kana",
+    "cv": "田中あいみ",
+    "age": "-",
+    "birthday": "-",
+    "height": "-",
+    "weight": "-",
+    "zodiacSign": "おひつじ座",
+    "hometown": "-",
+    "favorite": "-",
+    "unfavorite": "-",
+    "profile": "-",
+    "costumeIds": [
+      "cos-kan-casl-00"
+    ],
+    "altCharacters": [
+      {
+        "characterId": "char-aoi",
+        "priority": 1
+      },
+      {
+        "characterId": "char-chs",
+        "priority": 15
+      },
+      {
+        "characterId": "char-hrk",
+        "priority": 13
+      },
+      {
+        "characterId": "char-kkr",
+        "priority": 2
+      },
+      {
+        "characterId": "char-kor",
+        "priority": 17
+      },
+      {
+        "characterId": "char-mei",
+        "priority": 11
+      },
+      {
+        "characterId": "char-mhk",
+        "priority": 18
+      },
+      {
+        "characterId": "char-ngs",
+        "priority": 10
+      },
+      {
+        "characterId": "char-rei",
+        "priority": 16
+      },
+      {
+        "characterId": "char-rio",
+        "priority": 3
+      },
+      {
+        "characterId": "char-rui",
+        "priority": 6
+      },
+      {
+        "characterId": "char-ski",
+        "priority": 8
+      },
+      {
+        "characterId": "char-skr",
+        "priority": 14
+      },
+      {
+        "characterId": "char-smr",
+        "priority": 5
+      },
+      {
+        "characterId": "char-suz",
+        "priority": 7
+      },
+      {
+        "characterId": "char-szk",
+        "priority": 12
+      },
+      {
+        "characterId": "char-yu",
+        "priority": 4
+      }
+    ],
+    "defaultCostumeId": "cos-mhk-casl-00",
+    "heightCorrectionPermil": 846,
+    "color": "474744",
+    "talkArrivalMotionAssetId": "mot_adv_chr_mna_appr-001_in",
+    "viewConditionId": "cd-chr-thrx-never-view",
+    "personalityType": 1,
+    "simplePersonalityType": 1,
+    "sdPersonalityType": 1,
+    "costumeMotionAssetIds": [
+      "mot_dress_chr_cmn_action-001-a_in",
+      "mot_dress_chr_cmn_action-002-a_in"
+    ],
+    "costumeAdditionMotionAssetIds": [
+      "",
+      ""
+    ],
+    "costumeVoiceAssetIds": [
+      "sud_vo_cmn_mna_dress-01",
+      "sud_vo_cmn_mna_dress-02"
+    ],
+    "psylliumColerType": 7,
+    "shortProfile": "裏表が激しいが、\nずば抜けたセンスを持つ\n小悪魔アイドル",
+    "threeSize": "-",
+    "catchphrase": "-",
+    "firstName": "miho",
+    "idiom": "-",
+    "defaultLiveCostumeId": "cos-mhk-casl-00",
+    "characterGroupId": "",
+    "enName": "",
+    "isNpc": false,
+    "activityFanEventWords": [],
+    "talkArrivalAdditionMotionAssetId": "",
+    "isLeftHanded": false,
+    "isMemories": false
+  },
+  {
     "id": "char-kkr",
     "assetId": "kkr",
     "characterGroupId": "character_group_4",
@@ -831,6 +954,133 @@
     "threeSize": "",
     "catchphrase": "",
     "idiom": "",
+    "isMemories": false
+  },
+  {
+    "id": "char-kor",
+    "assetId": "kor",
+    "order": 1000,
+    "name": "fran",
+    "cv": "Lynn",
+    "age": "-",
+    "birthday": "-",
+    "height": "-",
+    "weight": "-",
+    "zodiacSign": "ふたご座",
+    "hometown": "-",
+    "favorite": "-",
+    "unfavorite": "-",
+    "profile": "-",
+    "costumeIds": [
+      "cos-kor-casl-00"
+    ],
+    "altCharacters": [
+      {
+        "characterId": "char-aoi",
+        "priority": 1
+      },
+      {
+        "characterId": "char-chs",
+        "priority": 15
+      },
+      {
+        "characterId": "char-hrk",
+        "priority": 13
+      },
+      {
+        "characterId": "char-kan",
+        "priority": 17
+      },
+      {
+        "characterId": "char-kkr",
+        "priority": 2
+      },
+      {
+        "characterId": "char-ktn",
+        "priority": 9
+      },
+      {
+        "characterId": "char-mei",
+        "priority": 11
+      },
+      {
+        "characterId": "char-mhk",
+        "priority": 18
+      },
+      {
+        "characterId": "char-ngs",
+        "priority": 10
+      },
+      {
+        "characterId": "char-rei",
+        "priority": 16
+      },
+      {
+        "characterId": "char-rio",
+        "priority": 3
+      },
+      {
+        "characterId": "char-rui",
+        "priority": 6
+      },
+      {
+        "characterId": "char-ski",
+        "priority": 8
+      },
+      {
+        "characterId": "char-skr",
+        "priority": 14
+      },
+      {
+        "characterId": "char-smr",
+        "priority": 5
+      },
+      {
+        "characterId": "char-suz",
+        "priority": 7
+      },
+      {
+        "characterId": "char-szk",
+        "priority": 12
+      },
+      {
+        "characterId": "char-yu",
+        "priority": 4
+      }
+    ],
+    "defaultCostumeId": "cos-kor-casl-00",
+    "heightCorrectionPermil": 1307,
+    "color": "474744",
+    "talkArrivalMotionAssetId": "mot_adv_chr_mna_appr-001_in",
+    "viewConditionId": "cd-chr-thrx-never-view",
+    "personalityType": 1,
+    "simplePersonalityType": 1,
+    "sdPersonalityType": 1,
+    "costumeMotionAssetIds": [
+      "mot_dress_chr_cmn_action-001-a_in",
+      "mot_dress_chr_cmn_action-002-a_in"
+    ],
+    "costumeAdditionMotionAssetIds": [
+      "",
+      ""
+    ],
+    "costumeVoiceAssetIds": [
+      "sud_vo_cmn_mna_dress-01",
+      "sud_vo_cmn_mna_dress-02"
+    ],
+    "psylliumColerType": 7,
+    "shortProfile": "抜群のスタイルを持つ、\n天才肌で努力を知らない\nカリスマ",
+    "threeSize": "-",
+    "catchphrase": "-",
+    "firstName": "fran",
+    "idiom": "-",
+    "defaultLiveCostumeId": "cos-kor-casl-00",
+    "characterGroupId": "",
+    "enName": "",
+    "isNpc": false,
+    "activityFanEventWords": [],
+    "talkArrivalAdditionMotionAssetId": "",
+    "isLeftHanded": false,
     "isMemories": false
   },
   {
@@ -1118,6 +1368,129 @@
     "isNpc": false,
     "talkArrivalAdditionMotionAssetId": "",
     "viewConditionId": "",
+    "isLeftHanded": false,
+    "isMemories": false
+  },
+  {
+    "id": "char-mhk",
+    "assetId": "mhk",
+    "order": 1002,
+    "name": "miho",
+    "cv": "村川梨衣",
+    "age": "-",
+    "birthday": "-",
+    "height": "-",
+    "weight": "-",
+    "zodiacSign": "みずがめ座",
+    "hometown": "-",
+    "favorite": "-",
+    "unfavorite": "-",
+    "profile": "-",
+    "costumeIds": [
+      "cos-mhk-casl-00"
+    ],
+    "altCharacters": [
+      {
+        "characterId": "char-aoi",
+        "priority": 1
+      },
+      {
+        "characterId": "char-chs",
+        "priority": 15
+      },
+      {
+        "characterId": "char-hrk",
+        "priority": 13
+      },
+      {
+        "characterId": "char-kan",
+        "priority": 17
+      },
+      {
+        "characterId": "char-kkr",
+        "priority": 2
+      },
+      {
+        "characterId": "char-mei",
+        "priority": 11
+      },
+      {
+        "characterId": "char-mhk",
+        "priority": 18
+      },
+      {
+        "characterId": "char-ngs",
+        "priority": 10
+      },
+      {
+        "characterId": "char-rei",
+        "priority": 16
+      },
+      {
+        "characterId": "char-rio",
+        "priority": 3
+      },
+      {
+        "characterId": "char-rui",
+        "priority": 6
+      },
+      {
+        "characterId": "char-ski",
+        "priority": 8
+      },
+      {
+        "characterId": "char-skr",
+        "priority": 14
+      },
+      {
+        "characterId": "char-smr",
+        "priority": 5
+      },
+      {
+        "characterId": "char-suz",
+        "priority": 7
+      },
+      {
+        "characterId": "char-szk",
+        "priority": 12
+      },
+      {
+        "characterId": "char-yu",
+        "priority": 4
+      }
+    ],
+    "defaultCostumeId": "cos-kan-casl-00",
+    "heightCorrectionPermil": 769,
+    "color": "474744",
+    "talkArrivalMotionAssetId": "mot_adv_chr_mna_appr-001_in",
+    "viewConditionId": "cd-chr-thrx-never-view",
+    "personalityType": 1,
+    "simplePersonalityType": 1,
+    "sdPersonalityType": 1,
+    "costumeMotionAssetIds": [
+      "mot_dress_chr_cmn_action-001-a_in",
+      "mot_dress_chr_cmn_action-002-a_in"
+    ],
+    "costumeAdditionMotionAssetIds": [
+      "",
+      ""
+    ],
+    "costumeVoiceAssetIds": [
+      "sud_vo_cmn_mna_dress-01",
+      "sud_vo_cmn_mna_dress-02"
+    ],
+    "psylliumColerType": 7,
+    "shortProfile": "抱負な経験と知識を活かして\n活動に励む\n理論派",
+    "threeSize": "-",
+    "catchphrase": "-",
+    "firstName": "kana",
+    "idiom": "-",
+    "defaultLiveCostumeId": "cos-kan-casl-00",
+    "characterGroupId": "",
+    "enName": "",
+    "isNpc": false,
+    "activityFanEventWords": [],
+    "talkArrivalAdditionMotionAssetId": "",
     "isLeftHanded": false,
     "isMemories": false
   },

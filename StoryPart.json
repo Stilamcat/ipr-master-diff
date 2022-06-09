@@ -663,6 +663,107 @@
     "unlockConditionId": ""
   },
   {
+    "id": "st-part-group-04",
+    "assetId": "group-04",
+    "name": "ⅢX",
+    "order": 4,
+    "type": 2,
+    "pointType": 4,
+    "storyEpisodeConsumptionId": "story-consumption-group-04",
+    "chapters": [
+      {
+        "chapter": 1,
+        "route": 1,
+        "name": "Diamond Mining",
+        "episodes": [
+          {
+            "episode": 1,
+            "assetId": "group_thrx_01_01",
+            "storyId": "st-group-thrx-01-01-01",
+            "viewConditionId": "cd-st-thrx-22-0610",
+            "unlockConditionId": "",
+            "isReleased": false
+          },
+          {
+            "episode": 2,
+            "assetId": "group_thrx_01_02",
+            "storyId": "st-group-thrx-01-01-02",
+            "viewConditionId": "cd-st-group-thrx-01-01-01",
+            "unlockConditionId": "",
+            "isReleased": false
+          },
+          {
+            "episode": 3,
+            "assetId": "group_thrx_01_03",
+            "storyId": "st-group-thrx-01-01-03",
+            "viewConditionId": "cd-st-group-thrx-01-01-02",
+            "unlockConditionId": "",
+            "isReleased": false
+          },
+          {
+            "episode": 4,
+            "assetId": "group_thrx_01_04",
+            "storyId": "st-group-thrx-01-01-04",
+            "viewConditionId": "cd-st-group-thrx-01-01-03",
+            "unlockConditionId": "",
+            "isReleased": false
+          },
+          {
+            "episode": 5,
+            "assetId": "group_thrx_01_05",
+            "storyId": "st-group-thrx-01-01-05",
+            "viewConditionId": "cd-st-group-thrx-01-01-04",
+            "unlockConditionId": "",
+            "isReleased": false
+          },
+          {
+            "episode": 6,
+            "assetId": "group_thrx_02_01",
+            "storyId": "st-group-thrx-01-01-06",
+            "viewConditionId": "cd-st-group-thrx-01-01-05",
+            "unlockConditionId": "",
+            "isReleased": false
+          },
+          {
+            "episode": 7,
+            "assetId": "group_thrx_02_02",
+            "storyId": "st-group-thrx-01-01-07",
+            "viewConditionId": "cd-st-group-thrx-01-01-06",
+            "unlockConditionId": "",
+            "isReleased": false
+          },
+          {
+            "episode": 8,
+            "assetId": "group_thrx_02_03",
+            "storyId": "st-group-thrx-01-01-08",
+            "viewConditionId": "cd-st-group-thrx-01-01-07",
+            "unlockConditionId": "",
+            "isReleased": false
+          },
+          {
+            "episode": 9,
+            "assetId": "group_thrx_02_04",
+            "storyId": "st-group-thrx-01-01-09",
+            "viewConditionId": "cd-st-group-thrx-01-01-08",
+            "unlockConditionId": "",
+            "isReleased": false
+          },
+          {
+            "episode": 10,
+            "assetId": "group_thrx_02_05",
+            "storyId": "st-group-thrx-01-01-10",
+            "viewConditionId": "cd-st-group-thrx-01-01-09",
+            "unlockConditionId": "",
+            "isReleased": false
+          }
+        ]
+      }
+    ],
+    "subTitle": "",
+    "viewConditionId": "",
+    "unlockConditionId": ""
+  },
+  {
     "id": "st-part-main-01",
     "assetId": "main-01",
     "name": "東京編",
