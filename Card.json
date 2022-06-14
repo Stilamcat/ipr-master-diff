@@ -6142,6 +6142,66 @@
     "activityAbilityId": ""
   },
   {
+    "id": "card-yu-05-wedd-01",
+    "assetId": "yu-05-wedd-01",
+    "name": "心恋、京ツアー",
+    "description": "どうやろ？　ふふっ、嬉しいけど\nやっぱり少し照れますなぁ\nマネージャーさん、うち可愛いですか？\nなかなかいいんとちゃいます？",
+    "type": 2,
+    "characterId": "char-yu",
+    "initialRarity": 5,
+    "cardParameterId": "card-param-01",
+    "vocalRatioPermil": 280,
+    "danceRatioPermil": 427,
+    "visualRatioPermil": 323,
+    "staminaRatioPermil": 900,
+    "cardLevelReleaseId": "card_level_release_1",
+    "skillId1": "sk-yu-05-wedd-01-1",
+    "skillId2": "sk-yu-05-wedd-01-2",
+    "skillId3": "sk-yu-05-wedd-01-3",
+    "activityAbilityId": "aab-fan_event_manager_exp_up",
+    "order": 219,
+    "releaseDate": "1655175600000",
+    "rewardCostumeId": "cos-yu-wedd-01",
+    "imageType1": 3,
+    "displayPositionX1": 0.127,
+    "displayScale1": 1.0,
+    "highlightDisplayPositionX1": -0.16,
+    "highlightDisplayPositionY1": 0.137,
+    "highlightDisplayScale1": 0.8,
+    "imageType2": 3,
+    "displayPositionX2": 0.127,
+    "displayScale2": 1.0,
+    "highlightDisplayPositionX2": -0.16,
+    "highlightDisplayPositionY2": 0.137,
+    "highlightDisplayScale2": 0.8,
+    "obtainMessage": "うち可愛いですか？\nなかなかいいんとちゃいます？",
+    "stories": [
+      {
+        "storyId": "st-card-yu-05-wedd-01-01"
+      },
+      {
+        "storyId": "st-card-yu-05-wedd-01-02"
+      },
+      {
+        "storyId": "st-card-yu-05-wedd-01-03"
+      }
+    ],
+    "messages": [
+      {
+        "messageId": "message-card-yu-05-wedd-01",
+        "telephoneId": ""
+      },
+      {
+        "telephoneId": "tel-card-yu-05-wedd-01",
+        "messageId": ""
+      }
+    ],
+    "liveAbilityId": "",
+    "displayPositionY1": 0.0,
+    "displayPositionY2": 0.0,
+    "homeTalks": []
+  },
+  {
     "id": "card-yu-05-xmas-00",
     "assetId": "yu-05-xmas-00",
     "name": "うちらのクリスマスイブ",

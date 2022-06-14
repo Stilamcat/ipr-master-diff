@@ -474,6 +474,27 @@
     "receiveConditionId": "cd-time-login-22-0528-0610"
   },
   {
+    "id": "login_bonus-campaign-22-0615-01",
+    "name": "もうすぐ\n1周年記念第2弾",
+    "description": "7日間の特別なログインボーナス",
+    "type": 2,
+    "assetId": "login-campaign-22-0615-01",
+    "topColorCode": "00CEFF",
+    "bottomColorCode": "D0FFA0",
+    "priority": 10,
+    "rewardIds": [
+      "rd_auto;item;item-act_promotion_shorten;3",
+      "rd_auto;item;item-daily_quest_ticket_01;3",
+      "rd_auto;item;item-exchange-anniversary-medal-22-0526;10",
+      "rd_auto;item;item-daily_quest_ticket_02;3",
+      "rd_auto;item;item-daily_quest_ticket_03;3",
+      "rd_auto;item;item-exchange-anniversary-medal-22-0526;10",
+      "rd_auto;stone;;500"
+    ],
+    "openConditionId": "cd-time-login-22-0615-0621",
+    "receiveConditionId": "cd-time-login-22-0615-0628"
+  },
+  {
     "id": "login_bonus-normal-01",
     "name": "デイリー",
     "description": "毎日もらえるログインボーナス",

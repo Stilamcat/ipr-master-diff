@@ -2982,6 +2982,50 @@
     ]
   },
   {
+    "homeTalkId": "home-talk-card-yu-05-wedd-01-talk-01",
+    "characterId": "char-yu",
+    "placeType": 1,
+    "conditionId": "cd-st-read-st-card-yu-05-wedd-01-03",
+    "firstPriority": 9900,
+    "weight": 1,
+    "callPatternId": "call-pattern-card-yu-05-wedd-01",
+    "choiceText": "ん？　後戻りってなんだ？\n何か悩み事か？",
+    "managerText": "ん？　後戻りってなんだ？\n何か悩み事か？",
+    "reliability": 5,
+    "characterTalks": [
+      {
+        "text": "あんな、京都で二人の写真\n撮ったやん？\nうちが白無垢のやつ。",
+        "voiceAssetId": "sud_vo_home_yu-05-wedd-01_talk-01-01",
+        "motionAssetId": "mot_adv_chr_cmn_ask-006_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "あれ嬉しくて両親にも見せたんよ。\nそしたら、今度正式に紹介して\nほしいって連絡がきてんなぁ…。",
+        "voiceAssetId": "sud_vo_home_yu-05-wedd-01_talk-01-02",
+        "motionAssetId": "mot_adv_chr_cmn_glad-002_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "うちの両親、動き早いから\nこれは一気に日取りまで\n決まってしまうわ。困った困った。",
+        "voiceAssetId": "sud_vo_home_yu-05-wedd-01_talk-01-03",
+        "motionAssetId": "mot_adv_chr_cmn_pos-006_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "これは{user}さんに\n男らしいとこ見せてもらわな\nあかんなぁ。",
+        "voiceAssetId": "sud_vo_home_yu-05-wedd-01_talk-01-04",
+        "motionAssetId": "mot_adv_chr_cmn_pos-022_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "…ふふっめっちゃ固まってるやん。\nもう、冗談やんかぁ。そんなんされ\nたら、もっといじりたくなるわぁ。",
+        "voiceAssetId": "sud_vo_home_yu-05-wedd-01_talk-01-05",
+        "motionAssetId": "mot_adv_chr_cmn_glad-001_in",
+        "additionMotionAssetId": ""
+      }
+    ]
+  },
+  {
     "homeTalkId": "home-talk-card-yu-05-xmas-00-talk-01",
     "characterId": "char-yu",
     "placeType": 1,

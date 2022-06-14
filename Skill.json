@@ -75940,6 +75940,402 @@
     "assetId": ""
   },
   {
+    "id": "sk-yu-05-wedd-01-1",
+    "name": "うち可愛いですか？",
+    "categoryType": 1,
+    "levels": [
+      {
+        "level": 1,
+        "description": "1200%のスコア獲得\n全員の強化効果を10延長\nスタミナ383消費 ",
+        "shortDescription": "\n\nスタミナ383消費 ",
+        "stamina": 383,
+        "probabilityPermil": 1000,
+        "skillDetails": [
+          {
+            "efficacyId": "ef-score_get-12000-chart_dependence",
+            "triggerId": ""
+          },
+          {
+            "efficacyId": "ef-strength_effect_count_increase-10-target-all",
+            "triggerId": ""
+          }
+        ],
+        "requiredItemAmount": 0,
+        "requiredCardLevel": 0,
+        "triggerId": "",
+        "limitCount": 0,
+        "coolTime": 0
+      },
+      {
+        "level": 2,
+        "description": "1300%のスコア獲得\n全員の強化効果を12延長\nスタミナ424消費 ",
+        "shortDescription": "\n\nスタミナ424消費 ",
+        "requiredItemAmount": 500,
+        "requiredCardLevel": 40,
+        "stamina": 424,
+        "probabilityPermil": 1000,
+        "skillDetails": [
+          {
+            "efficacyId": "ef-score_get-13000-chart_dependence",
+            "triggerId": ""
+          },
+          {
+            "efficacyId": "ef-strength_effect_count_increase-12-target-all",
+            "triggerId": ""
+          }
+        ],
+        "triggerId": "",
+        "limitCount": 0,
+        "coolTime": 0
+      },
+      {
+        "level": 3,
+        "description": "1450%のスコア獲得\n全員の強化効果を14延長\nスタミナ478消費 ",
+        "shortDescription": "\n\nスタミナ478消費 ",
+        "requiredItemAmount": 2000,
+        "requiredCardLevel": 60,
+        "stamina": 478,
+        "probabilityPermil": 1000,
+        "skillDetails": [
+          {
+            "efficacyId": "ef-score_get-14500-chart_dependence",
+            "triggerId": ""
+          },
+          {
+            "efficacyId": "ef-strength_effect_count_increase-14-target-all",
+            "triggerId": ""
+          }
+        ],
+        "triggerId": "",
+        "limitCount": 0,
+        "coolTime": 0
+      },
+      {
+        "level": 4,
+        "description": "1600%のスコア獲得\n全員の強化効果を17延長\nスタミナ539消費 ",
+        "shortDescription": "\n\nスタミナ539消費 ",
+        "requiredItemAmount": 15000,
+        "requiredCardLevel": 90,
+        "stamina": 539,
+        "probabilityPermil": 1000,
+        "skillDetails": [
+          {
+            "efficacyId": "ef-score_get-16000-chart_dependence",
+            "triggerId": ""
+          },
+          {
+            "efficacyId": "ef-strength_effect_count_increase-17-target-all",
+            "triggerId": ""
+          }
+        ],
+        "triggerId": "",
+        "limitCount": 0,
+        "coolTime": 0
+      },
+      {
+        "level": 5,
+        "description": "1750%のスコア獲得\n全員の強化効果を19延長\nスタミナ593消費 ",
+        "shortDescription": "\n\nスタミナ593消費 ",
+        "requiredItemAmount": 100000,
+        "requiredCardLevel": 150,
+        "stamina": 593,
+        "probabilityPermil": 1000,
+        "skillDetails": [
+          {
+            "efficacyId": "ef-score_get-17500-chart_dependence",
+            "triggerId": ""
+          },
+          {
+            "efficacyId": "ef-strength_effect_count_increase-19-target-all",
+            "triggerId": ""
+          }
+        ],
+        "triggerId": "",
+        "limitCount": 0,
+        "coolTime": 0
+      },
+      {
+        "level": 6,
+        "description": "1900%のスコア獲得\n全員の強化効果を22延長\nスタミナ655消費 ",
+        "shortDescription": "\n\nスタミナ655消費 ",
+        "requiredItemAmount": 230000,
+        "requiredCardLevel": 180,
+        "stamina": 655,
+        "probabilityPermil": 1000,
+        "skillDetails": [
+          {
+            "efficacyId": "ef-score_get-19000-chart_dependence",
+            "triggerId": ""
+          },
+          {
+            "efficacyId": "ef-strength_effect_count_increase-22-target-all",
+            "triggerId": ""
+          }
+        ],
+        "triggerId": "",
+        "limitCount": 0,
+        "coolTime": 0
+      }
+    ],
+    "assetId": "sk-yu-05-wedd-01-1"
+  },
+  {
+    "id": "sk-yu-05-wedd-01-2",
+    "name": "仲深まる京出張",
+    "categoryType": 2,
+    "levels": [
+      {
+        "level": 1,
+        "description": "380%のスコア獲得\n自身がダンスレーンの時 スコアラータイプ1人に6段階クリティカル率上昇効果[15ビート]\nスタミナ113消費 CT:30",
+        "shortDescription": "\n \nスタミナ113消費 CT:30",
+        "stamina": 113,
+        "probabilityPermil": 1000,
+        "coolTime": 30,
+        "skillDetails": [
+          {
+            "efficacyId": "ef-score_get-3800-chart_dependence",
+            "triggerId": ""
+          },
+          {
+            "efficacyId": "ef-critical_rate_up-6-target-character_type-1-1-15",
+            "triggerId": "tg-position_attribute_dance"
+          }
+        ],
+        "requiredItemAmount": 0,
+        "requiredCardLevel": 0,
+        "triggerId": "",
+        "limitCount": 0
+      },
+      {
+        "level": 2,
+        "description": "400%のスコア獲得\n自身がダンスレーンの時 スコアラータイプ1人に6段階クリティカル率上昇効果[19ビート]\nスタミナ120消費 CT:30",
+        "shortDescription": "\n \nスタミナ120消費 CT:30",
+        "requiredItemAmount": 1000,
+        "requiredCardLevel": 50,
+        "stamina": 120,
+        "probabilityPermil": 1000,
+        "coolTime": 30,
+        "skillDetails": [
+          {
+            "efficacyId": "ef-score_get-4000-chart_dependence",
+            "triggerId": ""
+          },
+          {
+            "efficacyId": "ef-critical_rate_up-6-target-character_type-1-1-19",
+            "triggerId": "tg-position_attribute_dance"
+          }
+        ],
+        "triggerId": "",
+        "limitCount": 0
+      },
+      {
+        "level": 3,
+        "description": "430%のスコア獲得\n自身がダンスレーンの時 スコアラータイプ1人に7段階クリティカル率上昇効果[19ビート]\nスタミナ130消費 CT:30",
+        "shortDescription": "\n \nスタミナ130消費 CT:30",
+        "requiredItemAmount": 4000,
+        "requiredCardLevel": 70,
+        "stamina": 130,
+        "probabilityPermil": 1000,
+        "coolTime": 30,
+        "skillDetails": [
+          {
+            "efficacyId": "ef-score_get-4300-chart_dependence",
+            "triggerId": ""
+          },
+          {
+            "efficacyId": "ef-critical_rate_up-7-target-character_type-1-1-19",
+            "triggerId": "tg-position_attribute_dance"
+          }
+        ],
+        "triggerId": "",
+        "limitCount": 0
+      },
+      {
+        "level": 4,
+        "description": "460%のスコア獲得\n自身がダンスレーンの時 スコアラータイプ1人に7段階クリティカル率上昇効果[23ビート]\nスタミナ141消費 CT:30",
+        "shortDescription": "\n \nスタミナ141消費 CT:30",
+        "requiredItemAmount": 30000,
+        "requiredCardLevel": 110,
+        "stamina": 141,
+        "probabilityPermil": 1000,
+        "coolTime": 30,
+        "skillDetails": [
+          {
+            "efficacyId": "ef-score_get-4600-chart_dependence",
+            "triggerId": ""
+          },
+          {
+            "efficacyId": "ef-critical_rate_up-7-target-character_type-1-1-23",
+            "triggerId": "tg-position_attribute_dance"
+          }
+        ],
+        "triggerId": "",
+        "limitCount": 0
+      },
+      {
+        "level": 5,
+        "description": "490%のスコア獲得\n自身がダンスレーンの時 スコアラータイプ1人に8段階クリティカル率上昇効果[23ビート]\nスタミナ151消費 CT:30",
+        "shortDescription": "\n \nスタミナ151消費 CT:30",
+        "requiredItemAmount": 140000,
+        "requiredCardLevel": 160,
+        "stamina": 151,
+        "probabilityPermil": 1000,
+        "coolTime": 30,
+        "skillDetails": [
+          {
+            "efficacyId": "ef-score_get-4900-chart_dependence",
+            "triggerId": ""
+          },
+          {
+            "efficacyId": "ef-critical_rate_up-8-target-character_type-1-1-23",
+            "triggerId": "tg-position_attribute_dance"
+          }
+        ],
+        "triggerId": "",
+        "limitCount": 0
+      },
+      {
+        "level": 6,
+        "description": "520%のスコア獲得\n自身がダンスレーンの時 スコアラータイプ1人に8段階クリティカル率上昇効果[27ビート]\nスタミナ161消費 CT:30",
+        "shortDescription": "\n \nスタミナ161消費 CT:30",
+        "requiredItemAmount": 140000,
+        "requiredCardLevel": 210,
+        "stamina": 161,
+        "probabilityPermil": 1000,
+        "coolTime": 30,
+        "skillDetails": [
+          {
+            "efficacyId": "ef-score_get-5200-chart_dependence",
+            "triggerId": ""
+          },
+          {
+            "efficacyId": "ef-critical_rate_up-8-target-character_type-1-1-27",
+            "triggerId": "tg-position_attribute_dance"
+          }
+        ],
+        "triggerId": "",
+        "limitCount": 0
+      }
+    ],
+    "assetId": ""
+  },
+  {
+    "id": "sk-yu-05-wedd-01-3",
+    "name": "ふるさと凱旋",
+    "categoryType": 3,
+    "levels": [
+      {
+        "level": 1,
+        "description": "ダンスタイプ2人に5段階テンションUP効果[34ビート]\nスタミナ153消費 CT:60",
+        "shortDescription": "\nスタミナ153消費 CT:60",
+        "stamina": 153,
+        "probabilityPermil": 1000,
+        "coolTime": 60,
+        "skillDetails": [
+          {
+            "efficacyId": "ef-tension_up-5-target-dance-2-34",
+            "triggerId": ""
+          }
+        ],
+        "requiredItemAmount": 0,
+        "requiredCardLevel": 0,
+        "triggerId": "",
+        "limitCount": 0
+      },
+      {
+        "level": 2,
+        "description": "ダンスタイプ2人に5段階テンションUP効果[39ビート]\nスタミナ175消費 CT:60",
+        "shortDescription": "\nスタミナ175消費 CT:60",
+        "requiredItemAmount": 15000,
+        "requiredCardLevel": 100,
+        "stamina": 175,
+        "probabilityPermil": 1000,
+        "coolTime": 60,
+        "skillDetails": [
+          {
+            "efficacyId": "ef-tension_up-5-target-dance-2-39",
+            "triggerId": ""
+          }
+        ],
+        "triggerId": "",
+        "limitCount": 0
+      },
+      {
+        "level": 3,
+        "description": "ダンスタイプ2人に6段階テンションUP効果[39ビート]\nスタミナ209消費 CT:60",
+        "shortDescription": "\nスタミナ209消費 CT:60",
+        "requiredItemAmount": 60000,
+        "requiredCardLevel": 130,
+        "stamina": 209,
+        "probabilityPermil": 1000,
+        "coolTime": 60,
+        "skillDetails": [
+          {
+            "efficacyId": "ef-tension_up-6-target-dance-2-39",
+            "triggerId": ""
+          }
+        ],
+        "triggerId": "",
+        "limitCount": 0
+      },
+      {
+        "level": 4,
+        "description": "ダンスタイプ2人に6段階テンションUP効果[44ビート]\nスタミナ237消費 CT:60",
+        "shortDescription": "\nスタミナ237消費 CT:60",
+        "requiredItemAmount": 180000,
+        "requiredCardLevel": 170,
+        "stamina": 237,
+        "probabilityPermil": 1000,
+        "coolTime": 60,
+        "skillDetails": [
+          {
+            "efficacyId": "ef-tension_up-6-target-dance-2-44",
+            "triggerId": ""
+          }
+        ],
+        "triggerId": "",
+        "limitCount": 0
+      },
+      {
+        "level": 5,
+        "description": "ダンスタイプ2人に7段階テンションUP効果[44ビート]\nスタミナ276消費 CT:60",
+        "shortDescription": "\nスタミナ276消費 CT:60",
+        "requiredItemAmount": 230000,
+        "requiredCardLevel": 190,
+        "stamina": 276,
+        "probabilityPermil": 1000,
+        "coolTime": 60,
+        "skillDetails": [
+          {
+            "efficacyId": "ef-tension_up-7-target-dance-2-44",
+            "triggerId": ""
+          }
+        ],
+        "triggerId": "",
+        "limitCount": 0
+      },
+      {
+        "level": 6,
+        "description": "ダンスタイプ2人に7段階テンションUP効果[49ビート]\nスタミナ307消費 CT:60",
+        "shortDescription": "\nスタミナ307消費 CT:60",
+        "requiredItemAmount": 230000,
+        "requiredCardLevel": 220,
+        "stamina": 307,
+        "probabilityPermil": 1000,
+        "coolTime": 60,
+        "skillDetails": [
+          {
+            "efficacyId": "ef-tension_up-7-target-dance-2-49",
+            "triggerId": ""
+          }
+        ],
+        "triggerId": "",
+        "limitCount": 0
+      }
+    ],
+    "assetId": ""
+  },
+  {
     "id": "sk-yu-05-xmas-00-1",
     "name": "メリークリスマスや",
     "categoryType": 1,
