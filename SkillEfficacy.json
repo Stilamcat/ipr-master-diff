@@ -7580,6 +7580,26 @@
     "shortDescription": ""
   },
   {
+    "id": "ef-critical_rate_up-6-target-character_type-1-1-15",
+    "name": "スコアラータイプ1人にクリティカル率アップ",
+    "type": 19,
+    "description": "スコアラータイプ1人に6段階クリティカル率上昇効果[15ビート]",
+    "grade": 6,
+    "maxGrade": 20,
+    "skillTargetId": "target-character_type-1-1",
+    "shortDescription": ""
+  },
+  {
+    "id": "ef-critical_rate_up-6-target-character_type-1-1-19",
+    "name": "スコアラータイプ1人にクリティカル率アップ",
+    "type": 19,
+    "description": "スコアラータイプ1人に6段階クリティカル率上昇効果[19ビート]",
+    "grade": 6,
+    "maxGrade": 20,
+    "skillTargetId": "target-character_type-1-1",
+    "shortDescription": ""
+  },
+  {
     "id": "ef-critical_rate_up-6-target-character_type-1-2-33",
     "name": "スコアラータイプ2人にクリティカル率アップ",
     "type": 19,
@@ -8020,6 +8040,26 @@
     "shortDescription": ""
   },
   {
+    "id": "ef-critical_rate_up-7-target-character_type-1-1-19",
+    "name": "スコアラータイプ1人にクリティカル率アップ",
+    "type": 19,
+    "description": "スコアラータイプ1人に7段階クリティカル率上昇効果[19ビート]",
+    "grade": 7,
+    "maxGrade": 20,
+    "skillTargetId": "target-character_type-1-1",
+    "shortDescription": ""
+  },
+  {
+    "id": "ef-critical_rate_up-7-target-character_type-1-1-23",
+    "name": "スコアラータイプ1人にクリティカル率アップ",
+    "type": 19,
+    "description": "スコアラータイプ1人に7段階クリティカル率上昇効果[23ビート]",
+    "grade": 7,
+    "maxGrade": 20,
+    "skillTargetId": "target-character_type-1-1",
+    "shortDescription": ""
+  },
+  {
     "id": "ef-critical_rate_up-7-target-character_type-1-2-38",
     "name": "スコアラータイプ2人にクリティカル率アップ",
     "type": 19,
@@ -8257,6 +8297,26 @@
     "grade": 8,
     "maxGrade": 20,
     "skillTargetId": "target-center",
+    "shortDescription": ""
+  },
+  {
+    "id": "ef-critical_rate_up-8-target-character_type-1-1-23",
+    "name": "スコアラータイプ1人にクリティカル率アップ",
+    "type": 19,
+    "description": "スコアラータイプ1人に8段階クリティカル率上昇効果[23ビート]",
+    "grade": 8,
+    "maxGrade": 20,
+    "skillTargetId": "target-character_type-1-1",
+    "shortDescription": ""
+  },
+  {
+    "id": "ef-critical_rate_up-8-target-character_type-1-1-27",
+    "name": "スコアラータイプ1人にクリティカル率アップ",
+    "type": 19,
+    "description": "スコアラータイプ1人に8段階クリティカル率上昇効果[27ビート]",
+    "grade": 8,
+    "maxGrade": 20,
+    "skillTargetId": "target-character_type-1-1",
     "shortDescription": ""
   },
   {
@@ -14404,6 +14464,16 @@
     "name": "スコア獲得",
     "type": 1,
     "description": "175%のスコア獲得",
+    "shortDescription": "",
+    "grade": 0,
+    "maxGrade": 0,
+    "skillTargetId": ""
+  },
+  {
+    "id": "ef-score_get-17500-chart_dependence",
+    "name": "スコア獲得",
+    "type": 1,
+    "description": "1750%のスコア獲得",
     "shortDescription": "",
     "grade": 0,
     "maxGrade": 0,
@@ -23640,6 +23710,16 @@
     "maxGrade": 0
   },
   {
+    "id": "ef-strength_effect_count_increase-10-target-all",
+    "name": "全体の強化効果を延長",
+    "type": 25,
+    "description": "全員の強化効果を10延長",
+    "skillTargetId": "target-all",
+    "shortDescription": "",
+    "grade": 0,
+    "maxGrade": 0
+  },
+  {
     "id": "ef-strength_effect_count_increase-10-target-center",
     "name": "センターの強化効果延長",
     "type": 25,
@@ -23700,6 +23780,16 @@
     "maxGrade": 0
   },
   {
+    "id": "ef-strength_effect_count_increase-12-target-all",
+    "name": "全体の強化効果を延長",
+    "type": 25,
+    "description": "全員の強化効果を12延長",
+    "skillTargetId": "target-all",
+    "shortDescription": "",
+    "grade": 0,
+    "maxGrade": 0
+  },
+  {
     "id": "ef-strength_effect_count_increase-12-target-center",
     "name": "センターの強化効果延長",
     "type": 25,
@@ -23725,6 +23815,16 @@
     "type": 25,
     "description": "対象1人の強化効果を12延長",
     "skillTargetId": "target-trigger",
+    "shortDescription": "",
+    "grade": 0,
+    "maxGrade": 0
+  },
+  {
+    "id": "ef-strength_effect_count_increase-14-target-all",
+    "name": "全体の強化効果を延長",
+    "type": 25,
+    "description": "全員の強化効果を14延長",
+    "skillTargetId": "target-all",
     "shortDescription": "",
     "grade": 0,
     "maxGrade": 0
@@ -23800,6 +23900,16 @@
     "maxGrade": 0
   },
   {
+    "id": "ef-strength_effect_count_increase-17-target-all",
+    "name": "全体の強化効果を延長",
+    "type": 25,
+    "description": "全員の強化効果を17延長",
+    "skillTargetId": "target-all",
+    "shortDescription": "",
+    "grade": 0,
+    "maxGrade": 0
+  },
+  {
     "id": "ef-strength_effect_count_increase-18-target-character_type-1-2",
     "name": "スコアラータイプ2人の強化効果延長",
     "type": 25,
@@ -23815,6 +23925,16 @@
     "type": 25,
     "description": "対象1人の強化効果を18延長",
     "skillTargetId": "target-trigger",
+    "shortDescription": "",
+    "grade": 0,
+    "maxGrade": 0
+  },
+  {
+    "id": "ef-strength_effect_count_increase-19-target-all",
+    "name": "全体の強化効果を延長",
+    "type": 25,
+    "description": "全員の強化効果を19延長",
+    "skillTargetId": "target-all",
     "shortDescription": "",
     "grade": 0,
     "maxGrade": 0
@@ -23855,6 +23975,16 @@
     "type": 25,
     "description": "対象1人の強化効果を20延長",
     "skillTargetId": "target-trigger",
+    "shortDescription": "",
+    "grade": 0,
+    "maxGrade": 0
+  },
+  {
+    "id": "ef-strength_effect_count_increase-22-target-all",
+    "name": "全体の強化効果を延長",
+    "type": 25,
+    "description": "全員の強化効果を22延長",
+    "skillTargetId": "target-all",
     "shortDescription": "",
     "grade": 0,
     "maxGrade": 0
@@ -24830,6 +24960,26 @@
     "shortDescription": ""
   },
   {
+    "id": "ef-tension_up-5-target-dance-2-34",
+    "name": "ダンスタイプ2人にテンションアップ",
+    "type": 38,
+    "description": "ダンスタイプ2人に5段階テンションUP効果[34ビート]",
+    "grade": 5,
+    "maxGrade": 10,
+    "skillTargetId": "target-dance-2",
+    "shortDescription": ""
+  },
+  {
+    "id": "ef-tension_up-5-target-dance-2-39",
+    "name": "ダンスタイプ2人にテンションアップ",
+    "type": 38,
+    "description": "ダンスタイプ2人に5段階テンションUP効果[39ビート]",
+    "grade": 5,
+    "maxGrade": 10,
+    "skillTargetId": "target-dance-2",
+    "shortDescription": ""
+  },
+  {
     "id": "ef-tension_up-5-target-dance_higher-2-34",
     "name": "ダンスが高い2人にテンションアップ",
     "type": 38,
@@ -24870,6 +25020,26 @@
     "shortDescription": ""
   },
   {
+    "id": "ef-tension_up-6-target-dance-2-39",
+    "name": "ダンスタイプ2人にテンションアップ",
+    "type": 38,
+    "description": "ダンスタイプ2人に6段階テンションUP効果[39ビート]",
+    "grade": 6,
+    "maxGrade": 10,
+    "skillTargetId": "target-dance-2",
+    "shortDescription": ""
+  },
+  {
+    "id": "ef-tension_up-6-target-dance-2-44",
+    "name": "ダンスタイプ2人にテンションアップ",
+    "type": 38,
+    "description": "ダンスタイプ2人に6段階テンションUP効果[44ビート]",
+    "grade": 6,
+    "maxGrade": 10,
+    "skillTargetId": "target-dance-2",
+    "shortDescription": ""
+  },
+  {
     "id": "ef-tension_up-6-target-self-28",
     "name": "自身にテンションアップ",
     "type": 38,
@@ -24887,6 +25057,26 @@
     "grade": 6,
     "maxGrade": 10,
     "skillTargetId": "target-self",
+    "shortDescription": ""
+  },
+  {
+    "id": "ef-tension_up-7-target-dance-2-44",
+    "name": "ダンスタイプ2人にテンションアップ",
+    "type": 38,
+    "description": "ダンスタイプ2人に7段階テンションUP効果[44ビート]",
+    "grade": 7,
+    "maxGrade": 10,
+    "skillTargetId": "target-dance-2",
+    "shortDescription": ""
+  },
+  {
+    "id": "ef-tension_up-7-target-dance-2-49",
+    "name": "ダンスタイプ2人にテンションアップ",
+    "type": 38,
+    "description": "ダンスタイプ2人に7段階テンションUP効果[49ビート]",
+    "grade": 7,
+    "maxGrade": 10,
+    "skillTargetId": "target-dance-2",
     "shortDescription": ""
   },
   {
