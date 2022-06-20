@@ -264,6 +264,17 @@
     "salePrice": 0
   },
   {
+    "id": "item-exchange_item-ticket-22-0630",
+    "name": "引換券",
+    "assetId": "exchange-cp-01",
+    "description": "引換券交換所で好きな\nで様々なアイテムと交換できるチケット",
+    "howToGet": "サントリー自動販売機",
+    "type": 10,
+    "value": 1,
+    "order": 100,
+    "salePrice": 0
+  },
+  {
     "id": "item-gacha_fukubiki-ticket-22-0101",
     "name": "福引券",
     "assetId": "fukubiki-ticket",
@@ -1141,6 +1152,17 @@
     "type": 5001,
     "value": 20,
     "order": 1001,
+    "salePrice": 0
+  },
+  {
+    "id": "item-medal-friend",
+    "name": "フレンドメダル",
+    "assetId": "medal-friend",
+    "description": "協力報酬やマネージャー招待報酬で獲得できるメダル。\nフレンドメダル交換所でアイテムと交換できる。",
+    "howToGet": "マネージャー招待報酬、協力報酬など",
+    "type": 3001,
+    "value": 1,
+    "order": 99,
     "salePrice": 0
   },
   {

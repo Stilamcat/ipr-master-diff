@@ -4963,6 +4963,16 @@
     ]
   },
   {
+    "id": "cd-chr-obtain-mna",
+    "settings": [
+      {
+        "obtainCharacter": {
+          "characterId": "char-mna"
+        }
+      }
+    ]
+  },
+  {
     "id": "cd-chr-thrx-never-view",
     "settings": [
       {
@@ -13124,6 +13134,52 @@
       {
         "forumCreateReplyCount": {
           "createReplyCount": "30"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-function_lock-buddy_use",
+    "settings": [
+      {
+        "term": {
+          "nowAfter": "1656039600000",
+          "nowBefore": "0"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-function_lock-invite",
+    "settings": [
+      {
+        "term": {
+          "nowAfter": "1656039600000",
+          "nowBefore": "0"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-function_lock-invite_host",
+    "settings": [
+      {
+        "satisfyCondition": {
+          "conditionId": "cd-function_lock-invite"
+        },
+        "clearArea": {
+          "areaId": "area-main-007"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-function_lock-photo_retouch",
+    "settings": [
+      {
+        "term": {
+          "nowAfter": "4114292400000",
+          "nowBefore": "0"
         }
       }
     ]
@@ -44887,6 +44943,28 @@
     ]
   },
   {
+    "id": "cd-time-login-22-0621-0623",
+    "settings": [
+      {
+        "term": {
+          "nowAfter": "1655737200000",
+          "nowBefore": "1655996399000"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-time-login-22-0621-0630",
+    "settings": [
+      {
+        "term": {
+          "nowAfter": "1655737200000",
+          "nowBefore": "1656601199000"
+        }
+      }
+    ]
+  },
+  {
     "id": "cd-time-market-phase-001-close",
     "settings": [
       {
@@ -45880,6 +45958,20 @@
         "term": {
           "nowAfter": "1654959600000",
           "nowBefore": "1655218799000"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-time-pvp-22-0622-0624_s-banner",
+    "settings": [
+      {
+        "satisfyCondition": {
+          "conditionId": "cd-clear-area-main-011"
+        },
+        "term": {
+          "nowAfter": "1655823600000",
+          "nowBefore": "1656082799000"
         }
       }
     ]
