@@ -495,6 +495,23 @@
     "receiveConditionId": "cd-time-login-22-0615-0628"
   },
   {
+    "id": "login_bonus-campaign-22-0621-01",
+    "name": "1周年カウントダウン",
+    "description": "3日間の特別なログインボーナス",
+    "type": 2,
+    "assetId": "login-campaign-22-0621-01",
+    "topColorCode": "00CEFF",
+    "bottomColorCode": "D0FFA0",
+    "priority": 10,
+    "rewardIds": [
+      "rd_auto;item;item-act_promotion_shorten;5",
+      "rd_auto;item;item-rarity_exp_medal-21-1228;1",
+      "rd_auto;item;item-gacha_ticket-r5;1"
+    ],
+    "openConditionId": "cd-time-login-22-0621-0623",
+    "receiveConditionId": "cd-time-login-22-0621-0630"
+  },
+  {
     "id": "login_bonus-normal-01",
     "name": "デイリー",
     "description": "毎日もらえるログインボーナス",
