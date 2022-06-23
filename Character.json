@@ -136,11 +136,17 @@
     "firstName": "愛",
     "idiom": "真剣",
     "defaultLiveCostumeId": "cos-ai-schl-00",
+    "facePositionX": 60.0,
+    "facePositionY": 500.0,
+    "groupPositionX": 0.68,
+    "groupPositionY": 0.76,
+    "catchphraseColor": "7ECCEE",
     "isNpc": false,
     "talkArrivalAdditionMotionAssetId": "",
     "viewConditionId": "",
     "isLeftHanded": false,
-    "isMemories": false
+    "isMemories": false,
+    "unlockConditionId": ""
   },
   {
     "id": "char-aoi",
@@ -279,10 +285,16 @@
     "firstName": "葵",
     "idiom": "随意",
     "defaultLiveCostumeId": "cos-aoi-schl-00",
+    "facePositionX": 60.0,
+    "facePositionY": 650.0,
+    "groupPositionX": 0.84,
+    "groupPositionY": 0.63,
+    "catchphraseColor": "6F77CC",
     "isNpc": false,
     "talkArrivalAdditionMotionAssetId": "",
     "viewConditionId": "",
-    "isMemories": false
+    "isMemories": false,
+    "unlockConditionId": ""
   },
   {
     "id": "char-chs",
@@ -425,11 +437,17 @@
     "firstName": "千紗",
     "idiom": "昇華",
     "defaultLiveCostumeId": "cos-chs-schl-00",
+    "facePositionY": 800.0,
+    "groupPositionX": 0.75,
+    "groupPositionY": 0.53,
+    "catchphraseColor": "E7BBD2",
     "isNpc": false,
     "talkArrivalAdditionMotionAssetId": "",
     "viewConditionId": "",
     "isLeftHanded": false,
-    "isMemories": false
+    "isMemories": false,
+    "facePositionX": 0.0,
+    "unlockConditionId": ""
   },
   {
     "id": "char-hrk",
@@ -571,11 +589,17 @@
     "firstName": "遙子",
     "idiom": "執念",
     "defaultLiveCostumeId": "cos-hrk-trng-00",
+    "facePositionX": 30.0,
+    "facePositionY": 530.0,
+    "groupPositionX": 0.62,
+    "groupPositionY": 0.85,
+    "catchphraseColor": "C1A7E2",
     "isNpc": false,
     "talkArrivalAdditionMotionAssetId": "",
     "viewConditionId": "",
     "isLeftHanded": false,
-    "isMemories": false
+    "isMemories": false,
+    "unlockConditionId": ""
   },
   {
     "id": "char-kan",
@@ -698,7 +722,13 @@
     "activityFanEventWords": [],
     "talkArrivalAdditionMotionAssetId": "",
     "isLeftHanded": false,
-    "isMemories": false
+    "isMemories": false,
+    "facePositionX": 0.0,
+    "facePositionY": 0.0,
+    "groupPositionX": 0.0,
+    "groupPositionY": 0.0,
+    "catchphraseColor": "",
+    "unlockConditionId": ""
   },
   {
     "id": "char-kkr",
@@ -836,11 +866,17 @@
     "firstName": "こころ",
     "idiom": "打破",
     "defaultLiveCostumeId": "cos-kkr-schl-00",
+    "facePositionY": 700.0,
+    "groupPositionX": 0.52,
+    "groupPositionY": 0.63,
+    "catchphraseColor": "FC9BB3",
     "isNpc": false,
     "talkArrivalAdditionMotionAssetId": "",
     "viewConditionId": "",
     "isLeftHanded": false,
-    "isMemories": false
+    "isMemories": false,
+    "facePositionX": 0.0,
+    "unlockConditionId": ""
   },
   {
     "id": "char-koh",
@@ -954,7 +990,13 @@
     "threeSize": "",
     "catchphrase": "",
     "idiom": "",
-    "isMemories": false
+    "isMemories": false,
+    "facePositionX": 0.0,
+    "facePositionY": 0.0,
+    "groupPositionX": 0.0,
+    "groupPositionY": 0.0,
+    "catchphraseColor": "",
+    "unlockConditionId": ""
   },
   {
     "id": "char-kor",
@@ -1081,7 +1123,13 @@
     "activityFanEventWords": [],
     "talkArrivalAdditionMotionAssetId": "",
     "isLeftHanded": false,
-    "isMemories": false
+    "isMemories": false,
+    "facePositionX": 0.0,
+    "facePositionY": 0.0,
+    "groupPositionX": 0.0,
+    "groupPositionY": 0.0,
+    "catchphraseColor": "",
+    "unlockConditionId": ""
   },
   {
     "id": "char-ktn",
@@ -1221,11 +1269,17 @@
     "firstName": "琴乃",
     "idiom": "呪縛",
     "defaultLiveCostumeId": "cos-ktn-schl-00",
+    "facePositionX": 20.0,
+    "facePositionY": 550.0,
+    "groupPositionX": 0.55,
+    "groupPositionY": 0.61,
+    "catchphraseColor": "5C88DA",
     "isNpc": false,
     "talkArrivalAdditionMotionAssetId": "",
     "viewConditionId": "",
     "isLeftHanded": false,
-    "isMemories": false
+    "isMemories": false,
+    "unlockConditionId": ""
   },
   {
     "id": "char-mei",
@@ -1365,11 +1419,17 @@
     "firstName": "芽衣",
     "idiom": "憧憬",
     "defaultLiveCostumeId": "cos-mei-schl-00",
+    "facePositionX": 60.0,
+    "facePositionY": 650.0,
+    "groupPositionX": 0.87,
+    "groupPositionY": 0.78,
+    "catchphraseColor": "E03E52",
     "isNpc": false,
     "talkArrivalAdditionMotionAssetId": "",
     "viewConditionId": "",
     "isLeftHanded": false,
-    "isMemories": false
+    "isMemories": false,
+    "unlockConditionId": ""
   },
   {
     "id": "char-mhk",
@@ -1492,7 +1552,13 @@
     "activityFanEventWords": [],
     "talkArrivalAdditionMotionAssetId": "",
     "isLeftHanded": false,
-    "isMemories": false
+    "isMemories": false,
+    "facePositionX": 0.0,
+    "facePositionY": 0.0,
+    "groupPositionX": 0.0,
+    "groupPositionY": 0.0,
+    "catchphraseColor": "",
+    "unlockConditionId": ""
   },
   {
     "id": "char-mna",
@@ -1612,11 +1678,17 @@
     "idiom": "奇跡",
     "isMemories": true,
     "defaultLiveCostumeId": "cos-mna-trng-00",
+    "facePositionY": 620.0,
+    "groupPositionX": 0.45,
+    "groupPositionY": 0.66,
+    "unlockConditionId": "cd-chr-obtain-mna",
     "isNpc": false,
     "activityFanEventWords": [],
     "talkArrivalAdditionMotionAssetId": "",
     "viewConditionId": "",
-    "isLeftHanded": false
+    "isLeftHanded": false,
+    "facePositionX": 0.0,
+    "catchphraseColor": ""
   },
   {
     "id": "char-ngs",
@@ -1756,11 +1828,17 @@
     "firstName": "渚",
     "idiom": "献身",
     "defaultLiveCostumeId": "cos-ngs-schl-00",
+    "facePositionY": 740.0,
+    "groupPositionX": 0.68,
+    "groupPositionY": 0.68,
+    "catchphraseColor": "F56D9E",
     "isNpc": false,
     "talkArrivalAdditionMotionAssetId": "",
     "viewConditionId": "",
     "isLeftHanded": false,
-    "isMemories": false
+    "isMemories": false,
+    "facePositionX": 0.0,
+    "unlockConditionId": ""
   },
   {
     "id": "char-rei",
@@ -1902,11 +1980,17 @@
     "firstName": "怜",
     "idiom": "不屈",
     "defaultLiveCostumeId": "cos-rei-schl-00",
+    "facePositionX": -40.0,
+    "facePositionY": 580.0,
+    "groupPositionX": 0.33,
+    "groupPositionY": 0.44,
+    "catchphraseColor": "ACE3EF",
     "isNpc": false,
     "talkArrivalAdditionMotionAssetId": "",
     "viewConditionId": "",
     "isLeftHanded": false,
-    "isMemories": false
+    "isMemories": false,
+    "unlockConditionId": ""
   },
   {
     "id": "char-rio",
@@ -2046,11 +2130,17 @@
     "firstName": "莉央",
     "idiom": "気魄",
     "defaultLiveCostumeId": "cos-rio-trng-00",
+    "facePositionX": 100.0,
+    "facePositionY": 580.0,
+    "groupPositionX": 0.36,
+    "groupPositionY": 0.81,
+    "catchphraseColor": "AE5287",
     "isNpc": false,
     "talkArrivalAdditionMotionAssetId": "",
     "viewConditionId": "",
     "isLeftHanded": false,
-    "isMemories": false
+    "isMemories": false,
+    "unlockConditionId": ""
   },
   {
     "id": "char-rui",
@@ -2190,11 +2280,17 @@
     "firstName": "瑠依",
     "idiom": "堅固",
     "defaultLiveCostumeId": "cos-rui-schl-00",
+    "facePositionY": 500.0,
+    "groupPositionX": 0.52,
+    "groupPositionY": 0.65,
+    "catchphraseColor": "FCFAF1",
     "isNpc": false,
     "talkArrivalAdditionMotionAssetId": "",
     "viewConditionId": "",
     "isLeftHanded": false,
-    "isMemories": false
+    "isMemories": false,
+    "facePositionX": 0.0,
+    "unlockConditionId": ""
   },
   {
     "id": "char-ski",
@@ -2335,11 +2431,17 @@
     "firstName": "沙季",
     "idiom": "熱誠",
     "defaultLiveCostumeId": "cos-ski-schl-00",
+    "facePositionX": 30.0,
+    "facePositionY": 530.0,
+    "groupPositionX": 0.22,
+    "groupPositionY": 0.74,
+    "catchphraseColor": "6ACEB9",
     "isNpc": false,
     "talkArrivalAdditionMotionAssetId": "",
     "viewConditionId": "",
     "isLeftHanded": false,
-    "isMemories": false
+    "isMemories": false,
+    "unlockConditionId": ""
   },
   {
     "id": "char-skr",
@@ -2481,10 +2583,16 @@
     "firstName": "さくら",
     "idiom": "覚醒",
     "defaultLiveCostumeId": "cos-skr-schl-00",
+    "facePositionX": 60.0,
+    "facePositionY": 650.0,
+    "groupPositionX": 0.46,
+    "groupPositionY": 0.61,
+    "catchphraseColor": "F69941",
     "isNpc": false,
     "talkArrivalAdditionMotionAssetId": "",
     "viewConditionId": "",
-    "isMemories": false
+    "isMemories": false,
+    "unlockConditionId": ""
   },
   {
     "id": "char-smr",
@@ -2623,11 +2731,17 @@
     "firstName": "すみれ",
     "idiom": "再燃",
     "defaultLiveCostumeId": "cos-smr-schl-00",
+    "facePositionY": 800.0,
+    "groupPositionX": 0.4,
+    "groupPositionY": 0.4,
+    "catchphraseColor": "FFE495",
     "isNpc": false,
     "talkArrivalAdditionMotionAssetId": "",
     "viewConditionId": "",
     "isLeftHanded": false,
-    "isMemories": false
+    "isMemories": false,
+    "facePositionX": 0.0,
+    "unlockConditionId": ""
   },
   {
     "id": "char-stm",
@@ -2741,7 +2855,13 @@
     "threeSize": "",
     "catchphrase": "",
     "idiom": "",
-    "isMemories": false
+    "isMemories": false,
+    "facePositionX": 0.0,
+    "facePositionY": 0.0,
+    "groupPositionX": 0.0,
+    "groupPositionY": 0.0,
+    "catchphraseColor": "",
+    "unlockConditionId": ""
   },
   {
     "id": "char-suz",
@@ -2881,11 +3001,17 @@
     "firstName": "すず",
     "idiom": "一念",
     "defaultLiveCostumeId": "cos-suz-schl-00",
+    "facePositionY": 850.0,
+    "groupPositionX": 0.33,
+    "groupPositionY": 0.45,
+    "catchphraseColor": "F2EE56",
     "isNpc": false,
     "talkArrivalAdditionMotionAssetId": "",
     "viewConditionId": "",
     "isLeftHanded": false,
-    "isMemories": false
+    "isMemories": false,
+    "facePositionX": 0.0,
+    "unlockConditionId": ""
   },
   {
     "id": "char-szk",
@@ -3028,10 +3154,16 @@
     "firstName": "雫",
     "idiom": "開花",
     "defaultLiveCostumeId": "cos-szk-schl-00",
+    "facePositionY": 740.0,
+    "groupPositionX": 0.26,
+    "groupPositionY": 0.77,
+    "catchphraseColor": "99C99B",
     "isNpc": false,
     "talkArrivalAdditionMotionAssetId": "",
     "viewConditionId": "",
-    "isMemories": false
+    "isMemories": false,
+    "facePositionX": 0.0,
+    "unlockConditionId": ""
   },
   {
     "id": "char-vns",
@@ -3145,7 +3277,13 @@
     "threeSize": "",
     "catchphrase": "",
     "idiom": "",
-    "isMemories": false
+    "isMemories": false,
+    "facePositionX": 0.0,
+    "facePositionY": 0.0,
+    "groupPositionX": 0.0,
+    "groupPositionY": 0.0,
+    "catchphraseColor": "",
+    "unlockConditionId": ""
   },
   {
     "id": "char-yu",
@@ -3283,11 +3421,17 @@
     "firstName": "優",
     "idiom": "誠忠",
     "defaultLiveCostumeId": "cos-yu-schl-00",
+    "facePositionY": 700.0,
+    "groupPositionX": 0.75,
+    "groupPositionY": 0.64,
+    "catchphraseColor": "AECE6E",
     "isNpc": false,
     "heightCorrectionPermil": 0,
     "talkArrivalAdditionMotionAssetId": "",
     "viewConditionId": "",
     "isLeftHanded": false,
-    "isMemories": false
+    "isMemories": false,
+    "facePositionX": 0.0,
+    "unlockConditionId": ""
   }
 ]
