@@ -37,8 +37,10 @@
         "assetId": ""
       }
     ],
+    "backgroundColor": "FFFFFF",
     "viewConditionId": "",
-    "isMemories": false
+    "isMemories": false,
+    "textColor": ""
   },
   {
     "id": "character_group_2",
@@ -78,8 +80,10 @@
         "assetId": ""
       }
     ],
+    "backgroundColor": "FFFFFF",
     "viewConditionId": "",
-    "isMemories": false
+    "isMemories": false,
+    "textColor": ""
   },
   {
     "id": "character_group_3",
@@ -107,6 +111,8 @@
         "assetId": ""
       }
     ],
+    "backgroundColor": "CCB46D",
+    "textColor": "FFFFFF",
     "viewConditionId": "",
     "isMemories": false
   },
@@ -142,6 +148,8 @@
         "assetId": ""
       }
     ],
+    "backgroundColor": "000000",
+    "textColor": "49A85B",
     "viewConditionId": "",
     "isMemories": false
   },
@@ -160,6 +168,8 @@
       }
     ],
     "isMemories": true,
-    "viewConditionId": ""
+    "viewConditionId": "",
+    "backgroundColor": "",
+    "textColor": ""
   }
 ]
