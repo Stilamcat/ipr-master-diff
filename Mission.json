@@ -8458,6 +8458,28 @@
     "eventMissionId": ""
   },
   {
+    "id": "ms-comeback-shop-limited-22-0624-check",
+    "categoryType": 3,
+    "missionType": 4,
+    "targetIds": [
+      "cd_shop_comeback-user-22-0624-22-0703"
+    ],
+    "name": "30日以上ぶりのログイン",
+    "shortDescription": "30日以上ぶりのログイン",
+    "longDescription": "30日以上ぶりのログインです。",
+    "order": 1,
+    "viewConditionId": "cd_shop_comeback-shop-limited-22-0624-mission-view",
+    "progresses": [
+      {
+        "threshold": "1",
+        "rewardSetId": "rd_auto;stone;;50"
+      }
+    ],
+    "linkType": 0,
+    "linkDetail": "",
+    "eventMissionId": ""
+  },
+  {
     "id": "ms-daily-accessory_enhance_count-100",
     "categoryType": 1,
     "missionType": 28,

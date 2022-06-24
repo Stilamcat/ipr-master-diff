@@ -24,7 +24,8 @@
     "costumeTypeIds": [
       "casl",
       "schl",
-      "trng"
+      "trng",
+      "gene"
     ],
     "forceCostumeTypeId": "casl",
     "photoShootingMotionSetId": "cafe-00",
@@ -105,6 +106,24 @@
     "unlockConditionId": ""
   },
   {
+    "id": "photo_activity-hillpark",
+    "name": "星見市高台",
+    "type": 1,
+    "thumbAssetId": "hillpark-00",
+    "stageId": "stage-photo-hillpark-00",
+    "costumeTypeIds": [
+      "casl",
+      "schl",
+      "gene"
+    ],
+    "forceCostumeTypeId": "casl",
+    "photoShootingMotionSetId": "hillpark-00",
+    "isDeleteCharacter": true,
+    "order": 1,
+    "viewConditionId": "",
+    "unlockConditionId": ""
+  },
+  {
     "id": "photo_activity-hot_spring",
     "name": "温泉",
     "type": 2,
@@ -128,7 +147,8 @@
     "stageId": "stage-photo-living-01",
     "costumeTypeIds": [
       "casl",
-      "schl"
+      "schl",
+      "gene"
     ],
     "forceCostumeTypeId": "casl",
     "photoShootingMotionSetId": "living-01",
@@ -201,7 +221,8 @@
     "costumeTypeIds": [
       "casl",
       "schl",
-      "trng"
+      "trng",
+      "gene"
     ],
     "forceCostumeTypeId": "casl",
     "photoShootingMotionSetId": "catstreet-00",
@@ -217,7 +238,8 @@
     "thumbAssetId": "studio-00",
     "stageId": "stage-photo-studio-00",
     "costumeTypeIds": [
-      "casl"
+      "casl",
+      "gene"
     ],
     "forceCostumeTypeId": "casl",
     "photoShootingMotionSetId": "studio-00",
@@ -235,7 +257,8 @@
     "costumeTypeIds": [
       "casl",
       "schl",
-      "trng"
+      "trng",
+      "gene"
     ],
     "forceCostumeTypeId": "casl",
     "photoShootingMotionSetId": "themepark-00",
@@ -251,7 +274,8 @@
     "thumbAssetId": "video_destribution-00",
     "stageId": "stage-photo-cooking-00",
     "costumeTypeIds": [
-      "casl"
+      "casl",
+      "gene"
     ],
     "forceCostumeTypeId": "casl",
     "photoShootingMotionSetId": "cooking-00",

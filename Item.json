@@ -264,14 +264,47 @@
     "salePrice": 0
   },
   {
+    "id": "item-exchange-ticket-22-0624",
+    "name": "★5契約書",
+    "assetId": "card-exchange-05",
+    "description": "★5アイドル交換所で好きな\nメンバーと交換できるチケット",
+    "howToGet": "1周年記念ドリームギフトガチャ",
+    "type": 10,
+    "value": 1,
+    "order": 140,
+    "salePrice": 0
+  },
+  {
     "id": "item-exchange_item-ticket-22-0630",
     "name": "引換券",
-    "assetId": "exchange-cp-01",
-    "description": "引換券交換所で好きな\nで様々なアイテムと交換できるチケット",
-    "howToGet": "サントリー自動販売機",
+    "assetId": "item-exchange-cp-01",
+    "description": "引換券交換所で好きな\nアイテムと交換できるチケット",
+    "howToGet": "サントリータイアップCP",
     "type": 10,
     "value": 1,
     "order": 100,
+    "salePrice": 0
+  },
+  {
+    "id": "item-gacha-premium-ticket",
+    "name": "プレミアムガチャチケ",
+    "assetId": "gacha-ticket-premium",
+    "description": "有効期限：入手後180日\nプレミアムガチャを引くことができる",
+    "howToGet": "ショップなど",
+    "type": 8,
+    "value": 1,
+    "order": 140,
+    "salePrice": 0
+  },
+  {
+    "id": "item-gacha_10-endless-22-0624",
+    "name": "1周年の感謝",
+    "assetId": "gacha-endless-22-0624",
+    "description": "所持していると感謝の10連ガチャを1回引くことができる",
+    "howToGet": "引き放題ガチャ",
+    "type": 3001,
+    "value": 1,
+    "order": 140,
     "salePrice": 0
   },
   {
@@ -957,6 +990,17 @@
     "salePrice": 0
   },
   {
+    "id": "item-gacha_ticket-r5-22-0624",
+    "name": "★5確定ガチャチケ2nd",
+    "assetId": "gacha-ticket-r5-22-0624",
+    "description": "有効期限：入手後180日\n★5確定ガチャ2ndを引くことができる",
+    "howToGet": "ショップなど",
+    "type": 8,
+    "value": 1,
+    "order": 140,
+    "salePrice": 0
+  },
+  {
     "id": "item-gacha_ticket_piece",
     "name": "ガチャ補助券",
     "assetId": "gacha-ticket-piece",
@@ -1210,6 +1254,17 @@
     "salePrice": 0
   },
   {
+    "id": "item-photo-medal",
+    "name": "プレミアムフォトメダル",
+    "assetId": "item-photo_medal",
+    "description": "プレミアムフォトメダル交換所で\nフォトと交換できるメダル",
+    "howToGet": "プレミアムガチャ",
+    "type": 10,
+    "value": 1,
+    "order": 100,
+    "salePrice": 0
+  },
+  {
     "id": "item-photo_contest_create-22-0328",
     "name": "イベント現像フィルム",
     "assetId": "photo-shooting-contest",
@@ -1389,7 +1444,7 @@
     "id": "item-photo_shooting_level_change-01",
     "name": "MLv撮影フィルム",
     "assetId": "photo-shooting-level-change",
-    "description": "撮影を行うことができる\n現像時のマネージャーLvに応じた品質のフォトを獲得できます。\n[最大品質:150]",
+    "description": "撮影を行うことができる\n現像時のマネージャーLvに応じた品質のフォトを獲得できます。\n[最大品質:160]",
     "howToGet": "イベントなど",
     "type": 13,
     "value": 5,

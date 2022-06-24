@@ -1410,6 +1410,16 @@
     "shortDescription": ""
   },
   {
+    "id": "ef-audience_amount_increase-6-target-self-26",
+    "name": "自身に集目",
+    "type": 21,
+    "description": "自身に6段階の集目効果[26ビート]",
+    "grade": 6,
+    "maxGrade": 10,
+    "skillTargetId": "target-self",
+    "shortDescription": ""
+  },
+  {
     "id": "ef-audience_amount_increase-6-target-self-29",
     "name": "自身に集目効果",
     "type": 21,
@@ -1490,10 +1500,30 @@
     "shortDescription": ""
   },
   {
+    "id": "ef-audience_amount_increase-7-target-self-26",
+    "name": "自身に集目",
+    "type": 21,
+    "description": "自身に7段階の集目効果[26ビート]",
+    "grade": 7,
+    "maxGrade": 10,
+    "skillTargetId": "target-self",
+    "shortDescription": ""
+  },
+  {
     "id": "ef-audience_amount_increase-7-target-self-30",
     "name": "自身に集目効果",
     "type": 21,
     "description": "自身に7段階の集目効果[30ビート]",
+    "grade": 7,
+    "maxGrade": 10,
+    "skillTargetId": "target-self",
+    "shortDescription": ""
+  },
+  {
+    "id": "ef-audience_amount_increase-7-target-self-35",
+    "name": "自身に集目",
+    "type": 21,
+    "description": "自身に7段階の集目効果[35ビート]",
     "grade": 7,
     "maxGrade": 10,
     "skillTargetId": "target-self",
@@ -1620,6 +1650,26 @@
     "shortDescription": ""
   },
   {
+    "id": "ef-audience_amount_increase-8-target-self-35",
+    "name": "自身に集目",
+    "type": 21,
+    "description": "自身に8段階の集目効果[35ビート]",
+    "grade": 8,
+    "maxGrade": 10,
+    "skillTargetId": "target-self",
+    "shortDescription": ""
+  },
+  {
+    "id": "ef-audience_amount_increase-8-target-self-45",
+    "name": "自身に集目",
+    "type": 21,
+    "description": "自身に8段階の集目効果[45ビート]",
+    "grade": 8,
+    "maxGrade": 10,
+    "skillTargetId": "target-self",
+    "shortDescription": ""
+  },
+  {
     "id": "ef-audience_amount_increase-8-target-self-50",
     "name": "自身に集目",
     "type": 21,
@@ -1694,6 +1744,16 @@
     "name": "自身に集目効果",
     "type": 21,
     "description": "自身に9段階の集目効果[30ビート]",
+    "grade": 9,
+    "maxGrade": 10,
+    "skillTargetId": "target-self",
+    "shortDescription": ""
+  },
+  {
+    "id": "ef-audience_amount_increase-9-target-self-45",
+    "name": "自身に集目",
+    "type": 21,
+    "description": "自身に9段階の集目効果[45ビート]",
     "grade": 9,
     "maxGrade": 10,
     "skillTargetId": "target-self",
@@ -12360,6 +12420,16 @@
     "maxGrade": 0
   },
   {
+    "id": "ef-fix_stamina_recovery-2200-target-self",
+    "name": "自身のスタミナ回復",
+    "type": 23,
+    "description": "自身のスタミナを2200回復",
+    "skillTargetId": "target-self",
+    "shortDescription": "",
+    "grade": 0,
+    "maxGrade": 0
+  },
+  {
     "id": "ef-fix_stamina_recovery-2200-target-stamina_lower-1",
     "name": "スタミナが低い1人のスタミナ回復",
     "type": 23,
@@ -13410,6 +13480,16 @@
     "maxGrade": 0
   },
   {
+    "id": "ef-fix_stamina_recovery-5400-target-self",
+    "name": "自身のスタミナ回復",
+    "type": 23,
+    "description": "自身のスタミナを5400回復",
+    "skillTargetId": "target-self",
+    "shortDescription": "",
+    "grade": 0,
+    "maxGrade": 0
+  },
+  {
     "id": "ef-fix_stamina_recovery-5400-target-stamina_lower-2",
     "name": "スタミナが低い2人のスタミナ回復",
     "type": 23,
@@ -13550,11 +13630,31 @@
     "maxGrade": 0
   },
   {
+    "id": "ef-fix_stamina_recovery-6000-target-self",
+    "name": "自身のスタミナ回復",
+    "type": 23,
+    "description": "自身のスタミナを6000回復",
+    "skillTargetId": "target-self",
+    "shortDescription": "",
+    "grade": 0,
+    "maxGrade": 0
+  },
+  {
     "id": "ef-fix_stamina_recovery-6200-target-trigger",
     "name": "対象1人のスタミナ回復",
     "type": 23,
     "description": "対象1人のスタミナを6200回復",
     "skillTargetId": "target-trigger",
+    "shortDescription": "",
+    "grade": 0,
+    "maxGrade": 0
+  },
+  {
+    "id": "ef-fix_stamina_recovery-6400-target-self",
+    "name": "自身のスタミナ回復",
+    "type": 23,
+    "description": "自身のスタミナを6400回復",
+    "skillTargetId": "target-self",
     "shortDescription": "",
     "grade": 0,
     "maxGrade": 0
@@ -15480,6 +15580,66 @@
     "skillTargetId": ""
   },
   {
+    "id": "ef-score_get_and_stamina_consumption_by_more_stamina_use-10500-chart_dependence",
+    "name": "スコア獲得-スキルによって消費したスタミナが多いほど効果上昇",
+    "type": 55,
+    "description": "1050%のスコア獲得、このスキルで消費したスタミナが多い程効果上昇",
+    "shortDescription": "",
+    "grade": 0,
+    "maxGrade": 0,
+    "skillTargetId": ""
+  },
+  {
+    "id": "ef-score_get_and_stamina_consumption_by_more_stamina_use-11500-chart_dependence",
+    "name": "スコア獲得-スキルによって消費したスタミナが多いほど効果上昇",
+    "type": 55,
+    "description": "1150%のスコア獲得、このスキルで消費したスタミナが多い程効果上昇",
+    "shortDescription": "",
+    "grade": 0,
+    "maxGrade": 0,
+    "skillTargetId": ""
+  },
+  {
+    "id": "ef-score_get_and_stamina_consumption_by_more_stamina_use-12500-chart_dependence",
+    "name": "スコア獲得-スキルによって消費したスタミナが多いほど効果上昇",
+    "type": 55,
+    "description": "1250%のスコア獲得、このスキルで消費したスタミナが多い程効果上昇",
+    "shortDescription": "",
+    "grade": 0,
+    "maxGrade": 0,
+    "skillTargetId": ""
+  },
+  {
+    "id": "ef-score_get_and_stamina_consumption_by_more_stamina_use-14000-chart_dependence",
+    "name": "スコア獲得-スキルによって消費したスタミナが多いほど効果上昇",
+    "type": 55,
+    "description": "1400%のスコア獲得、このスキルで消費したスタミナが多い程効果上昇",
+    "shortDescription": "",
+    "grade": 0,
+    "maxGrade": 0,
+    "skillTargetId": ""
+  },
+  {
+    "id": "ef-score_get_and_stamina_consumption_by_more_stamina_use-15500-chart_dependence",
+    "name": "スコア獲得-スキルによって消費したスタミナが多いほど効果上昇",
+    "type": 55,
+    "description": "1550%のスコア獲得、このスキルで消費したスタミナが多い程効果上昇",
+    "shortDescription": "",
+    "grade": 0,
+    "maxGrade": 0,
+    "skillTargetId": ""
+  },
+  {
+    "id": "ef-score_get_and_stamina_consumption_by_more_stamina_use-17000-chart_dependence",
+    "name": "スコア獲得-スキルによって消費したスタミナが多いほど効果上昇",
+    "type": 55,
+    "description": "1700%のスコア獲得、このスキルで消費したスタミナが多い程効果上昇",
+    "shortDescription": "",
+    "grade": 0,
+    "maxGrade": 0,
+    "skillTargetId": ""
+  },
+  {
     "id": "ef-score_get_by_less_fan_amount-450-chart_dependence",
     "name": "スコア獲得-観客数割合が少ないほど効果上昇",
     "type": 4,
@@ -16164,6 +16324,16 @@
     "name": "スコア獲得-残スタミナが多いほど効果上昇",
     "type": 6,
     "description": "270%のスコア獲得、残スタミナが多い程効果上昇",
+    "shortDescription": "",
+    "grade": 0,
+    "maxGrade": 0,
+    "skillTargetId": ""
+  },
+  {
+    "id": "ef-score_get_by_more_stamina-2800-chart_dependence",
+    "name": "スコア獲得-残スタミナが多いほど効果上昇",
+    "type": 6,
+    "description": "280%のスコア獲得、残スタミナが多い程効果上昇",
     "shortDescription": "",
     "grade": 0,
     "maxGrade": 0,
@@ -18860,6 +19030,36 @@
     "shortDescription": ""
   },
   {
+    "id": "ef-score_up-3-target-self-32",
+    "name": "自身にスコアアップ",
+    "type": 16,
+    "description": "自身に3段階スコア上昇効果[32ビート]",
+    "grade": 3,
+    "maxGrade": 20,
+    "skillTargetId": "target-self",
+    "shortDescription": ""
+  },
+  {
+    "id": "ef-score_up-3-target-self-36",
+    "name": "自身にスコアアップ",
+    "type": 16,
+    "description": "自身に3段階スコア上昇効果[36ビート]",
+    "grade": 3,
+    "maxGrade": 20,
+    "skillTargetId": "target-self",
+    "shortDescription": ""
+  },
+  {
+    "id": "ef-score_up-3-target-self-40",
+    "name": "自身にスコアアップ",
+    "type": 16,
+    "description": "自身に3段階スコア上昇効果[40ビート]",
+    "grade": 3,
+    "maxGrade": 20,
+    "skillTargetId": "target-self",
+    "shortDescription": ""
+  },
+  {
     "id": "ef-score_up-4-target-all-16",
     "name": "全体にスコアアップ",
     "type": 16,
@@ -18944,6 +19144,36 @@
     "name": "自身にスコアアップ",
     "type": 16,
     "description": "自身に4段階スコア上昇効果[36ビート]",
+    "grade": 4,
+    "maxGrade": 20,
+    "skillTargetId": "target-self",
+    "shortDescription": ""
+  },
+  {
+    "id": "ef-score_up-4-target-self-40",
+    "name": "自身にスコアアップ",
+    "type": 16,
+    "description": "自身に4段階スコア上昇効果[40ビート]",
+    "grade": 4,
+    "maxGrade": 20,
+    "skillTargetId": "target-self",
+    "shortDescription": ""
+  },
+  {
+    "id": "ef-score_up-4-target-self-45",
+    "name": "自身にスコアアップ",
+    "type": 16,
+    "description": "自身に4段階スコア上昇効果[45ビート]",
+    "grade": 4,
+    "maxGrade": 20,
+    "skillTargetId": "target-self",
+    "shortDescription": ""
+  },
+  {
+    "id": "ef-score_up-4-target-self-50",
+    "name": "自身にスコアアップ",
+    "type": 16,
+    "description": "自身に4段階スコア上昇効果[50ビート]",
     "grade": 4,
     "maxGrade": 20,
     "skillTargetId": "target-self",
@@ -22520,6 +22750,36 @@
     "shortDescription": ""
   },
   {
+    "id": "ef-special_skill_score_up-1-target-self-5",
+    "name": "自身にSPスキルスコアアップ",
+    "type": 34,
+    "description": "自身に1段階SPスキルスコア上昇効果",
+    "grade": 1,
+    "maxGrade": 20,
+    "skillTargetId": "target-self",
+    "shortDescription": ""
+  },
+  {
+    "id": "ef-special_skill_score_up-2-target-self-5",
+    "name": "自身にSPスキルスコアアップ",
+    "type": 34,
+    "description": "自身に2段階SPスキルスコア上昇効果",
+    "grade": 2,
+    "maxGrade": 20,
+    "skillTargetId": "target-self",
+    "shortDescription": ""
+  },
+  {
+    "id": "ef-special_skill_score_up-3-target-self-5",
+    "name": "自身にSPスキルスコアアップ",
+    "type": 34,
+    "description": "自身に3段階SPスキルスコア上昇効果",
+    "grade": 3,
+    "maxGrade": 20,
+    "skillTargetId": "target-self",
+    "shortDescription": ""
+  },
+  {
     "id": "ef-special_skill_score_up-3-target-trigger-5",
     "name": "対象にSPスキルスコアアップ",
     "type": 34,
@@ -22527,6 +22787,16 @@
     "grade": 3,
     "maxGrade": 20,
     "skillTargetId": "target-trigger",
+    "shortDescription": ""
+  },
+  {
+    "id": "ef-special_skill_score_up-4-target-self-5",
+    "name": "自身にSPスキルスコアアップ",
+    "type": 34,
+    "description": "自身に4段階SPスキルスコア上昇効果",
+    "grade": 4,
+    "maxGrade": 20,
+    "skillTargetId": "target-self",
     "shortDescription": ""
   },
   {
@@ -24660,6 +24930,16 @@
     "maxGrade": 0
   },
   {
+    "id": "ef-target_stamina_recovery-250-target-self",
+    "name": "自身の最大スタミナに応じたスタミナ回復",
+    "type": 35,
+    "description": "自身に対象最大スタミナの25%のスタミナ回復効果",
+    "skillTargetId": "target-self",
+    "shortDescription": "",
+    "grade": 0,
+    "maxGrade": 0
+  },
+  {
     "id": "ef-target_stamina_recovery-250-target-visual_higher-2",
     "name": "ビジュアルが高い2人に対象最大スタミナに応じたスタミナ回復",
     "type": 35,
@@ -24695,6 +24975,16 @@
     "type": 35,
     "description": "ダンスが高い2人に対象最大スタミナの30%のスタミナ回復効果",
     "skillTargetId": "target-dance_higher-2",
+    "shortDescription": "",
+    "grade": 0,
+    "maxGrade": 0
+  },
+  {
+    "id": "ef-target_stamina_recovery-300-target-self",
+    "name": "自身の最大スタミナに応じたスタミナ回復",
+    "type": 35,
+    "description": "自身に対象最大スタミナの30%のスタミナ回復効果",
+    "skillTargetId": "target-self",
     "shortDescription": "",
     "grade": 0,
     "maxGrade": 0
@@ -27150,10 +27440,30 @@
     "shortDescription": ""
   },
   {
+    "id": "ef-visual_up-7-target-self-17",
+    "name": "自身にビジュアルアップ",
+    "type": 15,
+    "description": "自身に7段階ビジュアル上昇効果[17ビート]",
+    "grade": 7,
+    "maxGrade": 20,
+    "skillTargetId": "target-self",
+    "shortDescription": ""
+  },
+  {
     "id": "ef-visual_up-7-target-self-20",
     "name": "自身にビジュアルアップ",
     "type": 15,
     "description": "自身に7段階ビジュアル上昇効果[20ビート]",
+    "grade": 7,
+    "maxGrade": 20,
+    "skillTargetId": "target-self",
+    "shortDescription": ""
+  },
+  {
+    "id": "ef-visual_up-7-target-self-22",
+    "name": "自身にビジュアルアップ",
+    "type": 15,
+    "description": "自身に7段階ビジュアル上昇効果[22ビート]",
     "grade": 7,
     "maxGrade": 20,
     "skillTargetId": "target-self",
@@ -27490,10 +27800,30 @@
     "shortDescription": ""
   },
   {
+    "id": "ef-visual_up-8-target-self-22",
+    "name": "自身にビジュアルアップ",
+    "type": 15,
+    "description": "自身に8段階ビジュアル上昇効果[22ビート]",
+    "grade": 8,
+    "maxGrade": 20,
+    "skillTargetId": "target-self",
+    "shortDescription": ""
+  },
+  {
     "id": "ef-visual_up-8-target-self-25",
     "name": "自身にビジュアルアップ",
     "type": 15,
     "description": "自身に8段階ビジュアル上昇効果[25ビート]",
+    "grade": 8,
+    "maxGrade": 20,
+    "skillTargetId": "target-self",
+    "shortDescription": ""
+  },
+  {
+    "id": "ef-visual_up-8-target-self-27",
+    "name": "自身にビジュアルアップ",
+    "type": 15,
+    "description": "自身に8段階ビジュアル上昇効果[27ビート]",
     "grade": 8,
     "maxGrade": 20,
     "skillTargetId": "target-self",
@@ -27730,10 +28060,30 @@
     "shortDescription": ""
   },
   {
+    "id": "ef-visual_up-9-target-self-27",
+    "name": "自身にビジュアルアップ",
+    "type": 15,
+    "description": "自身に9段階ビジュアル上昇効果[27ビート]",
+    "grade": 9,
+    "maxGrade": 20,
+    "skillTargetId": "target-self",
+    "shortDescription": ""
+  },
+  {
     "id": "ef-visual_up-9-target-self-30",
     "name": "自身にビジュアルアップ",
     "type": 15,
     "description": "自身に9段階ビジュアル上昇効果[30ビート]",
+    "grade": 9,
+    "maxGrade": 20,
+    "skillTargetId": "target-self",
+    "shortDescription": ""
+  },
+  {
+    "id": "ef-visual_up-9-target-self-32",
+    "name": "自身にビジュアルアップ",
+    "type": 15,
+    "description": "自身に9段階ビジュアル上昇効果[32ビート]",
     "grade": 9,
     "maxGrade": 20,
     "skillTargetId": "target-self",
