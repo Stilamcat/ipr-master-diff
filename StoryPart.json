@@ -1429,6 +1429,68 @@
     "noteText": ""
   },
   {
+    "id": "st-part-main-02",
+    "assetId": "main-02",
+    "name": "BIG4編",
+    "order": 3,
+    "type": 1,
+    "viewConditionId": "cd-st-main-cmn-01-02-44",
+    "unlockConditionId": "cd-st-main-cmn-01-02-44",
+    "pointType": 3,
+    "chapters": [
+      {
+        "chapter": 1,
+        "route": 1,
+        "name": "Dark Of the Moon",
+        "episodes": [
+          {
+            "episode": 1,
+            "assetId": "main_03_01_01",
+            "storyId": "st-main-cmn-02-01-01",
+            "viewConditionId": "cd-st-main-cmn-01-02-44",
+            "unlockConditionId": "cd-game_story_point_gte-1805",
+            "isReleased": true
+          },
+          {
+            "episode": 2,
+            "assetId": "main_03_01_02",
+            "storyId": "st-main-cmn-02-01-02",
+            "viewConditionId": "cd-st-main-cmn-01-02-44",
+            "unlockConditionId": "cd-game_story_point_gte-1820",
+            "isReleased": true
+          },
+          {
+            "episode": 3,
+            "assetId": "main_03_01_03",
+            "storyId": "st-main-cmn-02-01-03",
+            "viewConditionId": "cd-st-main-cmn-01-02-44",
+            "unlockConditionId": "cd-game_story_point_gte-1835",
+            "isReleased": true
+          },
+          {
+            "episode": 4,
+            "assetId": "main_03_01_04",
+            "storyId": "st-main-cmn-02-01-04",
+            "viewConditionId": "cd-st-main-cmn-01-02-44",
+            "unlockConditionId": "cd-game_story_point_gte-1850",
+            "isReleased": true
+          },
+          {
+            "episode": 5,
+            "assetId": "main_03_01_05",
+            "storyId": "st-main-cmn-02-01-05",
+            "viewConditionId": "cd-st-main-cmn-01-02-44",
+            "unlockConditionId": "cd-game_story_point_gte-1865",
+            "isReleased": true
+          }
+        ]
+      }
+    ],
+    "subTitle": "",
+    "storyEpisodeConsumptionId": "",
+    "noteText": ""
+  },
+  {
     "id": "st-part-original-01",
     "assetId": "original-01",
     "name": "星見編",

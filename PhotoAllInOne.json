@@ -44,6 +44,50 @@
     "shootingTime": "0"
   },
   {
+    "id": "phot-exchange-5-2",
+    "assetId": "phot-exchange-5-0002",
+    "name": "長瀬麻奈",
+    "rarity": 5,
+    "placeName": "それでいいんだよ",
+    "eventName": "メモリアルフォト",
+    "level": 140,
+    "abilities": [
+      {
+        "photoAbilityId": "pab-vocal_multiply_distribution-5",
+        "effectValue": 410,
+        "grade": 1,
+        "missionId": ""
+      },
+      {
+        "photoAbilityId": "pab-dance_multiply_distribution-5",
+        "effectValue": 410,
+        "grade": 1,
+        "missionId": ""
+      },
+      {
+        "photoAbilityId": "pab-visual_multiply_distribution-5",
+        "effectValue": 410,
+        "grade": 1,
+        "missionId": ""
+      },
+      {
+        "photoAbilityId": "pab-critical-score-up_multiply_distribution-5",
+        "effectValue": 225,
+        "grade": 1,
+        "missionId": ""
+      },
+      {
+        "photoAbilityId": "pab-passive-skill_sk-phot-exchange-5-02",
+        "effectValue": 3,
+        "grade": 1,
+        "missionId": ""
+      }
+    ],
+    "focusCharacterId": "char-mna",
+    "characterIds": [],
+    "shootingTime": "0"
+  },
+  {
     "id": "phot-exchange-bd-5-1",
     "assetId": "phot-bd-5-0001",
     "name": "成宮すず",
@@ -342,6 +386,94 @@
       },
       {
         "photoAbilityId": "pab-passive-skill_sk-phot-release-login-5-01",
+        "effectValue": 1,
+        "grade": 1,
+        "missionId": ""
+      }
+    ],
+    "focusCharacterId": "char-ktn",
+    "characterIds": [],
+    "shootingTime": "0"
+  },
+  {
+    "id": "phot-exchange-cd-5-3-limited",
+    "assetId": "phot-cd-5-0003-limited",
+    "name": "長瀬琴乃",
+    "rarity": 5,
+    "placeName": "それを人は\"青春\"と呼んだ",
+    "eventName": "メモリアルフォト",
+    "level": 35,
+    "abilities": [
+      {
+        "photoAbilityId": "pab-vocal_multiply_distribution-5",
+        "effectValue": 200,
+        "grade": 1,
+        "missionId": ""
+      },
+      {
+        "photoAbilityId": "pab-dance_multiply_distribution-5",
+        "effectValue": 200,
+        "grade": 1,
+        "missionId": ""
+      },
+      {
+        "photoAbilityId": "pab-visual_multiply_distribution-5",
+        "effectValue": 200,
+        "grade": 1,
+        "missionId": ""
+      },
+      {
+        "photoAbilityId": "pab-critical-score-up_multiply_distribution-5",
+        "effectValue": 120,
+        "grade": 1,
+        "missionId": ""
+      },
+      {
+        "photoAbilityId": "pab-passive-skill_sk-phot-shop-5-02",
+        "effectValue": 1,
+        "grade": 1,
+        "missionId": ""
+      }
+    ],
+    "focusCharacterId": "char-ktn",
+    "characterIds": [],
+    "shootingTime": "0"
+  },
+  {
+    "id": "phot-exchange-cd-5-3-normal",
+    "assetId": "phot-cd-5-0003-normal",
+    "name": "長瀬琴乃",
+    "rarity": 5,
+    "placeName": "それを人は\"青春\"と呼んだ",
+    "eventName": "メモリアルフォト",
+    "level": 35,
+    "abilities": [
+      {
+        "photoAbilityId": "pab-vocal_multiply_distribution-5",
+        "effectValue": 200,
+        "grade": 1,
+        "missionId": ""
+      },
+      {
+        "photoAbilityId": "pab-dance_multiply_distribution-5",
+        "effectValue": 200,
+        "grade": 1,
+        "missionId": ""
+      },
+      {
+        "photoAbilityId": "pab-visual_multiply_distribution-5",
+        "effectValue": 200,
+        "grade": 1,
+        "missionId": ""
+      },
+      {
+        "photoAbilityId": "pab-technique_add-5",
+        "effectValue": 77,
+        "grade": 1,
+        "missionId": ""
+      },
+      {
+        "photoAbilityId": "pab-passive-skill_sk-phot-shop-5-02",
         "effectValue": 1,
         "grade": 1,
         "missionId": ""
@@ -952,6 +1084,50 @@
       },
       {
         "photoAbilityId": "pab-passive-skill_sk-phot-release-login-5-01",
+        "effectValue": 1,
+        "grade": 1,
+        "missionId": ""
+      }
+    ],
+    "focusCharacterId": "char-skr",
+    "characterIds": [],
+    "shootingTime": "0"
+  },
+  {
+    "id": "phot-shop-5-8",
+    "assetId": "phot-shop-5-0008",
+    "name": "長瀬琴乃&川咲さくら",
+    "rarity": 5,
+    "placeName": "小さな輝き",
+    "eventName": "メモリアルフォト",
+    "level": 35,
+    "abilities": [
+      {
+        "photoAbilityId": "pab-vocal_multiply_distribution-5",
+        "effectValue": 200,
+        "grade": 1,
+        "missionId": ""
+      },
+      {
+        "photoAbilityId": "pab-dance_multiply_distribution-5",
+        "effectValue": 200,
+        "grade": 1,
+        "missionId": ""
+      },
+      {
+        "photoAbilityId": "pab-visual_multiply_distribution-5",
+        "effectValue": 200,
+        "grade": 1,
+        "missionId": ""
+      },
+      {
+        "photoAbilityId": "pab-active-skill-score-up_multiply_distribution-5",
+        "effectValue": 60,
+        "grade": 1,
+        "missionId": ""
+      },
+      {
+        "photoAbilityId": "pab-passive-skill_sk-phot-shop-5-02",
         "effectValue": 1,
         "grade": 1,
         "missionId": ""

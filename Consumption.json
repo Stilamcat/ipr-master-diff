@@ -189,6 +189,19 @@
     ]
   },
   {
+    "id": "con-item-gacha_ticket-r5-22-0624",
+    "resources": [
+      {
+        "resourceType": 1,
+        "resourceIds": [
+          "item-gacha_ticket-r5-22-0624"
+        ],
+        "amount": 1,
+        "subResourceIds": []
+      }
+    ]
+  },
+  {
     "id": "con-item-gacha_ticket_piece-30",
     "resources": [
       {
@@ -253,6 +266,17 @@
       {
         "resourceType": 16,
         "amount": 2000,
+        "resourceIds": [],
+        "subResourceIds": []
+      }
+    ]
+  },
+  {
+    "id": "con-paid_stone-2500",
+    "resources": [
+      {
+        "resourceType": 16,
+        "amount": 2500,
         "resourceIds": [],
         "subResourceIds": []
       }
@@ -443,6 +467,32 @@
         "resourceType": 1,
         "resourceIds": [
           "item-exchange-ticket-21-1224"
+        ],
+        "amount": 1,
+        "subResourceIds": []
+      }
+    ]
+  },
+  {
+    "id": "cos-item-exchange-ticket-22-0624",
+    "resources": [
+      {
+        "resourceType": 1,
+        "resourceIds": [
+          "item-exchange-ticket-22-0624"
+        ],
+        "amount": 1,
+        "subResourceIds": []
+      }
+    ]
+  },
+  {
+    "id": "cos-item-gacha-premium-ticket",
+    "resources": [
+      {
+        "resourceType": 1,
+        "resourceIds": [
+          "item-gacha-premium-ticket"
         ],
         "amount": 1,
         "subResourceIds": []
