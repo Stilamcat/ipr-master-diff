@@ -46,6 +46,57 @@
     "npcMotionAssetIds": []
   },
   {
+    "id": "live-start-anim_02-thrx-default-01",
+    "characterAmount": 2,
+    "motionAssetIds": [
+      "mot_live_chr_cmn_start-005_00_in",
+      "mot_live_chr_cmn_start-005_01_in"
+    ],
+    "voiceAssetGroupId": "live-start-voice_02-thrx-default",
+    "characterIds": [
+      "char-kor",
+      "char-mhk"
+    ],
+    "layoutMotionAssetId": "mot_live_start-005_in_layout",
+    "cameraMotionAssetId": "mot_live_start-005_in_cam",
+    "npcCharacterIds": [],
+    "npcMotionAssetIds": []
+  },
+  {
+    "id": "live-start-anim_02-thrx-default-03",
+    "characterAmount": 2,
+    "motionAssetIds": [
+      "mot_live_chr_cmn_start-005_00_in",
+      "mot_live_chr_cmn_start-005_01_in"
+    ],
+    "voiceAssetGroupId": "live-start-voice_02-thrx-default",
+    "characterIds": [
+      "char-kor",
+      "char-kan"
+    ],
+    "layoutMotionAssetId": "mot_live_start-005_in_layout",
+    "cameraMotionAssetId": "mot_live_start-005_in_cam",
+    "npcCharacterIds": [],
+    "npcMotionAssetIds": []
+  },
+  {
+    "id": "live-start-anim_02-thrx-default-06",
+    "characterAmount": 2,
+    "motionAssetIds": [
+      "mot_live_chr_cmn_start-005_00_in",
+      "mot_live_chr_cmn_start-005_01_in"
+    ],
+    "voiceAssetGroupId": "live-start-voice_02-thrx-default",
+    "characterIds": [
+      "char-kan",
+      "char-mhk"
+    ],
+    "layoutMotionAssetId": "mot_live_start-005_in_layout",
+    "cameraMotionAssetId": "mot_live_start-005_in_cam",
+    "npcCharacterIds": [],
+    "npcMotionAssetIds": []
+  },
+  {
     "id": "live-start-anim_03-all-default",
     "characterAmount": 3,
     "motionAssetIds": [
@@ -57,6 +108,25 @@
     "layoutMotionAssetId": "mot_live_start-001_in_layout",
     "cameraMotionAssetId": "mot_live_start-001_in_cam",
     "characterIds": [],
+    "npcCharacterIds": [],
+    "npcMotionAssetIds": []
+  },
+  {
+    "id": "live-start-anim_03-thrx-default",
+    "characterAmount": 3,
+    "motionAssetIds": [
+      "mot_live_chr_cmn_start-005_00_in",
+      "mot_live_chr_cmn_start-005_01_in",
+      "mot_live_chr_cmn_start-005_02_in"
+    ],
+    "voiceAssetGroupId": "live-start-voice_03-thrx-default",
+    "characterIds": [
+      "char-kor",
+      "char-kan",
+      "char-mhk"
+    ],
+    "layoutMotionAssetId": "mot_live_start-005_in_layout",
+    "cameraMotionAssetId": "mot_live_start-005_in_cam",
     "npcCharacterIds": [],
     "npcMotionAssetIds": []
   },

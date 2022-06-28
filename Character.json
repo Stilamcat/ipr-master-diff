@@ -604,96 +604,124 @@
   {
     "id": "char-kan",
     "assetId": "kan",
-    "order": 1001,
+    "characterGroupId": "character_group_6",
+    "order": 19,
     "name": "kana",
     "cv": "田中あいみ",
-    "age": "-",
-    "birthday": "-",
-    "height": "-",
-    "weight": "-",
+    "age": "20歳",
+    "birthday": "4月10日",
+    "height": "166cm",
+    "weight": "44kg",
     "zodiacSign": "おひつじ座",
-    "hometown": "-",
-    "favorite": "-",
-    "unfavorite": "-",
-    "profile": "-",
+    "hometown": "非公表",
+    "favorite": "SNSのいいね、父",
+    "unfavorite": "祖父",
+    "profile": "裏表が激しいが、ずば抜けたセンスを持つ小悪魔アイドル。大人気モデル出身で、小さい頃から数々の雑誌の表紙を飾っている。承認欲求が高く、SNSのフォロワーは200万以上。",
     "costumeIds": [
-      "cos-kan-casl-00"
+      "cos-kan-casl-00",
+      "cos-kan-idol-00",
+      "cos-kan-mizg-00",
+      "cos-kan-sdam-00",
+      "cos-kan-sdpl-00",
+      "cos-kan-trng-00"
     ],
     "altCharacters": [
       {
-        "characterId": "char-aoi",
+        "characterId": "char-ai",
         "priority": 1
       },
       {
-        "characterId": "char-chs",
-        "priority": 15
-      },
-      {
-        "characterId": "char-hrk",
-        "priority": 13
-      },
-      {
-        "characterId": "char-kkr",
+        "characterId": "char-aoi",
         "priority": 2
       },
       {
-        "characterId": "char-kor",
-        "priority": 17
-      },
-      {
-        "characterId": "char-mei",
-        "priority": 11
-      },
-      {
-        "characterId": "char-mhk",
-        "priority": 18
-      },
-      {
-        "characterId": "char-ngs",
-        "priority": 10
-      },
-      {
-        "characterId": "char-rei",
+        "characterId": "char-chs",
         "priority": 16
       },
       {
-        "characterId": "char-rio",
-        "priority": 3
-      },
-      {
-        "characterId": "char-rui",
-        "priority": 6
-      },
-      {
-        "characterId": "char-ski",
-        "priority": 8
-      },
-      {
-        "characterId": "char-skr",
+        "characterId": "char-hrk",
         "priority": 14
       },
       {
-        "characterId": "char-smr",
-        "priority": 5
+        "characterId": "char-kkr",
+        "priority": 3
       },
       {
-        "characterId": "char-suz",
-        "priority": 7
+        "characterId": "char-kor",
+        "priority": 18
       },
       {
-        "characterId": "char-szk",
+        "characterId": "char-ktn",
+        "priority": 10
+      },
+      {
+        "characterId": "char-mei",
         "priority": 12
       },
       {
-        "characterId": "char-yu",
+        "characterId": "char-mhk",
+        "priority": 19
+      },
+      {
+        "characterId": "char-ngs",
+        "priority": 11
+      },
+      {
+        "characterId": "char-rei",
+        "priority": 17
+      },
+      {
+        "characterId": "char-rio",
         "priority": 4
+      },
+      {
+        "characterId": "char-rui",
+        "priority": 7
+      },
+      {
+        "characterId": "char-ski",
+        "priority": 9
+      },
+      {
+        "characterId": "char-skr",
+        "priority": 15
+      },
+      {
+        "characterId": "char-smr",
+        "priority": 6
+      },
+      {
+        "characterId": "char-suz",
+        "priority": 8
+      },
+      {
+        "characterId": "char-szk",
+        "priority": 13
+      },
+      {
+        "characterId": "char-yu",
+        "priority": 5
       }
     ],
-    "defaultCostumeId": "cos-mhk-casl-00",
+    "defaultCostumeId": "cos-kan-trng-00",
     "heightCorrectionPermil": 846,
     "color": "474744",
-    "talkArrivalMotionAssetId": "mot_adv_chr_mna_appr-001_in",
-    "viewConditionId": "cd-chr-thrx-never-view",
+    "activityFanEventWords": [
+      {
+        "word": "ありがとう\nございま～す！",
+        "voiceAssetId": "sud_vo_act_kan_fan-01"
+      },
+      {
+        "word": "kana、\n感激～！",
+        "voiceAssetId": "sud_vo_act_kan_fan-02"
+      },
+      {
+        "word": "また来てね～！",
+        "voiceAssetId": "sud_vo_act_kan_fan-03"
+      }
+    ],
+    "talkArrivalMotionAssetId": "mot_adv_chr_kan_appr-001_in",
+    "viewConditionId": "cd-date-22-0628",
     "personalityType": 1,
     "simplePersonalityType": 1,
     "sdPersonalityType": 1,
@@ -706,29 +734,27 @@
       ""
     ],
     "costumeVoiceAssetIds": [
-      "sud_vo_cmn_mna_dress-01",
-      "sud_vo_cmn_mna_dress-02"
+      "sud_vo_cmn_kan_dress-01",
+      "sud_vo_cmn_kan_dress-02"
     ],
     "psylliumColerType": 7,
     "shortProfile": "裏表が激しいが、\nずば抜けたセンスを持つ\n小悪魔アイドル",
-    "threeSize": "-",
-    "catchphrase": "-",
-    "firstName": "miho",
-    "idiom": "-",
-    "defaultLiveCostumeId": "cos-mhk-casl-00",
-    "characterGroupId": "",
+    "threeSize": "B78・W55・H83",
+    "catchphrase": "きゃはっ！　\n当然でしょ、\nだってkanaだもんね！",
+    "firstName": "kana",
+    "idiom": "孤独",
+    "defaultLiveCostumeId": "cos-kan-trng-00",
+    "facePositionX": -95.0,
+    "facePositionY": 780.0,
+    "groupPositionX": 0.69,
+    "groupPositionY": 0.57,
+    "catchphraseColor": "F0F000",
+    "unlockConditionId": "cd-chr-obtain-kan",
     "enName": "",
     "isNpc": false,
-    "activityFanEventWords": [],
     "talkArrivalAdditionMotionAssetId": "",
     "isLeftHanded": false,
-    "isMemories": false,
-    "facePositionX": 0.0,
-    "facePositionY": 0.0,
-    "groupPositionX": 0.0,
-    "groupPositionY": 0.0,
-    "catchphraseColor": "",
-    "unlockConditionId": ""
+    "isMemories": false
   },
   {
     "id": "char-kkr",
@@ -1001,135 +1027,157 @@
   {
     "id": "char-kor",
     "assetId": "kor",
-    "order": 1000,
+    "characterGroupId": "character_group_6",
+    "order": 18,
     "name": "fran",
     "cv": "Lynn",
-    "age": "-",
-    "birthday": "-",
-    "height": "-",
-    "weight": "-",
+    "age": "22歳",
+    "birthday": "6月11日",
+    "height": "172cm",
+    "weight": "47kg",
     "zodiacSign": "ふたご座",
-    "hometown": "-",
-    "favorite": "-",
-    "unfavorite": "-",
-    "profile": "-",
+    "hometown": "非公表",
+    "favorite": "ファッション、お金、漫画",
+    "unfavorite": "お金にならないこと、パーティー",
+    "profile": "抜群のスタイルを持つ、天才肌で努力を知らないカリスマ。ⅢXのセンターで、パリコレへの出場経験もあるトップモデル出身。ある理由から極端にお金に執着している。",
     "costumeIds": [
-      "cos-kor-casl-00"
+      "cos-kor-casl-00",
+      "cos-kor-idol-00",
+      "cos-kor-mizg-00",
+      "cos-kor-sdam-00",
+      "cos-kor-sdpl-00",
+      "cos-kor-trng-00"
     ],
     "altCharacters": [
       {
-        "characterId": "char-aoi",
+        "characterId": "char-ai",
         "priority": 1
       },
       {
-        "characterId": "char-chs",
-        "priority": 15
-      },
-      {
-        "characterId": "char-hrk",
-        "priority": 13
-      },
-      {
-        "characterId": "char-kan",
-        "priority": 17
-      },
-      {
-        "characterId": "char-kkr",
+        "characterId": "char-aoi",
         "priority": 2
       },
       {
-        "characterId": "char-ktn",
-        "priority": 9
-      },
-      {
-        "characterId": "char-mei",
-        "priority": 11
-      },
-      {
-        "characterId": "char-mhk",
-        "priority": 18
-      },
-      {
-        "characterId": "char-ngs",
-        "priority": 10
-      },
-      {
-        "characterId": "char-rei",
+        "characterId": "char-chs",
         "priority": 16
       },
       {
-        "characterId": "char-rio",
-        "priority": 3
-      },
-      {
-        "characterId": "char-rui",
-        "priority": 6
-      },
-      {
-        "characterId": "char-ski",
-        "priority": 8
-      },
-      {
-        "characterId": "char-skr",
+        "characterId": "char-hrk",
         "priority": 14
       },
       {
-        "characterId": "char-smr",
-        "priority": 5
+        "characterId": "char-kan",
+        "priority": 18
       },
       {
-        "characterId": "char-suz",
-        "priority": 7
+        "characterId": "char-kkr",
+        "priority": 3
       },
       {
-        "characterId": "char-szk",
+        "characterId": "char-ktn",
+        "priority": 10
+      },
+      {
+        "characterId": "char-mei",
         "priority": 12
       },
       {
-        "characterId": "char-yu",
+        "characterId": "char-mhk",
+        "priority": 19
+      },
+      {
+        "characterId": "char-ngs",
+        "priority": 11
+      },
+      {
+        "characterId": "char-rei",
+        "priority": 17
+      },
+      {
+        "characterId": "char-rio",
         "priority": 4
+      },
+      {
+        "characterId": "char-rui",
+        "priority": 7
+      },
+      {
+        "characterId": "char-ski",
+        "priority": 9
+      },
+      {
+        "characterId": "char-skr",
+        "priority": 15
+      },
+      {
+        "characterId": "char-smr",
+        "priority": 6
+      },
+      {
+        "characterId": "char-suz",
+        "priority": 8
+      },
+      {
+        "characterId": "char-szk",
+        "priority": 13
+      },
+      {
+        "characterId": "char-yu",
+        "priority": 5
       }
     ],
-    "defaultCostumeId": "cos-kor-casl-00",
+    "defaultCostumeId": "cos-kor-trng-00",
     "heightCorrectionPermil": 1307,
     "color": "474744",
-    "talkArrivalMotionAssetId": "mot_adv_chr_mna_appr-001_in",
-    "viewConditionId": "cd-chr-thrx-never-view",
-    "personalityType": 1,
-    "simplePersonalityType": 1,
-    "sdPersonalityType": 1,
+    "activityFanEventWords": [
+      {
+        "word": "ありがとう\nございます！",
+        "voiceAssetId": "sud_vo_act_kor_fan-01"
+      },
+      {
+        "word": "お会いできて\n嬉しいです",
+        "voiceAssetId": "sud_vo_act_kor_fan-02"
+      },
+      {
+        "word": "また来て\nくださいね！",
+        "voiceAssetId": "sud_vo_act_kor_fan-03"
+      }
+    ],
+    "talkArrivalMotionAssetId": "mot_adv_chr_kor_appr-001_in",
+    "viewConditionId": "cd-date-22-0628",
+    "personalityType": 4,
+    "simplePersonalityType": 3,
+    "sdPersonalityType": 4,
     "costumeMotionAssetIds": [
-      "mot_dress_chr_cmn_action-001-a_in",
-      "mot_dress_chr_cmn_action-002-a_in"
+      "mot_dress_chr_cmn_action-001-d_in",
+      "mot_dress_chr_cmn_action-002-d_in"
     ],
     "costumeAdditionMotionAssetIds": [
       "",
       ""
     ],
     "costumeVoiceAssetIds": [
-      "sud_vo_cmn_mna_dress-01",
-      "sud_vo_cmn_mna_dress-02"
+      "sud_vo_cmn_kor_dress-01",
+      "sud_vo_cmn_kor_dress-02"
     ],
     "psylliumColerType": 7,
     "shortProfile": "抜群のスタイルを持つ、\n天才肌で努力を知らない\nカリスマ",
-    "threeSize": "-",
-    "catchphrase": "-",
+    "threeSize": "B82・W54・H86",
+    "catchphrase": "アイドルをやっている\n目的は、ただお金を\n稼ぐため。",
     "firstName": "fran",
-    "idiom": "-",
-    "defaultLiveCostumeId": "cos-kor-casl-00",
-    "characterGroupId": "",
+    "idiom": "狂奔",
+    "defaultLiveCostumeId": "cos-kor-trng-00",
+    "facePositionY": 500.0,
+    "groupPositionX": 0.23,
+    "groupPositionY": 0.75,
+    "catchphraseColor": "F0F000",
+    "unlockConditionId": "cd-chr-obtain-kor",
     "enName": "",
     "isNpc": false,
-    "activityFanEventWords": [],
     "talkArrivalAdditionMotionAssetId": "",
     "isLeftHanded": false,
     "isMemories": false,
-    "facePositionX": 0.0,
-    "facePositionY": 0.0,
-    "groupPositionX": 0.0,
-    "groupPositionY": 0.0,
-    "catchphraseColor": "",
-    "unlockConditionId": ""
+    "facePositionX": 0.0
   },
   {
     "id": "char-ktn",
@@ -1434,131 +1482,157 @@
   {
     "id": "char-mhk",
     "assetId": "mhk",
-    "order": 1002,
+    "characterGroupId": "character_group_6",
+    "order": 20,
     "name": "miho",
     "cv": "村川梨衣",
-    "age": "-",
-    "birthday": "-",
-    "height": "-",
-    "weight": "-",
+    "age": "24歳",
+    "birthday": "1月25日",
+    "height": "165cm",
+    "weight": "47kg",
     "zodiacSign": "みずがめ座",
-    "hometown": "-",
-    "favorite": "-",
-    "unfavorite": "-",
-    "profile": "-",
+    "hometown": "非公表",
+    "favorite": "アイドル、葉ちゃん",
+    "unfavorite": "長瀬麻奈",
+    "profile": "豊富な経験と知識を活かして活動に励む理論派。BIG4に手が届く寸前で突如解散した、人気二人組アイドルのメンバーだった過去を持つ。グループのブレーン的存在で基本的に温厚だが、執念深い一面も。",
     "costumeIds": [
-      "cos-mhk-casl-00"
+      "cos-mhk-casl-00",
+      "cos-mhk-idol-00",
+      "cos-mhk-mizg-00",
+      "cos-mhk-sdam-00",
+      "cos-mhk-sdpl-00",
+      "cos-mhk-trng-00"
     ],
     "altCharacters": [
       {
-        "characterId": "char-aoi",
+        "characterId": "char-ai",
         "priority": 1
       },
       {
-        "characterId": "char-chs",
-        "priority": 15
-      },
-      {
-        "characterId": "char-hrk",
-        "priority": 13
-      },
-      {
-        "characterId": "char-kan",
-        "priority": 17
-      },
-      {
-        "characterId": "char-kkr",
+        "characterId": "char-aoi",
         "priority": 2
       },
       {
-        "characterId": "char-mei",
-        "priority": 11
-      },
-      {
-        "characterId": "char-mhk",
-        "priority": 18
-      },
-      {
-        "characterId": "char-ngs",
-        "priority": 10
-      },
-      {
-        "characterId": "char-rei",
+        "characterId": "char-chs",
         "priority": 16
       },
       {
-        "characterId": "char-rio",
-        "priority": 3
-      },
-      {
-        "characterId": "char-rui",
-        "priority": 6
-      },
-      {
-        "characterId": "char-ski",
-        "priority": 8
-      },
-      {
-        "characterId": "char-skr",
+        "characterId": "char-hrk",
         "priority": 14
       },
       {
-        "characterId": "char-smr",
-        "priority": 5
+        "characterId": "char-kan",
+        "priority": 19
       },
       {
-        "characterId": "char-suz",
-        "priority": 7
+        "characterId": "char-kkr",
+        "priority": 3
       },
       {
-        "characterId": "char-szk",
+        "characterId": "char-kor",
+        "priority": 18
+      },
+      {
+        "characterId": "char-ktn",
+        "priority": 10
+      },
+      {
+        "characterId": "char-mei",
         "priority": 12
       },
       {
-        "characterId": "char-yu",
+        "characterId": "char-ngs",
+        "priority": 11
+      },
+      {
+        "characterId": "char-rei",
+        "priority": 17
+      },
+      {
+        "characterId": "char-rio",
         "priority": 4
+      },
+      {
+        "characterId": "char-rui",
+        "priority": 7
+      },
+      {
+        "characterId": "char-ski",
+        "priority": 9
+      },
+      {
+        "characterId": "char-skr",
+        "priority": 15
+      },
+      {
+        "characterId": "char-smr",
+        "priority": 6
+      },
+      {
+        "characterId": "char-suz",
+        "priority": 8
+      },
+      {
+        "characterId": "char-szk",
+        "priority": 13
+      },
+      {
+        "characterId": "char-yu",
+        "priority": 5
       }
     ],
-    "defaultCostumeId": "cos-kan-casl-00",
+    "defaultCostumeId": "cos-mhk-trng-00",
     "heightCorrectionPermil": 769,
     "color": "474744",
-    "talkArrivalMotionAssetId": "mot_adv_chr_mna_appr-001_in",
-    "viewConditionId": "cd-chr-thrx-never-view",
-    "personalityType": 1,
-    "simplePersonalityType": 1,
-    "sdPersonalityType": 1,
+    "activityFanEventWords": [
+      {
+        "word": "ありがとう",
+        "voiceAssetId": "sud_vo_act_mhk_fan-01"
+      },
+      {
+        "word": "会えて\n嬉しいです",
+        "voiceAssetId": "sud_vo_act_mhk_fan-02"
+      },
+      {
+        "word": "またお会い\nしましょう",
+        "voiceAssetId": "sud_vo_act_mhk_fan-03"
+      }
+    ],
+    "talkArrivalMotionAssetId": "mot_adv_chr_mhk_appr-001_in",
+    "viewConditionId": "cd-date-22-0628",
+    "personalityType": 3,
+    "simplePersonalityType": 2,
+    "sdPersonalityType": 3,
     "costumeMotionAssetIds": [
-      "mot_dress_chr_cmn_action-001-a_in",
-      "mot_dress_chr_cmn_action-002-a_in"
+      "mot_dress_chr_cmn_action-001-c_in",
+      "mot_dress_chr_cmn_action-002-c_in"
     ],
     "costumeAdditionMotionAssetIds": [
       "",
       ""
     ],
     "costumeVoiceAssetIds": [
-      "sud_vo_cmn_mna_dress-01",
-      "sud_vo_cmn_mna_dress-02"
+      "sud_vo_cmn_mhk_dress-01",
+      "sud_vo_cmn_mhk_dress-02"
     ],
     "psylliumColerType": 7,
     "shortProfile": "豊富な経験と知識を活かして\n活動に励む\n理論派",
-    "threeSize": "-",
-    "catchphrase": "-",
-    "firstName": "kana",
-    "idiom": "-",
-    "defaultLiveCostumeId": "cos-kan-casl-00",
-    "characterGroupId": "",
+    "threeSize": "B87・W54・H84",
+    "catchphrase": "高得点を取る『攻略法』\nとでも言うべきものはある。",
+    "firstName": "miho",
+    "idiom": "憂愁",
+    "defaultLiveCostumeId": "cos-mhk-trng-00",
+    "facePositionY": 500.0,
+    "groupPositionX": 0.54,
+    "groupPositionY": 0.81,
+    "catchphraseColor": "F0F000",
+    "unlockConditionId": "cd-chr-obtain-mhk",
     "enName": "",
     "isNpc": false,
-    "activityFanEventWords": [],
     "talkArrivalAdditionMotionAssetId": "",
     "isLeftHanded": false,
     "isMemories": false,
-    "facePositionX": 0.0,
-    "facePositionY": 0.0,
-    "groupPositionX": 0.0,
-    "groupPositionY": 0.0,
-    "catchphraseColor": "",
-    "unlockConditionId": ""
+    "facePositionX": 0.0
   },
   {
     "id": "char-mna",
@@ -1651,7 +1725,7 @@
         "priority": 4
       }
     ],
-    "defaultCostumeId": "cos-mna-casl-00",
+    "defaultCostumeId": "cos-mna-trng-00",
     "heightCorrectionPermil": 231,
     "color": "#F252B0",
     "talkArrivalMotionAssetId": "mot_adv_chr_mna_appr-001_in",

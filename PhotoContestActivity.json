@@ -134,5 +134,76 @@
     "order": 5,
     "viewConditionId": "",
     "unlockConditionId": ""
+  },
+  {
+    "id": "photo_activity-22-0628-cafe-00",
+    "name": "カフェ",
+    "type": 2,
+    "thumbAssetId": "cafe-00",
+    "stageId": "stage-photo-cafe-00",
+    "costumeTypeIds": [
+      "casl",
+      "schl",
+      "trng"
+    ],
+    "forceCostumeTypeId": "casl",
+    "photoShootingMotionSetId": "cafe-00",
+    "isDeleteCharacter": true,
+    "order": 1,
+    "viewConditionId": "",
+    "unlockConditionId": ""
+  },
+  {
+    "id": "photo_activity-22-0628-pool-00",
+    "name": "水着グラビア撮影",
+    "type": 1,
+    "thumbAssetId": "pool-00",
+    "stageId": "stage-photo-pool-00",
+    "costumeTypeIds": [
+      "mizg",
+      "mizg-water-ng"
+    ],
+    "forceCostumeTypeId": "mizg",
+    "photoShootingMotionSetId": "pool-00",
+    "isDeleteCharacter": true,
+    "order": 2,
+    "viewConditionId": "",
+    "unlockConditionId": ""
+  },
+  {
+    "id": "photo_activity-22-0628-shopping-00",
+    "name": "ショッピング",
+    "type": 2,
+    "thumbAssetId": "shopping-00",
+    "stageId": "stage-photo-catstreet-00",
+    "costumeTypeIds": [
+      "casl",
+      "schl",
+      "trng"
+    ],
+    "forceCostumeTypeId": "casl",
+    "photoShootingMotionSetId": "catstreet-00",
+    "isDeleteCharacter": true,
+    "order": 4,
+    "viewConditionId": "",
+    "unlockConditionId": ""
+  },
+  {
+    "id": "photo_activity-22-0628-themepark-00",
+    "name": "テーマパーク",
+    "type": 2,
+    "thumbAssetId": "themepark-00",
+    "stageId": "stage-photo-themepark-00",
+    "costumeTypeIds": [
+      "casl",
+      "schl",
+      "trng"
+    ],
+    "forceCostumeTypeId": "casl",
+    "photoShootingMotionSetId": "themepark-00",
+    "isDeleteCharacter": true,
+    "order": 5,
+    "viewConditionId": "",
+    "unlockConditionId": ""
   }
 ]
