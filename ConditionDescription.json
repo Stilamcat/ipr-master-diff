@@ -280,8 +280,16 @@
     "description": "佐伯遙子お仕事Lv30"
   },
   {
+    "id": "cd-activity_level-kan-30",
+    "description": "kanaお仕事Lv30"
+  },
+  {
     "id": "cd-activity_level-kkr-30",
     "description": "赤崎こころお仕事Lv30"
+  },
+  {
+    "id": "cd-activity_level-kor-30",
+    "description": "franお仕事Lv30"
   },
   {
     "id": "cd-activity_level-ktn-30",
@@ -290,6 +298,10 @@
   {
     "id": "cd-activity_level-mei-30",
     "description": "早坂芽衣お仕事Lv30"
+  },
+  {
+    "id": "cd-activity_level-mhk-30",
+    "description": "mihoお仕事Lv30"
   },
   {
     "id": "cd-activity_level-ngs-30",
@@ -1196,6 +1208,18 @@
     "description": "白の衝撃 鈴村優の所持"
   },
   {
+    "id": "cd-chr-obtain-kan",
+    "description": "kan解放済み"
+  },
+  {
+    "id": "cd-chr-obtain-kor",
+    "description": "kor解放済み"
+  },
+  {
+    "id": "cd-chr-obtain-mhk",
+    "description": "mhk解放済み"
+  },
+  {
     "id": "cd-chr-obtain-mna",
     "description": "mna解放済み"
   },
@@ -1916,6 +1940,34 @@
     "description": "写真を40回提出"
   },
   {
+    "id": "cd-contest-22-0628",
+    "description": "フォトオーディション期間"
+  },
+  {
+    "id": "cd-contest-22-0628-exchange",
+    "description": "フォトオーディション交換期間"
+  },
+  {
+    "id": "cd-contest-22-0628-total_submit_count_gte-",
+    "description": "写真を回提出"
+  },
+  {
+    "id": "cd-contest-22-0628-total_submit_count_gte-10",
+    "description": "写真を10回提出"
+  },
+  {
+    "id": "cd-contest-22-0628-total_submit_count_gte-20",
+    "description": "写真を20回提出"
+  },
+  {
+    "id": "cd-contest-22-0628-total_submit_count_gte-3",
+    "description": "写真を3回提出"
+  },
+  {
+    "id": "cd-contest-22-0628-total_submit_count_gte-35",
+    "description": "写真を35回提出"
+  },
+  {
     "id": "cd-cos-chs-idol-01",
     "description": "フェアウェルマイラブリー所持_千紗"
   },
@@ -1978,6 +2030,10 @@
   {
     "id": "cd-create-5days_not-buy-beginner-pack-01_not-clear-main004",
     "description": "除外判定用\n開始5日間\nパック未購入\nメインライブ#4未クリア"
+  },
+  {
+    "id": "cd-date-22-0628",
+    "description": ""
   },
   {
     "id": "cd-date-event-ladder-22-0513",
@@ -3020,6 +3076,10 @@
     "description": "イベントストーリー"
   },
   {
+    "id": "cd-event-story-0628",
+    "description": "6/28  18:00 ~"
+  },
+  {
     "id": "cd-event-story-0731",
     "description": "イベントストーリー"
   },
@@ -3093,6 +3153,10 @@
   },
   {
     "id": "cd-event-story-read-001-contest-22-0328",
+    "description": "イベント参加条件を達成"
+  },
+  {
+    "id": "cd-event-story-read-001-contest-22-0628",
     "description": "イベント参加条件を達成"
   },
   {
@@ -3184,6 +3248,10 @@
     "description": "開花Ptメダル交換所期間"
   },
   {
+    "id": "cd-exchange-obtain-item-suntory-cp-22-0630-01",
+    "description": "アイテムを所持しているか"
+  },
+  {
     "id": "cd-exchange-phot-pvp-4-1",
     "description": "phot-pvp-4-1フォト交換した"
   },
@@ -3202,6 +3270,10 @@
   {
     "id": "cd-exchange-photo-medal-22-0624",
     "description": "プレミアムフォトメダル交換所開催期間"
+  },
+  {
+    "id": "cd-exchange-time-suntory-cp-22-0630-01",
+    "description": "引換券交換所開催期間"
   },
   {
     "id": "cd-exp-card-rei-02-eve-01",
@@ -3464,6 +3536,38 @@
     "description": "佐伯遙子ファン800人"
   },
   {
+    "id": "cd-fan_amount-kan-100",
+    "description": "kanaファン100人"
+  },
+  {
+    "id": "cd-fan_amount-kan-100000",
+    "description": "kanaファン10万人"
+  },
+  {
+    "id": "cd-fan_amount-kan-11000",
+    "description": ""
+  },
+  {
+    "id": "cd-fan_amount-kan-15000",
+    "description": ""
+  },
+  {
+    "id": "cd-fan_amount-kan-20000",
+    "description": ""
+  },
+  {
+    "id": "cd-fan_amount-kan-3500",
+    "description": ""
+  },
+  {
+    "id": "cd-fan_amount-kan-7000",
+    "description": ""
+  },
+  {
+    "id": "cd-fan_amount-kan-800",
+    "description": ""
+  },
+  {
     "id": "cd-fan_amount-kkr-100",
     "description": "赤崎こころファン100人"
   },
@@ -3526,6 +3630,38 @@
   {
     "id": "cd-fan_amount-kkr-800",
     "description": "赤崎こころファン800人"
+  },
+  {
+    "id": "cd-fan_amount-kor-100",
+    "description": "franファン100人"
+  },
+  {
+    "id": "cd-fan_amount-kor-100000",
+    "description": "franファン10万人"
+  },
+  {
+    "id": "cd-fan_amount-kor-11000",
+    "description": ""
+  },
+  {
+    "id": "cd-fan_amount-kor-15000",
+    "description": ""
+  },
+  {
+    "id": "cd-fan_amount-kor-20000",
+    "description": ""
+  },
+  {
+    "id": "cd-fan_amount-kor-3500",
+    "description": ""
+  },
+  {
+    "id": "cd-fan_amount-kor-7000",
+    "description": ""
+  },
+  {
+    "id": "cd-fan_amount-kor-800",
+    "description": ""
   },
   {
     "id": "cd-fan_amount-ktn-100",
@@ -3654,6 +3790,38 @@
   {
     "id": "cd-fan_amount-mei-800",
     "description": "早坂芽衣ファン800人"
+  },
+  {
+    "id": "cd-fan_amount-mhk-100",
+    "description": "mihoファン100人"
+  },
+  {
+    "id": "cd-fan_amount-mhk-100000",
+    "description": "mihoファン10万人"
+  },
+  {
+    "id": "cd-fan_amount-mhk-11000",
+    "description": ""
+  },
+  {
+    "id": "cd-fan_amount-mhk-15000",
+    "description": ""
+  },
+  {
+    "id": "cd-fan_amount-mhk-20000",
+    "description": ""
+  },
+  {
+    "id": "cd-fan_amount-mhk-3500",
+    "description": ""
+  },
+  {
+    "id": "cd-fan_amount-mhk-7000",
+    "description": ""
+  },
+  {
+    "id": "cd-fan_amount-mhk-800",
+    "description": ""
   },
   {
     "id": "cd-fan_amount-ngs-100",
@@ -4340,6 +4508,10 @@
     "description": "フォトレタッチロック"
   },
   {
+    "id": "cd-gacha-obtain-item-suntory-cp-22-0630-01",
+    "description": "アイテムを所持しているか"
+  },
+  {
     "id": "cd-gacha-ticket-r5",
     "description": "★5確定ガチャチケットを所持"
   },
@@ -4358,6 +4530,10 @@
   {
     "id": "cd-gacha-ticket-r5-22-0624",
     "description": "★5アイドル1人確定ガチャ2nd期間"
+  },
+  {
+    "id": "cd-gacha-time-suntory-cp-22-0630-01",
+    "description": "アイテム抽選券ガチャ開催期間"
   },
   {
     "id": "cd-gacha_ticket_piece",
@@ -4900,8 +5076,16 @@
     "description": "佐伯遙子ハイスコア10000000"
   },
   {
+    "id": "cd-live_character_highest_score-kan-10000000",
+    "description": "kanaハイスコア10000000"
+  },
+  {
     "id": "cd-live_character_highest_score-kkr-10000000",
     "description": "赤崎こころハイスコア10000000"
+  },
+  {
+    "id": "cd-live_character_highest_score-kor-10000000",
+    "description": "franハイスコア10000000"
   },
   {
     "id": "cd-live_character_highest_score-ktn-10000000",
@@ -4910,6 +5094,10 @@
   {
     "id": "cd-live_character_highest_score-mei-10000000",
     "description": "早坂芽衣ハイスコア10000000"
+  },
+  {
+    "id": "cd-live_character_highest_score-mhk-10000000",
+    "description": "mihoハイスコア10000000"
   },
   {
     "id": "cd-live_character_highest_score-mna-10000000",
@@ -8688,6 +8876,10 @@
     "description": "メッセージ読了で解放"
   },
   {
+    "id": "cd-ms-read-message-card-kan-05-idol-00",
+    "description": "メッセージ読了で解放"
+  },
+  {
     "id": "cd-ms-read-message-card-kkr-05-idol-00",
     "description": "メッセージ読了で解放"
   },
@@ -8697,6 +8889,10 @@
   },
   {
     "id": "cd-ms-read-message-card-kkr-05-vlnt-00",
+    "description": "メッセージ読了で解放"
+  },
+  {
+    "id": "cd-ms-read-message-card-kor-05-idol-00",
     "description": "メッセージ読了で解放"
   },
   {
@@ -8733,6 +8929,10 @@
   },
   {
     "id": "cd-ms-read-message-card-mei-05-rock-00",
+    "description": "メッセージ読了で解放"
+  },
+  {
+    "id": "cd-ms-read-message-card-mhk-05-idol-00",
     "description": "メッセージ読了で解放"
   },
   {
@@ -8936,12 +9136,28 @@
     "description": "「キャンプのお仕事」読了"
   },
   {
+    "id": "cd-ms-read-message-story-kan-000-004",
+    "description": "「テレビに出たい」読了"
+  },
+  {
+    "id": "cd-ms-read-message-story-kan-001-004",
+    "description": "「スリーショット作戦」読了"
+  },
+  {
     "id": "cd-ms-read-message-story-kkr-001-004",
     "description": "「ほめ殺しのこころ」読了"
   },
   {
     "id": "cd-ms-read-message-story-kkr-003-004",
     "description": "「個性を伸ばそう」読了"
+  },
+  {
+    "id": "cd-ms-read-message-story-kor-000-004",
+    "description": "「コスパ悪い」読了"
+  },
+  {
+    "id": "cd-ms-read-message-story-kor-001-004",
+    "description": "「耳を傾ける？」読了"
   },
   {
     "id": "cd-ms-read-message-story-ktn-001-004",
@@ -8958,6 +9174,14 @@
   {
     "id": "cd-ms-read-message-story-mei-003-004",
     "description": "「過ぎ去る時間」読了"
+  },
+  {
+    "id": "cd-ms-read-message-story-mhk-000-004",
+    "description": "「三枝さんに密告大作戦」読了"
+  },
+  {
+    "id": "cd-ms-read-message-story-mhk-001-004",
+    "description": "「kanaの暴言」読了"
   },
   {
     "id": "cd-ms-read-message-story-mna-001-004",
@@ -9100,6 +9324,10 @@
     "description": "未加入"
   },
   {
+    "id": "cd-obtain_card-skr-02-eve-01",
+    "description": "未加入"
+  },
+  {
     "id": "cd-open-ex-tower-003-21-1130",
     "description": "VENUSタワーSTAGE350クリア"
   },
@@ -9130,6 +9358,18 @@
   {
     "id": "cd-photo_section-open-22-0404-only",
     "description": "4/4 12:00 ~"
+  },
+  {
+    "id": "cd-photo_section-open-22-0703",
+    "description": "7/3 12:00"
+  },
+  {
+    "id": "cd-photo_section-open-22-0703-0411",
+    "description": "7/3 12:00 ~ 4/11 23:59"
+  },
+  {
+    "id": "cd-photo_section-open-22-0703-only",
+    "description": "7/3 12:00 ~"
   },
   {
     "id": "cd-photo_shoot_total_count_gte-30",
@@ -10516,6 +10756,66 @@
     "description": ""
   },
   {
+    "id": "cd-reliability-kan-10",
+    "description": ""
+  },
+  {
+    "id": "cd-reliability-kan-100",
+    "description": ""
+  },
+  {
+    "id": "cd-reliability-kan-155",
+    "description": ""
+  },
+  {
+    "id": "cd-reliability-kan-18",
+    "description": ""
+  },
+  {
+    "id": "cd-reliability-kan-210",
+    "description": ""
+  },
+  {
+    "id": "cd-reliability-kan-25",
+    "description": ""
+  },
+  {
+    "id": "cd-reliability-kan-3",
+    "description": ""
+  },
+  {
+    "id": "cd-reliability-kan-30",
+    "description": ""
+  },
+  {
+    "id": "cd-reliability-kan-300",
+    "description": ""
+  },
+  {
+    "id": "cd-reliability-kan-35",
+    "description": ""
+  },
+  {
+    "id": "cd-reliability-kan-40",
+    "description": ""
+  },
+  {
+    "id": "cd-reliability-kan-50",
+    "description": ""
+  },
+  {
+    "id": "cd-reliability-kan-55",
+    "description": ""
+  },
+  {
+    "id": "cd-reliability-kan-70",
+    "description": ""
+  },
+  {
+    "id": "cd-reliability-kan-90",
+    "description": ""
+  },
+  {
     "id": "cd-reliability-kkr-10",
     "description": ""
   },
@@ -10633,6 +10933,66 @@
   },
   {
     "id": "cd-reliability-kkr-90",
+    "description": ""
+  },
+  {
+    "id": "cd-reliability-kor-10",
+    "description": ""
+  },
+  {
+    "id": "cd-reliability-kor-100",
+    "description": ""
+  },
+  {
+    "id": "cd-reliability-kor-155",
+    "description": ""
+  },
+  {
+    "id": "cd-reliability-kor-18",
+    "description": ""
+  },
+  {
+    "id": "cd-reliability-kor-210",
+    "description": ""
+  },
+  {
+    "id": "cd-reliability-kor-25",
+    "description": ""
+  },
+  {
+    "id": "cd-reliability-kor-3",
+    "description": ""
+  },
+  {
+    "id": "cd-reliability-kor-30",
+    "description": ""
+  },
+  {
+    "id": "cd-reliability-kor-300",
+    "description": ""
+  },
+  {
+    "id": "cd-reliability-kor-35",
+    "description": ""
+  },
+  {
+    "id": "cd-reliability-kor-40",
+    "description": ""
+  },
+  {
+    "id": "cd-reliability-kor-50",
+    "description": ""
+  },
+  {
+    "id": "cd-reliability-kor-55",
+    "description": ""
+  },
+  {
+    "id": "cd-reliability-kor-70",
+    "description": ""
+  },
+  {
+    "id": "cd-reliability-kor-90",
     "description": ""
   },
   {
@@ -10873,6 +11233,66 @@
   },
   {
     "id": "cd-reliability-mei-90",
+    "description": ""
+  },
+  {
+    "id": "cd-reliability-mhk-10",
+    "description": ""
+  },
+  {
+    "id": "cd-reliability-mhk-100",
+    "description": ""
+  },
+  {
+    "id": "cd-reliability-mhk-155",
+    "description": ""
+  },
+  {
+    "id": "cd-reliability-mhk-18",
+    "description": ""
+  },
+  {
+    "id": "cd-reliability-mhk-210",
+    "description": ""
+  },
+  {
+    "id": "cd-reliability-mhk-25",
+    "description": ""
+  },
+  {
+    "id": "cd-reliability-mhk-3",
+    "description": ""
+  },
+  {
+    "id": "cd-reliability-mhk-30",
+    "description": ""
+  },
+  {
+    "id": "cd-reliability-mhk-300",
+    "description": ""
+  },
+  {
+    "id": "cd-reliability-mhk-35",
+    "description": ""
+  },
+  {
+    "id": "cd-reliability-mhk-40",
+    "description": ""
+  },
+  {
+    "id": "cd-reliability-mhk-50",
+    "description": ""
+  },
+  {
+    "id": "cd-reliability-mhk-55",
+    "description": ""
+  },
+  {
+    "id": "cd-reliability-mhk-70",
+    "description": ""
+  },
+  {
+    "id": "cd-reliability-mhk-90",
     "description": ""
   },
   {
@@ -12296,6 +12716,14 @@
     "description": "1周年記念毎日ログインパック開催期間"
   },
   {
+    "id": "cd-shop_item_thumb_monthly-pack-05",
+    "description": "shop_item_normal-monthly-05 (~6/30 23:59)"
+  },
+  {
+    "id": "cd-shop_item_thumb_monthly-pack-05-22-0701",
+    "description": "★5確定ガチャ2ndパック(7/1 00:00~)"
+  },
+  {
     "id": "cd-shop_login-pack-22-0624",
     "description": "1周年記念毎日ログインパック開催期間"
   },
@@ -12716,6 +13144,22 @@
     "description": "1周年記念ショップドカン期間"
   },
   {
+    "id": "cd-shop_special-shop-22-0628",
+    "description": "1周年記念ショップ第2弾お知らせ"
+  },
+  {
+    "id": "cd-shop_special-shop-22-0628-0703",
+    "description": "1周年記念ショップ第2弾（~7/3 11:59）"
+  },
+  {
+    "id": "cd-shop_special-shop-22-0628-0703-mlv-120",
+    "description": "1周年記念ショップ第2弾（~7/3 11:59）"
+  },
+  {
+    "id": "cd-shop_special-shop-22-0628-dokan",
+    "description": "1周年記念ショップ第2弾ドカン期間"
+  },
+  {
     "id": "cd-shop_special-shop-banner-21-1125",
     "description": "サプライズショップSバナー期間"
   },
@@ -13058,6 +13502,10 @@
   {
     "id": "cd-st-group-thrx-01-01-19",
     "description": "ⅢX1章19話クリア"
+  },
+  {
+    "id": "cd-st-group-thrx-01-01-20",
+    "description": "番外編ストーリーⅢX読了"
   },
   {
     "id": "cd-st-group-tri-01-01-01",
@@ -13484,6 +13932,10 @@
     "description": "#3視聴\nで解放"
   },
   {
+    "id": "cd-st-read-st-card-kan-05-idol-00-03",
+    "description": "#3視聴\nで解放"
+  },
+  {
     "id": "cd-st-read-st-card-kkr-05-idol-00-03",
     "description": "#3視聴\nで解放"
   },
@@ -13493,6 +13945,10 @@
   },
   {
     "id": "cd-st-read-st-card-kkr-05-vlnt-00-03",
+    "description": "#3視聴\nで解放"
+  },
+  {
+    "id": "cd-st-read-st-card-kor-05-idol-00-03",
     "description": "#3視聴\nで解放"
   },
   {
@@ -13525,6 +13981,10 @@
   },
   {
     "id": "cd-st-read-st-card-mei-05-rock-00-03",
+    "description": "#3視聴\nで解放"
+  },
+  {
+    "id": "cd-st-read-st-card-mhk-05-idol-00-03",
     "description": "#3視聴\nで解放"
   },
   {
@@ -13720,6 +14180,10 @@
     "description": ""
   },
   {
+    "id": "cd-suntory-cp-22-0630-0731",
+    "description": "サントリー自動販売機限定キャンペーン"
+  },
+  {
     "id": "cd-time-72h-gacha-dream-22-0328-open",
     "description": "該当のガチャを引いてなければ表示"
   },
@@ -13836,6 +14300,10 @@
     "description": "定例ツアー交換期間&Lv80"
   },
   {
+    "id": "cd-time-event-ms-anniversary-22-0630-0711",
+    "description": "1周年記念ミッション"
+  },
+  {
     "id": "cd-time-event-ms-gw-22-0501-0511",
     "description": "ゴールデンウィークミッション"
   },
@@ -13854,6 +14322,10 @@
   {
     "id": "cd-time-event-ms-xmas-21-1211-1223",
     "description": "クリスマスミッション"
+  },
+  {
+    "id": "cd-time-event_anniversary-22-0630_s-banner",
+    "description": "1周年記念ミッション"
   },
   {
     "id": "cd-time-event_backside-mission-21-0831",
@@ -14236,6 +14708,10 @@
     "description": "期間設定_交換所6月"
   },
   {
+    "id": "cd-time-exchange-gacha_point-22-0701-0731",
+    "description": "期間設定_交換所7月"
+  },
+  {
     "id": "cd-time-exchange-idle_medal-21-0624-0731",
     "description": "期間設定_交換所6-7月"
   },
@@ -14282,6 +14758,10 @@
   {
     "id": "cd-time-exchange-idle_medal-22-0601-0630",
     "description": "期間設定_交換所6月"
+  },
+  {
+    "id": "cd-time-exchange-idle_medal-22-0701-0731",
+    "description": "期間設定_交換所7月"
   },
   {
     "id": "cd-time-exchange-idol_medal-21-0630-0831",
@@ -14342,6 +14822,10 @@
   {
     "id": "cd-time-exchange-pvp_medal-22-0601-0630",
     "description": "期間設定_交換所6月"
+  },
+  {
+    "id": "cd-time-exchange-pvp_medal-22-0701-0731",
+    "description": "期間設定_交換所7月"
   },
   {
     "id": "cd-time-gacha-beginner-21-0816",
@@ -14524,6 +15008,10 @@
     "description": "1日1回無料/恒常ガチャ"
   },
   {
+    "id": "cd-time-gacha-fs-select-22-0628",
+    "description": "期間：選べるアイプラフェスガチャ"
+  },
+  {
     "id": "cd-time-gacha-fs-set-bloom-21-1228",
     "description": "期間：アイプラフェスガチャ"
   },
@@ -14534,6 +15022,10 @@
   {
     "id": "cd-time-gacha-fs-set-bloom-22-0328-02",
     "description": "期間：アイプラフェスピックアップ2ガチャ"
+  },
+  {
+    "id": "cd-time-gacha-fs-set-bloom-22-0628",
+    "description": "期間：アイプラフェスガチャ"
   },
   {
     "id": "cd-time-gacha-item-21-0624-close",
@@ -14781,7 +15273,7 @@
   },
   {
     "id": "cd-time-gacha-normal-22-0614",
-    "description": "恒常ガチャ"
+    "description": "恒常ガチャ(期間延長)"
   },
   {
     "id": "cd-time-gacha-pick-set-bloom-21-1112",
@@ -15500,6 +15992,18 @@
     "description": "開始：SUNNY PEACE for You and Me！楽曲"
   },
   {
+    "id": "cd-time-music-thrx-001-22-0628",
+    "description": "開始：Bang Bang楽曲"
+  },
+  {
+    "id": "cd-time-music-thrx-001-22-0628-close",
+    "description": "期間：Bang Bang楽曲"
+  },
+  {
+    "id": "cd-time-music-thrx-001-22-0628-close-shoot",
+    "description": "開始：Bang Bang楽曲"
+  },
+  {
     "id": "cd-time-music-tri-004-21-1130-close",
     "description": "期間：lumière楽曲"
   },
@@ -15856,11 +16360,19 @@
     "description": ""
   },
   {
+    "id": "cd-wear-costume-cos-kan-idol-00",
+    "description": ""
+  },
+  {
     "id": "cd-wear-costume-cos-kkr-idol-00",
     "description": ""
   },
   {
     "id": "cd-wear-costume-cos-kkr-vlnt-00",
+    "description": ""
+  },
+  {
+    "id": "cd-wear-costume-cos-kor-idol-00",
     "description": ""
   },
   {
@@ -15893,6 +16405,10 @@
   },
   {
     "id": "cd-wear-costume-cos-mei-rock-00",
+    "description": ""
+  },
+  {
+    "id": "cd-wear-costume-cos-mhk-idol-00",
     "description": ""
   },
   {

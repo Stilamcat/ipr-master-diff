@@ -728,6 +728,50 @@
     ]
   },
   {
+    "homeTalkId": "home-talk-card-kan-05-idol-00-talk-01",
+    "characterId": "char-kan",
+    "placeType": 1,
+    "conditionId": "cd-st-read-st-card-kan-05-idol-00-03",
+    "firstPriority": 9900,
+    "weight": 1,
+    "callPatternId": "call-pattern-card-kan-05-idol-00",
+    "choiceText": "先日のテレビ局の局長から\nいただいたお仕事ですよ。",
+    "managerText": "先日のテレビ局の局長から\nいただいたお仕事ですよ。",
+    "reliability": 5,
+    "characterTalks": [
+      {
+        "text": "げっ、局長案件だったんだ…",
+        "voiceAssetId": "sud_vo_home_kan-05-idol-00_talk-01-01",
+        "motionAssetId": "mot_adv_chr_cmn_surp-007_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "でもさぁ、なんでkanaが\nこんなイロモノみたいな仕事～！",
+        "voiceAssetId": "sud_vo_home_kan-05-idol-00_talk-01-02",
+        "motionAssetId": "mot_adv_chr_cmn_angry-005_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "えっ？　局が力を入れた新番組…？\nじゃ、完食出来たらトレンド上位に\n入るかな～きっとそうだよね！？",
+        "voiceAssetId": "sud_vo_home_kan-05-idol-00_talk-01-03",
+        "motionAssetId": "mot_adv_chr_cmn_emot-001_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "こうなったら、\nなんでもやったらぁ！",
+        "voiceAssetId": "sud_vo_home_kan-05-idol-00_talk-01-04",
+        "motionAssetId": "mot_adv_chr_cmn_glad-006_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "ハバネロでもジョロキアでも\n持って来いやぁ～！！",
+        "voiceAssetId": "sud_vo_home_kan-05-idol-00_talk-01-05",
+        "motionAssetId": "mot_adv_chr_cmn_rep-001_in",
+        "additionMotionAssetId": ""
+      }
+    ]
+  },
+  {
     "homeTalkId": "home-talk-card-kkr-05-idol-00-talk-01",
     "characterId": "char-kkr",
     "placeType": 1,
@@ -867,6 +911,56 @@
         "text": "至れり尽くせりですね～",
         "voiceAssetId": "sud_vo_home_kkr-05-vlnt-00_talk-01-06",
         "motionAssetId": "mot_adv_chr_cmn_pos-006_in",
+        "additionMotionAssetId": ""
+      }
+    ]
+  },
+  {
+    "homeTalkId": "home-talk-card-kor-05-idol-00-talk-01",
+    "characterId": "char-kor",
+    "placeType": 1,
+    "conditionId": "cd-st-read-st-card-kor-05-idol-00-03",
+    "firstPriority": 9900,
+    "weight": 1,
+    "callPatternId": "call-pattern-card-kor-05-idol-00",
+    "choiceText": "えっ！？\n今日、予定入ってました？",
+    "managerText": "えっ！？\n今日、予定入ってました？",
+    "reliability": 5,
+    "characterTalks": [
+      {
+        "text": "この間のライブから何も動きがない\nみたいなので聞いてみたんです。",
+        "voiceAssetId": "sud_vo_home_kor-05-idol-00_talk-01-01",
+        "motionAssetId": "mot_adv_chr_cmn_talk-017_in",
+        "additionMotionAssetId": "mot_all_chr_cmn_facial-011_in"
+      },
+      {
+        "text": "なんのって…？\nまったくとぼけるのが上手ですね。\nグッズですよ！　ⅢXのグッズ！",
+        "voiceAssetId": "sud_vo_home_kor-05-idol-00_talk-01-02",
+        "motionAssetId": "mot_adv_chr_cmn_angry-001_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "作るなら早めに言ってって\n話しましたよね！？\nさぁ、さっさと動く！",
+        "voiceAssetId": "sud_vo_home_kor-05-idol-00_talk-01-03",
+        "motionAssetId": "mot_adv_chr_cmn_angry-002_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "そんなことだろうと思って、\n私の方で案をまとめてきたんです。\nまずはこれをベースに…",
+        "voiceAssetId": "sud_vo_home_kor-05-idol-00_talk-01-04",
+        "motionAssetId": "mot_adv_chr_cmn_talk-021_in",
+        "additionMotionAssetId": "mot_all_chr_cmn_facial-048_in"
+      },
+      {
+        "text": "随分やる気ですね？\nはぁ？　誰のせいでこうなってると\n思ってるんですか…？",
+        "voiceAssetId": "sud_vo_home_kor-05-idol-00_talk-01-05",
+        "motionAssetId": "mot_adv_chr_cmn_ask-010_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "全部うだつが上がらない\nマネージャーのせいですよ。\n分かったら会議室押さえて下さい！",
+        "voiceAssetId": "sud_vo_home_kor-05-idol-00_talk-01-06",
+        "motionAssetId": "mot_adv_chr_cmn_angry-024_in",
         "additionMotionAssetId": ""
       }
     ]
@@ -1231,6 +1325,56 @@
         "text": "ん？\nどうしてそんなに慌ててるの？\nちゃんと行く前に伝えるよ？",
         "voiceAssetId": "sud_vo_home_mei-05-rock-00_talk-01-06",
         "motionAssetId": "mot_adv_chr_cmn_ask-003_in",
+        "additionMotionAssetId": ""
+      }
+    ]
+  },
+  {
+    "homeTalkId": "home-talk-card-mhk-05-idol-00-talk-01",
+    "characterId": "char-mhk",
+    "placeType": 1,
+    "conditionId": "cd-st-read-st-card-mhk-05-idol-00-03",
+    "firstPriority": 9900,
+    "weight": 1,
+    "callPatternId": "call-pattern-card-mhk-05-idol-00",
+    "choiceText": "サニピの資料がどうかしましたか？",
+    "managerText": "サニピの資料がどうかしましたか？",
+    "reliability": 5,
+    "characterTalks": [
+      {
+        "text": "はっ！\nちょっと…急に近くに現れないで\nもらっていいですか。",
+        "voiceAssetId": "sud_vo_home_mhk-05-idol-00_talk-01-01",
+        "motionAssetId": "mot_adv_chr_cmn_surp-005_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "これはその…以前戦った時の\nサニピの爆発力がなんなのか\n考えていたんです。",
+        "voiceAssetId": "sud_vo_home_mhk-05-idol-00_talk-01-02",
+        "motionAssetId": "mot_adv_chr_cmn_think-004_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "この子達のスケジュールを見ると、\n人気が出てからも昔からやっていた\n小さな営業は疎かにしない…",
+        "voiceAssetId": "sud_vo_home_mhk-05-idol-00_talk-01-03",
+        "motionAssetId": "mot_adv_chr_cmn_talk-007_in",
+        "additionMotionAssetId": "mot_all_chr_cmn_facial-032_in"
+      },
+      {
+        "text": "そういう身近なところ、\n距離の近いところが、\nああいう奇跡の一助となっている。",
+        "voiceAssetId": "sud_vo_home_mhk-05-idol-00_talk-01-04",
+        "motionAssetId": "mot_adv_chr_cmn_talk-022_in",
+        "additionMotionAssetId": "mot_all_chr_cmn_facial-032_in"
+      },
+      {
+        "text": "まぁ、大体分かりました。\nこれをⅢX流に昇華する術は\nいくらでもありそう。",
+        "voiceAssetId": "sud_vo_home_mhk-05-idol-00_talk-01-05",
+        "motionAssetId": "mot_adv_chr_cmn_pos-011_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "ふふふ、足元をすくわれないように\nよく彼女達を見てあげた方が\nいいですよ。",
+        "voiceAssetId": "sud_vo_home_mhk-05-idol-00_talk-01-06",
+        "motionAssetId": "mot_adv_chr_cmn_pos-023_in",
         "additionMotionAssetId": ""
       }
     ]
@@ -5188,6 +5332,564 @@
     ]
   },
   {
+    "homeTalkId": "home-talk-char-kan-talk-01",
+    "characterId": "char-kan",
+    "placeType": 1,
+    "conditionId": "cd-fan_amount-kan-800",
+    "firstPriority": 10000,
+    "weight": 1,
+    "callPatternId": "call-pattern-kan-01",
+    "choiceText": "新しい自己紹介ですか？\n是非協力していきましょう。",
+    "managerText": "新しい自己紹介ですか？\n是非協力していきましょう。",
+    "reliability": 5,
+    "characterTalks": [
+      {
+        "text": "あれ、聞かれちゃいました？\nきゃはっ、こんなの嘘に決まってんじゃん。",
+        "voiceAssetId": "sud_vo_home_kan_talk-01-1",
+        "motionAssetId": "mot_adv_chr_cmn_glad-003_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "マネージャーも知ってくれてますよね？　kanaの本性。",
+        "voiceAssetId": "sud_vo_home_kan_talk-01-2",
+        "motionAssetId": "mot_adv_chr_cmn_talk-012_in",
+        "additionMotionAssetId": "mot_all_chr_cmn_facial-037_in"
+      },
+      {
+        "text": "kanaは自分が一番目立てれば、他人のことなんてどーでもいいんだ～。",
+        "voiceAssetId": "sud_vo_home_kan_talk-01-3",
+        "motionAssetId": "mot_adv_chr_cmn_talk-022_in",
+        "additionMotionAssetId": "mot_all_chr_cmn_facial-032_in"
+      },
+      {
+        "text": "大事なアイドルが蹴落とされないように、ちゃんと見てた方がいいと思いますよ～？",
+        "voiceAssetId": "sud_vo_home_kan_talk-01-4",
+        "motionAssetId": "mot_adv_chr_cmn_talk-008_in",
+        "additionMotionAssetId": "mot_all_chr_cmn_facial-051_in"
+      },
+      {
+        "text": "それじゃ、ばいば～い！",
+        "voiceAssetId": "sud_vo_home_kan_talk-01-5",
+        "motionAssetId": "mot_adv_chr_cmn_bye-002_in",
+        "additionMotionAssetId": ""
+      }
+    ]
+  },
+  {
+    "homeTalkId": "home-talk-char-kan-talk-02",
+    "characterId": "char-kan",
+    "placeType": 1,
+    "conditionId": "cd-fan_amount-kan-3500",
+    "firstPriority": 8500,
+    "weight": 1,
+    "callPatternId": "call-pattern-kan-02",
+    "choiceText": "メンバーのみなさんと喧嘩ですか？\nもう少し仲良くした方が…",
+    "managerText": "メンバーのみなさんと喧嘩ですか？\nもう少し仲良くした方が…",
+    "reliability": 5,
+    "characterTalks": [
+      {
+        "text": "なになに、ご立派にアドバイス？\n担当アイドルがkana達に勝ったからって、調子乗らないでくださいます？",
+        "voiceAssetId": "sud_vo_home_kan_talk-02-1",
+        "motionAssetId": "mot_adv_chr_cmn_angry-006_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "大体、できるもんならとっくにしてるし。",
+        "voiceAssetId": "sud_vo_home_kan_talk-02-2",
+        "motionAssetId": "mot_adv_chr_cmn_sad-008_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "仲悪くても、仕事を完璧にこなせるなら問題ないでしょ？",
+        "voiceAssetId": "sud_vo_home_kan_talk-02-3",
+        "motionAssetId": "mot_adv_chr_cmn_talk-016_in",
+        "additionMotionAssetId": "mot_all_chr_cmn_facial-061_in"
+      },
+      {
+        "text": "私達、利害だけは一致してるから、足引っ張り合うようなヘマはしないもん。",
+        "voiceAssetId": "sud_vo_home_kan_talk-02-4",
+        "motionAssetId": "mot_adv_chr_cmn_angry-007_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "余計な心配する暇があったら、\n仕事の一つでも取ってきて下さ～い。",
+        "voiceAssetId": "sud_vo_home_kan_talk-02-5",
+        "motionAssetId": "mot_adv_chr_cmn_talk-013_in",
+        "additionMotionAssetId": "mot_all_chr_cmn_facial-011_in"
+      }
+    ]
+  },
+  {
+    "homeTalkId": "home-talk-char-kan-talk-03",
+    "characterId": "char-kan",
+    "placeType": 1,
+    "conditionId": "cd-fan_amount-kan-7000",
+    "firstPriority": 8000,
+    "weight": 1,
+    "callPatternId": "call-pattern-kan-03",
+    "choiceText": "どういうこと、といいますと…",
+    "managerText": "どういうこと、といいますと…",
+    "reliability": 5,
+    "characterTalks": [
+      {
+        "text": "この前撮影した番組のオンエア！\nkana達の出番少なすぎ！\nふざけてんの！？",
+        "voiceAssetId": "sud_vo_home_kan_talk-03-1",
+        "motionAssetId": "mot_adv_chr_cmn_angry-003_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "あんなに長尺撮ったのに、\n半分も使われてないじゃん！",
+        "voiceAssetId": "sud_vo_home_kan_talk-03-2",
+        "motionAssetId": "mot_adv_chr_cmn_angry-005_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "え、それでもkana達のコーナーが、一番よかった？",
+        "voiceAssetId": "sud_vo_home_kan_talk-03-3",
+        "motionAssetId": "mot_adv_chr_cmn_surp-001_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "そ、そんな当たり前のこと聞いてないでしょ！\nkanaは文句言ってんの！",
+        "voiceAssetId": "sud_vo_home_kan_talk-03-4",
+        "motionAssetId": "mot_adv_chr_cmn_emot-005_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "とにかく、次はもっと大きな枠じゃなきゃ許さないから！",
+        "voiceAssetId": "sud_vo_home_kan_talk-03-5",
+        "motionAssetId": "mot_adv_chr_cmn_angry-004_in",
+        "additionMotionAssetId": ""
+      }
+    ]
+  },
+  {
+    "homeTalkId": "home-talk-char-kan-talk-04",
+    "characterId": "char-kan",
+    "placeType": 1,
+    "conditionId": "cd-fan_amount-kan-11000",
+    "firstPriority": 6000,
+    "weight": 1,
+    "callPatternId": "call-pattern-kan-04",
+    "choiceText": "嫌でしたか？\n今のところ凄く好評ですけど。",
+    "managerText": "嫌でしたか？\n今のところ凄く好評ですけど。",
+    "reliability": 5,
+    "characterTalks": [
+      {
+        "text": "仕事は完璧にこなすもん、好評なのは当たり前。",
+        "voiceAssetId": "sud_vo_home_kan_talk-04-1",
+        "motionAssetId": "mot_adv_chr_cmn_pos-002_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "握手会なんて、嫌に決まってるじゃないですか。ずっと笑顔でいなきゃいけないし、キャラ維持するのも大変なんだから。",
+        "voiceAssetId": "sud_vo_home_kan_talk-04-2",
+        "motionAssetId": "mot_adv_chr_cmn_sad-003_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "ファンとの距離を縮めるため？\nまぁ、確かにプレタポルテにいた時の崇め奉られる感じはなくなったかも。",
+        "voiceAssetId": "sud_vo_home_kan_talk-04-3",
+        "motionAssetId": "mot_adv_chr_cmn_talk-007_in",
+        "additionMotionAssetId": "mot_all_chr_cmn_facial-004_in"
+      },
+      {
+        "text": "でも、握手会やるなら、時間の管理とか、列の整理とかもっと徹底してください。",
+        "voiceAssetId": "sud_vo_home_kan_talk-04-4",
+        "motionAssetId": "mot_adv_chr_cmn_talk-006_in",
+        "additionMotionAssetId": "mot_all_chr_cmn_facial-061_in"
+      },
+      {
+        "text": "あと、こわーいファンがkanaに近寄らないように、ちゃんと見張っててね！",
+        "voiceAssetId": "sud_vo_home_kan_talk-04-5",
+        "motionAssetId": "mot_adv_chr_cmn_glad-005_in",
+        "additionMotionAssetId": ""
+      }
+    ]
+  },
+  {
+    "homeTalkId": "home-talk-char-kan-talk-05",
+    "characterId": "char-kan",
+    "placeType": 1,
+    "conditionId": "cd-fan_amount-kan-15000",
+    "firstPriority": 4000,
+    "weight": 1,
+    "callPatternId": "call-pattern-kan-05",
+    "choiceText": "何かあったんですか？",
+    "managerText": "何かあったんですか？",
+    "reliability": 5,
+    "characterTalks": [
+      {
+        "text": "雑誌撮影の監督に怒られたの！\nkanaのこと、できない子扱いしやがって…",
+        "voiceAssetId": "sud_vo_home_kan_talk-05-1",
+        "motionAssetId": "mot_adv_chr_cmn_sad-004_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "kanaは、今までたっくさん表紙を飾ってきたトップモデルなのに！\nちゃんと目ん玉ついてんの！？",
+        "voiceAssetId": "sud_vo_home_kan_talk-05-2",
+        "motionAssetId": "mot_adv_chr_cmn_angry-008_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "確かに今日は難しい要求が多かったけど…だからって、怒鳴ることないじゃん！　ううっ…",
+        "voiceAssetId": "sud_vo_home_kan_talk-05-3",
+        "motionAssetId": "mot_adv_chr_cmn_deny-002_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "は？　\nこのチョコレート…kanaに？",
+        "voiceAssetId": "sud_vo_home_kan_talk-05-4",
+        "motionAssetId": "mot_adv_chr_cmn_talk-015_in",
+        "additionMotionAssetId": "mot_all_chr_cmn_facial-003_in"
+      },
+      {
+        "text": "なっ、バカにしてんの！？　\nkanaはガキじゃないんですけど！",
+        "voiceAssetId": "sud_vo_home_kan_talk-05-5",
+        "motionAssetId": "mot_adv_chr_cmn_angry-001_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "kanaの機嫌取りたいなら、高級洋菓子店のケーキにして下さい。",
+        "voiceAssetId": "sud_vo_home_kan_talk-05-6",
+        "motionAssetId": "mot_adv_chr_cmn_angry-015_in",
+        "additionMotionAssetId": ""
+      }
+    ]
+  },
+  {
+    "homeTalkId": "home-talk-char-kan-talk-06",
+    "characterId": "char-kan",
+    "placeType": 1,
+    "conditionId": "cd-fan_amount-kan-20000",
+    "firstPriority": 2000,
+    "weight": 1,
+    "callPatternId": "call-pattern-kan-06",
+    "choiceText": "見てましたよ。\n今日は特に輝いていたと思います。",
+    "managerText": "見てましたよ。\n今日は特に輝いていたと思います。",
+    "reliability": 5,
+    "characterTalks": [
+      {
+        "text": "は？",
+        "voiceAssetId": "sud_vo_home_kan_talk-06-1",
+        "motionAssetId": "mot_adv_chr_cmn_surp-001_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "あ、いや、えっと…ゴホン、\nkanaなんだから、そんなの当然じゃん！",
+        "voiceAssetId": "sud_vo_home_kan_talk-06-2",
+        "motionAssetId": "mot_adv_chr_cmn_angry-011_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "つーか、そんなやっすい褒め言葉でkanaが満足すると思ってんの？\n寒すぎて鳥肌立っちゃったんですけど！",
+        "voiceAssetId": "sud_vo_home_kan_talk-06-3",
+        "motionAssetId": "mot_adv_chr_cmn_talk-001_in",
+        "additionMotionAssetId": "mot_all_chr_cmn_facial-051_in"
+      },
+      {
+        "text": "…はぁ！？　別に怒ってないから！",
+        "voiceAssetId": "sud_vo_home_kan_talk-06-4",
+        "motionAssetId": "mot_adv_chr_cmn_angry-019_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "クソ、調子狂う…サイアク。",
+        "voiceAssetId": "sud_vo_home_kan_talk-06-5",
+        "motionAssetId": "mot_adv_chr_cmn_emb-012_in",
+        "additionMotionAssetId": ""
+      }
+    ]
+  },
+  {
+    "homeTalkId": "home-talk-char-kan-talk-07",
+    "characterId": "char-kan",
+    "placeType": 1,
+    "conditionId": "cd-reliability-kan-30",
+    "firstPriority": 9500,
+    "weight": 1,
+    "callPatternId": "call-pattern-kan-07",
+    "choiceText": "幼稚園…そんなに騒がしいですか？",
+    "managerText": "幼稚園…そんなに騒がしいですか？",
+    "reliability": 5,
+    "characterTalks": [
+      {
+        "text": "耳ついてないワケ？\n誕生日とか打ち上げとか、理由つけて騒いで…イラつくんだけど。",
+        "voiceAssetId": "sud_vo_home_kan_talk-07-1",
+        "motionAssetId": "mot_adv_chr_cmn_talk-003_in",
+        "additionMotionAssetId": "mot_all_chr_cmn_facial-011_in"
+      },
+      {
+        "text": "…は？　kana達も一緒に？\n参加するわけないじゃん！",
+        "voiceAssetId": "sud_vo_home_kan_talk-07-2",
+        "motionAssetId": "mot_adv_chr_cmn_talk-020_in",
+        "additionMotionAssetId": "mot_all_chr_cmn_facial-037_in"
+      },
+      {
+        "text": "弱いヤツ程よく群れるって言うし、他人に依存するとか、レベル低い証拠だもん。",
+        "voiceAssetId": "sud_vo_home_kan_talk-07-3",
+        "motionAssetId": "mot_adv_chr_cmn_talk-007_in",
+        "additionMotionAssetId": "mot_all_chr_cmn_facial-032_in"
+      },
+      {
+        "text": "そんなダサい真似、絶対イヤ！",
+        "voiceAssetId": "sud_vo_home_kan_talk-07-4",
+        "motionAssetId": "mot_adv_chr_cmn_angry-002_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "あれ？　大事なアイドルのこと悪く言われてムカついちゃいました？\nきゃはっ、ごめんなさ～い。",
+        "voiceAssetId": "sud_vo_home_kan_talk-07-5",
+        "motionAssetId": "mot_adv_chr_cmn_glad-012_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "げっ、もしかして本気で怒ってる？\n逃げよ～っと。",
+        "voiceAssetId": "sud_vo_home_kan_talk-07-6",
+        "motionAssetId": "mot_adv_chr_cmn_surp-007_in",
+        "additionMotionAssetId": ""
+      }
+    ]
+  },
+  {
+    "homeTalkId": "home-talk-char-kan-talk-08",
+    "characterId": "char-kan",
+    "placeType": 1,
+    "conditionId": "cd-reliability-kan-55",
+    "firstPriority": 9000,
+    "weight": 1,
+    "callPatternId": "call-pattern-kan-08",
+    "choiceText": "確かに、尊敬している子は多いですけど…",
+    "managerText": "確かに、尊敬している子は多いですけど…",
+    "reliability": 5,
+    "characterTalks": [
+      {
+        "text": "ことあるごとに、麻奈、麻奈ってうるさいじゃないですか？",
+        "voiceAssetId": "sud_vo_home_kan_talk-08-1",
+        "motionAssetId": "mot_adv_chr_cmn_ask-004_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "kanaは別にどーでもいいんだけど、mihoが殺人鬼みたいな顔で睨むから怖くってさ～。",
+        "voiceAssetId": "sud_vo_home_kan_talk-08-2",
+        "motionAssetId": "mot_adv_chr_cmn_talk-019_in",
+        "additionMotionAssetId": "mot_all_chr_cmn_facial-011_in"
+      },
+      {
+        "text": "事務所出ていっちゃうときもあるから、ほんっと迷惑。\n",
+        "voiceAssetId": "sud_vo_home_kan_talk-08-3",
+        "motionAssetId": "mot_adv_chr_cmn_angry-004_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "あ、でも、前の相方の話振られたときは嬉しそうにしてたかも。",
+        "voiceAssetId": "sud_vo_home_kan_talk-08-4",
+        "motionAssetId": "mot_adv_chr_cmn_talk-006_in",
+        "additionMotionAssetId": "mot_all_chr_cmn_facial-032_in"
+      },
+      {
+        "text": "クールぶってるけど、分っかりやすいですよね～。\n昔の友達がそんなに大事かっての。",
+        "voiceAssetId": "sud_vo_home_kan_talk-08-5",
+        "motionAssetId": "mot_adv_chr_cmn_pos-002_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "あ、武田さん来ちゃった～。\n怒られる前に、退散、退散。\nばいば～い！",
+        "voiceAssetId": "sud_vo_home_kan_talk-08-6",
+        "motionAssetId": "mot_adv_chr_cmn_rep-005_in",
+        "additionMotionAssetId": ""
+      }
+    ]
+  },
+  {
+    "homeTalkId": "home-talk-char-kan-talk-09",
+    "characterId": "char-kan",
+    "placeType": 1,
+    "conditionId": "cd-reliability-kan-70",
+    "firstPriority": 7000,
+    "weight": 1,
+    "callPatternId": "call-pattern-kan-09",
+    "choiceText": "やめるって、一体何を？",
+    "managerText": "やめるって、一体何を？",
+    "reliability": 5,
+    "characterTalks": [
+      {
+        "text": "何って、お友達演技だよ！",
+        "voiceAssetId": "sud_vo_home_kan_talk-09-1",
+        "motionAssetId": "mot_adv_chr_cmn_angry-024_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "私達とっても仲良しなんです。\nね、franちゃん、mihoちゃーん！",
+        "voiceAssetId": "sud_vo_home_kan_talk-09-2",
+        "motionAssetId": "mot_adv_chr_cmn_glad-001_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "ってやつ。\nあ～もうっ、ほんっと面倒くさい！",
+        "voiceAssetId": "sud_vo_home_kan_talk-09-3",
+        "motionAssetId": "mot_adv_chr_cmn_angry-025_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "franもmihoも大根役者だから、\nkanaが頑張って盛り上げなきゃいけないし。",
+        "voiceAssetId": "sud_vo_home_kan_talk-09-4",
+        "motionAssetId": "mot_adv_chr_cmn_talk-023_in",
+        "additionMotionAssetId": "mot_all_chr_cmn_facial-011_in"
+      },
+      {
+        "text": "イヤな役引き受けてやってんだから、もっと二人ともkanaに感謝してほしいよね！",
+        "voiceAssetId": "sud_vo_home_kan_talk-09-5",
+        "motionAssetId": "mot_adv_chr_cmn_talk-011_in",
+        "additionMotionAssetId": "mot_all_chr_cmn_facial-011_in"
+      }
+    ]
+  },
+  {
+    "homeTalkId": "home-talk-char-kan-talk-10",
+    "characterId": "char-kan",
+    "placeType": 1,
+    "conditionId": "cd-reliability-kan-100",
+    "firstPriority": 5000,
+    "weight": 1,
+    "callPatternId": "call-pattern-kan-10",
+    "choiceText": "暇ではないですが…分かりました。\nSNS用の写真ですか？",
+    "managerText": "暇ではないですが…分かりました。\nSNS用の写真ですか？",
+    "reliability": 5,
+    "characterTalks": [
+      {
+        "text": "うん！\n照明使った方が、綺麗に自撮りできるからね〜。\nじゃ、撮りますよ～。",
+        "voiceAssetId": "sud_vo_home_kan_talk-10-1",
+        "motionAssetId": "mot_adv_chr_cmn_pos-006_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "んー、もっと上の方に当ててほしいかな～…って、上げ過ぎっ！\nそれじゃあkanaが陰になっちゃうじゃん。",
+        "voiceAssetId": "sud_vo_home_kan_talk-10-2",
+        "motionAssetId": "mot_adv_chr_cmn_sad-002_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "あ～もうっ！\nそこまで下げろって言ってない！",
+        "voiceAssetId": "sud_vo_home_kan_talk-10-3",
+        "motionAssetId": "mot_adv_chr_cmn_angry-009_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "はい、そこそこ～。\nパッシャっ！",
+        "voiceAssetId": "sud_vo_home_kan_talk-10-4",
+        "motionAssetId": "mot_adv_chr_cmn_pos-012_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "ん～\n違うポーズの方がよかったかな…？",
+        "voiceAssetId": "sud_vo_home_kan_talk-10-5",
+        "motionAssetId": "mot_adv_chr_cmn_trouble-001_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "もう一回お願いしま～す！",
+        "voiceAssetId": "sud_vo_home_kan_talk-10-6",
+        "motionAssetId": "mot_adv_chr_cmn_bow-004_in",
+        "additionMotionAssetId": ""
+      }
+    ]
+  },
+  {
+    "homeTalkId": "home-talk-char-kan-talk-11",
+    "characterId": "char-kan",
+    "placeType": 1,
+    "conditionId": "cd-reliability-kan-155",
+    "firstPriority": 3000,
+    "weight": 1,
+    "callPatternId": "call-pattern-kan-11",
+    "choiceText": "franさんと喧嘩ですか？",
+    "managerText": "franさんと喧嘩ですか？",
+    "reliability": 5,
+    "characterTalks": [
+      {
+        "text": "喧嘩じゃなくて抗議！\nぜっっったい、山田さんが悪いもん！",
+        "voiceAssetId": "sud_vo_home_kan_talk-11-1",
+        "motionAssetId": "mot_adv_chr_cmn_angry-011_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "アイツ、株、株ってお金のことしか考えられないみたいだったから、親切でスマホを没収してあげたのに…",
+        "voiceAssetId": "sud_vo_home_kan_talk-11-2",
+        "motionAssetId": "mot_adv_chr_cmn_think-004_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "kanaのスマホも奪われたの！\nおかげでSNSの更新できなかったし、ほんとサイアク！",
+        "voiceAssetId": "sud_vo_home_kan_talk-11-3",
+        "motionAssetId": "mot_adv_chr_cmn_angry-010_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "どっちもどっちって、\nあんたまでmihoみたいなこと\n言わないでよ！",
+        "voiceAssetId": "sud_vo_home_kan_talk-11-4",
+        "motionAssetId": "mot_adv_chr_cmn_emb-011_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "あーあ、マネージャーはkanaの味方してくれると思ったのに。",
+        "voiceAssetId": "sud_vo_home_kan_talk-11-5",
+        "motionAssetId": "mot_adv_chr_cmn_sad-005_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "気分悪い。\n責任取って、甘いもの買ってきてください。",
+        "voiceAssetId": "sud_vo_home_kan_talk-11-6",
+        "motionAssetId": "mot_adv_chr_cmn_angry-015_in",
+        "additionMotionAssetId": ""
+      }
+    ]
+  },
+  {
+    "homeTalkId": "home-talk-char-kan-talk-12",
+    "characterId": "char-kan",
+    "placeType": 1,
+    "conditionId": "cd-reliability-kan-210",
+    "firstPriority": 1000,
+    "weight": 1,
+    "callPatternId": "call-pattern-kan-12",
+    "choiceText": "えっ、突然どうしたんですか？",
+    "managerText": "えっ、突然どうしたんですか？",
+    "reliability": 5,
+    "characterTalks": [
+      {
+        "text": "仕事終わりに友達と行く予定だったんですけど、ドタキャンされちゃって～。",
+        "voiceAssetId": "sud_vo_home_kan_talk-12-1",
+        "motionAssetId": "mot_adv_chr_cmn_talk-007_in",
+        "additionMotionAssetId": "mot_all_chr_cmn_facial-034_in"
+      },
+      {
+        "text": "人気のお店だから、キャンセルするのもったいないし、{user}でもいいかなーって。",
+        "voiceAssetId": "sud_vo_home_kan_talk-12-2",
+        "motionAssetId": "mot_adv_chr_cmn_pos-008_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "それに、ここにはkanaが{user}と仲良くしてたら、イラっとする子がた～くさんいるみたいだし？きゃはっ！",
+        "voiceAssetId": "sud_vo_home_kan_talk-12-3",
+        "motionAssetId": "mot_adv_chr_cmn_glad-003_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "ってことで、出発前にとりあえず一枚いいですか？　SNS用に。",
+        "voiceAssetId": "sud_vo_home_kan_talk-12-4",
+        "motionAssetId": "mot_adv_chr_cmn_wink-001_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "はい、寄って寄って～！",
+        "voiceAssetId": "sud_vo_home_kan_talk-12-5",
+        "motionAssetId": "mot_adv_chr_cmn_emot-004_in",
+        "additionMotionAssetId": ""
+      }
+    ]
+  },
+  {
     "homeTalkId": "home-talk-char-kkr-talk-01",
     "characterId": "char-kkr",
     "placeType": 1,
@@ -5759,6 +6461,576 @@
         "text": "…びっくりしましたかぁ？\nまぁ、この話はまた今度\nゆっくりしましょ〜！",
         "voiceAssetId": "sud_vo_home_kkr_talk-12-6",
         "motionAssetId": "mot_adv_chr_cmn_pos-008_in",
+        "additionMotionAssetId": ""
+      }
+    ]
+  },
+  {
+    "homeTalkId": "home-talk-char-kor-talk-01",
+    "characterId": "char-kor",
+    "placeType": 1,
+    "conditionId": "cd-fan_amount-kor-800",
+    "firstPriority": 10000,
+    "weight": 1,
+    "callPatternId": "call-pattern-kor-01",
+    "choiceText": "ファンのみなさんへの挨拶ですか？\nなんというか、別人ですね。",
+    "managerText": "ファンのみなさんへの挨拶ですか？\nなんというか、別人ですね。",
+    "reliability": 5,
+    "characterTalks": [
+      {
+        "text": "どういう意味ですか？\nこれがアイドルfranの姿ですよ。\n",
+        "voiceAssetId": "sud_vo_home_kor_talk-01-1",
+        "motionAssetId": "mot_adv_chr_cmn_talk-016_in",
+        "additionMotionAssetId": "mot_all_chr_cmn_facial-048_in"
+      },
+      {
+        "text": "まぁ、仰りたいことは分かります。自分でも、アイドルfranを作り上げている自覚あるので。",
+        "voiceAssetId": "sud_vo_home_kor_talk-01-2",
+        "motionAssetId": "mot_adv_chr_cmn_talk-004_in",
+        "additionMotionAssetId": "mot_all_chr_cmn_facial-005_in"
+      },
+      {
+        "text": "でも、それって別に悪いことじゃないですよね？　プロのアイドルとして、お客さんやファンに対して真摯に向き合ってる結果です。",
+        "voiceAssetId": "sud_vo_home_kor_talk-01-3",
+        "motionAssetId": "mot_adv_chr_cmn_ask-010_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "素のまま出ろって言うならそれでも構いませんよ。ただ、ⅢXの人気は地に落ちるでしょうけど。",
+        "voiceAssetId": "sud_vo_home_kor_talk-01-4",
+        "motionAssetId": "mot_adv_chr_cmn_talk-001_in",
+        "additionMotionAssetId": "mot_all_chr_cmn_facial-053_in"
+      },
+      {
+        "text": "冗談ですよ。私は変わらずこのスタイルでやるつもりです。素でやってほしいならすぐにでも変えられるのでいつでも言って下さい。",
+        "voiceAssetId": "sud_vo_home_kor_talk-01-5",
+        "motionAssetId": "mot_adv_chr_cmn_pos-010_in",
+        "additionMotionAssetId": ""
+      }
+    ]
+  },
+  {
+    "homeTalkId": "home-talk-char-kor-talk-02",
+    "characterId": "char-kor",
+    "placeType": 1,
+    "conditionId": "cd-fan_amount-kor-3500",
+    "firstPriority": 8500,
+    "weight": 1,
+    "callPatternId": "call-pattern-kor-02",
+    "choiceText": "いや、ライブ前だったらこれぐらいは練習しないと難しいかと…",
+    "managerText": "いや、ライブ前だったらこれぐらいは練習しないと難しいかと…",
+    "reliability": 5,
+    "characterTalks": [
+      {
+        "text": "はぁ…。何度か言っていますが、私達は集まって仲良くやれるわけじゃないんです。",
+        "voiceAssetId": "sud_vo_home_kor_talk-02-1",
+        "motionAssetId": "mot_adv_chr_cmn_sad-008_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "むしろ集まりすぎるほうがパフォーマンスが悪くなる可能性すらあります。",
+        "voiceAssetId": "sud_vo_home_kor_talk-02-2",
+        "motionAssetId": "mot_adv_chr_cmn_talk-008_in",
+        "additionMotionAssetId": "mot_all_chr_cmn_facial-026_in"
+      },
+      {
+        "text": "あと、そもそもの話になりますが…",
+        "voiceAssetId": "sud_vo_home_kor_talk-02-3",
+        "motionAssetId": "mot_adv_chr_cmn_talk-021_in",
+        "additionMotionAssetId": "mot_all_chr_cmn_facial-052_in"
+      },
+      {
+        "text": "ご存知ないです？\n私、天才なんですよ。そんなに\nレッスンしないでも出来るんです。\n本当に。",
+        "voiceAssetId": "sud_vo_home_kor_talk-02-4",
+        "motionAssetId": "mot_adv_chr_cmn_pos-011_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "なので予定を組んでいただいたことは感謝しますが、余計なお世話なので、減らしていただければと。\nすみません。",
+        "voiceAssetId": "sud_vo_home_kor_talk-02-5",
+        "motionAssetId": "mot_adv_chr_cmn_pos-022_in",
+        "additionMotionAssetId": ""
+      }
+    ]
+  },
+  {
+    "homeTalkId": "home-talk-char-kor-talk-03",
+    "characterId": "char-kor",
+    "placeType": 1,
+    "conditionId": "cd-fan_amount-kor-7000",
+    "firstPriority": 8000,
+    "weight": 1,
+    "callPatternId": "call-pattern-kor-03",
+    "choiceText": "ま、待って下さい。\n俺も同行します。",
+    "managerText": "ま、待って下さい。\n俺も同行します。",
+    "reliability": 5,
+    "characterTalks": [
+      {
+        "text": "え？　また来るんですか？\n撮影と取材だけじゃないですか。",
+        "voiceAssetId": "sud_vo_home_kor_talk-03-1",
+        "motionAssetId": "mot_adv_chr_cmn_surp-007_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "そんなに同行するのっておかしくないです？　姫野さんが仕事現場に最初から最後までいたことなんて、片手で数えるぐらいですよ。",
+        "voiceAssetId": "sud_vo_home_kor_talk-03-2",
+        "motionAssetId": "mot_adv_chr_cmn_talk-005_in",
+        "additionMotionAssetId": "mot_all_chr_cmn_facial-061_in"
+      },
+      {
+        "text": "{user}さんは逆に多すぎるぐらいです。そこまで心配される筋合い、ないですから。",
+        "voiceAssetId": "sud_vo_home_kor_talk-03-3",
+        "motionAssetId": "mot_adv_chr_cmn_pos-011_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "別に来るのは勝手なので止めはしませんが、月ストやらサニピに時間を使ったほうがあなたのためにもなると思いますよ。",
+        "voiceAssetId": "sud_vo_home_kor_talk-03-4",
+        "motionAssetId": "mot_adv_chr_cmn_talk-001_in",
+        "additionMotionAssetId": "mot_all_chr_cmn_facial-053_in"
+      },
+      {
+        "text": "ちゃんと言いましたからね。\nわざと残業して給料泥棒するのはなしですよ。",
+        "voiceAssetId": "sud_vo_home_kor_talk-03-5",
+        "motionAssetId": "mot_adv_chr_cmn_angry-023_in",
+        "additionMotionAssetId": ""
+      }
+    ]
+  },
+  {
+    "homeTalkId": "home-talk-char-kor-talk-04",
+    "characterId": "char-kor",
+    "placeType": 1,
+    "conditionId": "cd-fan_amount-kor-11000",
+    "firstPriority": 6000,
+    "weight": 1,
+    "callPatternId": "call-pattern-kor-04",
+    "choiceText": "はい、分かっていますよ。\n遅れないよう気をつけて下さい。",
+    "managerText": "はい、分かっていますよ。\n遅れないよう気をつけて下さい。",
+    "reliability": 5,
+    "characterTalks": [
+      {
+        "text": "自分で言うのもおかしいですが、\nこのやり方、面倒じゃないです？\n普通だったらもう少し咎めると思いますけど。",
+        "voiceAssetId": "sud_vo_home_kor_talk-04-1",
+        "motionAssetId": "mot_adv_chr_cmn_think-004_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "私から連絡しろと強く言うのなら\nそれも考えないこともないですよ。",
+        "voiceAssetId": "sud_vo_home_kor_talk-04-2",
+        "motionAssetId": "mot_adv_chr_cmn_talk-022_in",
+        "additionMotionAssetId": "mot_all_chr_cmn_facial-011_in"
+      },
+      {
+        "text": "断れるのなら絶対断りますけど。",
+        "voiceAssetId": "sud_vo_home_kor_talk-04-3",
+        "motionAssetId": "mot_adv_chr_cmn_angry-006_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "文句も言わずに従ってくれているのはちょっとお人好しがすぎるんじゃないですか…？",
+        "voiceAssetId": "sud_vo_home_kor_talk-04-4",
+        "motionAssetId": "mot_adv_chr_cmn_ask-011_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "お前が言うなって感じですよね。",
+        "voiceAssetId": "sud_vo_home_kor_talk-04-5",
+        "motionAssetId": "mot_adv_chr_cmn_talk-010_in",
+        "additionMotionAssetId": "mot_all_chr_cmn_facial-034_in"
+      },
+      {
+        "text": "まぁ、やり方に不満があれば言って下さい。従うとは限りませんが。",
+        "voiceAssetId": "sud_vo_home_kor_talk-04-6",
+        "motionAssetId": "mot_adv_chr_cmn_talk-012_in",
+        "additionMotionAssetId": "mot_all_chr_cmn_facial-032_in"
+      }
+    ]
+  },
+  {
+    "homeTalkId": "home-talk-char-kor-talk-05",
+    "characterId": "char-kor",
+    "placeType": 1,
+    "conditionId": "cd-fan_amount-kor-15000",
+    "firstPriority": 4000,
+    "weight": 1,
+    "callPatternId": "call-pattern-kor-05",
+    "choiceText": "もちろんです。でも、相手のことを知りたいなんてめずらしいですね。",
+    "managerText": "もちろんです。でも、相手のことを知りたいなんてめずらしいですね。",
+    "reliability": 5,
+    "characterTalks": [
+      {
+        "text": "私だって負けたくありません。\n勝つために必要なことはします。\nそれだけです。",
+        "voiceAssetId": "sud_vo_home_kor_talk-05-1",
+        "motionAssetId": "mot_adv_chr_cmn_talk-017_in",
+        "additionMotionAssetId": "mot_all_chr_cmn_facial-061_in"
+      },
+      {
+        "text": "研究しなくても勝てるような相手の情報を調べるのは時間と労力の無駄でしかないですが、手強そうな場合は必要な労力です。",
+        "voiceAssetId": "sud_vo_home_kor_talk-05-2",
+        "motionAssetId": "mot_adv_chr_cmn_pos-011_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "でも、正直そこまで時間掛ける必要もないんですけどね。どうせmihoがゴリゴリに研究してるだろうし。",
+        "voiceAssetId": "sud_vo_home_kor_talk-05-3",
+        "motionAssetId": "mot_adv_chr_cmn_talk-006_in",
+        "additionMotionAssetId": "mot_all_chr_cmn_facial-037_in"
+      },
+      {
+        "text": "だから私は最低限必要な情報を頭に入れておくだけです。さすがにmihoの言ってることすら分からなくなるので。",
+        "voiceAssetId": "sud_vo_home_kor_talk-05-4",
+        "motionAssetId": "mot_adv_chr_cmn_deny-004_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "あ、kanaはどうだか知らないですよ。私に聞かないで下さいね。",
+        "voiceAssetId": "sud_vo_home_kor_talk-05-5",
+        "motionAssetId": "mot_adv_chr_cmn_talk-013_in",
+        "additionMotionAssetId": "mot_all_chr_cmn_facial-060_in"
+      }
+    ]
+  },
+  {
+    "homeTalkId": "home-talk-char-kor-talk-06",
+    "characterId": "char-kor",
+    "placeType": 1,
+    "conditionId": "cd-fan_amount-kor-20000",
+    "firstPriority": 2000,
+    "weight": 1,
+    "callPatternId": "call-pattern-kor-06",
+    "choiceText": "あるにはあるんですが、正直\nfranさんに合いそうなものでは…",
+    "managerText": "あるにはあるんですが、正直\nfranさんに合いそうなものでは…",
+    "reliability": 5,
+    "characterTalks": [
+      {
+        "text": "そういうことですか。\nなんとなく理解しました。",
+        "voiceAssetId": "sud_vo_home_kor_talk-06-1",
+        "motionAssetId": "mot_adv_chr_cmn_talk-021_in",
+        "additionMotionAssetId": "mot_all_chr_cmn_facial-060_in"
+      },
+      {
+        "text": "あまり知られていないような、無名のショーの依頼などが来ているということですよね？",
+        "voiceAssetId": "sud_vo_home_kor_talk-06-2",
+        "motionAssetId": "mot_adv_chr_cmn_ask-004_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "それだと私が怒るのではないかと\n思い、言い出せずにいた…と。",
+        "voiceAssetId": "sud_vo_home_kor_talk-06-3",
+        "motionAssetId": "mot_adv_chr_cmn_talk-008_in",
+        "additionMotionAssetId": "mot_all_chr_cmn_facial-052_in"
+      },
+      {
+        "text": "あまり私をなめないで下さい。\nショーの仕事に大きさは関係ありません。モデルの仕事ならやらせて下さい。",
+        "voiceAssetId": "sud_vo_home_kor_talk-06-4",
+        "motionAssetId": "mot_adv_chr_cmn_angry-008_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "誤解されているようですが、私はむしろアイドルの仕事よりもモデルとしての仕事の方が得意だと思っていますし、歴も長いんですよ？",
+        "voiceAssetId": "sud_vo_home_kor_talk-06-5",
+        "motionAssetId": "mot_adv_chr_cmn_talk-022_in",
+        "additionMotionAssetId": "mot_all_chr_cmn_facial-061_in"
+      },
+      {
+        "text": "なので、ファッション関係の仕事がきたら、すぐに報告して下さい。お願いしますね。",
+        "voiceAssetId": "sud_vo_home_kor_talk-06-6",
+        "motionAssetId": "mot_adv_chr_cmn_talk-011_in",
+        "additionMotionAssetId": "mot_all_chr_cmn_facial-011_in"
+      }
+    ]
+  },
+  {
+    "homeTalkId": "home-talk-char-kor-talk-07",
+    "characterId": "char-kor",
+    "placeType": 1,
+    "conditionId": "cd-reliability-kor-30",
+    "firstPriority": 9500,
+    "weight": 1,
+    "callPatternId": "call-pattern-kor-07",
+    "choiceText": "いえ…三枝さんと、三枝さんが仲の良いデザイナーさんでほとんど…",
+    "managerText": "いえ…三枝さんと、三枝さんが仲の良いデザイナーさんでほとんど…",
+    "reliability": 5,
+    "characterTalks": [
+      {
+        "text": "やっぱりそうなんですね。\nよかったです、安心しました。",
+        "voiceAssetId": "sud_vo_home_kor_talk-07-1",
+        "motionAssetId": "mot_adv_chr_cmn_pos-008_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "悪く言うつもりじゃないんです。\nもしあなただとしたら、どうして普段もっと服に気を使えないのか不思議だったから…",
+        "voiceAssetId": "sud_vo_home_kor_talk-07-2",
+        "motionAssetId": "mot_adv_chr_cmn_talk-012_in",
+        "additionMotionAssetId": "mot_all_chr_cmn_facial-037_in"
+      },
+      {
+        "text": "三枝さんと聞いて納得です。\nありがとうございます。",
+        "voiceAssetId": "sud_vo_home_kor_talk-07-3",
+        "motionAssetId": "mot_adv_chr_cmn_pos-010_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "プレタポルテのオフィスは、正直\n私の好みじゃなかったので、その点は星見プロの方がいいですね。",
+        "voiceAssetId": "sud_vo_home_kor_talk-07-4",
+        "motionAssetId": "mot_adv_chr_cmn_pos-002_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "まぁ星見プロのがいいと言えるのは\n今のところオフィスぐらいですが。",
+        "voiceAssetId": "sud_vo_home_kor_talk-07-5",
+        "motionAssetId": "mot_adv_chr_cmn_pos-023_in",
+        "additionMotionAssetId": ""
+      }
+    ]
+  },
+  {
+    "homeTalkId": "home-talk-char-kor-talk-08",
+    "characterId": "char-kor",
+    "placeType": 1,
+    "conditionId": "cd-reliability-kor-55",
+    "firstPriority": 9000,
+    "weight": 1,
+    "callPatternId": "call-pattern-kor-08",
+    "choiceText": "まぁまぁ落ち着いて…\nまずは話を聞かせて下さい。",
+    "managerText": "まぁまぁ落ち着いて…\nまずは話を聞かせて下さい。",
+    "reliability": 5,
+    "characterTalks": [
+      {
+        "text": "落ち着いてられません。\n聞こえてなかったんですか？",
+        "voiceAssetId": "sud_vo_home_kor_talk-08-1",
+        "motionAssetId": "mot_adv_chr_cmn_angry-004_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "さっきそこで株をやってたんです。\nそしたら後ろからぶつぶつ声が\n聞こえてきて。",
+        "voiceAssetId": "sud_vo_home_kor_talk-08-2",
+        "motionAssetId": "mot_adv_chr_cmn_talk-016_in",
+        "additionMotionAssetId": "mot_all_chr_cmn_facial-060_in"
+      },
+      {
+        "text": "そしたらkana、スマホで配信し始めたんですよ。わざわざ。私のすぐ後ろで。",
+        "voiceAssetId": "sud_vo_home_kor_talk-08-3",
+        "motionAssetId": "mot_adv_chr_cmn_angry-003_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "大事な取引の途中だったのに、配信なんて始めたものだから集中できないじゃないですか。",
+        "voiceAssetId": "sud_vo_home_kor_talk-08-4",
+        "motionAssetId": "mot_adv_chr_cmn_talk-011_in",
+        "additionMotionAssetId": "mot_all_chr_cmn_facial-011_in"
+      },
+      {
+        "text": "しかも私が映り込んでるのを配信で言うから、私も参加せざるを得なくなって。",
+        "voiceAssetId": "sud_vo_home_kor_talk-08-5",
+        "motionAssetId": "mot_adv_chr_cmn_sad-005_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "散々な目に遭いました。\nあれ、絶対わざとですよ。\nきつく言っておいて下さい！",
+        "voiceAssetId": "sud_vo_home_kor_talk-08-6",
+        "motionAssetId": "mot_adv_chr_cmn_angry-006_in",
+        "additionMotionAssetId": ""
+      }
+    ]
+  },
+  {
+    "homeTalkId": "home-talk-char-kor-talk-09",
+    "characterId": "char-kor",
+    "placeType": 1,
+    "conditionId": "cd-reliability-kor-70",
+    "firstPriority": 7000,
+    "weight": 1,
+    "callPatternId": "call-pattern-kor-09",
+    "choiceText": "ご心配お掛けして申し訳ないです。\n満足してますから。大丈夫です。",
+    "managerText": "ご心配お掛けして申し訳ないです。\n満足してますから。大丈夫です。",
+    "reliability": 5,
+    "characterTalks": [
+      {
+        "text": "心配なんかしてないですよ。\n何勘違いしてるんです？\n会社として真っ当に経営できているのかを気にしているんです。",
+        "voiceAssetId": "sud_vo_home_kor_talk-09-1",
+        "motionAssetId": "mot_adv_chr_cmn_talk-001_in",
+        "additionMotionAssetId": "mot_all_chr_cmn_facial-026_in"
+      },
+      {
+        "text": "今どきそんな体育会系な会社は\n流行らないですよ？　だから社員も増えないんじゃないですか？",
+        "voiceAssetId": "sud_vo_home_kor_talk-09-2",
+        "motionAssetId": "mot_adv_chr_cmn_ask-010_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "あ、厳しいこと言ってすみません…　悪気はないんです。{user}さんが満足しているならそれで構いません。",
+        "voiceAssetId": "sud_vo_home_kor_talk-09-3",
+        "motionAssetId": "mot_adv_chr_cmn_talk-015_in",
+        "additionMotionAssetId": "mot_all_chr_cmn_facial-003_in"
+      },
+      {
+        "text": "それでも、もう少し余裕を持って\n働いてほしいというか。",
+        "voiceAssetId": "sud_vo_home_kor_talk-09-4",
+        "motionAssetId": "mot_adv_chr_cmn_think-001_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "まぁ、そんな正論や綺麗事だけじゃ\nうまくいかないのが社会ですよね。\nそれぐらいは分かります。",
+        "voiceAssetId": "sud_vo_home_kor_talk-09-5",
+        "motionAssetId": "mot_adv_chr_cmn_talk-009_in",
+        "additionMotionAssetId": "mot_all_chr_cmn_facial-032_in"
+      },
+      {
+        "text": "とにかく、体調崩されたらたまらないので、休みはきちんととって下さいね。",
+        "voiceAssetId": "sud_vo_home_kor_talk-09-6",
+        "motionAssetId": "mot_adv_chr_cmn_talk-003_in",
+        "additionMotionAssetId": "mot_all_chr_cmn_facial-005_in"
+      }
+    ]
+  },
+  {
+    "homeTalkId": "home-talk-char-kor-talk-10",
+    "characterId": "char-kor",
+    "placeType": 1,
+    "conditionId": "cd-reliability-kor-100",
+    "firstPriority": 5000,
+    "weight": 1,
+    "callPatternId": "call-pattern-kor-10",
+    "choiceText": "急にどうしたんですか？\n何かあったんでしょうか？",
+    "managerText": "急にどうしたんですか？\n何かあったんでしょうか？",
+    "reliability": 5,
+    "characterTalks": [
+      {
+        "text": "な、何もないですよ！\n早く答えていただけますか？",
+        "voiceAssetId": "sud_vo_home_kor_talk-10-1",
+        "motionAssetId": "mot_adv_chr_cmn_emb-003_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "…一応、どうして聞いたのか言っておきますけど、番組アンケートにあったからですよ。",
+        "voiceAssetId": "sud_vo_home_kor_talk-10-2",
+        "motionAssetId": "mot_adv_chr_cmn_emb-012_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "正直、私は弱みなんてないと思っています。でもこういうのって「ない」って書かないほうがいいんですよね？",
+        "voiceAssetId": "sud_vo_home_kor_talk-10-3",
+        "motionAssetId": "mot_adv_chr_cmn_talk-022_in",
+        "additionMotionAssetId": "mot_all_chr_cmn_facial-001_in"
+      },
+      {
+        "text": "だから聞いたんです。\n特別な理由はありません。",
+        "voiceAssetId": "sud_vo_home_kor_talk-10-4",
+        "motionAssetId": "mot_adv_chr_cmn_talk-007_in",
+        "additionMotionAssetId": "mot_all_chr_cmn_facial-032_in"
+      },
+      {
+        "text": "いつまで考えてるんですか。\nすぐ出てこないってことはやっぱり、私に弱みがないってことですよね。",
+        "voiceAssetId": "sud_vo_home_kor_talk-10-5",
+        "motionAssetId": "mot_adv_chr_cmn_angry-001_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "はぁ…まだ時間はあるので、\n思いついたら教えて下さい。\nよろしくお願いしますね。",
+        "voiceAssetId": "sud_vo_home_kor_talk-10-6",
+        "motionAssetId": "mot_adv_chr_cmn_sad-001_in",
+        "additionMotionAssetId": ""
+      }
+    ]
+  },
+  {
+    "homeTalkId": "home-talk-char-kor-talk-11",
+    "characterId": "char-kor",
+    "placeType": 1,
+    "conditionId": "cd-reliability-kor-155",
+    "firstPriority": 3000,
+    "weight": 1,
+    "callPatternId": "call-pattern-kor-11",
+    "choiceText": "え？　俺が？　別に構わないですが\n俺が行っても何も出来ない気が…",
+    "managerText": "え？　俺が？　別に構わないですが\n俺が行っても何も出来ない気が…",
+    "reliability": 5,
+    "characterTalks": [
+      {
+        "text": "大丈夫です。そこまで求めていませんから。私を紹介さえしてくだされば問題ありません。",
+        "voiceAssetId": "sud_vo_home_kor_talk-11-1",
+        "motionAssetId": "mot_adv_chr_cmn_pos-010_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "り、理由？\n…パーティーが嫌いだからですよ！\n問題ありますか！",
+        "voiceAssetId": "sud_vo_home_kor_talk-11-2",
+        "motionAssetId": "mot_adv_chr_cmn_angry-012_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "その見た目で？　みたいな顔しないで下さい。一見コミュ力ありそうな見た目かもしれませんが人見知りなんですよ、私！",
+        "voiceAssetId": "sud_vo_home_kor_talk-11-3",
+        "motionAssetId": "mot_adv_chr_cmn_talk-011_in",
+        "additionMotionAssetId": "mot_all_chr_cmn_facial-054_in"
+      },
+      {
+        "text": "今まで頑張ってパーティーに参加とかしてましたけど、本当に辛かったんです。",
+        "voiceAssetId": "sud_vo_home_kor_talk-11-4",
+        "motionAssetId": "mot_adv_chr_cmn_sad-004_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "でも姫野さんが一緒に行ってくれるわけもないじゃないですか。かといって友人を連れて行くのもおかしいですし。",
+        "voiceAssetId": "sud_vo_home_kor_talk-11-5",
+        "motionAssetId": "mot_adv_chr_cmn_talk-012_in",
+        "additionMotionAssetId": "mot_all_chr_cmn_facial-003_in"
+      },
+      {
+        "text": "星見プロならマネージャーさんがいるじゃないですか。だからお願いしたんです。スケジュール、空けておいて下さいね！",
+        "voiceAssetId": "sud_vo_home_kor_talk-11-6",
+        "motionAssetId": "mot_adv_chr_cmn_angry-015_in",
+        "additionMotionAssetId": ""
+      }
+    ]
+  },
+  {
+    "homeTalkId": "home-talk-char-kor-talk-12",
+    "characterId": "char-kor",
+    "placeType": 1,
+    "conditionId": "cd-reliability-kor-210",
+    "firstPriority": 1000,
+    "weight": 1,
+    "callPatternId": "call-pattern-kor-12",
+    "choiceText": "飲みますよ！　時々ですが。\n誘われたら行くことが多いです。",
+    "managerText": "飲みますよ！　時々ですが。\n誘われたら行くことが多いです。",
+    "reliability": 5,
+    "characterTalks": [
+      {
+        "text": "なるほど、そうなんですねー。\n私も似たような感じです。\n誘われたら行くぐらいですね。",
+        "voiceAssetId": "sud_vo_home_kor_talk-12-1",
+        "motionAssetId": "mot_adv_chr_cmn_pos-005_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "でも一人では行きたくない、みたいなときとかあるじゃないですか。",
+        "voiceAssetId": "sud_vo_home_kor_talk-12-2",
+        "motionAssetId": "mot_adv_chr_cmn_ask-006_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "で、そういう時に限って友達とか\n捕まらないですよね。分かります？",
+        "voiceAssetId": "sud_vo_home_kor_talk-12-3",
+        "motionAssetId": "mot_adv_chr_cmn_talk-019_in",
+        "additionMotionAssetId": "mot_all_chr_cmn_facial-034_in"
+      },
+      {
+        "text": "ですよね。分かりますよね。",
+        "voiceAssetId": "sud_vo_home_kor_talk-12-4",
+        "motionAssetId": "mot_adv_chr_cmn_talk-024_in",
+        "additionMotionAssetId": "mot_all_chr_cmn_facial-002_in"
+      },
+      {
+        "text": "…分かりませんか？",
+        "voiceAssetId": "sud_vo_home_kor_talk-12-5",
+        "motionAssetId": "mot_adv_chr_cmn_ask-009_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "あーもう、全然分かってないです！\n今ちょっとお酒飲みたい気分だって話です！",
+        "voiceAssetId": "sud_vo_home_kor_talk-12-6",
+        "motionAssetId": "mot_adv_chr_cmn_angry-016_in",
         "additionMotionAssetId": ""
       }
     ]
@@ -6887,6 +8159,552 @@
         "text": "これからも、どんどん楽しい事\nしていきたいと思ってる！\nだからよろしくね、\n{user}さんっ！",
         "voiceAssetId": "sud_vo_home_mei_talk-12-6",
         "motionAssetId": "mot_adv_chr_cmn_pos-007_in",
+        "additionMotionAssetId": ""
+      }
+    ]
+  },
+  {
+    "homeTalkId": "home-talk-char-mhk-talk-01",
+    "characterId": "char-mhk",
+    "placeType": 1,
+    "conditionId": "cd-fan_amount-mhk-800",
+    "firstPriority": 10000,
+    "weight": 1,
+    "callPatternId": "call-pattern-mhk-01",
+    "choiceText": "mihoさん、MCの練習ですか？\n俺も期待していますよ。",
+    "managerText": "mihoさん、MCの練習ですか？\n俺も期待していますよ。",
+    "reliability": 5,
+    "characterTalks": [
+      {
+        "text": "あら、{user}さん。MCの練習というか…まぁ練習には違いないですね。",
+        "voiceAssetId": "sud_vo_home_mhk_talk-01-1",
+        "motionAssetId": "mot_adv_chr_cmn_talk-015_in",
+        "additionMotionAssetId": "mot_all_chr_cmn_facial-032_in"
+      },
+      {
+        "text": "正直、以前からのファンも\nまだ戸惑いはあるでしょうし…\n何を話そうかなって。",
+        "voiceAssetId": "sud_vo_home_mhk_talk-01-2",
+        "motionAssetId": "mot_adv_chr_cmn_think-004_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "というか…\nここでやるなって感じですよね？",
+        "voiceAssetId": "sud_vo_home_mhk_talk-01-3",
+        "motionAssetId": "mot_adv_chr_cmn_ask-011_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "まだ星見プロのみなさんとの雪解け\nには時間がかかりそうですし。",
+        "voiceAssetId": "sud_vo_home_mhk_talk-01-4",
+        "motionAssetId": "mot_adv_chr_cmn_talk-004_in",
+        "additionMotionAssetId": "mot_all_chr_cmn_facial-059_in"
+      },
+      {
+        "text": "私、スタジオに行きますね。\nそれでは。",
+        "voiceAssetId": "sud_vo_home_mhk_talk-01-5",
+        "motionAssetId": "mot_adv_chr_cmn_pos-011_in",
+        "additionMotionAssetId": ""
+      }
+    ]
+  },
+  {
+    "homeTalkId": "home-talk-char-mhk-talk-02",
+    "characterId": "char-mhk",
+    "placeType": 1,
+    "conditionId": "cd-fan_amount-mhk-3500",
+    "firstPriority": 8500,
+    "weight": 1,
+    "callPatternId": "call-pattern-mhk-02",
+    "choiceText": "まぁ、まだ少し時間がかかるかもしれませんね。俺も頑張りますよ。",
+    "managerText": "まぁ、まだ少し時間がかかるかもしれませんね。俺も頑張りますよ。",
+    "reliability": 5,
+    "characterTalks": [
+      {
+        "text": "ありがとうございます。\nでも、改めて芸能界の厳しさを知りました。",
+        "voiceAssetId": "sud_vo_home_mhk_talk-02-1",
+        "motionAssetId": "mot_adv_chr_cmn_sad-001_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "姫野さんが起こした事件とはいえ、\n商品価値の下がったアイドルには、話すチャンスすら与えない…",
+        "voiceAssetId": "sud_vo_home_mhk_talk-02-2",
+        "motionAssetId": "mot_adv_chr_cmn_think-010_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "ただ、今のスリクスはこういった\n境遇だからこそ力が湧くんです。",
+        "voiceAssetId": "sud_vo_home_mhk_talk-02-3",
+        "motionAssetId": "mot_adv_chr_cmn_talk-023_in",
+        "additionMotionAssetId": "mot_all_chr_cmn_facial-032_in"
+      },
+      {
+        "text": "私達がBIG4に返り咲いた時、\n調子のいい企業さんが掌返しして\nきたら、跪かせてみせますね。",
+        "voiceAssetId": "sud_vo_home_mhk_talk-02-4",
+        "motionAssetId": "mot_adv_chr_cmn_pos-023_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "ふふっ楽しみになってきました。\nそれじゃお仕事行ってきます。",
+        "voiceAssetId": "sud_vo_home_mhk_talk-02-5",
+        "motionAssetId": "mot_adv_chr_cmn_pos-010_in",
+        "additionMotionAssetId": ""
+      }
+    ]
+  },
+  {
+    "homeTalkId": "home-talk-char-mhk-talk-03",
+    "characterId": "char-mhk",
+    "placeType": 1,
+    "conditionId": "cd-fan_amount-mhk-7000",
+    "firstPriority": 8000,
+    "weight": 1,
+    "callPatternId": "call-pattern-mhk-03",
+    "choiceText": "えーっと大体俺か橋本さんだけど、\n何かまずかったかな…",
+    "managerText": "えーっと大体俺か橋本さんだけど、\n何かまずかったかな…",
+    "reliability": 5,
+    "characterTalks": [
+      {
+        "text": "開場後なのに雑談したり\n軽食を取ったりしているのを\n見かけたんです。",
+        "voiceAssetId": "sud_vo_home_mhk_talk-03-1",
+        "motionAssetId": "mot_adv_chr_cmn_talk-006_in",
+        "additionMotionAssetId": "mot_all_chr_cmn_facial-061_in"
+      },
+      {
+        "text": "見かけたのが私だったから\n良かったものの…",
+        "voiceAssetId": "sud_vo_home_mhk_talk-03-2",
+        "motionAssetId": "mot_adv_chr_cmn_talk-003_in",
+        "additionMotionAssetId": "mot_all_chr_cmn_facial-052_in"
+      },
+      {
+        "text": "kanaやfranだったら、\n鬼の首を取ったように\n責め立てられていましたよ？\n自分達のことは棚にあげて…",
+        "voiceAssetId": "sud_vo_home_mhk_talk-03-3",
+        "motionAssetId": "mot_adv_chr_cmn_angry-002_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "でも、私もスリクスの評判を落とす\nような事務所なら、次の契約更新は\n考えようと思います。",
+        "voiceAssetId": "sud_vo_home_mhk_talk-03-4",
+        "motionAssetId": "mot_adv_chr_cmn_talk-016_in",
+        "additionMotionAssetId": "mot_all_chr_cmn_facial-061_in"
+      },
+      {
+        "text": "アイドルもスタッフさんも{user}さんがしっかり教育して下さいね。",
+        "voiceAssetId": "sud_vo_home_mhk_talk-03-5",
+        "motionAssetId": "mot_adv_chr_cmn_ask-010_in",
+        "additionMotionAssetId": ""
+      }
+    ]
+  },
+  {
+    "homeTalkId": "home-talk-char-mhk-talk-04",
+    "characterId": "char-mhk",
+    "placeType": 1,
+    "conditionId": "cd-fan_amount-mhk-11000",
+    "firstPriority": 6000,
+    "weight": 1,
+    "callPatternId": "call-pattern-mhk-04",
+    "choiceText": "なるほど。どんな感覚でしょう？",
+    "managerText": "なるほど。どんな感覚でしょう？",
+    "reliability": 5,
+    "characterTalks": [
+      {
+        "text": "そうですね…私がスリクス結成前のグループで味わった感覚に近いと思いますが…",
+        "voiceAssetId": "sud_vo_home_mhk_talk-04-1",
+        "motionAssetId": "mot_adv_chr_cmn_talk-007_in",
+        "additionMotionAssetId": "mot_all_chr_cmn_facial-032_in"
+      },
+      {
+        "text": "今までのスリクスのライブってもちろん盛り上がるけど、みんな聴き惚れてくれる感じでした。",
+        "voiceAssetId": "sud_vo_home_mhk_talk-04-2",
+        "motionAssetId": "mot_adv_chr_cmn_talk-022_in",
+        "additionMotionAssetId": "mot_all_chr_cmn_facial-032_in"
+      },
+      {
+        "text": "でも最近は、お客さんも一緒に\nなって踊って歌って盛り上がる\nことが増えた気がするんです。",
+        "voiceAssetId": "sud_vo_home_mhk_talk-04-3",
+        "motionAssetId": "mot_adv_chr_cmn_talk-019_in",
+        "additionMotionAssetId": "mot_all_chr_cmn_facial-048_in"
+      },
+      {
+        "text": "…星見プロのお客さんは温かくて、そういう方ばかり…？",
+        "voiceAssetId": "sud_vo_home_mhk_talk-04-4",
+        "motionAssetId": "mot_adv_chr_cmn_talk-003_in",
+        "additionMotionAssetId": "mot_all_chr_cmn_facial-004_in"
+      },
+      {
+        "text": "そう、じゃあ星見プロのアイドルを好きな方も、スリクスのライブに来てくれるようになったってことですね？",
+        "voiceAssetId": "sud_vo_home_mhk_talk-04-5",
+        "motionAssetId": "mot_adv_chr_cmn_pos-022_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "ありがたいですね。でも、気付いた時にはスリクスのファンばかりになっていた。ってことにならないよう、気をつけた方がいいですよ。",
+        "voiceAssetId": "sud_vo_home_mhk_talk-04-6",
+        "motionAssetId": "mot_adv_chr_cmn_talk-014_in",
+        "additionMotionAssetId": "mot_all_chr_cmn_facial-048_in"
+      }
+    ]
+  },
+  {
+    "homeTalkId": "home-talk-char-mhk-talk-05",
+    "characterId": "char-mhk",
+    "placeType": 1,
+    "conditionId": "cd-fan_amount-mhk-15000",
+    "firstPriority": 4000,
+    "weight": 1,
+    "callPatternId": "call-pattern-mhk-05",
+    "choiceText": "もちろん。でも、販売してたり\n動画サイトでも観れますけど…",
+    "managerText": "もちろん。でも、販売してたり\n動画サイトでも観れますけど…",
+    "reliability": 5,
+    "characterTalks": [
+      {
+        "text": "いえ、違います。\nスタッフさんが撮った社内用の\n動画がありますよね？",
+        "voiceAssetId": "sud_vo_home_mhk_talk-05-1",
+        "motionAssetId": "mot_adv_chr_cmn_ask-011_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "公式動画とは異なる角度、\n普段の様子やMCまで、いろんな\n姿を確認してデータを取ろうかと。",
+        "voiceAssetId": "sud_vo_home_mhk_talk-05-2",
+        "motionAssetId": "mot_adv_chr_cmn_talk-021_in",
+        "additionMotionAssetId": "mot_all_chr_cmn_facial-032_in"
+      },
+      {
+        "text": "他では観られない癖とか粗を掴めますし。ふふっ、私達も勢いのあるサニーピースにあやかろうと思って。",
+        "voiceAssetId": "sud_vo_home_mhk_talk-05-3",
+        "motionAssetId": "mot_adv_chr_cmn_pos-010_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "今後、早々に\n再戦するかもしれませんしね。",
+        "voiceAssetId": "sud_vo_home_mhk_talk-05-4",
+        "motionAssetId": "mot_adv_chr_cmn_pos-002_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "あっ、このこと別に彼女達に伝えても構わないですよ。危機感を持ってもらっていい戦いになれば、それはそれで楽しめますしね。",
+        "voiceAssetId": "sud_vo_home_mhk_talk-05-5",
+        "motionAssetId": "mot_adv_chr_cmn_talk-001_in",
+        "additionMotionAssetId": "mot_all_chr_cmn_facial-048_in"
+      }
+    ]
+  },
+  {
+    "homeTalkId": "home-talk-char-mhk-talk-06",
+    "characterId": "char-mhk",
+    "placeType": 1,
+    "conditionId": "cd-fan_amount-mhk-20000",
+    "firstPriority": 2000,
+    "weight": 1,
+    "callPatternId": "call-pattern-mhk-06",
+    "choiceText": "もちろんです。\n何かまずかったでしょうか…？",
+    "managerText": "もちろんです。\n何かまずかったでしょうか…？",
+    "reliability": 5,
+    "characterTalks": [
+      {
+        "text": "今私達が大きなことを言えないのは、重々理解しているんですけど…",
+        "voiceAssetId": "sud_vo_home_mhk_talk-06-1",
+        "motionAssetId": "mot_adv_chr_cmn_talk-014_in",
+        "additionMotionAssetId": "mot_all_chr_cmn_facial-003_in"
+      },
+      {
+        "text": "元BIG4ですし、\nスーパー銭湯での余興となると\nちょっとイメージが…",
+        "voiceAssetId": "sud_vo_home_mhk_talk-06-2",
+        "motionAssetId": "mot_adv_chr_cmn_trouble-001_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "もちろんスリクスらしく、\n現場では完璧に徹しましたよ？",
+        "voiceAssetId": "sud_vo_home_mhk_talk-06-3",
+        "motionAssetId": "mot_adv_chr_cmn_talk-009_in",
+        "additionMotionAssetId": "mot_all_chr_cmn_facial-048_in"
+      },
+      {
+        "text": "ただ、終わってから、\n特にkanaは大変で…\nあなたへ矛先が向いて罵詈雑言が\n止まりませんでした。",
+        "voiceAssetId": "sud_vo_home_mhk_talk-06-4",
+        "motionAssetId": "mot_adv_chr_cmn_sad-006_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "あっ聞かない方がいいです。\nいくらあなたでも落ち込むと思いますし。",
+        "voiceAssetId": "sud_vo_home_mhk_talk-06-5",
+        "motionAssetId": "mot_adv_chr_cmn_talk-005_in",
+        "additionMotionAssetId": "mot_all_chr_cmn_facial-048_in"
+      },
+      {
+        "text": "次回からメッセージでもいいので\n早々に私に連絡いただけますか？\n何かしら対策しておきますから。",
+        "voiceAssetId": "sud_vo_home_mhk_talk-06-6",
+        "motionAssetId": "mot_adv_chr_cmn_pos-011_in",
+        "additionMotionAssetId": ""
+      }
+    ]
+  },
+  {
+    "homeTalkId": "home-talk-char-mhk-talk-07",
+    "characterId": "char-mhk",
+    "placeType": 1,
+    "conditionId": "cd-reliability-mhk-30",
+    "firstPriority": 9500,
+    "weight": 1,
+    "callPatternId": "call-pattern-mhk-07",
+    "choiceText": "麻奈のことか…？",
+    "managerText": "麻奈のことか…？",
+    "reliability": 5,
+    "characterTalks": [
+      {
+        "text": "はい。入所前に話した時から考えは\n変わっていません。\n改めて伝えておこうと思って。",
+        "voiceAssetId": "sud_vo_home_mhk_talk-07-1",
+        "motionAssetId": "mot_adv_chr_cmn_talk-015_in",
+        "additionMotionAssetId": "mot_all_chr_cmn_facial-032_in"
+      },
+      {
+        "text": "…俺も忘れていない？\nふふっそうですよね。",
+        "voiceAssetId": "sud_vo_home_mhk_talk-07-2",
+        "motionAssetId": "mot_adv_chr_cmn_talk-012_in",
+        "additionMotionAssetId": "mot_all_chr_cmn_facial-048_in"
+      },
+      {
+        "text": "でも、変に馴れ合うより、\nその方がお互いにとっていいかも\nしれませんね。",
+        "voiceAssetId": "sud_vo_home_mhk_talk-07-3",
+        "motionAssetId": "mot_adv_chr_cmn_talk-023_in",
+        "additionMotionAssetId": "mot_all_chr_cmn_facial-032_in"
+      },
+      {
+        "text": "せいぜい寝首をかかれないように\n気を緩めないで下さいね？",
+        "voiceAssetId": "sud_vo_home_mhk_talk-07-4",
+        "motionAssetId": "mot_adv_chr_cmn_pos-017_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "スリクスは上辺を取り繕うのが\n得意ですから。私は特に…",
+        "voiceAssetId": "sud_vo_home_mhk_talk-07-5",
+        "motionAssetId": "mot_adv_chr_cmn_talk-019_in",
+        "additionMotionAssetId": "mot_all_chr_cmn_facial-051_in"
+      }
+    ]
+  },
+  {
+    "homeTalkId": "home-talk-char-mhk-talk-08",
+    "characterId": "char-mhk",
+    "placeType": 1,
+    "conditionId": "cd-reliability-mhk-55",
+    "firstPriority": 9000,
+    "weight": 1,
+    "callPatternId": "call-pattern-mhk-08",
+    "choiceText": "あぁ、俺もそう思った。またⅢX\nへの注目度が高まりつつあるよ。",
+    "managerText": "あぁ、俺もそう思った。またⅢX\nへの注目度が高まりつつあるよ。",
+    "reliability": 5,
+    "characterTalks": [
+      {
+        "text": "franもkanaも普段は\nあんな感じですけど、\n本当は嬉しいと思うんです。",
+        "voiceAssetId": "sud_vo_home_mhk_talk-08-1",
+        "motionAssetId": "mot_adv_chr_cmn_talk-003_in",
+        "additionMotionAssetId": "mot_all_chr_cmn_facial-001_in"
+      },
+      {
+        "text": "いいライブの後って、\nfranは投資で失敗しても機嫌が悪くならないですし、kanaはSNSにアップする回数が増えますし。",
+        "voiceAssetId": "sud_vo_home_mhk_talk-08-2",
+        "motionAssetId": "mot_adv_chr_cmn_talk-006_in",
+        "additionMotionAssetId": "mot_all_chr_cmn_facial-001_in"
+      },
+      {
+        "text": "えっ…二人のことをよく見ている？",
+        "voiceAssetId": "sud_vo_home_mhk_talk-08-3",
+        "motionAssetId": "mot_adv_chr_cmn_surp-001_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "まぁ…希薄な関係性ですけど、同じグループには違いないですし、特徴くらいは。",
+        "voiceAssetId": "sud_vo_home_mhk_talk-08-4",
+        "motionAssetId": "mot_adv_chr_cmn_talk-014_in",
+        "additionMotionAssetId": "mot_all_chr_cmn_facial-032_in"
+      },
+      {
+        "text": "ニヤニヤしないで下さい。\n二人に見られでもしたら、\n「余計なこと言うんじゃない」って\n大変ですから。",
+        "voiceAssetId": "sud_vo_home_mhk_talk-08-5",
+        "motionAssetId": "mot_adv_chr_cmn_angry-002_in",
+        "additionMotionAssetId": ""
+      }
+    ]
+  },
+  {
+    "homeTalkId": "home-talk-char-mhk-talk-09",
+    "characterId": "char-mhk",
+    "placeType": 1,
+    "conditionId": "cd-reliability-mhk-70",
+    "firstPriority": 7000,
+    "weight": 1,
+    "callPatternId": "call-pattern-mhk-09",
+    "choiceText": "こういう感じ？\n騒がしいってことですか？",
+    "managerText": "こういう感じ？\n騒がしいってことですか？",
+    "reliability": 5,
+    "characterTalks": [
+      {
+        "text": "はい。今日はオフなのに来ている子までいるみたいですし…",
+        "voiceAssetId": "sud_vo_home_mhk_talk-09-1",
+        "motionAssetId": "mot_adv_chr_cmn_talk-007_in",
+        "additionMotionAssetId": "mot_all_chr_cmn_facial-003_in"
+      },
+      {
+        "text": "不満という訳じゃないんですが、\n正直まだ慣れません。スリクスは\n仕事とレッスン以外で集まること\nなんてなかったですし。",
+        "voiceAssetId": "sud_vo_home_mhk_talk-09-2",
+        "motionAssetId": "mot_adv_chr_cmn_talk-013_in",
+        "additionMotionAssetId": "mot_all_chr_cmn_facial-032_in"
+      },
+      {
+        "text": "実は今日スリクス三人で\nミーティングだったんですが…\n",
+        "voiceAssetId": "sud_vo_home_mhk_talk-09-3",
+        "motionAssetId": "mot_adv_chr_cmn_trouble-001_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "居心地が悪かったのか、\nfranは青山で買い物すると\n出かけてしまって…",
+        "voiceAssetId": "sud_vo_home_mhk_talk-09-4",
+        "motionAssetId": "mot_adv_chr_cmn_talk-011_in",
+        "additionMotionAssetId": "mot_all_chr_cmn_facial-026_in"
+      },
+      {
+        "text": "kanaなんて来た途端\nカフェで時間潰すって\n出て行ってしまって…",
+        "voiceAssetId": "sud_vo_home_mhk_talk-09-5",
+        "motionAssetId": "mot_adv_chr_cmn_sad-002_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "先が思いやられそうです…",
+        "voiceAssetId": "sud_vo_home_mhk_talk-09-6",
+        "motionAssetId": "mot_adv_chr_cmn_sad-005_in",
+        "additionMotionAssetId": ""
+      }
+    ]
+  },
+  {
+    "homeTalkId": "home-talk-char-mhk-talk-10",
+    "characterId": "char-mhk",
+    "placeType": 1,
+    "conditionId": "cd-reliability-mhk-100",
+    "firstPriority": 5000,
+    "weight": 1,
+    "callPatternId": "call-pattern-mhk-10",
+    "choiceText": "はい、こちらこそ突然\n呼んでしまって申し訳ないです。",
+    "managerText": "はい、こちらこそ突然\n呼んでしまって申し訳ないです。",
+    "reliability": 5,
+    "characterTalks": [
+      {
+        "text": "kanaは事前に聞いていないし、\n友達と予定があるそうです。\n私に任せると言っていました。",
+        "voiceAssetId": "sud_vo_home_mhk_talk-10-1",
+        "motionAssetId": "mot_adv_chr_cmn_talk-003_in",
+        "additionMotionAssetId": "mot_all_chr_cmn_facial-032_in"
+      },
+      {
+        "text": "franは株が大暴落したらしく、\nそれどころではない様子でした。\n今話しかけると危ないので、\n声も掛けていません。",
+        "voiceAssetId": "sud_vo_home_mhk_talk-10-2",
+        "motionAssetId": "mot_adv_chr_cmn_talk-008_in",
+        "additionMotionAssetId": "mot_all_chr_cmn_facial-053_in"
+      },
+      {
+        "text": "まぁ、二人とも要件さえ分かれば\n問題ないので、後で私から伝えます。",
+        "voiceAssetId": "sud_vo_home_mhk_talk-10-3",
+        "motionAssetId": "mot_adv_chr_cmn_talk-020_in",
+        "additionMotionAssetId": "mot_all_chr_cmn_facial-032_in"
+      },
+      {
+        "text": "そんなに不安そうな顔しなくても\nよくあることなので大丈夫です。\n打ち合わせを始めましょう。",
+        "voiceAssetId": "sud_vo_home_mhk_talk-10-4",
+        "motionAssetId": "mot_adv_chr_cmn_pos-010_in",
+        "additionMotionAssetId": ""
+      }
+    ]
+  },
+  {
+    "homeTalkId": "home-talk-char-mhk-talk-11",
+    "characterId": "char-mhk",
+    "placeType": 1,
+    "conditionId": "cd-reliability-mhk-155",
+    "firstPriority": 3000,
+    "weight": 1,
+    "callPatternId": "call-pattern-mhk-11",
+    "choiceText": "そ、そうでしたか…\n少し恥ずかしいですね。",
+    "managerText": "そ、そうでしたか…\n少し恥ずかしいですね。",
+    "reliability": 5,
+    "characterTalks": [
+      {
+        "text": "ええ、恥ずかしいですね。",
+        "voiceAssetId": "sud_vo_home_mhk_talk-11-1",
+        "motionAssetId": "mot_adv_chr_cmn_talk-010_in",
+        "additionMotionAssetId": "mot_all_chr_cmn_facial-053_in"
+      },
+      {
+        "text": "だってあの頃のあなた、青臭くて\n正直すぐ業界から姿を消すだろうなって印象でしたし。",
+        "voiceAssetId": "sud_vo_home_mhk_talk-11-2",
+        "motionAssetId": "mot_adv_chr_cmn_talk-004_in",
+        "additionMotionAssetId": "mot_all_chr_cmn_facial-048_in"
+      },
+      {
+        "text": "でも今はこんなにアイドルを従えて\nチーフマネージャーですもの。\nこの業界分からないものですね。",
+        "voiceAssetId": "sud_vo_home_mhk_talk-11-3",
+        "motionAssetId": "mot_adv_chr_cmn_pos-022_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "ちょっと複雑な気分だけど、\n少なくとも私はそんなあなたの\n手腕に期待しているんです。",
+        "voiceAssetId": "sud_vo_home_mhk_talk-11-4",
+        "motionAssetId": "mot_adv_chr_cmn_pos-011_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "これからもスリクスを\nお願いしますね。",
+        "voiceAssetId": "sud_vo_home_mhk_talk-11-5",
+        "motionAssetId": "mot_adv_chr_cmn_glad-009_in",
+        "additionMotionAssetId": ""
+      }
+    ]
+  },
+  {
+    "homeTalkId": "home-talk-char-mhk-talk-12",
+    "characterId": "char-mhk",
+    "placeType": 1,
+    "conditionId": "cd-reliability-mhk-210",
+    "firstPriority": 1000,
+    "weight": 1,
+    "callPatternId": "call-pattern-mhk-12",
+    "choiceText": "えっ…franさん？\n俺、ですけど？",
+    "managerText": "えっ…franさん？\n俺、ですけど？",
+    "reliability": 5,
+    "characterTalks": [
+      {
+        "text": "あっ…ごめんなさい。\nよく見たら金髪じゃないですし、\n洋服もスーツですね。\n失礼しました。",
+        "voiceAssetId": "sud_vo_home_mhk_talk-12-1",
+        "motionAssetId": "mot_adv_chr_cmn_talk-022_in",
+        "additionMotionAssetId": "mot_all_chr_cmn_facial-003_in"
+      },
+      {
+        "text": "さっきレッスン中にコンタクトを\nなくしてしまって…\n替えも忘れたので近所に買いに\n行こうと思ってたんです。",
+        "voiceAssetId": "sud_vo_home_mhk_talk-12-2",
+        "motionAssetId": "mot_adv_chr_cmn_talk-014_in",
+        "additionMotionAssetId": "mot_all_chr_cmn_facial-032_in"
+      },
+      {
+        "text": "えっ、危ないから、\n一緒について来てくれる…？",
+        "voiceAssetId": "sud_vo_home_mhk_talk-12-3",
+        "motionAssetId": "mot_adv_chr_cmn_surp-001_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "はぁ{user}さんって本当に不思議な方ですよね。以前あんなに揉めた私達と気さくに接するなんて。",
+        "voiceAssetId": "sud_vo_home_mhk_talk-12-4",
+        "motionAssetId": "mot_adv_chr_cmn_talk-003_in",
+        "additionMotionAssetId": "mot_all_chr_cmn_facial-026_in"
+      },
+      {
+        "text": "でも、助かります。\nお言葉に甘えて連れてってもらう\nことにしますね。",
+        "voiceAssetId": "sud_vo_home_mhk_talk-12-5",
+        "motionAssetId": "mot_adv_chr_cmn_pos-020_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "あ…一点\n二人で出歩いて、星見プロの\nみなさんに変に思われても\n私は責任持ちませんから。",
+        "voiceAssetId": "sud_vo_home_mhk_talk-12-6",
+        "motionAssetId": "mot_adv_chr_cmn_pos-023_in",
         "additionMotionAssetId": ""
       }
     ]

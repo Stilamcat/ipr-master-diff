@@ -149,14 +149,14 @@
       }
     ],
     "backgroundColor": "000000",
-    "textColor": "49A85B",
+    "textColor": "63A663",
     "viewConditionId": "",
     "isMemories": false
   },
   {
     "id": "character_group_5",
     "assetId": "mna",
-    "order": 5,
+    "order": 6,
     "name": "長瀬麻奈",
     "color": "F251B0",
     "mappings": [
@@ -171,5 +171,36 @@
     "viewConditionId": "",
     "backgroundColor": "",
     "textColor": ""
+  },
+  {
+    "id": "character_group_6",
+    "assetId": "thrx",
+    "order": 5,
+    "name": "ⅢX",
+    "color": "F0F000",
+    "mappings": [
+      {
+        "characterId": "char-kan",
+        "description": "裏表が激しいが、ずば抜けたセンスを持つ小悪魔アイドル。大人気モデル出身で、小さい頃から数々の雑誌の表紙を飾っている。承認欲求が高く、SNSのフォロワーは200万以上。",
+        "order": 19,
+        "assetId": ""
+      },
+      {
+        "characterId": "char-kor",
+        "description": "抜群のスタイルを持つ、天才肌で努力を知らないカリスマ。ⅢXのセンターで、パリコレへの出場経験もあるトップモデル出身。ある理由から極端にお金に執着している。",
+        "order": 18,
+        "assetId": ""
+      },
+      {
+        "characterId": "char-mhk",
+        "description": "豊富な経験と知識を活かして活動に励む理論派。BIG4に手が届く寸前で突如解散した、人気二人組アイドルのメンバーだった過去を持つ。グループのブレーン的存在で基本的に温厚だが、執念深い一面も。",
+        "order": 20,
+        "assetId": ""
+      }
+    ],
+    "backgroundColor": "474744",
+    "textColor": "F0F000",
+    "viewConditionId": "",
+    "isMemories": false
   }
 ]

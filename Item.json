@@ -154,6 +154,17 @@
     "salePrice": 0
   },
   {
+    "id": "item-contest_medal-22-0628",
+    "name": "フォトメダル",
+    "assetId": "medal-contest",
+    "description": "フォトメダル交換所で様々なアイテムと交換できる\nイベント終了後はコインに変換されます",
+    "howToGet": "フォトオーディション",
+    "type": 3001,
+    "value": 1,
+    "order": 99,
+    "salePrice": 0
+  },
+  {
     "id": "item-contest_submitting-21-1228",
     "name": "イベントフィルム",
     "assetId": "photo-shooting-contest",
@@ -166,6 +177,17 @@
   },
   {
     "id": "item-contest_submitting-22-0328",
+    "name": "イベント撮影パス",
+    "assetId": "photo-shooting-contest-ticket",
+    "description": "フォトオーディションに写真を提出できる\nイベント終了後はコインに変換されます",
+    "howToGet": "フォトオーディション、プロモーション、ファンイベントなど",
+    "type": 6001,
+    "value": 1,
+    "order": 1,
+    "salePrice": 0
+  },
+  {
+    "id": "item-contest_submitting-22-0628",
     "name": "イベント撮影パス",
     "assetId": "photo-shooting-contest-ticket",
     "description": "フォトオーディションに写真を提出できる\nイベント終了後はコインに変換されます",
@@ -319,6 +341,17 @@
     "salePrice": 0
   },
   {
+    "id": "item-gacha_item-ticket-22-0630",
+    "name": "アイテム抽選券",
+    "assetId": "item-ticket-piece",
+    "description": "10枚でアイテム抽選券ガチャを1回引くことができる",
+    "howToGet": "サントリータイアップCP",
+    "type": 8,
+    "value": 1,
+    "order": 100,
+    "salePrice": 0
+  },
+  {
     "id": "item-gacha_lottery-ticket-22-0212",
     "name": "福引券",
     "assetId": "lottery-ticket",
@@ -374,6 +407,17 @@
     "salePrice": 0
   },
   {
+    "id": "item-gacha_point-fs-select-22-0628",
+    "name": "選べるアイプラフェスガチャPt",
+    "assetId": "gacha-point",
+    "description": "該当するガチャページの「ガチャPt」から\nガチャPtを消費してアイドルを獲得できる",
+    "type": 9,
+    "value": 1,
+    "order": 140,
+    "howToGet": "",
+    "salePrice": 0
+  },
+  {
     "id": "item-gacha_point-fs-set-bloom-21-1228",
     "name": "アイプラフェスガチャPt",
     "assetId": "gacha-point",
@@ -398,6 +442,17 @@
   {
     "id": "item-gacha_point-fs-set-bloom-22-0328-02",
     "name": "アイプラフェスピックアップ2ガチャPt",
+    "assetId": "gacha-point",
+    "description": "該当するガチャページの「ガチャPt」から\nガチャPtを消費してアイドルを獲得できる",
+    "type": 9,
+    "value": 1,
+    "order": 140,
+    "howToGet": "",
+    "salePrice": 0
+  },
+  {
+    "id": "item-gacha_point-fs-set-bloom-22-0628",
+    "name": "アイプラフェスガチャPt",
     "assetId": "gacha-point",
     "description": "該当するガチャページの「ガチャPt」から\nガチャPtを消費してアイドルを獲得できる",
     "type": 9,
@@ -1266,6 +1321,17 @@
   },
   {
     "id": "item-photo_contest_create-22-0328",
+    "name": "イベント現像フィルム",
+    "assetId": "photo-shooting-contest",
+    "description": "フォトオーディションの写真を現像できる\nイベント終了後はコインに変換されます",
+    "howToGet": "フォトオーディション",
+    "type": 6002,
+    "value": 1,
+    "order": 99,
+    "salePrice": 0
+  },
+  {
+    "id": "item-photo_contest_create-22-0628",
     "name": "イベント現像フィルム",
     "assetId": "photo-shooting-contest",
     "description": "フォトオーディションの写真を現像できる\nイベント終了後はコインに変換されます",

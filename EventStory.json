@@ -622,5 +622,55 @@
         "viewConditionId": ""
       }
     ]
+  },
+  {
+    "id": "st-eve-2207-contest",
+    "assetId": "event-contest-22-0628",
+    "name": "Happy Smile Selfie",
+    "description": "Happy Smile Selfie",
+    "order": 1900,
+    "viewConditionId": "cd-event-story-0628",
+    "episodes": [
+      {
+        "episode": 1,
+        "assetId": "event_2207_01_01",
+        "storyId": "st-eve-2207-contest-001",
+        "unlockConditionId": "cd-event-story-read-001-contest-22-0628",
+        "viewConditionId": "",
+        "isAppeal": false
+      },
+      {
+        "episode": 2,
+        "assetId": "event_2207_01_02",
+        "storyId": "st-eve-2207-contest-002",
+        "unlockConditionId": "cd-contest-22-0628-total_submit_count_gte-3",
+        "isAppeal": true,
+        "viewConditionId": ""
+      },
+      {
+        "episode": 3,
+        "assetId": "event_2207_01_03",
+        "storyId": "st-eve-2207-contest-003",
+        "unlockConditionId": "cd-contest-22-0628-total_submit_count_gte-10",
+        "isAppeal": true,
+        "viewConditionId": ""
+      },
+      {
+        "episode": 4,
+        "assetId": "event_2207_01_04",
+        "storyId": "st-eve-2207-contest-004",
+        "unlockConditionId": "cd-contest-22-0628-total_submit_count_gte-20",
+        "isAppeal": true,
+        "viewConditionId": ""
+      },
+      {
+        "episode": 5,
+        "assetId": "event_2207_01_05",
+        "storyId": "st-eve-2207-contest-005",
+        "unlockConditionId": "cd-contest-22-0628-total_submit_count_gte-35",
+        "isAppeal": true,
+        "viewConditionId": ""
+      }
+    ]
   }
 ]

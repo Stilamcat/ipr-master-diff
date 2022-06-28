@@ -742,6 +742,50 @@
     "shootingTime": "0"
   },
   {
+    "id": "phot-prm-5-3",
+    "assetId": "phot-prm-5-0003",
+    "name": "IIIX",
+    "rarity": 5,
+    "placeName": "IIIX",
+    "eventName": "メモリアルフォト",
+    "level": 35,
+    "abilities": [
+      {
+        "photoAbilityId": "pab-vocal_multiply_distribution-5",
+        "effectValue": 200,
+        "grade": 1,
+        "missionId": ""
+      },
+      {
+        "photoAbilityId": "pab-dance_multiply_distribution-5",
+        "effectValue": 200,
+        "grade": 1,
+        "missionId": ""
+      },
+      {
+        "photoAbilityId": "pab-visual_multiply_distribution-5",
+        "effectValue": 200,
+        "grade": 1,
+        "missionId": ""
+      },
+      {
+        "photoAbilityId": "pab-mental_add-5",
+        "effectValue": 77,
+        "grade": 1,
+        "missionId": ""
+      },
+      {
+        "photoAbilityId": "pab-passive-skill_sk-phot-release-login-5-01",
+        "effectValue": 1,
+        "grade": 1,
+        "missionId": ""
+      }
+    ],
+    "focusCharacterId": "char-kor",
+    "characterIds": [],
+    "shootingTime": "0"
+  },
+  {
     "id": "phot-release-login-5-1",
     "assetId": "phot-login-5-0001",
     "name": "長瀬麻奈",
@@ -1134,6 +1178,50 @@
       }
     ],
     "focusCharacterId": "char-skr",
+    "characterIds": [],
+    "shootingTime": "0"
+  },
+  {
+    "id": "phot-shop-5-9",
+    "assetId": "phot-shop-5-0009",
+    "name": "IIIX",
+    "rarity": 5,
+    "placeName": "勝利のために",
+    "eventName": "メモリアルフォト",
+    "level": 150,
+    "abilities": [
+      {
+        "photoAbilityId": "pab-vocal_multiply_distribution-5",
+        "effectValue": 430,
+        "grade": 1,
+        "missionId": ""
+      },
+      {
+        "photoAbilityId": "pab-dance_multiply_distribution-5",
+        "effectValue": 430,
+        "grade": 1,
+        "missionId": ""
+      },
+      {
+        "photoAbilityId": "pab-visual_multiply_distribution-5",
+        "effectValue": 430,
+        "grade": 1,
+        "missionId": ""
+      },
+      {
+        "photoAbilityId": "pab-active-skill-score-up_multiply_distribution-5",
+        "effectValue": 107,
+        "grade": 1,
+        "missionId": ""
+      },
+      {
+        "photoAbilityId": "pab-passive-skill_sk-phot-release-login-5-01",
+        "effectValue": 3,
+        "grade": 1,
+        "missionId": ""
+      }
+    ],
+    "focusCharacterId": "char-kor",
     "characterIds": [],
     "shootingTime": "0"
   }

@@ -1402,6 +1402,66 @@
     "homeTalks": []
   },
   {
+    "id": "card-kan-05-idol-00",
+    "assetId": "kan-05-idol-00",
+    "name": "a piece of cake",
+    "description": "今日は最っ高だったなー！！\nやっぱ、すかっと勝つのが一番気分がいいね！",
+    "type": 3,
+    "characterId": "char-kan",
+    "initialRarity": 5,
+    "cardParameterId": "card-param-01",
+    "vocalRatioPermil": 285,
+    "danceRatioPermil": 415,
+    "visualRatioPermil": 330,
+    "staminaRatioPermil": 900,
+    "cardLevelReleaseId": "card_level_release_1",
+    "skillId1": "sk-kan-05-idol-00-1",
+    "skillId2": "sk-kan-05-idol-00-2",
+    "skillId3": "sk-kan-05-idol-00-3",
+    "liveAbilityId": "lba-critical_score_multiply",
+    "order": 221,
+    "releaseDate": "1656385200000",
+    "rewardCostumeId": "cos-kan-idol-00",
+    "imageType1": 3,
+    "displayPositionX1": -0.237,
+    "displayPositionY1": 0.083,
+    "displayScale1": 1.2,
+    "highlightDisplayPositionX1": 0.895,
+    "highlightDisplayPositionY1": 0.089,
+    "highlightDisplayScale1": 1.1,
+    "imageType2": 3,
+    "displayPositionX2": -0.237,
+    "displayPositionY2": 0.083,
+    "displayScale2": 1.2,
+    "highlightDisplayPositionX2": 0.895,
+    "highlightDisplayPositionY2": 0.089,
+    "highlightDisplayScale2": 1.1,
+    "obtainMessage": "やっぱ、すかっと勝つのが\n一番気分がいいね！",
+    "stories": [
+      {
+        "storyId": "st-card-kan-05-idol-00-01"
+      },
+      {
+        "storyId": "st-card-kan-05-idol-00-02"
+      },
+      {
+        "storyId": "st-card-kan-05-idol-00-03"
+      }
+    ],
+    "messages": [
+      {
+        "messageId": "message-card-kan-05-idol-00",
+        "telephoneId": ""
+      },
+      {
+        "telephoneId": "tel-card-kan-05-idol-00",
+        "messageId": ""
+      }
+    ],
+    "activityAbilityId": "",
+    "homeTalks": []
+  },
+  {
     "id": "card-kkr-03-schl-00",
     "assetId": "kkr-03-schl-00",
     "name": "たまには本気で",
@@ -1669,6 +1729,66 @@
     "activityAbilityId": "",
     "displayPositionY1": 0.0,
     "displayPositionY2": 0.0,
+    "homeTalks": []
+  },
+  {
+    "id": "card-kor-05-idol-00",
+    "assetId": "kor-05-idol-00",
+    "name": "snake in the grass",
+    "description": "いくらお金が稼げるからって、全く楽しくないなら\r\n移籍してまでアイドル続けたりはしませんよ\r\nま、ファッションの次くらいにですけどね！",
+    "type": 1,
+    "characterId": "char-kor",
+    "initialRarity": 5,
+    "cardParameterId": "card-param-01",
+    "vocalRatioPermil": 435,
+    "danceRatioPermil": 320,
+    "visualRatioPermil": 275,
+    "staminaRatioPermil": 900,
+    "cardLevelReleaseId": "card_level_release_1",
+    "skillId1": "sk-kor-05-idol-00-1",
+    "skillId2": "sk-kor-05-idol-00-2",
+    "skillId3": "sk-kor-05-idol-00-3",
+    "liveAbilityId": "lba-technique_add",
+    "order": 220,
+    "releaseDate": "1656385200000",
+    "rewardCostumeId": "cos-kor-idol-00",
+    "imageType1": 3,
+    "displayPositionX1": -0.24,
+    "displayPositionY1": 0.188,
+    "displayScale1": 1.6,
+    "highlightDisplayPositionX1": 0.356,
+    "highlightDisplayPositionY1": 0.237,
+    "highlightDisplayScale1": 1.3,
+    "imageType2": 3,
+    "displayPositionX2": -0.24,
+    "displayPositionY2": 0.188,
+    "displayScale2": 1.6,
+    "highlightDisplayPositionX2": 0.356,
+    "highlightDisplayPositionY2": 0.237,
+    "highlightDisplayScale2": 1.3,
+    "obtainMessage": "全く楽しくないなら\n移籍してまでアイドル\n続けたりはしませんよ",
+    "stories": [
+      {
+        "storyId": "st-card-kor-05-idol-00-01"
+      },
+      {
+        "storyId": "st-card-kor-05-idol-00-02"
+      },
+      {
+        "storyId": "st-card-kor-05-idol-00-03"
+      }
+    ],
+    "messages": [
+      {
+        "messageId": "message-card-kor-05-idol-00",
+        "telephoneId": ""
+      },
+      {
+        "telephoneId": "tel-card-kor-05-idol-00",
+        "messageId": ""
+      }
+    ],
+    "activityAbilityId": "",
     "homeTalks": []
   },
   {
@@ -2411,6 +2531,66 @@
       }
     ],
     "activityAbilityId": "",
+    "homeTalks": []
+  },
+  {
+    "id": "card-mhk-05-idol-00",
+    "assetId": "mhk-05-idol-00",
+    "name": "make a comeback",
+    "description": "また何度も失敗するのでしょうけど\nでもそれも糧にして、いつか――\r\n必ず私達はトップに立ちます",
+    "type": 2,
+    "characterId": "char-mhk",
+    "initialRarity": 5,
+    "cardParameterId": "card-param-01",
+    "vocalRatioPermil": 320,
+    "danceRatioPermil": 277,
+    "visualRatioPermil": 403,
+    "staminaRatioPermil": 1000,
+    "cardLevelReleaseId": "card_level_release_1",
+    "skillId1": "sk-mhk-05-idol-00-1",
+    "skillId2": "sk-mhk-05-idol-00-2",
+    "skillId3": "sk-mhk-05-idol-00-3",
+    "activityAbilityId": "aab-promotion_manager_exp_up",
+    "order": 222,
+    "releaseDate": "1656385200000",
+    "rewardCostumeId": "cos-mhk-idol-00",
+    "imageType1": 3,
+    "displayPositionX1": 0.268,
+    "displayPositionY1": 0.115,
+    "displayScale1": 1.3,
+    "highlightDisplayPositionX1": -0.4,
+    "highlightDisplayPositionY1": 0.202,
+    "highlightDisplayScale1": 1.0,
+    "imageType2": 3,
+    "displayPositionX2": 0.268,
+    "displayPositionY2": 0.115,
+    "displayScale2": 1.3,
+    "highlightDisplayPositionX2": -0.4,
+    "highlightDisplayPositionY2": 0.202,
+    "highlightDisplayScale2": 1.0,
+    "obtainMessage": "私、これで満足するつもり\nはありません",
+    "stories": [
+      {
+        "storyId": "st-card-mhk-05-idol-00-01"
+      },
+      {
+        "storyId": "st-card-mhk-05-idol-00-02"
+      },
+      {
+        "storyId": "st-card-mhk-05-idol-00-03"
+      }
+    ],
+    "messages": [
+      {
+        "messageId": "message-card-mhk-05-idol-00",
+        "telephoneId": ""
+      },
+      {
+        "telephoneId": "tel-card-mhk-05-idol-00",
+        "messageId": ""
+      }
+    ],
+    "liveAbilityId": "",
     "homeTalks": []
   },
   {
@@ -4588,6 +4768,47 @@
     "rewardCostumeId": "",
     "displayPositionX1": 0.0,
     "highlightDisplayPositionX1": 0.0,
+    "obtainMessage": "",
+    "stories": [],
+    "messages": [],
+    "homeTalks": []
+  },
+  {
+    "id": "card-skr-02-eve-01",
+    "assetId": "skr-02-eve-01",
+    "name": "仲良しアピール",
+    "description": "さっすがSNSのプロkanaさんだなぁ\nこれから写真を撮る時はアドバイス通り、半目がいいのかな？",
+    "type": 3,
+    "characterId": "char-skr",
+    "initialRarity": 2,
+    "cardParameterId": "card-param-01",
+    "vocalRatioPermil": 329,
+    "danceRatioPermil": 290,
+    "visualRatioPermil": 411,
+    "staminaRatioPermil": 900,
+    "cardLevelReleaseId": "card_level_release_1",
+    "skillId1": "sk-skr-02-eve-01-1",
+    "skillId2": "sk-skr-02-eve-01-2",
+    "skillId3": "sk-skr-02-eve-01-3",
+    "order": 225,
+    "releaseDate": "1656406800000",
+    "imageType1": 1,
+    "displayPositionX1": -0.002,
+    "displayPositionY1": 0.252,
+    "displayScale1": 1.0,
+    "highlightDisplayPositionX1": 0.008,
+    "highlightDisplayPositionY1": 0.243,
+    "highlightDisplayScale1": 1.0,
+    "imageType2": 2,
+    "displayPositionX2": 0.019,
+    "displayScale2": 1.0,
+    "highlightDisplayPositionX2": -0.045,
+    "highlightDisplayPositionY2": 0.004,
+    "highlightDisplayScale2": 0.8,
+    "liveAbilityId": "",
+    "activityAbilityId": "",
+    "rewardCostumeId": "",
+    "displayPositionY2": 0.0,
     "obtainMessage": "",
     "stories": [],
     "messages": [],
