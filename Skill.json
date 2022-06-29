@@ -36524,115 +36524,115 @@
     "levels": [
       {
         "level": 1,
-        "description": "80コンボ以上時 自身に6段階ビジュアル上昇効果[56ビート]\nスタミナ276消費 ライブ中1回のみ ",
-        "shortDescription": " \nスタミナ276消費 ライブ中1回のみ ",
+        "description": "80コンボ以上時\n自身に6段階ビジュアル上昇効果[56ビート]\nスタミナ276消費 ライブ中1回のみ ",
+        "shortDescription": "\n\nスタミナ276消費 ライブ中1回のみ ",
         "stamina": 276,
+        "triggerId": "tg-combo-80",
         "probabilityPermil": 1000,
         "limitCount": 1,
         "skillDetails": [
           {
             "efficacyId": "ef-visual_up-6-target-self-56",
-            "triggerId": "tg-combo-80"
+            "triggerId": ""
           }
         ],
         "requiredItemAmount": 0,
         "requiredCardLevel": 0,
-        "triggerId": "",
         "coolTime": 0,
         "staminaPermil": 0
       },
       {
         "level": 2,
-        "description": "80コンボ以上時 自身に7段階ビジュアル上昇効果[56ビート]\nスタミナ322消費 ライブ中1回のみ ",
-        "shortDescription": " \nスタミナ322消費 ライブ中1回のみ ",
+        "description": "80コンボ以上時\n自身に7段階ビジュアル上昇効果[56ビート]\nスタミナ322消費 ライブ中1回のみ ",
+        "shortDescription": "\n\nスタミナ322消費 ライブ中1回のみ ",
         "requiredItemAmount": 15000,
         "requiredCardLevel": 100,
         "stamina": 322,
+        "triggerId": "tg-combo-80",
         "probabilityPermil": 1000,
         "limitCount": 1,
         "skillDetails": [
           {
             "efficacyId": "ef-visual_up-7-target-self-56",
-            "triggerId": "tg-combo-80"
+            "triggerId": ""
           }
         ],
-        "triggerId": "",
         "coolTime": 0,
         "staminaPermil": 0
       },
       {
         "level": 3,
-        "description": "80コンボ以上時 自身に7段階ビジュアル上昇効果[65ビート]\nスタミナ373消費 ライブ中1回のみ ",
-        "shortDescription": " \nスタミナ373消費 ライブ中1回のみ ",
+        "description": "80コンボ以上時\n自身に7段階ビジュアル上昇効果[65ビート]\nスタミナ373消費 ライブ中1回のみ ",
+        "shortDescription": "\n\nスタミナ373消費 ライブ中1回のみ ",
         "requiredItemAmount": 60000,
         "requiredCardLevel": 130,
         "stamina": 373,
+        "triggerId": "tg-combo-80",
         "probabilityPermil": 1000,
         "limitCount": 1,
         "skillDetails": [
           {
             "efficacyId": "ef-visual_up-7-target-self-65",
-            "triggerId": "tg-combo-80"
+            "triggerId": ""
           }
         ],
-        "triggerId": "",
         "coolTime": 0,
         "staminaPermil": 0
       },
       {
         "level": 4,
-        "description": "80コンボ以上時 自身に8段階ビジュアル上昇効果[65ビート]\nスタミナ426消費 ライブ中1回のみ ",
-        "shortDescription": " \nスタミナ426消費 ライブ中1回のみ ",
+        "description": "80コンボ以上時\n自身に8段階ビジュアル上昇効果[65ビート]\nスタミナ426消費 ライブ中1回のみ ",
+        "shortDescription": "\n\nスタミナ426消費 ライブ中1回のみ ",
         "requiredItemAmount": 180000,
         "requiredCardLevel": 170,
         "stamina": 426,
+        "triggerId": "tg-combo-80",
         "probabilityPermil": 1000,
         "limitCount": 1,
         "skillDetails": [
           {
             "efficacyId": "ef-visual_up-8-target-self-65",
-            "triggerId": "tg-combo-80"
+            "triggerId": ""
           }
         ],
-        "triggerId": "",
         "coolTime": 0,
         "staminaPermil": 0
       },
       {
         "level": 5,
-        "description": "80コンボ以上時 自身に8段階ビジュアル上昇効果[75ビート]\nスタミナ491消費 ライブ中1回のみ ",
-        "shortDescription": " \nスタミナ491消費 ライブ中1回のみ ",
+        "description": "80コンボ以上時\n自身に8段階ビジュアル上昇効果[75ビート]\nスタミナ491消費 ライブ中1回のみ ",
+        "shortDescription": "\n\nスタミナ491消費 ライブ中1回のみ ",
         "requiredItemAmount": 230000,
         "requiredCardLevel": 210,
         "stamina": 491,
+        "triggerId": "tg-combo-80",
         "probabilityPermil": 1000,
         "limitCount": 1,
         "skillDetails": [
           {
             "efficacyId": "ef-visual_up-8-target-self-75",
-            "triggerId": "tg-combo-80"
+            "triggerId": ""
           }
         ],
-        "triggerId": "",
         "coolTime": 0,
         "staminaPermil": 0
       },
       {
         "level": 6,
-        "description": "80コンボ以上時 自身に9段階ビジュアル上昇効果[75ビート]\nスタミナ553消費 ライブ中1回のみ ",
-        "shortDescription": " \nスタミナ553消費 ライブ中1回のみ ",
+        "description": "80コンボ以上時\n自身に9段階ビジュアル上昇効果[75ビート]\nスタミナ553消費 ライブ中1回のみ ",
+        "shortDescription": "\n\nスタミナ553消費 ライブ中1回のみ ",
         "requiredItemAmount": 230000,
         "requiredCardLevel": 220,
         "stamina": 553,
+        "triggerId": "tg-combo-80",
         "probabilityPermil": 1000,
         "limitCount": 1,
         "skillDetails": [
           {
             "efficacyId": "ef-visual_up-9-target-self-75",
-            "triggerId": "tg-combo-80"
+            "triggerId": ""
           }
         ],
-        "triggerId": "",
         "coolTime": 0,
         "staminaPermil": 0
       }
