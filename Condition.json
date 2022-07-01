@@ -761,6 +761,42 @@
     ]
   },
   {
+    "id": "cd-activity_camp-22-0703-banner",
+    "settings": [
+      {
+        "term": {
+          "nowAfter": "1656774000000",
+          "nowBefore": "1657465199000"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-activity_camp-22-0714-banner",
+    "settings": [
+      {
+        "term": {
+          "nowAfter": "1657724400000",
+          "nowBefore": "1658415599000"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-activity_camp-22-0714-banner-not-7days",
+    "settings": [
+      {
+        "notSatisfyCondition": {
+          "conditionId": "cd-activity_camp-21-0928-banner"
+        },
+        "term": {
+          "nowAfter": "1657724400000",
+          "nowBefore": "1658415599000"
+        }
+      }
+    ]
+  },
+  {
     "id": "cd-activity_level-ai-30",
     "settings": [
       {
@@ -2483,6 +2519,28 @@
     ]
   },
   {
+    "id": "cd-birthday_ai-22-0209",
+    "settings": [
+      {
+        "term": {
+          "nowAfter": "1644332400000",
+          "nowBefore": "1644418799000"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-birthday_ai-23-0209",
+    "settings": [
+      {
+        "term": {
+          "nowAfter": "1675868400000",
+          "nowBefore": "1675954799000"
+        }
+      }
+    ]
+  },
+  {
     "id": "cd-birthday_aoi-0619",
     "settings": [
       {
@@ -2543,6 +2601,28 @@
         "term": {
           "nowAfter": "1908025200000",
           "nowBefore": "1908111599000"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-birthday_aoi-22-0619",
+    "settings": [
+      {
+        "term": {
+          "nowAfter": "1655564400000",
+          "nowBefore": "1655650799000"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-birthday_aoi-23-0619",
+    "settings": [
+      {
+        "term": {
+          "nowAfter": "1687100400000",
+          "nowBefore": "1687186799000"
         }
       }
     ]
@@ -2613,6 +2693,28 @@
     ]
   },
   {
+    "id": "cd-birthday_chs-21-1122",
+    "settings": [
+      {
+        "term": {
+          "nowAfter": "1637506800000",
+          "nowBefore": "1637593199000"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-birthday_chs-22-1122",
+    "settings": [
+      {
+        "term": {
+          "nowAfter": "1669042800000",
+          "nowBefore": "1669129199000"
+        }
+      }
+    ]
+  },
+  {
     "id": "cd-birthday_emb-ai-0209",
     "settings": [
       {
@@ -2673,6 +2775,28 @@
         "term": {
           "nowAfter": "1896793200000",
           "nowBefore": "1896880200000"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-birthday_emb-ai-22-0209",
+    "settings": [
+      {
+        "term": {
+          "nowAfter": "1644332400000",
+          "nowBefore": "1644419400000"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-birthday_emb-ai-23-0209",
+    "settings": [
+      {
+        "term": {
+          "nowAfter": "1675868400000",
+          "nowBefore": "1675955400000"
         }
       }
     ]
@@ -2743,6 +2867,28 @@
     ]
   },
   {
+    "id": "cd-birthday_emb-aoi-22-0619",
+    "settings": [
+      {
+        "term": {
+          "nowAfter": "1655564400000",
+          "nowBefore": "1655651400000"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-birthday_emb-aoi-23-0619",
+    "settings": [
+      {
+        "term": {
+          "nowAfter": "1687100400000",
+          "nowBefore": "1687187400000"
+        }
+      }
+    ]
+  },
+  {
     "id": "cd-birthday_emb-chs-1122",
     "settings": [
       {
@@ -2803,6 +2949,28 @@
         "term": {
           "nowAfter": "1921503600000",
           "nowBefore": "1921590600000"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-birthday_emb-chs-21-1122",
+    "settings": [
+      {
+        "term": {
+          "nowAfter": "1637506800000",
+          "nowBefore": "1637593800000"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-birthday_emb-chs-22-1122",
+    "settings": [
+      {
+        "term": {
+          "nowAfter": "1669042800000",
+          "nowBefore": "1669129800000"
         }
       }
     ]
@@ -2873,6 +3041,39 @@
     ]
   },
   {
+    "id": "cd-birthday_emb-hrk-22-0103",
+    "settings": [
+      {
+        "term": {
+          "nowAfter": "1641135600000",
+          "nowBefore": "1641222600000"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-birthday_emb-hrk-23-0103",
+    "settings": [
+      {
+        "term": {
+          "nowAfter": "1672671600000",
+          "nowBefore": "1672758600000"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-birthday_emb-kan-23-0410",
+    "settings": [
+      {
+        "term": {
+          "nowAfter": "1681052400000",
+          "nowBefore": "1681139400000"
+        }
+      }
+    ]
+  },
+  {
     "id": "cd-birthday_emb-kkr-1206",
     "settings": [
       {
@@ -2933,6 +3134,39 @@
         "term": {
           "nowAfter": "1922713200000",
           "nowBefore": "1922800200000"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-birthday_emb-kkr-21-1206",
+    "settings": [
+      {
+        "term": {
+          "nowAfter": "1638716400000",
+          "nowBefore": "1638803400000"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-birthday_emb-kkr-22-1206",
+    "settings": [
+      {
+        "term": {
+          "nowAfter": "1670252400000",
+          "nowBefore": "1670339400000"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-birthday_emb-kor-23-0611",
+    "settings": [
+      {
+        "term": {
+          "nowAfter": "1686409200000",
+          "nowBefore": "1686496200000"
         }
       }
     ]
@@ -3003,6 +3237,28 @@
     ]
   },
   {
+    "id": "cd-birthday_emb-ktn-21-1225",
+    "settings": [
+      {
+        "term": {
+          "nowAfter": "1640358000000",
+          "nowBefore": "1640445000000"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-birthday_emb-ktn-22-1225",
+    "settings": [
+      {
+        "term": {
+          "nowAfter": "1671894000000",
+          "nowBefore": "1671981000000"
+        }
+      }
+    ]
+  },
+  {
     "id": "cd-birthday_emb-mei-0707",
     "settings": [
       {
@@ -3063,6 +3319,39 @@
         "term": {
           "nowAfter": "1909580400000",
           "nowBefore": "1909667400000"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-birthday_emb-mei-21-0707",
+    "settings": [
+      {
+        "term": {
+          "nowAfter": "1625583600000",
+          "nowBefore": "1625670600000"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-birthday_emb-mei-22-0707",
+    "settings": [
+      {
+        "term": {
+          "nowAfter": "1657119600000",
+          "nowBefore": "1657206600000"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-birthday_emb-mhk-23-0125",
+    "settings": [
+      {
+        "term": {
+          "nowAfter": "1674572400000",
+          "nowBefore": "1674659400000"
         }
       }
     ]
@@ -3198,6 +3487,28 @@
     ]
   },
   {
+    "id": "cd-birthday_emb-ngs-21-0803",
+    "settings": [
+      {
+        "term": {
+          "nowAfter": "1627916400000",
+          "nowBefore": "1628003400000"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-birthday_emb-ngs-22-0803",
+    "settings": [
+      {
+        "term": {
+          "nowAfter": "1659452400000",
+          "nowBefore": "1659539400000"
+        }
+      }
+    ]
+  },
+  {
     "id": "cd-birthday_emb-rei-0308",
     "settings": [
       {
@@ -3258,6 +3569,28 @@
         "term": {
           "nowAfter": "1899126000000",
           "nowBefore": "1899213000000"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-birthday_emb-rei-22-0308",
+    "settings": [
+      {
+        "term": {
+          "nowAfter": "1646665200000",
+          "nowBefore": "1646752200000"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-birthday_emb-rei-23-0308",
+    "settings": [
+      {
+        "term": {
+          "nowAfter": "1678201200000",
+          "nowBefore": "1678288200000"
         }
       }
     ]
@@ -3328,6 +3661,28 @@
     ]
   },
   {
+    "id": "cd-birthday_emb-rio-21-0828",
+    "settings": [
+      {
+        "term": {
+          "nowAfter": "1630076400000",
+          "nowBefore": "1630163400000"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-birthday_emb-rio-22-0828",
+    "settings": [
+      {
+        "term": {
+          "nowAfter": "1661612400000",
+          "nowBefore": "1661699400000"
+        }
+      }
+    ]
+  },
+  {
     "id": "cd-birthday_emb-rui-1111",
     "settings": [
       {
@@ -3388,6 +3743,28 @@
         "term": {
           "nowAfter": "1920553200000",
           "nowBefore": "1920640200000"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-birthday_emb-rui-21-1111",
+    "settings": [
+      {
+        "term": {
+          "nowAfter": "1636556400000",
+          "nowBefore": "1636643400000"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-birthday_emb-rui-22-1111",
+    "settings": [
+      {
+        "term": {
+          "nowAfter": "1668092400000",
+          "nowBefore": "1668179400000"
         }
       }
     ]
@@ -3458,6 +3835,28 @@
     ]
   },
   {
+    "id": "cd-birthday_emb-ski-21-0926",
+    "settings": [
+      {
+        "term": {
+          "nowAfter": "1632582000000",
+          "nowBefore": "1632669000000"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-birthday_emb-ski-22-0926",
+    "settings": [
+      {
+        "term": {
+          "nowAfter": "1664118000000",
+          "nowBefore": "1664205000000"
+        }
+      }
+    ]
+  },
+  {
     "id": "cd-birthday_emb-skr-0403",
     "settings": [
       {
@@ -3518,6 +3917,28 @@
         "term": {
           "nowAfter": "1901372400000",
           "nowBefore": "1901459400000"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-birthday_emb-skr-22-0403",
+    "settings": [
+      {
+        "term": {
+          "nowAfter": "1648911600000",
+          "nowBefore": "1648998600000"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-birthday_emb-skr-23-0403",
+    "settings": [
+      {
+        "term": {
+          "nowAfter": "1680447600000",
+          "nowBefore": "1680534600000"
         }
       }
     ]
@@ -3588,6 +4009,28 @@
     ]
   },
   {
+    "id": "cd-birthday_emb-smr-22-0505",
+    "settings": [
+      {
+        "term": {
+          "nowAfter": "1651676400000",
+          "nowBefore": "1651763400000"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-birthday_emb-smr-23-0505",
+    "settings": [
+      {
+        "term": {
+          "nowAfter": "1683212400000",
+          "nowBefore": "1683299400000"
+        }
+      }
+    ]
+  },
+  {
     "id": "cd-birthday_emb-suz-0913",
     "settings": [
       {
@@ -3648,6 +4091,28 @@
         "term": {
           "nowAfter": "1915455600000",
           "nowBefore": "1915542600000"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-birthday_emb-suz-21-0913",
+    "settings": [
+      {
+        "term": {
+          "nowAfter": "1631458800000",
+          "nowBefore": "1631545800000"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-birthday_emb-suz-22-0913",
+    "settings": [
+      {
+        "term": {
+          "nowAfter": "1662994800000",
+          "nowBefore": "1663081800000"
         }
       }
     ]
@@ -3718,6 +4183,28 @@
     ]
   },
   {
+    "id": "cd-birthday_emb-szk-21-1015",
+    "settings": [
+      {
+        "term": {
+          "nowAfter": "1634223600000",
+          "nowBefore": "1634310600000"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-birthday_emb-szk-22-1015",
+    "settings": [
+      {
+        "term": {
+          "nowAfter": "1665759600000",
+          "nowBefore": "1665846600000"
+        }
+      }
+    ]
+  },
+  {
     "id": "cd-birthday_emb-yu-0227",
     "settings": [
       {
@@ -3778,6 +4265,28 @@
         "term": {
           "nowAfter": "1898348400000",
           "nowBefore": "1898435400000"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-birthday_emb-yu-22-0227",
+    "settings": [
+      {
+        "term": {
+          "nowAfter": "1645887600000",
+          "nowBefore": "1645974600000"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-birthday_emb-yu-23-0227",
+    "settings": [
+      {
+        "term": {
+          "nowAfter": "1677423600000",
+          "nowBefore": "1677510600000"
         }
       }
     ]
@@ -3848,6 +4357,28 @@
     ]
   },
   {
+    "id": "cd-birthday_hrk-22-0103",
+    "settings": [
+      {
+        "term": {
+          "nowAfter": "1641135600000",
+          "nowBefore": "1641221999000"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-birthday_hrk-23-0103",
+    "settings": [
+      {
+        "term": {
+          "nowAfter": "1672671600000",
+          "nowBefore": "1672757999000"
+        }
+      }
+    ]
+  },
+  {
     "id": "cd-birthday_kkr-1206",
     "settings": [
       {
@@ -3908,6 +4439,28 @@
         "term": {
           "nowAfter": "1922713200000",
           "nowBefore": "1922799599000"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-birthday_kkr-21-1206",
+    "settings": [
+      {
+        "term": {
+          "nowAfter": "1638716400000",
+          "nowBefore": "1638802799000"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-birthday_kkr-22-1206",
+    "settings": [
+      {
+        "term": {
+          "nowAfter": "1670252400000",
+          "nowBefore": "1670338799000"
         }
       }
     ]
@@ -3978,6 +4531,28 @@
     ]
   },
   {
+    "id": "cd-birthday_ktn-21-1225",
+    "settings": [
+      {
+        "term": {
+          "nowAfter": "1640358000000",
+          "nowBefore": "1640444399000"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-birthday_ktn-22-1225",
+    "settings": [
+      {
+        "term": {
+          "nowAfter": "1671894000000",
+          "nowBefore": "1671980399000"
+        }
+      }
+    ]
+  },
+  {
     "id": "cd-birthday_mei-0707",
     "settings": [
       {
@@ -4038,6 +4613,28 @@
         "term": {
           "nowAfter": "1909580400000",
           "nowBefore": "1909666799000"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-birthday_mei-21-0707",
+    "settings": [
+      {
+        "term": {
+          "nowAfter": "1625583600000",
+          "nowBefore": "1625669999000"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-birthday_mei-22-0707",
+    "settings": [
+      {
+        "term": {
+          "nowAfter": "1657119600000",
+          "nowBefore": "1657205999000"
         }
       }
     ]
@@ -4173,6 +4770,28 @@
     ]
   },
   {
+    "id": "cd-birthday_ngs-21-0803",
+    "settings": [
+      {
+        "term": {
+          "nowAfter": "1627916400000",
+          "nowBefore": "1628002799000"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-birthday_ngs-22-0803",
+    "settings": [
+      {
+        "term": {
+          "nowAfter": "1659452400000",
+          "nowBefore": "1659538799000"
+        }
+      }
+    ]
+  },
+  {
     "id": "cd-birthday_rei-0308",
     "settings": [
       {
@@ -4233,6 +4852,28 @@
         "term": {
           "nowAfter": "1899126000000",
           "nowBefore": "1899212399000"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-birthday_rei-22-0308",
+    "settings": [
+      {
+        "term": {
+          "nowAfter": "1646665200000",
+          "nowBefore": "1646751599000"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-birthday_rei-23-0308",
+    "settings": [
+      {
+        "term": {
+          "nowAfter": "1678201200000",
+          "nowBefore": "1678287599000"
         }
       }
     ]
@@ -4303,6 +4944,28 @@
     ]
   },
   {
+    "id": "cd-birthday_rio-21-0828",
+    "settings": [
+      {
+        "term": {
+          "nowAfter": "1630076400000",
+          "nowBefore": "1630162799000"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-birthday_rio-22-0828",
+    "settings": [
+      {
+        "term": {
+          "nowAfter": "1661612400000",
+          "nowBefore": "1661698799000"
+        }
+      }
+    ]
+  },
+  {
     "id": "cd-birthday_rui-1111",
     "settings": [
       {
@@ -4363,6 +5026,28 @@
         "term": {
           "nowAfter": "1920553200000",
           "nowBefore": "1920639599000"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-birthday_rui-21-1111",
+    "settings": [
+      {
+        "term": {
+          "nowAfter": "1636556400000",
+          "nowBefore": "1636642799000"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-birthday_rui-22-1111",
+    "settings": [
+      {
+        "term": {
+          "nowAfter": "1668092400000",
+          "nowBefore": "1668178799000"
         }
       }
     ]
@@ -4433,6 +5118,28 @@
     ]
   },
   {
+    "id": "cd-birthday_ski-21-0926",
+    "settings": [
+      {
+        "term": {
+          "nowAfter": "1632582000000",
+          "nowBefore": "1632668399000"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-birthday_ski-22-0926",
+    "settings": [
+      {
+        "term": {
+          "nowAfter": "1664118000000",
+          "nowBefore": "1664204399000"
+        }
+      }
+    ]
+  },
+  {
     "id": "cd-birthday_skr-0403",
     "settings": [
       {
@@ -4493,6 +5200,28 @@
         "term": {
           "nowAfter": "1901372400000",
           "nowBefore": "1901458799000"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-birthday_skr-22-0403",
+    "settings": [
+      {
+        "term": {
+          "nowAfter": "1648911600000",
+          "nowBefore": "1648997999000"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-birthday_skr-23-0403",
+    "settings": [
+      {
+        "term": {
+          "nowAfter": "1680447600000",
+          "nowBefore": "1680533999000"
         }
       }
     ]
@@ -4563,6 +5292,28 @@
     ]
   },
   {
+    "id": "cd-birthday_smr-22-0505",
+    "settings": [
+      {
+        "term": {
+          "nowAfter": "1651676400000",
+          "nowBefore": "1651762799000"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-birthday_smr-23-0505",
+    "settings": [
+      {
+        "term": {
+          "nowAfter": "1683212400000",
+          "nowBefore": "1683298799000"
+        }
+      }
+    ]
+  },
+  {
     "id": "cd-birthday_suz-0913",
     "settings": [
       {
@@ -4623,6 +5374,28 @@
         "term": {
           "nowAfter": "1915455600000",
           "nowBefore": "1915541999000"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-birthday_suz-21-0913",
+    "settings": [
+      {
+        "term": {
+          "nowAfter": "1631458800000",
+          "nowBefore": "1631545199000"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-birthday_suz-22-0913",
+    "settings": [
+      {
+        "term": {
+          "nowAfter": "1662994800000",
+          "nowBefore": "1663081199000"
         }
       }
     ]
@@ -4693,6 +5466,28 @@
     ]
   },
   {
+    "id": "cd-birthday_szk-21-1015",
+    "settings": [
+      {
+        "term": {
+          "nowAfter": "1634223600000",
+          "nowBefore": "1634309999000"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-birthday_szk-22-1015",
+    "settings": [
+      {
+        "term": {
+          "nowAfter": "1665759600000",
+          "nowBefore": "1665845999000"
+        }
+      }
+    ]
+  },
+  {
     "id": "cd-birthday_yu-0227",
     "settings": [
       {
@@ -4753,6 +5548,28 @@
         "term": {
           "nowAfter": "1898348400000",
           "nowBefore": "1898434799000"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-birthday_yu-22-0227",
+    "settings": [
+      {
+        "term": {
+          "nowAfter": "1645887600000",
+          "nowBefore": "1645973999000"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-birthday_yu-23-0227",
+    "settings": [
+      {
+        "term": {
+          "nowAfter": "1677423600000",
+          "nowBefore": "1677509999000"
         }
       }
     ]
@@ -28002,11 +28819,31 @@
     ]
   },
   {
+    "id": "cd-ms-read-message-card-ngs-05-mizg-02",
+    "settings": [
+      {
+        "finishedMessage": {
+          "messageId": "message-card-ngs-05-mizg-02"
+        }
+      }
+    ]
+  },
+  {
     "id": "cd-ms-read-message-card-rei-05-idol-00",
     "settings": [
       {
         "finishedMessage": {
           "messageId": "message-card-rei-05-idol-00"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-ms-read-message-card-rei-05-mizg-02",
+    "settings": [
+      {
+        "finishedMessage": {
+          "messageId": "message-card-rei-05-mizg-02"
         }
       }
     ]
@@ -39290,6 +40127,53 @@
     ]
   },
   {
+    "id": "cd-shop_special-shop-22-0703",
+    "settings": [
+      {
+        "term": {
+          "nowAfter": "1656817200000",
+          "nowBefore": "0"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-shop_special-shop-22-0703-0731",
+    "settings": [
+      {
+        "term": {
+          "nowAfter": "1656817200000",
+          "nowBefore": "1659236399000"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-shop_special-shop-22-0703-0731-mlv-120",
+    "settings": [
+      {
+        "satisfyCondition": {
+          "conditionId": "cd-manager_level_gte-120"
+        },
+        "term": {
+          "nowAfter": "1656817200000",
+          "nowBefore": "1659236399000"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-shop_special-shop-22-0703-dokan",
+    "settings": [
+      {
+        "term": {
+          "nowAfter": "1656817200000",
+          "nowBefore": "1659236399000"
+        }
+      }
+    ]
+  },
+  {
     "id": "cd-shop_special-shop-banner-21-1125",
     "settings": [
       {
@@ -41489,11 +42373,31 @@
     ]
   },
   {
+    "id": "cd-st-read-st-card-ngs-05-mizg-02-03",
+    "settings": [
+      {
+        "readStory": {
+          "storyId": "st-card-ngs-05-mizg-02-03"
+        }
+      }
+    ]
+  },
+  {
     "id": "cd-st-read-st-card-rei-05-idol-00-03",
     "settings": [
       {
         "readStory": {
           "storyId": "st-card-rei-05-idol-00-03"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-st-read-st-card-rei-05-mizg-02-03",
+    "settings": [
+      {
+        "readStory": {
+          "storyId": "st-card-rei-05-mizg-02-03"
         }
       }
     ]
@@ -42199,6 +43103,17 @@
         "term": {
           "nowAfter": "1654484400000",
           "nowBefore": "1656125999000"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-time-dokan-lm-set-bloom-22-0703",
+    "settings": [
+      {
+        "term": {
+          "nowAfter": "1656817200000",
+          "nowBefore": "1658285999000"
         }
       }
     ]
@@ -44821,6 +45736,17 @@
     ]
   },
   {
+    "id": "cd-time-gacha-lm-set-bloom-22-0703",
+    "settings": [
+      {
+        "term": {
+          "nowAfter": "1656817200000",
+          "nowBefore": "1658285999000"
+        }
+      }
+    ]
+  },
+  {
     "id": "cd-time-gacha-normal-21-0624-01",
     "settings": [
       {
@@ -45239,6 +46165,17 @@
     ]
   },
   {
+    "id": "cd-time-gacha-normal-22-0703",
+    "settings": [
+      {
+        "term": {
+          "nowAfter": "1656817200000",
+          "nowBefore": "1658286000000"
+        }
+      }
+    ]
+  },
+  {
     "id": "cd-time-gacha-pick-set-bloom-21-1112",
     "settings": [
       {
@@ -45565,6 +46502,17 @@
     ]
   },
   {
+    "id": "cd-time-gacha-premium-22-0624-dokan",
+    "settings": [
+      {
+        "term": {
+          "nowAfter": "1656039600000",
+          "nowBefore": "1656817199000"
+        }
+      }
+    ]
+  },
+  {
     "id": "cd-time-gacha-rev-limited-21-1225",
     "settings": [
       {
@@ -45758,6 +46706,17 @@
         "term": {
           "nowAfter": "1653620400000",
           "nowBefore": "1653965999000"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-time-gacha-select-01-22-0701",
+    "settings": [
+      {
+        "term": {
+          "nowAfter": "1656644400000",
+          "nowBefore": "1656903599000"
         }
       }
     ]
@@ -48587,6 +49546,20 @@
     ]
   },
   {
+    "id": "cd-time-pvp-22-0702-0704_s-banner",
+    "settings": [
+      {
+        "satisfyCondition": {
+          "conditionId": "cd-clear-area-main-011"
+        },
+        "term": {
+          "nowAfter": "1656687600000",
+          "nowBefore": "1656946799000"
+        }
+      }
+    ]
+  },
+  {
     "id": "cd-time-questionnaire-21-0702-0709_s-banner",
     "settings": [
       {
@@ -48637,6 +49610,17 @@
         "term": {
           "nowAfter": "1649041200000",
           "nowBefore": "1649689199000"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-time-questionnaire-22-0701-0708_s-banner",
+    "settings": [
+      {
+        "term": {
+          "nowAfter": "1656903600000",
+          "nowBefore": "1657551599000"
         }
       }
     ]
@@ -49196,11 +50180,31 @@
     ]
   },
   {
+    "id": "cd-wear-costume-cos-ngs-mizg-02",
+    "settings": [
+      {
+        "wearCostume": {
+          "costumeId": "cos-ngs-mizg-02"
+        }
+      }
+    ]
+  },
+  {
     "id": "cd-wear-costume-cos-rei-idol-00",
     "settings": [
       {
         "wearCostume": {
           "costumeId": "cos-rei-idol-00"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-wear-costume-cos-rei-mizg-02",
+    "settings": [
+      {
+        "wearCostume": {
+          "costumeId": "cos-rei-mizg-02"
         }
       }
     ]
