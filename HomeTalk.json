@@ -1650,6 +1650,56 @@
     ]
   },
   {
+    "homeTalkId": "home-talk-card-ngs-05-mizg-02-talk-01",
+    "characterId": "char-ngs",
+    "placeType": 1,
+    "conditionId": "cd-st-read-st-card-ngs-05-mizg-02-03",
+    "firstPriority": 9900,
+    "weight": 1,
+    "callPatternId": "call-pattern-card-ngs-05-mizg-02",
+    "choiceText": "もちろん。大切な話なのか？",
+    "managerText": "もちろん。大切な話なのか？",
+    "reliability": 5,
+    "characterTalks": [
+      {
+        "text": "はい…\nとても機密性の高い相談です。",
+        "voiceAssetId": "sud_vo_home_ngs-05-mizg-02_talk-01-01",
+        "motionAssetId": "mot_adv_chr_cmn_talk-015_in",
+        "additionMotionAssetId": "mot_all_chr_cmn_facial-032_in"
+      },
+      {
+        "text": "実は、夏フェスでダイエットを\n頑張ってから今は…",
+        "voiceAssetId": "sud_vo_home_ngs-05-mizg-02_talk-01-02",
+        "motionAssetId": "mot_adv_chr_cmn_talk-016_in",
+        "additionMotionAssetId": "mot_all_chr_cmn_facial-032_in"
+      },
+      {
+        "text": "…リバウンドに怯えてるんです。",
+        "voiceAssetId": "sud_vo_home_ngs-05-mizg-02_talk-01-03",
+        "motionAssetId": "mot_adv_chr_cmn_sad-006_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "ちょっとそんな顔しないで下さい！\nとっても大事なことですよ！",
+        "voiceAssetId": "sud_vo_home_ngs-05-mizg-02_talk-01-04",
+        "motionAssetId": "mot_adv_chr_cmn_angry-016_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "あんなに苦労して手に入れた\nアイドルボディを\n手放せませんから…！",
+        "voiceAssetId": "sud_vo_home_ngs-05-mizg-02_talk-01-05",
+        "motionAssetId": "mot_adv_chr_cmn_angry-015_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "なので次は、\n体型維持に協力して下さい！",
+        "voiceAssetId": "sud_vo_home_ngs-05-mizg-02_talk-01-06",
+        "motionAssetId": "mot_adv_chr_cmn_empa-001_in",
+        "additionMotionAssetId": ""
+      }
+    ]
+  },
+  {
     "homeTalkId": "home-talk-card-rei-05-idol-00-talk-01",
     "characterId": "char-rei",
     "placeType": 1,
@@ -1689,6 +1739,56 @@
         "text": "もっともっとレッスンして、アイ\nドルとしてさらに誇れるようになっ\nたら、会いに行こうと思いました。",
         "voiceAssetId": "sud_vo_home_rei-05-idol-00_talk-01-5",
         "motionAssetId": "mot_adv_chr_cmn_glad-006_in",
+        "additionMotionAssetId": ""
+      }
+    ]
+  },
+  {
+    "homeTalkId": "home-talk-card-rei-05-mizg-02-talk-01",
+    "characterId": "char-rei",
+    "placeType": 1,
+    "conditionId": "cd-st-read-st-card-rei-05-mizg-02-03",
+    "firstPriority": 9900,
+    "weight": 1,
+    "callPatternId": "call-pattern-card-rei-05-mizg-02",
+    "choiceText": "それは良かった。\nでもなぜだ？",
+    "managerText": "それは良かった。\nでもなぜだ？",
+    "reliability": 5,
+    "characterTalks": [
+      {
+        "text": "忘れたとは言わせませんよ",
+        "voiceAssetId": "sud_vo_home_rei-05-mizg-02_talk-01-01",
+        "motionAssetId": "mot_adv_chr_cmn_talk-001_in",
+        "additionMotionAssetId": "mot_all_chr_cmn_facial-061_in"
+      },
+      {
+        "text": "大観衆の前で障害物競走を\nやったじゃないですか！\nしかも水着で！",
+        "voiceAssetId": "sud_vo_home_rei-05-mizg-02_talk-01-02",
+        "motionAssetId": "mot_adv_chr_cmn_angry-017_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "あんな経験をすれば、\nもう怖いものなんてありませんよ。",
+        "voiceAssetId": "sud_vo_home_rei-05-mizg-02_talk-01-03",
+        "motionAssetId": "mot_adv_chr_cmn_pos-002_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "バラエティのお仕事でもなんでも\nやりますよ！\n落とし穴くらい落ちますよ！",
+        "voiceAssetId": "sud_vo_home_rei-05-mizg-02_talk-01-04",
+        "motionAssetId": "mot_adv_chr_cmn_pos-014_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "あ…えーっと、やっぱり…",
+        "voiceAssetId": "sud_vo_home_rei-05-mizg-02_talk-01-05",
+        "motionAssetId": "mot_adv_chr_cmn_moji-004_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "ダンスを活かしたお仕事の方がいい\nですよね？　敢えてそっちにいかな\nくてもいい気がしてきました…",
+        "voiceAssetId": "sud_vo_home_rei-05-mizg-02_talk-01-06",
+        "motionAssetId": "mot_adv_chr_cmn_emb-011_in",
         "additionMotionAssetId": ""
       }
     ]

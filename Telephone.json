@@ -280,12 +280,28 @@
     "unlockConditionId": "cd-ms-read-message-card-ngs-05-mizg-01"
   },
   {
+    "id": "tel-card-ngs-05-mizg-02",
+    "messageGroupId": "message_group_ngs",
+    "characterId": "char-ngs",
+    "name": "「夏空シェイプアップ」",
+    "assetId": "tel-card-ngs-05-mizg-02",
+    "unlockConditionId": "cd-ms-read-message-card-ngs-05-mizg-02"
+  },
+  {
     "id": "tel-card-rei-05-idol-00",
     "messageGroupId": "message_group_rei",
     "characterId": "char-rei",
     "name": "「高台をかける薫風」",
     "assetId": "tel-card-rei-05-idol-00",
     "unlockConditionId": "cd-ms-read-message-card-rei-05-idol-00"
+  },
+  {
+    "id": "tel-card-rei-05-mizg-02",
+    "messageGroupId": "message_group_rei",
+    "characterId": "char-rei",
+    "name": "「大胆なのは夏のせい」",
+    "assetId": "tel-card-rei-05-mizg-02",
+    "unlockConditionId": "cd-ms-read-message-card-rei-05-mizg-02"
   },
   {
     "id": "tel-card-rei-05-newy-00",
@@ -613,7 +629,15 @@
     "characterId": "char-mei",
     "name": "今日はなんの日でしょー？",
     "assetId": "tel-hbd-mei-21-0707",
-    "unlockConditionId": "cd-birthday_mei-0707"
+    "unlockConditionId": ""
+  },
+  {
+    "id": "tel-hbd-mei-22-0707",
+    "messageGroupId": "message_group_mei",
+    "characterId": "char-mei",
+    "name": "ドーナツパクパク",
+    "assetId": "tel-hbd-mei-22-0707",
+    "unlockConditionId": ""
   },
   {
     "id": "tel-hbd-ngs-21-0803",

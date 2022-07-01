@@ -874,6 +874,50 @@
     "shootingTime": "0"
   },
   {
+    "id": "phot-shop-5-10",
+    "assetId": "phot-shop-5-0010",
+    "name": "伊吹渚",
+    "rarity": 5,
+    "placeName": "夏の思い出",
+    "eventName": "メモリアルフォト",
+    "level": 35,
+    "abilities": [
+      {
+        "photoAbilityId": "pab-vocal_multiply_distribution-5",
+        "effectValue": 200,
+        "grade": 1,
+        "missionId": ""
+      },
+      {
+        "photoAbilityId": "pab-dance_multiply_distribution-5",
+        "effectValue": 200,
+        "grade": 1,
+        "missionId": ""
+      },
+      {
+        "photoAbilityId": "pab-visual_multiply_distribution-5",
+        "effectValue": 200,
+        "grade": 1,
+        "missionId": ""
+      },
+      {
+        "photoAbilityId": "pab-stamina_multiply_distribution-5",
+        "effectValue": 40,
+        "grade": 1,
+        "missionId": ""
+      },
+      {
+        "photoAbilityId": "pab-passive-skill_sk-phot-shop-5-02",
+        "effectValue": 1,
+        "grade": 1,
+        "missionId": ""
+      }
+    ],
+    "focusCharacterId": "char-ngs",
+    "characterIds": [],
+    "shootingTime": "0"
+  },
+  {
     "id": "phot-shop-5-2",
     "assetId": "phot-pack-5-0002",
     "name": "長瀬麻奈",

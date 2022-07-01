@@ -3126,6 +3126,66 @@
     "activityAbilityId": ""
   },
   {
+    "id": "card-ngs-05-mizg-02",
+    "assetId": "ngs-05-mizg-02",
+    "name": "夏空シェイプアップ",
+    "description": "……今更ですけど、この衣装、結構攻めてますよね？\r\n着るの、凄く恥ずかしかったんですけど\r\nせっかくの夏フェスですから、頑張っちゃいました！",
+    "type": 1,
+    "characterId": "char-ngs",
+    "initialRarity": 5,
+    "cardParameterId": "card-param-01",
+    "vocalRatioPermil": 306,
+    "danceRatioPermil": 270,
+    "visualRatioPermil": 424,
+    "staminaRatioPermil": 1000,
+    "cardLevelReleaseId": "card_level_release_1",
+    "skillId1": "sk-ngs-05-mizg-02-1",
+    "skillId2": "sk-ngs-05-mizg-02-2",
+    "skillId3": "sk-ngs-05-mizg-02-3",
+    "activityAbilityId": "aab-refresh_stamina_up",
+    "order": 223,
+    "releaseDate": "1656817200000",
+    "rewardCostumeId": "cos-ngs-mizg-02",
+    "imageType1": 3,
+    "displayPositionX1": -0.127,
+    "displayPositionY1": 0.083,
+    "displayScale1": 1.2,
+    "highlightDisplayPositionX1": 0.75,
+    "highlightDisplayPositionY1": 0.197,
+    "highlightDisplayScale1": 0.9,
+    "imageType2": 3,
+    "displayPositionX2": -0.127,
+    "displayPositionY2": 0.083,
+    "displayScale2": 1.2,
+    "highlightDisplayPositionX2": 0.75,
+    "highlightDisplayPositionY2": 0.197,
+    "highlightDisplayScale2": 0.9,
+    "obtainMessage": "この衣装、結構攻めてますよね？",
+    "stories": [
+      {
+        "storyId": "st-card-ngs-05-mizg-02-01"
+      },
+      {
+        "storyId": "st-card-ngs-05-mizg-02-02"
+      },
+      {
+        "storyId": "st-card-ngs-05-mizg-02-03"
+      }
+    ],
+    "messages": [
+      {
+        "messageId": "message-card-ngs-05-mizg-02",
+        "telephoneId": ""
+      },
+      {
+        "telephoneId": "tel-card-ngs-05-mizg-02",
+        "messageId": ""
+      }
+    ],
+    "liveAbilityId": "",
+    "homeTalks": []
+  },
+  {
     "id": "card-rei-02-eve-01",
     "assetId": "rei-02-eve-01",
     "name": "ココロ Distance",
@@ -3311,6 +3371,66 @@
       }
     ],
     "activityAbilityId": ""
+  },
+  {
+    "id": "card-rei-05-mizg-02",
+    "assetId": "rei-05-mizg-02",
+    "name": "大胆なのは夏のせい",
+    "description": "ふふ……夏の海って楽しいわね\r\n水着で海に飛び込みたくなる気持ちが分かるわ\r\nマネージャー、冷たくて気持ちいいですよ！\r\nこっちに来て私達と水遊びしませんか？",
+    "type": 2,
+    "characterId": "char-rei",
+    "initialRarity": 5,
+    "cardParameterId": "card-param-01",
+    "vocalRatioPermil": 399,
+    "danceRatioPermil": 319,
+    "visualRatioPermil": 282,
+    "staminaRatioPermil": 1000,
+    "cardLevelReleaseId": "card_level_release_1",
+    "skillId1": "sk-rei-05-mizg-02-1",
+    "skillId2": "sk-rei-05-mizg-02-2",
+    "skillId3": "sk-rei-05-mizg-02-3",
+    "liveAbilityId": "lba-vocal_multiply",
+    "order": 224,
+    "releaseDate": "1656817200000",
+    "rewardCostumeId": "cos-rei-mizg-02",
+    "imageType1": 3,
+    "displayPositionX1": 0.233,
+    "displayScale1": 1.0,
+    "highlightDisplayPositionX1": -0.59,
+    "highlightDisplayPositionY1": 0.229,
+    "highlightDisplayScale1": 1.0,
+    "imageType2": 3,
+    "displayPositionX2": 0.233,
+    "displayScale2": 1.0,
+    "highlightDisplayPositionX2": -0.59,
+    "highlightDisplayPositionY2": 0.229,
+    "highlightDisplayScale2": 1.0,
+    "obtainMessage": "こっちに来て私達と水遊びしませんか？",
+    "stories": [
+      {
+        "storyId": "st-card-rei-05-mizg-02-01"
+      },
+      {
+        "storyId": "st-card-rei-05-mizg-02-02"
+      },
+      {
+        "storyId": "st-card-rei-05-mizg-02-03"
+      }
+    ],
+    "messages": [
+      {
+        "messageId": "message-card-rei-05-mizg-02",
+        "telephoneId": ""
+      },
+      {
+        "telephoneId": "tel-card-rei-05-mizg-02",
+        "messageId": ""
+      }
+    ],
+    "activityAbilityId": "",
+    "displayPositionY1": 0.0,
+    "displayPositionY2": 0.0,
+    "homeTalks": []
   },
   {
     "id": "card-rei-05-newy-00",

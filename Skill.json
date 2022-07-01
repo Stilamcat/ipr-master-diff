@@ -41422,6 +41422,444 @@
     "assetId": ""
   },
   {
+    "id": "sk-ngs-05-mizg-02-1",
+    "name": "ダイエットしてよかったです！",
+    "categoryType": 1,
+    "levels": [
+      {
+        "level": 1,
+        "description": "930%のスコア獲得、残スタミナが多い程効果上昇\nスタミナ337消費 ",
+        "shortDescription": "\nスタミナ337消費 ",
+        "stamina": 337,
+        "probabilityPermil": 1000,
+        "skillDetails": [
+          {
+            "efficacyId": "ef-score_get_by_more_stamina-9300-chart_dependence",
+            "triggerId": ""
+          }
+        ],
+        "requiredItemAmount": 0,
+        "requiredCardLevel": 0,
+        "triggerId": "",
+        "limitCount": 0,
+        "coolTime": 0,
+        "staminaPermil": 0
+      },
+      {
+        "level": 2,
+        "description": "1010%のスコア獲得、残スタミナが多い程効果上昇\nスタミナ366消費 ",
+        "shortDescription": "\nスタミナ366消費 ",
+        "requiredItemAmount": 500,
+        "requiredCardLevel": 40,
+        "stamina": 366,
+        "probabilityPermil": 1000,
+        "skillDetails": [
+          {
+            "efficacyId": "ef-score_get_by_more_stamina-10100-chart_dependence",
+            "triggerId": ""
+          }
+        ],
+        "triggerId": "",
+        "limitCount": 0,
+        "coolTime": 0,
+        "staminaPermil": 0
+      },
+      {
+        "level": 3,
+        "description": "1090%のスコア獲得、残スタミナが多い程効果上昇\nスタミナ395消費 ",
+        "shortDescription": "\nスタミナ395消費 ",
+        "requiredItemAmount": 2000,
+        "requiredCardLevel": 60,
+        "stamina": 395,
+        "probabilityPermil": 1000,
+        "skillDetails": [
+          {
+            "efficacyId": "ef-score_get_by_more_stamina-10900-chart_dependence",
+            "triggerId": ""
+          }
+        ],
+        "triggerId": "",
+        "limitCount": 0,
+        "coolTime": 0,
+        "staminaPermil": 0
+      },
+      {
+        "level": 4,
+        "description": "1240%のスコア獲得、残スタミナが多い程効果上昇\nスタミナ449消費 ",
+        "shortDescription": "\nスタミナ449消費 ",
+        "requiredItemAmount": 15000,
+        "requiredCardLevel": 90,
+        "stamina": 449,
+        "probabilityPermil": 1000,
+        "skillDetails": [
+          {
+            "efficacyId": "ef-score_get_by_more_stamina-12400-chart_dependence",
+            "triggerId": ""
+          }
+        ],
+        "triggerId": "",
+        "limitCount": 0,
+        "coolTime": 0,
+        "staminaPermil": 0
+      },
+      {
+        "level": 5,
+        "description": "1390%のスコア獲得、残スタミナが多い程効果上昇\nスタミナ503消費 ",
+        "shortDescription": "\nスタミナ503消費 ",
+        "requiredItemAmount": 100000,
+        "requiredCardLevel": 150,
+        "stamina": 503,
+        "probabilityPermil": 1000,
+        "skillDetails": [
+          {
+            "efficacyId": "ef-score_get_by_more_stamina-13900-chart_dependence",
+            "triggerId": ""
+          }
+        ],
+        "triggerId": "",
+        "limitCount": 0,
+        "coolTime": 0,
+        "staminaPermil": 0
+      },
+      {
+        "level": 6,
+        "description": "1550%のスコア獲得、残スタミナが多い程効果上昇\nスタミナ561消費 ",
+        "shortDescription": "\nスタミナ561消費 ",
+        "requiredItemAmount": 230000,
+        "requiredCardLevel": 180,
+        "stamina": 561,
+        "probabilityPermil": 1000,
+        "skillDetails": [
+          {
+            "efficacyId": "ef-score_get_by_more_stamina-15500-chart_dependence",
+            "triggerId": ""
+          }
+        ],
+        "triggerId": "",
+        "limitCount": 0,
+        "coolTime": 0,
+        "staminaPermil": 0
+      }
+    ],
+    "assetId": "sk-ngs-05-mizg-02-1"
+  },
+  {
+    "id": "sk-ngs-05-mizg-02-2",
+    "name": "心と体の準備期間",
+    "categoryType": 2,
+    "levels": [
+      {
+        "level": 1,
+        "description": "360%のスコア獲得、強化効果が多い程効果上昇\n自身に3段階テンションUP効果[38ビート]\nスタミナ115消費 CT:50",
+        "shortDescription": "\n\nスタミナ115消費 CT:50",
+        "stamina": 115,
+        "probabilityPermil": 1000,
+        "coolTime": 50,
+        "skillDetails": [
+          {
+            "efficacyId": "ef-score_get_by_strength_effect_count-3600-chart_dependence",
+            "triggerId": ""
+          },
+          {
+            "efficacyId": "ef-tension_up-3-target-self-38",
+            "triggerId": ""
+          }
+        ],
+        "requiredItemAmount": 0,
+        "requiredCardLevel": 0,
+        "triggerId": "",
+        "limitCount": 0,
+        "staminaPermil": 0
+      },
+      {
+        "level": 2,
+        "description": "380%のスコア獲得、強化効果が多い程効果上昇\n自身に3段階テンションUP効果[41ビート]\nスタミナ122消費 CT:50",
+        "shortDescription": "\n\nスタミナ122消費 CT:50",
+        "requiredItemAmount": 1000,
+        "requiredCardLevel": 50,
+        "stamina": 122,
+        "probabilityPermil": 1000,
+        "coolTime": 50,
+        "skillDetails": [
+          {
+            "efficacyId": "ef-score_get_by_strength_effect_count-3800-chart_dependence",
+            "triggerId": ""
+          },
+          {
+            "efficacyId": "ef-tension_up-3-target-self-41",
+            "triggerId": ""
+          }
+        ],
+        "triggerId": "",
+        "limitCount": 0,
+        "staminaPermil": 0
+      },
+      {
+        "level": 3,
+        "description": "400%のスコア獲得、強化効果が多い程効果上昇\n自身に4段階テンションUP効果[41ビート]\nスタミナ128消費 CT:50",
+        "shortDescription": "\n\nスタミナ128消費 CT:50",
+        "requiredItemAmount": 4000,
+        "requiredCardLevel": 70,
+        "stamina": 128,
+        "probabilityPermil": 1000,
+        "coolTime": 50,
+        "skillDetails": [
+          {
+            "efficacyId": "ef-score_get_by_strength_effect_count-4000-chart_dependence",
+            "triggerId": ""
+          },
+          {
+            "efficacyId": "ef-tension_up-4-target-self-41",
+            "triggerId": ""
+          }
+        ],
+        "triggerId": "",
+        "limitCount": 0,
+        "staminaPermil": 0
+      },
+      {
+        "level": 4,
+        "description": "420%のスコア獲得、強化効果が多い程効果上昇\n自身に4段階テンションUP効果[44ビート]\nスタミナ135消費 CT:50",
+        "shortDescription": "\n\nスタミナ135消費 CT:50",
+        "requiredItemAmount": 30000,
+        "requiredCardLevel": 110,
+        "stamina": 135,
+        "probabilityPermil": 1000,
+        "coolTime": 50,
+        "skillDetails": [
+          {
+            "efficacyId": "ef-score_get_by_strength_effect_count-4200-chart_dependence",
+            "triggerId": ""
+          },
+          {
+            "efficacyId": "ef-tension_up-4-target-self-44",
+            "triggerId": ""
+          }
+        ],
+        "triggerId": "",
+        "limitCount": 0,
+        "staminaPermil": 0
+      },
+      {
+        "level": 5,
+        "description": "440%のスコア獲得、強化効果が多い程効果上昇\n自身に5段階テンションUP効果[44ビート]\nスタミナ141消費 CT:50",
+        "shortDescription": "\n\nスタミナ141消費 CT:50",
+        "requiredItemAmount": 140000,
+        "requiredCardLevel": 160,
+        "stamina": 141,
+        "probabilityPermil": 1000,
+        "coolTime": 50,
+        "skillDetails": [
+          {
+            "efficacyId": "ef-score_get_by_strength_effect_count-4400-chart_dependence",
+            "triggerId": ""
+          },
+          {
+            "efficacyId": "ef-tension_up-5-target-self-44",
+            "triggerId": ""
+          }
+        ],
+        "triggerId": "",
+        "limitCount": 0,
+        "staminaPermil": 0
+      },
+      {
+        "level": 6,
+        "description": "470%のスコア獲得、強化効果が多い程効果上昇\n自身に5段階テンションUP効果[47ビート]\nスタミナ151消費 CT:50",
+        "shortDescription": "\n\nスタミナ151消費 CT:50",
+        "requiredItemAmount": 280000,
+        "requiredCardLevel": 200,
+        "stamina": 151,
+        "probabilityPermil": 1000,
+        "coolTime": 50,
+        "skillDetails": [
+          {
+            "efficacyId": "ef-score_get_by_strength_effect_count-4700-chart_dependence",
+            "triggerId": ""
+          },
+          {
+            "efficacyId": "ef-tension_up-5-target-self-47",
+            "triggerId": ""
+          }
+        ],
+        "triggerId": "",
+        "limitCount": 0,
+        "staminaPermil": 0
+      }
+    ],
+    "assetId": ""
+  },
+  {
+    "id": "sk-ngs-05-mizg-02-3",
+    "name": "目指せアイドルボディ",
+    "categoryType": 2,
+    "levels": [
+      {
+        "level": 1,
+        "description": "320%のスコア獲得\n自身に7段階の集目効果[40ビート]\n自身に4段階スタミナ継続回復効果[30ビート]\nスタミナ111消費 CT:50",
+        "shortDescription": "\n\n\nスタミナ111消費 CT:50",
+        "stamina": 111,
+        "probabilityPermil": 1000,
+        "coolTime": 50,
+        "skillDetails": [
+          {
+            "efficacyId": "ef-score_get-3200-chart_dependence",
+            "triggerId": ""
+          },
+          {
+            "efficacyId": "ef-audience_amount_increase-7-target-self-40",
+            "triggerId": ""
+          },
+          {
+            "efficacyId": "ef-stamina_continuous_recovery-4-target-self-30",
+            "triggerId": ""
+          }
+        ],
+        "requiredItemAmount": 0,
+        "requiredCardLevel": 0,
+        "triggerId": "",
+        "limitCount": 0,
+        "staminaPermil": 0
+      },
+      {
+        "level": 2,
+        "description": "330%のスコア獲得\n自身に7段階の集目効果[45ビート]\n自身に4段階スタミナ継続回復効果[35ビート]\nスタミナ117消費 CT:50",
+        "shortDescription": "\n\n\nスタミナ117消費 CT:50",
+        "requiredItemAmount": 15000,
+        "requiredCardLevel": 100,
+        "stamina": 117,
+        "probabilityPermil": 1000,
+        "coolTime": 50,
+        "skillDetails": [
+          {
+            "efficacyId": "ef-score_get-3300-chart_dependence",
+            "triggerId": ""
+          },
+          {
+            "efficacyId": "ef-audience_amount_increase-7-target-self-45",
+            "triggerId": ""
+          },
+          {
+            "efficacyId": "ef-stamina_continuous_recovery-4-target-self-35",
+            "triggerId": ""
+          }
+        ],
+        "triggerId": "",
+        "limitCount": 0,
+        "staminaPermil": 0
+      },
+      {
+        "level": 3,
+        "description": "340%のスコア獲得\n自身に8段階の集目効果[45ビート]\n自身に5段階スタミナ継続回復効果[35ビート]\nスタミナ124消費 CT:50",
+        "shortDescription": "\n\n\nスタミナ124消費 CT:50",
+        "requiredItemAmount": 60000,
+        "requiredCardLevel": 130,
+        "stamina": 124,
+        "probabilityPermil": 1000,
+        "coolTime": 50,
+        "skillDetails": [
+          {
+            "efficacyId": "ef-score_get-3400-chart_dependence",
+            "triggerId": ""
+          },
+          {
+            "efficacyId": "ef-audience_amount_increase-8-target-self-45",
+            "triggerId": ""
+          },
+          {
+            "efficacyId": "ef-stamina_continuous_recovery-5-target-self-35",
+            "triggerId": ""
+          }
+        ],
+        "triggerId": "",
+        "limitCount": 0,
+        "staminaPermil": 0
+      },
+      {
+        "level": 4,
+        "description": "350%のスコア獲得\n自身に8段階の集目効果[50ビート]\n自身に5段階スタミナ継続回復効果[40ビート]\nスタミナ131消費 CT:50",
+        "shortDescription": "\n\n\nスタミナ131消費 CT:50",
+        "requiredItemAmount": 180000,
+        "requiredCardLevel": 170,
+        "stamina": 131,
+        "probabilityPermil": 1000,
+        "coolTime": 50,
+        "skillDetails": [
+          {
+            "efficacyId": "ef-score_get-3500-chart_dependence",
+            "triggerId": ""
+          },
+          {
+            "efficacyId": "ef-audience_amount_increase-8-target-self-50",
+            "triggerId": ""
+          },
+          {
+            "efficacyId": "ef-stamina_continuous_recovery-5-target-self-40",
+            "triggerId": ""
+          }
+        ],
+        "triggerId": "",
+        "limitCount": 0,
+        "staminaPermil": 0
+      },
+      {
+        "level": 5,
+        "description": "360%のスコア獲得\n自身に9段階の集目効果[50ビート]\n自身に6段階スタミナ継続回復効果[40ビート]\nスタミナ139消費 CT:50",
+        "shortDescription": "\n\n\nスタミナ139消費 CT:50",
+        "requiredItemAmount": 230000,
+        "requiredCardLevel": 210,
+        "stamina": 139,
+        "probabilityPermil": 1000,
+        "coolTime": 50,
+        "skillDetails": [
+          {
+            "efficacyId": "ef-score_get-3600-chart_dependence",
+            "triggerId": ""
+          },
+          {
+            "efficacyId": "ef-audience_amount_increase-9-target-self-50",
+            "triggerId": ""
+          },
+          {
+            "efficacyId": "ef-stamina_continuous_recovery-6-target-self-40",
+            "triggerId": ""
+          }
+        ],
+        "triggerId": "",
+        "limitCount": 0,
+        "staminaPermil": 0
+      },
+      {
+        "level": 6,
+        "description": "370%のスコア獲得\n自身に9段階の集目効果[55ビート]\n自身に6段階スタミナ継続回復効果[45ビート]\nスタミナ146消費 CT:50",
+        "shortDescription": "\n\n\nスタミナ146消費 CT:50",
+        "requiredItemAmount": 230000,
+        "requiredCardLevel": 220,
+        "stamina": 146,
+        "probabilityPermil": 1000,
+        "coolTime": 50,
+        "skillDetails": [
+          {
+            "efficacyId": "ef-score_get-3700-chart_dependence",
+            "triggerId": ""
+          },
+          {
+            "efficacyId": "ef-audience_amount_increase-9-target-self-55",
+            "triggerId": ""
+          },
+          {
+            "efficacyId": "ef-stamina_continuous_recovery-6-target-self-45",
+            "triggerId": ""
+          }
+        ],
+        "triggerId": "",
+        "limitCount": 0,
+        "staminaPermil": 0
+      }
+    ],
+    "assetId": ""
+  },
+  {
     "id": "sk-phot-ai-idol-00",
     "name": "AスキルUPスキル",
     "categoryType": 3,
@@ -51940,6 +52378,420 @@
           },
           {
             "efficacyId": "ef-cool_time_reduction-23-target-self",
+            "triggerId": ""
+          }
+        ],
+        "limitCount": 0,
+        "staminaPermil": 0
+      }
+    ],
+    "assetId": ""
+  },
+  {
+    "id": "sk-rei-05-mizg-02-1",
+    "name": "サマーシャイガール",
+    "categoryType": 2,
+    "levels": [
+      {
+        "level": 1,
+        "description": "360%のスコア獲得\nボーカルレーン2人に5段階ボーカル上昇効果[18ビート]\nスタミナ112消費 CT:30",
+        "shortDescription": "\n\nスタミナ112消費 CT:30",
+        "stamina": 112,
+        "probabilityPermil": 1000,
+        "coolTime": 30,
+        "skillDetails": [
+          {
+            "efficacyId": "ef-score_get-3600-chart_dependence",
+            "triggerId": ""
+          },
+          {
+            "efficacyId": "ef-vocal_up-5-target-position_attribute_vocal-2-18",
+            "triggerId": ""
+          }
+        ],
+        "requiredItemAmount": 0,
+        "requiredCardLevel": 0,
+        "triggerId": "",
+        "limitCount": 0,
+        "staminaPermil": 0
+      },
+      {
+        "level": 2,
+        "description": "380%のスコア獲得\nボーカルレーン2人に5段階ボーカル上昇効果[22ビート]\nスタミナ121消費 CT:30",
+        "shortDescription": "\n\nスタミナ121消費 CT:30",
+        "requiredItemAmount": 500,
+        "requiredCardLevel": 40,
+        "stamina": 121,
+        "probabilityPermil": 1000,
+        "coolTime": 30,
+        "skillDetails": [
+          {
+            "efficacyId": "ef-score_get-3800-chart_dependence",
+            "triggerId": ""
+          },
+          {
+            "efficacyId": "ef-vocal_up-5-target-position_attribute_vocal-2-22",
+            "triggerId": ""
+          }
+        ],
+        "triggerId": "",
+        "limitCount": 0,
+        "staminaPermil": 0
+      },
+      {
+        "level": 3,
+        "description": "400%のスコア獲得\nボーカルレーン2人に6段階ボーカル上昇効果[22ビート]\nスタミナ129消費 CT:30",
+        "shortDescription": "\n\nスタミナ129消費 CT:30",
+        "requiredItemAmount": 2000,
+        "requiredCardLevel": 60,
+        "stamina": 129,
+        "probabilityPermil": 1000,
+        "coolTime": 30,
+        "skillDetails": [
+          {
+            "efficacyId": "ef-score_get-4000-chart_dependence",
+            "triggerId": ""
+          },
+          {
+            "efficacyId": "ef-vocal_up-6-target-position_attribute_vocal-2-22",
+            "triggerId": ""
+          }
+        ],
+        "triggerId": "",
+        "limitCount": 0,
+        "staminaPermil": 0
+      },
+      {
+        "level": 4,
+        "description": "420%のスコア獲得\nボーカルレーン2人に6段階ボーカル上昇効果[27ビート]\nスタミナ138消費 CT:30",
+        "shortDescription": "\n\nスタミナ138消費 CT:30",
+        "requiredItemAmount": 15000,
+        "requiredCardLevel": 90,
+        "stamina": 138,
+        "probabilityPermil": 1000,
+        "coolTime": 30,
+        "skillDetails": [
+          {
+            "efficacyId": "ef-score_get-4200-chart_dependence",
+            "triggerId": ""
+          },
+          {
+            "efficacyId": "ef-vocal_up-6-target-position_attribute_vocal-2-27",
+            "triggerId": ""
+          }
+        ],
+        "triggerId": "",
+        "limitCount": 0,
+        "staminaPermil": 0
+      },
+      {
+        "level": 5,
+        "description": "440%のスコア獲得\nボーカルレーン2人に7段階ボーカル上昇効果[27ビート]\nスタミナ147消費 CT:30",
+        "shortDescription": "\n\nスタミナ147消費 CT:30",
+        "requiredItemAmount": 100000,
+        "requiredCardLevel": 150,
+        "stamina": 147,
+        "probabilityPermil": 1000,
+        "coolTime": 30,
+        "skillDetails": [
+          {
+            "efficacyId": "ef-score_get-4400-chart_dependence",
+            "triggerId": ""
+          },
+          {
+            "efficacyId": "ef-vocal_up-7-target-position_attribute_vocal-2-27",
+            "triggerId": ""
+          }
+        ],
+        "triggerId": "",
+        "limitCount": 0,
+        "staminaPermil": 0
+      },
+      {
+        "level": 6,
+        "description": "460%のスコア獲得\nボーカルレーン2人に7段階ボーカル上昇効果[32ビート]\nスタミナ157消費 CT:30",
+        "shortDescription": "\n\nスタミナ157消費 CT:30",
+        "requiredItemAmount": 230000,
+        "requiredCardLevel": 180,
+        "stamina": 157,
+        "probabilityPermil": 1000,
+        "coolTime": 30,
+        "skillDetails": [
+          {
+            "efficacyId": "ef-score_get-4600-chart_dependence",
+            "triggerId": ""
+          },
+          {
+            "efficacyId": "ef-vocal_up-7-target-position_attribute_vocal-2-32",
+            "triggerId": ""
+          }
+        ],
+        "triggerId": "",
+        "limitCount": 0,
+        "staminaPermil": 0
+      }
+    ],
+    "assetId": ""
+  },
+  {
+    "id": "sk-rei-05-mizg-02-2",
+    "name": "気になる人目",
+    "categoryType": 3,
+    "levels": [
+      {
+        "level": 1,
+        "description": "ボーカルが高い1人に4段階クリティカル率上昇効果[41ビート]\nボーカルが高い1人の強化効果を1段階増強\nスタミナ177消費 ライブ中2回のみ CT:50",
+        "shortDescription": "\n\nスタミナ177消費 ライブ中2回のみ CT:50",
+        "stamina": 177,
+        "probabilityPermil": 1000,
+        "limitCount": 2,
+        "coolTime": 50,
+        "skillDetails": [
+          {
+            "efficacyId": "ef-critical_rate_up-4-target-vocal_higher-1-41",
+            "triggerId": ""
+          },
+          {
+            "efficacyId": "ef-strength_effect_value_increase-1-target-vocal_higher-1",
+            "triggerId": ""
+          }
+        ],
+        "requiredItemAmount": 0,
+        "requiredCardLevel": 0,
+        "triggerId": "",
+        "staminaPermil": 0
+      },
+      {
+        "level": 2,
+        "description": "ボーカルが高い1人に4段階クリティカル率上昇効果[45ビート]\nボーカルが高い1人の強化効果を1段階増強\nスタミナ184消費 ライブ中2回のみ CT:50",
+        "shortDescription": "\n\nスタミナ184消費 ライブ中2回のみ CT:50",
+        "requiredItemAmount": 1000,
+        "requiredCardLevel": 50,
+        "stamina": 184,
+        "probabilityPermil": 1000,
+        "limitCount": 2,
+        "coolTime": 50,
+        "skillDetails": [
+          {
+            "efficacyId": "ef-critical_rate_up-4-target-vocal_higher-1-45",
+            "triggerId": ""
+          },
+          {
+            "efficacyId": "ef-strength_effect_value_increase-1-target-vocal_higher-1",
+            "triggerId": ""
+          }
+        ],
+        "triggerId": "",
+        "staminaPermil": 0
+      },
+      {
+        "level": 3,
+        "description": "ボーカルが高い1人に5段階クリティカル率上昇効果[45ビート]\nボーカルが高い1人の強化効果を1段階増強\nスタミナ205消費 ライブ中2回のみ CT:50",
+        "shortDescription": "\n\nスタミナ205消費 ライブ中2回のみ CT:50",
+        "requiredItemAmount": 4000,
+        "requiredCardLevel": 70,
+        "stamina": 205,
+        "probabilityPermil": 1000,
+        "limitCount": 2,
+        "coolTime": 50,
+        "skillDetails": [
+          {
+            "efficacyId": "ef-critical_rate_up-5-target-vocal_higher-1-45",
+            "triggerId": ""
+          },
+          {
+            "efficacyId": "ef-strength_effect_value_increase-1-target-vocal_higher-1",
+            "triggerId": ""
+          }
+        ],
+        "triggerId": "",
+        "staminaPermil": 0
+      },
+      {
+        "level": 4,
+        "description": "ボーカルが高い1人に5段階クリティカル率上昇効果[50ビート]\nボーカルが高い1人の強化効果を2段階増強\nスタミナ316消費 ライブ中2回のみ CT:50",
+        "shortDescription": "\n\nスタミナ316消費 ライブ中2回のみ CT:50",
+        "requiredItemAmount": 30000,
+        "requiredCardLevel": 110,
+        "stamina": 316,
+        "probabilityPermil": 1000,
+        "limitCount": 2,
+        "coolTime": 50,
+        "skillDetails": [
+          {
+            "efficacyId": "ef-critical_rate_up-5-target-vocal_higher-1-50",
+            "triggerId": ""
+          },
+          {
+            "efficacyId": "ef-strength_effect_value_increase-2-target-vocal_higher-1",
+            "triggerId": ""
+          }
+        ],
+        "triggerId": "",
+        "staminaPermil": 0
+      },
+      {
+        "level": 5,
+        "description": "ボーカルが高い1人に6段階クリティカル率上昇効果[50ビート]\nボーカルが高い1人の強化効果を2段階増強\nスタミナ339消費 ライブ中2回のみ CT:50",
+        "shortDescription": "\n\nスタミナ339消費 ライブ中2回のみ CT:50",
+        "requiredItemAmount": 140000,
+        "requiredCardLevel": 160,
+        "stamina": 339,
+        "probabilityPermil": 1000,
+        "limitCount": 2,
+        "coolTime": 50,
+        "skillDetails": [
+          {
+            "efficacyId": "ef-critical_rate_up-6-target-vocal_higher-1-50",
+            "triggerId": ""
+          },
+          {
+            "efficacyId": "ef-strength_effect_value_increase-2-target-vocal_higher-1",
+            "triggerId": ""
+          }
+        ],
+        "triggerId": "",
+        "staminaPermil": 0
+      },
+      {
+        "level": 6,
+        "description": "ボーカルが高い1人に6段階クリティカル率上昇効果[55ビート]\nボーカルが高い1人の強化効果を2段階増強\nスタミナ354消費 ライブ中2回のみ CT:50",
+        "shortDescription": "\n\nスタミナ354消費 ライブ中2回のみ CT:50",
+        "requiredItemAmount": 280000,
+        "requiredCardLevel": 200,
+        "stamina": 354,
+        "probabilityPermil": 1000,
+        "limitCount": 2,
+        "coolTime": 50,
+        "skillDetails": [
+          {
+            "efficacyId": "ef-critical_rate_up-6-target-vocal_higher-1-55",
+            "triggerId": ""
+          },
+          {
+            "efficacyId": "ef-strength_effect_value_increase-2-target-vocal_higher-1",
+            "triggerId": ""
+          }
+        ],
+        "triggerId": "",
+        "staminaPermil": 0
+      }
+    ],
+    "assetId": ""
+  },
+  {
+    "id": "sk-rei-05-mizg-02-3",
+    "name": "海辺の障害物競走",
+    "categoryType": 3,
+    "levels": [
+      {
+        "level": 1,
+        "description": "誰かがSPスキル発動前\n対象1人に5段階SPスキルスコア上昇効果\nスタミナ218消費 CT:70",
+        "shortDescription": "\n\nスタミナ218消費 CT:70",
+        "stamina": 218,
+        "triggerId": "tg-before_special_skill_by_someone",
+        "probabilityPermil": 1000,
+        "coolTime": 70,
+        "skillDetails": [
+          {
+            "efficacyId": "ef-special_skill_score_up-5-target-trigger-5",
+            "triggerId": ""
+          }
+        ],
+        "requiredItemAmount": 0,
+        "requiredCardLevel": 0,
+        "limitCount": 0,
+        "staminaPermil": 0
+      },
+      {
+        "level": 2,
+        "description": "誰かがSPスキル発動前\n対象1人に6段階SPスキルスコア上昇効果\nスタミナ262消費 CT:70",
+        "shortDescription": "\n\nスタミナ262消費 CT:70",
+        "requiredItemAmount": 15000,
+        "requiredCardLevel": 100,
+        "stamina": 262,
+        "triggerId": "tg-before_special_skill_by_someone",
+        "probabilityPermil": 1000,
+        "coolTime": 70,
+        "skillDetails": [
+          {
+            "efficacyId": "ef-special_skill_score_up-6-target-trigger-5",
+            "triggerId": ""
+          }
+        ],
+        "limitCount": 0,
+        "staminaPermil": 0
+      },
+      {
+        "level": 3,
+        "description": "誰かがSPスキル発動前\n対象1人に7段階SPスキルスコア上昇効果\nスタミナ306消費 CT:70",
+        "shortDescription": "\n\nスタミナ306消費 CT:70",
+        "requiredItemAmount": 60000,
+        "requiredCardLevel": 130,
+        "stamina": 306,
+        "triggerId": "tg-before_special_skill_by_someone",
+        "probabilityPermil": 1000,
+        "coolTime": 70,
+        "skillDetails": [
+          {
+            "efficacyId": "ef-special_skill_score_up-7-target-trigger-5",
+            "triggerId": ""
+          }
+        ],
+        "limitCount": 0,
+        "staminaPermil": 0
+      },
+      {
+        "level": 4,
+        "description": "誰かがSPスキル発動前\n対象1人に7段階SPスキルスコア上昇効果\nスタミナ306消費 CT:50",
+        "shortDescription": "\n\nスタミナ306消費 CT:50",
+        "requiredItemAmount": 180000,
+        "requiredCardLevel": 170,
+        "stamina": 306,
+        "triggerId": "tg-before_special_skill_by_someone",
+        "probabilityPermil": 1000,
+        "coolTime": 50,
+        "skillDetails": [
+          {
+            "efficacyId": "ef-special_skill_score_up-7-target-trigger-5",
+            "triggerId": ""
+          }
+        ],
+        "limitCount": 0,
+        "staminaPermil": 0
+      },
+      {
+        "level": 5,
+        "description": "誰かがSPスキル発動前\n対象1人に8段階SPスキルスコア上昇効果\nスタミナ349消費 CT:50",
+        "shortDescription": "\n\nスタミナ349消費 CT:50",
+        "requiredItemAmount": 230000,
+        "requiredCardLevel": 210,
+        "stamina": 349,
+        "triggerId": "tg-before_special_skill_by_someone",
+        "probabilityPermil": 1000,
+        "coolTime": 50,
+        "skillDetails": [
+          {
+            "efficacyId": "ef-special_skill_score_up-8-target-trigger-5",
+            "triggerId": ""
+          }
+        ],
+        "limitCount": 0,
+        "staminaPermil": 0
+      },
+      {
+        "level": 6,
+        "description": "誰かがSPスキル発動前\n対象1人に9段階SPスキルスコア上昇効果\nスタミナ393消費 CT:50",
+        "shortDescription": "\n\nスタミナ393消費 CT:50",
+        "requiredItemAmount": 230000,
+        "requiredCardLevel": 220,
+        "stamina": 393,
+        "triggerId": "tg-before_special_skill_by_someone",
+        "probabilityPermil": 1000,
+        "coolTime": 50,
+        "skillDetails": [
+          {
+            "efficacyId": "ef-special_skill_score_up-9-target-trigger-5",
             "triggerId": ""
           }
         ],
