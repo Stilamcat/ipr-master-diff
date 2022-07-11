@@ -1287,6 +1287,17 @@
     "salePrice": 0
   },
   {
+    "id": "item-mini-marathon_medal-22-0712",
+    "name": "ミニリンクスメダル",
+    "assetId": "medal-marathon",
+    "description": "BOXガチャを引くことができます\nイベント終了後はコインに変換されます",
+    "howToGet": "ミニリンクスイベント",
+    "type": 4001,
+    "value": 1,
+    "order": 1000,
+    "salePrice": 0
+  },
+  {
     "id": "item-mini-marathon_quest_unlock-22-0413",
     "name": "解放Pt",
     "assetId": "marathon-release-pt",
@@ -1298,7 +1309,29 @@
     "salePrice": 0
   },
   {
+    "id": "item-mini-marathon_quest_unlock-22-0712",
+    "name": "解放Pt",
+    "assetId": "marathon-release-pt",
+    "description": "ミニリンクスイベントの解放Ptです\nイベント終了後はコインに変換されます",
+    "howToGet": "ミニリンクスイベント",
+    "type": 5002,
+    "value": 1,
+    "order": 1002,
+    "salePrice": 0
+  },
+  {
     "id": "item-mini-marathon_stamina_recovery-22-0413",
+    "name": "リンクスキャンディ",
+    "assetId": "marathon-stamina-recovery",
+    "description": "ミニリンクスイベントの体力を回復します\nイベント終了後はコインに変換されます",
+    "howToGet": "ハイスコアライブ、プロモーション、ファンイベントなど",
+    "type": 5001,
+    "value": 20,
+    "order": 1001,
+    "salePrice": 0
+  },
+  {
+    "id": "item-mini-marathon_stamina_recovery-22-0712",
     "name": "リンクスキャンディ",
     "assetId": "marathon-stamina-recovery",
     "description": "ミニリンクスイベントの体力を回復します\nイベント終了後はコインに変換されます",
@@ -1361,6 +1394,39 @@
     "type": 7,
     "value": 1,
     "order": 160,
+    "salePrice": 0
+  },
+  {
+    "id": "item-photo_ink-basic-01",
+    "name": "レタッチインク",
+    "assetId": "ink-a-01",
+    "description": "フォトレタッチとレタッチフォトの品質アップに使用する",
+    "howToGet": "プロモーションなど",
+    "type": 15,
+    "value": 1,
+    "order": 1,
+    "salePrice": 0
+  },
+  {
+    "id": "item-photo_ink-basic-02",
+    "name": "金のレタッチインク",
+    "assetId": "ink-a-02",
+    "description": "フォトレタッチとレタッチフォトの品質アップに使用する",
+    "howToGet": "プロモーションなど",
+    "type": 15,
+    "value": 1,
+    "order": 2,
+    "salePrice": 0
+  },
+  {
+    "id": "item-photo_ink-basic-03",
+    "name": "虹のレタッチインク",
+    "assetId": "ink-a-03",
+    "description": "フォトレタッチとレタッチフォトの品質アップに使用する",
+    "howToGet": "プロモーションなど",
+    "type": 15,
+    "value": 1,
+    "order": 3,
     "salePrice": 0
   },
   {
