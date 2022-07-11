@@ -169,6 +169,20 @@
     "unlockConditionId": ""
   },
   {
+    "id": "event-mini-marathon-22-0712",
+    "eventMissionType": 1,
+    "assetId": "img_banner_l_event-mini-marathon-22-0413",
+    "name": "イベントミッション",
+    "order": 99,
+    "viewConditionId": "cd-date-mini-marathon-22-0712",
+    "missionIds": [
+      "ms-event-mini-marathon-22-0712-marathon_quest_clear_count_001",
+      "ms-event-mini-marathon-22-0712-marathon_quest_clear_count_002",
+      "ms-event-mini-marathon-22-0712-marathon_quest_clear_count_003"
+    ],
+    "unlockConditionId": ""
+  },
+  {
     "id": "event-race-22-0228",
     "eventMissionType": 1,
     "assetId": "img_banner_l_event-race-22-0228",
@@ -705,6 +719,28 @@
       "event-ms-normal-22-0527-00-mission_clear_count-6",
       "event-ms-normal-22-0527-00-photo_reroll_count-3",
       "event-ms-normal-22-0527-00-quest_daily_clear_count-25"
+    ],
+    "unlockConditionId": ""
+  },
+  {
+    "id": "event_mission-22-0717",
+    "eventMissionType": 2,
+    "assetId": "img_banner_l_event-mission-21-0712",
+    "name": "アイドル育成ミッション",
+    "order": 1,
+    "viewConditionId": "cd-time-event_mission-22-0717",
+    "missionIds": [
+      "event-ms-normal-22-0717-00-card_level_up_count-25",
+      "event-ms-normal-22-0717-00-card_skill_level_up_count-3",
+      "event-ms-normal-22-0717-00-item_amount-10000000",
+      "event-ms-normal-22-0717-00-item_amount-16500000",
+      "event-ms-normal-22-0717-00-item_amount-3200000",
+      "event-ms-normal-22-0717-00-item_amount-6150000",
+      "event-ms-normal-22-0717-00-item_amount-944000",
+      "event-ms-normal-22-0717-00-login_count-3",
+      "event-ms-normal-22-0717-00-mission_clear_count-6",
+      "event-ms-normal-22-0717-00-photo_reroll_count-3",
+      "event-ms-normal-22-0717-00-quest_daily_clear_count-25"
     ],
     "unlockConditionId": ""
   },
