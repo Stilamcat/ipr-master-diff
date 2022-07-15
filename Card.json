@@ -2474,6 +2474,66 @@
     "activityAbilityId": ""
   },
   {
+    "id": "card-mei-05-mizg-02",
+    "assetId": "mei-05-mizg-02",
+    "name": "隠しきれない顔の火照り",
+    "description": "これからの一年だって、きっといろいろあるよ\r\n大変なことも、それ以上に楽しいこともいーっぱい！\r\n来年の今頃、芽衣達はどうなってるんだろうね",
+    "type": 3,
+    "characterId": "char-mei",
+    "initialRarity": 5,
+    "cardParameterId": "card-param-01",
+    "vocalRatioPermil": 292,
+    "danceRatioPermil": 411,
+    "visualRatioPermil": 327,
+    "staminaRatioPermil": 900,
+    "cardLevelReleaseId": "card_level_release_1",
+    "skillId1": "sk-mei-05-mizg-02-1",
+    "skillId2": "sk-mei-05-mizg-02-2",
+    "skillId3": "sk-mei-05-mizg-02-3",
+    "liveAbilityId": "lba-active_skill_score_multiply",
+    "order": 226,
+    "releaseDate": "1657854000000",
+    "rewardCostumeId": "cos-mei-mizg-02",
+    "imageType1": 3,
+    "displayPositionX1": 0.005,
+    "displayPositionY1": 0.083,
+    "displayScale1": 1.2,
+    "highlightDisplayPositionX1": -0.053,
+    "highlightDisplayPositionY1": 0.224,
+    "highlightDisplayScale1": 0.8,
+    "imageType2": 3,
+    "displayPositionX2": 0.005,
+    "displayPositionY2": 0.083,
+    "displayScale2": 1.2,
+    "highlightDisplayPositionX2": -0.053,
+    "highlightDisplayPositionY2": 0.224,
+    "highlightDisplayScale2": 0.8,
+    "obtainMessage": "来年の今頃、芽衣達は\nどうなってるんだろうね",
+    "stories": [
+      {
+        "storyId": "st-card-mei-05-mizg-02-01"
+      },
+      {
+        "storyId": "st-card-mei-05-mizg-02-02"
+      },
+      {
+        "storyId": "st-card-mei-05-mizg-02-03"
+      }
+    ],
+    "messages": [
+      {
+        "messageId": "message-card-mei-05-mizg-02",
+        "telephoneId": ""
+      },
+      {
+        "telephoneId": "tel-card-mei-05-mizg-02",
+        "messageId": ""
+      }
+    ],
+    "activityAbilityId": "",
+    "homeTalks": []
+  },
+  {
     "id": "card-mei-05-rock-00",
     "assetId": "mei-05-rock-00",
     "name": "いつかまた一緒に",

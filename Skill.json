@@ -35836,6 +35836,420 @@
     "assetId": ""
   },
   {
+    "id": "sk-mei-05-mizg-02-1",
+    "name": "呼び込み効果",
+    "categoryType": 2,
+    "levels": [
+      {
+        "level": 1,
+        "description": "360%のスコア獲得\nセンターに6段階スコア上昇効果[22ビート]\n自身のCTを10減少\nスタミナ122消費 CT:40",
+        "shortDescription": "\n\n\nスタミナ122消費 CT:40",
+        "stamina": 122,
+        "probabilityPermil": 1000,
+        "coolTime": 40,
+        "skillDetails": [
+          {
+            "efficacyId": "ef-score_get-3600-chart_dependence",
+            "triggerId": ""
+          },
+          {
+            "efficacyId": "ef-score_up-6-target-center-22",
+            "triggerId": ""
+          },
+          {
+            "efficacyId": "ef-cool_time_reduction-10-target-self",
+            "triggerId": ""
+          }
+        ],
+        "requiredItemAmount": 0,
+        "requiredCardLevel": 0,
+        "triggerId": "",
+        "limitCount": 0,
+        "staminaPermil": 0
+      },
+      {
+        "level": 2,
+        "description": "380%のスコア獲得\nセンターに7段階スコア上昇効果[22ビート]\n自身のCTを10減少\nスタミナ129消費 CT:40",
+        "shortDescription": "\n\n\nスタミナ129消費 CT:40",
+        "requiredItemAmount": 500,
+        "requiredCardLevel": 40,
+        "stamina": 129,
+        "probabilityPermil": 1000,
+        "coolTime": 40,
+        "skillDetails": [
+          {
+            "efficacyId": "ef-score_get-3800-chart_dependence",
+            "triggerId": ""
+          },
+          {
+            "efficacyId": "ef-score_up-7-target-center-22",
+            "triggerId": ""
+          },
+          {
+            "efficacyId": "ef-cool_time_reduction-10-target-self",
+            "triggerId": ""
+          }
+        ],
+        "triggerId": "",
+        "limitCount": 0,
+        "staminaPermil": 0
+      },
+      {
+        "level": 3,
+        "description": "400%のスコア獲得\nセンターに7段階スコア上昇効果[30ビート]\n自身のCTを10減少\nスタミナ138消費 CT:40",
+        "shortDescription": "\n\n\nスタミナ138消費 CT:40",
+        "requiredItemAmount": 2000,
+        "requiredCardLevel": 60,
+        "stamina": 138,
+        "probabilityPermil": 1000,
+        "coolTime": 40,
+        "skillDetails": [
+          {
+            "efficacyId": "ef-score_get-4000-chart_dependence",
+            "triggerId": ""
+          },
+          {
+            "efficacyId": "ef-score_up-7-target-center-30",
+            "triggerId": ""
+          },
+          {
+            "efficacyId": "ef-cool_time_reduction-10-target-self",
+            "triggerId": ""
+          }
+        ],
+        "triggerId": "",
+        "limitCount": 0,
+        "staminaPermil": 0
+      },
+      {
+        "level": 4,
+        "description": "420%のスコア獲得\nセンターに8段階スコア上昇効果[30ビート]\n自身のCTを15減少\nスタミナ152消費 CT:40",
+        "shortDescription": "\n\n\nスタミナ152消費 CT:40",
+        "requiredItemAmount": 15000,
+        "requiredCardLevel": 90,
+        "stamina": 152,
+        "probabilityPermil": 1000,
+        "coolTime": 40,
+        "skillDetails": [
+          {
+            "efficacyId": "ef-score_get-4200-chart_dependence",
+            "triggerId": ""
+          },
+          {
+            "efficacyId": "ef-score_up-8-target-center-30",
+            "triggerId": ""
+          },
+          {
+            "efficacyId": "ef-cool_time_reduction-15-target-self",
+            "triggerId": ""
+          }
+        ],
+        "triggerId": "",
+        "limitCount": 0,
+        "staminaPermil": 0
+      },
+      {
+        "level": 5,
+        "description": "440%のスコア獲得\nセンターに8段階スコア上昇効果[39ビート]\n自身のCTを15減少\nスタミナ162消費 CT:40",
+        "shortDescription": "\n\n\nスタミナ162消費 CT:40",
+        "requiredItemAmount": 100000,
+        "requiredCardLevel": 150,
+        "stamina": 162,
+        "probabilityPermil": 1000,
+        "coolTime": 40,
+        "skillDetails": [
+          {
+            "efficacyId": "ef-score_get-4400-chart_dependence",
+            "triggerId": ""
+          },
+          {
+            "efficacyId": "ef-score_up-8-target-center-39",
+            "triggerId": ""
+          },
+          {
+            "efficacyId": "ef-cool_time_reduction-15-target-self",
+            "triggerId": ""
+          }
+        ],
+        "triggerId": "",
+        "limitCount": 0,
+        "staminaPermil": 0
+      },
+      {
+        "level": 6,
+        "description": "460%のスコア獲得\nセンターに9段階スコア上昇効果[39ビート]\n自身のCTを15減少\nスタミナ171消費 CT:40",
+        "shortDescription": "\n\n\nスタミナ171消費 CT:40",
+        "requiredItemAmount": 230000,
+        "requiredCardLevel": 180,
+        "stamina": 171,
+        "probabilityPermil": 1000,
+        "coolTime": 40,
+        "skillDetails": [
+          {
+            "efficacyId": "ef-score_get-4600-chart_dependence",
+            "triggerId": ""
+          },
+          {
+            "efficacyId": "ef-score_up-9-target-center-39",
+            "triggerId": ""
+          },
+          {
+            "efficacyId": "ef-cool_time_reduction-15-target-self",
+            "triggerId": ""
+          }
+        ],
+        "triggerId": "",
+        "limitCount": 0,
+        "staminaPermil": 0
+      }
+    ],
+    "assetId": ""
+  },
+  {
+    "id": "sk-mei-05-mizg-02-2",
+    "name": "変わらないものと変わるもの",
+    "categoryType": 3,
+    "levels": [
+      {
+        "level": 1,
+        "description": "全員に2段階Aスキルスコア追加効果[44ビート]\nスタミナ112消費 CT:30",
+        "shortDescription": "\nスタミナ112消費 CT:30",
+        "stamina": 112,
+        "probabilityPermil": 1000,
+        "coolTime": 30,
+        "skillDetails": [
+          {
+            "efficacyId": "ef-active_score_multiplier_add-2-target-all-44",
+            "triggerId": ""
+          }
+        ],
+        "requiredItemAmount": 0,
+        "requiredCardLevel": 0,
+        "triggerId": "",
+        "limitCount": 0,
+        "staminaPermil": 0
+      },
+      {
+        "level": 2,
+        "description": "全員に2段階Aスキルスコア追加効果[47ビート]\nスタミナ120消費 CT:30",
+        "shortDescription": "\nスタミナ120消費 CT:30",
+        "requiredItemAmount": 1000,
+        "requiredCardLevel": 50,
+        "stamina": 120,
+        "probabilityPermil": 1000,
+        "coolTime": 30,
+        "skillDetails": [
+          {
+            "efficacyId": "ef-active_score_multiplier_add-2-target-all-47",
+            "triggerId": ""
+          }
+        ],
+        "triggerId": "",
+        "limitCount": 0,
+        "staminaPermil": 0
+      },
+      {
+        "level": 3,
+        "description": "全員に2段階Aスキルスコア追加効果[50ビート]\nスタミナ127消費 CT:30",
+        "shortDescription": "\nスタミナ127消費 CT:30",
+        "requiredItemAmount": 4000,
+        "requiredCardLevel": 70,
+        "stamina": 127,
+        "probabilityPermil": 1000,
+        "coolTime": 30,
+        "skillDetails": [
+          {
+            "efficacyId": "ef-active_score_multiplier_add-2-target-all-50",
+            "triggerId": ""
+          }
+        ],
+        "triggerId": "",
+        "limitCount": 0,
+        "staminaPermil": 0
+      },
+      {
+        "level": 4,
+        "description": "全員に3段階Aスキルスコア追加効果[50ビート]\nスタミナ191消費 CT:30",
+        "shortDescription": "\nスタミナ191消費 CT:30",
+        "requiredItemAmount": 30000,
+        "requiredCardLevel": 110,
+        "stamina": 191,
+        "probabilityPermil": 1000,
+        "coolTime": 30,
+        "skillDetails": [
+          {
+            "efficacyId": "ef-active_score_multiplier_add-3-target-all-50",
+            "triggerId": ""
+          }
+        ],
+        "triggerId": "",
+        "limitCount": 0,
+        "staminaPermil": 0
+      },
+      {
+        "level": 5,
+        "description": "全員に3段階Aスキルスコア追加効果[54ビート]\nスタミナ206消費 CT:30",
+        "shortDescription": "\nスタミナ206消費 CT:30",
+        "requiredItemAmount": 140000,
+        "requiredCardLevel": 160,
+        "stamina": 206,
+        "probabilityPermil": 1000,
+        "coolTime": 30,
+        "skillDetails": [
+          {
+            "efficacyId": "ef-active_score_multiplier_add-3-target-all-54",
+            "triggerId": ""
+          }
+        ],
+        "triggerId": "",
+        "limitCount": 0,
+        "staminaPermil": 0
+      },
+      {
+        "level": 6,
+        "description": "全員に3段階Aスキルスコア追加効果[58ビート]\nスタミナ221消費 CT:30",
+        "shortDescription": "\nスタミナ221消費 CT:30",
+        "requiredItemAmount": 280000,
+        "requiredCardLevel": 200,
+        "stamina": 221,
+        "probabilityPermil": 1000,
+        "coolTime": 30,
+        "skillDetails": [
+          {
+            "efficacyId": "ef-active_score_multiplier_add-3-target-all-58",
+            "triggerId": ""
+          }
+        ],
+        "triggerId": "",
+        "limitCount": 0,
+        "staminaPermil": 0
+      }
+    ],
+    "assetId": ""
+  },
+  {
+    "id": "sk-mei-05-mizg-02-3",
+    "name": "来年の二人の関係",
+    "categoryType": 3,
+    "levels": [
+      {
+        "level": 1,
+        "description": "ダンスタイプ2人に5段階Aスキルスコア上昇効果[36ビート]\nスタミナ141消費 CT:50",
+        "shortDescription": "\nスタミナ141消費 CT:50",
+        "stamina": 141,
+        "probabilityPermil": 1000,
+        "coolTime": 50,
+        "skillDetails": [
+          {
+            "efficacyId": "ef-active_skill_score_up-5-target-dance-2-36",
+            "triggerId": ""
+          }
+        ],
+        "requiredItemAmount": 0,
+        "requiredCardLevel": 0,
+        "triggerId": "",
+        "limitCount": 0,
+        "staminaPermil": 0
+      },
+      {
+        "level": 2,
+        "description": "ダンスタイプ2人に5段階Aスキルスコア上昇効果[41ビート]\nスタミナ160消費 CT:50",
+        "shortDescription": "\nスタミナ160消費 CT:50",
+        "requiredItemAmount": 15000,
+        "requiredCardLevel": 100,
+        "stamina": 160,
+        "probabilityPermil": 1000,
+        "coolTime": 50,
+        "skillDetails": [
+          {
+            "efficacyId": "ef-active_skill_score_up-5-target-dance-2-41",
+            "triggerId": ""
+          }
+        ],
+        "triggerId": "",
+        "limitCount": 0,
+        "staminaPermil": 0
+      },
+      {
+        "level": 3,
+        "description": "ダンスタイプ2人に6段階Aスキルスコア上昇効果[41ビート]\nスタミナ192消費 CT:50",
+        "shortDescription": "\nスタミナ192消費 CT:50",
+        "requiredItemAmount": 60000,
+        "requiredCardLevel": 130,
+        "stamina": 192,
+        "probabilityPermil": 1000,
+        "coolTime": 50,
+        "skillDetails": [
+          {
+            "efficacyId": "ef-active_skill_score_up-6-target-dance-2-41",
+            "triggerId": ""
+          }
+        ],
+        "triggerId": "",
+        "limitCount": 0,
+        "staminaPermil": 0
+      },
+      {
+        "level": 4,
+        "description": "ダンスタイプ2人に6段階Aスキルスコア上昇効果[46ビート]\nスタミナ215消費 CT:50",
+        "shortDescription": "\nスタミナ215消費 CT:50",
+        "requiredItemAmount": 180000,
+        "requiredCardLevel": 170,
+        "stamina": 215,
+        "probabilityPermil": 1000,
+        "coolTime": 50,
+        "skillDetails": [
+          {
+            "efficacyId": "ef-active_skill_score_up-6-target-dance-2-46",
+            "triggerId": ""
+          }
+        ],
+        "triggerId": "",
+        "limitCount": 0,
+        "staminaPermil": 0
+      },
+      {
+        "level": 5,
+        "description": "ダンスタイプ2人に7段階Aスキルスコア上昇効果[46ビート]\nスタミナ251消費 CT:50",
+        "shortDescription": "\nスタミナ251消費 CT:50",
+        "requiredItemAmount": 230000,
+        "requiredCardLevel": 210,
+        "stamina": 251,
+        "probabilityPermil": 1000,
+        "coolTime": 50,
+        "skillDetails": [
+          {
+            "efficacyId": "ef-active_skill_score_up-7-target-dance-2-46",
+            "triggerId": ""
+          }
+        ],
+        "triggerId": "",
+        "limitCount": 0,
+        "staminaPermil": 0
+      },
+      {
+        "level": 6,
+        "description": "ダンスタイプ2人に7段階Aスキルスコア上昇効果[52ビート]\nスタミナ284消費 CT:50",
+        "shortDescription": "\nスタミナ284消費 CT:50",
+        "requiredItemAmount": 230000,
+        "requiredCardLevel": 220,
+        "stamina": 284,
+        "probabilityPermil": 1000,
+        "coolTime": 50,
+        "skillDetails": [
+          {
+            "efficacyId": "ef-active_skill_score_up-7-target-dance-2-52",
+            "triggerId": ""
+          }
+        ],
+        "triggerId": "",
+        "limitCount": 0,
+        "staminaPermil": 0
+      }
+    ],
+    "assetId": ""
+  },
+  {
     "id": "sk-mei-05-rock-00-1",
     "name": "そうじょうこうかってやつ？",
     "categoryType": 1,
