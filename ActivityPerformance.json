@@ -250,6 +250,43 @@
     "assistantNpcSpineId": ""
   },
   {
+    "id": "handshake-stage-5",
+    "costumeTypeIds": [
+      "idol",
+      "casl",
+      "gene"
+    ],
+    "forceCostumeTypeId": "idol",
+    "fieldId": "gym-00",
+    "existBackground": true,
+    "existForeground": true,
+    "backgroundTopColorCode": "277881",
+    "backgroundBottomColorCode": "dfac74",
+    "existProp": true,
+    "fieldSpineNumber": 0,
+    "fieldSpineColorSlotId": "",
+    "fieldSpineColorSlotNumber": 0,
+    "assistantNpcSpineId": ""
+  },
+  {
+    "id": "hawaii",
+    "costumeTypeIds": [
+      "mizg",
+      "mizg-water-ng"
+    ],
+    "forceCostumeTypeId": "mizg",
+    "fieldId": "hawaii-00",
+    "existBackground": true,
+    "backgroundTopColorCode": "337af1",
+    "backgroundBottomColorCode": "c48c55",
+    "fieldSpineNumber": 3,
+    "existForeground": false,
+    "fieldSpineColorSlotId": "",
+    "fieldSpineColorSlotNumber": 0,
+    "existProp": false,
+    "assistantNpcSpineId": ""
+  },
+  {
     "id": "hot_spring",
     "costumeTypeIds": [
       "mizg"
@@ -374,6 +411,25 @@
     "existForeground": true,
     "backgroundTopColorCode": "e3e9f1",
     "backgroundBottomColorCode": "fcdcb5",
+    "existProp": true,
+    "assistantNpcSpineId": "cameraman",
+    "fieldSpineNumber": 0,
+    "fieldSpineColorSlotId": "",
+    "fieldSpineColorSlotNumber": 0
+  },
+  {
+    "id": "photo-session-stage-5",
+    "costumeTypeIds": [
+      "idol",
+      "casl",
+      "gene"
+    ],
+    "forceCostumeTypeId": "idol",
+    "fieldId": "gym-00",
+    "existBackground": true,
+    "existForeground": true,
+    "backgroundTopColorCode": "277881",
+    "backgroundBottomColorCode": "dfac74",
     "existProp": true,
     "assistantNpcSpineId": "cameraman",
     "fieldSpineNumber": 0,
@@ -574,6 +630,43 @@
     "assistantNpcSpineId": ""
   },
   {
+    "id": "sign-stage-5",
+    "costumeTypeIds": [
+      "idol",
+      "casl",
+      "gene"
+    ],
+    "forceCostumeTypeId": "idol",
+    "fieldId": "gym-00",
+    "existBackground": true,
+    "existForeground": true,
+    "backgroundTopColorCode": "277881",
+    "backgroundBottomColorCode": "dfac74",
+    "existProp": true,
+    "fieldSpineNumber": 0,
+    "fieldSpineColorSlotId": "",
+    "fieldSpineColorSlotNumber": 0,
+    "assistantNpcSpineId": ""
+  },
+  {
+    "id": "stadium",
+    "costumeTypeIds": [
+      "idol",
+      "gene"
+    ],
+    "forceCostumeTypeId": "idol",
+    "fieldId": "stadium-00",
+    "existBackground": true,
+    "backgroundTopColorCode": "282387",
+    "backgroundBottomColorCode": "eba06c",
+    "fieldSpineNumber": 2,
+    "existProp": true,
+    "existForeground": false,
+    "fieldSpineColorSlotId": "",
+    "fieldSpineColorSlotNumber": 0,
+    "assistantNpcSpineId": ""
+  },
+  {
     "id": "swimwear_shooting",
     "costumeTypeIds": [
       "mizg",
@@ -587,6 +680,24 @@
     "backgroundBottomColorCode": "e8e6e3",
     "fieldSpineNumber": 2,
     "existProp": true,
+    "fieldSpineColorSlotId": "",
+    "fieldSpineColorSlotNumber": 0,
+    "assistantNpcSpineId": ""
+  },
+  {
+    "id": "talk-program",
+    "costumeTypeIds": [
+      "casl",
+      "gene"
+    ],
+    "forceCostumeTypeId": "casl",
+    "fieldId": "talk-program-00",
+    "existBackground": true,
+    "backgroundTopColorCode": "7e8ca2",
+    "backgroundBottomColorCode": "e2dad4",
+    "fieldSpineNumber": 1,
+    "existProp": true,
+    "existForeground": false,
     "fieldSpineColorSlotId": "",
     "fieldSpineColorSlotNumber": 0,
     "assistantNpcSpineId": ""
