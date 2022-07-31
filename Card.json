@@ -210,6 +210,66 @@
     "liveAbilityId": ""
   },
   {
+    "id": "card-ai-05-mizg-01",
+    "assetId": "ai-05-mizg-01",
+    "name": "ネオン煌めくナイトプール",
+    "description": "じゃあ、もしもですよ\r\nもし、マネージャーじゃなかったら\r\n……今の私、ナンパしたくなりますか？",
+    "type": 3,
+    "characterId": "char-ai",
+    "initialRarity": 5,
+    "cardParameterId": "card-param-01",
+    "vocalRatioPermil": 412,
+    "danceRatioPermil": 329,
+    "visualRatioPermil": 289,
+    "staminaRatioPermil": 900,
+    "cardLevelReleaseId": "card_level_release_1",
+    "skillId1": "sk-ai-05-mizg-01-1",
+    "skillId2": "sk-ai-05-mizg-01-2",
+    "skillId3": "sk-ai-05-mizg-01-3",
+    "activityAbilityId": "aab-promotion_manager_exp_up",
+    "order": 227,
+    "releaseDate": "1659236400000",
+    "rewardCostumeId": "cos-ai-mizg-01",
+    "imageType1": 3,
+    "displayPositionX1": -0.165,
+    "displayScale1": 1.0,
+    "highlightDisplayPositionX1": 0.125,
+    "highlightDisplayPositionY1": 0.153,
+    "highlightDisplayScale1": 1.1,
+    "imageType2": 3,
+    "displayPositionX2": -0.165,
+    "displayScale2": 1.0,
+    "highlightDisplayPositionX2": 0.125,
+    "highlightDisplayPositionY2": 0.153,
+    "highlightDisplayScale2": 1.1,
+    "obtainMessage": "……今の私、ナンパしたくなりますか？",
+    "stories": [
+      {
+        "storyId": "st-card-ai-05-mizg-01-01"
+      },
+      {
+        "storyId": "st-card-ai-05-mizg-01-02"
+      },
+      {
+        "storyId": "st-card-ai-05-mizg-01-03"
+      }
+    ],
+    "messages": [
+      {
+        "messageId": "message-card-ai-05-mizg-01",
+        "telephoneId": ""
+      },
+      {
+        "telephoneId": "tel-card-ai-05-mizg-01",
+        "messageId": ""
+      }
+    ],
+    "liveAbilityId": "",
+    "displayPositionY1": 0.0,
+    "displayPositionY2": 0.0,
+    "homeTalks": []
+  },
+  {
     "id": "card-ai-05-tact-00",
     "assetId": "ai-05-tact-00",
     "name": "セクシーシューティング",
@@ -538,6 +598,66 @@
       }
     ],
     "activityAbilityId": ""
+  },
+  {
+    "id": "card-aoi-05-mizg-01",
+    "assetId": "aoi-05-mizg-01",
+    "name": "君と結ぶ夏の約束",
+    "description": "みんな覚悟は出来てる？\r\n僕達のステージをこの夏一番熱い場所にするよ\r\n夏の太陽よりも熱くて眩しい\r\nライブを目に焼き付けてよね",
+    "type": 1,
+    "characterId": "char-aoi",
+    "initialRarity": 5,
+    "cardParameterId": "card-param-01",
+    "vocalRatioPermil": 279,
+    "danceRatioPermil": 432,
+    "visualRatioPermil": 319,
+    "staminaRatioPermil": 900,
+    "cardLevelReleaseId": "card_level_release_1",
+    "skillId1": "sk-aoi-05-mizg-01-1",
+    "skillId2": "sk-aoi-05-mizg-01-2",
+    "skillId3": "sk-aoi-05-mizg-01-3",
+    "liveAbilityId": "lba-dance_multiply",
+    "order": 228,
+    "releaseDate": "1659236400000",
+    "rewardCostumeId": "cos-aoi-mizg-01",
+    "imageType1": 3,
+    "displayPositionX1": 0.017,
+    "displayPositionY1": 0.092,
+    "displayScale1": 1.4,
+    "highlightDisplayPositionX1": -0.121,
+    "highlightDisplayPositionY1": 0.198,
+    "highlightDisplayScale1": 1.4,
+    "imageType2": 3,
+    "displayPositionX2": 0.017,
+    "displayPositionY2": 0.092,
+    "displayScale2": 1.4,
+    "highlightDisplayPositionX2": -0.121,
+    "highlightDisplayPositionY2": 0.198,
+    "highlightDisplayScale2": 1.4,
+    "obtainMessage": "僕達のステージを、\nこの夏一番熱い場所にするよ",
+    "stories": [
+      {
+        "storyId": "st-card-aoi-05-mizg-01-01"
+      },
+      {
+        "storyId": "st-card-aoi-05-mizg-01-02"
+      },
+      {
+        "storyId": "st-card-aoi-05-mizg-01-03"
+      }
+    ],
+    "messages": [
+      {
+        "messageId": "message-card-aoi-05-mizg-01",
+        "telephoneId": ""
+      },
+      {
+        "telephoneId": "tel-card-aoi-05-mizg-01",
+        "messageId": ""
+      }
+    ],
+    "activityAbilityId": "",
+    "homeTalks": []
   },
   {
     "id": "card-aoi-05-vlnt-00",
@@ -3790,6 +3910,47 @@
     "highlightDisplayPositionX2": 0.022,
     "highlightDisplayPositionY2": 0.222,
     "highlightDisplayScale2": 0.8,
+    "liveAbilityId": "",
+    "activityAbilityId": "",
+    "rewardCostumeId": "",
+    "displayPositionY2": 0.0,
+    "obtainMessage": "",
+    "stories": [],
+    "messages": [],
+    "homeTalks": []
+  },
+  {
+    "id": "card-rio-02-eve-03",
+    "assetId": "rio-02-eve-03",
+    "name": "どたばたバカンス",
+    "description": "悪いけど、貴方達と遊んでいる暇はないの\nせっかく海に来たのだから、ナンパなんてせず泳いできなさいよ",
+    "type": 1,
+    "characterId": "char-rio",
+    "initialRarity": 2,
+    "cardParameterId": "card-param-01",
+    "vocalRatioPermil": 421,
+    "danceRatioPermil": 309,
+    "visualRatioPermil": 270,
+    "staminaRatioPermil": 1000,
+    "cardLevelReleaseId": "card_level_release_1",
+    "skillId1": "sk-rio-02-eve-03-1",
+    "skillId2": "sk-rio-02-eve-03-2",
+    "skillId3": "sk-rio-02-eve-03-3",
+    "order": 229,
+    "releaseDate": "1659236400000",
+    "imageType1": 1,
+    "displayPositionX1": 0.012,
+    "displayPositionY1": 0.261,
+    "displayScale1": 1.0,
+    "highlightDisplayPositionX1": -0.087,
+    "highlightDisplayPositionY1": 0.283,
+    "highlightDisplayScale1": 1.0,
+    "imageType2": 2,
+    "displayPositionX2": 0.041,
+    "displayScale2": 1.0,
+    "highlightDisplayPositionX2": -0.139,
+    "highlightDisplayPositionY2": 0.19,
+    "highlightDisplayScale2": 1.1,
     "liveAbilityId": "",
     "activityAbilityId": "",
     "rewardCostumeId": "",

@@ -99,6 +99,13 @@
   },
   {
     "characterId": "char-ai",
+    "patternId": "call-pattern-card-ai-05-mizg-01",
+    "managerCallText": "お疲れさま",
+    "characterArrivalText": "{user}さん\nこの間の沖縄合宿で気になった\nことがあるんですけど。",
+    "characterArrivalVoiceAssetId": "sud_vo_home_ai-05-mizg-01_talk-01-start"
+  },
+  {
+    "characterId": "char-ai",
     "patternId": "call-pattern-card-ai-05-tact-00",
     "managerCallText": "お疲れさま",
     "characterArrivalText": "今度はリズノワ四人で\nプロモーションのお仕事を\nやらせてもらえるんですよね！？",
@@ -208,6 +215,13 @@
     "managerCallText": "お疲れさま",
     "characterArrivalText": "うーん、困った。\nどうしたものか。",
     "characterArrivalVoiceAssetId": "sud_vo_home_aoi-05-kait-00_talk-01-start"
+  },
+  {
+    "characterId": "char-aoi",
+    "patternId": "call-pattern-card-aoi-05-mizg-01",
+    "managerCallText": "お疲れさま",
+    "characterArrivalText": "ライブで客席に\n水をかける演出があったでしょ？\nあれ、凄く盛り上がったよね",
+    "characterArrivalVoiceAssetId": "sud_vo_home_aoi-05-mizg-01_talk-01-start"
   },
   {
     "characterId": "char-aoi",
@@ -577,7 +591,7 @@
     "characterId": "char-kkr",
     "patternId": "call-pattern-kkr-04",
     "managerCallText": "お疲れさま",
-    "characterArrivalText": "いや〜まさかライブであんな失敗を\nするとは…おバカですねぇ〜私も\n愛ちゃんも。{user}さんも、すみませんねぇ〜！",
+    "characterArrivalText": "いや〜まさかライブであんな失敗をするとは…おバカですねぇ〜私も愛ちゃんも。{user}さんも、すみませんねぇ〜！",
     "characterArrivalVoiceAssetId": "sud_vo_home_kkr_talk-04-start"
   },
   {
@@ -892,7 +906,7 @@
     "characterId": "char-mei",
     "patternId": "call-pattern-mei-03",
     "managerCallText": "お疲れさま",
-    "characterArrivalText": "ねぇ、{user}さん…\n昨日ライブ会場でね、他のアイドル達が麻奈は大したことないって言ってて…悲しくなっちゃった…",
+    "characterArrivalText": "ねぇ、{user}さん…昨日ライブ会場でね、他のアイドル達が麻奈は大したことないって言ってて…悲しくなっちゃった…",
     "characterArrivalVoiceAssetId": "sud_vo_home_mei_talk-03-start"
   },
   {
@@ -1690,7 +1704,7 @@
     "characterId": "char-ski",
     "patternId": "call-pattern-ski-08",
     "managerCallText": "お疲れさま",
-    "characterArrivalText": "すみません、{user}さん。今お忙しいですか？\nひとつお願いしたいことが\nあります。",
+    "characterArrivalText": "すみません、{user}さん。\n今お忙しいですか？ひとつお願いしたいことがあります。",
     "characterArrivalVoiceAssetId": "sud_vo_home_ski_talk-08-start"
   },
   {
@@ -1984,7 +1998,7 @@
     "characterId": "char-suz",
     "patternId": "call-pattern-suz-02",
     "managerCallText": "お疲れさま",
-    "characterArrivalText": "あら、{user}さん。\n昨日のライブ、無様な姿をお見せしてしまいましたわ。ま、まぁ弘法も筆の誤りというものですわ！",
+    "characterArrivalText": "あら、{user}さん。昨日のライブ、無様な姿をお見せしてしまいましたわ。ま、まぁ弘法も筆の誤りというものですわ！",
     "characterArrivalVoiceAssetId": "sud_vo_home_suz_talk-02-start"
   },
   {

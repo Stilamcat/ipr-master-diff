@@ -94,6 +94,56 @@
     ]
   },
   {
+    "homeTalkId": "home-talk-card-ai-05-mizg-01-talk-01",
+    "characterId": "char-ai",
+    "placeType": 1,
+    "conditionId": "cd-st-read-st-card-ai-05-mizg-01-03",
+    "firstPriority": 9900,
+    "weight": 1,
+    "callPatternId": "call-pattern-card-ai-05-mizg-01",
+    "choiceText": "なんだろう？",
+    "managerText": "なんだろう？",
+    "reliability": 5,
+    "characterTalks": [
+      {
+        "text": "合宿費用ですよ",
+        "voiceAssetId": "sud_vo_home_ai-05-mizg-01_talk-01-01",
+        "motionAssetId": "mot_adv_chr_cmn_pos-001_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "飛行機にホテル代、キャンプ代…\nしかも四人分ですし、\n沢山お金かかりましたよね？",
+        "voiceAssetId": "sud_vo_home_ai-05-mizg-01_talk-01-02",
+        "motionAssetId": "mot_adv_chr_cmn_angry-016_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "「そんなの必要経費だよ～」って\nこころは言ってましたけど、\n本当ですか…？",
+        "voiceAssetId": "sud_vo_home_ai-05-mizg-01_talk-01-03",
+        "motionAssetId": "mot_adv_chr_cmn_talk-019_in",
+        "additionMotionAssetId": "mot_all_chr_cmn_facial-003_in"
+      },
+      {
+        "text": "あの、もし良かったら、\n私の給料から天引きしてもらっても\n構いませんから。",
+        "voiceAssetId": "sud_vo_home_ai-05-mizg-01_talk-01-04",
+        "motionAssetId": "mot_adv_chr_cmn_emb-009_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "……あ、でも、あんまり多かったら\n出来れば分割払いでお願いします。",
+        "voiceAssetId": "sud_vo_home_ai-05-mizg-01_talk-01-05",
+        "motionAssetId": "mot_adv_chr_cmn_emb-013_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "えっ？　必要ないですか？　う～ん\n分かりました、じゃあ私がお仕事を\n沢山受けて稼ぎますね！",
+        "voiceAssetId": "sud_vo_home_ai-05-mizg-01_talk-01-06",
+        "motionAssetId": "mot_adv_chr_cmn_pos-009_in",
+        "additionMotionAssetId": ""
+      }
+    ]
+  },
+  {
     "homeTalkId": "home-talk-card-ai-05-tact-00-talk-01",
     "characterId": "char-ai",
     "placeType": 1,
@@ -266,6 +316,56 @@
         "voiceAssetId": "sud_vo_home_aoi-05-kait-00_talk-01-05",
         "motionAssetId": "mot_adv_chr_cmn_talk-011_in",
         "additionMotionAssetId": "mot_all_chr_cmn_facial-037_in"
+      }
+    ]
+  },
+  {
+    "homeTalkId": "home-talk-card-aoi-05-mizg-01-talk-01",
+    "characterId": "char-aoi",
+    "placeType": 1,
+    "conditionId": "cd-st-read-st-card-aoi-05-mizg-01-03",
+    "firstPriority": 9900,
+    "weight": 1,
+    "callPatternId": "call-pattern-card-aoi-05-mizg-01",
+    "choiceText": "夏の野外ライブらしい\n面白いパフォーマンスだったな",
+    "managerText": "夏の野外ライブらしい\n面白いパフォーマンスだったな",
+    "reliability": 5,
+    "characterTalks": [
+      {
+        "text": "僕もやってて気持ち良かったよ\n人に水をかけるのが\nあんなに楽しいとは思わなかった",
+        "voiceAssetId": "sud_vo_home_aoi-05-mizg-01_talk-01-01",
+        "motionAssetId": "mot_adv_chr_cmn_talk-019_in",
+        "additionMotionAssetId": "mot_all_chr_cmn_facial-001_in"
+      },
+      {
+        "text": "あの気分をまた味わいたくて\nこの間、ジムのプールで\n莉央に水をかけて遊んだんだ",
+        "voiceAssetId": "sud_vo_home_aoi-05-mizg-01_talk-01-02",
+        "motionAssetId": "mot_adv_chr_cmn_pos-008_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "そしたらこっぴどく怒られたよ\nトレーニング中に遊ぶな、だってさ",
+        "voiceAssetId": "sud_vo_home_aoi-05-mizg-01_talk-01-03",
+        "motionAssetId": "mot_adv_chr_cmn_talk-001_in",
+        "additionMotionAssetId": "mot_all_chr_cmn_facial-034_in"
+      },
+      {
+        "text": "そういう訳だから\n今度は君に水をかけさせてよ",
+        "voiceAssetId": "sud_vo_home_aoi-05-mizg-01_talk-01-04",
+        "motionAssetId": "mot_adv_chr_cmn_pos-010_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "もちろんここでやる訳じゃないよ\n一緒にプールに行こうって\n言ってるんだ",
+        "voiceAssetId": "sud_vo_home_aoi-05-mizg-01_talk-01-05",
+        "motionAssetId": "mot_adv_chr_cmn_talk-022_in",
+        "additionMotionAssetId": "mot_all_chr_cmn_facial-001_in"
+      },
+      {
+        "text": "僕とプールで水をかけあって\n遊ぶんだ。それじゃ、約束したよ\n嘘とカニカマは嫌いだからね",
+        "voiceAssetId": "sud_vo_home_aoi-05-mizg-01_talk-01-06",
+        "motionAssetId": "mot_adv_chr_cmn_pos-002_in",
+        "additionMotionAssetId": ""
       }
     ]
   },
@@ -6076,7 +6176,7 @@
         "additionMotionAssetId": ""
       },
       {
-        "text": "まぁ、{user}さんが\nよっぽど可愛い案があるっていうな\nら検討しないこともないですから、\n考えておいてくださいね〜",
+        "text": "まぁ、{user}さんがよっぽど可愛い案があるっていうなら検討しないこともないですから、考えておいてくださいね〜",
         "voiceAssetId": "sud_vo_home_kkr_talk-01-5",
         "motionAssetId": "mot_adv_chr_cmn_pos-006_in",
         "additionMotionAssetId": ""
@@ -10996,7 +11096,7 @@
         "additionMotionAssetId": "mot_all_chr_cmn_facial-001_in"
       },
       {
-        "text": "そうだ。せっかくだから{user}さんも一緒にどう？\nマネージャーがいてくれると\nすごく助かるわ。",
+        "text": "そうだ。せっかくだから{user}さんも一緒にどう？マネージャーがいてくれるとすごく助かるわ。",
         "voiceAssetId": "sud_vo_home_rio_talk-10-5",
         "motionAssetId": "mot_adv_chr_cmn_pos-008_in",
         "additionMotionAssetId": ""
@@ -11906,7 +12006,7 @@
         "additionMotionAssetId": ""
       },
       {
-        "text": "{user}さん、気づかせて下さりありがとうございます。\n次回はしっかりよかった所も\n振り返るようにしますね。",
+        "text": "{user}さん、気づかせて下さりありがとうございます。次回はしっかりよかった所も振り返るようにしますね。",
         "voiceAssetId": "sud_vo_home_ski_talk-06-5",
         "motionAssetId": "mot_adv_chr_cmn_glad-002_in",
         "additionMotionAssetId": ""
@@ -12126,7 +12226,7 @@
         "additionMotionAssetId": ""
       },
       {
-        "text": "ただ…{user}さんと二人で買い物に行く…だけなのに、\nな、なぜか、私すごく緊張して\nいて…なぜでしょうか。",
+        "text": "ただ…{user}さんと二人で買い物に行く…だけなのに、な、なぜか、私すごく緊張していて…なぜでしょうか。",
         "voiceAssetId": "sud_vo_home_ski_talk-11-5",
         "motionAssetId": "mot_adv_chr_cmn_emb-002_in",
         "additionMotionAssetId": ""
@@ -13252,7 +13352,7 @@
         "additionMotionAssetId": ""
       },
       {
-        "text": "ほら、{user}さんも\n考えてくださる？\nマネージャーでしたらそういうのも\nできませんと駄目ですわ！",
+        "text": "ほら、{user}さんも考えてくださる？マネージャーでしたらそういうのもできませんと駄目ですわ！",
         "voiceAssetId": "sud_vo_home_suz_talk-01-4",
         "motionAssetId": "mot_adv_chr_cmn_angry-013_in",
         "additionMotionAssetId": "mot_all_chr_cmn_facial-037_in"

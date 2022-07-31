@@ -533,6 +533,27 @@
     "receiveConditionId": "cd-time-login-22-0625-0708"
   },
   {
+    "id": "login_bonus-campaign-22-0804-01",
+    "name": "サマーログイン",
+    "description": "7日間の特別なログインボーナス",
+    "type": 2,
+    "assetId": "login-campaign-22-0804-01",
+    "topColorCode": "00CEFF",
+    "bottomColorCode": "D0FFA0",
+    "priority": 10,
+    "rewardIds": [
+      "rd_auto;item;item-act_promotion_shorten;5",
+      "rd_auto;item;item-daily_quest_ticket_01;3",
+      "rd_auto;item;item-photo_enhance;10",
+      "rd_auto;item;item-daily_quest_ticket_02;3",
+      "rd_auto;item;item-gacha_ticket-r5-22-0624;1",
+      "rd_auto;item;item-daily_quest_ticket_03;3",
+      "rd_auto;stone;;500"
+    ],
+    "openConditionId": "cd-time-login-22-0804-0810",
+    "receiveConditionId": "cd-time-login-22-0804-0817"
+  },
+  {
     "id": "login_bonus-normal-01",
     "name": "デイリー",
     "description": "毎日もらえるログインボーナス",

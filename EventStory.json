@@ -672,5 +672,55 @@
         "viewConditionId": ""
       }
     ]
+  },
+  {
+    "id": "st-eve-2208-backside",
+    "assetId": "event-backside-22-0731",
+    "name": "熱中☆ハプニングサマー",
+    "description": "熱中☆ハプニングサマー",
+    "order": 2000,
+    "viewConditionId": "cd-event-story-220731",
+    "episodes": [
+      {
+        "episode": 1,
+        "assetId": "event_2208_01_01",
+        "storyId": "st-eve-2208-backside-001",
+        "unlockConditionId": "cd-event-story-read-001-220731-220817",
+        "viewConditionId": "",
+        "isAppeal": false
+      },
+      {
+        "episode": 2,
+        "assetId": "event_2208_01_02",
+        "storyId": "st-eve-2208-backside-002",
+        "unlockConditionId": "cd-backside-area_clear-rehearsal-practice-22-0731",
+        "isAppeal": true,
+        "viewConditionId": ""
+      },
+      {
+        "episode": 3,
+        "assetId": "event_2208_01_03",
+        "storyId": "st-eve-2208-backside-003",
+        "unlockConditionId": "cd-backside-area_clear-04-22-0731",
+        "isAppeal": true,
+        "viewConditionId": ""
+      },
+      {
+        "episode": 4,
+        "assetId": "event_2208_01_04",
+        "storyId": "st-eve-2208-backside-004",
+        "unlockConditionId": "cd-backside-area_clear-real-practice-22-0731",
+        "isAppeal": true,
+        "viewConditionId": ""
+      },
+      {
+        "episode": 5,
+        "assetId": "event_2208_01_05",
+        "storyId": "st-eve-2208-backside-005",
+        "unlockConditionId": "cd-backside-area_clear-real-practice-04-22-0731",
+        "isAppeal": true,
+        "viewConditionId": ""
+      }
+    ]
   }
 ]

@@ -36,6 +36,24 @@
     "unlockConditionId": ""
   },
   {
+    "id": "event-backside-22-0731",
+    "eventMissionType": 1,
+    "assetId": "img_banner_l_0000-00",
+    "name": "合宿イベント",
+    "order": 99,
+    "viewConditionId": "cd-time-event_backside-mission-22-0731",
+    "missionIds": [
+      "event-backside-22-0731-backside_area_clear_count-1",
+      "event-backside-22-0731-backside_area_clear_count-2",
+      "event-backside-22-0731-backside_final_score_achievement",
+      "event-backside-22-0731-backside_practice_score_achievement",
+      "event-backside-22-0731-backside_surprise_count",
+      "event-backside-22-0731-card_level_up_count",
+      "event-backside-22-0731-mission_clear_count"
+    ],
+    "unlockConditionId": ""
+  },
+  {
     "id": "event-ladder-22-0513",
     "eventMissionType": 1,
     "assetId": "img_banner_l_event-ladder-22-0513",
@@ -741,6 +759,28 @@
       "event-ms-normal-22-0717-00-mission_clear_count-6",
       "event-ms-normal-22-0717-00-photo_reroll_count-3",
       "event-ms-normal-22-0717-00-quest_daily_clear_count-25"
+    ],
+    "unlockConditionId": ""
+  },
+  {
+    "id": "event_mission-22-0803",
+    "eventMissionType": 2,
+    "assetId": "img_banner_l_event-mission-21-0712",
+    "name": "アイドル育成ミッション",
+    "order": 1,
+    "viewConditionId": "cd-time-event_mission-22-0803",
+    "missionIds": [
+      "event-ms-normal-22-0803-00-card_level_up_count-25",
+      "event-ms-normal-22-0803-00-item_amount-10000000",
+      "event-ms-normal-22-0803-00-item_amount-16500000",
+      "event-ms-normal-22-0803-00-item_amount-3200000",
+      "event-ms-normal-22-0803-00-item_amount-6150000",
+      "event-ms-normal-22-0803-00-item_amount-944000",
+      "event-ms-normal-22-0803-00-login_count-3",
+      "event-ms-normal-22-0803-00-market_exchange_count-20",
+      "event-ms-normal-22-0803-00-mission_clear_count-6",
+      "event-ms-normal-22-0803-00-photo_shoot_total_count-10",
+      "event-ms-normal-22-0803-00-quest_pvp_play_count-15"
     ],
     "unlockConditionId": ""
   },
