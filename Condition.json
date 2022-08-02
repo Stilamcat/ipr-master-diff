@@ -44239,6 +44239,20 @@
     ]
   },
   {
+    "id": "cd-time-daily-sp-22-0731-22-0819",
+    "settings": [
+      {
+        "satisfyCondition": {
+          "conditionId": "cd-clear-area-main-005"
+        },
+        "term": {
+          "nowAfter": "1659236400000",
+          "nowBefore": "1660921199000"
+        }
+      }
+    ]
+  },
+  {
     "id": "cd-time-diary-21-1009",
     "settings": [
       {
