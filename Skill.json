@@ -8278,11 +8278,10 @@
     "levels": [
       {
         "level": 1,
-        "description": "130%のスコア獲得\nスタミナが低い1人のスタミナを500回復\nライブ中1回のみ CT:50",
-        "shortDescription": "\n\nライブ中1回のみ CT:50",
+        "description": "130%のスコア獲得\nスタミナが低い1人のスタミナを500回復\nライブ中1回のみ ",
+        "shortDescription": "\n\nライブ中1回のみ ",
         "probabilityPermil": 1000,
         "limitCount": 1,
-        "coolTime": 50,
         "skillDetails": [
           {
             "efficacyId": "ef-score_get-1300-chart_dependence",
@@ -8297,17 +8296,17 @@
         "requiredCardLevel": 0,
         "stamina": 0,
         "triggerId": "",
+        "coolTime": 0,
         "staminaPermil": 0
       },
       {
         "level": 2,
-        "description": "145%のスコア獲得\nスタミナが低い1人のスタミナを900回復\nライブ中1回のみ CT:50",
-        "shortDescription": "\n\nライブ中1回のみ CT:50",
+        "description": "145%のスコア獲得\nスタミナが低い1人のスタミナを900回復\nライブ中1回のみ ",
+        "shortDescription": "\n\nライブ中1回のみ ",
         "requiredItemAmount": 1,
         "requiredCardLevel": 1,
         "probabilityPermil": 1000,
         "limitCount": 1,
-        "coolTime": 50,
         "skillDetails": [
           {
             "efficacyId": "ef-score_get-1450-chart_dependence",
@@ -8320,17 +8319,17 @@
         ],
         "stamina": 0,
         "triggerId": "",
+        "coolTime": 0,
         "staminaPermil": 0
       },
       {
         "level": 3,
-        "description": "160%のスコア獲得\nスタミナが低い1人のスタミナを1200回復\nライブ中1回のみ CT:50",
-        "shortDescription": "\n\nライブ中1回のみ CT:50",
+        "description": "160%のスコア獲得\nスタミナが低い1人のスタミナを1200回復\nライブ中1回のみ ",
+        "shortDescription": "\n\nライブ中1回のみ ",
         "requiredItemAmount": 1,
         "requiredCardLevel": 2,
         "probabilityPermil": 1000,
         "limitCount": 1,
-        "coolTime": 50,
         "skillDetails": [
           {
             "efficacyId": "ef-score_get-1600-chart_dependence",
@@ -8343,17 +8342,17 @@
         ],
         "stamina": 0,
         "triggerId": "",
+        "coolTime": 0,
         "staminaPermil": 0
       },
       {
         "level": 4,
-        "description": "175%のスコア獲得\nスタミナが低い1人のスタミナを1600回復\nライブ中1回のみ CT:50",
-        "shortDescription": "\n\nライブ中1回のみ CT:50",
+        "description": "175%のスコア獲得\nスタミナが低い1人のスタミナを1600回復\nライブ中1回のみ ",
+        "shortDescription": "\n\nライブ中1回のみ ",
         "requiredItemAmount": 1,
         "requiredCardLevel": 3,
         "probabilityPermil": 1000,
         "limitCount": 1,
-        "coolTime": 50,
         "skillDetails": [
           {
             "efficacyId": "ef-score_get-1750-chart_dependence",
@@ -8366,17 +8365,17 @@
         ],
         "stamina": 0,
         "triggerId": "",
+        "coolTime": 0,
         "staminaPermil": 0
       },
       {
         "level": 5,
-        "description": "205%のスコア獲得\nスタミナが低い1人のスタミナを2300回復\nライブ中1回のみ CT:50",
-        "shortDescription": "\n\nライブ中1回のみ CT:50",
+        "description": "205%のスコア獲得\nスタミナが低い1人のスタミナを2300回復\nライブ中1回のみ ",
+        "shortDescription": "\n\nライブ中1回のみ ",
         "requiredItemAmount": 1,
         "requiredCardLevel": 4,
         "probabilityPermil": 1000,
         "limitCount": 1,
-        "coolTime": 50,
         "skillDetails": [
           {
             "efficacyId": "ef-score_get-2050-chart_dependence",
@@ -8389,17 +8388,17 @@
         ],
         "stamina": 0,
         "triggerId": "",
+        "coolTime": 0,
         "staminaPermil": 0
       },
       {
         "level": 6,
-        "description": "235%のスコア獲得\nスタミナが低い1人のスタミナを3100回復\nライブ中1回のみ CT:50",
-        "shortDescription": "\n\nライブ中1回のみ CT:50",
+        "description": "235%のスコア獲得\nスタミナが低い1人のスタミナを3100回復\nライブ中1回のみ ",
+        "shortDescription": "\n\nライブ中1回のみ ",
         "requiredItemAmount": 1,
         "requiredCardLevel": 5,
         "probabilityPermil": 1000,
         "limitCount": 1,
-        "coolTime": 50,
         "skillDetails": [
           {
             "efficacyId": "ef-score_get-2350-chart_dependence",
@@ -8412,17 +8411,17 @@
         ],
         "stamina": 0,
         "triggerId": "",
+        "coolTime": 0,
         "staminaPermil": 0
       },
       {
         "level": 7,
-        "description": "265%のスコア獲得\nスタミナが低い1人のスタミナを3900回復\nライブ中1回のみ CT:50",
-        "shortDescription": "\n\nライブ中1回のみ CT:50",
+        "description": "265%のスコア獲得\nスタミナが低い1人のスタミナを3900回復\nライブ中1回のみ ",
+        "shortDescription": "\n\nライブ中1回のみ ",
         "requiredItemAmount": 1,
         "requiredCardLevel": 6,
         "probabilityPermil": 1000,
         "limitCount": 1,
-        "coolTime": 50,
         "skillDetails": [
           {
             "efficacyId": "ef-score_get-2650-chart_dependence",
@@ -8435,17 +8434,17 @@
         ],
         "stamina": 0,
         "triggerId": "",
+        "coolTime": 0,
         "staminaPermil": 0
       },
       {
         "level": 8,
-        "description": "290%のスコア獲得\nスタミナが低い1人のスタミナを4700回復\nライブ中1回のみ CT:50",
-        "shortDescription": "\n\nライブ中1回のみ CT:50",
+        "description": "290%のスコア獲得\nスタミナが低い1人のスタミナを4700回復\nライブ中1回のみ ",
+        "shortDescription": "\n\nライブ中1回のみ ",
         "requiredItemAmount": 1,
         "requiredCardLevel": 7,
         "probabilityPermil": 1000,
         "limitCount": 1,
-        "coolTime": 50,
         "skillDetails": [
           {
             "efficacyId": "ef-score_get-2900-chart_dependence",
@@ -8458,17 +8457,17 @@
         ],
         "stamina": 0,
         "triggerId": "",
+        "coolTime": 0,
         "staminaPermil": 0
       },
       {
         "level": 9,
-        "description": "315%のスコア獲得\nスタミナが低い1人のスタミナを5600回復\nライブ中1回のみ CT:50",
-        "shortDescription": "\n\nライブ中1回のみ CT:50",
+        "description": "315%のスコア獲得\nスタミナが低い1人のスタミナを5600回復\nライブ中1回のみ ",
+        "shortDescription": "\n\nライブ中1回のみ ",
         "requiredItemAmount": 1,
         "requiredCardLevel": 8,
         "probabilityPermil": 1000,
         "limitCount": 1,
-        "coolTime": 50,
         "skillDetails": [
           {
             "efficacyId": "ef-score_get-3150-chart_dependence",
@@ -8481,6 +8480,7 @@
         ],
         "stamina": 0,
         "triggerId": "",
+        "coolTime": 0,
         "staminaPermil": 0
       }
     ],
@@ -8493,11 +8493,10 @@
     "levels": [
       {
         "level": 1,
-        "description": "130%のスコア獲得\nスタミナが低い3人のスタミナを400回復\nライブ中1回のみ CT:50",
-        "shortDescription": "\n\nライブ中1回のみ CT:50",
+        "description": "130%のスコア獲得\nスタミナが低い3人のスタミナを400回復\nライブ中1回のみ ",
+        "shortDescription": "\n\nライブ中1回のみ ",
         "probabilityPermil": 1000,
         "limitCount": 1,
-        "coolTime": 50,
         "skillDetails": [
           {
             "efficacyId": "ef-score_get-1300-chart_dependence",
@@ -8512,17 +8511,17 @@
         "requiredCardLevel": 0,
         "stamina": 0,
         "triggerId": "",
+        "coolTime": 0,
         "staminaPermil": 0
       },
       {
         "level": 2,
-        "description": "145%のスコア獲得\nスタミナが低い3人のスタミナを700回復\nライブ中1回のみ CT:50",
-        "shortDescription": "\n\nライブ中1回のみ CT:50",
+        "description": "145%のスコア獲得\nスタミナが低い3人のスタミナを700回復\nライブ中1回のみ ",
+        "shortDescription": "\n\nライブ中1回のみ ",
         "requiredItemAmount": 1,
         "requiredCardLevel": 1,
         "probabilityPermil": 1000,
         "limitCount": 1,
-        "coolTime": 50,
         "skillDetails": [
           {
             "efficacyId": "ef-score_get-1450-chart_dependence",
@@ -8535,17 +8534,17 @@
         ],
         "stamina": 0,
         "triggerId": "",
+        "coolTime": 0,
         "staminaPermil": 0
       },
       {
         "level": 3,
-        "description": "160%のスコア獲得\nスタミナが低い3人のスタミナを900回復\nライブ中1回のみ CT:50",
-        "shortDescription": "\n\nライブ中1回のみ CT:50",
+        "description": "160%のスコア獲得\nスタミナが低い3人のスタミナを900回復\nライブ中1回のみ ",
+        "shortDescription": "\n\nライブ中1回のみ ",
         "requiredItemAmount": 1,
         "requiredCardLevel": 2,
         "probabilityPermil": 1000,
         "limitCount": 1,
-        "coolTime": 50,
         "skillDetails": [
           {
             "efficacyId": "ef-score_get-1600-chart_dependence",
@@ -8558,17 +8557,17 @@
         ],
         "stamina": 0,
         "triggerId": "",
+        "coolTime": 0,
         "staminaPermil": 0
       },
       {
         "level": 4,
-        "description": "175%のスコア獲得\nスタミナが低い3人のスタミナを1200回復\nライブ中1回のみ CT:50",
-        "shortDescription": "\n\nライブ中1回のみ CT:50",
+        "description": "175%のスコア獲得\nスタミナが低い3人のスタミナを1200回復\nライブ中1回のみ ",
+        "shortDescription": "\n\nライブ中1回のみ ",
         "requiredItemAmount": 1,
         "requiredCardLevel": 3,
         "probabilityPermil": 1000,
         "limitCount": 1,
-        "coolTime": 50,
         "skillDetails": [
           {
             "efficacyId": "ef-score_get-1750-chart_dependence",
@@ -8581,17 +8580,17 @@
         ],
         "stamina": 0,
         "triggerId": "",
+        "coolTime": 0,
         "staminaPermil": 0
       },
       {
         "level": 5,
-        "description": "205%のスコア獲得\nスタミナが低い3人のスタミナを1800回復\nライブ中1回のみ CT:50",
-        "shortDescription": "\n\nライブ中1回のみ CT:50",
+        "description": "205%のスコア獲得\nスタミナが低い3人のスタミナを1800回復\nライブ中1回のみ ",
+        "shortDescription": "\n\nライブ中1回のみ ",
         "requiredItemAmount": 1,
         "requiredCardLevel": 4,
         "probabilityPermil": 1000,
         "limitCount": 1,
-        "coolTime": 50,
         "skillDetails": [
           {
             "efficacyId": "ef-score_get-2050-chart_dependence",
@@ -8604,17 +8603,17 @@
         ],
         "stamina": 0,
         "triggerId": "",
+        "coolTime": 0,
         "staminaPermil": 0
       },
       {
         "level": 6,
-        "description": "235%のスコア獲得\nスタミナが低い3人のスタミナを2400回復\nライブ中1回のみ CT:50",
-        "shortDescription": "\n\nライブ中1回のみ CT:50",
+        "description": "235%のスコア獲得\nスタミナが低い3人のスタミナを2400回復\nライブ中1回のみ ",
+        "shortDescription": "\n\nライブ中1回のみ ",
         "requiredItemAmount": 1,
         "requiredCardLevel": 5,
         "probabilityPermil": 1000,
         "limitCount": 1,
-        "coolTime": 50,
         "skillDetails": [
           {
             "efficacyId": "ef-score_get-2350-chart_dependence",
@@ -8627,17 +8626,17 @@
         ],
         "stamina": 0,
         "triggerId": "",
+        "coolTime": 0,
         "staminaPermil": 0
       },
       {
         "level": 7,
-        "description": "265%のスコア獲得\nスタミナが低い3人のスタミナを3100回復\nライブ中1回のみ CT:50",
-        "shortDescription": "\n\nライブ中1回のみ CT:50",
+        "description": "265%のスコア獲得\nスタミナが低い3人のスタミナを3100回復\nライブ中1回のみ ",
+        "shortDescription": "\n\nライブ中1回のみ ",
         "requiredItemAmount": 1,
         "requiredCardLevel": 6,
         "probabilityPermil": 1000,
         "limitCount": 1,
-        "coolTime": 50,
         "skillDetails": [
           {
             "efficacyId": "ef-score_get-2650-chart_dependence",
@@ -8650,17 +8649,17 @@
         ],
         "stamina": 0,
         "triggerId": "",
+        "coolTime": 0,
         "staminaPermil": 0
       },
       {
         "level": 8,
-        "description": "290%のスコア獲得\nスタミナが低い3人のスタミナを3700回復\nライブ中1回のみ CT:50",
-        "shortDescription": "\n\nライブ中1回のみ CT:50",
+        "description": "290%のスコア獲得\nスタミナが低い3人のスタミナを3700回復\nライブ中1回のみ ",
+        "shortDescription": "\n\nライブ中1回のみ ",
         "requiredItemAmount": 1,
         "requiredCardLevel": 7,
         "probabilityPermil": 1000,
         "limitCount": 1,
-        "coolTime": 50,
         "skillDetails": [
           {
             "efficacyId": "ef-score_get-2900-chart_dependence",
@@ -8673,17 +8672,17 @@
         ],
         "stamina": 0,
         "triggerId": "",
+        "coolTime": 0,
         "staminaPermil": 0
       },
       {
         "level": 9,
-        "description": "315%のスコア獲得\nスタミナが低い3人のスタミナを4400回復\nライブ中1回のみ CT:50",
-        "shortDescription": "\n\nライブ中1回のみ CT:50",
+        "description": "315%のスコア獲得\nスタミナが低い3人のスタミナを4400回復\nライブ中1回のみ ",
+        "shortDescription": "\n\nライブ中1回のみ ",
         "requiredItemAmount": 1,
         "requiredCardLevel": 8,
         "probabilityPermil": 1000,
         "limitCount": 1,
-        "coolTime": 50,
         "skillDetails": [
           {
             "efficacyId": "ef-score_get-3150-chart_dependence",
@@ -8696,6 +8695,7 @@
         ],
         "stamina": 0,
         "triggerId": "",
+        "coolTime": 0,
         "staminaPermil": 0
       }
     ],
