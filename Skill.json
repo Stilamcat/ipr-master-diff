@@ -19434,6 +19434,420 @@
     "assetId": ""
   },
   {
+    "id": "sk-kkr-05-mizg-01-1",
+    "name": "ココロからの感謝です",
+    "categoryType": 1,
+    "levels": [
+      {
+        "level": 1,
+        "description": "900%のスコア獲得、自身がダンスレーンの時スコア獲得倍率が1600%に上昇\nスタミナ337消費 ",
+        "shortDescription": "\nスタミナ337消費 ",
+        "stamina": 337,
+        "probabilityPermil": 1000,
+        "skillDetails": [
+          {
+            "efficacyId": "ef-score_get_by_trigger-9000-tg-position_attribute_dance-16000-chart_dependence",
+            "triggerId": ""
+          }
+        ],
+        "requiredItemAmount": 0,
+        "requiredCardLevel": 0,
+        "triggerId": "",
+        "limitCount": 0,
+        "coolTime": 0,
+        "staminaPermil": 0
+      },
+      {
+        "level": 2,
+        "description": "1000%のスコア獲得、自身がダンスレーンの時スコア獲得倍率が1750%に上昇\nスタミナ372消費 ",
+        "shortDescription": "\nスタミナ372消費 ",
+        "requiredItemAmount": 500,
+        "requiredCardLevel": 40,
+        "stamina": 372,
+        "probabilityPermil": 1000,
+        "skillDetails": [
+          {
+            "efficacyId": "ef-score_get_by_trigger-10000-tg-position_attribute_dance-17500-chart_dependence",
+            "triggerId": ""
+          }
+        ],
+        "triggerId": "",
+        "limitCount": 0,
+        "coolTime": 0,
+        "staminaPermil": 0
+      },
+      {
+        "level": 3,
+        "description": "1100%のスコア獲得、自身がダンスレーンの時スコア獲得倍率が1900%に上昇\nスタミナ407消費 ",
+        "shortDescription": "\nスタミナ407消費 ",
+        "requiredItemAmount": 2000,
+        "requiredCardLevel": 60,
+        "stamina": 407,
+        "probabilityPermil": 1000,
+        "skillDetails": [
+          {
+            "efficacyId": "ef-score_get_by_trigger-11000-tg-position_attribute_dance-19000-chart_dependence",
+            "triggerId": ""
+          }
+        ],
+        "triggerId": "",
+        "limitCount": 0,
+        "coolTime": 0,
+        "staminaPermil": 0
+      },
+      {
+        "level": 4,
+        "description": "1250%のスコア獲得、自身がダンスレーンの時スコア獲得倍率が2150%に上昇\nスタミナ461消費 ",
+        "shortDescription": "\nスタミナ461消費 ",
+        "requiredItemAmount": 15000,
+        "requiredCardLevel": 90,
+        "stamina": 461,
+        "probabilityPermil": 1000,
+        "skillDetails": [
+          {
+            "efficacyId": "ef-score_get_by_trigger-12500-tg-position_attribute_dance-21500-chart_dependence",
+            "triggerId": ""
+          }
+        ],
+        "triggerId": "",
+        "limitCount": 0,
+        "coolTime": 0,
+        "staminaPermil": 0
+      },
+      {
+        "level": 5,
+        "description": "1350%のスコア獲得、自身がダンスレーンの時スコア獲得倍率が2400%に上昇\nスタミナ506消費 ",
+        "shortDescription": "\nスタミナ506消費 ",
+        "requiredItemAmount": 100000,
+        "requiredCardLevel": 150,
+        "stamina": 506,
+        "probabilityPermil": 1000,
+        "skillDetails": [
+          {
+            "efficacyId": "ef-score_get_by_trigger-13500-tg-position_attribute_dance-24000-chart_dependence",
+            "triggerId": ""
+          }
+        ],
+        "triggerId": "",
+        "limitCount": 0,
+        "coolTime": 0,
+        "staminaPermil": 0
+      },
+      {
+        "level": 6,
+        "description": "1500%のスコア獲得、自身がダンスレーンの時スコア獲得倍率が2650%に上昇\nスタミナ561消費 ",
+        "shortDescription": "\nスタミナ561消費 ",
+        "requiredItemAmount": 230000,
+        "requiredCardLevel": 180,
+        "stamina": 561,
+        "probabilityPermil": 1000,
+        "skillDetails": [
+          {
+            "efficacyId": "ef-score_get_by_trigger-15000-tg-position_attribute_dance-26500-chart_dependence",
+            "triggerId": ""
+          }
+        ],
+        "triggerId": "",
+        "limitCount": 0,
+        "coolTime": 0,
+        "staminaPermil": 0
+      }
+    ],
+    "assetId": "sk-kkr-05-mizg-01-1"
+  },
+  {
+    "id": "sk-kkr-05-mizg-01-2",
+    "name": "甘くて冷たくて刺激的",
+    "categoryType": 2,
+    "levels": [
+      {
+        "level": 1,
+        "description": "190%のスコア獲得、コンボ数が多い程効果上昇\n自身に4段階SPスキルスコア上昇効果\nスタミナ111消費 CT:30",
+        "shortDescription": "\n\nスタミナ111消費 CT:30",
+        "stamina": 111,
+        "probabilityPermil": 1000,
+        "coolTime": 30,
+        "skillDetails": [
+          {
+            "efficacyId": "ef-score_get_by_more_combo_count-1900-chart_dependence",
+            "triggerId": ""
+          },
+          {
+            "efficacyId": "ef-special_skill_score_up-4-target-self-999",
+            "triggerId": ""
+          }
+        ],
+        "requiredItemAmount": 0,
+        "requiredCardLevel": 0,
+        "triggerId": "",
+        "limitCount": 0,
+        "staminaPermil": 0
+      },
+      {
+        "level": 2,
+        "description": "200%のスコア獲得、コンボ数が多い程効果上昇\n自身に5段階SPスキルスコア上昇効果\nスタミナ122消費 CT:30",
+        "shortDescription": "\n\nスタミナ122消費 CT:30",
+        "requiredItemAmount": 1000,
+        "requiredCardLevel": 50,
+        "stamina": 122,
+        "probabilityPermil": 1000,
+        "coolTime": 30,
+        "skillDetails": [
+          {
+            "efficacyId": "ef-score_get_by_more_combo_count-2000-chart_dependence",
+            "triggerId": ""
+          },
+          {
+            "efficacyId": "ef-special_skill_score_up-5-target-self-999",
+            "triggerId": ""
+          }
+        ],
+        "triggerId": "",
+        "limitCount": 0,
+        "staminaPermil": 0
+      },
+      {
+        "level": 3,
+        "description": "210%のスコア獲得、コンボ数が多い程効果上昇\n自身に5段階SPスキルスコア上昇効果\nスタミナ127消費 CT:30",
+        "shortDescription": "\n\nスタミナ127消費 CT:30",
+        "requiredItemAmount": 4000,
+        "requiredCardLevel": 70,
+        "stamina": 127,
+        "probabilityPermil": 1000,
+        "coolTime": 30,
+        "skillDetails": [
+          {
+            "efficacyId": "ef-score_get_by_more_combo_count-2100-chart_dependence",
+            "triggerId": ""
+          },
+          {
+            "efficacyId": "ef-special_skill_score_up-5-target-self-999",
+            "triggerId": ""
+          }
+        ],
+        "triggerId": "",
+        "limitCount": 0,
+        "staminaPermil": 0
+      },
+      {
+        "level": 4,
+        "description": "220%のスコア獲得、コンボ数が多い程効果上昇\n自身に6段階SPスキルスコア上昇効果\nスタミナ138消費 CT:30",
+        "shortDescription": "\n\nスタミナ138消費 CT:30",
+        "requiredItemAmount": 30000,
+        "requiredCardLevel": 110,
+        "stamina": 138,
+        "probabilityPermil": 1000,
+        "coolTime": 30,
+        "skillDetails": [
+          {
+            "efficacyId": "ef-score_get_by_more_combo_count-2200-chart_dependence",
+            "triggerId": ""
+          },
+          {
+            "efficacyId": "ef-special_skill_score_up-6-target-self-999",
+            "triggerId": ""
+          }
+        ],
+        "triggerId": "",
+        "limitCount": 0,
+        "staminaPermil": 0
+      },
+      {
+        "level": 5,
+        "description": "230%のスコア獲得、コンボ数が多い程効果上昇\n自身に6段階SPスキルスコア上昇効果\nスタミナ142消費 CT:30",
+        "shortDescription": "\n\nスタミナ142消費 CT:30",
+        "requiredItemAmount": 140000,
+        "requiredCardLevel": 160,
+        "stamina": 142,
+        "probabilityPermil": 1000,
+        "coolTime": 30,
+        "skillDetails": [
+          {
+            "efficacyId": "ef-score_get_by_more_combo_count-2300-chart_dependence",
+            "triggerId": ""
+          },
+          {
+            "efficacyId": "ef-special_skill_score_up-6-target-self-999",
+            "triggerId": ""
+          }
+        ],
+        "triggerId": "",
+        "limitCount": 0,
+        "staminaPermil": 0
+      },
+      {
+        "level": 6,
+        "description": "250%のスコア獲得、コンボ数が多い程効果上昇\n自身に7段階SPスキルスコア上昇効果\nスタミナ158消費 CT:30",
+        "shortDescription": "\n\nスタミナ158消費 CT:30",
+        "requiredItemAmount": 280000,
+        "requiredCardLevel": 200,
+        "stamina": 158,
+        "probabilityPermil": 1000,
+        "coolTime": 30,
+        "skillDetails": [
+          {
+            "efficacyId": "ef-score_get_by_more_combo_count-2500-chart_dependence",
+            "triggerId": ""
+          },
+          {
+            "efficacyId": "ef-special_skill_score_up-7-target-self-999",
+            "triggerId": ""
+          }
+        ],
+        "triggerId": "",
+        "limitCount": 0,
+        "staminaPermil": 0
+      }
+    ],
+    "assetId": ""
+  },
+  {
+    "id": "sk-kkr-05-mizg-01-3",
+    "name": "アタマがキーン",
+    "categoryType": 3,
+    "levels": [
+      {
+        "level": 1,
+        "description": "自身に4段階ダンス上昇効果[29ビート]\n[ライブバトルのみ]同じレーンの相手に15段階スタミナ消費増加効果[45ビート]\nスタミナ186消費 CT:45",
+        "shortDescription": "\n\nスタミナ186消費 CT:45",
+        "stamina": 186,
+        "probabilityPermil": 1000,
+        "coolTime": 45,
+        "skillDetails": [
+          {
+            "efficacyId": "ef-dance_up-4-target-self-29",
+            "triggerId": ""
+          },
+          {
+            "efficacyId": "ef-stamina_consumption_increase-15-target-opponent_same_position-45",
+            "triggerId": ""
+          }
+        ],
+        "requiredItemAmount": 0,
+        "requiredCardLevel": 0,
+        "triggerId": "",
+        "limitCount": 0,
+        "staminaPermil": 0
+      },
+      {
+        "level": 2,
+        "description": "自身に4段階ダンス上昇効果[33ビート]\n[ライブバトルのみ]同じレーンの相手に15段階スタミナ消費増加効果[45ビート]\nスタミナ200消費 CT:45",
+        "shortDescription": "\n\nスタミナ200消費 CT:45",
+        "requiredItemAmount": 15000,
+        "requiredCardLevel": 100,
+        "stamina": 200,
+        "probabilityPermil": 1000,
+        "coolTime": 45,
+        "skillDetails": [
+          {
+            "efficacyId": "ef-dance_up-4-target-self-33",
+            "triggerId": ""
+          },
+          {
+            "efficacyId": "ef-stamina_consumption_increase-15-target-opponent_same_position-45",
+            "triggerId": ""
+          }
+        ],
+        "triggerId": "",
+        "limitCount": 0,
+        "staminaPermil": 0
+      },
+      {
+        "level": 3,
+        "description": "自身に5段階ダンス上昇効果[33ビート]\n[ライブバトルのみ]同じレーンの相手に15段階スタミナ消費増加効果[45ビート]\nスタミナ232消費 CT:45",
+        "shortDescription": "\n\nスタミナ232消費 CT:45",
+        "requiredItemAmount": 60000,
+        "requiredCardLevel": 130,
+        "stamina": 232,
+        "probabilityPermil": 1000,
+        "coolTime": 45,
+        "skillDetails": [
+          {
+            "efficacyId": "ef-dance_up-5-target-self-33",
+            "triggerId": ""
+          },
+          {
+            "efficacyId": "ef-stamina_consumption_increase-15-target-opponent_same_position-45",
+            "triggerId": ""
+          }
+        ],
+        "triggerId": "",
+        "limitCount": 0,
+        "staminaPermil": 0
+      },
+      {
+        "level": 4,
+        "description": "自身に5段階ダンス上昇効果[38ビート]\n[ライブバトルのみ]同じレーンの相手に15段階スタミナ消費増加効果[45ビート]\nスタミナ255消費 CT:45",
+        "shortDescription": "\n\nスタミナ255消費 CT:45",
+        "requiredItemAmount": 180000,
+        "requiredCardLevel": 170,
+        "stamina": 255,
+        "probabilityPermil": 1000,
+        "coolTime": 45,
+        "skillDetails": [
+          {
+            "efficacyId": "ef-dance_up-5-target-self-38",
+            "triggerId": ""
+          },
+          {
+            "efficacyId": "ef-stamina_consumption_increase-15-target-opponent_same_position-45",
+            "triggerId": ""
+          }
+        ],
+        "triggerId": "",
+        "limitCount": 0,
+        "staminaPermil": 0
+      },
+      {
+        "level": 5,
+        "description": "自身に6段階ダンス上昇効果[38ビート]\n[ライブバトルのみ]同じレーンの相手に15段階スタミナ消費増加効果[45ビート]\nスタミナ291消費 CT:45",
+        "shortDescription": "\n\nスタミナ291消費 CT:45",
+        "requiredItemAmount": 230000,
+        "requiredCardLevel": 210,
+        "stamina": 291,
+        "probabilityPermil": 1000,
+        "coolTime": 45,
+        "skillDetails": [
+          {
+            "efficacyId": "ef-dance_up-6-target-self-38",
+            "triggerId": ""
+          },
+          {
+            "efficacyId": "ef-stamina_consumption_increase-15-target-opponent_same_position-45",
+            "triggerId": ""
+          }
+        ],
+        "triggerId": "",
+        "limitCount": 0,
+        "staminaPermil": 0
+      },
+      {
+        "level": 6,
+        "description": "自身に6段階ダンス上昇効果[43ビート]\n[ライブバトルのみ]同じレーンの相手に15段階スタミナ消費増加効果[45ビート]\nスタミナ319消費 CT:45",
+        "shortDescription": "\n\nスタミナ319消費 CT:45",
+        "requiredItemAmount": 230000,
+        "requiredCardLevel": 220,
+        "stamina": 319,
+        "probabilityPermil": 1000,
+        "coolTime": 45,
+        "skillDetails": [
+          {
+            "efficacyId": "ef-dance_up-6-target-self-43",
+            "triggerId": ""
+          },
+          {
+            "efficacyId": "ef-stamina_consumption_increase-15-target-opponent_same_position-45",
+            "triggerId": ""
+          }
+        ],
+        "triggerId": "",
+        "limitCount": 0,
+        "staminaPermil": 0
+      }
+    ],
+    "assetId": ""
+  },
+  {
     "id": "sk-kkr-05-seik-00-1",
     "name": "ゴーマイウェイ！",
     "categoryType": 2,

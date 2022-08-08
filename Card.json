@@ -1728,6 +1728,66 @@
     "activityAbilityId": ""
   },
   {
+    "id": "card-kkr-05-mizg-01",
+    "assetId": "kkr-05-mizg-01",
+    "name": "忘れられない夏の味",
+    "description": "あれ～、照れてるんですかぁ？\r\n恥ずかしがらなくていいんですよ？\r\n溶けちゃう前にこころが食べさせてあげますね\r\nお口を開けて……はい、あーん",
+    "type": 1,
+    "characterId": "char-kkr",
+    "initialRarity": 5,
+    "cardParameterId": "card-param-01",
+    "vocalRatioPermil": 279,
+    "danceRatioPermil": 433,
+    "visualRatioPermil": 318,
+    "staminaRatioPermil": 900,
+    "cardLevelReleaseId": "card_level_release_1",
+    "skillId1": "sk-kkr-05-mizg-01-1",
+    "skillId2": "sk-kkr-05-mizg-01-2",
+    "skillId3": "sk-kkr-05-mizg-01-3",
+    "liveAbilityId": "lba-special_skill_score_multiply",
+    "order": 230,
+    "releaseDate": "1659927600000",
+    "rewardCostumeId": "cos-kkr-mizg-01",
+    "imageType1": 3,
+    "displayPositionX1": 0.035,
+    "displayScale1": 1.0,
+    "highlightDisplayPositionX1": 0.103,
+    "highlightDisplayPositionY1": 0.118,
+    "highlightDisplayScale1": 0.6,
+    "imageType2": 3,
+    "displayPositionX2": 0.035,
+    "displayScale2": 1.0,
+    "highlightDisplayPositionX2": 0.103,
+    "highlightDisplayPositionY2": 0.118,
+    "highlightDisplayScale2": 0.6,
+    "obtainMessage": "やっぱり夏といえばかき氷ですよね～",
+    "stories": [
+      {
+        "storyId": "st-card-kkr-05-mizg-01-01"
+      },
+      {
+        "storyId": "st-card-kkr-05-mizg-01-02"
+      },
+      {
+        "storyId": "st-card-kkr-05-mizg-01-03"
+      }
+    ],
+    "messages": [
+      {
+        "messageId": "message-card-kkr-05-mizg-01",
+        "telephoneId": ""
+      },
+      {
+        "telephoneId": "tel-card-kkr-05-mizg-01",
+        "messageId": ""
+      }
+    ],
+    "activityAbilityId": "",
+    "displayPositionY1": 0.0,
+    "displayPositionY2": 0.0,
+    "homeTalks": []
+  },
+  {
     "id": "card-kkr-05-seik-00",
     "assetId": "kkr-05-seik-00",
     "name": "私は私",

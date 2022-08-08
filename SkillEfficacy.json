@@ -10880,6 +10880,16 @@
     "shortDescription": ""
   },
   {
+    "id": "ef-dance_up-4-target-self-29",
+    "name": "自身にダンスアップ",
+    "type": 13,
+    "description": "自身に4段階ダンス上昇効果[29ビート]",
+    "grade": 4,
+    "maxGrade": 20,
+    "skillTargetId": "target-self",
+    "shortDescription": ""
+  },
+  {
     "id": "ef-dance_up-4-target-self-30",
     "name": "自身にダンスアップ",
     "type": 13,
@@ -10894,6 +10904,16 @@
     "name": "自身にダンスアップ",
     "type": 13,
     "description": "自身に4段階ダンス上昇効果[32ビート]",
+    "grade": 4,
+    "maxGrade": 20,
+    "skillTargetId": "target-self",
+    "shortDescription": ""
+  },
+  {
+    "id": "ef-dance_up-4-target-self-33",
+    "name": "自身にダンスアップ",
+    "type": 13,
+    "description": "自身に4段階ダンス上昇効果[33ビート]",
     "grade": 4,
     "maxGrade": 20,
     "skillTargetId": "target-self",
@@ -11300,6 +11320,16 @@
     "shortDescription": ""
   },
   {
+    "id": "ef-dance_up-5-target-self-33",
+    "name": "自身にダンスアップ",
+    "type": 13,
+    "description": "自身に5段階ダンス上昇効果[33ビート]",
+    "grade": 5,
+    "maxGrade": 20,
+    "skillTargetId": "target-self",
+    "shortDescription": ""
+  },
+  {
     "id": "ef-dance_up-5-target-self-34",
     "name": "自身にダンスアップ",
     "type": 13,
@@ -11324,6 +11354,16 @@
     "name": "自身にダンスアップ",
     "type": 13,
     "description": "自身に5段階ダンス上昇効果[36ビート]",
+    "grade": 5,
+    "maxGrade": 20,
+    "skillTargetId": "target-self",
+    "shortDescription": ""
+  },
+  {
+    "id": "ef-dance_up-5-target-self-38",
+    "name": "自身にダンスアップ",
+    "type": 13,
+    "description": "自身に5段階ダンス上昇効果[38ビート]",
     "grade": 5,
     "maxGrade": 20,
     "skillTargetId": "target-self",
@@ -11794,6 +11834,16 @@
     "name": "自身にダンスアップ",
     "type": 13,
     "description": "自身に6段階ダンス上昇効果[41ビート]",
+    "grade": 6,
+    "maxGrade": 20,
+    "skillTargetId": "target-self",
+    "shortDescription": ""
+  },
+  {
+    "id": "ef-dance_up-6-target-self-43",
+    "name": "自身にダンスアップ",
+    "type": 13,
+    "description": "自身に6段階ダンス上昇効果[43ビート]",
     "grade": 6,
     "maxGrade": 20,
     "skillTargetId": "target-self",
@@ -16930,6 +16980,56 @@
     "skillTargetId": ""
   },
   {
+    "id": "ef-score_get_by_more_combo_count-1900-chart_dependence",
+    "name": "スコア獲得-コンボ数が多いほど効果上昇",
+    "type": 8,
+    "description": "190%のスコア獲得、コンボ数が多い程効果上昇",
+    "shortDescription": "",
+    "grade": 0,
+    "maxGrade": 0,
+    "skillTargetId": ""
+  },
+  {
+    "id": "ef-score_get_by_more_combo_count-2000-chart_dependence",
+    "name": "スコア獲得-コンボ数が多いほど効果上昇",
+    "type": 8,
+    "description": "200%のスコア獲得、コンボ数が多い程効果上昇",
+    "shortDescription": "",
+    "grade": 0,
+    "maxGrade": 0,
+    "skillTargetId": ""
+  },
+  {
+    "id": "ef-score_get_by_more_combo_count-2100-chart_dependence",
+    "name": "スコア獲得-コンボ数が多いほど効果上昇",
+    "type": 8,
+    "description": "210%のスコア獲得、コンボ数が多い程効果上昇",
+    "shortDescription": "",
+    "grade": 0,
+    "maxGrade": 0,
+    "skillTargetId": ""
+  },
+  {
+    "id": "ef-score_get_by_more_combo_count-2200-chart_dependence",
+    "name": "スコア獲得-コンボ数が多いほど効果上昇",
+    "type": 8,
+    "description": "220%のスコア獲得、コンボ数が多い程効果上昇",
+    "shortDescription": "",
+    "grade": 0,
+    "maxGrade": 0,
+    "skillTargetId": ""
+  },
+  {
+    "id": "ef-score_get_by_more_combo_count-2300-chart_dependence",
+    "name": "スコア獲得-コンボ数が多いほど効果上昇",
+    "type": 8,
+    "description": "230%のスコア獲得、コンボ数が多い程効果上昇",
+    "shortDescription": "",
+    "grade": 0,
+    "maxGrade": 0,
+    "skillTargetId": ""
+  },
+  {
     "id": "ef-score_get_by_more_combo_count-2500-chart_dependence",
     "name": "スコア獲得-コンボ数が多いほど効果上昇",
     "type": 8,
@@ -19460,10 +19560,30 @@
     "skillTargetId": ""
   },
   {
+    "id": "ef-score_get_by_trigger-10000-tg-position_attribute_dance-17500-chart_dependence",
+    "name": "スコア獲得-ダンスレーン時スコア獲得倍率上昇",
+    "type": 10,
+    "description": "1000%のスコア獲得、自身がダンスレーンの時スコア獲得倍率が1750%に上昇",
+    "shortDescription": "",
+    "grade": 0,
+    "maxGrade": 0,
+    "skillTargetId": ""
+  },
+  {
     "id": "ef-score_get_by_trigger-11000-tg-combo-80-19000-chart_dependence",
     "name": "スコア獲得-80コンボ以上時スコア獲得倍率上昇",
     "type": 10,
     "description": "1100%のスコア獲得、80コンボ以上時スコア獲得倍率が1900%に上昇",
+    "shortDescription": "",
+    "grade": 0,
+    "maxGrade": 0,
+    "skillTargetId": ""
+  },
+  {
+    "id": "ef-score_get_by_trigger-11000-tg-position_attribute_dance-19000-chart_dependence",
+    "name": "スコア獲得-ダンスレーン時スコア獲得倍率上昇",
+    "type": 10,
+    "description": "1100%のスコア獲得、自身がダンスレーンの時スコア獲得倍率が1900%に上昇",
     "shortDescription": "",
     "grade": 0,
     "maxGrade": 0,
@@ -19480,10 +19600,30 @@
     "skillTargetId": ""
   },
   {
+    "id": "ef-score_get_by_trigger-12500-tg-position_attribute_dance-21500-chart_dependence",
+    "name": "スコア獲得-ダンスレーン時スコア獲得倍率上昇",
+    "type": 10,
+    "description": "1250%のスコア獲得、自身がダンスレーンの時スコア獲得倍率が2150%に上昇",
+    "shortDescription": "",
+    "grade": 0,
+    "maxGrade": 0,
+    "skillTargetId": ""
+  },
+  {
     "id": "ef-score_get_by_trigger-13500-tg-combo-80-24000-chart_dependence",
     "name": "スコア獲得-80コンボ以上時スコア獲得倍率上昇",
     "type": 10,
     "description": "1350%のスコア獲得、80コンボ以上時スコア獲得倍率が2400%に上昇",
+    "shortDescription": "",
+    "grade": 0,
+    "maxGrade": 0,
+    "skillTargetId": ""
+  },
+  {
+    "id": "ef-score_get_by_trigger-13500-tg-position_attribute_dance-24000-chart_dependence",
+    "name": "スコア獲得-ダンスレーン時スコア獲得倍率上昇",
+    "type": 10,
+    "description": "1350%のスコア獲得、自身がダンスレーンの時スコア獲得倍率が2400%に上昇",
     "shortDescription": "",
     "grade": 0,
     "maxGrade": 0,
@@ -19500,10 +19640,30 @@
     "skillTargetId": ""
   },
   {
+    "id": "ef-score_get_by_trigger-15000-tg-position_attribute_dance-26500-chart_dependence",
+    "name": "スコア獲得-ダンスレーン時スコア獲得倍率上昇",
+    "type": 10,
+    "description": "1500%のスコア獲得、自身がダンスレーンの時スコア獲得倍率が2650%に上昇",
+    "shortDescription": "",
+    "grade": 0,
+    "maxGrade": 0,
+    "skillTargetId": ""
+  },
+  {
     "id": "ef-score_get_by_trigger-9000-tg-combo-80-16000-chart_dependence",
     "name": "スコア獲得-80コンボ以上時スコア獲得倍率上昇",
     "type": 10,
     "description": "900%のスコア獲得、80コンボ以上時スコア獲得倍率が1600%に上昇",
+    "shortDescription": "",
+    "grade": 0,
+    "maxGrade": 0,
+    "skillTargetId": ""
+  },
+  {
+    "id": "ef-score_get_by_trigger-9000-tg-position_attribute_dance-16000-chart_dependence",
+    "name": "スコア獲得-ダンスレーン時スコア獲得倍率上昇",
+    "type": 10,
+    "description": "900%のスコア獲得、自身がダンスレーンの時スコア獲得倍率が1600%に上昇",
     "shortDescription": "",
     "grade": 0,
     "maxGrade": 0,
@@ -24690,6 +24850,16 @@
     "shortDescription": ""
   },
   {
+    "id": "ef-special_skill_score_up-4-target-self-999",
+    "name": "自身にSPスキルスコアアップ",
+    "type": 34,
+    "description": "自身に4段階SPスキルスコア上昇効果",
+    "grade": 4,
+    "maxGrade": 20,
+    "skillTargetId": "target-self",
+    "shortDescription": ""
+  },
+  {
     "id": "ef-special_skill_score_up-4-target-trigger-5",
     "name": "対象にSPスキルスコアアップ",
     "type": 34,
@@ -24710,6 +24880,16 @@
     "shortDescription": ""
   },
   {
+    "id": "ef-special_skill_score_up-5-target-self-999",
+    "name": "自身にSPスキルスコアアップ",
+    "type": 34,
+    "description": "自身に5段階SPスキルスコア上昇効果",
+    "grade": 5,
+    "maxGrade": 20,
+    "skillTargetId": "target-self",
+    "shortDescription": ""
+  },
+  {
     "id": "ef-special_skill_score_up-5-target-trigger-5",
     "name": "対象にSPスキルスコアアップ",
     "type": 34,
@@ -24720,6 +24900,16 @@
     "shortDescription": ""
   },
   {
+    "id": "ef-special_skill_score_up-6-target-self-999",
+    "name": "自身にSPスキルスコアアップ",
+    "type": 34,
+    "description": "自身に6段階SPスキルスコア上昇効果",
+    "grade": 6,
+    "maxGrade": 20,
+    "skillTargetId": "target-self",
+    "shortDescription": ""
+  },
+  {
     "id": "ef-special_skill_score_up-6-target-trigger-5",
     "name": "対象にSPスキルスコアアップ",
     "type": 34,
@@ -24727,6 +24917,16 @@
     "grade": 6,
     "maxGrade": 20,
     "skillTargetId": "target-trigger",
+    "shortDescription": ""
+  },
+  {
+    "id": "ef-special_skill_score_up-7-target-self-999",
+    "name": "自身にSPスキルスコアアップ",
+    "type": 34,
+    "description": "自身に7段階SPスキルスコア上昇効果",
+    "grade": 7,
+    "maxGrade": 20,
+    "skillTargetId": "target-self",
     "shortDescription": ""
   },
   {
@@ -24837,6 +25037,16 @@
     "grade": 10,
     "maxGrade": 20,
     "skillTargetId": "target-self",
+    "shortDescription": ""
+  },
+  {
+    "id": "ef-stamina_consumption_increase-15-target-opponent_same_position-45",
+    "name": "同じレーンの相手にスタミナ消費増加",
+    "type": 33,
+    "description": "[ライブバトルのみ]同じレーンの相手に15段階スタミナ消費増加効果[45ビート]",
+    "grade": 15,
+    "maxGrade": 20,
+    "skillTargetId": "target-opponent_same_position",
     "shortDescription": ""
   },
   {

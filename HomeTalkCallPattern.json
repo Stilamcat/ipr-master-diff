@@ -472,7 +472,7 @@
     "characterId": "char-kan",
     "patternId": "call-pattern-kan-01",
     "managerCallText": "お疲れさま",
-    "characterArrivalText": "ⅢXのkanaで～す！　\nこれからは星見の子達と一緒に、もっと上を目指して頑張りま～す！\nみんな、応援よろしくね～！　",
+    "characterArrivalText": "ⅢXのkanaで～す！\nこれからは星見の子達と一緒に、もっと上を目指して頑張りま～す！\nみんな、応援よろしくね～！",
     "characterArrivalVoiceAssetId": "sud_vo_home_kan_talk-01-start"
   },
   {
@@ -554,6 +554,13 @@
   },
   {
     "characterId": "char-kkr",
+    "patternId": "call-pattern-card-kkr-05-mizg-01",
+    "managerCallText": "お疲れさま",
+    "characterArrivalText": "{user}さんは\nアイスはお好きですか？",
+    "characterArrivalVoiceAssetId": "sud_vo_home_kkr-05-mizg-01_talk-01-start"
+  },
+  {
+    "characterId": "char-kkr",
     "patternId": "call-pattern-card-kkr-05-seik-00",
     "managerCallText": "お疲れさま",
     "characterArrivalText": "前に麻奈さんと莉央さんがバチバチ\nしたって言ってましたよね",
@@ -563,7 +570,7 @@
     "characterId": "char-kkr",
     "patternId": "call-pattern-card-kkr-05-vlnt-00",
     "managerCallText": "お疲れさま",
-    "characterArrivalText": "天使さんがくれた聖なるチョコは\n堪能出来ましたかー？　",
+    "characterArrivalText": "天使さんがくれた聖なるチョコは\n堪能出来ましたかー？",
     "characterArrivalVoiceAssetId": "sud_vo_home_kkr-05-vlnt-00_talk-01-start"
   },
   {

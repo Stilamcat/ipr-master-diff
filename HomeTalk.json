@@ -916,6 +916,56 @@
     ]
   },
   {
+    "homeTalkId": "home-talk-card-kkr-05-mizg-01-talk-01",
+    "characterId": "char-kkr",
+    "placeType": 1,
+    "conditionId": "cd-st-read-st-card-kkr-05-mizg-01-03",
+    "firstPriority": 9900,
+    "weight": 1,
+    "callPatternId": "call-pattern-card-kkr-05-mizg-01",
+    "choiceText": "あぁ、好きだよ\n暑い日はアイスを食べたくなるよな",
+    "managerText": "あぁ、好きだよ\n暑い日はアイスを食べたくなるよな",
+    "reliability": 5,
+    "characterTalks": [
+      {
+        "text": "分かります！　夏の暑い日に\n冷房の効いた涼しい部屋で\n食べるアイスは最高ですよね～",
+        "voiceAssetId": "sud_vo_home_kkr-05-mizg-01_talk-01-01",
+        "motionAssetId": "mot_adv_chr_cmn_glad-003_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "まぁ、冬の寒い日に\n暖房の効いたあったかい部屋で\n食べるアイスも最高なんですけど。",
+        "voiceAssetId": "sud_vo_home_kkr-05-mizg-01_talk-01-02",
+        "motionAssetId": "mot_adv_chr_cmn_talk-012_in",
+        "additionMotionAssetId": "mot_all_chr_cmn_facial-001_in"
+      },
+      {
+        "text": "という訳で、とっても美味しい\nアイスを持って来ました～冷凍庫に\nあるので、どうぞ食べて下さい。",
+        "voiceAssetId": "sud_vo_home_kkr-05-mizg-01_talk-01-03",
+        "motionAssetId": "mot_adv_chr_cmn_pos-006_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "……え？　かき氷の時みたいに\n中にわさびが\n入ってるんじゃないかって？",
+        "voiceAssetId": "sud_vo_home_kkr-05-mizg-01_talk-01-04",
+        "motionAssetId": "mot_adv_chr_cmn_talk-007_in",
+        "additionMotionAssetId": "mot_all_chr_cmn_facial-004_in"
+      },
+      {
+        "text": "そんな訳ないですよ～\nアイスにわさびを混ぜたり\nしませんから。",
+        "voiceAssetId": "sud_vo_home_kkr-05-mizg-01_talk-01-05",
+        "motionAssetId": "mot_adv_chr_cmn_pos-002_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "じゃ後で感想を聞かせて下さいね。\n緑色が鮮やかな抹茶アイスなので、\n間違えないように～",
+        "voiceAssetId": "sud_vo_home_kkr-05-mizg-01_talk-01-06",
+        "motionAssetId": "mot_adv_chr_cmn_glad-005_in",
+        "additionMotionAssetId": ""
+      }
+    ]
+  },
+  {
     "homeTalkId": "home-talk-card-kkr-05-seik-00-talk-01",
     "characterId": "char-kkr",
     "placeType": 1,
