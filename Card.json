@@ -5074,6 +5074,66 @@
     "activityAbilityId": ""
   },
   {
+    "id": "card-ski-05-mizg-02",
+    "assetId": "ski-05-mizg-02",
+    "name": "サンライト照らす眼差し",
+    "description": "私が……少しでも色っぽいと思った瞬間に\r\n写真を撮って下さい！　許可はいりませんから！\r\nあ……そうだ。日焼け止めを塗り直しておかないと\r\nん……ひんやりしてて気持ちいい……",
+    "type": 3,
+    "characterId": "char-ski",
+    "initialRarity": 5,
+    "cardParameterId": "card-param-01",
+    "vocalRatioPermil": 326,
+    "danceRatioPermil": 290,
+    "visualRatioPermil": 414,
+    "staminaRatioPermil": 900,
+    "cardLevelReleaseId": "card_level_release_1",
+    "skillId1": "sk-ski-05-mizg-02-1",
+    "skillId2": "sk-ski-05-mizg-02-2",
+    "skillId3": "sk-ski-05-mizg-02-3",
+    "activityAbilityId": "aab-fan_event_manager_exp_up",
+    "order": 231,
+    "releaseDate": "1660878000000",
+    "rewardCostumeId": "cos-ski-mizg-02",
+    "imageType1": 3,
+    "displayPositionX1": -0.15,
+    "displayPositionY1": 0.083,
+    "displayScale1": 1.2,
+    "highlightDisplayPositionY1": 0.268,
+    "highlightDisplayScale1": 1.0,
+    "imageType2": 3,
+    "displayPositionX2": -0.15,
+    "displayPositionY2": 0.083,
+    "displayScale2": 1.2,
+    "highlightDisplayPositionY2": 0.268,
+    "highlightDisplayScale2": 1.0,
+    "obtainMessage": "ん……ひんやりしてて気持ちいい……",
+    "stories": [
+      {
+        "storyId": "st-card-ski-05-mizg-02-01"
+      },
+      {
+        "storyId": "st-card-ski-05-mizg-02-02"
+      },
+      {
+        "storyId": "st-card-ski-05-mizg-02-03"
+      }
+    ],
+    "messages": [
+      {
+        "messageId": "message-card-ski-05-mizg-02",
+        "telephoneId": ""
+      },
+      {
+        "telephoneId": "tel-card-ski-05-mizg-02",
+        "messageId": ""
+      }
+    ],
+    "liveAbilityId": "",
+    "highlightDisplayPositionX1": 0.0,
+    "highlightDisplayPositionX2": 0.0,
+    "homeTalks": []
+  },
+  {
     "id": "card-ski-05-waso-00",
     "assetId": "ski-05-waso-00",
     "name": "胸に秘めていた情熱",
