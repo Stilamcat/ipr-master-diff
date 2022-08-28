@@ -31530,6 +31530,17 @@
     ]
   },
   {
+    "id": "cd-promo_lottery-ticket-0829-01",
+    "settings": [
+      {
+        "term": {
+          "nowAfter": "1661698800000",
+          "nowBefore": "1662346499000"
+        }
+      }
+    ]
+  },
+  {
     "id": "cd-promo_lottery-ticket-prize-0328-01-winning",
     "settings": [
       {
@@ -31651,6 +31662,90 @@
         },
         "obtainItem": {
           "itemId": "item-promo_lottery-ticket-prize-0328-03"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-promo_lottery-ticket-prize-0829-01-winning",
+    "settings": [
+      {
+        "term": {
+          "nowAfter": "1662346800000",
+          "nowBefore": "1662908399000"
+        },
+        "obtainItem": {
+          "itemId": "item-promo_lottery-ticket-prize-0829-01"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-promo_lottery-ticket-prize-0829-01-winning-first",
+    "settings": [
+      {
+        "term": {
+          "nowAfter": "1662390000000",
+          "nowBefore": "1662908399000"
+        },
+        "obtainItem": {
+          "itemId": "item-promo_lottery-ticket-prize-0829-01"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-promo_lottery-ticket-prize-0829-02-winning",
+    "settings": [
+      {
+        "term": {
+          "nowAfter": "1662346800000",
+          "nowBefore": "1662908399000"
+        },
+        "obtainItem": {
+          "itemId": "item-promo_lottery-ticket-prize-0829-02"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-promo_lottery-ticket-prize-0829-02-winning-first",
+    "settings": [
+      {
+        "term": {
+          "nowAfter": "1662390000000",
+          "nowBefore": "1662908399000"
+        },
+        "obtainItem": {
+          "itemId": "item-promo_lottery-ticket-prize-0829-02"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-promo_lottery-ticket-prize-0829-03-winning",
+    "settings": [
+      {
+        "term": {
+          "nowAfter": "1662346800000",
+          "nowBefore": "1662908399000"
+        },
+        "obtainItem": {
+          "itemId": "item-promo_lottery-ticket-prize-0829-03"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-promo_lottery-ticket-prize-0829-03-winning-first",
+    "settings": [
+      {
+        "term": {
+          "nowAfter": "1662390000000",
+          "nowBefore": "1662908399000"
+        },
+        "obtainItem": {
+          "itemId": "item-promo_lottery-ticket-prize-0829-03"
         }
       }
     ]
@@ -50864,6 +50959,28 @@
         "term": {
           "nowAfter": "1661007600000",
           "nowBefore": "1661871599000"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-time-login-22-0829-0831",
+    "settings": [
+      {
+        "term": {
+          "nowAfter": "1661698800000",
+          "nowBefore": "1661957999000"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-time-login-22-0829-0907",
+    "settings": [
+      {
+        "term": {
+          "nowAfter": "1661698800000",
+          "nowBefore": "1662562799000"
         }
       }
     ]

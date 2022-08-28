@@ -573,6 +573,23 @@
     "receiveConditionId": "cd-time-login-22-0821-0830"
   },
   {
+    "id": "login_bonus-campaign-22-0829-01",
+    "name": "初音ミクコラボ\nカウントダウン",
+    "description": "3日間の特別なログインボーナス",
+    "type": 2,
+    "assetId": "login-campaign-22-0828-01",
+    "topColorCode": "00CEFF",
+    "bottomColorCode": "D0FFA0",
+    "priority": 10,
+    "rewardIds": [
+      "rd_auto;item;item-act_promotion_shorten;10",
+      "rd_auto;stone;;390",
+      "rd_auto;item;item-card_limit_break;100"
+    ],
+    "openConditionId": "cd-time-login-22-0829-0831",
+    "receiveConditionId": "cd-time-login-22-0829-0907"
+  },
+  {
     "id": "login_bonus-normal-01",
     "name": "デイリー",
     "description": "毎日もらえるログインボーナス",
