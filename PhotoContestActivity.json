@@ -205,5 +205,81 @@
     "order": 5,
     "viewConditionId": "",
     "unlockConditionId": ""
+  },
+  {
+    "id": "photo_activity-22-0831-recording-00",
+    "name": "ラジオ収録",
+    "type": 1,
+    "thumbAssetId": "recording-00",
+    "stageId": "stage-photo-recording-00",
+    "costumeTypeIds": [
+      "idol",
+      "casl",
+      "schl",
+      "gene",
+      "idol-miku"
+    ],
+    "forceCostumeTypeId": "idol",
+    "photoShootingMotionSetId": "recording-00",
+    "isDeleteCharacter": true,
+    "order": 1,
+    "viewConditionId": "",
+    "unlockConditionId": ""
+  },
+  {
+    "id": "photo_activity-22-0831-studio-00",
+    "name": "撮影スタジオ",
+    "type": 1,
+    "thumbAssetId": "studio-00",
+    "stageId": "stage-photo-studio-00",
+    "costumeTypeIds": [
+      "casl",
+      "gene",
+      "idol-miku"
+    ],
+    "forceCostumeTypeId": "casl",
+    "photoShootingMotionSetId": "studio-00",
+    "isDeleteCharacter": true,
+    "order": 2,
+    "viewConditionId": "",
+    "unlockConditionId": ""
+  },
+  {
+    "id": "photo_activity-22-0831-themepark-00",
+    "name": "テーマパーク",
+    "type": 2,
+    "thumbAssetId": "themepark-00",
+    "stageId": "stage-photo-themepark-00",
+    "costumeTypeIds": [
+      "casl",
+      "schl",
+      "trng",
+      "gene",
+      "idol-miku"
+    ],
+    "forceCostumeTypeId": "casl",
+    "photoShootingMotionSetId": "themepark-00",
+    "isDeleteCharacter": true,
+    "order": 3,
+    "viewConditionId": "",
+    "unlockConditionId": ""
+  },
+  {
+    "id": "photo_activity-22-0831-video_destribution-00",
+    "name": "番組配信",
+    "type": 1,
+    "thumbAssetId": "video_destribution-00",
+    "stageId": "stage-photo-cooking-00",
+    "costumeTypeIds": [
+      "casl",
+      "gene",
+      "idol-miku"
+    ],
+    "forceCostumeTypeId": "casl",
+    "photoShootingMotionSetId": "cooking-00",
+    "isDeleteCharacter": true,
+    "order": 4,
+    "viewConditionId": "",
+    "unlockConditionId": ""
   }
 ]

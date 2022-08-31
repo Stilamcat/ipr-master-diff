@@ -22,6 +22,7 @@
       "cos-ai-idol-00",
       "cos-ai-idol-02",
       "cos-ai-kait-00",
+      "cos-ai-miku-00",
       "cos-ai-mizg-00",
       "cos-ai-mizg-01",
       "cos-ai-schl-00",
@@ -172,6 +173,7 @@
       "cos-aoi-idol-00",
       "cos-aoi-idol-02",
       "cos-aoi-kait-00",
+      "cos-aoi-miku-00",
       "cos-aoi-mizg-00",
       "cos-aoi-mizg-01",
       "cos-aoi-schl-00",
@@ -323,6 +325,7 @@
       "cos-chs-idol-01",
       "cos-chs-idol-02",
       "cos-chs-idol-03",
+      "cos-chs-miku-00",
       "cos-chs-mizg-00",
       "cos-chs-mizg-01",
       "cos-chs-newy-00",
@@ -476,6 +479,7 @@
       "cos-hrk-idol-01",
       "cos-hrk-idol-02",
       "cos-hrk-idol-03",
+      "cos-hrk-miku-00",
       "cos-hrk-mizg-00",
       "cos-hrk-mizg-01",
       "cos-hrk-newy-00",
@@ -622,6 +626,7 @@
     "costumeIds": [
       "cos-kan-casl-00",
       "cos-kan-idol-00",
+      "cos-kan-miku-00",
       "cos-kan-mizg-00",
       "cos-kan-sdam-00",
       "cos-kan-sdpl-00",
@@ -780,6 +785,7 @@
       "cos-kkr-casl-01",
       "cos-kkr-idol-00",
       "cos-kkr-idol-02",
+      "cos-kkr-miku-00",
       "cos-kkr-mizg-00",
       "cos-kkr-mizg-01",
       "cos-kkr-schl-00",
@@ -1046,6 +1052,7 @@
     "costumeIds": [
       "cos-kor-casl-00",
       "cos-kor-idol-00",
+      "cos-kor-miku-00",
       "cos-kor-mizg-00",
       "cos-kor-sdam-00",
       "cos-kor-sdpl-00",
@@ -1206,6 +1213,7 @@
       "cos-ktn-idol-00",
       "cos-ktn-idol-01",
       "cos-ktn-idol-02",
+      "cos-ktn-miku-00",
       "cos-ktn-mizg-00",
       "cos-ktn-mizg-01",
       "cos-ktn-mizg-02",
@@ -1357,6 +1365,7 @@
       "cos-mei-idol-00",
       "cos-mei-idol-01",
       "cos-mei-idol-02",
+      "cos-mei-miku-00",
       "cos-mei-mizg-00",
       "cos-mei-mizg-01",
       "cos-mei-mizg-02",
@@ -1503,6 +1512,7 @@
     "costumeIds": [
       "cos-mhk-casl-00",
       "cos-mhk-idol-00",
+      "cos-mhk-miku-00",
       "cos-mhk-mizg-00",
       "cos-mhk-sdam-00",
       "cos-mhk-sdpl-00",
@@ -1640,6 +1650,149 @@
     "facePositionX": 0.0
   },
   {
+    "id": "char-mku",
+    "assetId": "mku",
+    "characterGroupId": "character_group_mku",
+    "order": 1001,
+    "name": "初音ミク",
+    "enName": "MIKU HATSUNE",
+    "cv": "藤田咲",
+    "age": "16歳",
+    "birthday": "8月31日",
+    "height": "158cm",
+    "weight": "42kg",
+    "zodiacSign": "乙女座",
+    "hometown": "ー",
+    "favorite": "ー",
+    "unfavorite": "ー",
+    "profile": "世代を超えて愛される、ポップでキュートなバーチャル・シンガー。VENUSプログラムとは無縁の舞台で活躍しており、その明るく美しい歌声は、世界中の人々を魅了している。",
+    "costumeIds": [
+      "cos-mku-miku-00",
+      "cos-mku-miku-00-casl",
+      "cos-mku-miku-01"
+    ],
+    "altCharacters": [
+      {
+        "characterId": "char-ai",
+        "priority": 1
+      },
+      {
+        "characterId": "char-aoi",
+        "priority": 2
+      },
+      {
+        "characterId": "char-chs",
+        "priority": 16
+      },
+      {
+        "characterId": "char-hrk",
+        "priority": 14
+      },
+      {
+        "characterId": "char-kan",
+        "priority": 19
+      },
+      {
+        "characterId": "char-kkr",
+        "priority": 3
+      },
+      {
+        "characterId": "char-kor",
+        "priority": 18
+      },
+      {
+        "characterId": "char-ktn",
+        "priority": 10
+      },
+      {
+        "characterId": "char-mei",
+        "priority": 12
+      },
+      {
+        "characterId": "char-mhk",
+        "priority": 20
+      },
+      {
+        "characterId": "char-ngs",
+        "priority": 11
+      },
+      {
+        "characterId": "char-rei",
+        "priority": 17
+      },
+      {
+        "characterId": "char-rio",
+        "priority": 4
+      },
+      {
+        "characterId": "char-rui",
+        "priority": 7
+      },
+      {
+        "characterId": "char-ski",
+        "priority": 9
+      },
+      {
+        "characterId": "char-skr",
+        "priority": 15
+      },
+      {
+        "characterId": "char-smr",
+        "priority": 6
+      },
+      {
+        "characterId": "char-suz",
+        "priority": 8
+      },
+      {
+        "characterId": "char-szk",
+        "priority": 13
+      },
+      {
+        "characterId": "char-yu",
+        "priority": 5
+      }
+    ],
+    "defaultCostumeId": "cos-mku-miku-00",
+    "heightCorrectionPermil": 231,
+    "color": "AECE6E",
+    "talkArrivalMotionAssetId": "mot_adv_chr_yu_appr-001_in",
+    "viewConditionId": "cd-date-22-0831",
+    "personalityType": 1,
+    "simplePersonalityType": 1,
+    "sdPersonalityType": 1,
+    "costumeMotionAssetIds": [
+      "mot_dress_chr_cmn_action-001-a_in",
+      "mot_dress_chr_cmn_action-002-a_in"
+    ],
+    "costumeAdditionMotionAssetIds": [
+      "",
+      ""
+    ],
+    "costumeVoiceAssetIds": [
+      "sud_vo_cmn_mku_dress-01",
+      "sud_vo_cmn_mku_dress-02"
+    ],
+    "shortProfile": "世代を超えて愛される、ポップでキュートなバーチャル・シンガー",
+    "threeSize": "ー",
+    "catchphrase": "ー",
+    "firstName": "ミク",
+    "isMemories": true,
+    "defaultLiveCostumeId": "cos-mku-miku-00",
+    "facePositionY": 700.0,
+    "groupPositionX": 0.6,
+    "groupPositionY": 0.75,
+    "catchphraseColor": "AECE6E",
+    "unlockConditionId": "cd-chr-obtain-mku",
+    "isNpc": false,
+    "activityFanEventWords": [],
+    "talkArrivalAdditionMotionAssetId": "",
+    "isLeftHanded": false,
+    "psylliumColerType": 0,
+    "idiom": "",
+    "facePositionX": 0.0
+  },
+  {
     "id": "char-mna",
     "assetId": "mna",
     "characterGroupId": "character_group_5",
@@ -1660,6 +1813,7 @@
       "cos-mna-casl-00",
       "cos-mna-fest-00",
       "cos-mna-idol-00",
+      "cos-mna-miku-00",
       "cos-mna-mizg-00",
       "cos-mna-schl-00",
       "cos-mna-trng-00"
@@ -1732,7 +1886,7 @@
     ],
     "defaultCostumeId": "cos-mna-trng-00",
     "heightCorrectionPermil": 231,
-    "color": "#F252B0",
+    "color": "F252B0",
     "talkArrivalMotionAssetId": "mot_adv_chr_mna_appr-001_in",
     "personalityType": 1,
     "simplePersonalityType": 1,
@@ -1794,6 +1948,7 @@
       "cos-ngs-idol-00",
       "cos-ngs-idol-01",
       "cos-ngs-idol-02",
+      "cos-ngs-miku-00",
       "cos-ngs-mizg-00",
       "cos-ngs-mizg-01",
       "cos-ngs-mizg-02",
@@ -1944,6 +2099,7 @@
       "cos-rei-idol-01",
       "cos-rei-idol-02",
       "cos-rei-idol-03",
+      "cos-rei-miku-00",
       "cos-rei-mizg-00",
       "cos-rei-mizg-01",
       "cos-rei-mizg-02",
@@ -2098,6 +2254,7 @@
       "cos-rio-idol-00",
       "cos-rio-idol-02",
       "cos-rio-kait-00",
+      "cos-rio-miku-00",
       "cos-rio-mizg-00",
       "cos-rio-mizg-01",
       "cos-rio-schl-00",
@@ -2247,6 +2404,7 @@
       "cos-rui-date-00",
       "cos-rui-idol-00",
       "cos-rui-idol-02",
+      "cos-rui-miku-00",
       "cos-rui-mizg-00",
       "cos-rui-mizg-01",
       "cos-rui-schl-00",
@@ -2399,6 +2557,7 @@
       "cos-ski-idol-01",
       "cos-ski-idol-02",
       "cos-ski-kifj-00",
+      "cos-ski-miku-00",
       "cos-ski-mizg-00",
       "cos-ski-mizg-01",
       "cos-ski-mizg-02",
@@ -2551,6 +2710,7 @@
       "cos-skr-idol-01",
       "cos-skr-idol-02",
       "cos-skr-idol-03",
+      "cos-skr-miku-00",
       "cos-skr-mizg-00",
       "cos-skr-mizg-01",
       "cos-skr-newy-00",
@@ -2700,6 +2860,7 @@
       "cos-smr-frut-00",
       "cos-smr-idol-00",
       "cos-smr-idol-02",
+      "cos-smr-miku-00",
       "cos-smr-mizg-00",
       "cos-smr-mizg-01",
       "cos-smr-schl-00",
@@ -2970,6 +3131,7 @@
       "cos-suz-idol-00",
       "cos-suz-idol-01",
       "cos-suz-idol-02",
+      "cos-suz-miku-00",
       "cos-suz-mizg-00",
       "cos-suz-mizg-01",
       "cos-suz-mizg-02",
@@ -3122,6 +3284,7 @@
       "cos-szk-idol-01",
       "cos-szk-idol-02",
       "cos-szk-idol-03",
+      "cos-szk-miku-00",
       "cos-szk-mizg-00",
       "cos-szk-mizg-01",
       "cos-szk-newy-00",
@@ -3391,6 +3554,7 @@
       "cos-yu-casl-01",
       "cos-yu-idol-00",
       "cos-yu-idol-02",
+      "cos-yu-miku-00",
       "cos-yu-mizg-00",
       "cos-yu-mizg-01",
       "cos-yu-schl-00",

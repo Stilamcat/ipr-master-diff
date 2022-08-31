@@ -1223,6 +1223,252 @@
     "linkDetail": ""
   },
   {
+    "id": "event-ms-miku-22-0903-00-00-accessory_enhance_count",
+    "categoryType": 3,
+    "missionType": 28,
+    "name": "アクセサリ合成{threshold}回",
+    "shortDescription": "アクセサリ合成{threshold}回",
+    "longDescription": "アクセサリ合成を{threshold}回しましょう。",
+    "order": 9,
+    "linkType": 15,
+    "progresses": [
+      {
+        "threshold": "3",
+        "rewardSetId": "rd-event-ms-miku-22-0903-00-00-accessory_enhance_count-3"
+      },
+      {
+        "threshold": "10",
+        "rewardSetId": "rd-event-ms-miku-22-0903-00-00-accessory_enhance_count-10"
+      },
+      {
+        "threshold": "20",
+        "rewardSetId": "rd-event-ms-miku-22-0903-00-00-accessory_enhance_count-20"
+      }
+    ],
+    "eventMissionId": "event_miku-mission-22-0903",
+    "targetIds": [],
+    "viewConditionId": "",
+    "linkDetail": ""
+  },
+  {
+    "id": "event-ms-miku-22-0903-00-card_skill_level_up_count",
+    "categoryType": 3,
+    "missionType": 14,
+    "name": "スキル強化{threshold}回",
+    "shortDescription": "スキル強化{threshold}回",
+    "longDescription": "アイドルのスキル強化を{threshold}回しましょう。",
+    "order": 10,
+    "linkType": 11,
+    "progresses": [
+      {
+        "threshold": "1",
+        "rewardSetId": "rd-event-ms-miku-22-0903-00-card_skill_level_up_count-1"
+      },
+      {
+        "threshold": "3",
+        "rewardSetId": "rd-event-ms-miku-22-0903-00-card_skill_level_up_count-3"
+      }
+    ],
+    "eventMissionId": "event_miku-mission-22-0903",
+    "targetIds": [],
+    "viewConditionId": "",
+    "linkDetail": ""
+  },
+  {
+    "id": "event-ms-miku-22-0903-00-login_count",
+    "categoryType": 3,
+    "missionType": 1,
+    "name": "ログイン{threshold}回",
+    "shortDescription": "ログイン{threshold}回",
+    "longDescription": "ログインを{threshold}回しましょう。",
+    "order": 2,
+    "progresses": [
+      {
+        "threshold": "2",
+        "rewardSetId": "rd-event-ms-miku-22-0903-00-login_count-2"
+      },
+      {
+        "threshold": "3",
+        "rewardSetId": "rd-event-ms-miku-22-0903-00-login_count-3"
+      }
+    ],
+    "eventMissionId": "event_miku-mission-22-0903",
+    "targetIds": [],
+    "viewConditionId": "",
+    "linkType": 0,
+    "linkDetail": ""
+  },
+  {
+    "id": "event-ms-miku-22-0903-00-market_exchange_count",
+    "categoryType": 3,
+    "missionType": 31,
+    "name": "マーケットで{threshold}回アイテム購入",
+    "shortDescription": "マーケットで{threshold}回アイテム購入",
+    "longDescription": "マーケットで{threshold}回アイテムを購入しましょう。",
+    "order": 6,
+    "linkType": 36,
+    "progresses": [
+      {
+        "threshold": "3",
+        "rewardSetId": "rd-event-ms-miku-22-0903-00-market_exchange_count-3"
+      },
+      {
+        "threshold": "10",
+        "rewardSetId": "rd-event-ms-miku-22-0903-00-market_exchange_count-10"
+      }
+    ],
+    "eventMissionId": "event_miku-mission-22-0903",
+    "targetIds": [],
+    "viewConditionId": "",
+    "linkDetail": ""
+  },
+  {
+    "id": "event-ms-miku-22-0903-00-mission_clear_count",
+    "categoryType": 3,
+    "missionType": 3,
+    "targetIds": [
+      "event-ms-miku-22-0903-00-login_count",
+      "event-ms-miku-22-0903-00-quest_pvp_play_count",
+      "event-ms-miku-22-0903-00-quest_daily_clear_count",
+      "event-ms-miku-22-0903-00-market_exchange_count",
+      "event-ms-miku-22-0903-00-photo_shoot_total_count",
+      "event-ms-miku-22-0903-00-photo_reroll_total_count",
+      "event-ms-miku-22-0903-00-00-accessory_enhance_count",
+      "event-ms-miku-22-0903-00-card_skill_level_up_count",
+      "event-ms-miku-22-0903-00-quest_qt-area_clear_count"
+    ],
+    "name": "イベントミッションを{threshold}個クリア",
+    "shortDescription": "イベントミッションを{threshold}個クリア",
+    "longDescription": "イベントミッションを{threshold}個クリアしましょう。",
+    "order": 1,
+    "progresses": [
+      {
+        "threshold": "15",
+        "rewardSetId": "rd-event-ms-miku-22-0903-00-mission_clear_count-15"
+      }
+    ],
+    "eventMissionId": "event_miku-mission-22-0903",
+    "viewConditionId": "",
+    "linkType": 0,
+    "linkDetail": ""
+  },
+  {
+    "id": "event-ms-miku-22-0903-00-photo_reroll_total_count",
+    "categoryType": 3,
+    "missionType": 25,
+    "name": "フォトの振り直し{threshold}回",
+    "shortDescription": "フォトの振り直し{threshold}回",
+    "longDescription": "フォトの振り直しを{threshold}回しましょう。",
+    "order": 8,
+    "linkType": 14,
+    "progresses": [
+      {
+        "threshold": "3",
+        "rewardSetId": "rd-event-ms-miku-22-0903-00-photo_reroll_total_count-3"
+      }
+    ],
+    "eventMissionId": "event_miku-mission-22-0903",
+    "targetIds": [],
+    "viewConditionId": "",
+    "linkDetail": ""
+  },
+  {
+    "id": "event-ms-miku-22-0903-00-photo_shoot_total_count",
+    "categoryType": 3,
+    "missionType": 33,
+    "name": "フォト撮影{threshold}回",
+    "shortDescription": "フォト撮影{threshold}回",
+    "longDescription": "フォト撮影を{threshold}回しましょう。",
+    "order": 7,
+    "linkType": 32,
+    "progresses": [
+      {
+        "threshold": "3",
+        "rewardSetId": "rd-event-ms-miku-22-0903-00-photo_shoot_total_count-3"
+      }
+    ],
+    "eventMissionId": "event_miku-mission-22-0903",
+    "targetIds": [],
+    "viewConditionId": "",
+    "linkDetail": ""
+  },
+  {
+    "id": "event-ms-miku-22-0903-00-quest_daily_clear_count",
+    "categoryType": 3,
+    "missionType": 7,
+    "name": "デイリーライブ{threshold}回クリア",
+    "shortDescription": "デイリーライブ{threshold}回クリア",
+    "longDescription": "デイリーライブを{threshold}回クリアしましょう。",
+    "order": 5,
+    "linkType": 7,
+    "progresses": [
+      {
+        "threshold": "10",
+        "rewardSetId": "rd-event-ms-miku-22-0903-00-quest_daily_clear_count-10"
+      },
+      {
+        "threshold": "20",
+        "rewardSetId": "rd-event-ms-miku-22-0903-00-quest_daily_clear_count-20"
+      }
+    ],
+    "eventMissionId": "event_miku-mission-22-0903",
+    "targetIds": [],
+    "viewConditionId": "",
+    "linkDetail": ""
+  },
+  {
+    "id": "event-ms-miku-22-0903-00-quest_pvp_play_count",
+    "categoryType": 3,
+    "missionType": 45,
+    "name": "VENUSバトルに挑戦{threshold}回",
+    "shortDescription": "VENUSバトルに挑戦{threshold}回",
+    "longDescription": "VENUSバトルに挑戦を{threshold}回しましょう。",
+    "order": 3,
+    "linkType": 2,
+    "progresses": [
+      {
+        "threshold": "5",
+        "rewardSetId": "rd-event-ms-miku-22-0903-00-quest_pvp_play_count-5"
+      },
+      {
+        "threshold": "10",
+        "rewardSetId": "rd-event-ms-miku-22-0903-00-quest_pvp_play_count-10"
+      },
+      {
+        "threshold": "15",
+        "rewardSetId": "rd-event-ms-miku-22-0903-00-quest_pvp_play_count-15"
+      }
+    ],
+    "eventMissionId": "event_miku-mission-22-0903",
+    "targetIds": [],
+    "viewConditionId": "",
+    "linkDetail": ""
+  },
+  {
+    "id": "event-ms-miku-22-0903-00-quest_qt-area_clear_count",
+    "categoryType": 3,
+    "missionType": 6,
+    "name": "ハイスコアライブ{threshold}回クリア",
+    "shortDescription": "ハイスコアライブ{threshold}回クリア",
+    "longDescription": "ハイスコアライブを{threshold}回クリアしましょう。",
+    "order": 11,
+    "linkType": 6,
+    "progresses": [
+      {
+        "threshold": "3",
+        "rewardSetId": "rd-event-ms-miku-22-0903-00-quest_qt-area_clear_count-3"
+      },
+      {
+        "threshold": "6",
+        "rewardSetId": "rd-event-ms-miku-22-0903-00-quest_qt-area_clear_count-6"
+      }
+    ],
+    "eventMissionId": "event_miku-mission-22-0903",
+    "targetIds": [],
+    "viewConditionId": "",
+    "linkDetail": ""
+  },
+  {
     "id": "event-ms-newyear-22-0101-00-card_level_up_count",
     "categoryType": 3,
     "missionType": 12,
@@ -9987,6 +10233,28 @@
     "longDescription": "30日以上ぶりのログインです。",
     "order": 1,
     "viewConditionId": "cd_shop_comeback-shop-limited-22-0624-mission-view",
+    "progresses": [
+      {
+        "threshold": "1",
+        "rewardSetId": "rd_auto;stone;;50"
+      }
+    ],
+    "linkType": 0,
+    "linkDetail": "",
+    "eventMissionId": ""
+  },
+  {
+    "id": "ms-comeback-shop-limited-22-0831-check",
+    "categoryType": 3,
+    "missionType": 4,
+    "targetIds": [
+      "cd_shop_comeback-user-22-0831-22-0919"
+    ],
+    "name": "30日以上ぶりのログイン",
+    "shortDescription": "30日以上ぶりのログイン",
+    "longDescription": "30日以上ぶりのログインです。",
+    "order": 1,
+    "viewConditionId": "cd_shop_comeback-shop-limited-22-0831-mission-view",
     "progresses": [
       {
         "threshold": "1",

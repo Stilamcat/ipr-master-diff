@@ -2414,6 +2414,56 @@
     ]
   },
   {
+    "homeTalkId": "home-talk-card-rui-05-miku-00-talk-01",
+    "characterId": "char-rui",
+    "placeType": 1,
+    "conditionId": "cd-st-read-st-card-rui-05-miku-00-03",
+    "firstPriority": 9900,
+    "weight": 1,
+    "callPatternId": "call-pattern-card-rui-05-miku-00",
+    "choiceText": "めずらしいな。\nぜひ聞かせてくれ。",
+    "managerText": "めずらしいな。\nぜひ聞かせてくれ。",
+    "reliability": 5,
+    "characterTalks": [
+      {
+        "text": "時々ミクに星見プロに来てもらって\n合同練習しましょう！",
+        "voiceAssetId": "sud_vo_home_rui-05-miku-00_talk-01-01",
+        "motionAssetId": "mot_adv_chr_cmn_talk-022_in",
+        "additionMotionAssetId": "mot_all_chr_cmn_facial-048_in"
+      },
+      {
+        "text": "あれからぼんやり\n考えていたんですけど、\n絶対いいと思うんです。",
+        "voiceAssetId": "sud_vo_home_rui-05-miku-00_talk-01-02",
+        "motionAssetId": "mot_adv_chr_cmn_pos-002_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "他のグループのみんなも普段とは\n違う刺激を受けられますし、\n学ぶところは沢山あります！",
+        "voiceAssetId": "sud_vo_home_rui-05-miku-00_talk-01-03",
+        "motionAssetId": "mot_adv_chr_cmn_pos-010_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "えっ…ミクの事情もある…？",
+        "voiceAssetId": "sud_vo_home_rui-05-miku-00_talk-01-04",
+        "motionAssetId": "mot_adv_chr_cmn_surp-001_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "それは分かっています！\nでも、それをなんとかするのが…",
+        "voiceAssetId": "sud_vo_home_rui-05-miku-00_talk-01-05",
+        "motionAssetId": "mot_adv_chr_cmn_talk-011_in",
+        "additionMotionAssetId": "mot_all_chr_cmn_facial-048_in"
+      },
+      {
+        "text": "{user}さんの\nお仕事ですから！\nふふっ楽しみにしていますよ。",
+        "voiceAssetId": "sud_vo_home_rui-05-miku-00_talk-01-06",
+        "motionAssetId": "mot_adv_chr_cmn_glad-005_in",
+        "additionMotionAssetId": ""
+      }
+    ]
+  },
+  {
     "homeTalkId": "home-talk-card-rui-05-mizg-01-talk-01",
     "characterId": "char-rui",
     "placeType": 1,

@@ -2,7 +2,7 @@
   {
     "id": "st-eve-2107-tour",
     "assetId": "event-tour-21-0630",
-    "name": "雨上がりの太陽と共に",
+    "name": "イベントストーリー",
     "description": "雨上がりの太陽と共に",
     "order": 970,
     "episodes": [
@@ -52,7 +52,7 @@
   {
     "id": "st-eve-2108-tour",
     "assetId": "event-tour-21-0731",
-    "name": "月夜に輝く恋の魔法",
+    "name": "イベントストーリー",
     "description": "月夜に輝く恋の魔法",
     "order": 980,
     "viewConditionId": "cd-event-story-0731",
@@ -102,7 +102,7 @@
   {
     "id": "st-eve-2109-backside",
     "assetId": "event-backside-21-0831",
-    "name": "芽吹く黒ユリの蕾",
+    "name": "イベントストーリー",
     "description": "芽吹く黒ユリの蕾",
     "order": 990,
     "viewConditionId": "cd-event-story-0831",
@@ -152,7 +152,7 @@
   {
     "id": "st-eve-2110-marathon",
     "assetId": "event-marathon-21-0930",
-    "name": "煌めく奇跡をもう一度",
+    "name": "イベントストーリー",
     "description": "煌めく奇跡をもう一度",
     "order": 1000,
     "viewConditionId": "cd-event-story-0930",
@@ -260,7 +260,7 @@
   {
     "id": "st-eve-2112-marathon",
     "assetId": "event-marathon-21-1130",
-    "name": "羽休む聖夜のサプライズ",
+    "name": "イベントストーリー",
     "description": "羽休む聖夜のサプライズ",
     "order": 1200,
     "viewConditionId": "cd-event-story-1130",
@@ -310,7 +310,7 @@
   {
     "id": "st-eve-2201-contest",
     "assetId": "event-contest-21-1228",
-    "name": "昇る初陽に咲く笑顔",
+    "name": "イベントストーリー",
     "description": "昇る初陽に咲く笑顔",
     "order": 1300,
     "viewConditionId": "cd-photo_section-open-22-0103-only",
@@ -410,7 +410,7 @@
   {
     "id": "st-eve-2203-race",
     "assetId": "event-race-22-0228",
-    "name": "並び立つ歌姫のフルリール",
+    "name": "イベントストーリー",
     "description": "並び立つ歌姫のフルリール",
     "order": 1500,
     "viewConditionId": "cd-event-story-22-0228",
@@ -468,7 +468,7 @@
   {
     "id": "st-eve-2204-contest",
     "assetId": "event-contest-22-0328",
-    "name": "愛歌う星の継承者",
+    "name": "イベントストーリー",
     "description": "愛歌う星の継承者",
     "order": 1600,
     "viewConditionId": "cd-event-story-0328",
@@ -526,7 +526,7 @@
   {
     "id": "st-eve-2205-race",
     "assetId": "event-race-22-0428",
-    "name": "心紡ぎ合う輝きの競演",
+    "name": "イベントストーリー",
     "description": "心紡ぎ合う輝きの競演",
     "order": 1700,
     "viewConditionId": "cd-event-story-22-0428",
@@ -576,7 +576,7 @@
   {
     "id": "st-eve-2206-marathon",
     "assetId": "event-marathon-22-0526",
-    "name": "導きのファンファーレ",
+    "name": "イベントストーリー",
     "description": "導きのファンファーレ",
     "order": 1800,
     "viewConditionId": "cd-event-story-0526",
@@ -626,7 +626,7 @@
   {
     "id": "st-eve-2207-contest",
     "assetId": "event-contest-22-0628",
-    "name": "Happy Smile Selfie",
+    "name": "イベントストーリー",
     "description": "Happy Smile Selfie",
     "order": 1900,
     "viewConditionId": "cd-event-story-0628",
@@ -676,7 +676,7 @@
   {
     "id": "st-eve-2208-backside",
     "assetId": "event-backside-22-0731",
-    "name": "熱中☆ハプニングサマー",
+    "name": "イベントストーリー",
     "description": "熱中☆ハプニングサマー",
     "order": 2000,
     "viewConditionId": "cd-event-story-220731",
@@ -718,6 +718,56 @@
         "assetId": "event_2208_01_05",
         "storyId": "st-eve-2208-backside-005",
         "unlockConditionId": "cd-backside-area_clear-real-practice-04-22-0731",
+        "isAppeal": true,
+        "viewConditionId": ""
+      }
+    ]
+  },
+  {
+    "id": "st-eve-2209-contest",
+    "assetId": "event-contest-22-0831",
+    "name": "イベントストーリー",
+    "description": "未来とつながるマジカルメロディ",
+    "order": 2100,
+    "viewConditionId": "cd-event-story-22-0831",
+    "episodes": [
+      {
+        "episode": 1,
+        "assetId": "event_2209_01_01",
+        "storyId": "st-eve-2209-contest-001",
+        "unlockConditionId": "cd-event-story-read-001-contest-22-0831",
+        "viewConditionId": "",
+        "isAppeal": false
+      },
+      {
+        "episode": 2,
+        "assetId": "event_2209_01_02",
+        "storyId": "st-eve-2209-contest-002",
+        "unlockConditionId": "cd-contest-22-0831-total_submit_count_gte-3",
+        "isAppeal": true,
+        "viewConditionId": ""
+      },
+      {
+        "episode": 3,
+        "assetId": "event_2209_01_03",
+        "storyId": "st-eve-2209-contest-003",
+        "unlockConditionId": "cd-contest-22-0831-total_submit_count_gte-10",
+        "isAppeal": true,
+        "viewConditionId": ""
+      },
+      {
+        "episode": 4,
+        "assetId": "event_2209_01_04",
+        "storyId": "st-eve-2209-contest-004",
+        "unlockConditionId": "cd-contest-22-0831-total_submit_count_gte-20",
+        "isAppeal": true,
+        "viewConditionId": ""
+      },
+      {
+        "episode": 5,
+        "assetId": "event_2209_01_05",
+        "storyId": "st-eve-2209-contest-005",
+        "unlockConditionId": "cd-contest-22-0831-total_submit_count_gte-35",
         "isAppeal": true,
         "viewConditionId": ""
       }

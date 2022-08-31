@@ -1764,6 +1764,24 @@
     "isViewableInInactive": false
   },
   {
+    "id": "emb-321",
+    "name": "【殿堂入り】初音ミク",
+    "assetId": "score_mku",
+    "autoProvideConditionId": "cd-live_character_highest_score-mku-10000000",
+    "isViewableInInactive": true,
+    "order": 4410,
+    "description": "初音ミクハイスコア10000000"
+  },
+  {
+    "id": "emb-322",
+    "name": "電子の歌姫",
+    "assetId": "reliability_mku-30",
+    "autoProvideConditionId": "cd-reliability-mku-30",
+    "order": 3310,
+    "description": "初音ミク信頼度30到達",
+    "isViewableInInactive": false
+  },
+  {
     "id": "emb-400",
     "name": "[奇跡]",
     "assetId": "emb-cd-5-0001-limited",
@@ -2961,6 +2979,60 @@
     "isViewableInInactive": false
   },
   {
+    "id": "emb-626",
+    "name": "VENUSシーズン43 No.1",
+    "assetId": "pvp-season-043-top001",
+    "order": 1431,
+    "description": "VENUSバトルシーズン43で1位獲得",
+    "autoProvideConditionId": "",
+    "isViewableInInactive": false
+  },
+  {
+    "id": "emb-627",
+    "name": "VENUSシーズン43 TOP10",
+    "assetId": "pvp-season-043-top010",
+    "order": 1432,
+    "description": "VENUSバトルシーズン43で10位以内獲得",
+    "autoProvideConditionId": "",
+    "isViewableInInactive": false
+  },
+  {
+    "id": "emb-628",
+    "name": "VENUSシーズン43 TOP100",
+    "assetId": "pvp-season-043-top100",
+    "order": 1433,
+    "description": "VENUSバトルシーズン43で100位以内獲得",
+    "autoProvideConditionId": "",
+    "isViewableInInactive": false
+  },
+  {
+    "id": "emb-629",
+    "name": "VENUSシーズン44 No.1",
+    "assetId": "pvp-season-044-top001",
+    "order": 1441,
+    "description": "VENUSバトルシーズン44で1位獲得",
+    "autoProvideConditionId": "",
+    "isViewableInInactive": false
+  },
+  {
+    "id": "emb-630",
+    "name": "VENUSシーズン44 TOP10",
+    "assetId": "pvp-season-044-top010",
+    "order": 1442,
+    "description": "VENUSバトルシーズン44で10位以内獲得",
+    "autoProvideConditionId": "",
+    "isViewableInInactive": false
+  },
+  {
+    "id": "emb-631",
+    "name": "VENUSシーズン44 TOP100",
+    "assetId": "pvp-season-044-top100",
+    "order": 1443,
+    "description": "VENUSバトルシーズン44で100位以内獲得",
+    "autoProvideConditionId": "",
+    "isViewableInInactive": false
+  },
+  {
     "id": "emb-702",
     "name": "【誕生日】早坂芽衣",
     "assetId": "birthday_mei-02",
@@ -2976,6 +3048,15 @@
     "autoProvideConditionId": "cd-birthday_ngs-22-0803",
     "order": 3560,
     "description": "渚の誕生日を迎える",
+    "isViewableInInactive": false
+  },
+  {
+    "id": "emb-704",
+    "name": "【誕生日】成宮すず",
+    "assetId": "birthday_suz-02",
+    "autoProvideConditionId": "cd-birthday_emblem_suz-22-0913",
+    "order": 3570,
+    "description": "すずの誕生日を迎える",
     "isViewableInInactive": false
   },
   {
@@ -3110,6 +3191,15 @@
     "assetId": "backside-22-0731",
     "order": 1714,
     "description": "合宿イベント「熱中☆ハプニングサマー」クリア",
+    "autoProvideConditionId": "",
+    "isViewableInInactive": false
+  },
+  {
+    "id": "emb-814",
+    "name": "イベント称号",
+    "assetId": "contest-22-0831",
+    "order": 1715,
+    "description": "フォトオーディション「未来とつながるマジカルメロディ」条件達成",
     "autoProvideConditionId": "",
     "isViewableInInactive": false
   },
