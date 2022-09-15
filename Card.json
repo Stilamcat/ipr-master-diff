@@ -6418,6 +6418,66 @@
     "homeTalks": []
   },
   {
+    "id": "card-suz-05-seik-00",
+    "assetId": "suz-05-seik-00",
+    "name": "乙女のメソッド",
+    "description": "私、あの時思い出しましたの\r\nただ全力で役を演じればいいということ、そして……\r\n自分で考えたあの子の設定を\r\nそうしたら、自然に演技が出来ましたわ",
+    "type": 2,
+    "characterId": "char-suz",
+    "initialRarity": 5,
+    "cardParameterId": "card-param-01",
+    "vocalRatioPermil": 278,
+    "danceRatioPermil": 404,
+    "visualRatioPermil": 318,
+    "staminaRatioPermil": 1000,
+    "cardLevelReleaseId": "card_level_release_1",
+    "skillId1": "sk-suz-05-seik-00-1",
+    "skillId2": "sk-suz-05-seik-00-2",
+    "skillId3": "sk-suz-05-seik-00-3",
+    "activityAbilityId": "aab-promotion_accessory_multi_step_reward_up",
+    "order": 235,
+    "releaseDate": "1663210800000",
+    "rewardCostumeId": "cos-suz-seik-00",
+    "imageType1": 3,
+    "displayPositionX1": 0.01,
+    "displayScale1": 1.0,
+    "highlightDisplayPositionX1": -0.042,
+    "highlightDisplayPositionY1": 0.24,
+    "highlightDisplayScale1": 2.0,
+    "imageType2": 3,
+    "displayPositionX2": 0.01,
+    "displayScale2": 1.0,
+    "highlightDisplayPositionX2": -0.042,
+    "highlightDisplayPositionY2": 0.24,
+    "highlightDisplayScale2": 2.0,
+    "obtainMessage": "いけますわ、\n役のイメージが完全に降りてきました",
+    "stories": [
+      {
+        "storyId": "st-card-suz-05-seik-00-01"
+      },
+      {
+        "storyId": "st-card-suz-05-seik-00-02"
+      },
+      {
+        "storyId": "st-card-suz-05-seik-00-03"
+      }
+    ],
+    "messages": [
+      {
+        "messageId": "message-card-suz-05-seik-00",
+        "telephoneId": ""
+      },
+      {
+        "telephoneId": "tel-card-suz-05-seik-00",
+        "messageId": ""
+      }
+    ],
+    "liveAbilityId": "",
+    "displayPositionY1": 0.0,
+    "displayPositionY2": 0.0,
+    "homeTalks": []
+  },
+  {
     "id": "card-szk-02-eve-01",
     "assetId": "szk-02-eve-01",
     "name": "みんなのピースを",

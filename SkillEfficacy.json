@@ -1620,10 +1620,30 @@
     "shortDescription": ""
   },
   {
+    "id": "ef-audience_amount_increase-10-target-center-51",
+    "name": "センターに集目効果",
+    "type": 21,
+    "description": "センターに10段階の集目効果[51ビート]",
+    "grade": 10,
+    "maxGrade": 10,
+    "skillTargetId": "target-center",
+    "shortDescription": ""
+  },
+  {
     "id": "ef-audience_amount_increase-10-target-center-55",
     "name": "センターに集目効果",
     "type": 21,
     "description": "センターに10段階の集目効果[55ビート]",
+    "grade": 10,
+    "maxGrade": 10,
+    "skillTargetId": "target-center",
+    "shortDescription": ""
+  },
+  {
+    "id": "ef-audience_amount_increase-10-target-center-57",
+    "name": "センターに集目効果",
+    "type": 21,
+    "description": "センターに10段階の集目効果[57ビート]",
     "grade": 10,
     "maxGrade": 10,
     "skillTargetId": "target-center",
@@ -2084,6 +2104,16 @@
     "name": "センターに集目効果",
     "type": 21,
     "description": "センターに9段階の集目効果[50ビート]",
+    "grade": 9,
+    "maxGrade": 10,
+    "skillTargetId": "target-center",
+    "shortDescription": ""
+  },
+  {
+    "id": "ef-audience_amount_increase-9-target-center-51",
+    "name": "センターに集目効果",
+    "type": 21,
+    "description": "センターに9段階の集目効果[51ビート]",
     "grade": 9,
     "maxGrade": 10,
     "skillTargetId": "target-center",
@@ -8140,6 +8170,26 @@
     "shortDescription": ""
   },
   {
+    "id": "ef-critical_rate_up-5-target-character_type-1-2-16",
+    "name": "スコアラータイプ2人にクリティカル率アップ",
+    "type": 19,
+    "description": "スコアラータイプ2人に5段階クリティカル率上昇効果[16ビート]",
+    "grade": 5,
+    "maxGrade": 20,
+    "skillTargetId": "target-character_type-1-2",
+    "shortDescription": ""
+  },
+  {
+    "id": "ef-critical_rate_up-5-target-character_type-1-2-22",
+    "name": "スコアラータイプ2人にクリティカル率アップ",
+    "type": 19,
+    "description": "スコアラータイプ2人に5段階クリティカル率上昇効果[22ビート]",
+    "grade": 5,
+    "maxGrade": 20,
+    "skillTargetId": "target-character_type-1-2",
+    "shortDescription": ""
+  },
+  {
     "id": "ef-critical_rate_up-5-target-character_type-1-2-31",
     "name": "スコアラータイプ2人にクリティカル率アップ",
     "type": 19,
@@ -8760,6 +8810,26 @@
     "shortDescription": ""
   },
   {
+    "id": "ef-critical_rate_up-6-target-character_type-1-2-22",
+    "name": "スコアラータイプ2人にクリティカル率アップ",
+    "type": 19,
+    "description": "スコアラータイプ2人に6段階クリティカル率上昇効果[22ビート]",
+    "grade": 6,
+    "maxGrade": 20,
+    "skillTargetId": "target-character_type-1-2",
+    "shortDescription": ""
+  },
+  {
+    "id": "ef-critical_rate_up-6-target-character_type-1-2-27",
+    "name": "スコアラータイプ2人にクリティカル率アップ",
+    "type": 19,
+    "description": "スコアラータイプ2人に6段階クリティカル率上昇効果[27ビート]",
+    "grade": 6,
+    "maxGrade": 20,
+    "skillTargetId": "target-character_type-1-2",
+    "shortDescription": ""
+  },
+  {
     "id": "ef-critical_rate_up-6-target-character_type-1-2-33",
     "name": "スコアラータイプ2人にクリティカル率アップ",
     "type": 19,
@@ -9287,6 +9357,26 @@
     "grade": 7,
     "maxGrade": 20,
     "skillTargetId": "target-character_type-1-1",
+    "shortDescription": ""
+  },
+  {
+    "id": "ef-critical_rate_up-7-target-character_type-1-2-27",
+    "name": "スコアラータイプ2人にクリティカル率アップ",
+    "type": 19,
+    "description": "スコアラータイプ2人に7段階クリティカル率上昇効果[27ビート]",
+    "grade": 7,
+    "maxGrade": 20,
+    "skillTargetId": "target-character_type-1-2",
+    "shortDescription": ""
+  },
+  {
+    "id": "ef-critical_rate_up-7-target-character_type-1-2-32",
+    "name": "スコアラータイプ2人にクリティカル率アップ",
+    "type": 19,
+    "description": "スコアラータイプ2人に7段階クリティカル率上昇効果[32ビート]",
+    "grade": 7,
+    "maxGrade": 20,
+    "skillTargetId": "target-character_type-1-2",
     "shortDescription": ""
   },
   {
@@ -10097,6 +10187,66 @@
     "grade": 4,
     "maxGrade": 20,
     "skillTargetId": "target-dance-1",
+    "shortDescription": ""
+  },
+  {
+    "id": "ef-dance_boost-6-target-center-40",
+    "name": "センターにダンスブースト",
+    "type": 57,
+    "description": "センターに6段階ダンスブースト効果[40ビート]",
+    "grade": 6,
+    "maxGrade": 20,
+    "skillTargetId": "target-center",
+    "shortDescription": ""
+  },
+  {
+    "id": "ef-dance_boost-7-target-center-40",
+    "name": "センターにダンスブースト",
+    "type": 57,
+    "description": "センターに7段階ダンスブースト効果[40ビート]",
+    "grade": 7,
+    "maxGrade": 20,
+    "skillTargetId": "target-center",
+    "shortDescription": ""
+  },
+  {
+    "id": "ef-dance_boost-7-target-center-48",
+    "name": "センターにダンスブースト",
+    "type": 57,
+    "description": "センターに7段階ダンスブースト効果[48ビート]",
+    "grade": 7,
+    "maxGrade": 20,
+    "skillTargetId": "target-center",
+    "shortDescription": ""
+  },
+  {
+    "id": "ef-dance_boost-8-target-center-48",
+    "name": "センターにダンスブースト",
+    "type": 57,
+    "description": "センターに8段階ダンスブースト効果[48ビート]",
+    "grade": 8,
+    "maxGrade": 20,
+    "skillTargetId": "target-center",
+    "shortDescription": ""
+  },
+  {
+    "id": "ef-dance_boost-8-target-center-57",
+    "name": "センターにダンスブースト",
+    "type": 57,
+    "description": "センターに8段階ダンスブースト効果[57ビート]",
+    "grade": 8,
+    "maxGrade": 20,
+    "skillTargetId": "target-center",
+    "shortDescription": ""
+  },
+  {
+    "id": "ef-dance_boost-9-target-center-57",
+    "name": "センターにダンスブースト",
+    "type": 57,
+    "description": "センターに9段階ダンスブースト効果[57ビート]",
+    "grade": 9,
+    "maxGrade": 20,
+    "skillTargetId": "target-center",
     "shortDescription": ""
   },
   {

@@ -3318,6 +3318,56 @@
     ]
   },
   {
+    "homeTalkId": "home-talk-card-suz-05-seik-00-talk-01",
+    "characterId": "char-suz",
+    "placeType": 1,
+    "conditionId": "cd-st-read-st-card-suz-05-seik-00-03",
+    "firstPriority": 9900,
+    "weight": 1,
+    "callPatternId": "call-pattern-card-suz-05-seik-00",
+    "choiceText": "なんの話だ？",
+    "managerText": "なんの話だ？",
+    "reliability": 5,
+    "characterTalks": [
+      {
+        "text": "連続テレビドラマに\n出演したことで、\n実績の差は歴然！",
+        "voiceAssetId": "sud_vo_home_suz-05-seik-00_talk-01-01",
+        "motionAssetId": "mot_adv_chr_cmn_talk-017_in",
+        "additionMotionAssetId": "mot_all_chr_cmn_facial-058_in"
+      },
+      {
+        "text": "月スト、いえ星見プロ全体を\n見渡しても、抜きん出ていますわ！",
+        "voiceAssetId": "sud_vo_home_suz-05-seik-00_talk-01-02",
+        "motionAssetId": "mot_adv_chr_cmn_pos-006_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "事務所として、私のソロ音源や\n単独ツアーを検討するのは、\n当然でしょう！？",
+        "voiceAssetId": "sud_vo_home_suz-05-seik-00_talk-01-03",
+        "motionAssetId": "mot_adv_chr_cmn_pos-002_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "二代目星降るきしぇきとして！\nはっ…！",
+        "voiceAssetId": "sud_vo_home_suz-05-seik-00_talk-01-04",
+        "motionAssetId": "mot_adv_chr_cmn_emb-004_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "…噛んだからダメ…？",
+        "voiceAssetId": "sud_vo_home_suz-05-seik-00_talk-01-05",
+        "motionAssetId": "mot_adv_chr_cmn_surp-007_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "お待ちなさい！\nずるいですわ！\n待ってくださいまし！",
+        "voiceAssetId": "sud_vo_home_suz-05-seik-00_talk-01-06",
+        "motionAssetId": "mot_adv_chr_cmn_angry-016_in",
+        "additionMotionAssetId": ""
+      }
+    ]
+  },
+  {
     "homeTalkId": "home-talk-card-szk-05-chna-00-talk-01",
     "characterId": "char-szk",
     "placeType": 1,

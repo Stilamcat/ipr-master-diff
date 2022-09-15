@@ -880,6 +880,17 @@
     "salePrice": 0
   },
   {
+    "id": "item-gacha_point-pick-set-bloom-22-0915",
+    "name": "夢みる少女はしとやかにガチャPt",
+    "assetId": "gacha-point",
+    "description": "該当するガチャページの「ガチャPt」から\nガチャPtを消費してアイドルを獲得できる",
+    "type": 9,
+    "value": 1,
+    "order": 140,
+    "howToGet": "",
+    "salePrice": 0
+  },
+  {
     "id": "item-gacha_point-pickup-21-0712",
     "name": "光射す海宴ガチャPt",
     "assetId": "gacha-point",
@@ -1288,6 +1299,17 @@
   },
   {
     "id": "item-ladder_pt_22-0812",
+    "name": "メッセPt",
+    "assetId": "ladder-pt",
+    "description": "メッセージミッションで報酬を獲得することができます\nイベント終了後はコインに変換されます",
+    "howToGet": "メッセージミッション、自主トレ、プロモーション、ファンイベントなど",
+    "type": 8001,
+    "value": 1,
+    "order": 100,
+    "salePrice": 0
+  },
+  {
+    "id": "item-ladder_pt_22-0916",
     "name": "メッセPt",
     "assetId": "ladder-pt",
     "description": "メッセージミッションで報酬を獲得することができます\nイベント終了後はコインに変換されます",
