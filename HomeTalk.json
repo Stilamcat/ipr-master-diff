@@ -3450,6 +3450,56 @@
     ]
   },
   {
+    "homeTalkId": "home-talk-card-szk-05-rock-00-talk-01",
+    "characterId": "char-szk",
+    "placeType": 1,
+    "conditionId": "cd-st-read-st-card-szk-05-rock-00-03",
+    "firstPriority": 9900,
+    "weight": 1,
+    "callPatternId": "call-pattern-card-szk-05-rock-00",
+    "choiceText": "懐かしいな。どうだった？",
+    "managerText": "懐かしいな。どうだった？",
+    "reliability": 5,
+    "characterTalks": [
+      {
+        "text": "やっぱり、私のパフォーマンス\n恥ずかしくて……\n画面を直視、出来なかった……",
+        "voiceAssetId": "sud_vo_home_szk-05-rock-00_talk-01-01",
+        "motionAssetId": "mot_adv_chr_cmn_emb-011_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "でも、恥ずかしく感じるのは\nきっと、悪いことじゃない……",
+        "voiceAssetId": "sud_vo_home_szk-05-rock-00_talk-01-02",
+        "motionAssetId": "mot_adv_chr_cmn_talk-015_in",
+        "additionMotionAssetId": "mot_all_chr_cmn_facial-048_in"
+      },
+      {
+        "text": "未熟だって分かるのは……\nそれだけ自分が、うまくなったって\nことだから……",
+        "voiceAssetId": "sud_vo_home_szk-05-rock-00_talk-01-03",
+        "motionAssetId": "mot_adv_chr_cmn_think-003_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "あの頃より\n今の私はうまくなってる……\n思い出の数だけ、成長してる……",
+        "voiceAssetId": "sud_vo_home_szk-05-rock-00_talk-01-04",
+        "motionAssetId": "mot_adv_chr_cmn_glad-006_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "そう思ったら……\nこれからも頑張ろうって\n気持ちになれた……",
+        "voiceAssetId": "sud_vo_home_szk-05-rock-00_talk-01-05",
+        "motionAssetId": "mot_adv_chr_cmn_glad-010_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "たまには過去を\n振り返ってみるのも……\n悪くない、かも……",
+        "voiceAssetId": "sud_vo_home_szk-05-rock-00_talk-01-06",
+        "motionAssetId": "mot_adv_chr_cmn_emb-001_in",
+        "additionMotionAssetId": ""
+      }
+    ]
+  },
+  {
     "homeTalkId": "home-talk-card-szk-05-yuru-00-talk-01",
     "characterId": "char-szk",
     "placeType": 1,

@@ -81196,6 +81196,444 @@
     "assetId": ""
   },
   {
+    "id": "sk-szk-05-rock-00-1",
+    "name": "これが……今の私のカッコよさ",
+    "categoryType": 1,
+    "levels": [
+      {
+        "level": 1,
+        "description": "1000%のスコア獲得、80コンボ以下の時スコア獲得倍率が1770%に上昇\nスタミナ589消費 ",
+        "shortDescription": "\nスタミナ589消費 ",
+        "stamina": 589,
+        "probabilityPermil": 1000,
+        "skillDetails": [
+          {
+            "efficacyId": "ef-score_get_by_trigger-10000-tg-combo_less_equal-80-17700-chart_dependence",
+            "triggerId": ""
+          }
+        ],
+        "requiredItemAmount": 0,
+        "requiredCardLevel": 0,
+        "triggerId": "",
+        "limitCount": 0,
+        "coolTime": 0,
+        "staminaPermil": 0
+      },
+      {
+        "level": 2,
+        "description": "1080%のスコア獲得、80コンボ以下の時スコア獲得倍率が1920%に上昇\nスタミナ638消費 ",
+        "shortDescription": "\nスタミナ638消費 ",
+        "requiredItemAmount": 500,
+        "requiredCardLevel": 40,
+        "stamina": 638,
+        "probabilityPermil": 1000,
+        "skillDetails": [
+          {
+            "efficacyId": "ef-score_get_by_trigger-10800-tg-combo_less_equal-80-19200-chart_dependence",
+            "triggerId": ""
+          }
+        ],
+        "triggerId": "",
+        "limitCount": 0,
+        "coolTime": 0,
+        "staminaPermil": 0
+      },
+      {
+        "level": 3,
+        "description": "1160%のスコア獲得、80コンボ以下の時スコア獲得倍率が2070%に上昇\nスタミナ686消費 ",
+        "shortDescription": "\nスタミナ686消費 ",
+        "requiredItemAmount": 2000,
+        "requiredCardLevel": 60,
+        "stamina": 686,
+        "probabilityPermil": 1000,
+        "skillDetails": [
+          {
+            "efficacyId": "ef-score_get_by_trigger-11600-tg-combo_less_equal-80-20700-chart_dependence",
+            "triggerId": ""
+          }
+        ],
+        "triggerId": "",
+        "limitCount": 0,
+        "coolTime": 0,
+        "staminaPermil": 0
+      },
+      {
+        "level": 4,
+        "description": "1330%のスコア獲得、80コンボ以下の時スコア獲得倍率が2370%に上昇\nスタミナ786消費 ",
+        "shortDescription": "\nスタミナ786消費 ",
+        "requiredItemAmount": 15000,
+        "requiredCardLevel": 90,
+        "stamina": 786,
+        "probabilityPermil": 1000,
+        "skillDetails": [
+          {
+            "efficacyId": "ef-score_get_by_trigger-13300-tg-combo_less_equal-80-23700-chart_dependence",
+            "triggerId": ""
+          }
+        ],
+        "triggerId": "",
+        "limitCount": 0,
+        "coolTime": 0,
+        "staminaPermil": 0
+      },
+      {
+        "level": 5,
+        "description": "1490%のスコア獲得、80コンボ以下の時スコア獲得倍率が2650%に上昇\nスタミナ880消費 ",
+        "shortDescription": "\nスタミナ880消費 ",
+        "requiredItemAmount": 100000,
+        "requiredCardLevel": 150,
+        "stamina": 880,
+        "probabilityPermil": 1000,
+        "skillDetails": [
+          {
+            "efficacyId": "ef-score_get_by_trigger-14900-tg-combo_less_equal-80-26500-chart_dependence",
+            "triggerId": ""
+          }
+        ],
+        "triggerId": "",
+        "limitCount": 0,
+        "coolTime": 0,
+        "staminaPermil": 0
+      },
+      {
+        "level": 6,
+        "description": "1660%のスコア獲得、80コンボ以下の時スコア獲得倍率が2960%に上昇\nスタミナ982消費 ",
+        "shortDescription": "\nスタミナ982消費 ",
+        "requiredItemAmount": 230000,
+        "requiredCardLevel": 180,
+        "stamina": 982,
+        "probabilityPermil": 1000,
+        "skillDetails": [
+          {
+            "efficacyId": "ef-score_get_by_trigger-16600-tg-combo_less_equal-80-29600-chart_dependence",
+            "triggerId": ""
+          }
+        ],
+        "triggerId": "",
+        "limitCount": 0,
+        "coolTime": 0,
+        "staminaPermil": 0
+      }
+    ],
+    "assetId": "sk-szk-05-rock-00-1"
+  },
+  {
+    "id": "sk-szk-05-rock-00-2",
+    "name": "ドルオタの名に懸けて",
+    "categoryType": 2,
+    "levels": [
+      {
+        "level": 1,
+        "description": "250%のスコア獲得、残スタミナが多い程効果上昇\n自身に4段階スタミナ継続回復効果[18ビート]\n50コンボ以下の時 自身に2段階スキル成功率上昇効果[65ビート]\nスタミナ122消費 CT:30",
+        "shortDescription": "\n\n \nスタミナ122消費 CT:30",
+        "stamina": 122,
+        "probabilityPermil": 1000,
+        "coolTime": 30,
+        "skillDetails": [
+          {
+            "efficacyId": "ef-score_get_by_more_stamina-2500-chart_dependence",
+            "triggerId": ""
+          },
+          {
+            "efficacyId": "ef-stamina_continuous_recovery-4-target-self-18",
+            "triggerId": ""
+          },
+          {
+            "efficacyId": "ef-skill_success_rate_up-2-target-self-55",
+            "triggerId": "tg-combo_less_equal-50"
+          }
+        ],
+        "requiredItemAmount": 0,
+        "requiredCardLevel": 0,
+        "triggerId": "",
+        "limitCount": 0,
+        "staminaPermil": 0
+      },
+      {
+        "level": 2,
+        "description": "260%のスコア獲得、残スタミナが多い程効果上昇\n自身に4段階スタミナ継続回復効果[21ビート]\n50コンボ以下の時 自身に2段階スキル成功率上昇効果[67ビート]\nスタミナ128消費 CT:30",
+        "shortDescription": "\n\n \nスタミナ128消費 CT:30",
+        "requiredItemAmount": 1000,
+        "requiredCardLevel": 50,
+        "stamina": 128,
+        "probabilityPermil": 1000,
+        "coolTime": 30,
+        "skillDetails": [
+          {
+            "efficacyId": "ef-score_get_by_more_stamina-2600-chart_dependence",
+            "triggerId": ""
+          },
+          {
+            "efficacyId": "ef-stamina_continuous_recovery-4-target-self-21",
+            "triggerId": ""
+          },
+          {
+            "efficacyId": "ef-skill_success_rate_up-2-target-self-60",
+            "triggerId": "tg-combo_less_equal-50"
+          }
+        ],
+        "triggerId": "",
+        "limitCount": 0,
+        "staminaPermil": 0
+      },
+      {
+        "level": 3,
+        "description": "270%のスコア獲得、残スタミナが多い程効果上昇\n自身に5段階スタミナ継続回復効果[21ビート]\n50コンボ以下の時 自身に2段階スキル成功率上昇効果[70ビート]\nスタミナ135消費 CT:30",
+        "shortDescription": "\n\n \nスタミナ135消費 CT:30",
+        "requiredItemAmount": 4000,
+        "requiredCardLevel": 70,
+        "stamina": 135,
+        "probabilityPermil": 1000,
+        "coolTime": 30,
+        "skillDetails": [
+          {
+            "efficacyId": "ef-score_get_by_more_stamina-2700-chart_dependence",
+            "triggerId": ""
+          },
+          {
+            "efficacyId": "ef-stamina_continuous_recovery-5-target-self-21",
+            "triggerId": ""
+          },
+          {
+            "efficacyId": "ef-skill_success_rate_up-3-target-self-60",
+            "triggerId": "tg-combo_less_equal-50"
+          }
+        ],
+        "triggerId": "",
+        "limitCount": 0,
+        "staminaPermil": 0
+      },
+      {
+        "level": 4,
+        "description": "280%のスコア獲得、残スタミナが多い程効果上昇\n自身に5段階スタミナ継続回復効果[24ビート]\n50コンボ以下の時 自身に3段階スキル成功率上昇効果[70ビート]\nスタミナ153消費 CT:30",
+        "shortDescription": "\n\n \nスタミナ153消費 CT:30",
+        "requiredItemAmount": 30000,
+        "requiredCardLevel": 110,
+        "stamina": 153,
+        "probabilityPermil": 1000,
+        "coolTime": 30,
+        "skillDetails": [
+          {
+            "efficacyId": "ef-score_get_by_more_stamina-2800-chart_dependence",
+            "triggerId": ""
+          },
+          {
+            "efficacyId": "ef-stamina_continuous_recovery-5-target-self-24",
+            "triggerId": ""
+          },
+          {
+            "efficacyId": "ef-skill_success_rate_up-3-target-self-65",
+            "triggerId": "tg-combo_less_equal-50"
+          }
+        ],
+        "triggerId": "",
+        "limitCount": 0,
+        "staminaPermil": 0
+      },
+      {
+        "level": 5,
+        "description": "300%のスコア獲得、残スタミナが多い程効果上昇\n自身に6段階スタミナ継続回復効果[24ビート]\n50コンボ以下の時 自身に3段階スキル成功率上昇効果[72ビート]\nスタミナ163消費 CT:30",
+        "shortDescription": "\n\n \nスタミナ163消費 CT:30",
+        "requiredItemAmount": 140000,
+        "requiredCardLevel": 160,
+        "stamina": 163,
+        "probabilityPermil": 1000,
+        "coolTime": 30,
+        "skillDetails": [
+          {
+            "efficacyId": "ef-score_get_by_more_stamina-3000-chart_dependence",
+            "triggerId": ""
+          },
+          {
+            "efficacyId": "ef-stamina_continuous_recovery-6-target-self-24",
+            "triggerId": ""
+          },
+          {
+            "efficacyId": "ef-skill_success_rate_up-4-target-self-65",
+            "triggerId": "tg-combo_less_equal-50"
+          }
+        ],
+        "triggerId": "",
+        "limitCount": 0,
+        "staminaPermil": 0
+      },
+      {
+        "level": 6,
+        "description": "320%のスコア獲得、残スタミナが多い程効果上昇\n自身に6段階スタミナ継続回復効果[27ビート]\n50コンボ以下の時 自身に3段階スキル成功率上昇効果[75ビート]\nスタミナ174消費 CT:30",
+        "shortDescription": "\n\n \nスタミナ174消費 CT:30",
+        "requiredItemAmount": 280000,
+        "requiredCardLevel": 200,
+        "stamina": 174,
+        "probabilityPermil": 1000,
+        "coolTime": 30,
+        "skillDetails": [
+          {
+            "efficacyId": "ef-score_get_by_more_stamina-3200-chart_dependence",
+            "triggerId": ""
+          },
+          {
+            "efficacyId": "ef-stamina_continuous_recovery-6-target-self-27",
+            "triggerId": ""
+          },
+          {
+            "efficacyId": "ef-skill_success_rate_up-4-target-self-75",
+            "triggerId": "tg-combo_less_equal-50"
+          }
+        ],
+        "triggerId": "",
+        "limitCount": 0,
+        "staminaPermil": 0
+      }
+    ],
+    "assetId": ""
+  },
+  {
+    "id": "sk-szk-05-rock-00-3",
+    "name": "推しに話しかける度胸",
+    "categoryType": 3,
+    "levels": [
+      {
+        "level": 1,
+        "description": "自身に3段階ボーカル上昇効果[36ビート]\n自身の低下効果回復\nスタミナ154消費 CT:60",
+        "shortDescription": "\n\nスタミナ154消費 CT:60",
+        "stamina": 154,
+        "probabilityPermil": 1000,
+        "coolTime": 60,
+        "skillDetails": [
+          {
+            "efficacyId": "ef-vocal_up-3-target-self-36",
+            "triggerId": ""
+          },
+          {
+            "efficacyId": "ef-weakness_effect_recovery-target-self",
+            "triggerId": ""
+          }
+        ],
+        "requiredItemAmount": 0,
+        "requiredCardLevel": 0,
+        "triggerId": "",
+        "limitCount": 0,
+        "staminaPermil": 0
+      },
+      {
+        "level": 2,
+        "description": "自身に4段階ボーカル上昇効果[36ビート]\n自身の低下効果回復\nスタミナ183消費 CT:60",
+        "shortDescription": "\n\nスタミナ183消費 CT:60",
+        "requiredItemAmount": 15000,
+        "requiredCardLevel": 100,
+        "stamina": 183,
+        "probabilityPermil": 1000,
+        "coolTime": 60,
+        "skillDetails": [
+          {
+            "efficacyId": "ef-vocal_up-4-target-self-36",
+            "triggerId": ""
+          },
+          {
+            "efficacyId": "ef-weakness_effect_recovery-target-self",
+            "triggerId": ""
+          }
+        ],
+        "triggerId": "",
+        "limitCount": 0,
+        "staminaPermil": 0
+      },
+      {
+        "level": 3,
+        "description": "自身に4段階ボーカル上昇効果[44ビート]\n自身の低下効果回復\nスタミナ210消費 CT:60",
+        "shortDescription": "\n\nスタミナ210消費 CT:60",
+        "requiredItemAmount": 60000,
+        "requiredCardLevel": 130,
+        "stamina": 210,
+        "probabilityPermil": 1000,
+        "coolTime": 60,
+        "skillDetails": [
+          {
+            "efficacyId": "ef-vocal_up-4-target-self-44",
+            "triggerId": ""
+          },
+          {
+            "efficacyId": "ef-weakness_effect_recovery-target-self",
+            "triggerId": ""
+          }
+        ],
+        "triggerId": "",
+        "limitCount": 0,
+        "staminaPermil": 0
+      },
+      {
+        "level": 4,
+        "description": "自身に5段階ボーカル上昇効果[44ビート]\n自身の低下効果回復\nスタミナ246消費 CT:60",
+        "shortDescription": "\n\nスタミナ246消費 CT:60",
+        "requiredItemAmount": 180000,
+        "requiredCardLevel": 170,
+        "stamina": 246,
+        "probabilityPermil": 1000,
+        "coolTime": 60,
+        "skillDetails": [
+          {
+            "efficacyId": "ef-vocal_up-5-target-self-44",
+            "triggerId": ""
+          },
+          {
+            "efficacyId": "ef-weakness_effect_recovery-target-self",
+            "triggerId": ""
+          }
+        ],
+        "triggerId": "",
+        "limitCount": 0,
+        "staminaPermil": 0
+      },
+      {
+        "level": 5,
+        "description": "自身に5段階ボーカル上昇効果[50ビート]\n自身の低下効果回復\nスタミナ271消費 CT:60",
+        "shortDescription": "\n\nスタミナ271消費 CT:60",
+        "requiredItemAmount": 230000,
+        "requiredCardLevel": 210,
+        "stamina": 271,
+        "probabilityPermil": 1000,
+        "coolTime": 60,
+        "skillDetails": [
+          {
+            "efficacyId": "ef-vocal_up-5-target-self-50",
+            "triggerId": ""
+          },
+          {
+            "efficacyId": "ef-weakness_effect_recovery-target-self",
+            "triggerId": ""
+          }
+        ],
+        "triggerId": "",
+        "limitCount": 0,
+        "staminaPermil": 0
+      },
+      {
+        "level": 6,
+        "description": "自身に6段階ボーカル上昇効果[50ビート]\n自身の低下効果回復\nスタミナ311消費 CT:60",
+        "shortDescription": "\n\nスタミナ311消費 CT:60",
+        "requiredItemAmount": 230000,
+        "requiredCardLevel": 220,
+        "stamina": 311,
+        "probabilityPermil": 1000,
+        "coolTime": 60,
+        "skillDetails": [
+          {
+            "efficacyId": "ef-vocal_up-6-target-self-50",
+            "triggerId": ""
+          },
+          {
+            "efficacyId": "ef-weakness_effect_recovery-target-self",
+            "triggerId": ""
+          }
+        ],
+        "triggerId": "",
+        "limitCount": 0,
+        "staminaPermil": 0
+      }
+    ],
+    "assetId": ""
+  },
+  {
     "id": "sk-szk-05-yuru-00-1",
     "name": "誰かの憧れに",
     "categoryType": 2,

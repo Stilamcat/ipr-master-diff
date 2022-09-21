@@ -6766,6 +6766,66 @@
     "displayPositionY2": 0.0
   },
   {
+    "id": "card-szk-05-rock-00",
+    "assetId": "szk-05-rock-00",
+    "name": "香るミステリアスクール",
+    "description": "笑顔は見せずに……気持ちを込めて……\r\nもっとクールに、私の中のかっこ良さを研ぎ澄ます……\r\n自信を持って、胸を張って、前を向いて\r\n今日の私は……世界一かっこいいアイドル……！",
+    "type": 1,
+    "characterId": "char-szk",
+    "initialRarity": 5,
+    "cardParameterId": "card-param-01",
+    "vocalRatioPermil": 434,
+    "danceRatioPermil": 319,
+    "visualRatioPermil": 277,
+    "staminaRatioPermil": 900,
+    "cardLevelReleaseId": "card_level_release_1",
+    "skillId1": "sk-szk-05-rock-00-1",
+    "skillId2": "sk-szk-05-rock-00-2",
+    "skillId3": "sk-szk-05-rock-00-3",
+    "liveAbilityId": "lba-vocal_multiply",
+    "order": 236,
+    "releaseDate": "1663729200000",
+    "rewardCostumeId": "cos-szk-rock-00",
+    "imageType1": 3,
+    "displayPositionX1": 0.089,
+    "displayScale1": 1.0,
+    "highlightDisplayPositionX1": -0.133,
+    "highlightDisplayPositionY1": 0.228,
+    "highlightDisplayScale1": 0.7,
+    "imageType2": 3,
+    "displayPositionX2": 0.089,
+    "displayScale2": 1.0,
+    "highlightDisplayPositionX2": -0.133,
+    "highlightDisplayPositionY2": 0.228,
+    "highlightDisplayScale2": 0.7,
+    "obtainMessage": "今日の私は……\n世界一かっこいいアイドル……！",
+    "stories": [
+      {
+        "storyId": "st-card-szk-05-rock-00-01"
+      },
+      {
+        "storyId": "st-card-szk-05-rock-00-02"
+      },
+      {
+        "storyId": "st-card-szk-05-rock-00-03"
+      }
+    ],
+    "messages": [
+      {
+        "messageId": "message-card-szk-05-rock-00",
+        "telephoneId": ""
+      },
+      {
+        "telephoneId": "tel-card-szk-05-rock-00",
+        "messageId": ""
+      }
+    ],
+    "activityAbilityId": "",
+    "displayPositionY1": 0.0,
+    "displayPositionY2": 0.0,
+    "homeTalks": []
+  },
+  {
     "id": "card-szk-05-yuru-00",
     "assetId": "szk-05-yuru-00",
     "name": "一緒に歌える幸せ",
