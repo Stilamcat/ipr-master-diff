@@ -38,6 +38,8 @@
       }
     ],
     "backgroundColor": "FFFFFF",
+    "nameColor": "000000",
+    "characterType": 1,
     "viewConditionId": "",
     "isMemories": false,
     "textColor": ""
@@ -81,6 +83,8 @@
       }
     ],
     "backgroundColor": "FFFFFF",
+    "nameColor": "000000",
+    "characterType": 1,
     "viewConditionId": "",
     "isMemories": false,
     "textColor": ""
@@ -113,6 +117,8 @@
     ],
     "backgroundColor": "CCB46D",
     "textColor": "FFFFFF",
+    "nameColor": "000000",
+    "characterType": 1,
     "viewConditionId": "",
     "isMemories": false
   },
@@ -150,6 +156,8 @@
     ],
     "backgroundColor": "000000",
     "textColor": "63A663",
+    "nameColor": "FFFFFF",
+    "characterType": 1,
     "viewConditionId": "",
     "isMemories": false
   },
@@ -168,9 +176,11 @@
       }
     ],
     "isMemories": true,
+    "characterType": 3,
     "viewConditionId": "",
     "backgroundColor": "",
-    "textColor": ""
+    "textColor": "",
+    "nameColor": ""
   },
   {
     "id": "character_group_6",
@@ -200,6 +210,8 @@
     ],
     "backgroundColor": "474744",
     "textColor": "F0F000",
+    "nameColor": "FFFFFF",
+    "characterType": 1,
     "viewConditionId": "",
     "isMemories": false
   },
@@ -219,7 +231,9 @@
       }
     ],
     "isMemories": true,
+    "characterType": 4,
     "backgroundColor": "",
-    "textColor": ""
+    "textColor": "",
+    "nameColor": ""
   }
 ]

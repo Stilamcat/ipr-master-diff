@@ -12,6 +12,9 @@
     "photoShootingMotionSetId": "bedrock-00",
     "isDeleteCharacter": true,
     "order": 9,
+    "impossibleShootingCharacterIds": [
+      "char-mku"
+    ],
     "viewConditionId": "",
     "unlockConditionId": ""
   },
@@ -33,7 +36,8 @@
     "isDeleteCharacter": true,
     "order": 110,
     "unlockConditionId": "cd-manager_level_gte-20",
-    "viewConditionId": ""
+    "viewConditionId": "",
+    "impossibleShootingCharacterIds": []
   },
   {
     "id": "photo_activity-catstreet-01",
@@ -54,7 +58,8 @@
     "isDeleteCharacter": true,
     "order": 6,
     "viewConditionId": "cd-time-photo-shopping-01-close",
-    "unlockConditionId": ""
+    "unlockConditionId": "",
+    "impossibleShootingCharacterIds": []
   },
   {
     "id": "photo_activity-event_stage",
@@ -73,7 +78,8 @@
     "isDeleteCharacter": true,
     "order": 150,
     "viewConditionId": "cd-manager_level_gte-45",
-    "unlockConditionId": "cd-manager_level_gte-80"
+    "unlockConditionId": "cd-manager_level_gte-80",
+    "impossibleShootingCharacterIds": []
   },
   {
     "id": "photo_activity-fashion_model",
@@ -91,7 +97,10 @@
     "isDeleteCharacter": true,
     "order": 160,
     "viewConditionId": "cd-manager_level_gte-45",
-    "unlockConditionId": "cd-manager_level_gte-90"
+    "unlockConditionId": "cd-manager_level_gte-90",
+    "impossibleShootingCharacterIds": [
+      "char-mku"
+    ]
   },
   {
     "id": "photo_activity-flyers",
@@ -111,7 +120,8 @@
     "isDeleteCharacter": true,
     "order": 100,
     "viewConditionId": "",
-    "unlockConditionId": ""
+    "unlockConditionId": "",
+    "impossibleShootingCharacterIds": []
   },
   {
     "id": "photo_activity-hillpark",
@@ -130,7 +140,8 @@
     "isDeleteCharacter": true,
     "order": 1,
     "viewConditionId": "",
-    "unlockConditionId": ""
+    "unlockConditionId": "",
+    "impossibleShootingCharacterIds": []
   },
   {
     "id": "photo_activity-hot_spring",
@@ -146,7 +157,10 @@
     "isDeleteCharacter": true,
     "order": 170,
     "viewConditionId": "cd-manager_level_gte-45",
-    "unlockConditionId": "cd-manager_level_gte-115"
+    "unlockConditionId": "cd-manager_level_gte-115",
+    "impossibleShootingCharacterIds": [
+      "char-mku"
+    ]
   },
   {
     "id": "photo_activity-living",
@@ -165,7 +179,8 @@
     "isDeleteCharacter": true,
     "order": 4,
     "viewConditionId": "",
-    "unlockConditionId": ""
+    "unlockConditionId": "",
+    "impossibleShootingCharacterIds": []
   },
   {
     "id": "photo_activity-ministage",
@@ -187,7 +202,8 @@
     "isDeleteCharacter": true,
     "order": 7,
     "viewConditionId": "cd-time-photo-ministage-01-close",
-    "unlockConditionId": ""
+    "unlockConditionId": "",
+    "impossibleShootingCharacterIds": []
   },
   {
     "id": "photo_activity-pool",
@@ -203,6 +219,9 @@
     "photoShootingMotionSetId": "pool-00",
     "isDeleteCharacter": true,
     "order": 10,
+    "impossibleShootingCharacterIds": [
+      "char-mku"
+    ],
     "viewConditionId": "",
     "unlockConditionId": ""
   },
@@ -224,7 +243,8 @@
     "isDeleteCharacter": true,
     "order": 140,
     "viewConditionId": "cd-manager_level_gte-45",
-    "unlockConditionId": "cd-manager_level_gte-60"
+    "unlockConditionId": "cd-manager_level_gte-60",
+    "impossibleShootingCharacterIds": []
   },
   {
     "id": "photo_activity-shopping",
@@ -244,7 +264,8 @@
     "isDeleteCharacter": true,
     "order": 130,
     "unlockConditionId": "cd-manager_level_gte-45",
-    "viewConditionId": ""
+    "viewConditionId": "",
+    "impossibleShootingCharacterIds": []
   },
   {
     "id": "photo_activity-studio-00",
@@ -262,7 +283,8 @@
     "isDeleteCharacter": true,
     "order": 5,
     "viewConditionId": "",
-    "unlockConditionId": ""
+    "unlockConditionId": "",
+    "impossibleShootingCharacterIds": []
   },
   {
     "id": "photo_activity-theme_park",
@@ -282,7 +304,8 @@
     "isDeleteCharacter": true,
     "order": 8,
     "viewConditionId": "",
-    "unlockConditionId": ""
+    "unlockConditionId": "",
+    "impossibleShootingCharacterIds": []
   },
   {
     "id": "photo_activity-video_distribution",
@@ -300,6 +323,7 @@
     "isDeleteCharacter": true,
     "order": 120,
     "unlockConditionId": "cd-manager_level_gte-30",
-    "viewConditionId": ""
+    "viewConditionId": "",
+    "impossibleShootingCharacterIds": []
   }
 ]
