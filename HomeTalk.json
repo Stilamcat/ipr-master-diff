@@ -2966,6 +2966,56 @@
     ]
   },
   {
+    "homeTalkId": "home-talk-card-smr-05-fest-00-talk-01",
+    "characterId": "char-smr",
+    "placeType": 1,
+    "conditionId": "cd-st-read-st-card-smr-05-fest-00-03",
+    "firstPriority": 9900,
+    "weight": 1,
+    "callPatternId": "call-pattern-card-smr-05-fest-00",
+    "choiceText": "ごく普通だったけど…",
+    "managerText": "ごく普通だったけど…",
+    "reliability": 5,
+    "characterTalks": [
+      {
+        "text": "ふむふむ麻奈さんと補習を受けたり\n事務所や楽屋で勉強したりですか。\n苦労されてたんですね。",
+        "voiceAssetId": "sud_vo_home_smr-05-fest-00_talk-01-01",
+        "motionAssetId": "mot_adv_chr_cmn_talk-006_in",
+        "additionMotionAssetId": "mot_all_chr_cmn_facial-001_in"
+      },
+      {
+        "text": "今ですね、みなさんが時間をどう\nやりくりしているのか、今後の\nためにも聞いて回ってるんです！",
+        "voiceAssetId": "sud_vo_home_smr-05-fest-00_talk-01-02",
+        "motionAssetId": "mot_adv_chr_cmn_pos-002_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "それぞれやりくりの仕方が\n全然違うので、聞いてるだけでも\n面白いんですよ！",
+        "voiceAssetId": "sud_vo_home_smr-05-fest-00_talk-01-03",
+        "motionAssetId": "mot_adv_chr_cmn_emot-001_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "サニピ結成前はひたすら大学の単位\nを取ってたって遙子さんのお話は、\n少し胸がきゅってなりましたけど…",
+        "voiceAssetId": "sud_vo_home_smr-05-fest-00_talk-01-04",
+        "motionAssetId": "mot_adv_chr_cmn_talk-019_in",
+        "additionMotionAssetId": "mot_all_chr_cmn_facial-034_in"
+      },
+      {
+        "text": "今まで知らなかった一面が\n見えるのも、いいなって\n思いました。",
+        "voiceAssetId": "sud_vo_home_smr-05-fest-00_talk-01-05",
+        "motionAssetId": "mot_adv_chr_cmn_pos-008_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "これからもっともっといろんな\nお話をして、みなさんのことを\n知っていきたいです！",
+        "voiceAssetId": "sud_vo_home_smr-05-fest-00_talk-01-06",
+        "motionAssetId": "mot_adv_chr_cmn_pos-007_in",
+        "additionMotionAssetId": ""
+      }
+    ]
+  },
+  {
     "homeTalkId": "home-talk-card-smr-05-frut-00-talk-01",
     "characterId": "char-smr",
     "placeType": 1,
@@ -3540,6 +3590,56 @@
         "voiceAssetId": "sud_vo_home_szk-05-yuru-00_talk-01-05",
         "motionAssetId": "mot_adv_chr_cmn_emot-004_in",
         "additionMotionAssetId": ""
+      }
+    ]
+  },
+  {
+    "homeTalkId": "home-talk-card-yu-05-fest-00-talk-01",
+    "characterId": "char-yu",
+    "placeType": 1,
+    "conditionId": "cd-st-read-st-card-yu-05-fest-00-03",
+    "firstPriority": 9900,
+    "weight": 1,
+    "callPatternId": "call-pattern-card-yu-05-fest-00",
+    "choiceText": "誤解は解けた？",
+    "managerText": "誤解は解けた？",
+    "reliability": 5,
+    "characterTalks": [
+      {
+        "text": "解けたは解けたんやけど…\n別の問題が発生してもうて。",
+        "voiceAssetId": "sud_vo_home_yu-05-fest-00_talk-01-01",
+        "motionAssetId": "mot_adv_chr_cmn_talk-012_in",
+        "additionMotionAssetId": "mot_all_chr_cmn_facial-034_in"
+      },
+      {
+        "text": "すみれちゃんが、優ちゃんだけ\n{user}さんに甘えて\nズルいって言い出して…",
+        "voiceAssetId": "sud_vo_home_yu-05-fest-00_talk-01-02",
+        "motionAssetId": "mot_adv_chr_cmn_talk-011_in",
+        "additionMotionAssetId": "mot_all_chr_cmn_facial-034_in"
+      },
+      {
+        "text": "自分も今度風邪引いたら\n絶対、看病してもらうって\n駄々こねてしまって。",
+        "voiceAssetId": "sud_vo_home_yu-05-fest-00_talk-01-03",
+        "motionAssetId": "mot_adv_chr_cmn_deny-006_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "瑠依ちゃんも口にはせんけど\nうちを羨ましがっとる\n目やったなぁ…",
+        "voiceAssetId": "sud_vo_home_yu-05-fest-00_talk-01-04",
+        "motionAssetId": "mot_adv_chr_cmn_talk-016_in",
+        "additionMotionAssetId": "mot_all_chr_cmn_facial-044_in"
+      },
+      {
+        "text": "そんな訳で、二人がもし風邪\n引いたら、またうちみたいに\nあ～ん、したってな。",
+        "voiceAssetId": "sud_vo_home_yu-05-fest-00_talk-01-05",
+        "motionAssetId": "mot_adv_chr_cmn_pos-009_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "え？　やってない？\nそうやったっけ？　うち\n熱あったし記憶があいまいや。",
+        "voiceAssetId": "sud_vo_home_yu-05-fest-00_talk-01-06",
+        "motionAssetId": "mot_adv_chr_cmn_talk-021_in",
+        "additionMotionAssetId": "mot_all_chr_cmn_facial-034_in"
       }
     ]
   },

@@ -5799,6 +5799,66 @@
     "homeTalks": []
   },
   {
+    "id": "card-smr-05-fest-00",
+    "assetId": "smr-05-fest-00",
+    "name": "歌詠み花",
+    "description": "――ここには、色とりどりの花と\r\n心を豊かにする音楽が溢れてます\r\n美しい花と音の海の中で\r\nあなたも一緒に泳いでみませんか！",
+    "type": 1,
+    "characterId": "char-smr",
+    "initialRarity": 5,
+    "cardParameterId": "card-param-01",
+    "vocalRatioPermil": 278,
+    "danceRatioPermil": 435,
+    "visualRatioPermil": 317,
+    "staminaRatioPermil": 900,
+    "cardLevelReleaseId": "card_level_release_1",
+    "skillId1": "sk-smr-05-fest-00-1",
+    "skillId2": "sk-smr-05-fest-00-2",
+    "skillId3": "sk-smr-05-fest-00-3",
+    "activityAbilityId": "aab-promotion_manager_exp_up",
+    "order": 238,
+    "releaseDate": "1664247600000",
+    "rewardCostumeId": "cos-smr-fest-00",
+    "imageType1": 3,
+    "displayPositionX1": -0.234,
+    "displayPositionY1": 0.188,
+    "displayScale1": 1.6,
+    "highlightDisplayPositionX1": 0.904,
+    "highlightDisplayPositionY1": 0.254,
+    "highlightDisplayScale1": 1.2,
+    "imageType2": 3,
+    "displayPositionX2": -0.234,
+    "displayPositionY2": 0.188,
+    "displayScale2": 1.6,
+    "highlightDisplayPositionX2": 0.904,
+    "highlightDisplayPositionY2": 0.254,
+    "highlightDisplayScale2": 1.2,
+    "obtainMessage": "これからも、いっぱい頼らせて下さいね",
+    "stories": [
+      {
+        "storyId": "st-card-smr-05-fest-00-01"
+      },
+      {
+        "storyId": "st-card-smr-05-fest-00-02"
+      },
+      {
+        "storyId": "st-card-smr-05-fest-00-03"
+      }
+    ],
+    "messages": [
+      {
+        "messageId": "message-card-smr-05-fest-00",
+        "telephoneId": ""
+      },
+      {
+        "telephoneId": "tel-card-smr-05-fest-00",
+        "messageId": ""
+      }
+    ],
+    "liveAbilityId": "",
+    "homeTalks": []
+  },
+  {
     "id": "card-smr-05-frut-00",
     "assetId": "smr-05-frut-00",
     "name": "Little lover",
@@ -7006,6 +7066,66 @@
     "obtainMessage": "",
     "stories": [],
     "messages": [],
+    "homeTalks": []
+  },
+  {
+    "id": "card-yu-05-fest-00",
+    "assetId": "yu-05-fest-00",
+    "name": "甘えん坊の鈴村さん",
+    "description": "ファンのみなさん！　スタッフのみなさん！\nそれから――\r\nずっと支えてくれる――あなたに\nうちらの歌で恩返し！　最後まで観て下さいねー！",
+    "type": 2,
+    "characterId": "char-yu",
+    "initialRarity": 5,
+    "cardParameterId": "card-param-01",
+    "vocalRatioPermil": 401,
+    "danceRatioPermil": 317,
+    "visualRatioPermil": 282,
+    "staminaRatioPermil": 1000,
+    "cardLevelReleaseId": "card_level_release_1",
+    "skillId1": "sk-yu-05-fest-00-1",
+    "skillId2": "sk-yu-05-fest-00-2",
+    "skillId3": "sk-yu-05-fest-00-3",
+    "liveAbilityId": "lba-technique_add",
+    "order": 237,
+    "releaseDate": "1664247600000",
+    "rewardCostumeId": "cos-yu-fest-00",
+    "imageType1": 3,
+    "displayPositionX1": 0.16,
+    "displayPositionY1": 0.115,
+    "displayScale1": 1.3,
+    "highlightDisplayPositionX1": -0.133,
+    "highlightDisplayPositionY1": 0.228,
+    "highlightDisplayScale1": 0.7,
+    "imageType2": 3,
+    "displayPositionX2": 0.16,
+    "displayPositionY2": 0.115,
+    "displayScale2": 1.3,
+    "highlightDisplayPositionX2": -0.133,
+    "highlightDisplayPositionY2": 0.228,
+    "highlightDisplayScale2": 0.7,
+    "obtainMessage": "ずっと支えてくれる――あなたに\nうちらの歌で恩返し！",
+    "stories": [
+      {
+        "storyId": "st-card-yu-05-fest-00-01"
+      },
+      {
+        "storyId": "st-card-yu-05-fest-00-02"
+      },
+      {
+        "storyId": "st-card-yu-05-fest-00-03"
+      }
+    ],
+    "messages": [
+      {
+        "messageId": "message-card-yu-05-fest-00",
+        "telephoneId": ""
+      },
+      {
+        "telephoneId": "tel-card-yu-05-fest-00",
+        "messageId": ""
+      }
+    ],
+    "activityAbilityId": "",
     "homeTalks": []
   },
   {

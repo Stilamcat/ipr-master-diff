@@ -1148,6 +1148,50 @@
     "shootingTime": "0"
   },
   {
+    "id": "phot-prm-5-5",
+    "assetId": "phot-prm-5-0005",
+    "name": "TRINITYAiLE",
+    "rarity": 5,
+    "placeName": "輝くアイドルに",
+    "eventName": "メモリアルフォト",
+    "level": 35,
+    "abilities": [
+      {
+        "photoAbilityId": "pab-vocal_multiply_distribution-5",
+        "effectValue": 200,
+        "grade": 1,
+        "missionId": ""
+      },
+      {
+        "photoAbilityId": "pab-dance_multiply_distribution-5",
+        "effectValue": 200,
+        "grade": 1,
+        "missionId": ""
+      },
+      {
+        "photoAbilityId": "pab-visual_multiply_distribution-5",
+        "effectValue": 200,
+        "grade": 1,
+        "missionId": ""
+      },
+      {
+        "photoAbilityId": "pab-special-skill-score-up_multiply_distribution-5",
+        "effectValue": 50,
+        "grade": 1,
+        "missionId": ""
+      },
+      {
+        "photoAbilityId": "pab-passive-skill_sk-phot-release-login-5-01",
+        "effectValue": 1,
+        "grade": 1,
+        "missionId": ""
+      }
+    ],
+    "focusCharacterId": "char-rui",
+    "characterIds": [],
+    "shootingTime": "0"
+  },
+  {
     "id": "phot-release-login-5-1",
     "assetId": "phot-login-5-0001",
     "name": "長瀬麻奈",
@@ -1320,6 +1364,50 @@
       }
     ],
     "focusCharacterId": "char-mku",
+    "characterIds": [],
+    "shootingTime": "0"
+  },
+  {
+    "id": "phot-shop-5-12",
+    "assetId": "phot-shop-5-0012",
+    "name": "TRINITYAiLE",
+    "rarity": 5,
+    "placeName": "白い翼で世界を翔ける",
+    "eventName": "メモリアルフォト",
+    "level": 35,
+    "abilities": [
+      {
+        "photoAbilityId": "pab-vocal_multiply_distribution-5",
+        "effectValue": 200,
+        "grade": 1,
+        "missionId": ""
+      },
+      {
+        "photoAbilityId": "pab-dance_multiply_distribution-5",
+        "effectValue": 200,
+        "grade": 1,
+        "missionId": ""
+      },
+      {
+        "photoAbilityId": "pab-visual_multiply_distribution-5",
+        "effectValue": 200,
+        "grade": 1,
+        "missionId": ""
+      },
+      {
+        "photoAbilityId": "pab-technique_add-5",
+        "effectValue": 77,
+        "grade": 1,
+        "missionId": ""
+      },
+      {
+        "photoAbilityId": "pab-passive-skill_sk-phot-shop-5-02",
+        "effectValue": 1,
+        "grade": 1,
+        "missionId": ""
+      }
+    ],
+    "focusCharacterId": "char-rui",
     "characterIds": [],
     "shootingTime": "0"
   },

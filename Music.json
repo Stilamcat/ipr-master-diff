@@ -15415,6 +15415,7 @@
     "composer": "kz",
     "arranger": "kz",
     "singer": "TRINITYAiLE",
+    "is3DAvailable": true,
     "comboAdvantageId": "combo_advantage_1",
     "volumePermyriads": [
       1162,
@@ -15966,11 +15967,16 @@
         "loop": false
       }
     ],
-    "is3DAvailable": false,
+    "originalCharacterIds": [
+      "char-rui",
+      "char-smr",
+      "char-yu"
+    ],
+    "notSelectableStageTypes": [
+      1
+    ],
     "chartStartOffsetMillisecond": 0,
     "releaseTime": "0",
-    "originalCharacterIds": [],
-    "notSelectableStageTypes": [],
     "mvAssetId": "",
     "selectableStageIds": []
   },

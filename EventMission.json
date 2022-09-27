@@ -253,6 +253,20 @@
     "unlockConditionId": ""
   },
   {
+    "id": "event-mini-marathon-22-0928",
+    "eventMissionType": 1,
+    "assetId": "img_banner_l_event-mini-marathon-22-0928",
+    "name": "イベントミッション",
+    "order": 99,
+    "viewConditionId": "cd-date-mini-marathon-22-0928",
+    "missionIds": [
+      "ms-event-mini-marathon-22-0928-marathon_quest_clear_count_001",
+      "ms-event-mini-marathon-22-0928-marathon_quest_clear_count_002",
+      "ms-event-mini-marathon-22-0928-marathon_quest_clear_count_003"
+    ],
+    "unlockConditionId": ""
+  },
+  {
     "id": "event-race-22-0228",
     "eventMissionType": 1,
     "assetId": "img_banner_l_event-race-22-0228",
@@ -368,6 +382,27 @@
       "event-ms-anniversary-22-0630-00-quest_daily_clear_count",
       "event-ms-anniversary-22-0630-00-quest_pvp_play_count",
       "event-ms-anniversary-22-0630-00-quest_qt-area_clear_count"
+    ],
+    "unlockConditionId": ""
+  },
+  {
+    "id": "event_fes-mission-22-0929",
+    "eventMissionType": 2,
+    "assetId": "img_banner_l_event-fes-mission-22-0929",
+    "name": "フェス開催記念ミッション",
+    "order": 1,
+    "viewConditionId": "cd-time-event-ms-fes-22-0929-1009",
+    "missionIds": [
+      "event-ms-fes-22-0929-00-00-accessory_enhance_count",
+      "event-ms-fes-22-0929-00-card_skill_level_up_count",
+      "event-ms-fes-22-0929-00-login_count",
+      "event-ms-fes-22-0929-00-market_exchange_count",
+      "event-ms-fes-22-0929-00-mission_clear_count",
+      "event-ms-fes-22-0929-00-photo_reroll_total_count",
+      "event-ms-fes-22-0929-00-photo_shoot_total_count",
+      "event-ms-fes-22-0929-00-quest_daily_clear_count",
+      "event-ms-fes-22-0929-00-quest_pvp_play_count",
+      "event-ms-fes-22-0929-00-quest_qt-area_clear_count"
     ],
     "unlockConditionId": ""
   },

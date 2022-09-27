@@ -528,6 +528,39 @@
     "salePrice": 0
   },
   {
+    "id": "item-gacha_point-fs-set-bloom-22-0927-01",
+    "name": "アイプラフェスピックアップ1ガチャPt",
+    "assetId": "gacha-point",
+    "description": "該当するガチャページの「ガチャPt」から\nガチャPtを消費してアイドルを獲得できる",
+    "type": 9,
+    "value": 1,
+    "order": 140,
+    "howToGet": "",
+    "salePrice": 0
+  },
+  {
+    "id": "item-gacha_point-fs-set-bloom-22-0927-02",
+    "name": "アイプラフェスピックアップ2ガチャPt",
+    "assetId": "gacha-point",
+    "description": "該当するガチャページの「ガチャPt」から\nガチャPtを消費してアイドルを獲得できる",
+    "type": 9,
+    "value": 1,
+    "order": 140,
+    "howToGet": "",
+    "salePrice": 0
+  },
+  {
+    "id": "item-gacha_point-fs-set-bloom-22-0930",
+    "name": "アイプラフェスピックアップ3ガチャPt",
+    "assetId": "gacha-point",
+    "description": "該当するガチャページの「ガチャPt」から\nガチャPtを消費してアイドルを獲得できる",
+    "type": 9,
+    "value": 1,
+    "order": 140,
+    "howToGet": "",
+    "salePrice": 0
+  },
+  {
     "id": "item-gacha_point-gacha-pickup-21-0624-01",
     "name": "リリース記念ガチャPt",
     "assetId": "gacha-point",
@@ -1496,6 +1529,17 @@
     "salePrice": 0
   },
   {
+    "id": "item-mini-marathon_medal-22-0928",
+    "name": "ミニリンクスメダル",
+    "assetId": "medal-marathon",
+    "description": "BOXガチャを引くことができます\nイベント終了後はコインに変換されます",
+    "howToGet": "ミニリンクスイベント",
+    "type": 4001,
+    "value": 1,
+    "order": 1000,
+    "salePrice": 0
+  },
+  {
     "id": "item-mini-marathon_quest_unlock-22-0413",
     "name": "解放Pt",
     "assetId": "marathon-release-pt",
@@ -1518,6 +1562,17 @@
     "salePrice": 0
   },
   {
+    "id": "item-mini-marathon_quest_unlock-22-0928",
+    "name": "解放Pt",
+    "assetId": "marathon-release-pt",
+    "description": "ミニリンクスイベントの解放Ptです\nイベント終了後はコインに変換されます",
+    "howToGet": "ミニリンクスイベント",
+    "type": 5002,
+    "value": 1,
+    "order": 1002,
+    "salePrice": 0
+  },
+  {
     "id": "item-mini-marathon_stamina_recovery-22-0413",
     "name": "リンクスキャンディ",
     "assetId": "marathon-stamina-recovery",
@@ -1530,6 +1585,17 @@
   },
   {
     "id": "item-mini-marathon_stamina_recovery-22-0712",
+    "name": "リンクスキャンディ",
+    "assetId": "marathon-stamina-recovery",
+    "description": "ミニリンクスイベントの体力を回復します\nイベント終了後はコインに変換されます",
+    "howToGet": "ハイスコアライブ、プロモーション、ファンイベントなど",
+    "type": 5001,
+    "value": 20,
+    "order": 1001,
+    "salePrice": 0
+  },
+  {
+    "id": "item-mini-marathon_stamina_recovery-22-0928",
     "name": "リンクスキャンディ",
     "assetId": "marathon-stamina-recovery",
     "description": "ミニリンクスイベントの体力を回復します\nイベント終了後はコインに変換されます",
