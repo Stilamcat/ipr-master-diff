@@ -26816,6 +26816,120 @@
     "statusEffectType": 0
   },
   {
+    "id": "pab-received_strength_effect_count_increase-active_skill_score_up_recipe_distribution-5",
+    "name": "被・Aスコア延長",
+    "description": "受けるAスコアアップ効果を13延長します",
+    "abilityType": 28,
+    "photoAbilityLevels": [
+      {
+        "level": 140,
+        "value": 13
+      },
+      {
+        "level": 145,
+        "value": 13
+      },
+      {
+        "level": 150,
+        "value": 13
+      },
+      {
+        "level": 155,
+        "value": 13
+      },
+      {
+        "level": 160,
+        "value": 13
+      },
+      {
+        "level": 165,
+        "value": 13
+      },
+      {
+        "level": 170,
+        "value": 13
+      },
+      {
+        "level": 175,
+        "value": 13
+      },
+      {
+        "level": 180,
+        "value": 13
+      },
+      {
+        "level": 185,
+        "value": 13
+      },
+      {
+        "level": 190,
+        "value": 13
+      },
+      {
+        "level": 195,
+        "value": 13
+      },
+      {
+        "level": 200,
+        "value": 13
+      },
+      {
+        "level": 205,
+        "value": 13
+      },
+      {
+        "level": 210,
+        "value": 13
+      },
+      {
+        "level": 215,
+        "value": 13
+      },
+      {
+        "level": 220,
+        "value": 13
+      },
+      {
+        "level": 225,
+        "value": 13
+      },
+      {
+        "level": 230,
+        "value": 13
+      },
+      {
+        "level": 235,
+        "value": 13
+      },
+      {
+        "level": 240,
+        "value": 13
+      },
+      {
+        "level": 245,
+        "value": 13
+      },
+      {
+        "level": 250,
+        "value": 13
+      }
+    ],
+    "photoAbilityGrades": [
+      {
+        "grade": 1,
+        "bonusPermil": 1000,
+        "type": 3,
+        "bonusValue": 0
+      }
+    ],
+    "statusEffectType": 6,
+    "moodType": 0,
+    "skillId": "",
+    "abilityTargetId": "",
+    "conditionCardType": 0,
+    "conditionLiveType": 0
+  },
+  {
     "id": "pab-received_strength_effect_count_increase-stamina_consumption_reduction_recipe_distribution-5",
     "name": "被・消費スタ減延長",
     "description": "受ける消費スタミナ低下効果を23延長します",

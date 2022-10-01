@@ -772,5 +772,55 @@
         "viewConditionId": ""
       }
     ]
+  },
+  {
+    "id": "st-eve-2210-race",
+    "assetId": "event-race-22-1003",
+    "name": "イベントストーリー",
+    "description": "運命繋ぐ流星の軌跡",
+    "order": 2200,
+    "viewConditionId": "cd-event-story-22-1003",
+    "episodes": [
+      {
+        "episode": 1,
+        "assetId": "event_2210_01_01",
+        "storyId": "st-eve-2210-race-001",
+        "unlockConditionId": "cd-event-race-22-1003-close",
+        "viewConditionId": "",
+        "isAppeal": false
+      },
+      {
+        "episode": 2,
+        "assetId": "event_2210_01_02",
+        "storyId": "st-eve-2210-race-002",
+        "unlockConditionId": "cd-event-race-22-1003-close",
+        "viewConditionId": "",
+        "isAppeal": false
+      },
+      {
+        "episode": 3,
+        "assetId": "event_2210_01_03",
+        "storyId": "st-eve-2210-race-003",
+        "unlockConditionId": "cd-event-race-22-1003-close",
+        "viewConditionId": "",
+        "isAppeal": false
+      },
+      {
+        "episode": 4,
+        "assetId": "event_2210_01_04",
+        "storyId": "st-eve-2210-race-004",
+        "unlockConditionId": "cd-event-race-22-1003-close",
+        "viewConditionId": "",
+        "isAppeal": false
+      },
+      {
+        "episode": 5,
+        "assetId": "event_2210_01_05",
+        "storyId": "st-eve-2210-race-005",
+        "unlockConditionId": "cd-event-race-22-1003-close",
+        "viewConditionId": "",
+        "isAppeal": false
+      }
+    ]
   }
 ]

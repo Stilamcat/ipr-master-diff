@@ -4420,6 +4420,16 @@
     "maxGrade": 0
   },
   {
+    "id": "ef-cool_time_reduction-13-target-all",
+    "name": "全体のCTを低下",
+    "type": 27,
+    "description": "全員のCTを13減少",
+    "skillTargetId": "target-all",
+    "shortDescription": "",
+    "grade": 0,
+    "maxGrade": 0
+  },
+  {
     "id": "ef-cool_time_reduction-13-target-center",
     "name": "センターのCTを低下",
     "type": 27,
@@ -4545,6 +4555,16 @@
     "type": 27,
     "description": "自身のCTを16減少",
     "skillTargetId": "target-self",
+    "shortDescription": "",
+    "grade": 0,
+    "maxGrade": 0
+  },
+  {
+    "id": "ef-cool_time_reduction-17-target-all",
+    "name": "全体のCTを低下",
+    "type": 27,
+    "description": "全員のCTを17減少",
+    "skillTargetId": "target-all",
     "shortDescription": "",
     "grade": 0,
     "maxGrade": 0
@@ -4864,6 +4884,16 @@
     "name": "全体のCTを低下",
     "type": 27,
     "description": "全員のCTを30減少",
+    "skillTargetId": "target-all",
+    "shortDescription": "",
+    "grade": 0,
+    "maxGrade": 0
+  },
+  {
+    "id": "ef-cool_time_reduction-31-target-all",
+    "name": "全体のCTを低下",
+    "type": 27,
+    "description": "全員のCTを31減少",
     "skillTargetId": "target-all",
     "shortDescription": "",
     "grade": 0,
@@ -5245,6 +5275,16 @@
     "type": 27,
     "description": "自身のCTを6減少",
     "skillTargetId": "target-self",
+    "shortDescription": "",
+    "grade": 0,
+    "maxGrade": 0
+  },
+  {
+    "id": "ef-cool_time_reduction-7-target-all",
+    "name": "全体のCTを低下",
+    "type": 27,
+    "description": "全員のCTを7減少",
+    "skillTargetId": "target-all",
     "shortDescription": "",
     "grade": 0,
     "maxGrade": 0
@@ -25370,6 +25410,26 @@
     "shortDescription": ""
   },
   {
+    "id": "ef-skill_success_rate_up-2-target-character_type-3-2-25",
+    "name": "サポータータイプ2人のスキル成功率アップ",
+    "type": 37,
+    "description": "サポータータイプ2人に2段階スキル成功率上昇効果[25ビート]",
+    "grade": 2,
+    "maxGrade": 10,
+    "skillTargetId": "target-character_type-3-2",
+    "shortDescription": ""
+  },
+  {
+    "id": "ef-skill_success_rate_up-2-target-character_type-3-2-30",
+    "name": "サポータータイプ2人のスキル成功率アップ",
+    "type": 37,
+    "description": "サポータータイプ2人に2段階スキル成功率上昇効果[30ビート]",
+    "grade": 2,
+    "maxGrade": 10,
+    "skillTargetId": "target-character_type-3-2",
+    "shortDescription": ""
+  },
+  {
     "id": "ef-skill_success_rate_up-2-target-self-20",
     "name": "自身にスキル成功率アップ",
     "type": 37,
@@ -25447,6 +25507,16 @@
     "grade": 3,
     "maxGrade": 10,
     "skillTargetId": "target-character_type-2-2",
+    "shortDescription": ""
+  },
+  {
+    "id": "ef-skill_success_rate_up-3-target-character_type-3-2-30",
+    "name": "サポータータイプ2人のスキル成功率アップ",
+    "type": 37,
+    "description": "サポータータイプ2人に3段階スキル成功率上昇効果[30ビート]",
+    "grade": 3,
+    "maxGrade": 10,
+    "skillTargetId": "target-character_type-3-2",
     "shortDescription": ""
   },
   {
@@ -25647,6 +25717,16 @@
     "grade": 4,
     "maxGrade": 10,
     "skillTargetId": "target-character_type-2-2",
+    "shortDescription": ""
+  },
+  {
+    "id": "ef-skill_success_rate_up-4-target-character_type-3-2-30",
+    "name": "サポータータイプ2人のスキル成功率アップ",
+    "type": 37,
+    "description": "サポータータイプ2人に4段階スキル成功率上昇効果[30ビート]",
+    "grade": 4,
+    "maxGrade": 10,
+    "skillTargetId": "target-character_type-3-2",
     "shortDescription": ""
   },
   {
@@ -25870,6 +25950,26 @@
     "shortDescription": ""
   },
   {
+    "id": "ef-skill_success_rate_up-5-target-character_type-3-2-30",
+    "name": "サポータータイプ2人のスキル成功率アップ",
+    "type": 37,
+    "description": "サポータータイプ2人に5段階スキル成功率上昇効果[30ビート]",
+    "grade": 5,
+    "maxGrade": 10,
+    "skillTargetId": "target-character_type-3-2",
+    "shortDescription": ""
+  },
+  {
+    "id": "ef-skill_success_rate_up-5-target-character_type-3-2-35",
+    "name": "サポータータイプ2人のスキル成功率アップ",
+    "type": 37,
+    "description": "サポータータイプ2人に5段階スキル成功率上昇効果[35ビート]",
+    "grade": 5,
+    "maxGrade": 10,
+    "skillTargetId": "target-character_type-3-2",
+    "shortDescription": ""
+  },
+  {
     "id": "ef-skill_success_rate_up-5-target-self-26",
     "name": "自身にスキル成功率アップ",
     "type": 37,
@@ -26007,6 +26107,36 @@
     "grade": 6,
     "maxGrade": 10,
     "skillTargetId": "target-character_type-2-2",
+    "shortDescription": ""
+  },
+  {
+    "id": "ef-skill_success_rate_up-6-target-character_type-3-2-35",
+    "name": "サポータータイプ2人のスキル成功率アップ",
+    "type": 37,
+    "description": "サポータータイプ2人に6段階スキル成功率上昇効果[35ビート]",
+    "grade": 6,
+    "maxGrade": 10,
+    "skillTargetId": "target-character_type-3-2",
+    "shortDescription": ""
+  },
+  {
+    "id": "ef-skill_success_rate_up-6-target-character_type-3-2-40",
+    "name": "サポータータイプ2人のスキル成功率アップ",
+    "type": 37,
+    "description": "サポータータイプ2人に6段階スキル成功率上昇効果[40ビート]",
+    "grade": 6,
+    "maxGrade": 10,
+    "skillTargetId": "target-character_type-3-2",
+    "shortDescription": ""
+  },
+  {
+    "id": "ef-skill_success_rate_up-6-target-character_type-3-2-45",
+    "name": "サポータータイプ2人のスキル成功率アップ",
+    "type": 37,
+    "description": "サポータータイプ2人に6段階スキル成功率上昇効果[45ビート]",
+    "grade": 6,
+    "maxGrade": 10,
+    "skillTargetId": "target-character_type-3-2",
     "shortDescription": ""
   },
   {
