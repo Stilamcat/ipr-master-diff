@@ -390,6 +390,47 @@
     "homeTalks": []
   },
   {
+    "id": "card-aoi-02-eve-01",
+    "assetId": "aoi-02-eve-01",
+    "name": "そっとしておく仲間の背中",
+    "description": "莉央、ちゃんと琴乃と話してるかな\n僕らは静かに見守ってよう",
+    "type": 1,
+    "characterId": "char-aoi",
+    "initialRarity": 2,
+    "cardParameterId": "card-param-01",
+    "vocalRatioPermil": 321,
+    "danceRatioPermil": 279,
+    "visualRatioPermil": 430,
+    "staminaRatioPermil": 900,
+    "cardLevelReleaseId": "card_level_release_1",
+    "skillId1": "sk-aoi-02-eve-01-1",
+    "skillId2": "sk-aoi-02-eve-01-2",
+    "skillId3": "sk-aoi-02-eve-01-3",
+    "order": 241,
+    "releaseDate": "1664766000000",
+    "imageType1": 1,
+    "displayPositionX1": -0.008,
+    "displayPositionY1": 0.237,
+    "displayScale1": 1.1,
+    "highlightDisplayPositionX1": -0.007,
+    "highlightDisplayPositionY1": 0.286,
+    "highlightDisplayScale1": 1.0,
+    "imageType2": 2,
+    "displayPositionX2": 0.367,
+    "displayPositionY2": -0.024,
+    "displayScale2": 2.0,
+    "highlightDisplayPositionX2": -0.462,
+    "highlightDisplayPositionY2": 0.085,
+    "highlightDisplayScale2": 2.0,
+    "liveAbilityId": "",
+    "activityAbilityId": "",
+    "rewardCostumeId": "",
+    "obtainMessage": "",
+    "stories": [],
+    "messages": [],
+    "homeTalks": []
+  },
+  {
     "id": "card-aoi-03-schl-00",
     "assetId": "aoi-03-schl-00",
     "name": "ホームグラウンド",
@@ -2136,6 +2177,47 @@
     "homeTalks": []
   },
   {
+    "id": "card-ktn-05-add-00",
+    "assetId": "ktn-05-add-00",
+    "name": "星海に捧ぐ追想の歌",
+    "description": "お姉ちゃんが繫げてくれた運命の下で\n私達またこうして歌ってるよ\n季節がめぐって、またいつか会える日まで……\nこれから先も、ずっと見守っていてね",
+    "type": 1,
+    "characterId": "char-ktn",
+    "initialRarity": 5,
+    "cardParameterId": "card-param-01",
+    "vocalRatioPermil": 318,
+    "danceRatioPermil": 281,
+    "visualRatioPermil": 431,
+    "staminaRatioPermil": 900,
+    "cardLevelReleaseId": "card_level_release_1",
+    "skillId1": "sk-ktn-05-add-00-1",
+    "skillId2": "sk-ktn-05-add-00-2",
+    "skillId3": "sk-ktn-05-add-00-3",
+    "activityAbilityId": "aab-refresh_stamina_up",
+    "order": 242,
+    "releaseDate": "1664766000000",
+    "imageType1": 2,
+    "displayPositionX1": 0.059,
+    "displayPositionY1": 0.236,
+    "displayScale1": 2.0,
+    "highlightDisplayPositionX1": -0.149,
+    "highlightDisplayPositionY1": 0.279,
+    "highlightDisplayScale1": 1.3,
+    "imageType2": 2,
+    "displayPositionX2": 0.059,
+    "displayPositionY2": 0.236,
+    "displayScale2": 2.0,
+    "highlightDisplayPositionX2": -0.149,
+    "highlightDisplayPositionY2": 0.279,
+    "highlightDisplayScale2": 1.3,
+    "obtainMessage": "お姉ちゃんが繫げてくれた運命の下で\n私達またこうして歌ってるよ",
+    "liveAbilityId": "",
+    "rewardCostumeId": "",
+    "stories": [],
+    "messages": [],
+    "homeTalks": []
+  },
+  {
     "id": "card-ktn-05-fest-00",
     "assetId": "ktn-05-fest-00",
     "name": "光華霜夜",
@@ -2258,6 +2340,66 @@
       }
     ],
     "activityAbilityId": ""
+  },
+  {
+    "id": "card-ktn-05-kiok-00",
+    "assetId": "ktn-05-kiok-00",
+    "name": "泡沫の悲しみ、思いは胸に",
+    "description": "なんだか……私の中で、お姉ちゃんが\n遠くに行ってしまう気がして、寂しいんです\nだから私は、お姉ちゃんの曲を歌いたいんです\n普段の生活の中で思い出すだけじゃなくて\nアイドルとして、お姉ちゃんの……長瀬麻奈の曲を歌う",
+    "type": 3,
+    "characterId": "char-ktn",
+    "initialRarity": 5,
+    "cardParameterId": "card-param-01",
+    "vocalRatioPermil": 288,
+    "danceRatioPermil": 414,
+    "visualRatioPermil": 328,
+    "staminaRatioPermil": 900,
+    "cardLevelReleaseId": "card_level_release_1",
+    "skillId1": "sk-ktn-05-kiok-00-1",
+    "skillId2": "sk-ktn-05-kiok-00-2",
+    "skillId3": "sk-ktn-05-kiok-00-3",
+    "liveAbilityId": "lba-beat_score_multiply",
+    "order": 239,
+    "releaseDate": "1664766000000",
+    "rewardCostumeId": "cos-ktn-kiok-00",
+    "imageType1": 3,
+    "displayPositionX1": 0.098,
+    "displayPositionY1": 0.083,
+    "displayScale1": 1.2,
+    "highlightDisplayPositionX1": -0.183,
+    "highlightDisplayPositionY1": 0.265,
+    "highlightDisplayScale1": 1.0,
+    "imageType2": 3,
+    "displayPositionX2": 0.098,
+    "displayPositionY2": 0.083,
+    "displayScale2": 1.2,
+    "highlightDisplayPositionX2": -0.183,
+    "highlightDisplayPositionY2": 0.265,
+    "highlightDisplayScale2": 1.0,
+    "obtainMessage": "莉央さんと精一杯\nお姉ちゃんの曲を届けるから……！",
+    "stories": [
+      {
+        "storyId": "st-card-ktn-05-kiok-00-01"
+      },
+      {
+        "storyId": "st-card-ktn-05-kiok-00-02"
+      },
+      {
+        "storyId": "st-card-ktn-05-kiok-00-03"
+      }
+    ],
+    "messages": [
+      {
+        "messageId": "message-card-ktn-05-kiok-00",
+        "telephoneId": ""
+      },
+      {
+        "telephoneId": "tel-card-ktn-05-kiok-00",
+        "messageId": ""
+      }
+    ],
+    "activityAbilityId": "",
+    "homeTalks": []
   },
   {
     "id": "card-ktn-05-mizg-01",
@@ -4395,6 +4537,66 @@
       },
       {
         "telephoneId": "tel-card-rio-05-kait-00",
+        "messageId": ""
+      }
+    ],
+    "activityAbilityId": "",
+    "homeTalks": []
+  },
+  {
+    "id": "card-rio-05-kiok-00",
+    "assetId": "rio-05-kiok-00",
+    "name": "心に刻む星月夜",
+    "description": "今、こうして貴方と見ているこの海を\r\n私はきっと、一生忘れない\r\n麻奈が、綺麗だと感じた、この星の海を――",
+    "type": 2,
+    "characterId": "char-rio",
+    "initialRarity": 5,
+    "cardParameterId": "card-param-01",
+    "vocalRatioPermil": 318,
+    "danceRatioPermil": 280,
+    "visualRatioPermil": 402,
+    "staminaRatioPermil": 1000,
+    "cardLevelReleaseId": "card_level_release_1",
+    "skillId1": "sk-rio-05-kiok-00-1",
+    "skillId2": "sk-rio-05-kiok-00-2",
+    "skillId3": "sk-rio-05-kiok-00-3",
+    "liveAbilityId": "lba-visual_multiply",
+    "order": 240,
+    "releaseDate": "1664766000000",
+    "rewardCostumeId": "cos-rio-kiok-00",
+    "imageType1": 3,
+    "displayPositionX1": -0.238,
+    "displayPositionY1": 0.083,
+    "displayScale1": 1.2,
+    "highlightDisplayPositionX1": 0.324,
+    "highlightDisplayPositionY1": 0.2,
+    "highlightDisplayScale1": 1.0,
+    "imageType2": 3,
+    "displayPositionX2": -0.238,
+    "displayPositionY2": 0.083,
+    "displayScale2": 1.2,
+    "highlightDisplayPositionX2": 0.324,
+    "highlightDisplayPositionY2": 0.2,
+    "highlightDisplayScale2": 1.0,
+    "obtainMessage": "貴方と見ているこの海を\n私はきっと、一生忘れない",
+    "stories": [
+      {
+        "storyId": "st-card-rio-05-kiok-00-01"
+      },
+      {
+        "storyId": "st-card-rio-05-kiok-00-02"
+      },
+      {
+        "storyId": "st-card-rio-05-kiok-00-03"
+      }
+    ],
+    "messages": [
+      {
+        "messageId": "message-card-rio-05-kiok-00",
+        "telephoneId": ""
+      },
+      {
+        "telephoneId": "tel-card-rio-05-kiok-00",
         "messageId": ""
       }
     ],

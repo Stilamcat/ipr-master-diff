@@ -1210,6 +1210,50 @@
     ]
   },
   {
+    "homeTalkId": "home-talk-card-ktn-05-kiok-00-talk-01",
+    "characterId": "char-ktn",
+    "placeType": 1,
+    "conditionId": "cd-st-read-st-card-ktn-05-kiok-00-03",
+    "firstPriority": 9900,
+    "weight": 1,
+    "callPatternId": "call-pattern-card-ktn-05-kiok-00",
+    "choiceText": "どういいんだ？",
+    "managerText": "どういいんだ？",
+    "reliability": 5,
+    "characterTalks": [
+      {
+        "text": "演奏なしで歌うと、\n自分の歌の粗も、いいところも\n細かい部分まで分かるなって。",
+        "voiceAssetId": "sud_vo_home_ktn-05-kiok-00_talk-01-01",
+        "motionAssetId": "mot_adv_chr_cmn_pos-009_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "それに、浜辺みたいな開けた場所で\n歌うと、自分に制限をかけずに声を\n出せる気がするんです！",
+        "voiceAssetId": "sud_vo_home_ktn-05-kiok-00_talk-01-02",
+        "motionAssetId": "mot_adv_chr_cmn_glad-006_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "あとは演奏なしの歌声一本でどうす\nればファンを魅了出来るかな、って\nいう風に考えるようになりました。",
+        "voiceAssetId": "sud_vo_home_ktn-05-kiok-00_talk-01-03",
+        "motionAssetId": "mot_adv_chr_cmn_talk-023_in",
+        "additionMotionAssetId": "mot_all_chr_cmn_facial-057_in"
+      },
+      {
+        "text": "お姉ちゃんがよくやってたって聞き\nましたけど…これはぜひ今後も\n取り入れたいですね。",
+        "voiceAssetId": "sud_vo_home_ktn-05-kiok-00_talk-01-04",
+        "motionAssetId": "mot_adv_chr_cmn_empa-001_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "星見市の海岸だと通うのが大変\nですし、今度ちょうどいい練習場所\nを一緒に探してくれませんか？",
+        "voiceAssetId": "sud_vo_home_ktn-05-kiok-00_talk-01-05",
+        "motionAssetId": "mot_adv_chr_cmn_glad-001_in",
+        "additionMotionAssetId": ""
+      }
+    ]
+  },
+  {
     "homeTalkId": "home-talk-card-ktn-05-mizg-01-talk-01",
     "characterId": "char-ktn",
     "placeType": 1,
@@ -2322,6 +2366,56 @@
         "voiceAssetId": "sud_vo_home_rio-05-kait-00_talk-01-05",
         "motionAssetId": "mot_adv_chr_cmn_pos-011_in",
         "additionMotionAssetId": ""
+      }
+    ]
+  },
+  {
+    "homeTalkId": "home-talk-card-rio-05-kiok-00-talk-01",
+    "characterId": "char-rio",
+    "placeType": 1,
+    "conditionId": "cd-st-read-st-card-rio-05-kiok-00-03",
+    "firstPriority": 9900,
+    "weight": 1,
+    "callPatternId": "call-pattern-card-rio-05-kiok-00",
+    "choiceText": "ええ、それがどうかしましたか？",
+    "managerText": "ええ、それがどうかしましたか？",
+    "reliability": 5,
+    "characterTalks": [
+      {
+        "text": "うちのメンバーにバレちゃったの。\n内緒にしてたのに…",
+        "voiceAssetId": "sud_vo_home_rio-05-kiok-00_talk-01-01",
+        "motionAssetId": "mot_adv_chr_cmn_talk-001_in",
+        "additionMotionAssetId": "mot_all_chr_cmn_facial-034_in"
+      },
+      {
+        "text": "みんな、私と貴方がデートしたって\n勘違いしてるの。",
+        "voiceAssetId": "sud_vo_home_rio-05-kiok-00_talk-01-02",
+        "motionAssetId": "mot_adv_chr_cmn_talk-013_in",
+        "additionMotionAssetId": "mot_all_chr_cmn_facial-034_in"
+      },
+      {
+        "text": "もちろん、否定はしたけど\n信じてないのよ。特にこころが\n面白がっちゃって…",
+        "voiceAssetId": "sud_vo_home_rio-05-kiok-00_talk-01-03",
+        "motionAssetId": "mot_adv_chr_cmn_sad-008_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "莉央さん、そうやって\n{user}さんの心を\n鷲掴みにしてたんですね、だって。",
+        "voiceAssetId": "sud_vo_home_rio-05-kiok-00_talk-01-04",
+        "motionAssetId": "mot_adv_chr_cmn_pos-006_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "今度、こころが試してみるって\n言ってたから、\n適当に受け流してちょうだい。",
+        "voiceAssetId": "sud_vo_home_rio-05-kiok-00_talk-01-05",
+        "motionAssetId": "mot_adv_chr_cmn_ask-008_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "…ないとは思うけど\n変な気を起こさないように\nお願いね。",
+        "voiceAssetId": "sud_vo_home_rio-05-kiok-00_talk-01-06",
+        "motionAssetId": "mot_adv_chr_cmn_talk-003_in",
+        "additionMotionAssetId": "mot_all_chr_cmn_facial-034_in"
       }
     ]
   },
