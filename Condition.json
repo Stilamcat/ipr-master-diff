@@ -44652,6 +44652,53 @@
     ]
   },
   {
+    "id": "cd-shop_special-shop-22-1007",
+    "settings": [
+      {
+        "term": {
+          "nowAfter": "1665111600000",
+          "nowBefore": "0"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-shop_special-shop-22-1007-1019",
+    "settings": [
+      {
+        "term": {
+          "nowAfter": "1665111600000",
+          "nowBefore": "1666148399000"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-shop_special-shop-22-1007-1019-dokan",
+    "settings": [
+      {
+        "term": {
+          "nowAfter": "1665111600000",
+          "nowBefore": "1666148399000"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-shop_special-shop-22-1007-1019-mlv-120",
+    "settings": [
+      {
+        "satisfyCondition": {
+          "conditionId": "cd-manager_level_gte-120"
+        },
+        "term": {
+          "nowAfter": "1665111600000",
+          "nowBefore": "1666148399000"
+        }
+      }
+    ]
+  },
+  {
     "id": "cd-shop_special-shop-banner-21-1125",
     "settings": [
       {
