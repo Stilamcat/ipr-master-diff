@@ -1,5 +1,16 @@
 [
   {
+    "id": "item-accessory_limit_break-01",
+    "name": "スピリットライザー",
+    "assetId": "accessory-limit-break",
+    "description": "アクセサリの上限突破に使用する",
+    "howToGet": "メインライブ、プロモーション、交換所など",
+    "type": 14,
+    "value": 1,
+    "order": 1,
+    "salePrice": 0
+  },
+  {
     "id": "item-act_cheer_point_up",
     "name": "応援キャンディ",
     "assetId": "activity-fan-event-cheer-point-up",
@@ -1245,6 +1256,17 @@
   {
     "id": "item-gacha_point-select-01-22-0814",
     "name": "選べる★5スコアラーガチャPt",
+    "assetId": "gacha-point",
+    "description": "該当するガチャページの「ガチャPt」から\nガチャPtを消費してアイドルを獲得できる",
+    "type": 9,
+    "value": 1,
+    "order": 140,
+    "howToGet": "",
+    "salePrice": 0
+  },
+  {
+    "id": "item-gacha_point-select-01-22-1014",
+    "name": "選べる★5バッファーガチャPt",
     "assetId": "gacha-point",
     "description": "該当するガチャページの「ガチャPt」から\nガチャPtを消費してアイドルを獲得できる",
     "type": 9,

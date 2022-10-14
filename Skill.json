@@ -35202,6 +35202,152 @@
     "assetId": ""
   },
   {
+    "id": "sk-live-lba-passive_skill-078",
+    "name": "ライブボーナス",
+    "categoryType": 3,
+    "levels": [
+      {
+        "level": 1,
+        "description": "センターに9段階スコア上昇効果[31ビート]\nダンスが高い2人に6段階ダンス低下効果[38ビート]\nCT:50",
+        "shortDescription": "\n\nCT:50",
+        "probabilityPermil": 1000,
+        "coolTime": 50,
+        "skillDetails": [
+          {
+            "efficacyId": "ef-score_up-9-target-center-31",
+            "triggerId": ""
+          },
+          {
+            "efficacyId": "ef-dance_down-6-target-dance_higher-2-38",
+            "triggerId": ""
+          }
+        ],
+        "requiredItemAmount": 0,
+        "requiredCardLevel": 0,
+        "stamina": 0,
+        "triggerId": "",
+        "limitCount": 0,
+        "staminaPermil": 0
+      },
+      {
+        "level": 2,
+        "description": "センターに9段階スコア上昇効果[35ビート]\nダンスが高い2人に6段階ダンス低下効果[42ビート]\nCT:50",
+        "shortDescription": "\n\nCT:50",
+        "requiredItemAmount": 1,
+        "requiredCardLevel": 1,
+        "probabilityPermil": 1000,
+        "coolTime": 50,
+        "skillDetails": [
+          {
+            "efficacyId": "ef-score_up-9-target-center-35",
+            "triggerId": ""
+          },
+          {
+            "efficacyId": "ef-dance_down-6-target-dance_higher-2-42",
+            "triggerId": ""
+          }
+        ],
+        "stamina": 0,
+        "triggerId": "",
+        "limitCount": 0,
+        "staminaPermil": 0
+      },
+      {
+        "level": 3,
+        "description": "センターに9段階スコア上昇効果[41ビート]\nダンスが高い2人に6段階ダンス低下効果[46ビート]\nCT:50",
+        "shortDescription": "\n\nCT:50",
+        "requiredItemAmount": 1,
+        "requiredCardLevel": 2,
+        "probabilityPermil": 1000,
+        "coolTime": 50,
+        "skillDetails": [
+          {
+            "efficacyId": "ef-score_up-9-target-center-41",
+            "triggerId": ""
+          },
+          {
+            "efficacyId": "ef-dance_down-6-target-dance_higher-2-46",
+            "triggerId": ""
+          }
+        ],
+        "stamina": 0,
+        "triggerId": "",
+        "limitCount": 0,
+        "staminaPermil": 0
+      },
+      {
+        "level": 4,
+        "description": "センターに10段階スコア上昇効果[41ビート]\nダンスが高い2人に7段階ダンス低下効果[46ビート]\nCT:50",
+        "shortDescription": "\n\nCT:50",
+        "requiredItemAmount": 1,
+        "requiredCardLevel": 3,
+        "probabilityPermil": 1000,
+        "coolTime": 50,
+        "skillDetails": [
+          {
+            "efficacyId": "ef-score_up-10-target-center-41",
+            "triggerId": ""
+          },
+          {
+            "efficacyId": "ef-dance_down-7-target-dance_higher-2-46",
+            "triggerId": ""
+          }
+        ],
+        "stamina": 0,
+        "triggerId": "",
+        "limitCount": 0,
+        "staminaPermil": 0
+      },
+      {
+        "level": 5,
+        "description": "センターに10段階スコア上昇効果[47ビート]\nダンスが高い2人に8段階ダンス低下効果[46ビート]\nCT:50",
+        "shortDescription": "\n\nCT:50",
+        "requiredItemAmount": 1,
+        "requiredCardLevel": 4,
+        "probabilityPermil": 1000,
+        "coolTime": 50,
+        "skillDetails": [
+          {
+            "efficacyId": "ef-score_up-10-target-center-47",
+            "triggerId": ""
+          },
+          {
+            "efficacyId": "ef-dance_down-8-target-dance_higher-2-46",
+            "triggerId": ""
+          }
+        ],
+        "stamina": 0,
+        "triggerId": "",
+        "limitCount": 0,
+        "staminaPermil": 0
+      },
+      {
+        "level": 6,
+        "description": "センターに10段階スコア上昇効果[53ビート]\nダンスが高い2人に9段階ダンス低下効果[46ビート]\nCT:50",
+        "shortDescription": "\n\nCT:50",
+        "requiredItemAmount": 1,
+        "requiredCardLevel": 5,
+        "probabilityPermil": 1000,
+        "coolTime": 50,
+        "skillDetails": [
+          {
+            "efficacyId": "ef-score_up-10-target-center-53",
+            "triggerId": ""
+          },
+          {
+            "efficacyId": "ef-dance_down-9-target-dance_higher-2-46",
+            "triggerId": ""
+          }
+        ],
+        "stamina": 0,
+        "triggerId": "",
+        "limitCount": 0,
+        "staminaPermil": 0
+      }
+    ],
+    "assetId": ""
+  },
+  {
     "id": "sk-marathon-lba-passive_skill-critical_bonus_permil_up-1",
     "name": "ライブボーナス",
     "categoryType": 3,

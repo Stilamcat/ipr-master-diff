@@ -1575,6 +1575,24 @@
     "isViewableInInactive": false
   },
   {
+    "id": "emb-192",
+    "name": "First step",
+    "assetId": "area_13_100",
+    "order": 2250,
+    "description": "ハイスコアライブ「First step」で100位以内獲得",
+    "autoProvideConditionId": "",
+    "isViewableInInactive": false
+  },
+  {
+    "id": "emb-193",
+    "name": "いま始まるStory",
+    "assetId": "area_13",
+    "order": 2260,
+    "description": "ハイスコアライブ「First step」で1位獲得",
+    "autoProvideConditionId": "",
+    "isViewableInInactive": false
+  },
+  {
     "id": "emb-300",
     "name": "fran-狂奔",
     "assetId": "job_kor",
@@ -3150,6 +3168,15 @@
     "isViewableInInactive": false
   },
   {
+    "id": "emb-709",
+    "name": "【誕生日】兵藤雫",
+    "assetId": "birthday_szk-02",
+    "autoProvideConditionId": "cd-birthday_emblem_szk-22-1015",
+    "order": 3595,
+    "description": "雫の誕生日を迎える",
+    "isViewableInInactive": false
+  },
+  {
     "id": "emb-711",
     "name": "【誕生日】神崎莉央",
     "assetId": "birthday_rio-02",
@@ -3515,6 +3542,24 @@
     "assetId": "gvg-season-015-top010",
     "order": 1534,
     "description": "ユニオンライブシーズン15で10位以内獲得",
+    "autoProvideConditionId": "",
+    "isViewableInInactive": false
+  },
+  {
+    "id": "emb-924",
+    "name": "ユニオンシーズン16 No.1",
+    "assetId": "gvg-season-016-top001",
+    "order": 1535,
+    "description": "ユニオンライブシーズン16で1位獲得",
+    "autoProvideConditionId": "",
+    "isViewableInInactive": false
+  },
+  {
+    "id": "emb-925",
+    "name": "ユニオンシーズン16 TOP10",
+    "assetId": "gvg-season-016-top010",
+    "order": 1536,
+    "description": "ユニオンライブシーズン16で10位以内獲得",
     "autoProvideConditionId": "",
     "isViewableInInactive": false
   }

@@ -54,6 +54,43 @@
     "assistantNpcSpineId": ""
   },
   {
+    "id": "camp",
+    "costumeTypeIds": [
+      "casl",
+      "gene"
+    ],
+    "forceCostumeTypeId": "casl",
+    "fieldId": "camp-00",
+    "existBackground": true,
+    "existForeground": true,
+    "backgroundTopColorCode": "26353a",
+    "backgroundBottomColorCode": "406a5d",
+    "fieldSpineNumber": 1,
+    "existProp": true,
+    "fieldSpineColorSlotId": "",
+    "fieldSpineColorSlotNumber": 0,
+    "assistantNpcSpineId": ""
+  },
+  {
+    "id": "cm",
+    "costumeTypeIds": [
+      "casl",
+      "schl",
+      "gene"
+    ],
+    "forceCostumeTypeId": "casl",
+    "fieldId": "cm-00",
+    "existBackground": true,
+    "backgroundTopColorCode": "d4dbe1",
+    "backgroundBottomColorCode": "e4be9e",
+    "fieldSpineNumber": 4,
+    "existForeground": false,
+    "fieldSpineColorSlotId": "",
+    "fieldSpineColorSlotNumber": 0,
+    "existProp": false,
+    "assistantNpcSpineId": ""
+  },
+  {
     "id": "dormitory",
     "costumeTypeIds": [
       "casl",
