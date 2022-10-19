@@ -20370,6 +20370,16 @@
     "skillTargetId": ""
   },
   {
+    "id": "ef-score_get_by_status_effect_type_grade-vocal_up-2600-chart_dependence",
+    "name": "スコア獲得-ボーカルアップが多いほど",
+    "type": 36,
+    "description": "260%のスコア獲得、ボーカルアップ状態の段階数が多い程効果上昇",
+    "shortDescription": "",
+    "grade": 0,
+    "maxGrade": 0,
+    "skillTargetId": ""
+  },
+  {
     "id": "ef-score_get_by_status_effect_type_grade-vocal_up-2700-chart_dependence",
     "name": "スコア獲得-ボーカルアップが多いほど",
     "type": 36,
@@ -20394,6 +20404,16 @@
     "name": "スコア獲得-ボーカルアップが多いほど",
     "type": 36,
     "description": "300%のスコア獲得、ボーカルアップ状態の段階数が多い程効果上昇",
+    "shortDescription": "",
+    "grade": 0,
+    "maxGrade": 0,
+    "skillTargetId": ""
+  },
+  {
+    "id": "ef-score_get_by_status_effect_type_grade-vocal_up-3100-chart_dependence",
+    "name": "スコア獲得-ボーカルアップが多いほど",
+    "type": 36,
+    "description": "310%のスコア獲得、ボーカルアップ状態の段階数が多い程効果上昇",
     "shortDescription": "",
     "grade": 0,
     "maxGrade": 0,
@@ -28650,6 +28670,16 @@
     "maxGrade": 0
   },
   {
+    "id": "ef-strength_effect_count_increase-2-target-neighbor",
+    "name": "隣接するアイドルに強化効果延長",
+    "type": 25,
+    "description": "隣接するアイドルの強化効果を2延長",
+    "skillTargetId": "target-neighbor",
+    "shortDescription": "",
+    "grade": 0,
+    "maxGrade": 0
+  },
+  {
     "id": "ef-strength_effect_count_increase-20-target-trigger",
     "name": "対象の強化効果延長",
     "type": 25,
@@ -28995,6 +29025,16 @@
     "type": 25,
     "description": "ダンスが高い1人の強化効果を8延長",
     "skillTargetId": "target-dance_higher-1",
+    "shortDescription": "",
+    "grade": 0,
+    "maxGrade": 0
+  },
+  {
+    "id": "ef-strength_effect_count_increase-8-target-neighbor",
+    "name": "隣接するアイドルに強化効果延長",
+    "type": 25,
+    "description": "隣接するアイドルの強化効果を8延長",
+    "skillTargetId": "target-neighbor",
     "shortDescription": "",
     "grade": 0,
     "maxGrade": 0
@@ -34470,6 +34510,36 @@
     "shortDescription": ""
   },
   {
+    "id": "ef-vocal_up-3-target-vocal-2-35",
+    "name": "ボーカルタイプ2人にボーカルアップ",
+    "type": 14,
+    "description": "ボーカルタイプ2人に3段階ボーカル上昇効果[35ビート]",
+    "grade": 3,
+    "maxGrade": 20,
+    "skillTargetId": "target-vocal-2",
+    "shortDescription": ""
+  },
+  {
+    "id": "ef-vocal_up-3-target-vocal-2-40",
+    "name": "ボーカルタイプ2人にボーカルアップ",
+    "type": 14,
+    "description": "ボーカルタイプ2人に3段階ボーカル上昇効果[40ビート]",
+    "grade": 3,
+    "maxGrade": 20,
+    "skillTargetId": "target-vocal-2",
+    "shortDescription": ""
+  },
+  {
+    "id": "ef-vocal_up-3-target-vocal-2-45",
+    "name": "ボーカルタイプ2人にボーカルアップ",
+    "type": 14,
+    "description": "ボーカルタイプ2人に3段階ボーカル上昇効果[45ビート]",
+    "grade": 3,
+    "maxGrade": 20,
+    "skillTargetId": "target-vocal-2",
+    "shortDescription": ""
+  },
+  {
     "id": "ef-vocal_up-3-target-vocal_higher-1-15",
     "name": "ボーカルの高い1人にボーカルアップ",
     "type": 14,
@@ -34810,6 +34880,26 @@
     "shortDescription": ""
   },
   {
+    "id": "ef-vocal_up-4-target-vocal-2-45",
+    "name": "ボーカルタイプ2人にボーカルアップ",
+    "type": 14,
+    "description": "ボーカルタイプ2人に4段階ボーカル上昇効果[45ビート]",
+    "grade": 4,
+    "maxGrade": 20,
+    "skillTargetId": "target-vocal-2",
+    "shortDescription": ""
+  },
+  {
+    "id": "ef-vocal_up-4-target-vocal-2-50",
+    "name": "ボーカルタイプ2人にボーカルアップ",
+    "type": 14,
+    "description": "ボーカルタイプ2人に4段階ボーカル上昇効果[50ビート]",
+    "grade": 4,
+    "maxGrade": 20,
+    "skillTargetId": "target-vocal-2",
+    "shortDescription": ""
+  },
+  {
     "id": "ef-vocal_up-4-target-vocal_higher-1-24",
     "name": "ボーカルの高い1人にボーカルアップ",
     "type": 14,
@@ -34997,6 +35087,16 @@
     "grade": 5,
     "maxGrade": 20,
     "skillTargetId": "target-character_type-1-2",
+    "shortDescription": ""
+  },
+  {
+    "id": "ef-vocal_up-5-target-character_type-2-2-32",
+    "name": "バッファータイプ2人にボーカルアップ",
+    "type": 14,
+    "description": "バッファータイプ2人に5段階ボーカル上昇効果[32ビート]",
+    "grade": 5,
+    "maxGrade": 20,
+    "skillTargetId": "target-character_type-2-2",
     "shortDescription": ""
   },
   {
@@ -35240,6 +35340,16 @@
     "shortDescription": ""
   },
   {
+    "id": "ef-vocal_up-5-target-vocal-2-55",
+    "name": "ボーカルタイプ2人にボーカルアップ",
+    "type": 14,
+    "description": "ボーカルタイプ2人に5段階ボーカル上昇効果[55ビート]",
+    "grade": 5,
+    "maxGrade": 20,
+    "skillTargetId": "target-vocal-2",
+    "shortDescription": ""
+  },
+  {
     "id": "ef-vocal_up-5-target-vocal_higher-1-13",
     "name": "ボーカルの高い1人にボーカルアップ",
     "type": 14,
@@ -35467,6 +35577,26 @@
     "grade": 6,
     "maxGrade": 20,
     "skillTargetId": "target-character_type-1-2",
+    "shortDescription": ""
+  },
+  {
+    "id": "ef-vocal_up-6-target-character_type-2-2-32",
+    "name": "バッファータイプ2人にボーカルアップ",
+    "type": 14,
+    "description": "バッファータイプ2人に6段階ボーカル上昇効果[32ビート]",
+    "grade": 6,
+    "maxGrade": 20,
+    "skillTargetId": "target-character_type-2-2",
+    "shortDescription": ""
+  },
+  {
+    "id": "ef-vocal_up-6-target-character_type-2-2-37",
+    "name": "バッファータイプ2人にボーカルアップ",
+    "type": 14,
+    "description": "バッファータイプ2人に6段階ボーカル上昇効果[37ビート]",
+    "grade": 6,
+    "maxGrade": 20,
+    "skillTargetId": "target-character_type-2-2",
     "shortDescription": ""
   },
   {
@@ -35910,6 +36040,26 @@
     "shortDescription": ""
   },
   {
+    "id": "ef-vocal_up-7-target-character_type-2-2-37",
+    "name": "バッファータイプ2人にボーカルアップ",
+    "type": 14,
+    "description": "バッファータイプ2人に7段階ボーカル上昇効果[37ビート]",
+    "grade": 7,
+    "maxGrade": 20,
+    "skillTargetId": "target-character_type-2-2",
+    "shortDescription": ""
+  },
+  {
+    "id": "ef-vocal_up-7-target-character_type-2-2-41",
+    "name": "バッファータイプ2人にボーカルアップ",
+    "type": 14,
+    "description": "バッファータイプ2人に7段階ボーカル上昇効果[41ビート]",
+    "grade": 7,
+    "maxGrade": 20,
+    "skillTargetId": "target-character_type-2-2",
+    "shortDescription": ""
+  },
+  {
     "id": "ef-vocal_up-7-target-character_type-3-2-46",
     "name": "サポータータイプ2人にボーカルアップ",
     "type": 14,
@@ -36320,6 +36470,16 @@
     "shortDescription": ""
   },
   {
+    "id": "ef-vocal_up-8-target-character_type-2-2-41",
+    "name": "バッファータイプ2人にボーカルアップ",
+    "type": 14,
+    "description": "バッファータイプ2人に8段階ボーカル上昇効果[41ビート]",
+    "grade": 8,
+    "maxGrade": 20,
+    "skillTargetId": "target-character_type-2-2",
+    "shortDescription": ""
+  },
+  {
     "id": "ef-vocal_up-8-target-character_type-3-2-46",
     "name": "サポータータイプ2人にボーカルアップ",
     "type": 14,
@@ -36695,6 +36855,16 @@
     "type": 44,
     "description": "ダンスタイプ3人の低下効果反転",
     "skillTargetId": "target-dance-3",
+    "shortDescription": "",
+    "grade": 0,
+    "maxGrade": 0
+  },
+  {
+    "id": "ef-weakness_effect_inversion-target-neighbor",
+    "name": "隣接するアイドルの低下効果反転",
+    "type": 44,
+    "description": "隣接するアイドルの低下効果反転",
+    "skillTargetId": "target-neighbor",
     "shortDescription": "",
     "grade": 0,
     "maxGrade": 0

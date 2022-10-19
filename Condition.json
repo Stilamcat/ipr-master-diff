@@ -31211,6 +31211,16 @@
     ]
   },
   {
+    "id": "cd-ms-read-message-card-chs-05-flow-00",
+    "settings": [
+      {
+        "finishedMessage": {
+          "messageId": "message-card-chs-05-flow-00"
+        }
+      }
+    ]
+  },
+  {
     "id": "cd-ms-read-message-card-chs-05-idol-00",
     "settings": [
       {
@@ -32658,6 +32668,34 @@
         "term": {
           "nowAfter": "1664766000000",
           "nowBefore": "1665068399000"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-photo-shooting-mv-005",
+    "settings": [
+      {
+        "satisfyCondition": {
+          "conditionId": "cd-tutorial-finish-photo-create-shooting"
+        },
+        "term": {
+          "nowAfter": "1666234800000",
+          "nowBefore": "1669820399000"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-photo-shooting-mv-005-banner",
+    "settings": [
+      {
+        "satisfyCondition": {
+          "conditionId": "cd-tutorial-finish-photo-create-shooting"
+        },
+        "term": {
+          "nowAfter": "1666234800000",
+          "nowBefore": "1666537199000"
         }
       }
     ]
@@ -43034,6 +43072,17 @@
     ]
   },
   {
+    "id": "cd-shop_dress-shop-22-1019-1031",
+    "settings": [
+      {
+        "term": {
+          "nowAfter": "1666148400000",
+          "nowBefore": "1667185199000"
+        }
+      }
+    ]
+  },
+  {
     "id": "cd-shop_ever-clear",
     "settings": [
       {
@@ -44799,6 +44848,39 @@
         "term": {
           "nowAfter": "1665111600000",
           "nowBefore": "1666148399000"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-shop_special-shop-22-1019",
+    "settings": [
+      {
+        "term": {
+          "nowAfter": "1666148400000",
+          "nowBefore": "0"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-shop_special-shop-22-1019-1031",
+    "settings": [
+      {
+        "term": {
+          "nowAfter": "1666148400000",
+          "nowBefore": "1667185199000"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-shop_special-shop-22-1019-1031-dokan",
+    "settings": [
+      {
+        "term": {
+          "nowAfter": "1666148400000",
+          "nowBefore": "1667185199000"
         }
       }
     ]
@@ -46838,6 +46920,16 @@
       {
         "finishedMessage": {
           "messageId": "message-card-chs-05-chsk-00-01"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-st-read-st-card-chs-05-flow-00-03",
+    "settings": [
+      {
+        "readStory": {
+          "storyId": "st-card-chs-05-flow-00-03"
         }
       }
     ]
@@ -49382,6 +49474,24 @@
     ]
   },
   {
+    "id": "cd-time-event_tour-22-1022",
+    "settings": [
+      {
+        "managerLevel": {
+          "levelGte": 40,
+          "levelLte": 0
+        },
+        "term": {
+          "nowAfter": "1666407600000",
+          "nowBefore": "1666709999000"
+        },
+        "clearArea": {
+          "areaId": "area-main-001"
+        }
+      }
+    ]
+  },
+  {
     "id": "cd-time-event_tour-mission-21-0731",
     "settings": [
       {
@@ -50370,6 +50480,43 @@
         "drawGacha": {
           "gachaButtonIds": [
             "btn-10-gacha-fixed-22-0825-total"
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-time-gacha-fixed-22-1022",
+    "settings": [
+      {
+        "term": {
+          "nowAfter": "1666407600000",
+          "nowBefore": "1666925999000"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-time-gacha-fixed-22-1022-banner",
+    "settings": [
+      {
+        "notSatisfyCondition": {
+          "conditionId": "cd-time-gacha-fixed-22-1022-banner-end"
+        },
+        "term": {
+          "nowAfter": "1666407600000",
+          "nowBefore": "1666925999000"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-time-gacha-fixed-22-1022-banner-end",
+    "settings": [
+      {
+        "drawGacha": {
+          "gachaButtonIds": [
+            "btn-10-gacha-fixed-22-1022-total"
           ]
         }
       }
@@ -51943,6 +52090,17 @@
     ]
   },
   {
+    "id": "cd-time-gacha-normal-22-1019",
+    "settings": [
+      {
+        "term": {
+          "nowAfter": "1666148400000",
+          "nowBefore": "1667185200000"
+        }
+      }
+    ]
+  },
+  {
     "id": "cd-time-gacha-pick-set-bloom-21-1112",
     "settings": [
       {
@@ -52154,6 +52312,17 @@
         "term": {
           "nowAfter": "1663729200000",
           "nowBefore": "1664247599000"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-time-gacha-pick-set-bloom-22-1019",
+    "settings": [
+      {
+        "term": {
+          "nowAfter": "1666148400000",
+          "nowBefore": "1667185199000"
         }
       }
     ]
@@ -54983,6 +55152,28 @@
     ]
   },
   {
+    "id": "cd-time-login-22-1021-1027",
+    "settings": [
+      {
+        "term": {
+          "nowAfter": "1666278000000",
+          "nowBefore": "1666882799000"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-time-login-22-1021-1103",
+    "settings": [
+      {
+        "term": {
+          "nowAfter": "1666278000000",
+          "nowBefore": "1667487599000"
+        }
+      }
+    ]
+  },
+  {
     "id": "cd-time-market-phase-001-close",
     "settings": [
       {
@@ -56452,6 +56643,20 @@
     ]
   },
   {
+    "id": "cd-time-pvp-22-1021-1023_s-banner",
+    "settings": [
+      {
+        "satisfyCondition": {
+          "conditionId": "cd-clear-area-main-011"
+        },
+        "term": {
+          "nowAfter": "1666278000000",
+          "nowBefore": "1666537199000"
+        }
+      }
+    ]
+  },
+  {
     "id": "cd-time-questionnaire-21-0702-0709_s-banner",
     "settings": [
       {
@@ -56648,6 +56853,17 @@
       {
         "term": {
           "nowAfter": "1663815600000",
+          "nowBefore": "0"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-time-tower-22-1021",
+    "settings": [
+      {
+        "term": {
+          "nowAfter": "1666321200000",
           "nowBefore": "0"
         }
       }
@@ -56860,6 +57076,16 @@
       {
         "wearCostume": {
           "costumeId": "cos-chs-chsk-00"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-wear-costume-cos-chs-flow-00",
+    "settings": [
+      {
+        "wearCostume": {
+          "costumeId": "cos-chs-flow-00"
         }
       }
     ]
