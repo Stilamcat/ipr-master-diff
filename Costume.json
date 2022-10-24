@@ -1,8 +1,6 @@
 [
   {
     "id": "cos-ai-casl-00",
-    "hairAssetId": "ai-base-00",
-    "faceAssetId": "ai-base-00",
     "bodyAssetId": "ai-casl-00",
     "characterId": "char-ai",
     "order": 1,
@@ -11,12 +9,12 @@
     "costumeTypeId": "casl",
     "sdAssetId": "ai-casl-00",
     "motifAssetId": "casl-00",
+    "hairAssetId": "",
+    "faceAssetId": "",
     "isUserUnavailable": false
   },
   {
     "id": "cos-ai-casl-01",
-    "hairAssetId": "ai-base-00",
-    "faceAssetId": "ai-base-00",
     "bodyAssetId": "ai-casl-01",
     "characterId": "char-ai",
     "order": 1,
@@ -25,12 +23,12 @@
     "costumeTypeId": "casl",
     "sdAssetId": "ai-casl-01",
     "motifAssetId": "casl-01",
+    "hairAssetId": "",
+    "faceAssetId": "",
     "isUserUnavailable": false
   },
   {
     "id": "cos-ai-idol-00",
-    "hairAssetId": "ai-idol-00",
-    "faceAssetId": "ai-base-00",
     "bodyAssetId": "ai-idol-00",
     "characterId": "char-ai",
     "order": 1016,
@@ -39,12 +37,12 @@
     "costumeTypeId": "idol",
     "sdAssetId": "ai-idol-00",
     "motifAssetId": "idol-00",
+    "hairAssetId": "",
+    "faceAssetId": "",
     "isUserUnavailable": false
   },
   {
     "id": "cos-ai-idol-02",
-    "hairAssetId": "ai-base-00",
-    "faceAssetId": "ai-base-00",
     "bodyAssetId": "ai-idol-02",
     "characterId": "char-ai",
     "order": 1,
@@ -53,12 +51,12 @@
     "costumeTypeId": "idol",
     "sdAssetId": "ai-idol-02",
     "motifAssetId": "idol-02",
+    "hairAssetId": "",
+    "faceAssetId": "",
     "isUserUnavailable": false
   },
   {
     "id": "cos-ai-kait-00",
-    "hairAssetId": "ai-kait-00",
-    "faceAssetId": "ai-base-00",
     "bodyAssetId": "ai-kait-00",
     "characterId": "char-ai",
     "order": 783,
@@ -67,12 +65,12 @@
     "costumeTypeId": "idol",
     "sdAssetId": "ai-kait-00",
     "motifAssetId": "kait-00",
+    "hairAssetId": "",
+    "faceAssetId": "",
     "isUserUnavailable": false
   },
   {
     "id": "cos-ai-miku-00",
-    "hairAssetId": "ai-base-00",
-    "faceAssetId": "ai-base-00",
     "bodyAssetId": "ai-miku-00",
     "characterId": "char-ai",
     "order": 147,
@@ -81,12 +79,12 @@
     "costumeTypeId": "idol",
     "sdAssetId": "ai-miku-00",
     "motifAssetId": "miku-00",
+    "hairAssetId": "",
+    "faceAssetId": "",
     "isUserUnavailable": false
   },
   {
     "id": "cos-ai-mizg-00",
-    "hairAssetId": "ai-base-00",
-    "faceAssetId": "ai-base-00",
     "bodyAssetId": "ai-mizg-00",
     "characterId": "char-ai",
     "order": 1,
@@ -95,12 +93,12 @@
     "costumeTypeId": "mizg",
     "sdAssetId": "ai-mizg-00",
     "motifAssetId": "mizg-00",
-    "isUserUnavailable": true
+    "isUserUnavailable": true,
+    "hairAssetId": "",
+    "faceAssetId": ""
   },
   {
     "id": "cos-ai-mizg-01",
-    "hairAssetId": "ai-mizg-01",
-    "faceAssetId": "ai-base-00",
     "bodyAssetId": "ai-mizg-01",
     "characterId": "char-ai",
     "order": 127,
@@ -109,12 +107,12 @@
     "costumeTypeId": "mizg-water-ng",
     "sdAssetId": "ai-mizg-01",
     "motifAssetId": "mizg-01",
+    "hairAssetId": "",
+    "faceAssetId": "",
     "isUserUnavailable": false
   },
   {
     "id": "cos-ai-schl-00",
-    "hairAssetId": "ai-base-00",
-    "faceAssetId": "ai-base-00",
     "bodyAssetId": "ai-schl-00",
     "characterId": "char-ai",
     "order": 1,
@@ -123,12 +121,12 @@
     "costumeTypeId": "schl",
     "sdAssetId": "ai-schl-00",
     "motifAssetId": "schl-00",
+    "hairAssetId": "",
+    "faceAssetId": "",
     "isUserUnavailable": false
   },
   {
     "id": "cos-ai-sdam-00",
-    "hairAssetId": "ai-sdam-00",
-    "faceAssetId": "ai-sdam-00",
     "bodyAssetId": "ai-sdam-00",
     "characterId": "char-ai",
     "order": 1,
@@ -137,12 +135,12 @@
     "costumeTypeId": "sd-ambassador",
     "sdAssetId": "ai-sdam-00",
     "motifAssetId": "sdam-00",
-    "isUserUnavailable": true
+    "isUserUnavailable": true,
+    "hairAssetId": "",
+    "faceAssetId": ""
   },
   {
     "id": "cos-ai-sdpl-00",
-    "hairAssetId": "ai-sdpl-00",
-    "faceAssetId": "ai-sdpl-00",
     "bodyAssetId": "ai-sdpl-00",
     "characterId": "char-ai",
     "order": 1,
@@ -151,12 +149,12 @@
     "costumeTypeId": "sd-police",
     "sdAssetId": "ai-sdpl-00",
     "motifAssetId": "sdpl-00",
-    "isUserUnavailable": true
+    "isUserUnavailable": true,
+    "hairAssetId": "",
+    "faceAssetId": ""
   },
   {
     "id": "cos-ai-tact-00",
-    "hairAssetId": "ai-tact-00",
-    "faceAssetId": "ai-base-00",
     "bodyAssetId": "ai-tact-00",
     "characterId": "char-ai",
     "order": 113,
@@ -165,12 +163,12 @@
     "costumeTypeId": "idol",
     "sdAssetId": "ai-tact-00",
     "motifAssetId": "tact-00",
+    "hairAssetId": "",
+    "faceAssetId": "",
     "isUserUnavailable": false
   },
   {
     "id": "cos-ai-trng-00",
-    "hairAssetId": "ai-base-00",
-    "faceAssetId": "ai-base-00",
     "bodyAssetId": "ai-trng-00",
     "characterId": "char-ai",
     "order": 1,
@@ -179,12 +177,12 @@
     "costumeTypeId": "trng",
     "sdAssetId": "ai-trng-00",
     "motifAssetId": "trng-00",
+    "hairAssetId": "",
+    "faceAssetId": "",
     "isUserUnavailable": false
   },
   {
     "id": "cos-ai-vlnt-00",
-    "hairAssetId": "ai-vlnt-00",
-    "faceAssetId": "ai-base-00",
     "bodyAssetId": "ai-vlnt-00",
     "characterId": "char-ai",
     "order": 94,
@@ -193,12 +191,12 @@
     "costumeTypeId": "idol",
     "sdAssetId": "ai-vlnt-00",
     "motifAssetId": "vlnt-00",
+    "hairAssetId": "",
+    "faceAssetId": "",
     "isUserUnavailable": false
   },
   {
     "id": "cos-aoi-casl-00",
-    "hairAssetId": "aoi-base-00",
-    "faceAssetId": "aoi-base-00",
     "bodyAssetId": "aoi-casl-00",
     "characterId": "char-aoi",
     "order": 1,
@@ -207,12 +205,12 @@
     "costumeTypeId": "casl",
     "sdAssetId": "aoi-casl-00",
     "motifAssetId": "casl-00",
+    "hairAssetId": "",
+    "faceAssetId": "",
     "isUserUnavailable": false
   },
   {
     "id": "cos-aoi-casl-01",
-    "hairAssetId": "aoi-base-00",
-    "faceAssetId": "aoi-base-00",
     "bodyAssetId": "aoi-casl-01",
     "characterId": "char-aoi",
     "order": 1,
@@ -221,12 +219,12 @@
     "costumeTypeId": "casl",
     "sdAssetId": "aoi-casl-01",
     "motifAssetId": "casl-01",
+    "hairAssetId": "",
+    "faceAssetId": "",
     "isUserUnavailable": false
   },
   {
     "id": "cos-aoi-idol-00",
-    "hairAssetId": "aoi-idol-00",
-    "faceAssetId": "aoi-base-00",
     "bodyAssetId": "aoi-idol-00",
     "characterId": "char-aoi",
     "order": 1015,
@@ -235,12 +233,12 @@
     "costumeTypeId": "idol",
     "sdAssetId": "aoi-idol-00",
     "motifAssetId": "idol-00",
+    "hairAssetId": "",
+    "faceAssetId": "",
     "isUserUnavailable": false
   },
   {
     "id": "cos-aoi-idol-02",
-    "hairAssetId": "aoi-base-00",
-    "faceAssetId": "aoi-base-00",
     "bodyAssetId": "aoi-idol-02",
     "characterId": "char-aoi",
     "order": 1,
@@ -249,12 +247,12 @@
     "costumeTypeId": "idol",
     "sdAssetId": "aoi-idol-02",
     "motifAssetId": "idol-02",
+    "hairAssetId": "",
+    "faceAssetId": "",
     "isUserUnavailable": false
   },
   {
     "id": "cos-aoi-kait-00",
-    "hairAssetId": "aoi-kait-00",
-    "faceAssetId": "aoi-base-00",
     "bodyAssetId": "aoi-kait-00",
     "characterId": "char-aoi",
     "order": 782,
@@ -263,12 +261,12 @@
     "costumeTypeId": "idol",
     "sdAssetId": "aoi-kait-00",
     "motifAssetId": "kait-00",
+    "hairAssetId": "",
+    "faceAssetId": "",
     "isUserUnavailable": false
   },
   {
     "id": "cos-aoi-miku-00",
-    "hairAssetId": "aoi-base-00",
-    "faceAssetId": "aoi-base-00",
     "bodyAssetId": "aoi-miku-00",
     "characterId": "char-aoi",
     "order": 146,
@@ -277,12 +275,12 @@
     "costumeTypeId": "idol",
     "sdAssetId": "aoi-miku-00",
     "motifAssetId": "miku-00",
+    "hairAssetId": "",
+    "faceAssetId": "",
     "isUserUnavailable": false
   },
   {
     "id": "cos-aoi-mizg-00",
-    "hairAssetId": "aoi-base-00",
-    "faceAssetId": "aoi-base-00",
     "bodyAssetId": "aoi-mizg-00",
     "characterId": "char-aoi",
     "order": 1,
@@ -291,12 +289,12 @@
     "costumeTypeId": "mizg",
     "sdAssetId": "aoi-mizg-00",
     "motifAssetId": "mizg-00",
-    "isUserUnavailable": true
+    "isUserUnavailable": true,
+    "hairAssetId": "",
+    "faceAssetId": ""
   },
   {
     "id": "cos-aoi-mizg-01",
-    "hairAssetId": "aoi-mizg-01",
-    "faceAssetId": "aoi-base-00",
     "bodyAssetId": "aoi-mizg-01",
     "characterId": "char-aoi",
     "order": 128,
@@ -305,12 +303,12 @@
     "costumeTypeId": "mizg-water-ng",
     "sdAssetId": "aoi-mizg-01",
     "motifAssetId": "mizg-01",
+    "hairAssetId": "",
+    "faceAssetId": "",
     "isUserUnavailable": false
   },
   {
     "id": "cos-aoi-schl-00",
-    "hairAssetId": "aoi-base-00",
-    "faceAssetId": "aoi-base-00",
     "bodyAssetId": "aoi-schl-00",
     "characterId": "char-aoi",
     "order": 1,
@@ -319,12 +317,12 @@
     "costumeTypeId": "schl",
     "sdAssetId": "aoi-schl-00",
     "motifAssetId": "schl-00",
+    "hairAssetId": "",
+    "faceAssetId": "",
     "isUserUnavailable": false
   },
   {
     "id": "cos-aoi-sdam-00",
-    "hairAssetId": "aoi-sdam-00",
-    "faceAssetId": "aoi-sdam-00",
     "bodyAssetId": "aoi-sdam-00",
     "characterId": "char-aoi",
     "order": 1,
@@ -333,12 +331,12 @@
     "costumeTypeId": "sd-ambassador",
     "sdAssetId": "aoi-sdam-00",
     "motifAssetId": "sdam-00",
-    "isUserUnavailable": true
+    "isUserUnavailable": true,
+    "hairAssetId": "",
+    "faceAssetId": ""
   },
   {
     "id": "cos-aoi-sdpl-00",
-    "hairAssetId": "aoi-sdpl-00",
-    "faceAssetId": "aoi-sdpl-00",
     "bodyAssetId": "aoi-sdpl-00",
     "characterId": "char-aoi",
     "order": 1,
@@ -347,12 +345,12 @@
     "costumeTypeId": "sd-police",
     "sdAssetId": "aoi-sdpl-00",
     "motifAssetId": "sdpl-00",
-    "isUserUnavailable": true
+    "isUserUnavailable": true,
+    "hairAssetId": "",
+    "faceAssetId": ""
   },
   {
     "id": "cos-aoi-trng-00",
-    "hairAssetId": "aoi-base-00",
-    "faceAssetId": "aoi-base-00",
     "bodyAssetId": "aoi-trng-00",
     "characterId": "char-aoi",
     "order": 1,
@@ -361,12 +359,12 @@
     "costumeTypeId": "trng",
     "sdAssetId": "aoi-trng-00",
     "motifAssetId": "trng-00",
+    "hairAssetId": "",
+    "faceAssetId": "",
     "isUserUnavailable": false
   },
   {
     "id": "cos-aoi-vlnt-00",
-    "hairAssetId": "aoi-vlnt-00",
-    "faceAssetId": "aoi-base-00",
     "bodyAssetId": "aoi-vlnt-00",
     "characterId": "char-aoi",
     "order": 95,
@@ -375,12 +373,12 @@
     "costumeTypeId": "idol",
     "sdAssetId": "aoi-vlnt-00",
     "motifAssetId": "vlnt-00",
+    "hairAssetId": "",
+    "faceAssetId": "",
     "isUserUnavailable": false
   },
   {
     "id": "cos-chs-casl-00",
-    "hairAssetId": "chs-base-00",
-    "faceAssetId": "chs-base-00",
     "bodyAssetId": "chs-casl-00",
     "characterId": "char-chs",
     "order": 1,
@@ -389,12 +387,12 @@
     "costumeTypeId": "casl",
     "sdAssetId": "chs-casl-00",
     "motifAssetId": "casl-00",
+    "hairAssetId": "",
+    "faceAssetId": "",
     "isUserUnavailable": false
   },
   {
     "id": "cos-chs-casl-01",
-    "hairAssetId": "chs-base-00",
-    "faceAssetId": "chs-base-00",
     "bodyAssetId": "chs-casl-01",
     "characterId": "char-chs",
     "order": 1,
@@ -403,12 +401,12 @@
     "costumeTypeId": "casl",
     "sdAssetId": "chs-casl-01",
     "motifAssetId": "casl-01",
+    "hairAssetId": "",
+    "faceAssetId": "",
     "isUserUnavailable": false
   },
   {
     "id": "cos-chs-chsk-00",
-    "hairAssetId": "chs-chsk-00",
-    "faceAssetId": "chs-base-00",
     "bodyAssetId": "chs-chsk-00",
     "characterId": "char-chs",
     "order": 109,
@@ -417,12 +415,12 @@
     "costumeTypeId": "idol",
     "sdAssetId": "chs-chsk-00",
     "motifAssetId": "chsk-00",
+    "hairAssetId": "",
+    "faceAssetId": "",
     "isUserUnavailable": false
   },
   {
     "id": "cos-chs-flow-00",
-    "hairAssetId": "chs-flow-00",
-    "faceAssetId": "chs-base-00",
     "bodyAssetId": "chs-flow-00",
     "characterId": "char-chs",
     "order": 143,
@@ -431,12 +429,12 @@
     "costumeTypeId": "idol",
     "sdAssetId": "chs-flow-00",
     "motifAssetId": "flow-00",
+    "hairAssetId": "",
+    "faceAssetId": "",
     "isUserUnavailable": false
   },
   {
     "id": "cos-chs-idol-00",
-    "hairAssetId": "chs-base-00",
-    "faceAssetId": "chs-base-00",
     "bodyAssetId": "chs-idol-00",
     "characterId": "char-chs",
     "order": 1007,
@@ -445,12 +443,12 @@
     "costumeTypeId": "idol",
     "sdAssetId": "chs-idol-00",
     "motifAssetId": "idol-00",
+    "hairAssetId": "",
+    "faceAssetId": "",
     "isUserUnavailable": false
   },
   {
     "id": "cos-chs-idol-01",
-    "hairAssetId": "chs-idol-01",
-    "faceAssetId": "chs-base-00",
     "bodyAssetId": "chs-idol-01",
     "characterId": "char-chs",
     "order": 1707,
@@ -459,12 +457,12 @@
     "costumeTypeId": "idol",
     "sdAssetId": "chs-idol-01",
     "motifAssetId": "idol-01",
+    "hairAssetId": "",
+    "faceAssetId": "",
     "isUserUnavailable": false
   },
   {
     "id": "cos-chs-idol-02",
-    "hairAssetId": "chs-base-00",
-    "faceAssetId": "chs-base-00",
     "bodyAssetId": "chs-idol-02",
     "characterId": "char-chs",
     "order": 1,
@@ -473,12 +471,12 @@
     "costumeTypeId": "idol",
     "sdAssetId": "chs-idol-02",
     "motifAssetId": "idol-02",
+    "hairAssetId": "",
+    "faceAssetId": "",
     "isUserUnavailable": false
   },
   {
     "id": "cos-chs-idol-03",
-    "hairAssetId": "chs-idol-03",
-    "faceAssetId": "chs-base-00",
     "bodyAssetId": "chs-idol-03",
     "characterId": "char-chs",
     "order": 116,
@@ -487,12 +485,12 @@
     "costumeTypeId": "idol",
     "sdAssetId": "chs-idol-03",
     "motifAssetId": "idol-03",
+    "hairAssetId": "",
+    "faceAssetId": "",
     "isUserUnavailable": false
   },
   {
     "id": "cos-chs-miku-00",
-    "hairAssetId": "chs-base-00",
-    "faceAssetId": "chs-base-00",
     "bodyAssetId": "chs-miku-00",
     "characterId": "char-chs",
     "order": 141,
@@ -501,12 +499,12 @@
     "costumeTypeId": "idol",
     "sdAssetId": "chs-miku-00",
     "motifAssetId": "miku-00",
+    "hairAssetId": "",
+    "faceAssetId": "",
     "isUserUnavailable": false
   },
   {
     "id": "cos-chs-mizg-00",
-    "hairAssetId": "chs-base-00",
-    "faceAssetId": "chs-base-00",
     "bodyAssetId": "chs-mizg-00",
     "characterId": "char-chs",
     "order": 1,
@@ -515,12 +513,12 @@
     "costumeTypeId": "mizg",
     "sdAssetId": "chs-mizg-00",
     "motifAssetId": "mizg-00",
-    "isUserUnavailable": true
+    "isUserUnavailable": true,
+    "hairAssetId": "",
+    "faceAssetId": ""
   },
   {
     "id": "cos-chs-mizg-01",
-    "hairAssetId": "chs-mizg-01",
-    "faceAssetId": "chs-base-00",
     "bodyAssetId": "chs-mizg-01",
     "characterId": "char-chs",
     "order": 1,
@@ -529,12 +527,12 @@
     "costumeTypeId": "mizg-water-ng",
     "sdAssetId": "chs-mizg-01",
     "motifAssetId": "mizg-01",
+    "hairAssetId": "",
+    "faceAssetId": "",
     "isUserUnavailable": false
   },
   {
     "id": "cos-chs-newy-00",
-    "hairAssetId": "chs-newy-00",
-    "faceAssetId": "chs-base-00",
     "bodyAssetId": "chs-newy-00",
     "characterId": "char-chs",
     "order": 92,
@@ -543,12 +541,12 @@
     "costumeTypeId": "idol",
     "sdAssetId": "chs-newy-00",
     "motifAssetId": "newy-00",
+    "hairAssetId": "",
+    "faceAssetId": "",
     "isUserUnavailable": false
   },
   {
     "id": "cos-chs-rock-00",
-    "hairAssetId": "chs-rock-00",
-    "faceAssetId": "chs-base-00",
     "bodyAssetId": "chs-rock-00",
     "characterId": "char-chs",
     "order": 97,
@@ -557,12 +555,12 @@
     "costumeTypeId": "idol",
     "sdAssetId": "chs-rock-00",
     "motifAssetId": "rock-00",
+    "hairAssetId": "",
+    "faceAssetId": "",
     "isUserUnavailable": false
   },
   {
     "id": "cos-chs-schl-00",
-    "hairAssetId": "chs-base-00",
-    "faceAssetId": "chs-base-00",
     "bodyAssetId": "chs-schl-00",
     "characterId": "char-chs",
     "order": 1,
@@ -571,12 +569,12 @@
     "costumeTypeId": "schl",
     "sdAssetId": "chs-schl-00",
     "motifAssetId": "schl-00",
+    "hairAssetId": "",
+    "faceAssetId": "",
     "isUserUnavailable": false
   },
   {
     "id": "cos-chs-sdam-00",
-    "hairAssetId": "chs-sdam-00",
-    "faceAssetId": "chs-sdam-00",
     "bodyAssetId": "chs-sdam-00",
     "characterId": "char-chs",
     "order": 1,
@@ -585,12 +583,12 @@
     "costumeTypeId": "sd-ambassador",
     "sdAssetId": "chs-sdam-00",
     "motifAssetId": "sdam-00",
-    "isUserUnavailable": true
+    "isUserUnavailable": true,
+    "hairAssetId": "",
+    "faceAssetId": ""
   },
   {
     "id": "cos-chs-sdpl-00",
-    "hairAssetId": "chs-sdpl-00",
-    "faceAssetId": "chs-sdpl-00",
     "bodyAssetId": "chs-sdpl-00",
     "characterId": "char-chs",
     "order": 1,
@@ -599,12 +597,12 @@
     "costumeTypeId": "sd-police",
     "sdAssetId": "chs-sdpl-00",
     "motifAssetId": "sdpl-00",
-    "isUserUnavailable": true
+    "isUserUnavailable": true,
+    "hairAssetId": "",
+    "faceAssetId": ""
   },
   {
     "id": "cos-chs-seik-00",
-    "hairAssetId": "chs-seik-00",
-    "faceAssetId": "chs-base-00",
     "bodyAssetId": "chs-seik-00",
     "characterId": "char-chs",
     "order": 1807,
@@ -613,12 +611,12 @@
     "costumeTypeId": "idol",
     "sdAssetId": "chs-seik-00",
     "motifAssetId": "seik-00",
+    "hairAssetId": "",
+    "faceAssetId": "",
     "isUserUnavailable": false
   },
   {
     "id": "cos-chs-trng-00",
-    "hairAssetId": "chs-base-00",
-    "faceAssetId": "chs-base-00",
     "bodyAssetId": "chs-trng-00",
     "characterId": "char-chs",
     "order": 1,
@@ -627,12 +625,12 @@
     "costumeTypeId": "trng",
     "sdAssetId": "chs-trng-00",
     "motifAssetId": "trng-00",
+    "hairAssetId": "",
+    "faceAssetId": "",
     "isUserUnavailable": false
   },
   {
     "id": "cos-hrk-casl-00",
-    "hairAssetId": "hrk-base-00",
-    "faceAssetId": "hrk-base-00",
     "bodyAssetId": "hrk-casl-00",
     "characterId": "char-hrk",
     "order": 1,
@@ -641,12 +639,12 @@
     "costumeTypeId": "casl",
     "sdAssetId": "hrk-casl-00",
     "motifAssetId": "casl-00",
+    "hairAssetId": "",
+    "faceAssetId": "",
     "isUserUnavailable": false
   },
   {
     "id": "cos-hrk-casl-01",
-    "hairAssetId": "hrk-base-00",
-    "faceAssetId": "hrk-base-00",
     "bodyAssetId": "hrk-casl-01",
     "characterId": "char-hrk",
     "order": 1,
@@ -655,12 +653,12 @@
     "costumeTypeId": "casl",
     "sdAssetId": "hrk-casl-01",
     "motifAssetId": "casl-01",
+    "hairAssetId": "",
+    "faceAssetId": "",
     "isUserUnavailable": false
   },
   {
     "id": "cos-hrk-chna-00",
-    "hairAssetId": "hrk-chna-00",
-    "faceAssetId": "hrk-base-00",
     "bodyAssetId": "hrk-chna-00",
     "characterId": "char-hrk",
     "order": 102,
@@ -669,12 +667,12 @@
     "costumeTypeId": "idol",
     "sdAssetId": "hrk-chna-00",
     "motifAssetId": "chna-00",
+    "hairAssetId": "",
+    "faceAssetId": "",
     "isUserUnavailable": false
   },
   {
     "id": "cos-hrk-idol-00",
-    "hairAssetId": "hrk-base-00",
-    "faceAssetId": "hrk-base-00",
     "bodyAssetId": "hrk-idol-00",
     "characterId": "char-hrk",
     "order": 1010,
@@ -683,12 +681,12 @@
     "costumeTypeId": "idol",
     "sdAssetId": "hrk-idol-00",
     "motifAssetId": "idol-00",
+    "hairAssetId": "",
+    "faceAssetId": "",
     "isUserUnavailable": false
   },
   {
     "id": "cos-hrk-idol-01",
-    "hairAssetId": "hrk-idol-01",
-    "faceAssetId": "hrk-base-00",
     "bodyAssetId": "hrk-idol-01",
     "characterId": "char-hrk",
     "order": 1710,
@@ -697,12 +695,12 @@
     "costumeTypeId": "idol",
     "sdAssetId": "hrk-idol-01",
     "motifAssetId": "idol-01",
+    "hairAssetId": "",
+    "faceAssetId": "",
     "isUserUnavailable": false
   },
   {
     "id": "cos-hrk-idol-02",
-    "hairAssetId": "hrk-base-00",
-    "faceAssetId": "hrk-base-00",
     "bodyAssetId": "hrk-idol-02",
     "characterId": "char-hrk",
     "order": 1,
@@ -711,12 +709,12 @@
     "costumeTypeId": "idol",
     "sdAssetId": "hrk-idol-02",
     "motifAssetId": "idol-02",
+    "hairAssetId": "",
+    "faceAssetId": "",
     "isUserUnavailable": false
   },
   {
     "id": "cos-hrk-idol-03",
-    "hairAssetId": "hrk-idol-03",
-    "faceAssetId": "hrk-base-00",
     "bodyAssetId": "hrk-idol-03",
     "characterId": "char-hrk",
     "order": 115,
@@ -725,12 +723,12 @@
     "costumeTypeId": "idol",
     "sdAssetId": "hrk-idol-03",
     "motifAssetId": "idol-03",
+    "hairAssetId": "",
+    "faceAssetId": "",
     "isUserUnavailable": false
   },
   {
     "id": "cos-hrk-miku-00",
-    "hairAssetId": "hrk-base-00",
-    "faceAssetId": "hrk-base-00",
     "bodyAssetId": "hrk-miku-00",
     "characterId": "char-hrk",
     "order": 144,
@@ -739,12 +737,12 @@
     "costumeTypeId": "idol",
     "sdAssetId": "hrk-miku-00",
     "motifAssetId": "miku-00",
+    "hairAssetId": "",
+    "faceAssetId": "",
     "isUserUnavailable": false
   },
   {
     "id": "cos-hrk-mizg-00",
-    "hairAssetId": "hrk-base-00",
-    "faceAssetId": "hrk-base-00",
     "bodyAssetId": "hrk-mizg-00",
     "characterId": "char-hrk",
     "order": 1,
@@ -753,12 +751,12 @@
     "costumeTypeId": "mizg",
     "sdAssetId": "hrk-mizg-00",
     "motifAssetId": "mizg-00",
-    "isUserUnavailable": true
+    "isUserUnavailable": true,
+    "hairAssetId": "",
+    "faceAssetId": ""
   },
   {
     "id": "cos-hrk-mizg-01",
-    "hairAssetId": "hrk-mizg-01",
-    "faceAssetId": "hrk-base-01",
     "bodyAssetId": "hrk-mizg-01",
     "characterId": "char-hrk",
     "order": 1,
@@ -767,12 +765,12 @@
     "costumeTypeId": "mizg-water-ng",
     "sdAssetId": "hrk-mizg-01",
     "motifAssetId": "mizg-01",
+    "hairAssetId": "",
+    "faceAssetId": "",
     "isUserUnavailable": false
   },
   {
     "id": "cos-hrk-newy-00",
-    "hairAssetId": "hrk-newy-00",
-    "faceAssetId": "hrk-base-00",
     "bodyAssetId": "hrk-newy-00",
     "characterId": "char-hrk",
     "order": 94,
@@ -781,12 +779,12 @@
     "costumeTypeId": "idol",
     "sdAssetId": "hrk-newy-00",
     "motifAssetId": "newy-00",
+    "hairAssetId": "",
+    "faceAssetId": "",
     "isUserUnavailable": false
   },
   {
     "id": "cos-hrk-schl-00",
-    "hairAssetId": "hrk-base-00",
-    "faceAssetId": "hrk-base-00",
     "bodyAssetId": "hrk-schl-00",
     "characterId": "char-hrk",
     "order": 1,
@@ -795,12 +793,12 @@
     "costumeTypeId": "schl",
     "sdAssetId": "hrk-schl-00",
     "motifAssetId": "schl-00",
+    "hairAssetId": "",
+    "faceAssetId": "",
     "isUserUnavailable": false
   },
   {
     "id": "cos-hrk-sdam-00",
-    "hairAssetId": "hrk-sdam-00",
-    "faceAssetId": "hrk-sdam-00",
     "bodyAssetId": "hrk-sdam-00",
     "characterId": "char-hrk",
     "order": 1,
@@ -809,12 +807,12 @@
     "costumeTypeId": "sd-ambassador",
     "sdAssetId": "hrk-sdam-00",
     "motifAssetId": "sdam-00",
-    "isUserUnavailable": true
+    "isUserUnavailable": true,
+    "hairAssetId": "",
+    "faceAssetId": ""
   },
   {
     "id": "cos-hrk-sdpl-00",
-    "hairAssetId": "hrk-sdpl-00",
-    "faceAssetId": "hrk-sdpl-00",
     "bodyAssetId": "hrk-sdpl-00",
     "characterId": "char-hrk",
     "order": 1,
@@ -823,12 +821,12 @@
     "costumeTypeId": "sd-police",
     "sdAssetId": "hrk-sdpl-00",
     "motifAssetId": "sdpl-00",
-    "isUserUnavailable": true
+    "isUserUnavailable": true,
+    "hairAssetId": "",
+    "faceAssetId": ""
   },
   {
     "id": "cos-hrk-trng-00",
-    "hairAssetId": "hrk-base-00",
-    "faceAssetId": "hrk-base-00",
     "bodyAssetId": "hrk-trng-00",
     "characterId": "char-hrk",
     "order": 1,
@@ -837,12 +835,12 @@
     "costumeTypeId": "trng",
     "sdAssetId": "hrk-trng-00",
     "motifAssetId": "trng-00",
+    "hairAssetId": "",
+    "faceAssetId": "",
     "isUserUnavailable": false
   },
   {
     "id": "cos-hrk-xmas-00",
-    "hairAssetId": "hrk-xmas-00",
-    "faceAssetId": "hrk-base-00",
     "bodyAssetId": "hrk-xmas-00",
     "characterId": "char-hrk",
     "order": 86,
@@ -851,12 +849,12 @@
     "costumeTypeId": "idol",
     "sdAssetId": "hrk-xmas-00",
     "motifAssetId": "xmas-00",
+    "hairAssetId": "",
+    "faceAssetId": "",
     "isUserUnavailable": false
   },
   {
     "id": "cos-kan-casl-00",
-    "hairAssetId": "kan-base-00",
-    "faceAssetId": "kan-base-00",
     "bodyAssetId": "kan-casl-00",
     "characterId": "char-kan",
     "order": 1,
@@ -865,12 +863,12 @@
     "costumeTypeId": "casl",
     "sdAssetId": "kan-casl-00",
     "motifAssetId": "casl-00",
+    "hairAssetId": "",
+    "faceAssetId": "",
     "isUserUnavailable": false
   },
   {
     "id": "cos-kan-idol-00",
-    "hairAssetId": "kan-idol-00",
-    "faceAssetId": "kan-base-00",
     "bodyAssetId": "kan-idol-00",
     "characterId": "char-kan",
     "order": 121,
@@ -879,12 +877,12 @@
     "costumeTypeId": "idol",
     "sdAssetId": "kan-idol-00",
     "motifAssetId": "idol-00",
+    "hairAssetId": "",
+    "faceAssetId": "",
     "isUserUnavailable": false
   },
   {
     "id": "cos-kan-miku-00",
-    "hairAssetId": "kan-base-00",
-    "faceAssetId": "kan-base-00",
     "bodyAssetId": "kan-miku-00",
     "characterId": "char-kan",
     "order": 153,
@@ -893,12 +891,12 @@
     "costumeTypeId": "idol",
     "sdAssetId": "kan-miku-00",
     "motifAssetId": "miku-00",
+    "hairAssetId": "",
+    "faceAssetId": "",
     "isUserUnavailable": false
   },
   {
     "id": "cos-kan-mizg-00",
-    "hairAssetId": "kan-base-00",
-    "faceAssetId": "kan-base-00",
     "bodyAssetId": "kan-mizg-00",
     "characterId": "char-kan",
     "order": 1,
@@ -907,12 +905,12 @@
     "costumeTypeId": "mizg",
     "sdAssetId": "kan-mizg-00",
     "motifAssetId": "mizg-00",
-    "isUserUnavailable": true
+    "isUserUnavailable": true,
+    "hairAssetId": "",
+    "faceAssetId": ""
   },
   {
     "id": "cos-kan-sdam-00",
-    "hairAssetId": "kan-sdam-00",
-    "faceAssetId": "kan-sdam-00",
     "bodyAssetId": "kan-sdam-00",
     "characterId": "char-kan",
     "order": 1,
@@ -921,12 +919,12 @@
     "costumeTypeId": "sd-ambassador",
     "sdAssetId": "kan-sdam-00",
     "motifAssetId": "sdam-00",
-    "isUserUnavailable": true
+    "isUserUnavailable": true,
+    "hairAssetId": "",
+    "faceAssetId": ""
   },
   {
     "id": "cos-kan-sdpl-00",
-    "hairAssetId": "kan-sdpl-00",
-    "faceAssetId": "kan-sdpl-00",
     "bodyAssetId": "kan-sdpl-00",
     "characterId": "char-kan",
     "order": 1,
@@ -935,12 +933,12 @@
     "costumeTypeId": "sd-police",
     "sdAssetId": "kan-sdpl-00",
     "motifAssetId": "sdpl-00",
-    "isUserUnavailable": true
+    "isUserUnavailable": true,
+    "hairAssetId": "",
+    "faceAssetId": ""
   },
   {
     "id": "cos-kan-trng-00",
-    "hairAssetId": "kan-base-00",
-    "faceAssetId": "kan-base-00",
     "bodyAssetId": "kan-trng-00",
     "characterId": "char-kan",
     "order": 1,
@@ -949,12 +947,12 @@
     "costumeTypeId": "trng",
     "sdAssetId": "kan-trng-00",
     "motifAssetId": "trng-00",
+    "hairAssetId": "",
+    "faceAssetId": "",
     "isUserUnavailable": false
   },
   {
     "id": "cos-kkr-casl-00",
-    "hairAssetId": "kkr-base-00",
-    "faceAssetId": "kkr-base-00",
     "bodyAssetId": "kkr-casl-00",
     "characterId": "char-kkr",
     "order": 1,
@@ -963,12 +961,12 @@
     "costumeTypeId": "casl",
     "sdAssetId": "kkr-casl-00",
     "motifAssetId": "casl-00",
+    "hairAssetId": "",
+    "faceAssetId": "",
     "isUserUnavailable": false
   },
   {
     "id": "cos-kkr-casl-01",
-    "hairAssetId": "kkr-base-00",
-    "faceAssetId": "kkr-base-00",
     "bodyAssetId": "kkr-casl-01",
     "characterId": "char-kkr",
     "order": 1,
@@ -977,12 +975,12 @@
     "costumeTypeId": "casl",
     "sdAssetId": "kkr-casl-01",
     "motifAssetId": "casl-01",
+    "hairAssetId": "",
+    "faceAssetId": "",
     "isUserUnavailable": false
   },
   {
     "id": "cos-kkr-idol-00",
-    "hairAssetId": "kkr-idol-00",
-    "faceAssetId": "kkr-base-00",
     "bodyAssetId": "kkr-idol-00",
     "characterId": "char-kkr",
     "order": 1017,
@@ -991,12 +989,12 @@
     "costumeTypeId": "idol",
     "sdAssetId": "kkr-idol-00",
     "motifAssetId": "idol-00",
+    "hairAssetId": "",
+    "faceAssetId": "",
     "isUserUnavailable": false
   },
   {
     "id": "cos-kkr-idol-02",
-    "hairAssetId": "kkr-base-00",
-    "faceAssetId": "kkr-base-00",
     "bodyAssetId": "kkr-idol-02",
     "characterId": "char-kkr",
     "order": 1,
@@ -1005,12 +1003,12 @@
     "costumeTypeId": "idol",
     "sdAssetId": "kkr-idol-02",
     "motifAssetId": "idol-02",
+    "hairAssetId": "",
+    "faceAssetId": "",
     "isUserUnavailable": false
   },
   {
     "id": "cos-kkr-kait-00",
-    "hairAssetId": "kkr-kait-00",
-    "faceAssetId": "kkr-base-00",
     "bodyAssetId": "kkr-kait-00",
     "characterId": "char-kkr",
     "order": 164,
@@ -1019,12 +1017,12 @@
     "costumeTypeId": "idol",
     "sdAssetId": "kkr-kait-00",
     "motifAssetId": "kait-00",
+    "hairAssetId": "",
+    "faceAssetId": "",
     "isUserUnavailable": false
   },
   {
     "id": "cos-kkr-miku-00",
-    "hairAssetId": "kkr-base-00",
-    "faceAssetId": "kkr-base-00",
     "bodyAssetId": "kkr-miku-00",
     "characterId": "char-kkr",
     "order": 148,
@@ -1033,12 +1031,12 @@
     "costumeTypeId": "idol",
     "sdAssetId": "kkr-miku-00",
     "motifAssetId": "miku-00",
+    "hairAssetId": "",
+    "faceAssetId": "",
     "isUserUnavailable": false
   },
   {
     "id": "cos-kkr-mizg-00",
-    "hairAssetId": "kkr-base-00",
-    "faceAssetId": "kkr-base-00",
     "bodyAssetId": "kkr-mizg-00",
     "characterId": "char-kkr",
     "order": 1,
@@ -1047,12 +1045,12 @@
     "costumeTypeId": "mizg",
     "sdAssetId": "kkr-mizg-00",
     "motifAssetId": "mizg-00",
-    "isUserUnavailable": true
+    "isUserUnavailable": true,
+    "hairAssetId": "",
+    "faceAssetId": ""
   },
   {
     "id": "cos-kkr-mizg-01",
-    "hairAssetId": "kkr-mizg-01",
-    "faceAssetId": "kkr-base-00",
     "bodyAssetId": "kkr-mizg-01",
     "characterId": "char-kkr",
     "order": 130,
@@ -1061,12 +1059,12 @@
     "costumeTypeId": "mizg-water-ng",
     "sdAssetId": "kkr-mizg-01",
     "motifAssetId": "mizg-01",
+    "hairAssetId": "",
+    "faceAssetId": "",
     "isUserUnavailable": false
   },
   {
     "id": "cos-kkr-schl-00",
-    "hairAssetId": "kkr-base-00",
-    "faceAssetId": "kkr-base-00",
     "bodyAssetId": "kkr-schl-00",
     "characterId": "char-kkr",
     "order": 1,
@@ -1075,12 +1073,12 @@
     "costumeTypeId": "schl",
     "sdAssetId": "kkr-schl-00",
     "motifAssetId": "schl-00",
+    "hairAssetId": "",
+    "faceAssetId": "",
     "isUserUnavailable": false
   },
   {
     "id": "cos-kkr-sdam-00",
-    "hairAssetId": "kkr-sdam-00",
-    "faceAssetId": "kkr-sdam-00",
     "bodyAssetId": "kkr-sdam-00",
     "characterId": "char-kkr",
     "order": 1,
@@ -1089,12 +1087,12 @@
     "costumeTypeId": "sd-ambassador",
     "sdAssetId": "kkr-sdam-00",
     "motifAssetId": "sdam-00",
-    "isUserUnavailable": true
+    "isUserUnavailable": true,
+    "hairAssetId": "",
+    "faceAssetId": ""
   },
   {
     "id": "cos-kkr-sdpl-00",
-    "hairAssetId": "kkr-sdpl-00",
-    "faceAssetId": "kkr-sdpl-00",
     "bodyAssetId": "kkr-sdpl-00",
     "characterId": "char-kkr",
     "order": 1,
@@ -1103,12 +1101,12 @@
     "costumeTypeId": "sd-police",
     "sdAssetId": "kkr-sdpl-00",
     "motifAssetId": "sdpl-00",
-    "isUserUnavailable": true
+    "isUserUnavailable": true,
+    "hairAssetId": "",
+    "faceAssetId": ""
   },
   {
     "id": "cos-kkr-seik-00",
-    "hairAssetId": "kkr-seik-00",
-    "faceAssetId": "kkr-base-00",
     "bodyAssetId": "kkr-seik-00",
     "characterId": "char-kkr",
     "order": 1817,
@@ -1117,12 +1115,12 @@
     "costumeTypeId": "idol",
     "sdAssetId": "kkr-seik-00",
     "motifAssetId": "seik-00",
+    "hairAssetId": "",
+    "faceAssetId": "",
     "isUserUnavailable": false
   },
   {
     "id": "cos-kkr-trng-00",
-    "hairAssetId": "kkr-base-00",
-    "faceAssetId": "kkr-base-00",
     "bodyAssetId": "kkr-trng-00",
     "characterId": "char-kkr",
     "order": 1,
@@ -1131,12 +1129,12 @@
     "costumeTypeId": "trng",
     "sdAssetId": "kkr-trng-00",
     "motifAssetId": "trng-00",
+    "hairAssetId": "",
+    "faceAssetId": "",
     "isUserUnavailable": false
   },
   {
     "id": "cos-kkr-vlnt-00",
-    "hairAssetId": "kkr-vlnt-00",
-    "faceAssetId": "kkr-base-00",
     "bodyAssetId": "kkr-vlnt-00",
     "characterId": "char-kkr",
     "order": 93,
@@ -1145,12 +1143,12 @@
     "costumeTypeId": "idol",
     "sdAssetId": "kkr-vlnt-00",
     "motifAssetId": "vlnt-00",
+    "hairAssetId": "",
+    "faceAssetId": "",
     "isUserUnavailable": false
   },
   {
     "id": "cos-koh-casl-00",
-    "hairAssetId": "koh-base-00",
-    "faceAssetId": "koh-base-00",
     "bodyAssetId": "koh-casl-00",
     "characterId": "char-koh",
     "order": 1,
@@ -1159,12 +1157,12 @@
     "costumeTypeId": "casl",
     "sdAssetId": "koh-casl-00",
     "motifAssetId": "casl-00",
-    "isUserUnavailable": true
+    "isUserUnavailable": true,
+    "hairAssetId": "",
+    "faceAssetId": ""
   },
   {
     "id": "cos-kor-casl-00",
-    "hairAssetId": "kor-base-00",
-    "faceAssetId": "kor-base-00",
     "bodyAssetId": "kor-casl-00",
     "characterId": "char-kor",
     "order": 1,
@@ -1173,12 +1171,12 @@
     "costumeTypeId": "casl",
     "sdAssetId": "kor-casl-00",
     "motifAssetId": "casl-00",
+    "hairAssetId": "",
+    "faceAssetId": "",
     "isUserUnavailable": false
   },
   {
     "id": "cos-kor-idol-00",
-    "hairAssetId": "kor-base-00",
-    "faceAssetId": "kor-base-00",
     "bodyAssetId": "kor-idol-00",
     "characterId": "char-kor",
     "order": 120,
@@ -1187,12 +1185,12 @@
     "costumeTypeId": "idol",
     "sdAssetId": "kor-idol-00",
     "motifAssetId": "idol-00",
+    "hairAssetId": "",
+    "faceAssetId": "",
     "isUserUnavailable": false
   },
   {
     "id": "cos-kor-miku-00",
-    "hairAssetId": "kor-base-00",
-    "faceAssetId": "kor-base-00",
     "bodyAssetId": "kor-miku-00",
     "characterId": "char-kor",
     "order": 152,
@@ -1201,12 +1199,12 @@
     "costumeTypeId": "idol",
     "sdAssetId": "kor-miku-00",
     "motifAssetId": "miku-00",
+    "hairAssetId": "",
+    "faceAssetId": "",
     "isUserUnavailable": false
   },
   {
     "id": "cos-kor-mizg-00",
-    "hairAssetId": "kor-base-00",
-    "faceAssetId": "kor-base-00",
     "bodyAssetId": "kor-mizg-00",
     "characterId": "char-kor",
     "order": 1,
@@ -1215,12 +1213,12 @@
     "costumeTypeId": "mizg",
     "sdAssetId": "kor-mizg-00",
     "motifAssetId": "mizg-00",
-    "isUserUnavailable": true
+    "isUserUnavailable": true,
+    "hairAssetId": "",
+    "faceAssetId": ""
   },
   {
     "id": "cos-kor-sdam-00",
-    "hairAssetId": "kor-sdam-00",
-    "faceAssetId": "kor-sdam-00",
     "bodyAssetId": "kor-sdam-00",
     "characterId": "char-kor",
     "order": 1,
@@ -1229,12 +1227,12 @@
     "costumeTypeId": "sd-ambassador",
     "sdAssetId": "kor-sdam-00",
     "motifAssetId": "sdam-00",
-    "isUserUnavailable": true
+    "isUserUnavailable": true,
+    "hairAssetId": "",
+    "faceAssetId": ""
   },
   {
     "id": "cos-kor-sdpl-00",
-    "hairAssetId": "kor-sdpl-00",
-    "faceAssetId": "kor-sdpl-00",
     "bodyAssetId": "kor-sdpl-00",
     "characterId": "char-kor",
     "order": 1,
@@ -1243,12 +1241,12 @@
     "costumeTypeId": "sd-police",
     "sdAssetId": "kor-sdpl-00",
     "motifAssetId": "sdpl-00",
-    "isUserUnavailable": true
+    "isUserUnavailable": true,
+    "hairAssetId": "",
+    "faceAssetId": ""
   },
   {
     "id": "cos-kor-trng-00",
-    "hairAssetId": "kor-base-00",
-    "faceAssetId": "kor-base-00",
     "bodyAssetId": "kor-trng-00",
     "characterId": "char-kor",
     "order": 1,
@@ -1257,12 +1255,12 @@
     "costumeTypeId": "trng",
     "sdAssetId": "kor-trng-00",
     "motifAssetId": "trng-00",
+    "hairAssetId": "",
+    "faceAssetId": "",
     "isUserUnavailable": false
   },
   {
     "id": "cos-ktn-casl-00",
-    "hairAssetId": "ktn-base-00",
-    "faceAssetId": "ktn-base-00",
     "bodyAssetId": "ktn-casl-00",
     "characterId": "char-ktn",
     "order": 1,
@@ -1271,12 +1269,12 @@
     "costumeTypeId": "casl",
     "sdAssetId": "ktn-casl-00",
     "motifAssetId": "casl-00",
+    "hairAssetId": "",
+    "faceAssetId": "",
     "isUserUnavailable": false
   },
   {
     "id": "cos-ktn-casl-01",
-    "hairAssetId": "ktn-base-00",
-    "faceAssetId": "ktn-base-00",
     "bodyAssetId": "ktn-casl-01",
     "characterId": "char-ktn",
     "order": 1,
@@ -1285,12 +1283,12 @@
     "costumeTypeId": "casl",
     "sdAssetId": "ktn-casl-01",
     "motifAssetId": "casl-01",
+    "hairAssetId": "",
+    "faceAssetId": "",
     "isUserUnavailable": false
   },
   {
     "id": "cos-ktn-fest-00",
-    "hairAssetId": "ktn-fest-00",
-    "faceAssetId": "ktn-base-00",
     "bodyAssetId": "ktn-fest-00",
     "characterId": "char-ktn",
     "order": 87,
@@ -1299,12 +1297,12 @@
     "costumeTypeId": "idol",
     "sdAssetId": "ktn-fest-00",
     "motifAssetId": "fest-00",
+    "hairAssetId": "",
+    "faceAssetId": "",
     "isUserUnavailable": false
   },
   {
     "id": "cos-ktn-idol-00",
-    "hairAssetId": "ktn-base-00",
-    "faceAssetId": "ktn-base-00",
     "bodyAssetId": "ktn-idol-00",
     "characterId": "char-ktn",
     "order": 1001,
@@ -1313,12 +1311,12 @@
     "costumeTypeId": "idol",
     "sdAssetId": "ktn-idol-00",
     "motifAssetId": "idol-00",
+    "hairAssetId": "",
+    "faceAssetId": "",
     "isUserUnavailable": false
   },
   {
     "id": "cos-ktn-idol-01",
-    "hairAssetId": "ktn-idol-01",
-    "faceAssetId": "ktn-base-00",
     "bodyAssetId": "ktn-idol-01",
     "characterId": "char-ktn",
     "order": 1701,
@@ -1327,12 +1325,12 @@
     "costumeTypeId": "idol",
     "sdAssetId": "ktn-idol-01",
     "motifAssetId": "idol-01",
+    "hairAssetId": "",
+    "faceAssetId": "",
     "isUserUnavailable": false
   },
   {
     "id": "cos-ktn-idol-02",
-    "hairAssetId": "ktn-base-00",
-    "faceAssetId": "ktn-base-00",
     "bodyAssetId": "ktn-idol-02",
     "characterId": "char-ktn",
     "order": 1,
@@ -1341,12 +1339,12 @@
     "costumeTypeId": "idol",
     "sdAssetId": "ktn-idol-02",
     "motifAssetId": "idol-02",
+    "hairAssetId": "",
+    "faceAssetId": "",
     "isUserUnavailable": false
   },
   {
     "id": "cos-ktn-kiok-00",
-    "hairAssetId": "ktn-kiok-00",
-    "faceAssetId": "ktn-base-00",
     "bodyAssetId": "ktn-kiok-00",
     "characterId": "char-ktn",
     "order": 139,
@@ -1355,12 +1353,12 @@
     "costumeTypeId": "idol",
     "sdAssetId": "ktn-kiok-00",
     "motifAssetId": "kiok-00",
+    "hairAssetId": "",
+    "faceAssetId": "",
     "isUserUnavailable": false
   },
   {
     "id": "cos-ktn-miku-00",
-    "hairAssetId": "ktn-base-00",
-    "faceAssetId": "ktn-base-00",
     "bodyAssetId": "ktn-miku-00",
     "characterId": "char-ktn",
     "order": 135,
@@ -1369,12 +1367,12 @@
     "costumeTypeId": "idol",
     "sdAssetId": "ktn-miku-00",
     "motifAssetId": "miku-00",
+    "hairAssetId": "",
+    "faceAssetId": "",
     "isUserUnavailable": false
   },
   {
     "id": "cos-ktn-mizg-00",
-    "hairAssetId": "ktn-base-00",
-    "faceAssetId": "ktn-base-00",
     "bodyAssetId": "ktn-mizg-00",
     "characterId": "char-ktn",
     "order": 1,
@@ -1383,12 +1381,12 @@
     "costumeTypeId": "mizg",
     "sdAssetId": "ktn-mizg-00",
     "motifAssetId": "mizg-00",
-    "isUserUnavailable": true
+    "isUserUnavailable": true,
+    "hairAssetId": "",
+    "faceAssetId": ""
   },
   {
     "id": "cos-ktn-mizg-01",
-    "hairAssetId": "ktn-mizg-01",
-    "faceAssetId": "ktn-base-00",
     "bodyAssetId": "ktn-mizg-01",
     "characterId": "char-ktn",
     "order": 1,
@@ -1397,12 +1395,12 @@
     "costumeTypeId": "mizg-water-ng",
     "sdAssetId": "ktn-mizg-01",
     "motifAssetId": "mizg-01",
+    "hairAssetId": "",
+    "faceAssetId": "",
     "isUserUnavailable": false
   },
   {
     "id": "cos-ktn-mizg-02",
-    "hairAssetId": "ktn-base-00",
-    "faceAssetId": "ktn-base-00",
     "bodyAssetId": "ktn-mizg-02",
     "characterId": "char-ktn",
     "order": 125,
@@ -1411,12 +1409,12 @@
     "costumeTypeId": "mizg-water-ng",
     "sdAssetId": "ktn-mizg-02",
     "motifAssetId": "mizg-02",
+    "hairAssetId": "",
+    "faceAssetId": "",
     "isUserUnavailable": false
   },
   {
     "id": "cos-ktn-schl-00",
-    "hairAssetId": "ktn-base-00",
-    "faceAssetId": "ktn-base-00",
     "bodyAssetId": "ktn-schl-00",
     "characterId": "char-ktn",
     "order": 1,
@@ -1425,12 +1423,12 @@
     "costumeTypeId": "schl",
     "sdAssetId": "ktn-schl-00",
     "motifAssetId": "schl-00",
+    "hairAssetId": "",
+    "faceAssetId": "",
     "isUserUnavailable": false
   },
   {
     "id": "cos-ktn-sdam-00",
-    "hairAssetId": "ktn-sdam-00",
-    "faceAssetId": "ktn-sdam-00",
     "bodyAssetId": "ktn-sdam-00",
     "characterId": "char-ktn",
     "order": 1,
@@ -1439,12 +1437,12 @@
     "costumeTypeId": "sd-ambassador",
     "sdAssetId": "ktn-sdam-00",
     "motifAssetId": "sdam-00",
-    "isUserUnavailable": true
+    "isUserUnavailable": true,
+    "hairAssetId": "",
+    "faceAssetId": ""
   },
   {
     "id": "cos-ktn-sdpl-00",
-    "hairAssetId": "ktn-sdpl-00",
-    "faceAssetId": "ktn-sdpl-00",
     "bodyAssetId": "ktn-sdpl-00",
     "characterId": "char-ktn",
     "order": 1,
@@ -1453,12 +1451,12 @@
     "costumeTypeId": "sd-police",
     "sdAssetId": "ktn-sdpl-00",
     "motifAssetId": "sdpl-00",
-    "isUserUnavailable": true
+    "isUserUnavailable": true,
+    "hairAssetId": "",
+    "faceAssetId": ""
   },
   {
     "id": "cos-ktn-trng-00",
-    "hairAssetId": "ktn-base-00",
-    "faceAssetId": "ktn-base-00",
     "bodyAssetId": "ktn-trng-00",
     "characterId": "char-ktn",
     "order": 1,
@@ -1467,12 +1465,12 @@
     "costumeTypeId": "trng",
     "sdAssetId": "ktn-trng-00",
     "motifAssetId": "trng-00",
+    "hairAssetId": "",
+    "faceAssetId": "",
     "isUserUnavailable": false
   },
   {
     "id": "cos-ktn-wedd-00",
-    "hairAssetId": "ktn-wedd-00",
-    "faceAssetId": "ktn-base-00",
     "bodyAssetId": "ktn-wedd-00",
     "characterId": "char-ktn",
     "order": 117,
@@ -1481,12 +1479,12 @@
     "costumeTypeId": "idol",
     "sdAssetId": "ktn-wedd-00",
     "motifAssetId": "wedd-00",
+    "hairAssetId": "",
+    "faceAssetId": "",
     "isUserUnavailable": false
   },
   {
     "id": "cos-mei-casl-00",
-    "hairAssetId": "mei-base-00",
-    "faceAssetId": "mei-base-00",
     "bodyAssetId": "mei-casl-00",
     "characterId": "char-mei",
     "order": 1,
@@ -1495,12 +1493,12 @@
     "costumeTypeId": "casl",
     "sdAssetId": "mei-casl-00",
     "motifAssetId": "casl-00",
+    "hairAssetId": "",
+    "faceAssetId": "",
     "isUserUnavailable": false
   },
   {
     "id": "cos-mei-casl-01",
-    "hairAssetId": "mei-base-00",
-    "faceAssetId": "mei-base-00",
     "bodyAssetId": "mei-casl-01",
     "characterId": "char-mei",
     "order": 1,
@@ -1509,12 +1507,12 @@
     "costumeTypeId": "casl",
     "sdAssetId": "mei-casl-01",
     "motifAssetId": "casl-01",
+    "hairAssetId": "",
+    "faceAssetId": "",
     "isUserUnavailable": false
   },
   {
     "id": "cos-mei-fest-00",
-    "hairAssetId": "mei-fest-00",
-    "faceAssetId": "mei-base-00",
     "bodyAssetId": "mei-fest-00",
     "characterId": "char-mei",
     "order": 104,
@@ -1523,12 +1521,12 @@
     "costumeTypeId": "idol",
     "sdAssetId": "mei-fest-00",
     "motifAssetId": "fest-00",
+    "hairAssetId": "",
+    "faceAssetId": "",
     "isUserUnavailable": false
   },
   {
     "id": "cos-mei-idol-00",
-    "hairAssetId": "mei-base-00",
-    "faceAssetId": "mei-base-00",
     "bodyAssetId": "mei-idol-00",
     "characterId": "char-mei",
     "order": 1003,
@@ -1537,12 +1535,12 @@
     "costumeTypeId": "idol",
     "sdAssetId": "mei-idol-00",
     "motifAssetId": "idol-00",
+    "hairAssetId": "",
+    "faceAssetId": "",
     "isUserUnavailable": false
   },
   {
     "id": "cos-mei-idol-01",
-    "hairAssetId": "mei-idol-01",
-    "faceAssetId": "mei-base-00",
     "bodyAssetId": "mei-idol-01",
     "characterId": "char-mei",
     "order": 1703,
@@ -1551,12 +1549,12 @@
     "costumeTypeId": "idol",
     "sdAssetId": "mei-idol-01",
     "motifAssetId": "idol-01",
+    "hairAssetId": "",
+    "faceAssetId": "",
     "isUserUnavailable": false
   },
   {
     "id": "cos-mei-idol-02",
-    "hairAssetId": "mei-base-00",
-    "faceAssetId": "mei-base-00",
     "bodyAssetId": "mei-idol-02",
     "characterId": "char-mei",
     "order": 1,
@@ -1565,12 +1563,12 @@
     "costumeTypeId": "idol",
     "sdAssetId": "mei-idol-02",
     "motifAssetId": "idol-02",
+    "hairAssetId": "",
+    "faceAssetId": "",
     "isUserUnavailable": false
   },
   {
     "id": "cos-mei-miku-00",
-    "hairAssetId": "mei-base-00",
-    "faceAssetId": "mei-base-00",
     "bodyAssetId": "mei-miku-00",
     "characterId": "char-mei",
     "order": 137,
@@ -1579,12 +1577,12 @@
     "costumeTypeId": "idol",
     "sdAssetId": "mei-miku-00",
     "motifAssetId": "miku-00",
+    "hairAssetId": "",
+    "faceAssetId": "",
     "isUserUnavailable": false
   },
   {
     "id": "cos-mei-mizg-00",
-    "hairAssetId": "mei-base-00",
-    "faceAssetId": "mei-base-00",
     "bodyAssetId": "mei-mizg-00",
     "characterId": "char-mei",
     "order": 1,
@@ -1593,12 +1591,12 @@
     "costumeTypeId": "mizg",
     "sdAssetId": "mei-mizg-00",
     "motifAssetId": "mizg-00",
-    "isUserUnavailable": true
+    "isUserUnavailable": true,
+    "hairAssetId": "",
+    "faceAssetId": ""
   },
   {
     "id": "cos-mei-mizg-01",
-    "hairAssetId": "mei-mizg-01",
-    "faceAssetId": "mei-base-00",
     "bodyAssetId": "mei-mizg-01",
     "characterId": "char-mei",
     "order": 1,
@@ -1607,12 +1605,12 @@
     "costumeTypeId": "mizg-water-ng",
     "sdAssetId": "mei-mizg-01",
     "motifAssetId": "mizg-01",
+    "hairAssetId": "",
+    "faceAssetId": "",
     "isUserUnavailable": false
   },
   {
     "id": "cos-mei-mizg-02",
-    "hairAssetId": "mei-mizg-02",
-    "faceAssetId": "mei-base-00",
     "bodyAssetId": "mei-mizg-02",
     "characterId": "char-mei",
     "order": 126,
@@ -1621,12 +1619,12 @@
     "costumeTypeId": "mizg-water-ng",
     "sdAssetId": "mei-mizg-02",
     "motifAssetId": "mizg-02",
+    "hairAssetId": "",
+    "faceAssetId": "",
     "isUserUnavailable": false
   },
   {
     "id": "cos-mei-rock-00",
-    "hairAssetId": "mei-rock-00",
-    "faceAssetId": "mei-base-00",
     "bodyAssetId": "mei-rock-00",
     "characterId": "char-mei",
     "order": 78,
@@ -1635,12 +1633,12 @@
     "costumeTypeId": "idol",
     "sdAssetId": "mei-rock-00",
     "motifAssetId": "rock-00",
+    "hairAssetId": "",
+    "faceAssetId": "",
     "isUserUnavailable": false
   },
   {
     "id": "cos-mei-schl-00",
-    "hairAssetId": "mei-base-00",
-    "faceAssetId": "mei-base-00",
     "bodyAssetId": "mei-schl-00",
     "characterId": "char-mei",
     "order": 1,
@@ -1649,12 +1647,12 @@
     "costumeTypeId": "schl",
     "sdAssetId": "mei-schl-00",
     "motifAssetId": "schl-00",
+    "hairAssetId": "",
+    "faceAssetId": "",
     "isUserUnavailable": false
   },
   {
     "id": "cos-mei-sdam-00",
-    "hairAssetId": "mei-sdam-00",
-    "faceAssetId": "mei-sdam-00",
     "bodyAssetId": "mei-sdam-00",
     "characterId": "char-mei",
     "order": 1,
@@ -1663,12 +1661,12 @@
     "costumeTypeId": "sd-ambassador",
     "sdAssetId": "mei-sdam-00",
     "motifAssetId": "sdam-00",
-    "isUserUnavailable": true
+    "isUserUnavailable": true,
+    "hairAssetId": "",
+    "faceAssetId": ""
   },
   {
     "id": "cos-mei-sdpl-00",
-    "hairAssetId": "mei-sdpl-00",
-    "faceAssetId": "mei-sdpl-00",
     "bodyAssetId": "mei-sdpl-00",
     "characterId": "char-mei",
     "order": 1,
@@ -1677,12 +1675,12 @@
     "costumeTypeId": "sd-police",
     "sdAssetId": "mei-sdpl-00",
     "motifAssetId": "sdpl-00",
-    "isUserUnavailable": true
+    "isUserUnavailable": true,
+    "hairAssetId": "",
+    "faceAssetId": ""
   },
   {
     "id": "cos-mei-trng-00",
-    "hairAssetId": "mei-base-00",
-    "faceAssetId": "mei-base-00",
     "bodyAssetId": "mei-trng-00",
     "characterId": "char-mei",
     "order": 1,
@@ -1691,12 +1689,12 @@
     "costumeTypeId": "trng",
     "sdAssetId": "mei-trng-00",
     "motifAssetId": "trng-00",
+    "hairAssetId": "",
+    "faceAssetId": "",
     "isUserUnavailable": false
   },
   {
     "id": "cos-mhk-casl-00",
-    "hairAssetId": "mhk-base-00",
-    "faceAssetId": "mhk-base-00",
     "bodyAssetId": "mhk-casl-00",
     "characterId": "char-mhk",
     "order": 1,
@@ -1705,12 +1703,12 @@
     "costumeTypeId": "casl",
     "sdAssetId": "mhk-casl-00",
     "motifAssetId": "casl-00",
+    "hairAssetId": "",
+    "faceAssetId": "",
     "isUserUnavailable": false
   },
   {
     "id": "cos-mhk-idol-00",
-    "hairAssetId": "mhk-base-00",
-    "faceAssetId": "mhk-base-00",
     "bodyAssetId": "mhk-idol-00",
     "characterId": "char-mhk",
     "order": 122,
@@ -1719,12 +1717,12 @@
     "costumeTypeId": "idol",
     "sdAssetId": "mhk-idol-00",
     "motifAssetId": "idol-00",
+    "hairAssetId": "",
+    "faceAssetId": "",
     "isUserUnavailable": false
   },
   {
     "id": "cos-mhk-miku-00",
-    "hairAssetId": "mhk-base-00",
-    "faceAssetId": "mhk-base-00",
     "bodyAssetId": "mhk-miku-00",
     "characterId": "char-mhk",
     "order": 154,
@@ -1733,12 +1731,12 @@
     "costumeTypeId": "idol",
     "sdAssetId": "mhk-miku-00",
     "motifAssetId": "miku-00",
+    "hairAssetId": "",
+    "faceAssetId": "",
     "isUserUnavailable": false
   },
   {
     "id": "cos-mhk-mizg-00",
-    "hairAssetId": "mhk-base-00",
-    "faceAssetId": "mhk-base-00",
     "bodyAssetId": "mhk-mizg-00",
     "characterId": "char-mhk",
     "order": 1,
@@ -1747,12 +1745,12 @@
     "costumeTypeId": "mizg",
     "sdAssetId": "mhk-mizg-00",
     "motifAssetId": "mizg-00",
-    "isUserUnavailable": true
+    "isUserUnavailable": true,
+    "hairAssetId": "",
+    "faceAssetId": ""
   },
   {
     "id": "cos-mhk-sdam-00",
-    "hairAssetId": "mhk-sdam-00",
-    "faceAssetId": "mhk-sdam-00",
     "bodyAssetId": "mhk-sdam-00",
     "characterId": "char-mhk",
     "order": 1,
@@ -1761,12 +1759,12 @@
     "costumeTypeId": "sd-ambassador",
     "sdAssetId": "mhk-sdam-00",
     "motifAssetId": "sdam-00",
-    "isUserUnavailable": true
+    "isUserUnavailable": true,
+    "hairAssetId": "",
+    "faceAssetId": ""
   },
   {
     "id": "cos-mhk-sdpl-00",
-    "hairAssetId": "mhk-sdpl-00",
-    "faceAssetId": "mhk-sdpl-00",
     "bodyAssetId": "mhk-sdpl-00",
     "characterId": "char-mhk",
     "order": 1,
@@ -1775,12 +1773,12 @@
     "costumeTypeId": "sd-police",
     "sdAssetId": "mhk-sdpl-00",
     "motifAssetId": "sdpl-00",
-    "isUserUnavailable": true
+    "isUserUnavailable": true,
+    "hairAssetId": "",
+    "faceAssetId": ""
   },
   {
     "id": "cos-mhk-trng-00",
-    "hairAssetId": "mhk-base-00",
-    "faceAssetId": "mhk-base-00",
     "bodyAssetId": "mhk-trng-00",
     "characterId": "char-mhk",
     "order": 1,
@@ -1789,12 +1787,12 @@
     "costumeTypeId": "trng",
     "sdAssetId": "mhk-trng-00",
     "motifAssetId": "trng-00",
+    "hairAssetId": "",
+    "faceAssetId": "",
     "isUserUnavailable": false
   },
   {
     "id": "cos-mku-miku-00",
-    "hairAssetId": "mku-base-00",
-    "faceAssetId": "mku-base-00",
     "bodyAssetId": "mku-miku-00",
     "characterId": "char-mku",
     "order": 132,
@@ -1803,12 +1801,12 @@
     "costumeTypeId": "idol",
     "sdAssetId": "mku-miku-00",
     "motifAssetId": "miku-00",
+    "hairAssetId": "",
+    "faceAssetId": "",
     "isUserUnavailable": false
   },
   {
     "id": "cos-mku-miku-00-casl",
-    "hairAssetId": "mku-base-00",
-    "faceAssetId": "mku-base-00",
     "bodyAssetId": "mku-miku-00",
     "characterId": "char-mku",
     "order": 1,
@@ -1817,12 +1815,12 @@
     "costumeTypeId": "casl",
     "sdAssetId": "mku-miku-00",
     "motifAssetId": "miku-00",
-    "isUserUnavailable": true
+    "isUserUnavailable": true,
+    "hairAssetId": "",
+    "faceAssetId": ""
   },
   {
     "id": "cos-mku-miku-01",
-    "hairAssetId": "mku-miku-01",
-    "faceAssetId": "mku-base-01",
     "bodyAssetId": "mku-miku-01",
     "characterId": "char-mku",
     "order": 134,
@@ -1831,12 +1829,12 @@
     "costumeTypeId": "idol-miku",
     "sdAssetId": "mku-miku-01",
     "motifAssetId": "miku-01",
+    "hairAssetId": "",
+    "faceAssetId": "",
     "isUserUnavailable": false
   },
   {
     "id": "cos-mna-casl-00",
-    "hairAssetId": "mna-base-00",
-    "faceAssetId": "mna-base-00",
     "bodyAssetId": "mna-casl-00",
     "characterId": "char-mna",
     "order": 1,
@@ -1845,12 +1843,12 @@
     "costumeTypeId": "casl",
     "sdAssetId": "mna-casl-00",
     "motifAssetId": "casl-00",
+    "hairAssetId": "",
+    "faceAssetId": "",
     "isUserUnavailable": false
   },
   {
     "id": "cos-mna-fest-00",
-    "hairAssetId": "mna-fest-00",
-    "faceAssetId": "mna-base-00",
     "bodyAssetId": "mna-fest-00",
     "characterId": "char-mna",
     "order": 103,
@@ -1859,12 +1857,12 @@
     "costumeTypeId": "idol",
     "sdAssetId": "mna-fest-00",
     "motifAssetId": "fest-00",
+    "hairAssetId": "",
+    "faceAssetId": "",
     "isUserUnavailable": false
   },
   {
     "id": "cos-mna-idol-00",
-    "hairAssetId": "mna-idol-00",
-    "faceAssetId": "mna-base-00",
     "bodyAssetId": "mna-idol-00",
     "characterId": "char-mna",
     "order": 1,
@@ -1873,12 +1871,12 @@
     "costumeTypeId": "idol",
     "sdAssetId": "mna-idol-00",
     "motifAssetId": "idol-00",
+    "hairAssetId": "",
+    "faceAssetId": "",
     "isUserUnavailable": false
   },
   {
     "id": "cos-mna-miku-00",
-    "hairAssetId": "mna-base-00",
-    "faceAssetId": "mna-base-00",
     "bodyAssetId": "mna-miku-00",
     "characterId": "char-mna",
     "order": 151,
@@ -1887,12 +1885,12 @@
     "costumeTypeId": "idol",
     "sdAssetId": "mna-miku-00",
     "motifAssetId": "miku-00",
+    "hairAssetId": "",
+    "faceAssetId": "",
     "isUserUnavailable": false
   },
   {
     "id": "cos-mna-mizg-00",
-    "hairAssetId": "mna-base-00",
-    "faceAssetId": "mna-base-00",
     "bodyAssetId": "mna-mizg-00",
     "characterId": "char-mna",
     "order": 1,
@@ -1901,12 +1899,12 @@
     "costumeTypeId": "mizg",
     "sdAssetId": "mna-mizg-00",
     "motifAssetId": "mizg-00",
-    "isUserUnavailable": true
+    "isUserUnavailable": true,
+    "hairAssetId": "",
+    "faceAssetId": ""
   },
   {
     "id": "cos-mna-schl-00",
-    "hairAssetId": "mna-base-00",
-    "faceAssetId": "mna-base-00",
     "bodyAssetId": "mna-schl-00",
     "characterId": "char-mna",
     "order": 1,
@@ -1915,12 +1913,12 @@
     "costumeTypeId": "schl",
     "sdAssetId": "mna-schl-00",
     "motifAssetId": "schl-00",
+    "hairAssetId": "",
+    "faceAssetId": "",
     "isUserUnavailable": false
   },
   {
     "id": "cos-mna-trng-00",
-    "hairAssetId": "mna-base-00",
-    "faceAssetId": "mna-base-00",
     "bodyAssetId": "mna-trng-00",
     "characterId": "char-mna",
     "order": 1,
@@ -1929,12 +1927,12 @@
     "costumeTypeId": "trng",
     "sdAssetId": "mna-trng-00",
     "motifAssetId": "trng-00",
+    "hairAssetId": "",
+    "faceAssetId": "",
     "isUserUnavailable": false
   },
   {
     "id": "cos-ngs-akma-00",
-    "hairAssetId": "ngs-akma-00",
-    "faceAssetId": "ngs-base-00",
     "bodyAssetId": "ngs-akma-00",
     "characterId": "char-ngs",
     "order": 99,
@@ -1943,12 +1941,12 @@
     "costumeTypeId": "idol",
     "sdAssetId": "ngs-akma-00",
     "motifAssetId": "akma-00",
+    "hairAssetId": "",
+    "faceAssetId": "",
     "isUserUnavailable": false
   },
   {
     "id": "cos-ngs-casl-00",
-    "hairAssetId": "ngs-base-00",
-    "faceAssetId": "ngs-base-00",
     "bodyAssetId": "ngs-casl-00",
     "characterId": "char-ngs",
     "order": 1,
@@ -1957,12 +1955,12 @@
     "costumeTypeId": "casl",
     "sdAssetId": "ngs-casl-00",
     "motifAssetId": "casl-00",
+    "hairAssetId": "",
+    "faceAssetId": "",
     "isUserUnavailable": false
   },
   {
     "id": "cos-ngs-casl-01",
-    "hairAssetId": "ngs-base-00",
-    "faceAssetId": "ngs-base-00",
     "bodyAssetId": "ngs-casl-01",
     "characterId": "char-ngs",
     "order": 1,
@@ -1971,12 +1969,12 @@
     "costumeTypeId": "casl",
     "sdAssetId": "ngs-casl-01",
     "motifAssetId": "casl-01",
+    "hairAssetId": "",
+    "faceAssetId": "",
     "isUserUnavailable": false
   },
   {
     "id": "cos-ngs-flow-00",
-    "hairAssetId": "ngs-flow-00",
-    "faceAssetId": "ngs-base-00",
     "bodyAssetId": "ngs-flow-00",
     "characterId": "char-ngs",
     "order": 81,
@@ -1985,12 +1983,12 @@
     "costumeTypeId": "idol",
     "sdAssetId": "ngs-flow-00",
     "motifAssetId": "flow-00",
+    "hairAssetId": "",
+    "faceAssetId": "",
     "isUserUnavailable": false
   },
   {
     "id": "cos-ngs-idol-00",
-    "hairAssetId": "ngs-base-00",
-    "faceAssetId": "ngs-base-00",
     "bodyAssetId": "ngs-idol-00",
     "characterId": "char-ngs",
     "order": 1002,
@@ -1999,12 +1997,12 @@
     "costumeTypeId": "idol",
     "sdAssetId": "ngs-idol-00",
     "motifAssetId": "idol-00",
+    "hairAssetId": "",
+    "faceAssetId": "",
     "isUserUnavailable": false
   },
   {
     "id": "cos-ngs-idol-01",
-    "hairAssetId": "ngs-idol-01",
-    "faceAssetId": "ngs-base-00",
     "bodyAssetId": "ngs-idol-01",
     "characterId": "char-ngs",
     "order": 1702,
@@ -2013,12 +2011,12 @@
     "costumeTypeId": "idol",
     "sdAssetId": "ngs-idol-01",
     "motifAssetId": "idol-01",
+    "hairAssetId": "",
+    "faceAssetId": "",
     "isUserUnavailable": false
   },
   {
     "id": "cos-ngs-idol-02",
-    "hairAssetId": "ngs-base-00",
-    "faceAssetId": "ngs-base-00",
     "bodyAssetId": "ngs-idol-02",
     "characterId": "char-ngs",
     "order": 1,
@@ -2027,12 +2025,12 @@
     "costumeTypeId": "idol",
     "sdAssetId": "ngs-idol-02",
     "motifAssetId": "idol-02",
+    "hairAssetId": "",
+    "faceAssetId": "",
     "isUserUnavailable": false
   },
   {
     "id": "cos-ngs-miku-00",
-    "hairAssetId": "ngs-base-00",
-    "faceAssetId": "ngs-base-00",
     "bodyAssetId": "ngs-miku-00",
     "characterId": "char-ngs",
     "order": 136,
@@ -2041,12 +2039,12 @@
     "costumeTypeId": "idol",
     "sdAssetId": "ngs-miku-00",
     "motifAssetId": "miku-00",
+    "hairAssetId": "",
+    "faceAssetId": "",
     "isUserUnavailable": false
   },
   {
     "id": "cos-ngs-mizg-00",
-    "hairAssetId": "ngs-base-00",
-    "faceAssetId": "ngs-base-00",
     "bodyAssetId": "ngs-mizg-00",
     "characterId": "char-ngs",
     "order": 1,
@@ -2055,12 +2053,12 @@
     "costumeTypeId": "mizg",
     "sdAssetId": "ngs-mizg-00",
     "motifAssetId": "mizg-00",
-    "isUserUnavailable": true
+    "isUserUnavailable": true,
+    "hairAssetId": "",
+    "faceAssetId": ""
   },
   {
     "id": "cos-ngs-mizg-01",
-    "hairAssetId": "ngs-mizg-01",
-    "faceAssetId": "ngs-base-00",
     "bodyAssetId": "ngs-mizg-01",
     "characterId": "char-ngs",
     "order": 1,
@@ -2069,12 +2067,12 @@
     "costumeTypeId": "mizg-water-ng",
     "sdAssetId": "ngs-mizg-01",
     "motifAssetId": "mizg-01",
+    "hairAssetId": "",
+    "faceAssetId": "",
     "isUserUnavailable": false
   },
   {
     "id": "cos-ngs-mizg-02",
-    "hairAssetId": "ngs-mizg-02",
-    "faceAssetId": "ngs-base-00",
     "bodyAssetId": "ngs-mizg-02",
     "characterId": "char-ngs",
     "order": 123,
@@ -2083,12 +2081,12 @@
     "costumeTypeId": "mizg-water-ng",
     "sdAssetId": "ngs-mizg-02",
     "motifAssetId": "mizg-02",
+    "hairAssetId": "",
+    "faceAssetId": "",
     "isUserUnavailable": false
   },
   {
     "id": "cos-ngs-schl-00",
-    "hairAssetId": "ngs-base-00",
-    "faceAssetId": "ngs-base-00",
     "bodyAssetId": "ngs-schl-00",
     "characterId": "char-ngs",
     "order": 1,
@@ -2097,12 +2095,12 @@
     "costumeTypeId": "schl",
     "sdAssetId": "ngs-schl-00",
     "motifAssetId": "schl-00",
+    "hairAssetId": "",
+    "faceAssetId": "",
     "isUserUnavailable": false
   },
   {
     "id": "cos-ngs-sdam-00",
-    "hairAssetId": "ngs-sdam-00",
-    "faceAssetId": "ngs-sdam-00",
     "bodyAssetId": "ngs-sdam-00",
     "characterId": "char-ngs",
     "order": 1,
@@ -2111,12 +2109,12 @@
     "costumeTypeId": "sd-ambassador",
     "sdAssetId": "ngs-sdam-00",
     "motifAssetId": "sdam-00",
-    "isUserUnavailable": true
+    "isUserUnavailable": true,
+    "hairAssetId": "",
+    "faceAssetId": ""
   },
   {
     "id": "cos-ngs-sdpl-00",
-    "hairAssetId": "ngs-sdpl-00",
-    "faceAssetId": "ngs-sdpl-00",
     "bodyAssetId": "ngs-sdpl-00",
     "characterId": "char-ngs",
     "order": 1,
@@ -2125,12 +2123,12 @@
     "costumeTypeId": "sd-police",
     "sdAssetId": "ngs-sdpl-00",
     "motifAssetId": "sdpl-00",
-    "isUserUnavailable": true
+    "isUserUnavailable": true,
+    "hairAssetId": "",
+    "faceAssetId": ""
   },
   {
     "id": "cos-ngs-trng-00",
-    "hairAssetId": "ngs-base-00",
-    "faceAssetId": "ngs-base-00",
     "bodyAssetId": "ngs-trng-00",
     "characterId": "char-ngs",
     "order": 1,
@@ -2139,12 +2137,12 @@
     "costumeTypeId": "trng",
     "sdAssetId": "ngs-trng-00",
     "motifAssetId": "trng-00",
+    "hairAssetId": "",
+    "faceAssetId": "",
     "isUserUnavailable": false
   },
   {
     "id": "cos-rei-casl-00",
-    "hairAssetId": "rei-base-00",
-    "faceAssetId": "rei-base-00",
     "bodyAssetId": "rei-casl-00",
     "characterId": "char-rei",
     "order": 1,
@@ -2153,12 +2151,12 @@
     "costumeTypeId": "casl",
     "sdAssetId": "rei-casl-00",
     "motifAssetId": "casl-00",
+    "hairAssetId": "",
+    "faceAssetId": "",
     "isUserUnavailable": false
   },
   {
     "id": "cos-rei-casl-01",
-    "hairAssetId": "rei-base-00",
-    "faceAssetId": "rei-base-00",
     "bodyAssetId": "rei-casl-01",
     "characterId": "char-rei",
     "order": 1,
@@ -2167,12 +2165,12 @@
     "costumeTypeId": "casl",
     "sdAssetId": "rei-casl-01",
     "motifAssetId": "casl-01",
+    "hairAssetId": "",
+    "faceAssetId": "",
     "isUserUnavailable": false
   },
   {
     "id": "cos-rei-idol-00",
-    "hairAssetId": "rei-base-00",
-    "faceAssetId": "rei-base-00",
     "bodyAssetId": "rei-idol-00",
     "characterId": "char-rei",
     "order": 1008,
@@ -2181,12 +2179,12 @@
     "costumeTypeId": "idol",
     "sdAssetId": "rei-idol-00",
     "motifAssetId": "idol-00",
+    "hairAssetId": "",
+    "faceAssetId": "",
     "isUserUnavailable": false
   },
   {
     "id": "cos-rei-idol-01",
-    "hairAssetId": "rei-idol-01",
-    "faceAssetId": "rei-base-00",
     "bodyAssetId": "rei-idol-01",
     "characterId": "char-rei",
     "order": 1708,
@@ -2195,12 +2193,12 @@
     "costumeTypeId": "idol",
     "sdAssetId": "rei-idol-01",
     "motifAssetId": "idol-01",
+    "hairAssetId": "",
+    "faceAssetId": "",
     "isUserUnavailable": false
   },
   {
     "id": "cos-rei-idol-02",
-    "hairAssetId": "rei-base-00",
-    "faceAssetId": "rei-base-00",
     "bodyAssetId": "rei-idol-02",
     "characterId": "char-rei",
     "order": 1,
@@ -2209,12 +2207,12 @@
     "costumeTypeId": "idol",
     "sdAssetId": "rei-idol-02",
     "motifAssetId": "idol-02",
+    "hairAssetId": "",
+    "faceAssetId": "",
     "isUserUnavailable": false
   },
   {
     "id": "cos-rei-idol-03",
-    "hairAssetId": "rei-idol-03",
-    "faceAssetId": "rei-base-00",
     "bodyAssetId": "rei-idol-03",
     "characterId": "char-rei",
     "order": 116,
@@ -2223,12 +2221,12 @@
     "costumeTypeId": "idol",
     "sdAssetId": "rei-idol-03",
     "motifAssetId": "idol-03",
+    "hairAssetId": "",
+    "faceAssetId": "",
     "isUserUnavailable": false
   },
   {
     "id": "cos-rei-miku-00",
-    "hairAssetId": "rei-base-00",
-    "faceAssetId": "rei-base-00",
     "bodyAssetId": "rei-miku-00",
     "characterId": "char-rei",
     "order": 142,
@@ -2237,12 +2235,12 @@
     "costumeTypeId": "idol",
     "sdAssetId": "rei-miku-00",
     "motifAssetId": "miku-00",
+    "hairAssetId": "",
+    "faceAssetId": "",
     "isUserUnavailable": false
   },
   {
     "id": "cos-rei-mizg-00",
-    "hairAssetId": "rei-base-00",
-    "faceAssetId": "rei-base-00",
     "bodyAssetId": "rei-mizg-00",
     "characterId": "char-rei",
     "order": 1,
@@ -2251,12 +2249,12 @@
     "costumeTypeId": "mizg",
     "sdAssetId": "rei-mizg-00",
     "motifAssetId": "mizg-00",
-    "isUserUnavailable": true
+    "isUserUnavailable": true,
+    "hairAssetId": "",
+    "faceAssetId": ""
   },
   {
     "id": "cos-rei-mizg-01",
-    "hairAssetId": "rei-mizg-01",
-    "faceAssetId": "rei-base-00",
     "bodyAssetId": "rei-mizg-01",
     "characterId": "char-rei",
     "order": 1,
@@ -2265,12 +2263,12 @@
     "costumeTypeId": "mizg-water-ng",
     "sdAssetId": "rei-mizg-01",
     "motifAssetId": "mizg-01",
+    "hairAssetId": "",
+    "faceAssetId": "",
     "isUserUnavailable": false
   },
   {
     "id": "cos-rei-mizg-02",
-    "hairAssetId": "rei-mizg-02",
-    "faceAssetId": "rei-base-00",
     "bodyAssetId": "rei-mizg-02",
     "characterId": "char-rei",
     "order": 124,
@@ -2279,12 +2277,12 @@
     "costumeTypeId": "mizg-water-ng",
     "sdAssetId": "rei-mizg-02",
     "motifAssetId": "mizg-02",
+    "hairAssetId": "",
+    "faceAssetId": "",
     "isUserUnavailable": false
   },
   {
     "id": "cos-rei-newy-00",
-    "hairAssetId": "rei-newy-00",
-    "faceAssetId": "rei-base-00",
     "bodyAssetId": "rei-newy-00",
     "characterId": "char-rei",
     "order": 91,
@@ -2293,12 +2291,12 @@
     "costumeTypeId": "idol",
     "sdAssetId": "rei-newy-00",
     "motifAssetId": "newy-00",
+    "hairAssetId": "",
+    "faceAssetId": "",
     "isUserUnavailable": false
   },
   {
     "id": "cos-rei-onep-00",
-    "hairAssetId": "rei-onep-00",
-    "faceAssetId": "rei-base-00",
     "bodyAssetId": "rei-onep-00",
     "characterId": "char-rei",
     "order": 108,
@@ -2307,12 +2305,12 @@
     "costumeTypeId": "gene",
     "sdAssetId": "rei-onep-00",
     "motifAssetId": "onep-00",
+    "hairAssetId": "",
+    "faceAssetId": "",
     "isUserUnavailable": false
   },
   {
     "id": "cos-rei-rock-00",
-    "hairAssetId": "rei-rock-00",
-    "faceAssetId": "rei-base-00",
     "bodyAssetId": "rei-rock-00",
     "characterId": "char-rei",
     "order": 815,
@@ -2321,12 +2319,12 @@
     "costumeTypeId": "idol",
     "sdAssetId": "rei-rock-00",
     "motifAssetId": "rock-00",
+    "hairAssetId": "",
+    "faceAssetId": "",
     "isUserUnavailable": false
   },
   {
     "id": "cos-rei-schl-00",
-    "hairAssetId": "rei-base-00",
-    "faceAssetId": "rei-base-00",
     "bodyAssetId": "rei-schl-00",
     "characterId": "char-rei",
     "order": 1,
@@ -2335,12 +2333,12 @@
     "costumeTypeId": "schl",
     "sdAssetId": "rei-schl-00",
     "motifAssetId": "schl-00",
+    "hairAssetId": "",
+    "faceAssetId": "",
     "isUserUnavailable": false
   },
   {
     "id": "cos-rei-sdam-00",
-    "hairAssetId": "rei-sdam-00",
-    "faceAssetId": "rei-sdam-00",
     "bodyAssetId": "rei-sdam-00",
     "characterId": "char-rei",
     "order": 1,
@@ -2349,12 +2347,12 @@
     "costumeTypeId": "sd-ambassador",
     "sdAssetId": "rei-sdam-00",
     "motifAssetId": "sdam-00",
-    "isUserUnavailable": true
+    "isUserUnavailable": true,
+    "hairAssetId": "",
+    "faceAssetId": ""
   },
   {
     "id": "cos-rei-sdpl-00",
-    "hairAssetId": "rei-sdpl-00",
-    "faceAssetId": "rei-sdpl-00",
     "bodyAssetId": "rei-sdpl-00",
     "characterId": "char-rei",
     "order": 1,
@@ -2363,12 +2361,12 @@
     "costumeTypeId": "sd-police",
     "sdAssetId": "rei-sdpl-00",
     "motifAssetId": "sdpl-00",
-    "isUserUnavailable": true
+    "isUserUnavailable": true,
+    "hairAssetId": "",
+    "faceAssetId": ""
   },
   {
     "id": "cos-rei-trng-00",
-    "hairAssetId": "rei-base-00",
-    "faceAssetId": "rei-base-00",
     "bodyAssetId": "rei-trng-00",
     "characterId": "char-rei",
     "order": 1,
@@ -2377,12 +2375,12 @@
     "costumeTypeId": "trng",
     "sdAssetId": "rei-trng-00",
     "motifAssetId": "trng-00",
+    "hairAssetId": "",
+    "faceAssetId": "",
     "isUserUnavailable": false
   },
   {
     "id": "cos-rio-casl-00",
-    "hairAssetId": "rio-casl-00",
-    "faceAssetId": "rio-base-00",
     "bodyAssetId": "rio-casl-00",
     "characterId": "char-rio",
     "order": 1,
@@ -2391,12 +2389,12 @@
     "costumeTypeId": "casl",
     "sdAssetId": "rio-casl-00",
     "motifAssetId": "casl-00",
+    "hairAssetId": "",
+    "faceAssetId": "",
     "isUserUnavailable": false
   },
   {
     "id": "cos-rio-casl-01",
-    "hairAssetId": "rio-base-00",
-    "faceAssetId": "rio-base-00",
     "bodyAssetId": "rio-casl-01",
     "characterId": "char-rio",
     "order": 1,
@@ -2405,12 +2403,12 @@
     "costumeTypeId": "casl",
     "sdAssetId": "rio-casl-01",
     "motifAssetId": "casl-01",
+    "hairAssetId": "",
+    "faceAssetId": "",
     "isUserUnavailable": false
   },
   {
     "id": "cos-rio-fest-00",
-    "hairAssetId": "rio-fest-00",
-    "faceAssetId": "rio-base-00",
     "bodyAssetId": "rio-fest-00",
     "characterId": "char-rio",
     "order": 88,
@@ -2419,12 +2417,12 @@
     "costumeTypeId": "idol",
     "sdAssetId": "rio-fest-00",
     "motifAssetId": "fest-00",
+    "hairAssetId": "",
+    "faceAssetId": "",
     "isUserUnavailable": false
   },
   {
     "id": "cos-rio-halw-00",
-    "hairAssetId": "rio-halw-00",
-    "faceAssetId": "rio-base-00",
     "bodyAssetId": "rio-halw-00",
     "characterId": "char-rio",
     "order": 100,
@@ -2433,12 +2431,12 @@
     "costumeTypeId": "idol",
     "sdAssetId": "rio-halw-00",
     "motifAssetId": "halw-00",
+    "hairAssetId": "",
+    "faceAssetId": "",
     "isUserUnavailable": false
   },
   {
     "id": "cos-rio-idol-00",
-    "hairAssetId": "rio-idol-00",
-    "faceAssetId": "rio-base-00",
     "bodyAssetId": "rio-idol-00",
     "characterId": "char-rio",
     "order": 1014,
@@ -2447,12 +2445,12 @@
     "costumeTypeId": "idol",
     "sdAssetId": "rio-idol-00",
     "motifAssetId": "idol-00",
+    "hairAssetId": "",
+    "faceAssetId": "",
     "isUserUnavailable": false
   },
   {
     "id": "cos-rio-idol-02",
-    "hairAssetId": "rio-base-00",
-    "faceAssetId": "rio-base-00",
     "bodyAssetId": "rio-idol-02",
     "characterId": "char-rio",
     "order": 1,
@@ -2461,12 +2459,12 @@
     "costumeTypeId": "idol",
     "sdAssetId": "rio-idol-02",
     "motifAssetId": "idol-02",
+    "hairAssetId": "",
+    "faceAssetId": "",
     "isUserUnavailable": false
   },
   {
     "id": "cos-rio-kait-00",
-    "hairAssetId": "rio-kait-00",
-    "faceAssetId": "rio-base-00",
     "bodyAssetId": "rio-kait-00",
     "characterId": "char-rio",
     "order": 106,
@@ -2475,12 +2473,12 @@
     "costumeTypeId": "idol",
     "sdAssetId": "rio-kait-00",
     "motifAssetId": "kait-00",
+    "hairAssetId": "",
+    "faceAssetId": "",
     "isUserUnavailable": false
   },
   {
     "id": "cos-rio-kiok-00",
-    "hairAssetId": "rio-kiok-00",
-    "faceAssetId": "rio-base-00",
     "bodyAssetId": "rio-kiok-00",
     "characterId": "char-rio",
     "order": 140,
@@ -2489,12 +2487,12 @@
     "costumeTypeId": "idol",
     "sdAssetId": "rio-kiok-00",
     "motifAssetId": "kiok-00",
+    "hairAssetId": "",
+    "faceAssetId": "",
     "isUserUnavailable": false
   },
   {
     "id": "cos-rio-miku-00",
-    "hairAssetId": "rio-base-00",
-    "faceAssetId": "rio-base-00",
     "bodyAssetId": "rio-miku-00",
     "characterId": "char-rio",
     "order": 145,
@@ -2503,12 +2501,12 @@
     "costumeTypeId": "idol",
     "sdAssetId": "rio-miku-00",
     "motifAssetId": "miku-00",
+    "hairAssetId": "",
+    "faceAssetId": "",
     "isUserUnavailable": false
   },
   {
     "id": "cos-rio-mizg-00",
-    "hairAssetId": "rio-base-00",
-    "faceAssetId": "rio-base-00",
     "bodyAssetId": "rio-mizg-00",
     "characterId": "char-rio",
     "order": 1,
@@ -2517,12 +2515,12 @@
     "costumeTypeId": "mizg",
     "sdAssetId": "rio-mizg-00",
     "motifAssetId": "mizg-00",
-    "isUserUnavailable": true
+    "isUserUnavailable": true,
+    "hairAssetId": "",
+    "faceAssetId": ""
   },
   {
     "id": "cos-rio-mizg-01",
-    "hairAssetId": "rio-mizg-01",
-    "faceAssetId": "rio-base-00",
     "bodyAssetId": "rio-mizg-01",
     "characterId": "char-rio",
     "order": 131,
@@ -2531,12 +2529,12 @@
     "costumeTypeId": "mizg-water-ng",
     "sdAssetId": "rio-mizg-01",
     "motifAssetId": "mizg-01",
+    "hairAssetId": "",
+    "faceAssetId": "",
     "isUserUnavailable": false
   },
   {
     "id": "cos-rio-schl-00",
-    "hairAssetId": "rio-base-00",
-    "faceAssetId": "rio-base-00",
     "bodyAssetId": "rio-schl-00",
     "characterId": "char-rio",
     "order": 1,
@@ -2545,12 +2543,12 @@
     "costumeTypeId": "schl",
     "sdAssetId": "rio-schl-00",
     "motifAssetId": "schl-00",
+    "hairAssetId": "",
+    "faceAssetId": "",
     "isUserUnavailable": false
   },
   {
     "id": "cos-rio-sdam-00",
-    "hairAssetId": "rio-sdam-00",
-    "faceAssetId": "rio-sdam-00",
     "bodyAssetId": "rio-sdam-00",
     "characterId": "char-rio",
     "order": 1,
@@ -2559,12 +2557,12 @@
     "costumeTypeId": "sd-ambassador",
     "sdAssetId": "rio-sdam-00",
     "motifAssetId": "sdam-00",
-    "isUserUnavailable": true
+    "isUserUnavailable": true,
+    "hairAssetId": "",
+    "faceAssetId": ""
   },
   {
     "id": "cos-rio-sdpl-00",
-    "hairAssetId": "rio-sdpl-00",
-    "faceAssetId": "rio-sdpl-00",
     "bodyAssetId": "rio-sdpl-00",
     "characterId": "char-rio",
     "order": 1,
@@ -2573,12 +2571,12 @@
     "costumeTypeId": "sd-police",
     "sdAssetId": "rio-sdpl-00",
     "motifAssetId": "sdpl-00",
-    "isUserUnavailable": true
+    "isUserUnavailable": true,
+    "hairAssetId": "",
+    "faceAssetId": ""
   },
   {
     "id": "cos-rio-trng-00",
-    "hairAssetId": "rio-base-00",
-    "faceAssetId": "rio-base-00",
     "bodyAssetId": "rio-trng-00",
     "characterId": "char-rio",
     "order": 1,
@@ -2587,12 +2585,12 @@
     "costumeTypeId": "trng",
     "sdAssetId": "rio-trng-00",
     "motifAssetId": "trng-00",
+    "hairAssetId": "",
+    "faceAssetId": "",
     "isUserUnavailable": false
   },
   {
     "id": "cos-rio-vlnt-00",
-    "hairAssetId": "rio-vlnt-00",
-    "faceAssetId": "rio-base-00",
     "bodyAssetId": "rio-vlnt-00",
     "characterId": "char-rio",
     "order": 1,
@@ -2601,12 +2599,12 @@
     "costumeTypeId": "idol",
     "sdAssetId": "rio-vlnt-00",
     "motifAssetId": "vlnt-00",
+    "hairAssetId": "",
+    "faceAssetId": "",
     "isUserUnavailable": false
   },
   {
     "id": "cos-rui-casl-00",
-    "hairAssetId": "rui-base-00",
-    "faceAssetId": "rui-base-00",
     "bodyAssetId": "rui-casl-00",
     "characterId": "char-rui",
     "order": 1,
@@ -2615,12 +2613,12 @@
     "costumeTypeId": "casl",
     "sdAssetId": "rui-casl-00",
     "motifAssetId": "casl-00",
+    "hairAssetId": "",
+    "faceAssetId": "",
     "isUserUnavailable": false
   },
   {
     "id": "cos-rui-casl-01",
-    "hairAssetId": "rui-base-00",
-    "faceAssetId": "rui-base-00",
     "bodyAssetId": "rui-casl-01",
     "characterId": "char-rui",
     "order": 1,
@@ -2629,12 +2627,12 @@
     "costumeTypeId": "casl",
     "sdAssetId": "rui-casl-01",
     "motifAssetId": "casl-01",
+    "hairAssetId": "",
+    "faceAssetId": "",
     "isUserUnavailable": false
   },
   {
     "id": "cos-rui-date-00",
-    "hairAssetId": "rui-date-00",
-    "faceAssetId": "rui-base-00",
     "bodyAssetId": "rui-date-00",
     "characterId": "char-rui",
     "order": 112,
@@ -2643,12 +2641,12 @@
     "costumeTypeId": "gene",
     "sdAssetId": "rui-date-00",
     "motifAssetId": "date-00",
+    "hairAssetId": "",
+    "faceAssetId": "",
     "isUserUnavailable": false
   },
   {
     "id": "cos-rui-idol-00",
-    "hairAssetId": "rui-base-00",
-    "faceAssetId": "rui-base-00",
     "bodyAssetId": "rui-idol-00",
     "characterId": "char-rui",
     "order": 1011,
@@ -2657,12 +2655,12 @@
     "costumeTypeId": "idol",
     "sdAssetId": "rui-idol-00",
     "motifAssetId": "idol-00",
+    "hairAssetId": "",
+    "faceAssetId": "",
     "isUserUnavailable": false
   },
   {
     "id": "cos-rui-idol-02",
-    "hairAssetId": "rui-base-00",
-    "faceAssetId": "rui-base-00",
     "bodyAssetId": "rui-idol-02",
     "characterId": "char-rui",
     "order": 1,
@@ -2671,12 +2669,12 @@
     "costumeTypeId": "idol",
     "sdAssetId": "rui-idol-02",
     "motifAssetId": "idol-02",
+    "hairAssetId": "",
+    "faceAssetId": "",
     "isUserUnavailable": false
   },
   {
     "id": "cos-rui-idol-03",
-    "hairAssetId": "rui-idol-03",
-    "faceAssetId": "rui-base-00",
     "bodyAssetId": "rui-idol-03",
     "characterId": "char-rui",
     "order": 178,
@@ -2685,12 +2683,12 @@
     "costumeTypeId": "idol",
     "sdAssetId": "rui-idol-03",
     "motifAssetId": "idol-03",
+    "hairAssetId": "",
+    "faceAssetId": "",
     "isUserUnavailable": false
   },
   {
     "id": "cos-rui-miku-00",
-    "hairAssetId": "rui-miku-00",
-    "faceAssetId": "rui-base-00",
     "bodyAssetId": "rui-miku-00",
     "characterId": "char-rui",
     "order": 133,
@@ -2699,12 +2697,12 @@
     "costumeTypeId": "idol",
     "sdAssetId": "rui-miku-00",
     "motifAssetId": "miku-00",
+    "hairAssetId": "",
+    "faceAssetId": "",
     "isUserUnavailable": false
   },
   {
     "id": "cos-rui-mizg-00",
-    "hairAssetId": "rui-base-00",
-    "faceAssetId": "rui-base-00",
     "bodyAssetId": "rui-mizg-00",
     "characterId": "char-rui",
     "order": 1,
@@ -2713,12 +2711,12 @@
     "costumeTypeId": "mizg",
     "sdAssetId": "rui-mizg-00",
     "motifAssetId": "mizg-00",
-    "isUserUnavailable": true
+    "isUserUnavailable": true,
+    "hairAssetId": "",
+    "faceAssetId": ""
   },
   {
     "id": "cos-rui-mizg-01",
-    "hairAssetId": "rui-mizg-01",
-    "faceAssetId": "rui-base-00",
     "bodyAssetId": "rui-mizg-01",
     "characterId": "char-rui",
     "order": 1,
@@ -2727,12 +2725,12 @@
     "costumeTypeId": "mizg-water-ng",
     "sdAssetId": "rui-mizg-01",
     "motifAssetId": "mizg-01",
+    "hairAssetId": "",
+    "faceAssetId": "",
     "isUserUnavailable": false
   },
   {
     "id": "cos-rui-schl-00",
-    "hairAssetId": "rui-base-00",
-    "faceAssetId": "rui-base-00",
     "bodyAssetId": "rui-schl-00",
     "characterId": "char-rui",
     "order": 1,
@@ -2741,12 +2739,12 @@
     "costumeTypeId": "schl",
     "sdAssetId": "rui-schl-00",
     "motifAssetId": "schl-00",
+    "hairAssetId": "",
+    "faceAssetId": "",
     "isUserUnavailable": false
   },
   {
     "id": "cos-rui-sdam-00",
-    "hairAssetId": "rui-sdam-00",
-    "faceAssetId": "rui-sdam-00",
     "bodyAssetId": "rui-sdam-00",
     "characterId": "char-rui",
     "order": 1,
@@ -2755,12 +2753,12 @@
     "costumeTypeId": "sd-ambassador",
     "sdAssetId": "rui-sdam-00",
     "motifAssetId": "sdam-00",
-    "isUserUnavailable": true
+    "isUserUnavailable": true,
+    "hairAssetId": "",
+    "faceAssetId": ""
   },
   {
     "id": "cos-rui-sdpl-00",
-    "hairAssetId": "rui-sdpl-00",
-    "faceAssetId": "rui-sdpl-00",
     "bodyAssetId": "rui-sdpl-00",
     "characterId": "char-rui",
     "order": 1,
@@ -2769,12 +2767,12 @@
     "costumeTypeId": "sd-police",
     "sdAssetId": "rui-sdpl-00",
     "motifAssetId": "sdpl-00",
-    "isUserUnavailable": true
+    "isUserUnavailable": true,
+    "hairAssetId": "",
+    "faceAssetId": ""
   },
   {
     "id": "cos-rui-trng-00",
-    "hairAssetId": "rui-base-00",
-    "faceAssetId": "rui-base-00",
     "bodyAssetId": "rui-trng-00",
     "characterId": "char-rui",
     "order": 1,
@@ -2783,12 +2781,12 @@
     "costumeTypeId": "trng",
     "sdAssetId": "rui-trng-00",
     "motifAssetId": "trng-00",
+    "hairAssetId": "",
+    "faceAssetId": "",
     "isUserUnavailable": false
   },
   {
     "id": "cos-rui-xmas-00",
-    "hairAssetId": "rui-xmas-00",
-    "faceAssetId": "rui-base-00",
     "bodyAssetId": "rui-xmas-00",
     "characterId": "char-rui",
     "order": 83,
@@ -2797,12 +2795,12 @@
     "costumeTypeId": "idol",
     "sdAssetId": "rui-xmas-00",
     "motifAssetId": "xmas-00",
+    "hairAssetId": "",
+    "faceAssetId": "",
     "isUserUnavailable": false
   },
   {
     "id": "cos-rui-yuru-00",
-    "hairAssetId": "rui-yuru-00",
-    "faceAssetId": "rui-base-00",
     "bodyAssetId": "rui-yuru-00",
     "characterId": "char-rui",
     "order": 1,
@@ -2811,12 +2809,12 @@
     "costumeTypeId": "idol",
     "sdAssetId": "rui-yuru-00",
     "motifAssetId": "casl-01",
+    "hairAssetId": "",
+    "faceAssetId": "",
     "isUserUnavailable": false
   },
   {
     "id": "cos-ski-casl-00",
-    "hairAssetId": "ski-base-00",
-    "faceAssetId": "ski-base-00",
     "bodyAssetId": "ski-casl-00",
     "characterId": "char-ski",
     "order": 1,
@@ -2825,12 +2823,12 @@
     "costumeTypeId": "casl",
     "sdAssetId": "ski-casl-00",
     "motifAssetId": "casl-00",
+    "hairAssetId": "",
+    "faceAssetId": "",
     "isUserUnavailable": false
   },
   {
     "id": "cos-ski-casl-01",
-    "hairAssetId": "ski-base-00",
-    "faceAssetId": "ski-base-00",
     "bodyAssetId": "ski-casl-01",
     "characterId": "char-ski",
     "order": 1,
@@ -2839,12 +2837,12 @@
     "costumeTypeId": "casl",
     "sdAssetId": "ski-casl-01",
     "motifAssetId": "casl-01",
+    "hairAssetId": "",
+    "faceAssetId": "",
     "isUserUnavailable": false
   },
   {
     "id": "cos-ski-chsk-00",
-    "hairAssetId": "ski-chsk-00",
-    "faceAssetId": "ski-base-00",
     "bodyAssetId": "ski-chsk-00",
     "characterId": "char-ski",
     "order": 110,
@@ -2853,12 +2851,12 @@
     "costumeTypeId": "idol",
     "sdAssetId": "ski-chsk-00",
     "motifAssetId": "chsk-00",
+    "hairAssetId": "",
+    "faceAssetId": "",
     "isUserUnavailable": false
   },
   {
     "id": "cos-ski-idol-00",
-    "hairAssetId": "ski-base-00",
-    "faceAssetId": "ski-base-00",
     "bodyAssetId": "ski-idol-00",
     "characterId": "char-ski",
     "order": 1005,
@@ -2867,12 +2865,12 @@
     "costumeTypeId": "idol",
     "sdAssetId": "ski-idol-00",
     "motifAssetId": "idol-00",
+    "hairAssetId": "",
+    "faceAssetId": "",
     "isUserUnavailable": false
   },
   {
     "id": "cos-ski-idol-01",
-    "hairAssetId": "ski-idol-01",
-    "faceAssetId": "ski-base-00",
     "bodyAssetId": "ski-idol-01",
     "characterId": "char-ski",
     "order": 1705,
@@ -2881,12 +2879,12 @@
     "costumeTypeId": "idol",
     "sdAssetId": "ski-idol-01",
     "motifAssetId": "idol-01",
+    "hairAssetId": "",
+    "faceAssetId": "",
     "isUserUnavailable": false
   },
   {
     "id": "cos-ski-idol-02",
-    "hairAssetId": "ski-base-00",
-    "faceAssetId": "ski-base-00",
     "bodyAssetId": "ski-idol-02",
     "characterId": "char-ski",
     "order": 1,
@@ -2895,12 +2893,12 @@
     "costumeTypeId": "idol",
     "sdAssetId": "ski-idol-02",
     "motifAssetId": "idol-02",
+    "hairAssetId": "",
+    "faceAssetId": "",
     "isUserUnavailable": false
   },
   {
     "id": "cos-ski-kifj-00",
-    "hairAssetId": "ski-kifj-00",
-    "faceAssetId": "ski-base-00",
     "bodyAssetId": "ski-kifj-00",
     "characterId": "char-ski",
     "order": 815,
@@ -2909,12 +2907,12 @@
     "costumeTypeId": "idol",
     "sdAssetId": "ski-kifj-00",
     "motifAssetId": "kifj-00",
+    "hairAssetId": "",
+    "faceAssetId": "",
     "isUserUnavailable": false
   },
   {
     "id": "cos-ski-miku-00",
-    "hairAssetId": "ski-base-00",
-    "faceAssetId": "ski-base-00",
     "bodyAssetId": "ski-miku-00",
     "characterId": "char-ski",
     "order": 139,
@@ -2923,12 +2921,12 @@
     "costumeTypeId": "idol",
     "sdAssetId": "ski-miku-00",
     "motifAssetId": "miku-00",
+    "hairAssetId": "",
+    "faceAssetId": "",
     "isUserUnavailable": false
   },
   {
     "id": "cos-ski-mizg-00",
-    "hairAssetId": "ski-base-00",
-    "faceAssetId": "ski-base-00",
     "bodyAssetId": "ski-mizg-00",
     "characterId": "char-ski",
     "order": 1,
@@ -2937,12 +2935,12 @@
     "costumeTypeId": "mizg",
     "sdAssetId": "ski-mizg-00",
     "motifAssetId": "mizg-00",
-    "isUserUnavailable": true
+    "isUserUnavailable": true,
+    "hairAssetId": "",
+    "faceAssetId": ""
   },
   {
     "id": "cos-ski-mizg-01",
-    "hairAssetId": "ski-mizg-01",
-    "faceAssetId": "ski-base-00",
     "bodyAssetId": "ski-mizg-01",
     "characterId": "char-ski",
     "order": 1,
@@ -2951,12 +2949,12 @@
     "costumeTypeId": "mizg-water-ng",
     "sdAssetId": "ski-mizg-01",
     "motifAssetId": "mizg-01",
+    "hairAssetId": "",
+    "faceAssetId": "",
     "isUserUnavailable": false
   },
   {
     "id": "cos-ski-mizg-02",
-    "hairAssetId": "ski-mizg-02",
-    "faceAssetId": "ski-base-00",
     "bodyAssetId": "ski-mizg-02",
     "characterId": "char-ski",
     "order": 131,
@@ -2965,12 +2963,12 @@
     "costumeTypeId": "mizg-water-ng",
     "sdAssetId": "ski-mizg-02",
     "motifAssetId": "mizg-02",
+    "hairAssetId": "",
+    "faceAssetId": "",
     "isUserUnavailable": false
   },
   {
     "id": "cos-ski-schl-00",
-    "hairAssetId": "ski-base-00",
-    "faceAssetId": "ski-base-00",
     "bodyAssetId": "ski-schl-00",
     "characterId": "char-ski",
     "order": 1,
@@ -2979,12 +2977,12 @@
     "costumeTypeId": "schl",
     "sdAssetId": "ski-schl-00",
     "motifAssetId": "schl-00",
+    "hairAssetId": "",
+    "faceAssetId": "",
     "isUserUnavailable": false
   },
   {
     "id": "cos-ski-sdam-00",
-    "hairAssetId": "ski-sdam-00",
-    "faceAssetId": "ski-sdam-00",
     "bodyAssetId": "ski-sdam-00",
     "characterId": "char-ski",
     "order": 1,
@@ -2993,12 +2991,12 @@
     "costumeTypeId": "sd-ambassador",
     "sdAssetId": "ski-sdam-00",
     "motifAssetId": "sdam-00",
-    "isUserUnavailable": true
+    "isUserUnavailable": true,
+    "hairAssetId": "",
+    "faceAssetId": ""
   },
   {
     "id": "cos-ski-sdpl-00",
-    "hairAssetId": "ski-sdpl-00",
-    "faceAssetId": "ski-sdpl-00",
     "bodyAssetId": "ski-sdpl-00",
     "characterId": "char-ski",
     "order": 1,
@@ -3007,12 +3005,12 @@
     "costumeTypeId": "sd-police",
     "sdAssetId": "ski-sdpl-00",
     "motifAssetId": "sdpl-00",
-    "isUserUnavailable": true
+    "isUserUnavailable": true,
+    "hairAssetId": "",
+    "faceAssetId": ""
   },
   {
     "id": "cos-ski-trng-00",
-    "hairAssetId": "ski-base-00",
-    "faceAssetId": "ski-base-00",
     "bodyAssetId": "ski-trng-00",
     "characterId": "char-ski",
     "order": 1,
@@ -3021,12 +3019,12 @@
     "costumeTypeId": "trng",
     "sdAssetId": "ski-trng-00",
     "motifAssetId": "trng-00",
+    "hairAssetId": "",
+    "faceAssetId": "",
     "isUserUnavailable": false
   },
   {
     "id": "cos-ski-waso-00",
-    "hairAssetId": "ski-waso-00",
-    "faceAssetId": "ski-base-00",
     "bodyAssetId": "ski-waso-00",
     "characterId": "char-ski",
     "order": 92,
@@ -3035,12 +3033,12 @@
     "costumeTypeId": "idol",
     "sdAssetId": "ski-waso-00",
     "motifAssetId": "waso-00",
+    "hairAssetId": "",
+    "faceAssetId": "",
     "isUserUnavailable": false
   },
   {
     "id": "cos-skr-casl-00",
-    "hairAssetId": "skr-base-00",
-    "faceAssetId": "skr-base-00",
     "bodyAssetId": "skr-casl-00",
     "characterId": "char-skr",
     "order": 1,
@@ -3049,12 +3047,12 @@
     "costumeTypeId": "casl",
     "sdAssetId": "skr-casl-00",
     "motifAssetId": "casl-00",
+    "hairAssetId": "",
+    "faceAssetId": "",
     "isUserUnavailable": false
   },
   {
     "id": "cos-skr-casl-01",
-    "hairAssetId": "skr-base-00",
-    "faceAssetId": "skr-base-00",
     "bodyAssetId": "skr-casl-01",
     "characterId": "char-skr",
     "order": 1,
@@ -3063,12 +3061,12 @@
     "costumeTypeId": "casl",
     "sdAssetId": "skr-casl-01",
     "motifAssetId": "casl-01",
+    "hairAssetId": "",
+    "faceAssetId": "",
     "isUserUnavailable": false
   },
   {
     "id": "cos-skr-fest-00",
-    "hairAssetId": "skr-fest-00",
-    "faceAssetId": "skr-base-00",
     "bodyAssetId": "skr-fest-00",
     "characterId": "char-skr",
     "order": 1806,
@@ -3077,12 +3075,12 @@
     "costumeTypeId": "idol",
     "sdAssetId": "skr-fest-00",
     "motifAssetId": "fest-00",
+    "hairAssetId": "",
+    "faceAssetId": "",
     "isUserUnavailable": false
   },
   {
     "id": "cos-skr-flow-00",
-    "hairAssetId": "skr-base-00",
-    "faceAssetId": "skr-base-00",
     "bodyAssetId": "skr-flow-00",
     "characterId": "char-skr",
     "order": 163,
@@ -3091,12 +3089,12 @@
     "costumeTypeId": "idol",
     "sdAssetId": "skr-flow-00",
     "motifAssetId": "flow-00",
+    "hairAssetId": "",
+    "faceAssetId": "",
     "isUserUnavailable": false
   },
   {
     "id": "cos-skr-idol-00",
-    "hairAssetId": "skr-base-00",
-    "faceAssetId": "skr-base-00",
     "bodyAssetId": "skr-idol-00",
     "characterId": "char-skr",
     "order": 1006,
@@ -3105,12 +3103,12 @@
     "costumeTypeId": "idol",
     "sdAssetId": "skr-idol-00",
     "motifAssetId": "idol-00",
+    "hairAssetId": "",
+    "faceAssetId": "",
     "isUserUnavailable": false
   },
   {
     "id": "cos-skr-idol-01",
-    "hairAssetId": "skr-idol-01",
-    "faceAssetId": "skr-base-00",
     "bodyAssetId": "skr-idol-01",
     "characterId": "char-skr",
     "order": 1706,
@@ -3119,12 +3117,12 @@
     "costumeTypeId": "idol",
     "sdAssetId": "skr-idol-01",
     "motifAssetId": "idol-01",
+    "hairAssetId": "",
+    "faceAssetId": "",
     "isUserUnavailable": false
   },
   {
     "id": "cos-skr-idol-02",
-    "hairAssetId": "skr-base-00",
-    "faceAssetId": "skr-base-00",
     "bodyAssetId": "skr-idol-02",
     "characterId": "char-skr",
     "order": 1,
@@ -3133,12 +3131,12 @@
     "costumeTypeId": "idol",
     "sdAssetId": "skr-idol-02",
     "motifAssetId": "idol-02",
+    "hairAssetId": "",
+    "faceAssetId": "",
     "isUserUnavailable": false
   },
   {
     "id": "cos-skr-idol-03",
-    "hairAssetId": "skr-idol-03",
-    "faceAssetId": "skr-base-00",
     "bodyAssetId": "skr-idol-03",
     "characterId": "char-skr",
     "order": 114,
@@ -3147,12 +3145,12 @@
     "costumeTypeId": "idol",
     "sdAssetId": "skr-idol-03",
     "motifAssetId": "idol-03",
+    "hairAssetId": "",
+    "faceAssetId": "",
     "isUserUnavailable": false
   },
   {
     "id": "cos-skr-miku-00",
-    "hairAssetId": "skr-base-00",
-    "faceAssetId": "skr-base-00",
     "bodyAssetId": "skr-miku-00",
     "characterId": "char-skr",
     "order": 140,
@@ -3161,12 +3159,12 @@
     "costumeTypeId": "idol",
     "sdAssetId": "skr-miku-00",
     "motifAssetId": "miku-00",
+    "hairAssetId": "",
+    "faceAssetId": "",
     "isUserUnavailable": false
   },
   {
     "id": "cos-skr-mizg-00",
-    "hairAssetId": "skr-base-00",
-    "faceAssetId": "skr-base-00",
     "bodyAssetId": "skr-mizg-00",
     "characterId": "char-skr",
     "order": 1,
@@ -3175,12 +3173,12 @@
     "costumeTypeId": "mizg",
     "sdAssetId": "skr-mizg-00",
     "motifAssetId": "mizg-00",
-    "isUserUnavailable": true
+    "isUserUnavailable": true,
+    "hairAssetId": "",
+    "faceAssetId": ""
   },
   {
     "id": "cos-skr-mizg-01",
-    "hairAssetId": "skr-mizg-01",
-    "faceAssetId": "skr-base-00",
     "bodyAssetId": "skr-mizg-01",
     "characterId": "char-skr",
     "order": 1,
@@ -3189,12 +3187,12 @@
     "costumeTypeId": "mizg-water-ng",
     "sdAssetId": "skr-mizg-01",
     "motifAssetId": "mizg-01",
+    "hairAssetId": "",
+    "faceAssetId": "",
     "isUserUnavailable": false
   },
   {
     "id": "cos-skr-newy-00",
-    "hairAssetId": "skr-newy-00",
-    "faceAssetId": "skr-base-00",
     "bodyAssetId": "skr-newy-00",
     "characterId": "char-skr",
     "order": 90,
@@ -3203,12 +3201,12 @@
     "costumeTypeId": "idol",
     "sdAssetId": "skr-newy-00",
     "motifAssetId": "newy-00",
+    "hairAssetId": "",
+    "faceAssetId": "",
     "isUserUnavailable": false
   },
   {
     "id": "cos-skr-schl-00",
-    "hairAssetId": "skr-base-00",
-    "faceAssetId": "skr-base-00",
     "bodyAssetId": "skr-schl-00",
     "characterId": "char-skr",
     "order": 1,
@@ -3217,12 +3215,12 @@
     "costumeTypeId": "schl",
     "sdAssetId": "skr-schl-00",
     "motifAssetId": "schl-00",
+    "hairAssetId": "",
+    "faceAssetId": "",
     "isUserUnavailable": false
   },
   {
     "id": "cos-skr-sdam-00",
-    "hairAssetId": "skr-sdam-00",
-    "faceAssetId": "skr-sdam-00",
     "bodyAssetId": "skr-sdam-00",
     "characterId": "char-skr",
     "order": 1,
@@ -3231,12 +3229,12 @@
     "costumeTypeId": "sd-ambassador",
     "sdAssetId": "skr-sdam-00",
     "motifAssetId": "sdam-00",
-    "isUserUnavailable": true
+    "isUserUnavailable": true,
+    "hairAssetId": "",
+    "faceAssetId": ""
   },
   {
     "id": "cos-skr-sdpl-00",
-    "hairAssetId": "skr-sdpl-00",
-    "faceAssetId": "skr-sdpl-00",
     "bodyAssetId": "skr-sdpl-00",
     "characterId": "char-skr",
     "order": 1,
@@ -3245,12 +3243,12 @@
     "costumeTypeId": "sd-police",
     "sdAssetId": "skr-sdpl-00",
     "motifAssetId": "sdpl-00",
-    "isUserUnavailable": true
+    "isUserUnavailable": true,
+    "hairAssetId": "",
+    "faceAssetId": ""
   },
   {
     "id": "cos-skr-trng-00",
-    "hairAssetId": "skr-base-00",
-    "faceAssetId": "skr-base-00",
     "bodyAssetId": "skr-trng-00",
     "characterId": "char-skr",
     "order": 1,
@@ -3259,12 +3257,12 @@
     "costumeTypeId": "trng",
     "sdAssetId": "skr-trng-00",
     "motifAssetId": "trng-00",
+    "hairAssetId": "",
+    "faceAssetId": "",
     "isUserUnavailable": false
   },
   {
     "id": "cos-smr-casl-00",
-    "hairAssetId": "smr-base-00",
-    "faceAssetId": "smr-base-00",
     "bodyAssetId": "smr-casl-00",
     "characterId": "char-smr",
     "order": 1,
@@ -3273,12 +3271,12 @@
     "costumeTypeId": "casl",
     "sdAssetId": "smr-casl-00",
     "motifAssetId": "casl-00",
+    "hairAssetId": "",
+    "faceAssetId": "",
     "isUserUnavailable": false
   },
   {
     "id": "cos-smr-casl-01",
-    "hairAssetId": "smr-base-00",
-    "faceAssetId": "smr-base-00",
     "bodyAssetId": "smr-casl-01",
     "characterId": "char-smr",
     "order": 1,
@@ -3287,12 +3285,12 @@
     "costumeTypeId": "casl",
     "sdAssetId": "smr-casl-01",
     "motifAssetId": "casl-01",
+    "hairAssetId": "",
+    "faceAssetId": "",
     "isUserUnavailable": false
   },
   {
     "id": "cos-smr-fest-00",
-    "hairAssetId": "smr-fest-00",
-    "faceAssetId": "smr-base-00",
     "bodyAssetId": "smr-fest-00",
     "characterId": "char-smr",
     "order": 138,
@@ -3301,12 +3299,12 @@
     "costumeTypeId": "idol",
     "sdAssetId": "smr-fest-00",
     "motifAssetId": "fest-00",
+    "hairAssetId": "",
+    "faceAssetId": "",
     "isUserUnavailable": false
   },
   {
     "id": "cos-smr-frut-00",
-    "hairAssetId": "smr-frut-00",
-    "faceAssetId": "smr-base-00",
     "bodyAssetId": "smr-frut-00",
     "characterId": "char-smr",
     "order": 101,
@@ -3315,12 +3313,12 @@
     "costumeTypeId": "idol",
     "sdAssetId": "smr-frut-00",
     "motifAssetId": "frut-00",
+    "hairAssetId": "",
+    "faceAssetId": "",
     "isUserUnavailable": false
   },
   {
     "id": "cos-smr-idol-00",
-    "hairAssetId": "smr-idol-00",
-    "faceAssetId": "smr-base-00",
     "bodyAssetId": "smr-idol-00",
     "characterId": "char-smr",
     "order": 1013,
@@ -3329,12 +3327,12 @@
     "costumeTypeId": "idol",
     "sdAssetId": "smr-idol-00",
     "motifAssetId": "idol-00",
+    "hairAssetId": "",
+    "faceAssetId": "",
     "isUserUnavailable": false
   },
   {
     "id": "cos-smr-idol-02",
-    "hairAssetId": "smr-base-00",
-    "faceAssetId": "smr-base-00",
     "bodyAssetId": "smr-idol-02",
     "characterId": "char-smr",
     "order": 1,
@@ -3343,12 +3341,12 @@
     "costumeTypeId": "idol",
     "sdAssetId": "smr-idol-02",
     "motifAssetId": "idol-02",
+    "hairAssetId": "",
+    "faceAssetId": "",
     "isUserUnavailable": false
   },
   {
     "id": "cos-smr-idol-03",
-    "hairAssetId": "smr-idol-03",
-    "faceAssetId": "smr-base-00",
     "bodyAssetId": "smr-idol-03",
     "characterId": "char-smr",
     "order": 179,
@@ -3357,12 +3355,12 @@
     "costumeTypeId": "idol",
     "sdAssetId": "smr-idol-03",
     "motifAssetId": "idol-03",
+    "hairAssetId": "",
+    "faceAssetId": "",
     "isUserUnavailable": false
   },
   {
     "id": "cos-smr-miku-00",
-    "hairAssetId": "smr-base-00",
-    "faceAssetId": "smr-base-00",
     "bodyAssetId": "smr-miku-00",
     "characterId": "char-smr",
     "order": 149,
@@ -3371,12 +3369,12 @@
     "costumeTypeId": "idol",
     "sdAssetId": "smr-miku-00",
     "motifAssetId": "miku-00",
+    "hairAssetId": "",
+    "faceAssetId": "",
     "isUserUnavailable": false
   },
   {
     "id": "cos-smr-mizg-00",
-    "hairAssetId": "smr-base-00",
-    "faceAssetId": "smr-base-00",
     "bodyAssetId": "smr-mizg-00",
     "characterId": "char-smr",
     "order": 1,
@@ -3385,12 +3383,12 @@
     "costumeTypeId": "mizg",
     "sdAssetId": "smr-mizg-00",
     "motifAssetId": "mizg-00",
-    "isUserUnavailable": true
+    "isUserUnavailable": true,
+    "hairAssetId": "",
+    "faceAssetId": ""
   },
   {
     "id": "cos-smr-mizg-01",
-    "hairAssetId": "smr-mizg-01",
-    "faceAssetId": "smr-base-00",
     "bodyAssetId": "smr-mizg-01",
     "characterId": "char-smr",
     "order": 1,
@@ -3399,12 +3397,12 @@
     "costumeTypeId": "mizg-water-ng",
     "sdAssetId": "smr-mizg-01",
     "motifAssetId": "mizg-01",
+    "hairAssetId": "",
+    "faceAssetId": "",
     "isUserUnavailable": false
   },
   {
     "id": "cos-smr-schl-00",
-    "hairAssetId": "smr-base-00",
-    "faceAssetId": "smr-base-00",
     "bodyAssetId": "smr-schl-00",
     "characterId": "char-smr",
     "order": 1,
@@ -3413,12 +3411,12 @@
     "costumeTypeId": "schl",
     "sdAssetId": "smr-schl-00",
     "motifAssetId": "schl-00",
+    "hairAssetId": "",
+    "faceAssetId": "",
     "isUserUnavailable": false
   },
   {
     "id": "cos-smr-sdam-00",
-    "hairAssetId": "smr-sdam-00",
-    "faceAssetId": "smr-sdam-00",
     "bodyAssetId": "smr-sdam-00",
     "characterId": "char-smr",
     "order": 1,
@@ -3427,12 +3425,12 @@
     "costumeTypeId": "sd-ambassador",
     "sdAssetId": "smr-sdam-00",
     "motifAssetId": "sdam-00",
-    "isUserUnavailable": true
+    "isUserUnavailable": true,
+    "hairAssetId": "",
+    "faceAssetId": ""
   },
   {
     "id": "cos-smr-sdpl-00",
-    "hairAssetId": "smr-sdpl-00",
-    "faceAssetId": "smr-sdpl-00",
     "bodyAssetId": "smr-sdpl-00",
     "characterId": "char-smr",
     "order": 1,
@@ -3441,12 +3439,12 @@
     "costumeTypeId": "sd-police",
     "sdAssetId": "smr-sdpl-00",
     "motifAssetId": "sdpl-00",
-    "isUserUnavailable": true
+    "isUserUnavailable": true,
+    "hairAssetId": "",
+    "faceAssetId": ""
   },
   {
     "id": "cos-smr-trng-00",
-    "hairAssetId": "smr-base-00",
-    "faceAssetId": "smr-base-00",
     "bodyAssetId": "smr-trng-00",
     "characterId": "char-smr",
     "order": 1,
@@ -3455,12 +3453,12 @@
     "costumeTypeId": "trng",
     "sdAssetId": "smr-trng-00",
     "motifAssetId": "trng-00",
+    "hairAssetId": "",
+    "faceAssetId": "",
     "isUserUnavailable": false
   },
   {
     "id": "cos-smr-xmas-00",
-    "hairAssetId": "smr-xmas-00",
-    "faceAssetId": "smr-base-00",
     "bodyAssetId": "smr-xmas-00",
     "characterId": "char-smr",
     "order": 82,
@@ -3469,12 +3467,12 @@
     "costumeTypeId": "idol",
     "sdAssetId": "smr-xmas-00",
     "motifAssetId": "xmas-00",
+    "hairAssetId": "",
+    "faceAssetId": "",
     "isUserUnavailable": false
   },
   {
     "id": "cos-stm-casl-00",
-    "hairAssetId": "stm-base-00",
-    "faceAssetId": "stm-base-00",
     "bodyAssetId": "stm-casl-00",
     "characterId": "char-stm",
     "order": 9999,
@@ -3483,12 +3481,12 @@
     "costumeTypeId": "casl",
     "sdAssetId": "stm-casl-00",
     "motifAssetId": "casl-00",
-    "isUserUnavailable": true
+    "isUserUnavailable": true,
+    "hairAssetId": "",
+    "faceAssetId": ""
   },
   {
     "id": "cos-suz-anml-00",
-    "hairAssetId": "suz-anml-00",
-    "faceAssetId": "suz-base-00",
     "bodyAssetId": "suz-anml-00",
     "characterId": "char-suz",
     "order": 77,
@@ -3497,12 +3495,12 @@
     "costumeTypeId": "idol",
     "sdAssetId": "suz-anml-00",
     "motifAssetId": "anml-00",
+    "hairAssetId": "",
+    "faceAssetId": "",
     "isUserUnavailable": false
   },
   {
     "id": "cos-suz-casl-00",
-    "hairAssetId": "suz-base-00",
-    "faceAssetId": "suz-base-00",
     "bodyAssetId": "suz-casl-00",
     "characterId": "char-suz",
     "order": 1,
@@ -3511,12 +3509,12 @@
     "costumeTypeId": "casl",
     "sdAssetId": "suz-casl-00",
     "motifAssetId": "casl-00",
+    "hairAssetId": "",
+    "faceAssetId": "",
     "isUserUnavailable": false
   },
   {
     "id": "cos-suz-casl-01",
-    "hairAssetId": "suz-base-00",
-    "faceAssetId": "suz-base-00",
     "bodyAssetId": "suz-casl-01",
     "characterId": "char-suz",
     "order": 1,
@@ -3525,12 +3523,12 @@
     "costumeTypeId": "casl",
     "sdAssetId": "suz-casl-01",
     "motifAssetId": "casl-01",
+    "hairAssetId": "",
+    "faceAssetId": "",
     "isUserUnavailable": false
   },
   {
     "id": "cos-suz-idol-00",
-    "hairAssetId": "suz-base-00",
-    "faceAssetId": "suz-base-00",
     "bodyAssetId": "suz-idol-00",
     "characterId": "char-suz",
     "order": 1004,
@@ -3539,12 +3537,12 @@
     "costumeTypeId": "idol",
     "sdAssetId": "suz-idol-00",
     "motifAssetId": "idol-00",
+    "hairAssetId": "",
+    "faceAssetId": "",
     "isUserUnavailable": false
   },
   {
     "id": "cos-suz-idol-01",
-    "hairAssetId": "suz-idol-01",
-    "faceAssetId": "suz-base-00",
     "bodyAssetId": "suz-idol-01",
     "characterId": "char-suz",
     "order": 1704,
@@ -3553,12 +3551,12 @@
     "costumeTypeId": "idol",
     "sdAssetId": "suz-idol-01",
     "motifAssetId": "idol-01",
+    "hairAssetId": "",
+    "faceAssetId": "",
     "isUserUnavailable": false
   },
   {
     "id": "cos-suz-idol-02",
-    "hairAssetId": "suz-base-00",
-    "faceAssetId": "suz-base-00",
     "bodyAssetId": "suz-idol-02",
     "characterId": "char-suz",
     "order": 1,
@@ -3567,12 +3565,12 @@
     "costumeTypeId": "idol",
     "sdAssetId": "suz-idol-02",
     "motifAssetId": "idol-02",
+    "hairAssetId": "",
+    "faceAssetId": "",
     "isUserUnavailable": false
   },
   {
     "id": "cos-suz-miku-00",
-    "hairAssetId": "suz-base-00",
-    "faceAssetId": "suz-base-00",
     "bodyAssetId": "suz-miku-00",
     "characterId": "char-suz",
     "order": 138,
@@ -3581,12 +3579,12 @@
     "costumeTypeId": "idol",
     "sdAssetId": "suz-miku-00",
     "motifAssetId": "miku-00",
+    "hairAssetId": "",
+    "faceAssetId": "",
     "isUserUnavailable": false
   },
   {
     "id": "cos-suz-mizg-00",
-    "hairAssetId": "suz-base-00",
-    "faceAssetId": "suz-base-00",
     "bodyAssetId": "suz-mizg-00",
     "characterId": "char-suz",
     "order": 1,
@@ -3595,12 +3593,12 @@
     "costumeTypeId": "mizg",
     "sdAssetId": "suz-mizg-00",
     "motifAssetId": "mizg-00",
-    "isUserUnavailable": true
+    "isUserUnavailable": true,
+    "hairAssetId": "",
+    "faceAssetId": ""
   },
   {
     "id": "cos-suz-mizg-01",
-    "hairAssetId": "suz-mizg-01",
-    "faceAssetId": "suz-base-00",
     "bodyAssetId": "suz-mizg-01",
     "characterId": "char-suz",
     "order": 1,
@@ -3609,12 +3607,12 @@
     "costumeTypeId": "mizg-water-ng",
     "sdAssetId": "suz-mizg-01",
     "motifAssetId": "mizg-01",
+    "hairAssetId": "",
+    "faceAssetId": "",
     "isUserUnavailable": false
   },
   {
     "id": "cos-suz-mizg-02",
-    "hairAssetId": "suz-base-00",
-    "faceAssetId": "suz-base-00",
     "bodyAssetId": "suz-mizg-02",
     "characterId": "char-suz",
     "order": 126,
@@ -3623,12 +3621,12 @@
     "costumeTypeId": "mizg-water-ng",
     "sdAssetId": "suz-mizg-02",
     "motifAssetId": "mizg-02",
+    "hairAssetId": "",
+    "faceAssetId": "",
     "isUserUnavailable": false
   },
   {
     "id": "cos-suz-onep-00",
-    "hairAssetId": "suz-onep-00",
-    "faceAssetId": "suz-base-00",
     "bodyAssetId": "suz-onep-00",
     "characterId": "char-suz",
     "order": 107,
@@ -3637,12 +3635,12 @@
     "costumeTypeId": "gene",
     "sdAssetId": "suz-onep-00",
     "motifAssetId": "onep-00",
+    "hairAssetId": "",
+    "faceAssetId": "",
     "isUserUnavailable": false
   },
   {
     "id": "cos-suz-schl-00",
-    "hairAssetId": "suz-base-00",
-    "faceAssetId": "suz-base-00",
     "bodyAssetId": "suz-schl-00",
     "characterId": "char-suz",
     "order": 1,
@@ -3651,12 +3649,12 @@
     "costumeTypeId": "schl",
     "sdAssetId": "suz-schl-00",
     "motifAssetId": "schl-00",
+    "hairAssetId": "",
+    "faceAssetId": "",
     "isUserUnavailable": false
   },
   {
     "id": "cos-suz-sdam-00",
-    "hairAssetId": "suz-sdam-00",
-    "faceAssetId": "suz-sdam-00",
     "bodyAssetId": "suz-sdam-00",
     "characterId": "char-suz",
     "order": 1,
@@ -3665,12 +3663,12 @@
     "costumeTypeId": "sd-ambassador",
     "sdAssetId": "suz-sdam-00",
     "motifAssetId": "sdam-00",
-    "isUserUnavailable": true
+    "isUserUnavailable": true,
+    "hairAssetId": "",
+    "faceAssetId": ""
   },
   {
     "id": "cos-suz-sdpl-00",
-    "hairAssetId": "suz-sdpl-00",
-    "faceAssetId": "suz-sdpl-00",
     "bodyAssetId": "suz-sdpl-00",
     "characterId": "char-suz",
     "order": 1,
@@ -3679,12 +3677,12 @@
     "costumeTypeId": "sd-police",
     "sdAssetId": "suz-sdpl-00",
     "motifAssetId": "sdpl-00",
-    "isUserUnavailable": true
+    "isUserUnavailable": true,
+    "hairAssetId": "",
+    "faceAssetId": ""
   },
   {
     "id": "cos-suz-seik-00",
-    "hairAssetId": "suz-seik-00",
-    "faceAssetId": "suz-base-00",
     "bodyAssetId": "suz-seik-00",
     "characterId": "char-suz",
     "order": 135,
@@ -3693,12 +3691,12 @@
     "costumeTypeId": "idol",
     "sdAssetId": "suz-seik-00",
     "motifAssetId": "seik-00",
+    "hairAssetId": "",
+    "faceAssetId": "",
     "isUserUnavailable": false
   },
   {
     "id": "cos-suz-trng-00",
-    "hairAssetId": "suz-base-00",
-    "faceAssetId": "suz-base-00",
     "bodyAssetId": "suz-trng-00",
     "characterId": "char-suz",
     "order": 1,
@@ -3707,12 +3705,12 @@
     "costumeTypeId": "trng",
     "sdAssetId": "suz-trng-00",
     "motifAssetId": "trng-00",
+    "hairAssetId": "",
+    "faceAssetId": "",
     "isUserUnavailable": false
   },
   {
     "id": "cos-szk-casl-00",
-    "hairAssetId": "szk-base-00",
-    "faceAssetId": "szk-base-00",
     "bodyAssetId": "szk-casl-00",
     "characterId": "char-szk",
     "order": 1,
@@ -3721,12 +3719,12 @@
     "costumeTypeId": "casl",
     "sdAssetId": "szk-casl-00",
     "motifAssetId": "casl-00",
+    "hairAssetId": "",
+    "faceAssetId": "",
     "isUserUnavailable": false
   },
   {
     "id": "cos-szk-casl-01",
-    "hairAssetId": "szk-base-00",
-    "faceAssetId": "szk-base-00",
     "bodyAssetId": "szk-casl-01",
     "characterId": "char-szk",
     "order": 1,
@@ -3735,12 +3733,12 @@
     "costumeTypeId": "casl",
     "sdAssetId": "szk-casl-01",
     "motifAssetId": "casl-01",
+    "hairAssetId": "",
+    "faceAssetId": "",
     "isUserUnavailable": false
   },
   {
     "id": "cos-szk-chna-00",
-    "hairAssetId": "szk-chna-00",
-    "faceAssetId": "szk-base-00",
     "bodyAssetId": "szk-chna-00",
     "characterId": "char-szk",
     "order": 80,
@@ -3749,12 +3747,12 @@
     "costumeTypeId": "idol",
     "sdAssetId": "szk-chna-00",
     "motifAssetId": "chna-00",
+    "hairAssetId": "",
+    "faceAssetId": "",
     "isUserUnavailable": false
   },
   {
     "id": "cos-szk-flow-00",
-    "hairAssetId": "szk-flow-00",
-    "faceAssetId": "szk-base-00",
     "bodyAssetId": "szk-flow-00",
     "characterId": "char-szk",
     "order": 162,
@@ -3763,12 +3761,12 @@
     "costumeTypeId": "idol",
     "sdAssetId": "szk-flow-00",
     "motifAssetId": "flow-00",
+    "hairAssetId": "",
+    "faceAssetId": "",
     "isUserUnavailable": false
   },
   {
     "id": "cos-szk-idol-00",
-    "hairAssetId": "szk-base-00",
-    "faceAssetId": "szk-base-00",
     "bodyAssetId": "szk-idol-00",
     "characterId": "char-szk",
     "order": 1009,
@@ -3777,12 +3775,12 @@
     "costumeTypeId": "idol",
     "sdAssetId": "szk-idol-00",
     "motifAssetId": "idol-00",
+    "hairAssetId": "",
+    "faceAssetId": "",
     "isUserUnavailable": false
   },
   {
     "id": "cos-szk-idol-01",
-    "hairAssetId": "szk-idol-01",
-    "faceAssetId": "szk-base-00",
     "bodyAssetId": "szk-idol-01",
     "characterId": "char-szk",
     "order": 1709,
@@ -3791,12 +3789,12 @@
     "costumeTypeId": "idol",
     "sdAssetId": "szk-idol-01",
     "motifAssetId": "idol-01",
+    "hairAssetId": "",
+    "faceAssetId": "",
     "isUserUnavailable": false
   },
   {
     "id": "cos-szk-idol-02",
-    "hairAssetId": "szk-base-00",
-    "faceAssetId": "szk-base-00",
     "bodyAssetId": "szk-idol-02",
     "characterId": "char-szk",
     "order": 1,
@@ -3805,12 +3803,12 @@
     "costumeTypeId": "idol",
     "sdAssetId": "szk-idol-02",
     "motifAssetId": "idol-02",
+    "hairAssetId": "",
+    "faceAssetId": "",
     "isUserUnavailable": false
   },
   {
     "id": "cos-szk-idol-03",
-    "hairAssetId": "szk-idol-03",
-    "faceAssetId": "szk-base-00",
     "bodyAssetId": "szk-idol-03",
     "characterId": "char-szk",
     "order": 116,
@@ -3819,12 +3817,12 @@
     "costumeTypeId": "idol",
     "sdAssetId": "szk-idol-03",
     "motifAssetId": "idol-03",
+    "hairAssetId": "",
+    "faceAssetId": "",
     "isUserUnavailable": false
   },
   {
     "id": "cos-szk-miku-00",
-    "hairAssetId": "szk-base-00",
-    "faceAssetId": "szk-base-00",
     "bodyAssetId": "szk-miku-00",
     "characterId": "char-szk",
     "order": 143,
@@ -3833,12 +3831,12 @@
     "costumeTypeId": "idol",
     "sdAssetId": "szk-miku-00",
     "motifAssetId": "miku-00",
+    "hairAssetId": "",
+    "faceAssetId": "",
     "isUserUnavailable": false
   },
   {
     "id": "cos-szk-mizg-00",
-    "hairAssetId": "szk-base-00",
-    "faceAssetId": "szk-base-00",
     "bodyAssetId": "szk-mizg-00",
     "characterId": "char-szk",
     "order": 1,
@@ -3847,12 +3845,12 @@
     "costumeTypeId": "mizg",
     "sdAssetId": "szk-mizg-00",
     "motifAssetId": "mizg-00",
-    "isUserUnavailable": true
+    "isUserUnavailable": true,
+    "hairAssetId": "",
+    "faceAssetId": ""
   },
   {
     "id": "cos-szk-mizg-01",
-    "hairAssetId": "szk-base-00",
-    "faceAssetId": "szk-base-00",
     "bodyAssetId": "szk-mizg-01",
     "characterId": "char-szk",
     "order": 1,
@@ -3861,12 +3859,12 @@
     "costumeTypeId": "mizg-water-ng",
     "sdAssetId": "szk-mizg-01",
     "motifAssetId": "mizg-01",
+    "hairAssetId": "",
+    "faceAssetId": "",
     "isUserUnavailable": false
   },
   {
     "id": "cos-szk-newy-00",
-    "hairAssetId": "szk-newy-00",
-    "faceAssetId": "szk-base-00",
     "bodyAssetId": "szk-newy-00",
     "characterId": "char-szk",
     "order": 93,
@@ -3875,12 +3873,12 @@
     "costumeTypeId": "idol",
     "sdAssetId": "szk-newy-00",
     "motifAssetId": "newy-00",
+    "hairAssetId": "",
+    "faceAssetId": "",
     "isUserUnavailable": false
   },
   {
     "id": "cos-szk-rock-00",
-    "hairAssetId": "szk-rock-00",
-    "faceAssetId": "szk-base-00",
     "bodyAssetId": "szk-rock-00",
     "characterId": "char-szk",
     "order": 136,
@@ -3889,12 +3887,12 @@
     "costumeTypeId": "idol",
     "sdAssetId": "szk-rock-00",
     "motifAssetId": "rock-00",
+    "hairAssetId": "",
+    "faceAssetId": "",
     "isUserUnavailable": false
   },
   {
     "id": "cos-szk-schl-00",
-    "hairAssetId": "szk-base-00",
-    "faceAssetId": "szk-base-00",
     "bodyAssetId": "szk-schl-00",
     "characterId": "char-szk",
     "order": 1,
@@ -3903,12 +3901,12 @@
     "costumeTypeId": "schl",
     "sdAssetId": "szk-schl-00",
     "motifAssetId": "schl-00",
+    "hairAssetId": "",
+    "faceAssetId": "",
     "isUserUnavailable": false
   },
   {
     "id": "cos-szk-sdam-00",
-    "hairAssetId": "szk-sdam-00",
-    "faceAssetId": "szk-sdam-00",
     "bodyAssetId": "szk-sdam-00",
     "characterId": "char-szk",
     "order": 1,
@@ -3917,12 +3915,12 @@
     "costumeTypeId": "sd-ambassador",
     "sdAssetId": "szk-sdam-00",
     "motifAssetId": "sdam-00",
-    "isUserUnavailable": true
+    "isUserUnavailable": true,
+    "hairAssetId": "",
+    "faceAssetId": ""
   },
   {
     "id": "cos-szk-sdpl-00",
-    "hairAssetId": "szk-sdpl-00",
-    "faceAssetId": "szk-sdpl-00",
     "bodyAssetId": "szk-sdpl-00",
     "characterId": "char-szk",
     "order": 1,
@@ -3931,12 +3929,12 @@
     "costumeTypeId": "sd-police",
     "sdAssetId": "szk-sdpl-00",
     "motifAssetId": "sdpl-00",
-    "isUserUnavailable": true
+    "isUserUnavailable": true,
+    "hairAssetId": "",
+    "faceAssetId": ""
   },
   {
     "id": "cos-szk-trng-00",
-    "hairAssetId": "szk-base-00",
-    "faceAssetId": "szk-base-00",
     "bodyAssetId": "szk-trng-00",
     "characterId": "char-szk",
     "order": 1,
@@ -3945,12 +3943,12 @@
     "costumeTypeId": "trng",
     "sdAssetId": "szk-trng-00",
     "motifAssetId": "trng-00",
+    "hairAssetId": "",
+    "faceAssetId": "",
     "isUserUnavailable": false
   },
   {
     "id": "cos-szk-yuru-00",
-    "hairAssetId": "szk-yuru-00",
-    "faceAssetId": "szk-base-00",
     "bodyAssetId": "szk-yuru-00",
     "characterId": "char-szk",
     "order": 98,
@@ -3959,12 +3957,12 @@
     "costumeTypeId": "idol",
     "sdAssetId": "szk-yuru-00",
     "motifAssetId": "yuru-00",
+    "hairAssetId": "",
+    "faceAssetId": "",
     "isUserUnavailable": false
   },
   {
     "id": "cos-vns-casl-00",
-    "hairAssetId": "stm-base-00",
-    "faceAssetId": "stm-base-00",
     "bodyAssetId": "stm-casl-00",
     "characterId": "char-vns",
     "order": 9999,
@@ -3973,12 +3971,12 @@
     "costumeTypeId": "casl",
     "sdAssetId": "stm-casl-00",
     "motifAssetId": "casl-00",
-    "isUserUnavailable": true
+    "isUserUnavailable": true,
+    "hairAssetId": "",
+    "faceAssetId": ""
   },
   {
     "id": "cos-yu-casl-00",
-    "hairAssetId": "yu-base-00",
-    "faceAssetId": "yu-base-00",
     "bodyAssetId": "yu-casl-00",
     "characterId": "char-yu",
     "order": 1,
@@ -3987,12 +3985,12 @@
     "costumeTypeId": "casl",
     "sdAssetId": "yu-casl-00",
     "motifAssetId": "casl-00",
+    "hairAssetId": "",
+    "faceAssetId": "",
     "isUserUnavailable": false
   },
   {
     "id": "cos-yu-casl-01",
-    "hairAssetId": "yu-base-00",
-    "faceAssetId": "yu-base-00",
     "bodyAssetId": "yu-casl-01",
     "characterId": "char-yu",
     "order": 1,
@@ -4001,12 +3999,12 @@
     "costumeTypeId": "casl",
     "sdAssetId": "yu-casl-01",
     "motifAssetId": "casl-01",
+    "hairAssetId": "",
+    "faceAssetId": "",
     "isUserUnavailable": false
   },
   {
     "id": "cos-yu-fest-00",
-    "hairAssetId": "yu-fest-00",
-    "faceAssetId": "yu-base-00",
     "bodyAssetId": "yu-fest-00",
     "characterId": "char-yu",
     "order": 137,
@@ -4015,12 +4013,12 @@
     "costumeTypeId": "idol",
     "sdAssetId": "yu-fest-00",
     "motifAssetId": "fest-00",
+    "hairAssetId": "",
+    "faceAssetId": "",
     "isUserUnavailable": false
   },
   {
     "id": "cos-yu-idol-00",
-    "hairAssetId": "yu-idol-00",
-    "faceAssetId": "yu-base-00",
     "bodyAssetId": "yu-idol-00",
     "characterId": "char-yu",
     "order": 1012,
@@ -4029,12 +4027,12 @@
     "costumeTypeId": "idol",
     "sdAssetId": "yu-idol-00",
     "motifAssetId": "idol-00",
+    "hairAssetId": "",
+    "faceAssetId": "",
     "isUserUnavailable": false
   },
   {
     "id": "cos-yu-idol-02",
-    "hairAssetId": "yu-base-00",
-    "faceAssetId": "yu-base-00",
     "bodyAssetId": "yu-idol-02",
     "characterId": "char-yu",
     "order": 1,
@@ -4043,12 +4041,12 @@
     "costumeTypeId": "idol",
     "sdAssetId": "yu-idol-02",
     "motifAssetId": "idol-02",
+    "hairAssetId": "",
+    "faceAssetId": "",
     "isUserUnavailable": false
   },
   {
     "id": "cos-yu-idol-03",
-    "hairAssetId": "yu-idol-03",
-    "faceAssetId": "yu-base-00",
     "bodyAssetId": "yu-idol-03",
     "characterId": "char-yu",
     "order": 180,
@@ -4057,12 +4055,12 @@
     "costumeTypeId": "idol",
     "sdAssetId": "yu-idol-03",
     "motifAssetId": "idol-03",
+    "hairAssetId": "",
+    "faceAssetId": "",
     "isUserUnavailable": false
   },
   {
     "id": "cos-yu-miku-00",
-    "hairAssetId": "yu-base-00",
-    "faceAssetId": "yu-base-00",
     "bodyAssetId": "yu-miku-00",
     "characterId": "char-yu",
     "order": 150,
@@ -4071,12 +4069,12 @@
     "costumeTypeId": "idol",
     "sdAssetId": "yu-miku-00",
     "motifAssetId": "miku-00",
+    "hairAssetId": "",
+    "faceAssetId": "",
     "isUserUnavailable": false
   },
   {
     "id": "cos-yu-mizg-00",
-    "hairAssetId": "yu-base-00",
-    "faceAssetId": "yu-base-00",
     "bodyAssetId": "yu-mizg-00",
     "characterId": "char-yu",
     "order": 1,
@@ -4085,12 +4083,12 @@
     "costumeTypeId": "mizg",
     "sdAssetId": "yu-mizg-00",
     "motifAssetId": "mizg-00",
-    "isUserUnavailable": true
+    "isUserUnavailable": true,
+    "hairAssetId": "",
+    "faceAssetId": ""
   },
   {
     "id": "cos-yu-mizg-01",
-    "hairAssetId": "yu-mizg-01",
-    "faceAssetId": "yu-base-00",
     "bodyAssetId": "yu-mizg-01",
     "characterId": "char-yu",
     "order": 1,
@@ -4099,12 +4097,12 @@
     "costumeTypeId": "mizg-water-ng",
     "sdAssetId": "yu-mizg-01",
     "motifAssetId": "mizg-01",
+    "hairAssetId": "",
+    "faceAssetId": "",
     "isUserUnavailable": false
   },
   {
     "id": "cos-yu-schl-00",
-    "hairAssetId": "yu-base-00",
-    "faceAssetId": "yu-base-00",
     "bodyAssetId": "yu-schl-00",
     "characterId": "char-yu",
     "order": 1,
@@ -4113,12 +4111,12 @@
     "costumeTypeId": "schl",
     "sdAssetId": "yu-schl-00",
     "motifAssetId": "schl-00",
+    "hairAssetId": "",
+    "faceAssetId": "",
     "isUserUnavailable": false
   },
   {
     "id": "cos-yu-sdam-00",
-    "hairAssetId": "yu-sdam-00",
-    "faceAssetId": "yu-sdam-00",
     "bodyAssetId": "yu-sdam-00",
     "characterId": "char-yu",
     "order": 1,
@@ -4127,12 +4125,12 @@
     "costumeTypeId": "sd-ambassador",
     "sdAssetId": "yu-sdam-00",
     "motifAssetId": "sdam-00",
-    "isUserUnavailable": true
+    "isUserUnavailable": true,
+    "hairAssetId": "",
+    "faceAssetId": ""
   },
   {
     "id": "cos-yu-sdpl-00",
-    "hairAssetId": "yu-sdpl-00",
-    "faceAssetId": "yu-sdpl-00",
     "bodyAssetId": "yu-sdpl-00",
     "characterId": "char-yu",
     "order": 1,
@@ -4141,12 +4139,12 @@
     "costumeTypeId": "sd-police",
     "sdAssetId": "yu-sdpl-00",
     "motifAssetId": "sdpl-00",
-    "isUserUnavailable": true
+    "isUserUnavailable": true,
+    "hairAssetId": "",
+    "faceAssetId": ""
   },
   {
     "id": "cos-yu-trng-00",
-    "hairAssetId": "yu-base-00",
-    "faceAssetId": "yu-base-00",
     "bodyAssetId": "yu-trng-00",
     "characterId": "char-yu",
     "order": 1,
@@ -4155,12 +4153,12 @@
     "costumeTypeId": "trng",
     "sdAssetId": "yu-trng-00",
     "motifAssetId": "trng-00",
+    "hairAssetId": "",
+    "faceAssetId": "",
     "isUserUnavailable": false
   },
   {
     "id": "cos-yu-wedd-01",
-    "hairAssetId": "yu-wedd-01",
-    "faceAssetId": "yu-base-00",
     "bodyAssetId": "yu-wedd-01",
     "characterId": "char-yu",
     "order": 119,
@@ -4169,12 +4167,12 @@
     "costumeTypeId": "idol",
     "sdAssetId": "yu-wedd-01",
     "motifAssetId": "wedd-01",
+    "hairAssetId": "",
+    "faceAssetId": "",
     "isUserUnavailable": false
   },
   {
     "id": "cos-yu-xmas-00",
-    "hairAssetId": "yu-xmas-00",
-    "faceAssetId": "yu-base-00",
     "bodyAssetId": "yu-xmas-00",
     "characterId": "char-yu",
     "order": 85,
@@ -4183,6 +4181,8 @@
     "costumeTypeId": "idol",
     "sdAssetId": "yu-xmas-00",
     "motifAssetId": "xmas-00",
+    "hairAssetId": "",
+    "faceAssetId": "",
     "isUserUnavailable": false
   }
 ]

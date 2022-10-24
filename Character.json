@@ -944,7 +944,6 @@
     "birthday": "-",
     "height": "-",
     "weight": "-",
-    "isNpc": true,
     "costumeIds": [
       "cos-koh-casl-00"
     ],
@@ -1035,6 +1034,7 @@
     "favorite": "",
     "unfavorite": "",
     "profile": "",
+    "isNpc": false,
     "color": "",
     "activityFanEventWords": [],
     "talkArrivalAdditionMotionAssetId": "",
@@ -1813,7 +1813,6 @@
     "threeSize": "ー",
     "catchphrase": "ー",
     "firstName": "ミク",
-    "isMemories": true,
     "defaultLiveCostumeId": "cos-mku-miku-00",
     "facePositionY": 700.0,
     "groupPositionX": 0.6,
@@ -1828,6 +1827,7 @@
     "isLeftHanded": false,
     "psylliumColorType": 0,
     "idiom": "",
+    "isMemories": false,
     "facePositionX": 0.0,
     "isHomeDanceTarget": false
   },
@@ -1948,7 +1948,6 @@
     "catchphrase": "さあ、アイドルの頂点へ！",
     "firstName": "麻奈",
     "idiom": "奇跡",
-    "isMemories": true,
     "defaultLiveCostumeId": "cos-mna-trng-00",
     "facePositionY": 620.0,
     "groupPositionX": 0.45,
@@ -1961,6 +1960,7 @@
     "talkArrivalAdditionMotionAssetId": "",
     "viewConditionId": "",
     "isLeftHanded": false,
+    "isMemories": false,
     "facePositionX": 0.0,
     "catchphraseColor": "",
     "isHomeDanceTarget": false
@@ -3066,7 +3066,6 @@
     "birthday": "-",
     "height": "-",
     "weight": "-",
-    "isNpc": true,
     "costumeIds": [
       "cos-stm-casl-00"
     ],
@@ -3156,6 +3155,7 @@
     "favorite": "",
     "unfavorite": "",
     "profile": "",
+    "isNpc": false,
     "color": "",
     "activityFanEventWords": [],
     "talkArrivalAdditionMotionAssetId": "",
@@ -3502,7 +3502,6 @@
     "birthday": "-",
     "height": "-",
     "weight": "-",
-    "isNpc": true,
     "costumeIds": [
       "cos-vns-casl-00"
     ],
@@ -3593,6 +3592,7 @@
     "favorite": "",
     "unfavorite": "",
     "profile": "",
+    "isNpc": false,
     "color": "",
     "activityFanEventWords": [],
     "talkArrivalAdditionMotionAssetId": "",

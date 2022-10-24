@@ -53,7 +53,6 @@
     "activityLessonPromoteEffectHours": 2,
     "activityLessonPromoteFreeLimitCount": 1,
     "functionMaintenanceMessage": "現在、この機能はメンテナンス中です",
-    "tourLiveSkipAvailable": true,
     "gvgChallengeStoneAmount": 10,
     "trainingCostumeIds": [
       "cos-ktn-trng-00",
@@ -149,9 +148,7 @@
     "photoRecipeLimit": "200",
     "photoRecipeSaleAmountLimit": 20,
     "exerciseFixedBannerNoticeId": "info-news-exercise-howto",
-    "exerciseBannerId": "banner-pr-video-21-0624-exercise",
     "backsideRankingDisplayNum": 100,
-    "backsideLiveSkipAvailable": true,
     "photoContestRankingDisplayNum": 100,
     "raceRankingDisplayNum": 1000,
     "raceDailyRankingDisplayNum": 3,
@@ -274,7 +271,10 @@
     ],
     "pvpLiveSkipAvailable": false,
     "gvgLiveSkipAvailable": false,
+    "tourLiveSkipAvailable": false,
     "tutorialActivityPromotionRewardManagerExp": 0,
-    "messageExcludeTimeStart": "0"
+    "messageExcludeTimeStart": "0",
+    "exerciseBannerId": "",
+    "backsideLiveSkipAvailable": false
   }
 ]
