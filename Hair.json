@@ -1,0 +1,4503 @@
+[
+  {
+    "id": "hair-ai-casl-00",
+    "hairAssetId": "ai-base-00",
+    "faceAssetId": "ai-base-00",
+    "sdHairAssetId": "ai-casl-00",
+    "characterId": "char-ai",
+    "wearableCostumeIds": [
+      "cos-ai-casl-00"
+    ],
+    "fittingCostumeId": "cos-ai-casl-00",
+    "order": 1,
+    "name": "ベーシックスタイル",
+    "releaseTime": "1609426800000",
+    "notWearableCostumeIds": []
+  },
+  {
+    "id": "hair-ai-casl-01",
+    "hairAssetId": "ai-base-00",
+    "faceAssetId": "ai-base-00",
+    "sdHairAssetId": "ai-casl-01",
+    "characterId": "char-ai",
+    "wearableCostumeIds": [
+      "cos-ai-casl-01"
+    ],
+    "fittingCostumeId": "cos-ai-casl-01",
+    "order": 1,
+    "name": "カジュアルスタイル",
+    "releaseTime": "1609426800000",
+    "notWearableCostumeIds": []
+  },
+  {
+    "id": "hair-ai-idol-00",
+    "hairAssetId": "ai-idol-00",
+    "faceAssetId": "ai-base-00",
+    "sdHairAssetId": "ai-idol-00",
+    "characterId": "char-ai",
+    "wearableCostumeIds": [
+      "cos-ai-idol-00"
+    ],
+    "fittingCostumeId": "cos-ai-idol-00",
+    "order": 1016,
+    "name": "ノーブルリリーズ",
+    "releaseTime": "1609426800000",
+    "notWearableCostumeIds": []
+  },
+  {
+    "id": "hair-ai-idol-02",
+    "hairAssetId": "ai-base-00",
+    "faceAssetId": "ai-base-00",
+    "sdHairAssetId": "ai-idol-02",
+    "characterId": "char-ai",
+    "wearableCostumeIds": [
+      "cos-ai-idol-02"
+    ],
+    "fittingCostumeId": "cos-ai-idol-02",
+    "order": 1,
+    "name": "フィーリングハート",
+    "releaseTime": "1609426800000",
+    "notWearableCostumeIds": []
+  },
+  {
+    "id": "hair-ai-kait-00",
+    "hairAssetId": "ai-kait-00",
+    "faceAssetId": "ai-base-00",
+    "sdHairAssetId": "ai-kait-00",
+    "characterId": "char-ai",
+    "wearableCostumeIds": [
+      "cos-ai-kait-00"
+    ],
+    "fittingCostumeId": "cos-ai-kait-00",
+    "order": 783,
+    "name": "ザ・ラストチャンス",
+    "releaseTime": "1609426800000",
+    "notWearableCostumeIds": []
+  },
+  {
+    "id": "hair-ai-miku-00",
+    "hairAssetId": "ai-base-00",
+    "faceAssetId": "ai-base-00",
+    "sdHairAssetId": "ai-miku-00",
+    "characterId": "char-ai",
+    "wearableCostumeIds": [
+      "cos-ai-miku-00"
+    ],
+    "fittingCostumeId": "cos-ai-miku-00",
+    "order": 147,
+    "name": "初音ミク：オリジナル",
+    "releaseTime": "1661914800000",
+    "notWearableCostumeIds": []
+  },
+  {
+    "id": "hair-ai-mizg-00",
+    "hairAssetId": "ai-base-00",
+    "faceAssetId": "ai-base-00",
+    "sdHairAssetId": "ai-mizg-00",
+    "characterId": "char-ai",
+    "wearableCostumeIds": [
+      "cos-ai-mizg-00"
+    ],
+    "fittingCostumeId": "cos-ai-mizg-00",
+    "order": 1,
+    "name": "トレーニング水着",
+    "releaseTime": "1609426800000",
+    "notWearableCostumeIds": []
+  },
+  {
+    "id": "hair-ai-mizg-01",
+    "hairAssetId": "ai-mizg-01",
+    "faceAssetId": "ai-base-00",
+    "sdHairAssetId": "ai-mizg-01",
+    "characterId": "char-ai",
+    "wearableCostumeIds": [
+      "cos-ai-mizg-01"
+    ],
+    "fittingCostumeId": "cos-ai-mizg-01",
+    "order": 127,
+    "name": "ブルースカイサマー",
+    "releaseTime": "1609426800000",
+    "notWearableCostumeIds": []
+  },
+  {
+    "id": "hair-ai-schl-00",
+    "hairAssetId": "ai-base-00",
+    "faceAssetId": "ai-base-00",
+    "sdHairAssetId": "ai-schl-00",
+    "characterId": "char-ai",
+    "wearableCostumeIds": [
+      "cos-ai-schl-00"
+    ],
+    "fittingCostumeId": "cos-ai-schl-00",
+    "order": 1,
+    "name": "月出高等学校",
+    "releaseTime": "1609426800000",
+    "notWearableCostumeIds": []
+  },
+  {
+    "id": "hair-ai-sdam-00",
+    "hairAssetId": "ai-sdam-00",
+    "faceAssetId": "ai-sdam-00",
+    "sdHairAssetId": "ai-sdam-00",
+    "characterId": "char-ai",
+    "wearableCostumeIds": [
+      "cos-ai-sdam-00"
+    ],
+    "fittingCostumeId": "cos-ai-sdam-00",
+    "order": 1,
+    "name": "親善大使",
+    "releaseTime": "1609426800000",
+    "notWearableCostumeIds": []
+  },
+  {
+    "id": "hair-ai-sdpl-00",
+    "hairAssetId": "ai-sdpl-00",
+    "faceAssetId": "ai-sdpl-00",
+    "sdHairAssetId": "ai-sdpl-00",
+    "characterId": "char-ai",
+    "wearableCostumeIds": [
+      "cos-ai-sdpl-00"
+    ],
+    "fittingCostumeId": "cos-ai-sdpl-00",
+    "order": 1,
+    "name": "一日署長",
+    "releaseTime": "1609426800000",
+    "notWearableCostumeIds": []
+  },
+  {
+    "id": "hair-ai-tact-00",
+    "hairAssetId": "ai-tact-00",
+    "faceAssetId": "ai-base-00",
+    "sdHairAssetId": "ai-tact-00",
+    "characterId": "char-ai",
+    "wearableCostumeIds": [
+      "cos-ai-tact-00"
+    ],
+    "fittingCostumeId": "cos-ai-tact-00",
+    "order": 113,
+    "name": "ミリタリー＆タクティカル",
+    "releaseTime": "1609426800000",
+    "notWearableCostumeIds": []
+  },
+  {
+    "id": "hair-ai-trng-00",
+    "hairAssetId": "ai-base-00",
+    "faceAssetId": "ai-base-00",
+    "sdHairAssetId": "ai-trng-00",
+    "characterId": "char-ai",
+    "wearableCostumeIds": [
+      "cos-ai-trng-00"
+    ],
+    "fittingCostumeId": "cos-ai-trng-00",
+    "order": 1,
+    "name": "トレーニングウェア",
+    "releaseTime": "1609426800000",
+    "notWearableCostumeIds": []
+  },
+  {
+    "id": "hair-ai-vlnt-00",
+    "hairAssetId": "ai-vlnt-00",
+    "faceAssetId": "ai-base-00",
+    "sdHairAssetId": "ai-vlnt-00",
+    "characterId": "char-ai",
+    "wearableCostumeIds": [
+      "cos-ai-vlnt-00"
+    ],
+    "fittingCostumeId": "cos-ai-vlnt-00",
+    "order": 94,
+    "name": "ダークネスシンパサイザー",
+    "releaseTime": "1609426800000",
+    "notWearableCostumeIds": []
+  },
+  {
+    "id": "hair-aoi-casl-00",
+    "hairAssetId": "aoi-base-00",
+    "faceAssetId": "aoi-base-00",
+    "sdHairAssetId": "aoi-casl-00",
+    "characterId": "char-aoi",
+    "wearableCostumeIds": [
+      "cos-aoi-casl-00"
+    ],
+    "fittingCostumeId": "cos-aoi-casl-00",
+    "order": 1,
+    "name": "ベーシックスタイル",
+    "releaseTime": "1609426800000",
+    "notWearableCostumeIds": []
+  },
+  {
+    "id": "hair-aoi-casl-01",
+    "hairAssetId": "aoi-base-00",
+    "faceAssetId": "aoi-base-00",
+    "sdHairAssetId": "aoi-casl-01",
+    "characterId": "char-aoi",
+    "wearableCostumeIds": [
+      "cos-aoi-casl-01"
+    ],
+    "fittingCostumeId": "cos-aoi-casl-01",
+    "order": 1,
+    "name": "カジュアルスタイル",
+    "releaseTime": "1609426800000",
+    "notWearableCostumeIds": []
+  },
+  {
+    "id": "hair-aoi-idol-00",
+    "hairAssetId": "aoi-idol-00",
+    "faceAssetId": "aoi-base-00",
+    "sdHairAssetId": "aoi-idol-00",
+    "characterId": "char-aoi",
+    "wearableCostumeIds": [
+      "cos-aoi-idol-00"
+    ],
+    "fittingCostumeId": "cos-aoi-idol-00",
+    "order": 1015,
+    "name": "ノーブルリリーズ",
+    "releaseTime": "1609426800000",
+    "notWearableCostumeIds": []
+  },
+  {
+    "id": "hair-aoi-idol-02",
+    "hairAssetId": "aoi-base-00",
+    "faceAssetId": "aoi-base-00",
+    "sdHairAssetId": "aoi-idol-02",
+    "characterId": "char-aoi",
+    "wearableCostumeIds": [
+      "cos-aoi-idol-02"
+    ],
+    "fittingCostumeId": "cos-aoi-idol-02",
+    "order": 1,
+    "name": "フィーリングハート",
+    "releaseTime": "1609426800000",
+    "notWearableCostumeIds": []
+  },
+  {
+    "id": "hair-aoi-kait-00",
+    "hairAssetId": "aoi-kait-00",
+    "faceAssetId": "aoi-base-00",
+    "sdHairAssetId": "aoi-kait-00",
+    "characterId": "char-aoi",
+    "wearableCostumeIds": [
+      "cos-aoi-kait-00"
+    ],
+    "fittingCostumeId": "cos-aoi-kait-00",
+    "order": 782,
+    "name": "ザ・ラストチャンス",
+    "releaseTime": "1609426800000",
+    "notWearableCostumeIds": []
+  },
+  {
+    "id": "hair-aoi-miku-00",
+    "hairAssetId": "aoi-base-00",
+    "faceAssetId": "aoi-base-00",
+    "sdHairAssetId": "aoi-miku-00",
+    "characterId": "char-aoi",
+    "wearableCostumeIds": [
+      "cos-aoi-miku-00"
+    ],
+    "fittingCostumeId": "cos-aoi-miku-00",
+    "order": 146,
+    "name": "初音ミク：オリジナル",
+    "releaseTime": "1661914800000",
+    "notWearableCostumeIds": []
+  },
+  {
+    "id": "hair-aoi-mizg-00",
+    "hairAssetId": "aoi-base-00",
+    "faceAssetId": "aoi-base-00",
+    "sdHairAssetId": "aoi-mizg-00",
+    "characterId": "char-aoi",
+    "wearableCostumeIds": [
+      "cos-aoi-mizg-00"
+    ],
+    "fittingCostumeId": "cos-aoi-mizg-00",
+    "order": 1,
+    "name": "トレーニング水着",
+    "releaseTime": "1609426800000",
+    "notWearableCostumeIds": []
+  },
+  {
+    "id": "hair-aoi-mizg-01",
+    "hairAssetId": "aoi-mizg-01",
+    "faceAssetId": "aoi-base-00",
+    "sdHairAssetId": "aoi-mizg-01",
+    "characterId": "char-aoi",
+    "wearableCostumeIds": [
+      "cos-aoi-mizg-01"
+    ],
+    "fittingCostumeId": "cos-aoi-mizg-01",
+    "order": 128,
+    "name": "ブルースカイサマー",
+    "releaseTime": "1609426800000",
+    "notWearableCostumeIds": []
+  },
+  {
+    "id": "hair-aoi-schl-00",
+    "hairAssetId": "aoi-base-00",
+    "faceAssetId": "aoi-base-00",
+    "sdHairAssetId": "aoi-schl-00",
+    "characterId": "char-aoi",
+    "wearableCostumeIds": [
+      "cos-aoi-schl-00"
+    ],
+    "fittingCostumeId": "cos-aoi-schl-00",
+    "order": 1,
+    "name": "月出高等学校",
+    "releaseTime": "1609426800000",
+    "notWearableCostumeIds": []
+  },
+  {
+    "id": "hair-aoi-sdam-00",
+    "hairAssetId": "aoi-sdam-00",
+    "faceAssetId": "aoi-sdam-00",
+    "sdHairAssetId": "aoi-sdam-00",
+    "characterId": "char-aoi",
+    "wearableCostumeIds": [
+      "cos-aoi-sdam-00"
+    ],
+    "fittingCostumeId": "cos-aoi-sdam-00",
+    "order": 1,
+    "name": "親善大使",
+    "releaseTime": "1609426800000",
+    "notWearableCostumeIds": []
+  },
+  {
+    "id": "hair-aoi-sdpl-00",
+    "hairAssetId": "aoi-sdpl-00",
+    "faceAssetId": "aoi-sdpl-00",
+    "sdHairAssetId": "aoi-sdpl-00",
+    "characterId": "char-aoi",
+    "wearableCostumeIds": [
+      "cos-aoi-sdpl-00"
+    ],
+    "fittingCostumeId": "cos-aoi-sdpl-00",
+    "order": 1,
+    "name": "一日署長",
+    "releaseTime": "1609426800000",
+    "notWearableCostumeIds": []
+  },
+  {
+    "id": "hair-aoi-trng-00",
+    "hairAssetId": "aoi-base-00",
+    "faceAssetId": "aoi-base-00",
+    "sdHairAssetId": "aoi-trng-00",
+    "characterId": "char-aoi",
+    "wearableCostumeIds": [
+      "cos-aoi-trng-00"
+    ],
+    "fittingCostumeId": "cos-aoi-trng-00",
+    "order": 1,
+    "name": "トレーニングウェア",
+    "releaseTime": "1609426800000",
+    "notWearableCostumeIds": []
+  },
+  {
+    "id": "hair-aoi-vlnt-00",
+    "hairAssetId": "aoi-vlnt-00",
+    "faceAssetId": "aoi-base-00",
+    "sdHairAssetId": "aoi-vlnt-00",
+    "characterId": "char-aoi",
+    "wearableCostumeIds": [
+      "cos-aoi-vlnt-00"
+    ],
+    "fittingCostumeId": "cos-aoi-vlnt-00",
+    "order": 95,
+    "name": "ダークネスシンパサイザー",
+    "releaseTime": "1609426800000",
+    "notWearableCostumeIds": []
+  },
+  {
+    "id": "hair-chs-casl-00",
+    "hairAssetId": "chs-base-00",
+    "faceAssetId": "chs-base-00",
+    "sdHairAssetId": "chs-casl-00",
+    "characterId": "char-chs",
+    "wearableCostumeIds": [
+      "cos-chs-casl-00"
+    ],
+    "fittingCostumeId": "cos-chs-casl-00",
+    "order": 1,
+    "name": "ベーシックスタイル",
+    "releaseTime": "1609426800000",
+    "notWearableCostumeIds": []
+  },
+  {
+    "id": "hair-chs-casl-01",
+    "hairAssetId": "chs-base-00",
+    "faceAssetId": "chs-base-00",
+    "sdHairAssetId": "chs-casl-01",
+    "characterId": "char-chs",
+    "wearableCostumeIds": [
+      "cos-chs-casl-01"
+    ],
+    "fittingCostumeId": "cos-chs-casl-01",
+    "order": 1,
+    "name": "カジュアルスタイル",
+    "releaseTime": "1609426800000",
+    "notWearableCostumeIds": []
+  },
+  {
+    "id": "hair-chs-chsk-00",
+    "hairAssetId": "chs-chsk-00",
+    "faceAssetId": "chs-base-00",
+    "sdHairAssetId": "chs-chsk-00",
+    "characterId": "char-chs",
+    "wearableCostumeIds": [
+      "cos-chs-chsk-00"
+    ],
+    "fittingCostumeId": "cos-chs-chsk-00",
+    "order": 109,
+    "name": "つながる心Binary",
+    "releaseTime": "1609426800000",
+    "notWearableCostumeIds": []
+  },
+  {
+    "id": "hair-chs-flow-00",
+    "hairAssetId": "chs-flow-00",
+    "faceAssetId": "chs-base-00",
+    "sdHairAssetId": "chs-flow-00",
+    "characterId": "char-chs",
+    "wearableCostumeIds": [
+      "cos-chs-flow-00"
+    ],
+    "fittingCostumeId": "cos-chs-flow-00",
+    "order": 143,
+    "name": "エーデルハイドランジア",
+    "releaseTime": "1666148400000",
+    "notWearableCostumeIds": []
+  },
+  {
+    "id": "hair-chs-idol-00",
+    "hairAssetId": "chs-base-00",
+    "faceAssetId": "chs-base-00",
+    "sdHairAssetId": "chs-idol-00",
+    "characterId": "char-chs",
+    "wearableCostumeIds": [
+      "cos-chs-idol-00"
+    ],
+    "fittingCostumeId": "cos-chs-idol-00",
+    "order": 1007,
+    "name": "アセンブルハーモニー",
+    "releaseTime": "1609426800000",
+    "notWearableCostumeIds": []
+  },
+  {
+    "id": "hair-chs-idol-01",
+    "hairAssetId": "chs-idol-01",
+    "faceAssetId": "chs-base-00",
+    "sdHairAssetId": "chs-idol-01",
+    "characterId": "char-chs",
+    "wearableCostumeIds": [
+      "cos-chs-idol-01"
+    ],
+    "fittingCostumeId": "cos-chs-idol-01",
+    "order": 1707,
+    "name": "フェアウェルマイラブリー",
+    "releaseTime": "1609426800000",
+    "notWearableCostumeIds": []
+  },
+  {
+    "id": "hair-chs-idol-02",
+    "hairAssetId": "chs-base-00",
+    "faceAssetId": "chs-base-00",
+    "sdHairAssetId": "chs-idol-02",
+    "characterId": "char-chs",
+    "wearableCostumeIds": [
+      "cos-chs-idol-02"
+    ],
+    "fittingCostumeId": "cos-chs-idol-02",
+    "order": 1,
+    "name": "フィーリングハート",
+    "releaseTime": "1609426800000",
+    "notWearableCostumeIds": []
+  },
+  {
+    "id": "hair-chs-idol-03",
+    "hairAssetId": "chs-idol-03",
+    "faceAssetId": "chs-base-00",
+    "sdHairAssetId": "chs-idol-03",
+    "characterId": "char-chs",
+    "wearableCostumeIds": [
+      "cos-chs-idol-03"
+    ],
+    "fittingCostumeId": "cos-chs-idol-03",
+    "order": 116,
+    "name": "ウィズ・ザ・サンシャイン",
+    "releaseTime": "1609426800000",
+    "notWearableCostumeIds": []
+  },
+  {
+    "id": "hair-chs-miku-00",
+    "hairAssetId": "chs-base-00",
+    "faceAssetId": "chs-base-00",
+    "sdHairAssetId": "chs-miku-00",
+    "characterId": "char-chs",
+    "wearableCostumeIds": [
+      "cos-chs-miku-00"
+    ],
+    "fittingCostumeId": "cos-chs-miku-00",
+    "order": 141,
+    "name": "初音ミク：オリジナル",
+    "releaseTime": "1661914800000",
+    "notWearableCostumeIds": []
+  },
+  {
+    "id": "hair-chs-mizg-00",
+    "hairAssetId": "chs-base-00",
+    "faceAssetId": "chs-base-00",
+    "sdHairAssetId": "chs-mizg-00",
+    "characterId": "char-chs",
+    "wearableCostumeIds": [
+      "cos-chs-mizg-00"
+    ],
+    "fittingCostumeId": "cos-chs-mizg-00",
+    "order": 1,
+    "name": "トレーニング水着",
+    "releaseTime": "1609426800000",
+    "notWearableCostumeIds": []
+  },
+  {
+    "id": "hair-chs-mizg-01",
+    "hairAssetId": "chs-mizg-01",
+    "faceAssetId": "chs-base-00",
+    "sdHairAssetId": "chs-mizg-01",
+    "characterId": "char-chs",
+    "wearableCostumeIds": [
+      "cos-chs-mizg-01"
+    ],
+    "fittingCostumeId": "cos-chs-mizg-01",
+    "order": 1,
+    "name": "サマーホリデイ",
+    "releaseTime": "1609426800000",
+    "notWearableCostumeIds": []
+  },
+  {
+    "id": "hair-chs-newy-00",
+    "hairAssetId": "chs-newy-00",
+    "faceAssetId": "chs-base-00",
+    "sdHairAssetId": "chs-newy-00",
+    "characterId": "char-chs",
+    "wearableCostumeIds": [
+      "cos-chs-newy-00"
+    ],
+    "fittingCostumeId": "cos-chs-newy-00",
+    "order": 92,
+    "name": "全力振袖・椿",
+    "releaseTime": "1641178800000",
+    "notWearableCostumeIds": []
+  },
+  {
+    "id": "hair-chs-rock-00",
+    "hairAssetId": "chs-rock-00",
+    "faceAssetId": "chs-base-00",
+    "sdHairAssetId": "chs-rock-00",
+    "characterId": "char-chs",
+    "wearableCostumeIds": [
+      "cos-chs-rock-00"
+    ],
+    "fittingCostumeId": "cos-chs-rock-00",
+    "order": 97,
+    "name": "サニーダンサブル",
+    "releaseTime": "1609426800000",
+    "notWearableCostumeIds": []
+  },
+  {
+    "id": "hair-chs-schl-00",
+    "hairAssetId": "chs-base-00",
+    "faceAssetId": "chs-base-00",
+    "sdHairAssetId": "chs-schl-00",
+    "characterId": "char-chs",
+    "wearableCostumeIds": [
+      "cos-chs-schl-00"
+    ],
+    "fittingCostumeId": "cos-chs-schl-00",
+    "order": 1,
+    "name": "光ヶ崎高等学校",
+    "releaseTime": "1609426800000",
+    "notWearableCostumeIds": []
+  },
+  {
+    "id": "hair-chs-sdam-00",
+    "hairAssetId": "chs-sdam-00",
+    "faceAssetId": "chs-sdam-00",
+    "sdHairAssetId": "chs-sdam-00",
+    "characterId": "char-chs",
+    "wearableCostumeIds": [
+      "cos-chs-sdam-00"
+    ],
+    "fittingCostumeId": "cos-chs-sdam-00",
+    "order": 1,
+    "name": "親善大使",
+    "releaseTime": "1609426800000",
+    "notWearableCostumeIds": []
+  },
+  {
+    "id": "hair-chs-sdpl-00",
+    "hairAssetId": "chs-sdpl-00",
+    "faceAssetId": "chs-sdpl-00",
+    "sdHairAssetId": "chs-sdpl-00",
+    "characterId": "char-chs",
+    "wearableCostumeIds": [
+      "cos-chs-sdpl-00"
+    ],
+    "fittingCostumeId": "cos-chs-sdpl-00",
+    "order": 1,
+    "name": "一日署長",
+    "releaseTime": "1609426800000",
+    "notWearableCostumeIds": []
+  },
+  {
+    "id": "hair-chs-seik-00",
+    "hairAssetId": "chs-seik-00",
+    "faceAssetId": "chs-base-00",
+    "sdHairAssetId": "chs-seik-00",
+    "characterId": "char-chs",
+    "wearableCostumeIds": [
+      "cos-chs-seik-00"
+    ],
+    "fittingCostumeId": "cos-chs-seik-00",
+    "order": 1807,
+    "name": "エンジェルブレッシング",
+    "releaseTime": "1609426800000",
+    "notWearableCostumeIds": []
+  },
+  {
+    "id": "hair-chs-trng-00",
+    "hairAssetId": "chs-base-00",
+    "faceAssetId": "chs-base-00",
+    "sdHairAssetId": "chs-trng-00",
+    "characterId": "char-chs",
+    "wearableCostumeIds": [
+      "cos-chs-trng-00"
+    ],
+    "fittingCostumeId": "cos-chs-trng-00",
+    "order": 1,
+    "name": "トレーニングウェア",
+    "releaseTime": "1609426800000",
+    "notWearableCostumeIds": []
+  },
+  {
+    "id": "hair-hrk-casl-00",
+    "hairAssetId": "hrk-base-00",
+    "faceAssetId": "hrk-base-00",
+    "sdHairAssetId": "hrk-casl-00",
+    "characterId": "char-hrk",
+    "wearableCostumeIds": [
+      "cos-hrk-casl-00"
+    ],
+    "fittingCostumeId": "cos-hrk-casl-00",
+    "order": 1,
+    "name": "ベーシックスタイル",
+    "releaseTime": "1609426800000",
+    "notWearableCostumeIds": []
+  },
+  {
+    "id": "hair-hrk-casl-01",
+    "hairAssetId": "hrk-base-00",
+    "faceAssetId": "hrk-base-00",
+    "sdHairAssetId": "hrk-casl-01",
+    "characterId": "char-hrk",
+    "wearableCostumeIds": [
+      "cos-hrk-casl-01"
+    ],
+    "fittingCostumeId": "cos-hrk-casl-01",
+    "order": 1,
+    "name": "カジュアルスタイル",
+    "releaseTime": "1609426800000",
+    "notWearableCostumeIds": []
+  },
+  {
+    "id": "hair-hrk-chna-00",
+    "hairAssetId": "hrk-chna-00",
+    "faceAssetId": "hrk-base-00",
+    "sdHairAssetId": "hrk-chna-00",
+    "characterId": "char-hrk",
+    "wearableCostumeIds": [
+      "cos-hrk-chna-00"
+    ],
+    "fittingCostumeId": "cos-hrk-chna-00",
+    "order": 102,
+    "name": "艶麗華衣",
+    "releaseTime": "1609426800000",
+    "notWearableCostumeIds": []
+  },
+  {
+    "id": "hair-hrk-idol-00",
+    "hairAssetId": "hrk-base-00",
+    "faceAssetId": "hrk-base-00",
+    "sdHairAssetId": "hrk-idol-00",
+    "characterId": "char-hrk",
+    "wearableCostumeIds": [
+      "cos-hrk-idol-00"
+    ],
+    "fittingCostumeId": "cos-hrk-idol-00",
+    "order": 1010,
+    "name": "アセンブルハーモニー",
+    "releaseTime": "1609426800000",
+    "notWearableCostumeIds": []
+  },
+  {
+    "id": "hair-hrk-idol-01",
+    "hairAssetId": "hrk-idol-01",
+    "faceAssetId": "hrk-base-00",
+    "sdHairAssetId": "hrk-idol-01",
+    "characterId": "char-hrk",
+    "wearableCostumeIds": [
+      "cos-hrk-idol-01"
+    ],
+    "fittingCostumeId": "cos-hrk-idol-01",
+    "order": 1710,
+    "name": "フェアウェルマイラブリー",
+    "releaseTime": "1609426800000",
+    "notWearableCostumeIds": []
+  },
+  {
+    "id": "hair-hrk-idol-02",
+    "hairAssetId": "hrk-base-00",
+    "faceAssetId": "hrk-base-00",
+    "sdHairAssetId": "hrk-idol-02",
+    "characterId": "char-hrk",
+    "wearableCostumeIds": [
+      "cos-hrk-idol-02"
+    ],
+    "fittingCostumeId": "cos-hrk-idol-02",
+    "order": 1,
+    "name": "フィーリングハート",
+    "releaseTime": "1609426800000",
+    "notWearableCostumeIds": []
+  },
+  {
+    "id": "hair-hrk-idol-03",
+    "hairAssetId": "hrk-idol-03",
+    "faceAssetId": "hrk-base-00",
+    "sdHairAssetId": "hrk-idol-03",
+    "characterId": "char-hrk",
+    "wearableCostumeIds": [
+      "cos-hrk-idol-03"
+    ],
+    "fittingCostumeId": "cos-hrk-idol-03",
+    "order": 115,
+    "name": "ウィズ・ザ・サンシャイン",
+    "releaseTime": "1609426800000",
+    "notWearableCostumeIds": []
+  },
+  {
+    "id": "hair-hrk-miku-00",
+    "hairAssetId": "hrk-base-00",
+    "faceAssetId": "hrk-base-00",
+    "sdHairAssetId": "hrk-miku-00",
+    "characterId": "char-hrk",
+    "wearableCostumeIds": [
+      "cos-hrk-miku-00"
+    ],
+    "fittingCostumeId": "cos-hrk-miku-00",
+    "order": 144,
+    "name": "初音ミク：オリジナル",
+    "releaseTime": "1661914800000",
+    "notWearableCostumeIds": []
+  },
+  {
+    "id": "hair-hrk-mizg-00",
+    "hairAssetId": "hrk-base-00",
+    "faceAssetId": "hrk-base-00",
+    "sdHairAssetId": "hrk-mizg-00",
+    "characterId": "char-hrk",
+    "wearableCostumeIds": [
+      "cos-hrk-mizg-00"
+    ],
+    "fittingCostumeId": "cos-hrk-mizg-00",
+    "order": 1,
+    "name": "トレーニング水着",
+    "releaseTime": "1609426800000",
+    "notWearableCostumeIds": []
+  },
+  {
+    "id": "hair-hrk-mizg-01",
+    "hairAssetId": "hrk-mizg-01",
+    "faceAssetId": "hrk-base-01",
+    "sdHairAssetId": "hrk-mizg-01",
+    "characterId": "char-hrk",
+    "wearableCostumeIds": [
+      "cos-hrk-mizg-01"
+    ],
+    "fittingCostumeId": "cos-hrk-mizg-01",
+    "order": 1,
+    "name": "サマーホリデイ",
+    "releaseTime": "1609426800000",
+    "notWearableCostumeIds": []
+  },
+  {
+    "id": "hair-hrk-newy-00",
+    "hairAssetId": "hrk-newy-00",
+    "faceAssetId": "hrk-base-00",
+    "sdHairAssetId": "hrk-newy-00",
+    "characterId": "char-hrk",
+    "wearableCostumeIds": [
+      "cos-hrk-newy-00"
+    ],
+    "fittingCostumeId": "cos-hrk-newy-00",
+    "order": 94,
+    "name": "全力振袖・菊",
+    "releaseTime": "1641178800000",
+    "notWearableCostumeIds": []
+  },
+  {
+    "id": "hair-hrk-schl-00",
+    "hairAssetId": "hrk-base-00",
+    "faceAssetId": "hrk-base-00",
+    "sdHairAssetId": "hrk-schl-00",
+    "characterId": "char-hrk",
+    "wearableCostumeIds": [
+      "cos-hrk-schl-00"
+    ],
+    "fittingCostumeId": "cos-hrk-schl-00",
+    "order": 1,
+    "name": "星見高等学校",
+    "releaseTime": "1609426800000",
+    "notWearableCostumeIds": []
+  },
+  {
+    "id": "hair-hrk-sdam-00",
+    "hairAssetId": "hrk-sdam-00",
+    "faceAssetId": "hrk-sdam-00",
+    "sdHairAssetId": "hrk-sdam-00",
+    "characterId": "char-hrk",
+    "wearableCostumeIds": [
+      "cos-hrk-sdam-00"
+    ],
+    "fittingCostumeId": "cos-hrk-sdam-00",
+    "order": 1,
+    "name": "親善大使",
+    "releaseTime": "1609426800000",
+    "notWearableCostumeIds": []
+  },
+  {
+    "id": "hair-hrk-sdpl-00",
+    "hairAssetId": "hrk-sdpl-00",
+    "faceAssetId": "hrk-sdpl-00",
+    "sdHairAssetId": "hrk-sdpl-00",
+    "characterId": "char-hrk",
+    "wearableCostumeIds": [
+      "cos-hrk-sdpl-00"
+    ],
+    "fittingCostumeId": "cos-hrk-sdpl-00",
+    "order": 1,
+    "name": "一日署長",
+    "releaseTime": "1609426800000",
+    "notWearableCostumeIds": []
+  },
+  {
+    "id": "hair-hrk-trng-00",
+    "hairAssetId": "hrk-base-00",
+    "faceAssetId": "hrk-base-00",
+    "sdHairAssetId": "hrk-trng-00",
+    "characterId": "char-hrk",
+    "wearableCostumeIds": [
+      "cos-hrk-trng-00"
+    ],
+    "fittingCostumeId": "cos-hrk-trng-00",
+    "order": 1,
+    "name": "トレーニングウェア",
+    "releaseTime": "1609426800000",
+    "notWearableCostumeIds": []
+  },
+  {
+    "id": "hair-hrk-xmas-00",
+    "hairAssetId": "hrk-xmas-00",
+    "faceAssetId": "hrk-base-00",
+    "sdHairAssetId": "hrk-xmas-00",
+    "characterId": "char-hrk",
+    "wearableCostumeIds": [
+      "cos-hrk-xmas-00"
+    ],
+    "fittingCostumeId": "cos-hrk-xmas-00",
+    "order": 86,
+    "name": "ホワイト・ロマンス",
+    "releaseTime": "1609426800000",
+    "notWearableCostumeIds": []
+  },
+  {
+    "id": "hair-kan-casl-00",
+    "hairAssetId": "kan-base-00",
+    "faceAssetId": "kan-base-00",
+    "sdHairAssetId": "kan-casl-00",
+    "characterId": "char-kan",
+    "wearableCostumeIds": [
+      "cos-kan-casl-00"
+    ],
+    "fittingCostumeId": "cos-kan-casl-00",
+    "order": 1,
+    "name": "ベーシックスタイル",
+    "releaseTime": "1656342000000",
+    "notWearableCostumeIds": []
+  },
+  {
+    "id": "hair-kan-idol-00",
+    "hairAssetId": "kan-idol-00",
+    "faceAssetId": "kan-base-00",
+    "sdHairAssetId": "kan-idol-00",
+    "characterId": "char-kan",
+    "wearableCostumeIds": [
+      "cos-kan-idol-00"
+    ],
+    "fittingCostumeId": "cos-kan-idol-00",
+    "order": 121,
+    "name": "レフォルムアロー",
+    "releaseTime": "1609426800000",
+    "notWearableCostumeIds": []
+  },
+  {
+    "id": "hair-kan-miku-00",
+    "hairAssetId": "kan-base-00",
+    "faceAssetId": "kan-base-00",
+    "sdHairAssetId": "kan-miku-00",
+    "characterId": "char-kan",
+    "wearableCostumeIds": [
+      "cos-kan-miku-00"
+    ],
+    "fittingCostumeId": "cos-kan-miku-00",
+    "order": 153,
+    "name": "初音ミク：オリジナル",
+    "releaseTime": "1661914800000",
+    "notWearableCostumeIds": []
+  },
+  {
+    "id": "hair-kan-mizg-00",
+    "hairAssetId": "kan-base-00",
+    "faceAssetId": "kan-base-00",
+    "sdHairAssetId": "kan-mizg-00",
+    "characterId": "char-kan",
+    "wearableCostumeIds": [
+      "cos-kan-mizg-00"
+    ],
+    "fittingCostumeId": "cos-kan-mizg-00",
+    "order": 1,
+    "name": "トレーニング水着",
+    "releaseTime": "1656342000000",
+    "notWearableCostumeIds": []
+  },
+  {
+    "id": "hair-kan-sdam-00",
+    "hairAssetId": "kan-sdam-00",
+    "faceAssetId": "kan-sdam-00",
+    "sdHairAssetId": "kan-sdam-00",
+    "characterId": "char-kan",
+    "wearableCostumeIds": [
+      "cos-kan-sdam-00"
+    ],
+    "fittingCostumeId": "cos-kan-sdam-00",
+    "order": 1,
+    "name": "親善大使",
+    "releaseTime": "1609426800000",
+    "notWearableCostumeIds": []
+  },
+  {
+    "id": "hair-kan-sdpl-00",
+    "hairAssetId": "kan-sdpl-00",
+    "faceAssetId": "kan-sdpl-00",
+    "sdHairAssetId": "kan-sdpl-00",
+    "characterId": "char-kan",
+    "wearableCostumeIds": [
+      "cos-kan-sdpl-00"
+    ],
+    "fittingCostumeId": "cos-kan-sdpl-00",
+    "order": 1,
+    "name": "一日署長",
+    "releaseTime": "1609426800000",
+    "notWearableCostumeIds": []
+  },
+  {
+    "id": "hair-kan-trng-00",
+    "hairAssetId": "kan-base-00",
+    "faceAssetId": "kan-base-00",
+    "sdHairAssetId": "kan-trng-00",
+    "characterId": "char-kan",
+    "wearableCostumeIds": [
+      "cos-kan-trng-00"
+    ],
+    "fittingCostumeId": "cos-kan-trng-00",
+    "order": 1,
+    "name": "トレーニングウェア",
+    "releaseTime": "1656342000000",
+    "notWearableCostumeIds": []
+  },
+  {
+    "id": "hair-kkr-casl-00",
+    "hairAssetId": "kkr-base-00",
+    "faceAssetId": "kkr-base-00",
+    "sdHairAssetId": "kkr-casl-00",
+    "characterId": "char-kkr",
+    "wearableCostumeIds": [
+      "cos-kkr-casl-00"
+    ],
+    "fittingCostumeId": "cos-kkr-casl-00",
+    "order": 1,
+    "name": "ベーシックスタイル",
+    "releaseTime": "1609426800000",
+    "notWearableCostumeIds": []
+  },
+  {
+    "id": "hair-kkr-casl-01",
+    "hairAssetId": "kkr-base-00",
+    "faceAssetId": "kkr-base-00",
+    "sdHairAssetId": "kkr-casl-01",
+    "characterId": "char-kkr",
+    "wearableCostumeIds": [
+      "cos-kkr-casl-01"
+    ],
+    "fittingCostumeId": "cos-kkr-casl-01",
+    "order": 1,
+    "name": "カジュアルスタイル",
+    "releaseTime": "1609426800000",
+    "notWearableCostumeIds": []
+  },
+  {
+    "id": "hair-kkr-idol-00",
+    "hairAssetId": "kkr-idol-00",
+    "faceAssetId": "kkr-base-00",
+    "sdHairAssetId": "kkr-idol-00",
+    "characterId": "char-kkr",
+    "wearableCostumeIds": [
+      "cos-kkr-idol-00"
+    ],
+    "fittingCostumeId": "cos-kkr-idol-00",
+    "order": 1017,
+    "name": "ノーブルリリーズ",
+    "releaseTime": "1609426800000",
+    "notWearableCostumeIds": []
+  },
+  {
+    "id": "hair-kkr-idol-02",
+    "hairAssetId": "kkr-base-00",
+    "faceAssetId": "kkr-base-00",
+    "sdHairAssetId": "kkr-idol-02",
+    "characterId": "char-kkr",
+    "wearableCostumeIds": [
+      "cos-kkr-idol-02"
+    ],
+    "fittingCostumeId": "cos-kkr-idol-02",
+    "order": 1,
+    "name": "フィーリングハート",
+    "releaseTime": "1609426800000",
+    "notWearableCostumeIds": []
+  },
+  {
+    "id": "hair-kkr-kait-00",
+    "hairAssetId": "kkr-kait-00",
+    "faceAssetId": "kkr-base-00",
+    "sdHairAssetId": "kkr-kait-00",
+    "characterId": "char-kkr",
+    "wearableCostumeIds": [
+      "cos-kkr-kait-00"
+    ],
+    "fittingCostumeId": "cos-kkr-kait-00",
+    "order": 164,
+    "name": "ザ・ラストチャンス",
+    "releaseTime": "1665111600000",
+    "notWearableCostumeIds": []
+  },
+  {
+    "id": "hair-kkr-miku-00",
+    "hairAssetId": "kkr-base-00",
+    "faceAssetId": "kkr-base-00",
+    "sdHairAssetId": "kkr-miku-00",
+    "characterId": "char-kkr",
+    "wearableCostumeIds": [
+      "cos-kkr-miku-00"
+    ],
+    "fittingCostumeId": "cos-kkr-miku-00",
+    "order": 148,
+    "name": "初音ミク：オリジナル",
+    "releaseTime": "1661914800000",
+    "notWearableCostumeIds": []
+  },
+  {
+    "id": "hair-kkr-mizg-00",
+    "hairAssetId": "kkr-base-00",
+    "faceAssetId": "kkr-base-00",
+    "sdHairAssetId": "kkr-mizg-00",
+    "characterId": "char-kkr",
+    "wearableCostumeIds": [
+      "cos-kkr-mizg-00"
+    ],
+    "fittingCostumeId": "cos-kkr-mizg-00",
+    "order": 1,
+    "name": "トレーニング水着",
+    "releaseTime": "1609426800000",
+    "notWearableCostumeIds": []
+  },
+  {
+    "id": "hair-kkr-mizg-01",
+    "hairAssetId": "kkr-mizg-01",
+    "faceAssetId": "kkr-base-00",
+    "sdHairAssetId": "kkr-mizg-01",
+    "characterId": "char-kkr",
+    "wearableCostumeIds": [
+      "cos-kkr-mizg-01"
+    ],
+    "fittingCostumeId": "cos-kkr-mizg-01",
+    "order": 130,
+    "name": "ブルースカイサマー",
+    "releaseTime": "1609426800000",
+    "notWearableCostumeIds": []
+  },
+  {
+    "id": "hair-kkr-schl-00",
+    "hairAssetId": "kkr-base-00",
+    "faceAssetId": "kkr-base-00",
+    "sdHairAssetId": "kkr-schl-00",
+    "characterId": "char-kkr",
+    "wearableCostumeIds": [
+      "cos-kkr-schl-00"
+    ],
+    "fittingCostumeId": "cos-kkr-schl-00",
+    "order": 1,
+    "name": "麗葉女学院中等部",
+    "releaseTime": "1609426800000",
+    "notWearableCostumeIds": []
+  },
+  {
+    "id": "hair-kkr-sdam-00",
+    "hairAssetId": "kkr-sdam-00",
+    "faceAssetId": "kkr-sdam-00",
+    "sdHairAssetId": "kkr-sdam-00",
+    "characterId": "char-kkr",
+    "wearableCostumeIds": [
+      "cos-kkr-sdam-00"
+    ],
+    "fittingCostumeId": "cos-kkr-sdam-00",
+    "order": 1,
+    "name": "親善大使",
+    "releaseTime": "1609426800000",
+    "notWearableCostumeIds": []
+  },
+  {
+    "id": "hair-kkr-sdpl-00",
+    "hairAssetId": "kkr-sdpl-00",
+    "faceAssetId": "kkr-sdpl-00",
+    "sdHairAssetId": "kkr-sdpl-00",
+    "characterId": "char-kkr",
+    "wearableCostumeIds": [
+      "cos-kkr-sdpl-00"
+    ],
+    "fittingCostumeId": "cos-kkr-sdpl-00",
+    "order": 1,
+    "name": "一日署長",
+    "releaseTime": "1609426800000",
+    "notWearableCostumeIds": []
+  },
+  {
+    "id": "hair-kkr-seik-00",
+    "hairAssetId": "kkr-seik-00",
+    "faceAssetId": "kkr-base-00",
+    "sdHairAssetId": "kkr-seik-00",
+    "characterId": "char-kkr",
+    "wearableCostumeIds": [
+      "cos-kkr-seik-00"
+    ],
+    "fittingCostumeId": "cos-kkr-seik-00",
+    "order": 1817,
+    "name": "エンジェルブレッシング",
+    "releaseTime": "1609426800000",
+    "notWearableCostumeIds": []
+  },
+  {
+    "id": "hair-kkr-trng-00",
+    "hairAssetId": "kkr-base-00",
+    "faceAssetId": "kkr-base-00",
+    "sdHairAssetId": "kkr-trng-00",
+    "characterId": "char-kkr",
+    "wearableCostumeIds": [
+      "cos-kkr-trng-00"
+    ],
+    "fittingCostumeId": "cos-kkr-trng-00",
+    "order": 1,
+    "name": "トレーニングウェア",
+    "releaseTime": "1609426800000",
+    "notWearableCostumeIds": []
+  },
+  {
+    "id": "hair-kkr-vlnt-00",
+    "hairAssetId": "kkr-vlnt-00",
+    "faceAssetId": "kkr-base-00",
+    "sdHairAssetId": "kkr-vlnt-00",
+    "characterId": "char-kkr",
+    "wearableCostumeIds": [
+      "cos-kkr-vlnt-00"
+    ],
+    "fittingCostumeId": "cos-kkr-vlnt-00",
+    "order": 93,
+    "name": "ダークネスシンパサイザー",
+    "releaseTime": "1609426800000",
+    "notWearableCostumeIds": []
+  },
+  {
+    "id": "hair-koh-casl-00",
+    "hairAssetId": "koh-base-00",
+    "faceAssetId": "koh-base-00",
+    "sdHairAssetId": "koh-casl-00",
+    "characterId": "char-koh",
+    "wearableCostumeIds": [
+      "cos-koh-casl-00"
+    ],
+    "fittingCostumeId": "cos-koh-casl-00",
+    "order": 1,
+    "name": "スーツ",
+    "releaseTime": "1609426800000",
+    "notWearableCostumeIds": []
+  },
+  {
+    "id": "hair-kor-casl-00",
+    "hairAssetId": "kor-base-00",
+    "faceAssetId": "kor-base-00",
+    "sdHairAssetId": "kor-casl-00",
+    "characterId": "char-kor",
+    "wearableCostumeIds": [
+      "cos-kor-casl-00"
+    ],
+    "fittingCostumeId": "cos-kor-casl-00",
+    "order": 1,
+    "name": "ベーシックスタイル",
+    "releaseTime": "1656342000000",
+    "notWearableCostumeIds": []
+  },
+  {
+    "id": "hair-kor-idol-00",
+    "hairAssetId": "kor-base-00",
+    "faceAssetId": "kor-base-00",
+    "sdHairAssetId": "kor-idol-00",
+    "characterId": "char-kor",
+    "wearableCostumeIds": [
+      "cos-kor-idol-00"
+    ],
+    "fittingCostumeId": "cos-kor-idol-00",
+    "order": 120,
+    "name": "レフォルムアロー",
+    "releaseTime": "1609426800000",
+    "notWearableCostumeIds": []
+  },
+  {
+    "id": "hair-kor-miku-00",
+    "hairAssetId": "kor-base-00",
+    "faceAssetId": "kor-base-00",
+    "sdHairAssetId": "kor-miku-00",
+    "characterId": "char-kor",
+    "wearableCostumeIds": [
+      "cos-kor-miku-00"
+    ],
+    "fittingCostumeId": "cos-kor-miku-00",
+    "order": 152,
+    "name": "初音ミク：オリジナル",
+    "releaseTime": "1661914800000",
+    "notWearableCostumeIds": []
+  },
+  {
+    "id": "hair-kor-mizg-00",
+    "hairAssetId": "kor-base-00",
+    "faceAssetId": "kor-base-00",
+    "sdHairAssetId": "kor-mizg-00",
+    "characterId": "char-kor",
+    "wearableCostumeIds": [
+      "cos-kor-mizg-00"
+    ],
+    "fittingCostumeId": "cos-kor-mizg-00",
+    "order": 1,
+    "name": "トレーニング水着",
+    "releaseTime": "1656342000000",
+    "notWearableCostumeIds": []
+  },
+  {
+    "id": "hair-kor-sdam-00",
+    "hairAssetId": "kor-sdam-00",
+    "faceAssetId": "kor-sdam-00",
+    "sdHairAssetId": "kor-sdam-00",
+    "characterId": "char-kor",
+    "wearableCostumeIds": [
+      "cos-kor-sdam-00"
+    ],
+    "fittingCostumeId": "cos-kor-sdam-00",
+    "order": 1,
+    "name": "親善大使",
+    "releaseTime": "1609426800000",
+    "notWearableCostumeIds": []
+  },
+  {
+    "id": "hair-kor-sdpl-00",
+    "hairAssetId": "kor-sdpl-00",
+    "faceAssetId": "kor-sdpl-00",
+    "sdHairAssetId": "kor-sdpl-00",
+    "characterId": "char-kor",
+    "wearableCostumeIds": [
+      "cos-kor-sdpl-00"
+    ],
+    "fittingCostumeId": "cos-kor-sdpl-00",
+    "order": 1,
+    "name": "一日署長",
+    "releaseTime": "1609426800000",
+    "notWearableCostumeIds": []
+  },
+  {
+    "id": "hair-kor-trng-00",
+    "hairAssetId": "kor-base-00",
+    "faceAssetId": "kor-base-00",
+    "sdHairAssetId": "kor-trng-00",
+    "characterId": "char-kor",
+    "wearableCostumeIds": [
+      "cos-kor-trng-00"
+    ],
+    "fittingCostumeId": "cos-kor-trng-00",
+    "order": 1,
+    "name": "トレーニングウェア",
+    "releaseTime": "1656342000000",
+    "notWearableCostumeIds": []
+  },
+  {
+    "id": "hair-ktn-casl-00",
+    "hairAssetId": "ktn-base-00",
+    "faceAssetId": "ktn-base-00",
+    "sdHairAssetId": "ktn-casl-00",
+    "characterId": "char-ktn",
+    "wearableCostumeIds": [
+      "cos-ktn-casl-00"
+    ],
+    "fittingCostumeId": "cos-ktn-casl-00",
+    "order": 1,
+    "name": "ベーシックスタイル",
+    "releaseTime": "1609426800000",
+    "notWearableCostumeIds": []
+  },
+  {
+    "id": "hair-ktn-casl-01",
+    "hairAssetId": "ktn-base-00",
+    "faceAssetId": "ktn-base-00",
+    "sdHairAssetId": "ktn-casl-01",
+    "characterId": "char-ktn",
+    "wearableCostumeIds": [
+      "cos-ktn-casl-01"
+    ],
+    "fittingCostumeId": "cos-ktn-casl-01",
+    "order": 1,
+    "name": "カジュアルスタイル",
+    "releaseTime": "1609426800000",
+    "notWearableCostumeIds": []
+  },
+  {
+    "id": "hair-ktn-fest-00",
+    "hairAssetId": "ktn-fest-00",
+    "faceAssetId": "ktn-base-00",
+    "sdHairAssetId": "ktn-fest-00",
+    "characterId": "char-ktn",
+    "wearableCostumeIds": [
+      "cos-ktn-fest-00"
+    ],
+    "fittingCostumeId": "cos-ktn-fest-00",
+    "order": 87,
+    "name": "エターナルブリリアンス",
+    "releaseTime": "1609426800000",
+    "notWearableCostumeIds": []
+  },
+  {
+    "id": "hair-ktn-idol-00",
+    "hairAssetId": "ktn-base-00",
+    "faceAssetId": "ktn-base-00",
+    "sdHairAssetId": "ktn-idol-00",
+    "characterId": "char-ktn",
+    "wearableCostumeIds": [
+      "cos-ktn-idol-00"
+    ],
+    "fittingCostumeId": "cos-ktn-idol-00",
+    "order": 1001,
+    "name": "クイーンオブザナイト",
+    "releaseTime": "1609426800000",
+    "notWearableCostumeIds": []
+  },
+  {
+    "id": "hair-ktn-idol-01",
+    "hairAssetId": "ktn-idol-01",
+    "faceAssetId": "ktn-base-00",
+    "sdHairAssetId": "ktn-idol-01",
+    "characterId": "char-ktn",
+    "wearableCostumeIds": [
+      "cos-ktn-idol-01"
+    ],
+    "fittingCostumeId": "cos-ktn-idol-01",
+    "order": 1701,
+    "name": "フェアウェルマイラブリー",
+    "releaseTime": "1609426800000",
+    "notWearableCostumeIds": []
+  },
+  {
+    "id": "hair-ktn-idol-02",
+    "hairAssetId": "ktn-base-00",
+    "faceAssetId": "ktn-base-00",
+    "sdHairAssetId": "ktn-idol-02",
+    "characterId": "char-ktn",
+    "wearableCostumeIds": [
+      "cos-ktn-idol-02"
+    ],
+    "fittingCostumeId": "cos-ktn-idol-02",
+    "order": 1,
+    "name": "フィーリングハート",
+    "releaseTime": "1609426800000",
+    "notWearableCostumeIds": []
+  },
+  {
+    "id": "hair-ktn-kiok-00",
+    "hairAssetId": "ktn-kiok-00",
+    "faceAssetId": "ktn-base-00",
+    "sdHairAssetId": "ktn-kiok-00",
+    "characterId": "char-ktn",
+    "wearableCostumeIds": [
+      "cos-ktn-kiok-00"
+    ],
+    "fittingCostumeId": "cos-ktn-kiok-00",
+    "order": 139,
+    "name": "星の海の記憶",
+    "releaseTime": "1664766000000",
+    "notWearableCostumeIds": []
+  },
+  {
+    "id": "hair-ktn-miku-00",
+    "hairAssetId": "ktn-base-00",
+    "faceAssetId": "ktn-base-00",
+    "sdHairAssetId": "ktn-miku-00",
+    "characterId": "char-ktn",
+    "wearableCostumeIds": [
+      "cos-ktn-miku-00"
+    ],
+    "fittingCostumeId": "cos-ktn-miku-00",
+    "order": 135,
+    "name": "初音ミク：オリジナル",
+    "releaseTime": "1661914800000",
+    "notWearableCostumeIds": []
+  },
+  {
+    "id": "hair-ktn-mizg-00",
+    "hairAssetId": "ktn-base-00",
+    "faceAssetId": "ktn-base-00",
+    "sdHairAssetId": "ktn-mizg-00",
+    "characterId": "char-ktn",
+    "wearableCostumeIds": [
+      "cos-ktn-mizg-00"
+    ],
+    "fittingCostumeId": "cos-ktn-mizg-00",
+    "order": 1,
+    "name": "トレーニング水着",
+    "releaseTime": "1609426800000",
+    "notWearableCostumeIds": []
+  },
+  {
+    "id": "hair-ktn-mizg-01",
+    "hairAssetId": "ktn-mizg-01",
+    "faceAssetId": "ktn-base-00",
+    "sdHairAssetId": "ktn-mizg-01",
+    "characterId": "char-ktn",
+    "wearableCostumeIds": [
+      "cos-ktn-mizg-01"
+    ],
+    "fittingCostumeId": "cos-ktn-mizg-01",
+    "order": 1,
+    "name": "ムーンライトラブサマー",
+    "releaseTime": "1609426800000",
+    "notWearableCostumeIds": []
+  },
+  {
+    "id": "hair-ktn-mizg-02",
+    "hairAssetId": "ktn-base-00",
+    "faceAssetId": "ktn-base-00",
+    "sdHairAssetId": "ktn-mizg-02",
+    "characterId": "char-ktn",
+    "wearableCostumeIds": [
+      "cos-ktn-mizg-02"
+    ],
+    "fittingCostumeId": "cos-ktn-mizg-02",
+    "order": 125,
+    "name": "ソレイユホットサマー",
+    "releaseTime": "1609426800000",
+    "notWearableCostumeIds": []
+  },
+  {
+    "id": "hair-ktn-schl-00",
+    "hairAssetId": "ktn-base-00",
+    "faceAssetId": "ktn-base-00",
+    "sdHairAssetId": "ktn-schl-00",
+    "characterId": "char-ktn",
+    "wearableCostumeIds": [
+      "cos-ktn-schl-00"
+    ],
+    "fittingCostumeId": "cos-ktn-schl-00",
+    "order": 1,
+    "name": "星見高等学校",
+    "releaseTime": "1609426800000",
+    "notWearableCostumeIds": []
+  },
+  {
+    "id": "hair-ktn-sdam-00",
+    "hairAssetId": "ktn-sdam-00",
+    "faceAssetId": "ktn-sdam-00",
+    "sdHairAssetId": "ktn-sdam-00",
+    "characterId": "char-ktn",
+    "wearableCostumeIds": [
+      "cos-ktn-sdam-00"
+    ],
+    "fittingCostumeId": "cos-ktn-sdam-00",
+    "order": 1,
+    "name": "親善大使",
+    "releaseTime": "1609426800000",
+    "notWearableCostumeIds": []
+  },
+  {
+    "id": "hair-ktn-sdpl-00",
+    "hairAssetId": "ktn-sdpl-00",
+    "faceAssetId": "ktn-sdpl-00",
+    "sdHairAssetId": "ktn-sdpl-00",
+    "characterId": "char-ktn",
+    "wearableCostumeIds": [
+      "cos-ktn-sdpl-00"
+    ],
+    "fittingCostumeId": "cos-ktn-sdpl-00",
+    "order": 1,
+    "name": "一日署長",
+    "releaseTime": "1609426800000",
+    "notWearableCostumeIds": []
+  },
+  {
+    "id": "hair-ktn-trng-00",
+    "hairAssetId": "ktn-base-00",
+    "faceAssetId": "ktn-base-00",
+    "sdHairAssetId": "ktn-trng-00",
+    "characterId": "char-ktn",
+    "wearableCostumeIds": [
+      "cos-ktn-trng-00"
+    ],
+    "fittingCostumeId": "cos-ktn-trng-00",
+    "order": 1,
+    "name": "トレーニングウェア",
+    "releaseTime": "1609426800000",
+    "notWearableCostumeIds": []
+  },
+  {
+    "id": "hair-ktn-wedd-00",
+    "hairAssetId": "ktn-wedd-00",
+    "faceAssetId": "ktn-base-00",
+    "sdHairAssetId": "ktn-wedd-00",
+    "characterId": "char-ktn",
+    "wearableCostumeIds": [
+      "cos-ktn-wedd-00"
+    ],
+    "fittingCostumeId": "cos-ktn-wedd-00",
+    "order": 117,
+    "name": "パーフェクト・ブライド",
+    "releaseTime": "1609426800000",
+    "notWearableCostumeIds": []
+  },
+  {
+    "id": "hair-mei-casl-00",
+    "hairAssetId": "mei-base-00",
+    "faceAssetId": "mei-base-00",
+    "sdHairAssetId": "mei-casl-00",
+    "characterId": "char-mei",
+    "wearableCostumeIds": [
+      "cos-mei-casl-00"
+    ],
+    "fittingCostumeId": "cos-mei-casl-00",
+    "order": 1,
+    "name": "ベーシックスタイル",
+    "releaseTime": "1609426800000",
+    "notWearableCostumeIds": []
+  },
+  {
+    "id": "hair-mei-casl-01",
+    "hairAssetId": "mei-base-00",
+    "faceAssetId": "mei-base-00",
+    "sdHairAssetId": "mei-casl-01",
+    "characterId": "char-mei",
+    "wearableCostumeIds": [
+      "cos-mei-casl-01"
+    ],
+    "fittingCostumeId": "cos-mei-casl-01",
+    "order": 1,
+    "name": "カジュアルスタイル",
+    "releaseTime": "1609426800000",
+    "notWearableCostumeIds": []
+  },
+  {
+    "id": "hair-mei-fest-00",
+    "hairAssetId": "mei-fest-00",
+    "faceAssetId": "mei-base-00",
+    "sdHairAssetId": "mei-fest-00",
+    "characterId": "char-mei",
+    "wearableCostumeIds": [
+      "cos-mei-fest-00"
+    ],
+    "fittingCostumeId": "cos-mei-fest-00",
+    "order": 104,
+    "name": "エターナルブリリアンス",
+    "releaseTime": "1609426800000",
+    "notWearableCostumeIds": []
+  },
+  {
+    "id": "hair-mei-idol-00",
+    "hairAssetId": "mei-base-00",
+    "faceAssetId": "mei-base-00",
+    "sdHairAssetId": "mei-idol-00",
+    "characterId": "char-mei",
+    "wearableCostumeIds": [
+      "cos-mei-idol-00"
+    ],
+    "fittingCostumeId": "cos-mei-idol-00",
+    "order": 1003,
+    "name": "クイーンオブザナイト",
+    "releaseTime": "1609426800000",
+    "notWearableCostumeIds": []
+  },
+  {
+    "id": "hair-mei-idol-01",
+    "hairAssetId": "mei-idol-01",
+    "faceAssetId": "mei-base-00",
+    "sdHairAssetId": "mei-idol-01",
+    "characterId": "char-mei",
+    "wearableCostumeIds": [
+      "cos-mei-idol-01"
+    ],
+    "fittingCostumeId": "cos-mei-idol-01",
+    "order": 1703,
+    "name": "フェアウェルマイラブリー",
+    "releaseTime": "1609426800000",
+    "notWearableCostumeIds": []
+  },
+  {
+    "id": "hair-mei-idol-02",
+    "hairAssetId": "mei-base-00",
+    "faceAssetId": "mei-base-00",
+    "sdHairAssetId": "mei-idol-02",
+    "characterId": "char-mei",
+    "wearableCostumeIds": [
+      "cos-mei-idol-02"
+    ],
+    "fittingCostumeId": "cos-mei-idol-02",
+    "order": 1,
+    "name": "フィーリングハート",
+    "releaseTime": "1609426800000",
+    "notWearableCostumeIds": []
+  },
+  {
+    "id": "hair-mei-miku-00",
+    "hairAssetId": "mei-base-00",
+    "faceAssetId": "mei-base-00",
+    "sdHairAssetId": "mei-miku-00",
+    "characterId": "char-mei",
+    "wearableCostumeIds": [
+      "cos-mei-miku-00"
+    ],
+    "fittingCostumeId": "cos-mei-miku-00",
+    "order": 137,
+    "name": "初音ミク：オリジナル",
+    "releaseTime": "1661914800000",
+    "notWearableCostumeIds": []
+  },
+  {
+    "id": "hair-mei-mizg-00",
+    "hairAssetId": "mei-base-00",
+    "faceAssetId": "mei-base-00",
+    "sdHairAssetId": "mei-mizg-00",
+    "characterId": "char-mei",
+    "wearableCostumeIds": [
+      "cos-mei-mizg-00"
+    ],
+    "fittingCostumeId": "cos-mei-mizg-00",
+    "order": 1,
+    "name": "トレーニング水着",
+    "releaseTime": "1609426800000",
+    "notWearableCostumeIds": []
+  },
+  {
+    "id": "hair-mei-mizg-01",
+    "hairAssetId": "mei-mizg-01",
+    "faceAssetId": "mei-base-00",
+    "sdHairAssetId": "mei-mizg-01",
+    "characterId": "char-mei",
+    "wearableCostumeIds": [
+      "cos-mei-mizg-01"
+    ],
+    "fittingCostumeId": "cos-mei-mizg-01",
+    "order": 1,
+    "name": "ムーンライトラブサマー",
+    "releaseTime": "1609426800000",
+    "notWearableCostumeIds": []
+  },
+  {
+    "id": "hair-mei-mizg-02",
+    "hairAssetId": "mei-mizg-02",
+    "faceAssetId": "mei-base-00",
+    "sdHairAssetId": "mei-mizg-02",
+    "characterId": "char-mei",
+    "wearableCostumeIds": [
+      "cos-mei-mizg-02"
+    ],
+    "fittingCostumeId": "cos-mei-mizg-02",
+    "order": 126,
+    "name": "ソレイユホットサマー",
+    "releaseTime": "1609426800000",
+    "notWearableCostumeIds": []
+  },
+  {
+    "id": "hair-mei-rock-00",
+    "hairAssetId": "mei-rock-00",
+    "faceAssetId": "mei-base-00",
+    "sdHairAssetId": "mei-rock-00",
+    "characterId": "char-mei",
+    "wearableCostumeIds": [
+      "cos-mei-rock-00"
+    ],
+    "fittingCostumeId": "cos-mei-rock-00",
+    "order": 78,
+    "name": "ムーンダンサブル",
+    "releaseTime": "1609426800000",
+    "notWearableCostumeIds": []
+  },
+  {
+    "id": "hair-mei-schl-00",
+    "hairAssetId": "mei-base-00",
+    "faceAssetId": "mei-base-00",
+    "sdHairAssetId": "mei-schl-00",
+    "characterId": "char-mei",
+    "wearableCostumeIds": [
+      "cos-mei-schl-00"
+    ],
+    "fittingCostumeId": "cos-mei-schl-00",
+    "order": 1,
+    "name": "星見高等学校",
+    "releaseTime": "1609426800000",
+    "notWearableCostumeIds": []
+  },
+  {
+    "id": "hair-mei-sdam-00",
+    "hairAssetId": "mei-sdam-00",
+    "faceAssetId": "mei-sdam-00",
+    "sdHairAssetId": "mei-sdam-00",
+    "characterId": "char-mei",
+    "wearableCostumeIds": [
+      "cos-mei-sdam-00"
+    ],
+    "fittingCostumeId": "cos-mei-sdam-00",
+    "order": 1,
+    "name": "親善大使",
+    "releaseTime": "1609426800000",
+    "notWearableCostumeIds": []
+  },
+  {
+    "id": "hair-mei-sdpl-00",
+    "hairAssetId": "mei-sdpl-00",
+    "faceAssetId": "mei-sdpl-00",
+    "sdHairAssetId": "mei-sdpl-00",
+    "characterId": "char-mei",
+    "wearableCostumeIds": [
+      "cos-mei-sdpl-00"
+    ],
+    "fittingCostumeId": "cos-mei-sdpl-00",
+    "order": 1,
+    "name": "一日署長",
+    "releaseTime": "1609426800000",
+    "notWearableCostumeIds": []
+  },
+  {
+    "id": "hair-mei-trng-00",
+    "hairAssetId": "mei-base-00",
+    "faceAssetId": "mei-base-00",
+    "sdHairAssetId": "mei-trng-00",
+    "characterId": "char-mei",
+    "wearableCostumeIds": [
+      "cos-mei-trng-00"
+    ],
+    "fittingCostumeId": "cos-mei-trng-00",
+    "order": 1,
+    "name": "トレーニングウェア",
+    "releaseTime": "1609426800000",
+    "notWearableCostumeIds": []
+  },
+  {
+    "id": "hair-mhk-casl-00",
+    "hairAssetId": "mhk-base-00",
+    "faceAssetId": "mhk-base-00",
+    "sdHairAssetId": "mhk-casl-00",
+    "characterId": "char-mhk",
+    "wearableCostumeIds": [
+      "cos-mhk-casl-00"
+    ],
+    "fittingCostumeId": "cos-mhk-casl-00",
+    "order": 1,
+    "name": "ベーシックスタイル",
+    "releaseTime": "1656342000000",
+    "notWearableCostumeIds": []
+  },
+  {
+    "id": "hair-mhk-idol-00",
+    "hairAssetId": "mhk-base-00",
+    "faceAssetId": "mhk-base-00",
+    "sdHairAssetId": "mhk-idol-00",
+    "characterId": "char-mhk",
+    "wearableCostumeIds": [
+      "cos-mhk-idol-00"
+    ],
+    "fittingCostumeId": "cos-mhk-idol-00",
+    "order": 122,
+    "name": "レフォルムアロー",
+    "releaseTime": "1609426800000",
+    "notWearableCostumeIds": []
+  },
+  {
+    "id": "hair-mhk-miku-00",
+    "hairAssetId": "mhk-base-00",
+    "faceAssetId": "mhk-base-00",
+    "sdHairAssetId": "mhk-miku-00",
+    "characterId": "char-mhk",
+    "wearableCostumeIds": [
+      "cos-mhk-miku-00"
+    ],
+    "fittingCostumeId": "cos-mhk-miku-00",
+    "order": 154,
+    "name": "初音ミク：オリジナル",
+    "releaseTime": "1661914800000",
+    "notWearableCostumeIds": []
+  },
+  {
+    "id": "hair-mhk-mizg-00",
+    "hairAssetId": "mhk-base-00",
+    "faceAssetId": "mhk-base-00",
+    "sdHairAssetId": "mhk-mizg-00",
+    "characterId": "char-mhk",
+    "wearableCostumeIds": [
+      "cos-mhk-mizg-00"
+    ],
+    "fittingCostumeId": "cos-mhk-mizg-00",
+    "order": 1,
+    "name": "トレーニング水着",
+    "releaseTime": "1656342000000",
+    "notWearableCostumeIds": []
+  },
+  {
+    "id": "hair-mhk-sdam-00",
+    "hairAssetId": "mhk-sdam-00",
+    "faceAssetId": "mhk-sdam-00",
+    "sdHairAssetId": "mhk-sdam-00",
+    "characterId": "char-mhk",
+    "wearableCostumeIds": [
+      "cos-mhk-sdam-00"
+    ],
+    "fittingCostumeId": "cos-mhk-sdam-00",
+    "order": 1,
+    "name": "親善大使",
+    "releaseTime": "1609426800000",
+    "notWearableCostumeIds": []
+  },
+  {
+    "id": "hair-mhk-sdpl-00",
+    "hairAssetId": "mhk-sdpl-00",
+    "faceAssetId": "mhk-sdpl-00",
+    "sdHairAssetId": "mhk-sdpl-00",
+    "characterId": "char-mhk",
+    "wearableCostumeIds": [
+      "cos-mhk-sdpl-00"
+    ],
+    "fittingCostumeId": "cos-mhk-sdpl-00",
+    "order": 1,
+    "name": "一日署長",
+    "releaseTime": "1609426800000",
+    "notWearableCostumeIds": []
+  },
+  {
+    "id": "hair-mhk-trng-00",
+    "hairAssetId": "mhk-base-00",
+    "faceAssetId": "mhk-base-00",
+    "sdHairAssetId": "mhk-trng-00",
+    "characterId": "char-mhk",
+    "wearableCostumeIds": [
+      "cos-mhk-trng-00"
+    ],
+    "fittingCostumeId": "cos-mhk-trng-00",
+    "order": 1,
+    "name": "トレーニングウェア",
+    "releaseTime": "1656342000000",
+    "notWearableCostumeIds": []
+  },
+  {
+    "id": "hair-mku-miku-00",
+    "hairAssetId": "mku-base-00",
+    "faceAssetId": "mku-base-00",
+    "sdHairAssetId": "mku-miku-00",
+    "characterId": "char-mku",
+    "wearableCostumeIds": [
+      "cos-mku-miku-00"
+    ],
+    "fittingCostumeId": "cos-mku-miku-00",
+    "order": 132,
+    "name": "初音ミク：オリジナル",
+    "releaseTime": "1661914800000",
+    "notWearableCostumeIds": []
+  },
+  {
+    "id": "hair-mku-miku-00-casl",
+    "hairAssetId": "mku-base-00",
+    "faceAssetId": "mku-base-00",
+    "sdHairAssetId": "mku-miku-00",
+    "characterId": "char-mku",
+    "wearableCostumeIds": [
+      "cos-mku-miku-00-casl"
+    ],
+    "fittingCostumeId": "cos-mku-miku-00-casl",
+    "order": 1,
+    "name": "初音ミク：オリジナル",
+    "releaseTime": "1661914800000",
+    "notWearableCostumeIds": []
+  },
+  {
+    "id": "hair-mku-miku-01",
+    "hairAssetId": "mku-miku-01",
+    "faceAssetId": "mku-base-01",
+    "sdHairAssetId": "mku-miku-01",
+    "characterId": "char-mku",
+    "wearableCostumeIds": [
+      "cos-mku-miku-01"
+    ],
+    "fittingCostumeId": "cos-mku-miku-01",
+    "order": 134,
+    "name": "マジカルミライ10th",
+    "releaseTime": "1661914800000",
+    "notWearableCostumeIds": []
+  },
+  {
+    "id": "hair-mna-casl-00",
+    "hairAssetId": "mna-base-00",
+    "faceAssetId": "mna-base-00",
+    "sdHairAssetId": "mna-casl-00",
+    "characterId": "char-mna",
+    "wearableCostumeIds": [
+      "cos-mna-casl-00"
+    ],
+    "fittingCostumeId": "cos-mna-casl-00",
+    "order": 1,
+    "name": "ベーシックスタイル",
+    "releaseTime": "1609426800000",
+    "notWearableCostumeIds": []
+  },
+  {
+    "id": "hair-mna-fest-00",
+    "hairAssetId": "mna-fest-00",
+    "faceAssetId": "mna-base-00",
+    "sdHairAssetId": "mna-fest-00",
+    "characterId": "char-mna",
+    "wearableCostumeIds": [
+      "cos-mna-fest-00"
+    ],
+    "fittingCostumeId": "cos-mna-fest-00",
+    "order": 103,
+    "name": "エターナルブリリアンス",
+    "releaseTime": "1609426800000",
+    "notWearableCostumeIds": []
+  },
+  {
+    "id": "hair-mna-idol-00",
+    "hairAssetId": "mna-idol-00",
+    "faceAssetId": "mna-base-00",
+    "sdHairAssetId": "mna-idol-00",
+    "characterId": "char-mna",
+    "wearableCostumeIds": [
+      "cos-mna-idol-00"
+    ],
+    "fittingCostumeId": "cos-mna-idol-00",
+    "order": 1,
+    "name": "ファーストステップ",
+    "releaseTime": "1609426800000",
+    "notWearableCostumeIds": []
+  },
+  {
+    "id": "hair-mna-miku-00",
+    "hairAssetId": "mna-base-00",
+    "faceAssetId": "mna-base-00",
+    "sdHairAssetId": "mna-miku-00",
+    "characterId": "char-mna",
+    "wearableCostumeIds": [
+      "cos-mna-miku-00"
+    ],
+    "fittingCostumeId": "cos-mna-miku-00",
+    "order": 151,
+    "name": "初音ミク：オリジナル",
+    "releaseTime": "1661914800000",
+    "notWearableCostumeIds": []
+  },
+  {
+    "id": "hair-mna-mizg-00",
+    "hairAssetId": "mna-base-00",
+    "faceAssetId": "mna-base-00",
+    "sdHairAssetId": "mna-mizg-00",
+    "characterId": "char-mna",
+    "wearableCostumeIds": [
+      "cos-mna-mizg-00"
+    ],
+    "fittingCostumeId": "cos-mna-mizg-00",
+    "order": 1,
+    "name": "トレーニング水着",
+    "releaseTime": "1609426800000",
+    "notWearableCostumeIds": []
+  },
+  {
+    "id": "hair-mna-schl-00",
+    "hairAssetId": "mna-base-00",
+    "faceAssetId": "mna-base-00",
+    "sdHairAssetId": "mna-schl-00",
+    "characterId": "char-mna",
+    "wearableCostumeIds": [
+      "cos-mna-schl-00"
+    ],
+    "fittingCostumeId": "cos-mna-schl-00",
+    "order": 1,
+    "name": "星見高等学校",
+    "releaseTime": "1609426800000",
+    "notWearableCostumeIds": []
+  },
+  {
+    "id": "hair-mna-trng-00",
+    "hairAssetId": "mna-base-00",
+    "faceAssetId": "mna-base-00",
+    "sdHairAssetId": "mna-trng-00",
+    "characterId": "char-mna",
+    "wearableCostumeIds": [
+      "cos-mna-trng-00"
+    ],
+    "fittingCostumeId": "cos-mna-trng-00",
+    "order": 1,
+    "name": "トレーニングウェア",
+    "releaseTime": "1609426800000",
+    "notWearableCostumeIds": []
+  },
+  {
+    "id": "hair-ngs-akma-00",
+    "hairAssetId": "ngs-akma-00",
+    "faceAssetId": "ngs-base-00",
+    "sdHairAssetId": "ngs-akma-00",
+    "characterId": "char-ngs",
+    "wearableCostumeIds": [
+      "cos-ngs-akma-00"
+    ],
+    "fittingCostumeId": "cos-ngs-akma-00",
+    "order": 99,
+    "name": "ハートインデビル",
+    "releaseTime": "1609426800000",
+    "notWearableCostumeIds": []
+  },
+  {
+    "id": "hair-ngs-casl-00",
+    "hairAssetId": "ngs-base-00",
+    "faceAssetId": "ngs-base-00",
+    "sdHairAssetId": "ngs-casl-00",
+    "characterId": "char-ngs",
+    "wearableCostumeIds": [
+      "cos-ngs-casl-00"
+    ],
+    "fittingCostumeId": "cos-ngs-casl-00",
+    "order": 1,
+    "name": "ベーシックスタイル",
+    "releaseTime": "1609426800000",
+    "notWearableCostumeIds": []
+  },
+  {
+    "id": "hair-ngs-casl-01",
+    "hairAssetId": "ngs-base-00",
+    "faceAssetId": "ngs-base-00",
+    "sdHairAssetId": "ngs-casl-01",
+    "characterId": "char-ngs",
+    "wearableCostumeIds": [
+      "cos-ngs-casl-01"
+    ],
+    "fittingCostumeId": "cos-ngs-casl-01",
+    "order": 1,
+    "name": "カジュアルスタイル",
+    "releaseTime": "1609426800000",
+    "notWearableCostumeIds": []
+  },
+  {
+    "id": "hair-ngs-flow-00",
+    "hairAssetId": "ngs-flow-00",
+    "faceAssetId": "ngs-base-00",
+    "sdHairAssetId": "ngs-flow-00",
+    "characterId": "char-ngs",
+    "wearableCostumeIds": [
+      "cos-ngs-flow-00"
+    ],
+    "fittingCostumeId": "cos-ngs-flow-00",
+    "order": 81,
+    "name": "イノセントフラワー",
+    "releaseTime": "1609426800000",
+    "notWearableCostumeIds": []
+  },
+  {
+    "id": "hair-ngs-idol-00",
+    "hairAssetId": "ngs-base-00",
+    "faceAssetId": "ngs-base-00",
+    "sdHairAssetId": "ngs-idol-00",
+    "characterId": "char-ngs",
+    "wearableCostumeIds": [
+      "cos-ngs-idol-00"
+    ],
+    "fittingCostumeId": "cos-ngs-idol-00",
+    "order": 1002,
+    "name": "クイーンオブザナイト",
+    "releaseTime": "1609426800000",
+    "notWearableCostumeIds": []
+  },
+  {
+    "id": "hair-ngs-idol-01",
+    "hairAssetId": "ngs-idol-01",
+    "faceAssetId": "ngs-base-00",
+    "sdHairAssetId": "ngs-idol-01",
+    "characterId": "char-ngs",
+    "wearableCostumeIds": [
+      "cos-ngs-idol-01"
+    ],
+    "fittingCostumeId": "cos-ngs-idol-01",
+    "order": 1702,
+    "name": "フェアウェルマイラブリー",
+    "releaseTime": "1609426800000",
+    "notWearableCostumeIds": []
+  },
+  {
+    "id": "hair-ngs-idol-02",
+    "hairAssetId": "ngs-base-00",
+    "faceAssetId": "ngs-base-00",
+    "sdHairAssetId": "ngs-idol-02",
+    "characterId": "char-ngs",
+    "wearableCostumeIds": [
+      "cos-ngs-idol-02"
+    ],
+    "fittingCostumeId": "cos-ngs-idol-02",
+    "order": 1,
+    "name": "フィーリングハート",
+    "releaseTime": "1609426800000",
+    "notWearableCostumeIds": []
+  },
+  {
+    "id": "hair-ngs-miku-00",
+    "hairAssetId": "ngs-base-00",
+    "faceAssetId": "ngs-base-00",
+    "sdHairAssetId": "ngs-miku-00",
+    "characterId": "char-ngs",
+    "wearableCostumeIds": [
+      "cos-ngs-miku-00"
+    ],
+    "fittingCostumeId": "cos-ngs-miku-00",
+    "order": 136,
+    "name": "初音ミク：オリジナル",
+    "releaseTime": "1661914800000",
+    "notWearableCostumeIds": []
+  },
+  {
+    "id": "hair-ngs-mizg-00",
+    "hairAssetId": "ngs-base-00",
+    "faceAssetId": "ngs-base-00",
+    "sdHairAssetId": "ngs-mizg-00",
+    "characterId": "char-ngs",
+    "wearableCostumeIds": [
+      "cos-ngs-mizg-00"
+    ],
+    "fittingCostumeId": "cos-ngs-mizg-00",
+    "order": 1,
+    "name": "トレーニング水着",
+    "releaseTime": "1609426800000",
+    "notWearableCostumeIds": []
+  },
+  {
+    "id": "hair-ngs-mizg-01",
+    "hairAssetId": "ngs-mizg-01",
+    "faceAssetId": "ngs-base-00",
+    "sdHairAssetId": "ngs-mizg-01",
+    "characterId": "char-ngs",
+    "wearableCostumeIds": [
+      "cos-ngs-mizg-01"
+    ],
+    "fittingCostumeId": "cos-ngs-mizg-01",
+    "order": 1,
+    "name": "ムーンライトラブサマー",
+    "releaseTime": "1609426800000",
+    "notWearableCostumeIds": []
+  },
+  {
+    "id": "hair-ngs-mizg-02",
+    "hairAssetId": "ngs-mizg-02",
+    "faceAssetId": "ngs-base-00",
+    "sdHairAssetId": "ngs-mizg-02",
+    "characterId": "char-ngs",
+    "wearableCostumeIds": [
+      "cos-ngs-mizg-02"
+    ],
+    "fittingCostumeId": "cos-ngs-mizg-02",
+    "order": 123,
+    "name": "ソレイユホットサマー",
+    "releaseTime": "1609426800000",
+    "notWearableCostumeIds": []
+  },
+  {
+    "id": "hair-ngs-schl-00",
+    "hairAssetId": "ngs-base-00",
+    "faceAssetId": "ngs-base-00",
+    "sdHairAssetId": "ngs-schl-00",
+    "characterId": "char-ngs",
+    "wearableCostumeIds": [
+      "cos-ngs-schl-00"
+    ],
+    "fittingCostumeId": "cos-ngs-schl-00",
+    "order": 1,
+    "name": "星見高等学校",
+    "releaseTime": "1609426800000",
+    "notWearableCostumeIds": []
+  },
+  {
+    "id": "hair-ngs-sdam-00",
+    "hairAssetId": "ngs-sdam-00",
+    "faceAssetId": "ngs-sdam-00",
+    "sdHairAssetId": "ngs-sdam-00",
+    "characterId": "char-ngs",
+    "wearableCostumeIds": [
+      "cos-ngs-sdam-00"
+    ],
+    "fittingCostumeId": "cos-ngs-sdam-00",
+    "order": 1,
+    "name": "親善大使",
+    "releaseTime": "1609426800000",
+    "notWearableCostumeIds": []
+  },
+  {
+    "id": "hair-ngs-sdpl-00",
+    "hairAssetId": "ngs-sdpl-00",
+    "faceAssetId": "ngs-sdpl-00",
+    "sdHairAssetId": "ngs-sdpl-00",
+    "characterId": "char-ngs",
+    "wearableCostumeIds": [
+      "cos-ngs-sdpl-00"
+    ],
+    "fittingCostumeId": "cos-ngs-sdpl-00",
+    "order": 1,
+    "name": "一日署長",
+    "releaseTime": "1609426800000",
+    "notWearableCostumeIds": []
+  },
+  {
+    "id": "hair-ngs-trng-00",
+    "hairAssetId": "ngs-base-00",
+    "faceAssetId": "ngs-base-00",
+    "sdHairAssetId": "ngs-trng-00",
+    "characterId": "char-ngs",
+    "wearableCostumeIds": [
+      "cos-ngs-trng-00"
+    ],
+    "fittingCostumeId": "cos-ngs-trng-00",
+    "order": 1,
+    "name": "トレーニングウェア",
+    "releaseTime": "1609426800000",
+    "notWearableCostumeIds": []
+  },
+  {
+    "id": "hair-rei-casl-00",
+    "hairAssetId": "rei-base-00",
+    "faceAssetId": "rei-base-00",
+    "sdHairAssetId": "rei-casl-00",
+    "characterId": "char-rei",
+    "wearableCostumeIds": [
+      "cos-rei-casl-00"
+    ],
+    "fittingCostumeId": "cos-rei-casl-00",
+    "order": 1,
+    "name": "ベーシックスタイル",
+    "releaseTime": "1609426800000",
+    "notWearableCostumeIds": []
+  },
+  {
+    "id": "hair-rei-casl-01",
+    "hairAssetId": "rei-base-00",
+    "faceAssetId": "rei-base-00",
+    "sdHairAssetId": "rei-casl-01",
+    "characterId": "char-rei",
+    "wearableCostumeIds": [
+      "cos-rei-casl-01"
+    ],
+    "fittingCostumeId": "cos-rei-casl-01",
+    "order": 1,
+    "name": "カジュアルスタイル",
+    "releaseTime": "1609426800000",
+    "notWearableCostumeIds": []
+  },
+  {
+    "id": "hair-rei-hair-00",
+    "hairAssetId": "rei-hair-00",
+    "faceAssetId": "rei-base-00",
+    "sdHairAssetId": "rei-hair-00",
+    "characterId": "char-rei",
+    "notWearableCostumeIds": [
+      "cos-rei-sdpl-00",
+      "cos-rei-sdam-00"
+    ],
+    "fittingCostumeId": "cos-rei-casl-00",
+    "order": 1001,
+    "name": "ポニーテール",
+    "releaseTime": "1666580400000",
+    "wearableCostumeIds": []
+  },
+  {
+    "id": "hair-rei-idol-00",
+    "hairAssetId": "rei-base-00",
+    "faceAssetId": "rei-base-00",
+    "sdHairAssetId": "rei-idol-00",
+    "characterId": "char-rei",
+    "wearableCostumeIds": [
+      "cos-rei-idol-00"
+    ],
+    "fittingCostumeId": "cos-rei-idol-00",
+    "order": 1008,
+    "name": "アセンブルハーモニー",
+    "releaseTime": "1609426800000",
+    "notWearableCostumeIds": []
+  },
+  {
+    "id": "hair-rei-idol-01",
+    "hairAssetId": "rei-idol-01",
+    "faceAssetId": "rei-base-00",
+    "sdHairAssetId": "rei-idol-01",
+    "characterId": "char-rei",
+    "wearableCostumeIds": [
+      "cos-rei-idol-01"
+    ],
+    "fittingCostumeId": "cos-rei-idol-01",
+    "order": 1708,
+    "name": "フェアウェルマイラブリー",
+    "releaseTime": "1609426800000",
+    "notWearableCostumeIds": []
+  },
+  {
+    "id": "hair-rei-idol-02",
+    "hairAssetId": "rei-base-00",
+    "faceAssetId": "rei-base-00",
+    "sdHairAssetId": "rei-idol-02",
+    "characterId": "char-rei",
+    "wearableCostumeIds": [
+      "cos-rei-idol-02"
+    ],
+    "fittingCostumeId": "cos-rei-idol-02",
+    "order": 1,
+    "name": "フィーリングハート",
+    "releaseTime": "1609426800000",
+    "notWearableCostumeIds": []
+  },
+  {
+    "id": "hair-rei-idol-03",
+    "hairAssetId": "rei-idol-03",
+    "faceAssetId": "rei-base-00",
+    "sdHairAssetId": "rei-idol-03",
+    "characterId": "char-rei",
+    "wearableCostumeIds": [
+      "cos-rei-idol-03"
+    ],
+    "fittingCostumeId": "cos-rei-idol-03",
+    "order": 116,
+    "name": "ウィズ・ザ・サンシャイン",
+    "releaseTime": "1609426800000",
+    "notWearableCostumeIds": []
+  },
+  {
+    "id": "hair-rei-miku-00",
+    "hairAssetId": "rei-base-00",
+    "faceAssetId": "rei-base-00",
+    "sdHairAssetId": "rei-miku-00",
+    "characterId": "char-rei",
+    "wearableCostumeIds": [
+      "cos-rei-miku-00"
+    ],
+    "fittingCostumeId": "cos-rei-miku-00",
+    "order": 142,
+    "name": "初音ミク：オリジナル",
+    "releaseTime": "1661914800000",
+    "notWearableCostumeIds": []
+  },
+  {
+    "id": "hair-rei-mizg-00",
+    "hairAssetId": "rei-base-00",
+    "faceAssetId": "rei-base-00",
+    "sdHairAssetId": "rei-mizg-00",
+    "characterId": "char-rei",
+    "wearableCostumeIds": [
+      "cos-rei-mizg-00"
+    ],
+    "fittingCostumeId": "cos-rei-mizg-00",
+    "order": 1,
+    "name": "トレーニング水着",
+    "releaseTime": "1609426800000",
+    "notWearableCostumeIds": []
+  },
+  {
+    "id": "hair-rei-mizg-01",
+    "hairAssetId": "rei-mizg-01",
+    "faceAssetId": "rei-base-00",
+    "sdHairAssetId": "rei-mizg-01",
+    "characterId": "char-rei",
+    "wearableCostumeIds": [
+      "cos-rei-mizg-01"
+    ],
+    "fittingCostumeId": "cos-rei-mizg-01",
+    "order": 1,
+    "name": "サマーホリデイ",
+    "releaseTime": "1609426800000",
+    "notWearableCostumeIds": []
+  },
+  {
+    "id": "hair-rei-mizg-02",
+    "hairAssetId": "rei-mizg-02",
+    "faceAssetId": "rei-base-00",
+    "sdHairAssetId": "rei-mizg-02",
+    "characterId": "char-rei",
+    "wearableCostumeIds": [
+      "cos-rei-mizg-02"
+    ],
+    "fittingCostumeId": "cos-rei-mizg-02",
+    "order": 124,
+    "name": "ソレイユホットサマー",
+    "releaseTime": "1609426800000",
+    "notWearableCostumeIds": []
+  },
+  {
+    "id": "hair-rei-newy-00",
+    "hairAssetId": "rei-newy-00",
+    "faceAssetId": "rei-base-00",
+    "sdHairAssetId": "rei-newy-00",
+    "characterId": "char-rei",
+    "wearableCostumeIds": [
+      "cos-rei-newy-00"
+    ],
+    "fittingCostumeId": "cos-rei-newy-00",
+    "order": 91,
+    "name": "全力振袖・牡丹",
+    "releaseTime": "1641178800000",
+    "notWearableCostumeIds": []
+  },
+  {
+    "id": "hair-rei-onep-00",
+    "hairAssetId": "rei-onep-00",
+    "faceAssetId": "rei-base-00",
+    "sdHairAssetId": "rei-onep-00",
+    "characterId": "char-rei",
+    "wearableCostumeIds": [
+      "cos-rei-onep-00"
+    ],
+    "fittingCostumeId": "cos-rei-onep-00",
+    "order": 108,
+    "name": "フローラルフレグランス",
+    "releaseTime": "1609426800000",
+    "notWearableCostumeIds": []
+  },
+  {
+    "id": "hair-rei-rock-00",
+    "hairAssetId": "rei-rock-00",
+    "faceAssetId": "rei-base-00",
+    "sdHairAssetId": "rei-rock-00",
+    "characterId": "char-rei",
+    "wearableCostumeIds": [
+      "cos-rei-rock-00"
+    ],
+    "fittingCostumeId": "cos-rei-rock-00",
+    "order": 815,
+    "name": "サニーダンサブル",
+    "releaseTime": "1609426800000",
+    "notWearableCostumeIds": []
+  },
+  {
+    "id": "hair-rei-schl-00",
+    "hairAssetId": "rei-base-00",
+    "faceAssetId": "rei-base-00",
+    "sdHairAssetId": "rei-schl-00",
+    "characterId": "char-rei",
+    "wearableCostumeIds": [
+      "cos-rei-schl-00"
+    ],
+    "fittingCostumeId": "cos-rei-schl-00",
+    "order": 1,
+    "name": "麗葉女学院高等部",
+    "releaseTime": "1609426800000",
+    "notWearableCostumeIds": []
+  },
+  {
+    "id": "hair-rei-sdam-00",
+    "hairAssetId": "rei-sdam-00",
+    "faceAssetId": "rei-sdam-00",
+    "sdHairAssetId": "rei-sdam-00",
+    "characterId": "char-rei",
+    "wearableCostumeIds": [
+      "cos-rei-sdam-00"
+    ],
+    "fittingCostumeId": "cos-rei-sdam-00",
+    "order": 1,
+    "name": "親善大使",
+    "releaseTime": "1609426800000",
+    "notWearableCostumeIds": []
+  },
+  {
+    "id": "hair-rei-sdpl-00",
+    "hairAssetId": "rei-sdpl-00",
+    "faceAssetId": "rei-sdpl-00",
+    "sdHairAssetId": "rei-sdpl-00",
+    "characterId": "char-rei",
+    "wearableCostumeIds": [
+      "cos-rei-sdpl-00"
+    ],
+    "fittingCostumeId": "cos-rei-sdpl-00",
+    "order": 1,
+    "name": "一日署長",
+    "releaseTime": "1609426800000",
+    "notWearableCostumeIds": []
+  },
+  {
+    "id": "hair-rei-trng-00",
+    "hairAssetId": "rei-base-00",
+    "faceAssetId": "rei-base-00",
+    "sdHairAssetId": "rei-trng-00",
+    "characterId": "char-rei",
+    "wearableCostumeIds": [
+      "cos-rei-trng-00"
+    ],
+    "fittingCostumeId": "cos-rei-trng-00",
+    "order": 1,
+    "name": "トレーニングウェア",
+    "releaseTime": "1609426800000",
+    "notWearableCostumeIds": []
+  },
+  {
+    "id": "hair-rio-casl-00",
+    "hairAssetId": "rio-casl-00",
+    "faceAssetId": "rio-base-00",
+    "sdHairAssetId": "rio-casl-00",
+    "characterId": "char-rio",
+    "wearableCostumeIds": [
+      "cos-rio-casl-00"
+    ],
+    "fittingCostumeId": "cos-rio-casl-00",
+    "order": 1,
+    "name": "ベーシックスタイル",
+    "releaseTime": "1609426800000",
+    "notWearableCostumeIds": []
+  },
+  {
+    "id": "hair-rio-casl-01",
+    "hairAssetId": "rio-base-00",
+    "faceAssetId": "rio-base-00",
+    "sdHairAssetId": "rio-casl-01",
+    "characterId": "char-rio",
+    "wearableCostumeIds": [
+      "cos-rio-casl-01"
+    ],
+    "fittingCostumeId": "cos-rio-casl-01",
+    "order": 1,
+    "name": "カジュアルスタイル",
+    "releaseTime": "1609426800000",
+    "notWearableCostumeIds": []
+  },
+  {
+    "id": "hair-rio-fest-00",
+    "hairAssetId": "rio-fest-00",
+    "faceAssetId": "rio-base-00",
+    "sdHairAssetId": "rio-fest-00",
+    "characterId": "char-rio",
+    "wearableCostumeIds": [
+      "cos-rio-fest-00"
+    ],
+    "fittingCostumeId": "cos-rio-fest-00",
+    "order": 88,
+    "name": "エターナルブリリアンス",
+    "releaseTime": "1609426800000",
+    "notWearableCostumeIds": []
+  },
+  {
+    "id": "hair-rio-halw-00",
+    "hairAssetId": "rio-halw-00",
+    "faceAssetId": "rio-base-00",
+    "sdHairAssetId": "rio-halw-00",
+    "characterId": "char-rio",
+    "wearableCostumeIds": [
+      "cos-rio-halw-00"
+    ],
+    "fittingCostumeId": "cos-rio-halw-00",
+    "order": 100,
+    "name": "ナースオブハデス",
+    "releaseTime": "1609426800000",
+    "notWearableCostumeIds": []
+  },
+  {
+    "id": "hair-rio-idol-00",
+    "hairAssetId": "rio-idol-00",
+    "faceAssetId": "rio-base-00",
+    "sdHairAssetId": "rio-idol-00",
+    "characterId": "char-rio",
+    "wearableCostumeIds": [
+      "cos-rio-idol-00"
+    ],
+    "fittingCostumeId": "cos-rio-idol-00",
+    "order": 1014,
+    "name": "ノーブルリリーズ",
+    "releaseTime": "1609426800000",
+    "notWearableCostumeIds": []
+  },
+  {
+    "id": "hair-rio-idol-02",
+    "hairAssetId": "rio-base-00",
+    "faceAssetId": "rio-base-00",
+    "sdHairAssetId": "rio-idol-02",
+    "characterId": "char-rio",
+    "wearableCostumeIds": [
+      "cos-rio-idol-02"
+    ],
+    "fittingCostumeId": "cos-rio-idol-02",
+    "order": 1,
+    "name": "フィーリングハート",
+    "releaseTime": "1609426800000",
+    "notWearableCostumeIds": []
+  },
+  {
+    "id": "hair-rio-kait-00",
+    "hairAssetId": "rio-kait-00",
+    "faceAssetId": "rio-base-00",
+    "sdHairAssetId": "rio-kait-00",
+    "characterId": "char-rio",
+    "wearableCostumeIds": [
+      "cos-rio-kait-00"
+    ],
+    "fittingCostumeId": "cos-rio-kait-00",
+    "order": 106,
+    "name": "ザ・ラストチャンス",
+    "releaseTime": "1609426800000",
+    "notWearableCostumeIds": []
+  },
+  {
+    "id": "hair-rio-kiok-00",
+    "hairAssetId": "rio-kiok-00",
+    "faceAssetId": "rio-base-00",
+    "sdHairAssetId": "rio-kiok-00",
+    "characterId": "char-rio",
+    "wearableCostumeIds": [
+      "cos-rio-kiok-00"
+    ],
+    "fittingCostumeId": "cos-rio-kiok-00",
+    "order": 140,
+    "name": "星の海の記憶",
+    "releaseTime": "1664766000000",
+    "notWearableCostumeIds": []
+  },
+  {
+    "id": "hair-rio-miku-00",
+    "hairAssetId": "rio-base-00",
+    "faceAssetId": "rio-base-00",
+    "sdHairAssetId": "rio-miku-00",
+    "characterId": "char-rio",
+    "wearableCostumeIds": [
+      "cos-rio-miku-00"
+    ],
+    "fittingCostumeId": "cos-rio-miku-00",
+    "order": 145,
+    "name": "初音ミク：オリジナル",
+    "releaseTime": "1661914800000",
+    "notWearableCostumeIds": []
+  },
+  {
+    "id": "hair-rio-mizg-00",
+    "hairAssetId": "rio-base-00",
+    "faceAssetId": "rio-base-00",
+    "sdHairAssetId": "rio-mizg-00",
+    "characterId": "char-rio",
+    "wearableCostumeIds": [
+      "cos-rio-mizg-00"
+    ],
+    "fittingCostumeId": "cos-rio-mizg-00",
+    "order": 1,
+    "name": "トレーニング水着",
+    "releaseTime": "1609426800000",
+    "notWearableCostumeIds": []
+  },
+  {
+    "id": "hair-rio-mizg-01",
+    "hairAssetId": "rio-mizg-01",
+    "faceAssetId": "rio-base-00",
+    "sdHairAssetId": "rio-mizg-01",
+    "characterId": "char-rio",
+    "wearableCostumeIds": [
+      "cos-rio-mizg-01"
+    ],
+    "fittingCostumeId": "cos-rio-mizg-01",
+    "order": 131,
+    "name": "ブルースカイサマー",
+    "releaseTime": "1609426800000",
+    "notWearableCostumeIds": []
+  },
+  {
+    "id": "hair-rio-schl-00",
+    "hairAssetId": "rio-base-00",
+    "faceAssetId": "rio-base-00",
+    "sdHairAssetId": "rio-schl-00",
+    "characterId": "char-rio",
+    "wearableCostumeIds": [
+      "cos-rio-schl-00"
+    ],
+    "fittingCostumeId": "cos-rio-schl-00",
+    "order": 1,
+    "name": "月出高等学校",
+    "releaseTime": "1609426800000",
+    "notWearableCostumeIds": []
+  },
+  {
+    "id": "hair-rio-sdam-00",
+    "hairAssetId": "rio-sdam-00",
+    "faceAssetId": "rio-sdam-00",
+    "sdHairAssetId": "rio-sdam-00",
+    "characterId": "char-rio",
+    "wearableCostumeIds": [
+      "cos-rio-sdam-00"
+    ],
+    "fittingCostumeId": "cos-rio-sdam-00",
+    "order": 1,
+    "name": "親善大使",
+    "releaseTime": "1609426800000",
+    "notWearableCostumeIds": []
+  },
+  {
+    "id": "hair-rio-sdpl-00",
+    "hairAssetId": "rio-sdpl-00",
+    "faceAssetId": "rio-sdpl-00",
+    "sdHairAssetId": "rio-sdpl-00",
+    "characterId": "char-rio",
+    "wearableCostumeIds": [
+      "cos-rio-sdpl-00"
+    ],
+    "fittingCostumeId": "cos-rio-sdpl-00",
+    "order": 1,
+    "name": "一日署長",
+    "releaseTime": "1609426800000",
+    "notWearableCostumeIds": []
+  },
+  {
+    "id": "hair-rio-trng-00",
+    "hairAssetId": "rio-base-00",
+    "faceAssetId": "rio-base-00",
+    "sdHairAssetId": "rio-trng-00",
+    "characterId": "char-rio",
+    "wearableCostumeIds": [
+      "cos-rio-trng-00"
+    ],
+    "fittingCostumeId": "cos-rio-trng-00",
+    "order": 1,
+    "name": "トレーニングウェア",
+    "releaseTime": "1609426800000",
+    "notWearableCostumeIds": []
+  },
+  {
+    "id": "hair-rio-vlnt-00",
+    "hairAssetId": "rio-vlnt-00",
+    "faceAssetId": "rio-base-00",
+    "sdHairAssetId": "rio-vlnt-00",
+    "characterId": "char-rio",
+    "wearableCostumeIds": [
+      "cos-rio-vlnt-00"
+    ],
+    "fittingCostumeId": "cos-rio-vlnt-00",
+    "order": 1,
+    "name": "ダークネスシンパサイザー",
+    "releaseTime": "1609426800000",
+    "notWearableCostumeIds": []
+  },
+  {
+    "id": "hair-rui-casl-00",
+    "hairAssetId": "rui-base-00",
+    "faceAssetId": "rui-base-00",
+    "sdHairAssetId": "rui-casl-00",
+    "characterId": "char-rui",
+    "wearableCostumeIds": [
+      "cos-rui-casl-00"
+    ],
+    "fittingCostumeId": "cos-rui-casl-00",
+    "order": 1,
+    "name": "ベーシックスタイル",
+    "releaseTime": "1609426800000",
+    "notWearableCostumeIds": []
+  },
+  {
+    "id": "hair-rui-casl-01",
+    "hairAssetId": "rui-base-00",
+    "faceAssetId": "rui-base-00",
+    "sdHairAssetId": "rui-casl-01",
+    "characterId": "char-rui",
+    "wearableCostumeIds": [
+      "cos-rui-casl-01"
+    ],
+    "fittingCostumeId": "cos-rui-casl-01",
+    "order": 1,
+    "name": "カジュアルスタイル",
+    "releaseTime": "1609426800000",
+    "notWearableCostumeIds": []
+  },
+  {
+    "id": "hair-rui-date-00",
+    "hairAssetId": "rui-date-00",
+    "faceAssetId": "rui-base-00",
+    "sdHairAssetId": "rui-date-00",
+    "characterId": "char-rui",
+    "wearableCostumeIds": [
+      "cos-rui-date-00"
+    ],
+    "fittingCostumeId": "cos-rui-date-00",
+    "order": 112,
+    "name": "サマースタイル",
+    "releaseTime": "1609426800000",
+    "notWearableCostumeIds": []
+  },
+  {
+    "id": "hair-rui-idol-00",
+    "hairAssetId": "rui-base-00",
+    "faceAssetId": "rui-base-00",
+    "sdHairAssetId": "rui-idol-00",
+    "characterId": "char-rui",
+    "wearableCostumeIds": [
+      "cos-rui-idol-00"
+    ],
+    "fittingCostumeId": "cos-rui-idol-00",
+    "order": 1011,
+    "name": "シュヴァリエール",
+    "releaseTime": "1609426800000",
+    "notWearableCostumeIds": []
+  },
+  {
+    "id": "hair-rui-idol-02",
+    "hairAssetId": "rui-base-00",
+    "faceAssetId": "rui-base-00",
+    "sdHairAssetId": "rui-idol-02",
+    "characterId": "char-rui",
+    "wearableCostumeIds": [
+      "cos-rui-idol-02"
+    ],
+    "fittingCostumeId": "cos-rui-idol-02",
+    "order": 1,
+    "name": "フィーリングハート",
+    "releaseTime": "1609426800000",
+    "notWearableCostumeIds": []
+  },
+  {
+    "id": "hair-rui-idol-03",
+    "hairAssetId": "rui-idol-03",
+    "faceAssetId": "rui-base-00",
+    "sdHairAssetId": "rui-idol-03",
+    "characterId": "char-rui",
+    "wearableCostumeIds": [
+      "cos-rui-idol-03"
+    ],
+    "fittingCostumeId": "cos-rui-idol-03",
+    "order": 178,
+    "name": "レ・プリュム",
+    "releaseTime": "1664247600000",
+    "notWearableCostumeIds": []
+  },
+  {
+    "id": "hair-rui-miku-00",
+    "hairAssetId": "rui-miku-00",
+    "faceAssetId": "rui-base-00",
+    "sdHairAssetId": "rui-miku-00",
+    "characterId": "char-rui",
+    "wearableCostumeIds": [
+      "cos-rui-miku-00"
+    ],
+    "fittingCostumeId": "cos-rui-miku-00",
+    "order": 133,
+    "name": "初音ミク：オリジナル",
+    "releaseTime": "1661914800000",
+    "notWearableCostumeIds": []
+  },
+  {
+    "id": "hair-rui-mizg-00",
+    "hairAssetId": "rui-base-00",
+    "faceAssetId": "rui-base-00",
+    "sdHairAssetId": "rui-mizg-00",
+    "characterId": "char-rui",
+    "wearableCostumeIds": [
+      "cos-rui-mizg-00"
+    ],
+    "fittingCostumeId": "cos-rui-mizg-00",
+    "order": 1,
+    "name": "トレーニング水着",
+    "releaseTime": "1609426800000",
+    "notWearableCostumeIds": []
+  },
+  {
+    "id": "hair-rui-mizg-01",
+    "hairAssetId": "rui-mizg-01",
+    "faceAssetId": "rui-base-00",
+    "sdHairAssetId": "rui-mizg-01",
+    "characterId": "char-rui",
+    "wearableCostumeIds": [
+      "cos-rui-mizg-01"
+    ],
+    "fittingCostumeId": "cos-rui-mizg-01",
+    "order": 1,
+    "name": "トロピカルフルール",
+    "releaseTime": "1609426800000",
+    "notWearableCostumeIds": []
+  },
+  {
+    "id": "hair-rui-schl-00",
+    "hairAssetId": "rui-base-00",
+    "faceAssetId": "rui-base-00",
+    "sdHairAssetId": "rui-schl-00",
+    "characterId": "char-rui",
+    "wearableCostumeIds": [
+      "cos-rui-schl-00"
+    ],
+    "fittingCostumeId": "cos-rui-schl-00",
+    "order": 1,
+    "name": "月出高等学校",
+    "releaseTime": "1609426800000",
+    "notWearableCostumeIds": []
+  },
+  {
+    "id": "hair-rui-sdam-00",
+    "hairAssetId": "rui-sdam-00",
+    "faceAssetId": "rui-sdam-00",
+    "sdHairAssetId": "rui-sdam-00",
+    "characterId": "char-rui",
+    "wearableCostumeIds": [
+      "cos-rui-sdam-00"
+    ],
+    "fittingCostumeId": "cos-rui-sdam-00",
+    "order": 1,
+    "name": "親善大使",
+    "releaseTime": "1609426800000",
+    "notWearableCostumeIds": []
+  },
+  {
+    "id": "hair-rui-sdpl-00",
+    "hairAssetId": "rui-sdpl-00",
+    "faceAssetId": "rui-sdpl-00",
+    "sdHairAssetId": "rui-sdpl-00",
+    "characterId": "char-rui",
+    "wearableCostumeIds": [
+      "cos-rui-sdpl-00"
+    ],
+    "fittingCostumeId": "cos-rui-sdpl-00",
+    "order": 1,
+    "name": "一日署長",
+    "releaseTime": "1609426800000",
+    "notWearableCostumeIds": []
+  },
+  {
+    "id": "hair-rui-trng-00",
+    "hairAssetId": "rui-base-00",
+    "faceAssetId": "rui-base-00",
+    "sdHairAssetId": "rui-trng-00",
+    "characterId": "char-rui",
+    "wearableCostumeIds": [
+      "cos-rui-trng-00"
+    ],
+    "fittingCostumeId": "cos-rui-trng-00",
+    "order": 1,
+    "name": "トレーニングウェア",
+    "releaseTime": "1609426800000",
+    "notWearableCostumeIds": []
+  },
+  {
+    "id": "hair-rui-xmas-00",
+    "hairAssetId": "rui-xmas-00",
+    "faceAssetId": "rui-base-00",
+    "sdHairAssetId": "rui-xmas-00",
+    "characterId": "char-rui",
+    "wearableCostumeIds": [
+      "cos-rui-xmas-00"
+    ],
+    "fittingCostumeId": "cos-rui-xmas-00",
+    "order": 83,
+    "name": "ルミエール",
+    "releaseTime": "1609426800000",
+    "notWearableCostumeIds": []
+  },
+  {
+    "id": "hair-rui-yuru-00",
+    "hairAssetId": "rui-yuru-00",
+    "faceAssetId": "rui-base-00",
+    "sdHairAssetId": "rui-yuru-00",
+    "characterId": "char-rui",
+    "wearableCostumeIds": [
+      "cos-rui-yuru-00"
+    ],
+    "fittingCostumeId": "cos-rui-yuru-00",
+    "order": 1,
+    "name": "クロッカスの扉",
+    "releaseTime": "1609426800000",
+    "notWearableCostumeIds": []
+  },
+  {
+    "id": "hair-ski-casl-00",
+    "hairAssetId": "ski-base-00",
+    "faceAssetId": "ski-base-00",
+    "sdHairAssetId": "ski-casl-00",
+    "characterId": "char-ski",
+    "wearableCostumeIds": [
+      "cos-ski-casl-00"
+    ],
+    "fittingCostumeId": "cos-ski-casl-00",
+    "order": 1,
+    "name": "ベーシックスタイル",
+    "releaseTime": "1609426800000",
+    "notWearableCostumeIds": []
+  },
+  {
+    "id": "hair-ski-casl-01",
+    "hairAssetId": "ski-base-00",
+    "faceAssetId": "ski-base-00",
+    "sdHairAssetId": "ski-casl-01",
+    "characterId": "char-ski",
+    "wearableCostumeIds": [
+      "cos-ski-casl-01"
+    ],
+    "fittingCostumeId": "cos-ski-casl-01",
+    "order": 1,
+    "name": "カジュアルスタイル",
+    "releaseTime": "1609426800000",
+    "notWearableCostumeIds": []
+  },
+  {
+    "id": "hair-ski-chsk-00",
+    "hairAssetId": "ski-chsk-00",
+    "faceAssetId": "ski-base-00",
+    "sdHairAssetId": "ski-chsk-00",
+    "characterId": "char-ski",
+    "wearableCostumeIds": [
+      "cos-ski-chsk-00"
+    ],
+    "fittingCostumeId": "cos-ski-chsk-00",
+    "order": 110,
+    "name": "つながる心Binary",
+    "releaseTime": "1609426800000",
+    "notWearableCostumeIds": []
+  },
+  {
+    "id": "hair-ski-idol-00",
+    "hairAssetId": "ski-base-00",
+    "faceAssetId": "ski-base-00",
+    "sdHairAssetId": "ski-idol-00",
+    "characterId": "char-ski",
+    "wearableCostumeIds": [
+      "cos-ski-idol-00"
+    ],
+    "fittingCostumeId": "cos-ski-idol-00",
+    "order": 1005,
+    "name": "クイーンオブザナイト",
+    "releaseTime": "1609426800000",
+    "notWearableCostumeIds": []
+  },
+  {
+    "id": "hair-ski-idol-01",
+    "hairAssetId": "ski-idol-01",
+    "faceAssetId": "ski-base-00",
+    "sdHairAssetId": "ski-idol-01",
+    "characterId": "char-ski",
+    "wearableCostumeIds": [
+      "cos-ski-idol-01"
+    ],
+    "fittingCostumeId": "cos-ski-idol-01",
+    "order": 1705,
+    "name": "フェアウェルマイラブリー",
+    "releaseTime": "1609426800000",
+    "notWearableCostumeIds": []
+  },
+  {
+    "id": "hair-ski-idol-02",
+    "hairAssetId": "ski-base-00",
+    "faceAssetId": "ski-base-00",
+    "sdHairAssetId": "ski-idol-02",
+    "characterId": "char-ski",
+    "wearableCostumeIds": [
+      "cos-ski-idol-02"
+    ],
+    "fittingCostumeId": "cos-ski-idol-02",
+    "order": 1,
+    "name": "フィーリングハート",
+    "releaseTime": "1609426800000",
+    "notWearableCostumeIds": []
+  },
+  {
+    "id": "hair-ski-kifj-00",
+    "hairAssetId": "ski-kifj-00",
+    "faceAssetId": "ski-base-00",
+    "sdHairAssetId": "ski-kifj-00",
+    "characterId": "char-ski",
+    "wearableCostumeIds": [
+      "cos-ski-kifj-00"
+    ],
+    "fittingCostumeId": "cos-ski-kifj-00",
+    "order": 815,
+    "name": "マイフェアレディ",
+    "releaseTime": "1609426800000",
+    "notWearableCostumeIds": []
+  },
+  {
+    "id": "hair-ski-miku-00",
+    "hairAssetId": "ski-base-00",
+    "faceAssetId": "ski-base-00",
+    "sdHairAssetId": "ski-miku-00",
+    "characterId": "char-ski",
+    "wearableCostumeIds": [
+      "cos-ski-miku-00"
+    ],
+    "fittingCostumeId": "cos-ski-miku-00",
+    "order": 139,
+    "name": "初音ミク：オリジナル",
+    "releaseTime": "1661914800000",
+    "notWearableCostumeIds": []
+  },
+  {
+    "id": "hair-ski-mizg-00",
+    "hairAssetId": "ski-base-00",
+    "faceAssetId": "ski-base-00",
+    "sdHairAssetId": "ski-mizg-00",
+    "characterId": "char-ski",
+    "wearableCostumeIds": [
+      "cos-ski-mizg-00"
+    ],
+    "fittingCostumeId": "cos-ski-mizg-00",
+    "order": 1,
+    "name": "トレーニング水着",
+    "releaseTime": "1609426800000",
+    "notWearableCostumeIds": []
+  },
+  {
+    "id": "hair-ski-mizg-01",
+    "hairAssetId": "ski-mizg-01",
+    "faceAssetId": "ski-base-00",
+    "sdHairAssetId": "ski-mizg-01",
+    "characterId": "char-ski",
+    "wearableCostumeIds": [
+      "cos-ski-mizg-01"
+    ],
+    "fittingCostumeId": "cos-ski-mizg-01",
+    "order": 1,
+    "name": "ムーンライトラブサマー",
+    "releaseTime": "1609426800000",
+    "notWearableCostumeIds": []
+  },
+  {
+    "id": "hair-ski-mizg-02",
+    "hairAssetId": "ski-mizg-02",
+    "faceAssetId": "ski-base-00",
+    "sdHairAssetId": "ski-mizg-02",
+    "characterId": "char-ski",
+    "wearableCostumeIds": [
+      "cos-ski-mizg-02"
+    ],
+    "fittingCostumeId": "cos-ski-mizg-02",
+    "order": 131,
+    "name": "ソレイユホットサマー",
+    "releaseTime": "1609426800000",
+    "notWearableCostumeIds": []
+  },
+  {
+    "id": "hair-ski-schl-00",
+    "hairAssetId": "ski-base-00",
+    "faceAssetId": "ski-base-00",
+    "sdHairAssetId": "ski-schl-00",
+    "characterId": "char-ski",
+    "wearableCostumeIds": [
+      "cos-ski-schl-00"
+    ],
+    "fittingCostumeId": "cos-ski-schl-00",
+    "order": 1,
+    "name": "光ヶ崎高等学校",
+    "releaseTime": "1609426800000",
+    "notWearableCostumeIds": []
+  },
+  {
+    "id": "hair-ski-sdam-00",
+    "hairAssetId": "ski-sdam-00",
+    "faceAssetId": "ski-sdam-00",
+    "sdHairAssetId": "ski-sdam-00",
+    "characterId": "char-ski",
+    "wearableCostumeIds": [
+      "cos-ski-sdam-00"
+    ],
+    "fittingCostumeId": "cos-ski-sdam-00",
+    "order": 1,
+    "name": "親善大使",
+    "releaseTime": "1609426800000",
+    "notWearableCostumeIds": []
+  },
+  {
+    "id": "hair-ski-sdpl-00",
+    "hairAssetId": "ski-sdpl-00",
+    "faceAssetId": "ski-sdpl-00",
+    "sdHairAssetId": "ski-sdpl-00",
+    "characterId": "char-ski",
+    "wearableCostumeIds": [
+      "cos-ski-sdpl-00"
+    ],
+    "fittingCostumeId": "cos-ski-sdpl-00",
+    "order": 1,
+    "name": "一日署長",
+    "releaseTime": "1609426800000",
+    "notWearableCostumeIds": []
+  },
+  {
+    "id": "hair-ski-trng-00",
+    "hairAssetId": "ski-base-00",
+    "faceAssetId": "ski-base-00",
+    "sdHairAssetId": "ski-trng-00",
+    "characterId": "char-ski",
+    "wearableCostumeIds": [
+      "cos-ski-trng-00"
+    ],
+    "fittingCostumeId": "cos-ski-trng-00",
+    "order": 1,
+    "name": "トレーニングウェア",
+    "releaseTime": "1609426800000",
+    "notWearableCostumeIds": []
+  },
+  {
+    "id": "hair-ski-waso-00",
+    "hairAssetId": "ski-waso-00",
+    "faceAssetId": "ski-base-00",
+    "sdHairAssetId": "ski-waso-00",
+    "characterId": "char-ski",
+    "wearableCostumeIds": [
+      "cos-ski-waso-00"
+    ],
+    "fittingCostumeId": "cos-ski-waso-00",
+    "order": 92,
+    "name": "ハートオブロック",
+    "releaseTime": "1609426800000",
+    "notWearableCostumeIds": []
+  },
+  {
+    "id": "hair-skr-casl-00",
+    "hairAssetId": "skr-base-00",
+    "faceAssetId": "skr-base-00",
+    "sdHairAssetId": "skr-casl-00",
+    "characterId": "char-skr",
+    "wearableCostumeIds": [
+      "cos-skr-casl-00"
+    ],
+    "fittingCostumeId": "cos-skr-casl-00",
+    "order": 1,
+    "name": "ベーシックスタイル",
+    "releaseTime": "1609426800000",
+    "notWearableCostumeIds": []
+  },
+  {
+    "id": "hair-skr-casl-01",
+    "hairAssetId": "skr-base-00",
+    "faceAssetId": "skr-base-00",
+    "sdHairAssetId": "skr-casl-01",
+    "characterId": "char-skr",
+    "wearableCostumeIds": [
+      "cos-skr-casl-01"
+    ],
+    "fittingCostumeId": "cos-skr-casl-01",
+    "order": 1,
+    "name": "カジュアルスタイル",
+    "releaseTime": "1609426800000",
+    "notWearableCostumeIds": []
+  },
+  {
+    "id": "hair-skr-fest-00",
+    "hairAssetId": "skr-fest-00",
+    "faceAssetId": "skr-base-00",
+    "sdHairAssetId": "skr-fest-00",
+    "characterId": "char-skr",
+    "wearableCostumeIds": [
+      "cos-skr-fest-00"
+    ],
+    "fittingCostumeId": "cos-skr-fest-00",
+    "order": 1806,
+    "name": "エターナルブリリアンス",
+    "releaseTime": "1609426800000",
+    "notWearableCostumeIds": []
+  },
+  {
+    "id": "hair-skr-flow-00",
+    "hairAssetId": "skr-base-00",
+    "faceAssetId": "skr-base-00",
+    "sdHairAssetId": "skr-flow-00",
+    "characterId": "char-skr",
+    "wearableCostumeIds": [
+      "cos-skr-flow-00"
+    ],
+    "fittingCostumeId": "cos-skr-flow-00",
+    "order": 163,
+    "name": "エーデルハイドランジア",
+    "releaseTime": "1666148400000",
+    "notWearableCostumeIds": []
+  },
+  {
+    "id": "hair-skr-idol-00",
+    "hairAssetId": "skr-base-00",
+    "faceAssetId": "skr-base-00",
+    "sdHairAssetId": "skr-idol-00",
+    "characterId": "char-skr",
+    "wearableCostumeIds": [
+      "cos-skr-idol-00"
+    ],
+    "fittingCostumeId": "cos-skr-idol-00",
+    "order": 1006,
+    "name": "アセンブルハーモニー",
+    "releaseTime": "1609426800000",
+    "notWearableCostumeIds": []
+  },
+  {
+    "id": "hair-skr-idol-01",
+    "hairAssetId": "skr-idol-01",
+    "faceAssetId": "skr-base-00",
+    "sdHairAssetId": "skr-idol-01",
+    "characterId": "char-skr",
+    "wearableCostumeIds": [
+      "cos-skr-idol-01"
+    ],
+    "fittingCostumeId": "cos-skr-idol-01",
+    "order": 1706,
+    "name": "フェアウェルマイラブリー",
+    "releaseTime": "1609426800000",
+    "notWearableCostumeIds": []
+  },
+  {
+    "id": "hair-skr-idol-02",
+    "hairAssetId": "skr-base-00",
+    "faceAssetId": "skr-base-00",
+    "sdHairAssetId": "skr-idol-02",
+    "characterId": "char-skr",
+    "wearableCostumeIds": [
+      "cos-skr-idol-02"
+    ],
+    "fittingCostumeId": "cos-skr-idol-02",
+    "order": 1,
+    "name": "フィーリングハート",
+    "releaseTime": "1609426800000",
+    "notWearableCostumeIds": []
+  },
+  {
+    "id": "hair-skr-idol-03",
+    "hairAssetId": "skr-idol-03",
+    "faceAssetId": "skr-base-00",
+    "sdHairAssetId": "skr-idol-03",
+    "characterId": "char-skr",
+    "wearableCostumeIds": [
+      "cos-skr-idol-03"
+    ],
+    "fittingCostumeId": "cos-skr-idol-03",
+    "order": 114,
+    "name": "ウィズ・ザ・サンシャイン",
+    "releaseTime": "1609426800000",
+    "notWearableCostumeIds": []
+  },
+  {
+    "id": "hair-skr-miku-00",
+    "hairAssetId": "skr-base-00",
+    "faceAssetId": "skr-base-00",
+    "sdHairAssetId": "skr-miku-00",
+    "characterId": "char-skr",
+    "wearableCostumeIds": [
+      "cos-skr-miku-00"
+    ],
+    "fittingCostumeId": "cos-skr-miku-00",
+    "order": 140,
+    "name": "初音ミク：オリジナル",
+    "releaseTime": "1661914800000",
+    "notWearableCostumeIds": []
+  },
+  {
+    "id": "hair-skr-mizg-00",
+    "hairAssetId": "skr-base-00",
+    "faceAssetId": "skr-base-00",
+    "sdHairAssetId": "skr-mizg-00",
+    "characterId": "char-skr",
+    "wearableCostumeIds": [
+      "cos-skr-mizg-00"
+    ],
+    "fittingCostumeId": "cos-skr-mizg-00",
+    "order": 1,
+    "name": "トレーニング水着",
+    "releaseTime": "1609426800000",
+    "notWearableCostumeIds": []
+  },
+  {
+    "id": "hair-skr-mizg-01",
+    "hairAssetId": "skr-mizg-01",
+    "faceAssetId": "skr-base-00",
+    "sdHairAssetId": "skr-mizg-01",
+    "characterId": "char-skr",
+    "wearableCostumeIds": [
+      "cos-skr-mizg-01"
+    ],
+    "fittingCostumeId": "cos-skr-mizg-01",
+    "order": 1,
+    "name": "サマーホリデイ",
+    "releaseTime": "1609426800000",
+    "notWearableCostumeIds": []
+  },
+  {
+    "id": "hair-skr-newy-00",
+    "hairAssetId": "skr-newy-00",
+    "faceAssetId": "skr-base-00",
+    "sdHairAssetId": "skr-newy-00",
+    "characterId": "char-skr",
+    "wearableCostumeIds": [
+      "cos-skr-newy-00"
+    ],
+    "fittingCostumeId": "cos-skr-newy-00",
+    "order": 90,
+    "name": "全力振袖・桜",
+    "releaseTime": "1641178800000",
+    "notWearableCostumeIds": []
+  },
+  {
+    "id": "hair-skr-schl-00",
+    "hairAssetId": "skr-base-00",
+    "faceAssetId": "skr-base-00",
+    "sdHairAssetId": "skr-schl-00",
+    "characterId": "char-skr",
+    "wearableCostumeIds": [
+      "cos-skr-schl-00"
+    ],
+    "fittingCostumeId": "cos-skr-schl-00",
+    "order": 1,
+    "name": "光ヶ崎高等学校",
+    "releaseTime": "1609426800000",
+    "notWearableCostumeIds": []
+  },
+  {
+    "id": "hair-skr-sdam-00",
+    "hairAssetId": "skr-sdam-00",
+    "faceAssetId": "skr-sdam-00",
+    "sdHairAssetId": "skr-sdam-00",
+    "characterId": "char-skr",
+    "wearableCostumeIds": [
+      "cos-skr-sdam-00"
+    ],
+    "fittingCostumeId": "cos-skr-sdam-00",
+    "order": 1,
+    "name": "親善大使",
+    "releaseTime": "1609426800000",
+    "notWearableCostumeIds": []
+  },
+  {
+    "id": "hair-skr-sdpl-00",
+    "hairAssetId": "skr-sdpl-00",
+    "faceAssetId": "skr-sdpl-00",
+    "sdHairAssetId": "skr-sdpl-00",
+    "characterId": "char-skr",
+    "wearableCostumeIds": [
+      "cos-skr-sdpl-00"
+    ],
+    "fittingCostumeId": "cos-skr-sdpl-00",
+    "order": 1,
+    "name": "一日署長",
+    "releaseTime": "1609426800000",
+    "notWearableCostumeIds": []
+  },
+  {
+    "id": "hair-skr-trng-00",
+    "hairAssetId": "skr-base-00",
+    "faceAssetId": "skr-base-00",
+    "sdHairAssetId": "skr-trng-00",
+    "characterId": "char-skr",
+    "wearableCostumeIds": [
+      "cos-skr-trng-00"
+    ],
+    "fittingCostumeId": "cos-skr-trng-00",
+    "order": 1,
+    "name": "トレーニングウェア",
+    "releaseTime": "1609426800000",
+    "notWearableCostumeIds": []
+  },
+  {
+    "id": "hair-smr-casl-00",
+    "hairAssetId": "smr-base-00",
+    "faceAssetId": "smr-base-00",
+    "sdHairAssetId": "smr-casl-00",
+    "characterId": "char-smr",
+    "wearableCostumeIds": [
+      "cos-smr-casl-00"
+    ],
+    "fittingCostumeId": "cos-smr-casl-00",
+    "order": 1,
+    "name": "ベーシックスタイル",
+    "releaseTime": "1609426800000",
+    "notWearableCostumeIds": []
+  },
+  {
+    "id": "hair-smr-casl-01",
+    "hairAssetId": "smr-base-00",
+    "faceAssetId": "smr-base-00",
+    "sdHairAssetId": "smr-casl-01",
+    "characterId": "char-smr",
+    "wearableCostumeIds": [
+      "cos-smr-casl-01"
+    ],
+    "fittingCostumeId": "cos-smr-casl-01",
+    "order": 1,
+    "name": "カジュアルスタイル",
+    "releaseTime": "1609426800000",
+    "notWearableCostumeIds": []
+  },
+  {
+    "id": "hair-smr-fest-00",
+    "hairAssetId": "smr-fest-00",
+    "faceAssetId": "smr-base-00",
+    "sdHairAssetId": "smr-fest-00",
+    "characterId": "char-smr",
+    "wearableCostumeIds": [
+      "cos-smr-fest-00"
+    ],
+    "fittingCostumeId": "cos-smr-fest-00",
+    "order": 138,
+    "name": "エターナルブリリアンス",
+    "releaseTime": "1664247600000",
+    "notWearableCostumeIds": []
+  },
+  {
+    "id": "hair-smr-frut-00",
+    "hairAssetId": "smr-frut-00",
+    "faceAssetId": "smr-base-00",
+    "sdHairAssetId": "smr-frut-00",
+    "characterId": "char-smr",
+    "wearableCostumeIds": [
+      "cos-smr-frut-00"
+    ],
+    "fittingCostumeId": "cos-smr-frut-00",
+    "order": 101,
+    "name": "ラブリーチェリー",
+    "releaseTime": "1609426800000",
+    "notWearableCostumeIds": []
+  },
+  {
+    "id": "hair-smr-idol-00",
+    "hairAssetId": "smr-idol-00",
+    "faceAssetId": "smr-base-00",
+    "sdHairAssetId": "smr-idol-00",
+    "characterId": "char-smr",
+    "wearableCostumeIds": [
+      "cos-smr-idol-00"
+    ],
+    "fittingCostumeId": "cos-smr-idol-00",
+    "order": 1013,
+    "name": "シュヴァリエール",
+    "releaseTime": "1609426800000",
+    "notWearableCostumeIds": []
+  },
+  {
+    "id": "hair-smr-idol-02",
+    "hairAssetId": "smr-base-00",
+    "faceAssetId": "smr-base-00",
+    "sdHairAssetId": "smr-idol-02",
+    "characterId": "char-smr",
+    "wearableCostumeIds": [
+      "cos-smr-idol-02"
+    ],
+    "fittingCostumeId": "cos-smr-idol-02",
+    "order": 1,
+    "name": "フィーリングハート",
+    "releaseTime": "1609426800000",
+    "notWearableCostumeIds": []
+  },
+  {
+    "id": "hair-smr-idol-03",
+    "hairAssetId": "smr-idol-03",
+    "faceAssetId": "smr-base-00",
+    "sdHairAssetId": "smr-idol-03",
+    "characterId": "char-smr",
+    "wearableCostumeIds": [
+      "cos-smr-idol-03"
+    ],
+    "fittingCostumeId": "cos-smr-idol-03",
+    "order": 179,
+    "name": "レ・プリュム",
+    "releaseTime": "1664247600000",
+    "notWearableCostumeIds": []
+  },
+  {
+    "id": "hair-smr-miku-00",
+    "hairAssetId": "smr-base-00",
+    "faceAssetId": "smr-base-00",
+    "sdHairAssetId": "smr-miku-00",
+    "characterId": "char-smr",
+    "wearableCostumeIds": [
+      "cos-smr-miku-00"
+    ],
+    "fittingCostumeId": "cos-smr-miku-00",
+    "order": 149,
+    "name": "初音ミク：オリジナル",
+    "releaseTime": "1661914800000",
+    "notWearableCostumeIds": []
+  },
+  {
+    "id": "hair-smr-mizg-00",
+    "hairAssetId": "smr-base-00",
+    "faceAssetId": "smr-base-00",
+    "sdHairAssetId": "smr-mizg-00",
+    "characterId": "char-smr",
+    "wearableCostumeIds": [
+      "cos-smr-mizg-00"
+    ],
+    "fittingCostumeId": "cos-smr-mizg-00",
+    "order": 1,
+    "name": "トレーニング水着",
+    "releaseTime": "1609426800000",
+    "notWearableCostumeIds": []
+  },
+  {
+    "id": "hair-smr-mizg-01",
+    "hairAssetId": "smr-mizg-01",
+    "faceAssetId": "smr-base-00",
+    "sdHairAssetId": "smr-mizg-01",
+    "characterId": "char-smr",
+    "wearableCostumeIds": [
+      "cos-smr-mizg-01"
+    ],
+    "fittingCostumeId": "cos-smr-mizg-01",
+    "order": 1,
+    "name": "トロピカルフルール",
+    "releaseTime": "1609426800000",
+    "notWearableCostumeIds": []
+  },
+  {
+    "id": "hair-smr-schl-00",
+    "hairAssetId": "smr-base-00",
+    "faceAssetId": "smr-base-00",
+    "sdHairAssetId": "smr-schl-00",
+    "characterId": "char-smr",
+    "wearableCostumeIds": [
+      "cos-smr-schl-00"
+    ],
+    "fittingCostumeId": "cos-smr-schl-00",
+    "order": 1,
+    "name": "紅花中学校",
+    "releaseTime": "1609426800000",
+    "notWearableCostumeIds": []
+  },
+  {
+    "id": "hair-smr-sdam-00",
+    "hairAssetId": "smr-sdam-00",
+    "faceAssetId": "smr-sdam-00",
+    "sdHairAssetId": "smr-sdam-00",
+    "characterId": "char-smr",
+    "wearableCostumeIds": [
+      "cos-smr-sdam-00"
+    ],
+    "fittingCostumeId": "cos-smr-sdam-00",
+    "order": 1,
+    "name": "親善大使",
+    "releaseTime": "1609426800000",
+    "notWearableCostumeIds": []
+  },
+  {
+    "id": "hair-smr-sdpl-00",
+    "hairAssetId": "smr-sdpl-00",
+    "faceAssetId": "smr-sdpl-00",
+    "sdHairAssetId": "smr-sdpl-00",
+    "characterId": "char-smr",
+    "wearableCostumeIds": [
+      "cos-smr-sdpl-00"
+    ],
+    "fittingCostumeId": "cos-smr-sdpl-00",
+    "order": 1,
+    "name": "一日署長",
+    "releaseTime": "1609426800000",
+    "notWearableCostumeIds": []
+  },
+  {
+    "id": "hair-smr-trng-00",
+    "hairAssetId": "smr-base-00",
+    "faceAssetId": "smr-base-00",
+    "sdHairAssetId": "smr-trng-00",
+    "characterId": "char-smr",
+    "wearableCostumeIds": [
+      "cos-smr-trng-00"
+    ],
+    "fittingCostumeId": "cos-smr-trng-00",
+    "order": 1,
+    "name": "トレーニングウェア",
+    "releaseTime": "1609426800000",
+    "notWearableCostumeIds": []
+  },
+  {
+    "id": "hair-smr-xmas-00",
+    "hairAssetId": "smr-xmas-00",
+    "faceAssetId": "smr-base-00",
+    "sdHairAssetId": "smr-xmas-00",
+    "characterId": "char-smr",
+    "wearableCostumeIds": [
+      "cos-smr-xmas-00"
+    ],
+    "fittingCostumeId": "cos-smr-xmas-00",
+    "order": 82,
+    "name": "ルミエール",
+    "releaseTime": "1609426800000",
+    "notWearableCostumeIds": []
+  },
+  {
+    "id": "hair-stm-casl-00",
+    "hairAssetId": "stm-base-00",
+    "faceAssetId": "stm-base-00",
+    "sdHairAssetId": "stm-casl-00",
+    "characterId": "char-stm",
+    "wearableCostumeIds": [
+      "cos-stm-casl-00"
+    ],
+    "fittingCostumeId": "cos-stm-casl-00",
+    "order": 9999,
+    "name": "ベーシックスタイル",
+    "releaseTime": "1609426800000",
+    "notWearableCostumeIds": []
+  },
+  {
+    "id": "hair-suz-anml-00",
+    "hairAssetId": "suz-anml-00",
+    "faceAssetId": "suz-base-00",
+    "sdHairAssetId": "suz-anml-00",
+    "characterId": "char-suz",
+    "wearableCostumeIds": [
+      "cos-suz-anml-00"
+    ],
+    "fittingCostumeId": "cos-suz-anml-00",
+    "order": 77,
+    "name": "スイートレディベア",
+    "releaseTime": "1609426800000",
+    "notWearableCostumeIds": []
+  },
+  {
+    "id": "hair-suz-casl-00",
+    "hairAssetId": "suz-base-00",
+    "faceAssetId": "suz-base-00",
+    "sdHairAssetId": "suz-casl-00",
+    "characterId": "char-suz",
+    "wearableCostumeIds": [
+      "cos-suz-casl-00"
+    ],
+    "fittingCostumeId": "cos-suz-casl-00",
+    "order": 1,
+    "name": "ベーシックスタイル",
+    "releaseTime": "1609426800000",
+    "notWearableCostumeIds": []
+  },
+  {
+    "id": "hair-suz-casl-01",
+    "hairAssetId": "suz-base-00",
+    "faceAssetId": "suz-base-00",
+    "sdHairAssetId": "suz-casl-01",
+    "characterId": "char-suz",
+    "wearableCostumeIds": [
+      "cos-suz-casl-01"
+    ],
+    "fittingCostumeId": "cos-suz-casl-01",
+    "order": 1,
+    "name": "カジュアルスタイル",
+    "releaseTime": "1609426800000",
+    "notWearableCostumeIds": []
+  },
+  {
+    "id": "hair-suz-idol-00",
+    "hairAssetId": "suz-base-00",
+    "faceAssetId": "suz-base-00",
+    "sdHairAssetId": "suz-idol-00",
+    "characterId": "char-suz",
+    "wearableCostumeIds": [
+      "cos-suz-idol-00"
+    ],
+    "fittingCostumeId": "cos-suz-idol-00",
+    "order": 1004,
+    "name": "クイーンオブザナイト",
+    "releaseTime": "1609426800000",
+    "notWearableCostumeIds": []
+  },
+  {
+    "id": "hair-suz-idol-01",
+    "hairAssetId": "suz-idol-01",
+    "faceAssetId": "suz-base-00",
+    "sdHairAssetId": "suz-idol-01",
+    "characterId": "char-suz",
+    "wearableCostumeIds": [
+      "cos-suz-idol-01"
+    ],
+    "fittingCostumeId": "cos-suz-idol-01",
+    "order": 1704,
+    "name": "フェアウェルマイラブリー",
+    "releaseTime": "1609426800000",
+    "notWearableCostumeIds": []
+  },
+  {
+    "id": "hair-suz-idol-02",
+    "hairAssetId": "suz-base-00",
+    "faceAssetId": "suz-base-00",
+    "sdHairAssetId": "suz-idol-02",
+    "characterId": "char-suz",
+    "wearableCostumeIds": [
+      "cos-suz-idol-02"
+    ],
+    "fittingCostumeId": "cos-suz-idol-02",
+    "order": 1,
+    "name": "フィーリングハート",
+    "releaseTime": "1609426800000",
+    "notWearableCostumeIds": []
+  },
+  {
+    "id": "hair-suz-miku-00",
+    "hairAssetId": "suz-base-00",
+    "faceAssetId": "suz-base-00",
+    "sdHairAssetId": "suz-miku-00",
+    "characterId": "char-suz",
+    "wearableCostumeIds": [
+      "cos-suz-miku-00"
+    ],
+    "fittingCostumeId": "cos-suz-miku-00",
+    "order": 138,
+    "name": "初音ミク：オリジナル",
+    "releaseTime": "1661914800000",
+    "notWearableCostumeIds": []
+  },
+  {
+    "id": "hair-suz-mizg-00",
+    "hairAssetId": "suz-base-00",
+    "faceAssetId": "suz-base-00",
+    "sdHairAssetId": "suz-mizg-00",
+    "characterId": "char-suz",
+    "wearableCostumeIds": [
+      "cos-suz-mizg-00"
+    ],
+    "fittingCostumeId": "cos-suz-mizg-00",
+    "order": 1,
+    "name": "トレーニング水着",
+    "releaseTime": "1609426800000",
+    "notWearableCostumeIds": []
+  },
+  {
+    "id": "hair-suz-mizg-01",
+    "hairAssetId": "suz-mizg-01",
+    "faceAssetId": "suz-base-00",
+    "sdHairAssetId": "suz-mizg-01",
+    "characterId": "char-suz",
+    "wearableCostumeIds": [
+      "cos-suz-mizg-01"
+    ],
+    "fittingCostumeId": "cos-suz-mizg-01",
+    "order": 1,
+    "name": "ムーンライトラブサマー",
+    "releaseTime": "1609426800000",
+    "notWearableCostumeIds": []
+  },
+  {
+    "id": "hair-suz-mizg-02",
+    "hairAssetId": "suz-base-00",
+    "faceAssetId": "suz-base-00",
+    "sdHairAssetId": "suz-mizg-02",
+    "characterId": "char-suz",
+    "wearableCostumeIds": [
+      "cos-suz-mizg-02"
+    ],
+    "fittingCostumeId": "cos-suz-mizg-02",
+    "order": 126,
+    "name": "ソレイユホットサマー",
+    "releaseTime": "1609426800000",
+    "notWearableCostumeIds": []
+  },
+  {
+    "id": "hair-suz-onep-00",
+    "hairAssetId": "suz-onep-00",
+    "faceAssetId": "suz-base-00",
+    "sdHairAssetId": "suz-onep-00",
+    "characterId": "char-suz",
+    "wearableCostumeIds": [
+      "cos-suz-onep-00"
+    ],
+    "fittingCostumeId": "cos-suz-onep-00",
+    "order": 107,
+    "name": "プレシャスワン",
+    "releaseTime": "1609426800000",
+    "notWearableCostumeIds": []
+  },
+  {
+    "id": "hair-suz-schl-00",
+    "hairAssetId": "suz-base-00",
+    "faceAssetId": "suz-base-00",
+    "sdHairAssetId": "suz-schl-00",
+    "characterId": "char-suz",
+    "wearableCostumeIds": [
+      "cos-suz-schl-00"
+    ],
+    "fittingCostumeId": "cos-suz-schl-00",
+    "order": 1,
+    "name": "麗葉女学院中等部",
+    "releaseTime": "1609426800000",
+    "notWearableCostumeIds": []
+  },
+  {
+    "id": "hair-suz-sdam-00",
+    "hairAssetId": "suz-sdam-00",
+    "faceAssetId": "suz-sdam-00",
+    "sdHairAssetId": "suz-sdam-00",
+    "characterId": "char-suz",
+    "wearableCostumeIds": [
+      "cos-suz-sdam-00"
+    ],
+    "fittingCostumeId": "cos-suz-sdam-00",
+    "order": 1,
+    "name": "親善大使",
+    "releaseTime": "1609426800000",
+    "notWearableCostumeIds": []
+  },
+  {
+    "id": "hair-suz-sdpl-00",
+    "hairAssetId": "suz-sdpl-00",
+    "faceAssetId": "suz-sdpl-00",
+    "sdHairAssetId": "suz-sdpl-00",
+    "characterId": "char-suz",
+    "wearableCostumeIds": [
+      "cos-suz-sdpl-00"
+    ],
+    "fittingCostumeId": "cos-suz-sdpl-00",
+    "order": 1,
+    "name": "一日署長",
+    "releaseTime": "1609426800000",
+    "notWearableCostumeIds": []
+  },
+  {
+    "id": "hair-suz-seik-00",
+    "hairAssetId": "suz-seik-00",
+    "faceAssetId": "suz-base-00",
+    "sdHairAssetId": "suz-seik-00",
+    "characterId": "char-suz",
+    "wearableCostumeIds": [
+      "cos-suz-seik-00"
+    ],
+    "fittingCostumeId": "cos-suz-seik-00",
+    "order": 135,
+    "name": "エンジェルブレッシング",
+    "releaseTime": "1663210800000",
+    "notWearableCostumeIds": []
+  },
+  {
+    "id": "hair-suz-trng-00",
+    "hairAssetId": "suz-base-00",
+    "faceAssetId": "suz-base-00",
+    "sdHairAssetId": "suz-trng-00",
+    "characterId": "char-suz",
+    "wearableCostumeIds": [
+      "cos-suz-trng-00"
+    ],
+    "fittingCostumeId": "cos-suz-trng-00",
+    "order": 1,
+    "name": "トレーニングウェア",
+    "releaseTime": "1609426800000",
+    "notWearableCostumeIds": []
+  },
+  {
+    "id": "hair-szk-casl-00",
+    "hairAssetId": "szk-base-00",
+    "faceAssetId": "szk-base-00",
+    "sdHairAssetId": "szk-casl-00",
+    "characterId": "char-szk",
+    "wearableCostumeIds": [
+      "cos-szk-casl-00"
+    ],
+    "fittingCostumeId": "cos-szk-casl-00",
+    "order": 1,
+    "name": "ベーシックスタイル",
+    "releaseTime": "1609426800000",
+    "notWearableCostumeIds": []
+  },
+  {
+    "id": "hair-szk-casl-01",
+    "hairAssetId": "szk-base-00",
+    "faceAssetId": "szk-base-00",
+    "sdHairAssetId": "szk-casl-01",
+    "characterId": "char-szk",
+    "wearableCostumeIds": [
+      "cos-szk-casl-01"
+    ],
+    "fittingCostumeId": "cos-szk-casl-01",
+    "order": 1,
+    "name": "カジュアルスタイル",
+    "releaseTime": "1609426800000",
+    "notWearableCostumeIds": []
+  },
+  {
+    "id": "hair-szk-chna-00",
+    "hairAssetId": "szk-chna-00",
+    "faceAssetId": "szk-base-00",
+    "sdHairAssetId": "szk-chna-00",
+    "characterId": "char-szk",
+    "wearableCostumeIds": [
+      "cos-szk-chna-00"
+    ],
+    "fittingCostumeId": "cos-szk-chna-00",
+    "order": 80,
+    "name": "獅子舞華衣",
+    "releaseTime": "1609426800000",
+    "notWearableCostumeIds": []
+  },
+  {
+    "id": "hair-szk-flow-00",
+    "hairAssetId": "szk-flow-00",
+    "faceAssetId": "szk-base-00",
+    "sdHairAssetId": "szk-flow-00",
+    "characterId": "char-szk",
+    "wearableCostumeIds": [
+      "cos-szk-flow-00"
+    ],
+    "fittingCostumeId": "cos-szk-flow-00",
+    "order": 162,
+    "name": "エーデルハイドランジア",
+    "releaseTime": "1666148400000",
+    "notWearableCostumeIds": []
+  },
+  {
+    "id": "hair-szk-idol-00",
+    "hairAssetId": "szk-base-00",
+    "faceAssetId": "szk-base-00",
+    "sdHairAssetId": "szk-idol-00",
+    "characterId": "char-szk",
+    "wearableCostumeIds": [
+      "cos-szk-idol-00"
+    ],
+    "fittingCostumeId": "cos-szk-idol-00",
+    "order": 1009,
+    "name": "アセンブルハーモニー",
+    "releaseTime": "1609426800000",
+    "notWearableCostumeIds": []
+  },
+  {
+    "id": "hair-szk-idol-01",
+    "hairAssetId": "szk-idol-01",
+    "faceAssetId": "szk-base-00",
+    "sdHairAssetId": "szk-idol-01",
+    "characterId": "char-szk",
+    "wearableCostumeIds": [
+      "cos-szk-idol-01"
+    ],
+    "fittingCostumeId": "cos-szk-idol-01",
+    "order": 1709,
+    "name": "フェアウェルマイラブリー",
+    "releaseTime": "1609426800000",
+    "notWearableCostumeIds": []
+  },
+  {
+    "id": "hair-szk-idol-02",
+    "hairAssetId": "szk-base-00",
+    "faceAssetId": "szk-base-00",
+    "sdHairAssetId": "szk-idol-02",
+    "characterId": "char-szk",
+    "wearableCostumeIds": [
+      "cos-szk-idol-02"
+    ],
+    "fittingCostumeId": "cos-szk-idol-02",
+    "order": 1,
+    "name": "フィーリングハート",
+    "releaseTime": "1609426800000",
+    "notWearableCostumeIds": []
+  },
+  {
+    "id": "hair-szk-idol-03",
+    "hairAssetId": "szk-idol-03",
+    "faceAssetId": "szk-base-00",
+    "sdHairAssetId": "szk-idol-03",
+    "characterId": "char-szk",
+    "wearableCostumeIds": [
+      "cos-szk-idol-03"
+    ],
+    "fittingCostumeId": "cos-szk-idol-03",
+    "order": 116,
+    "name": "ウィズ・ザ・サンシャイン",
+    "releaseTime": "1609426800000",
+    "notWearableCostumeIds": []
+  },
+  {
+    "id": "hair-szk-miku-00",
+    "hairAssetId": "szk-base-00",
+    "faceAssetId": "szk-base-00",
+    "sdHairAssetId": "szk-miku-00",
+    "characterId": "char-szk",
+    "wearableCostumeIds": [
+      "cos-szk-miku-00"
+    ],
+    "fittingCostumeId": "cos-szk-miku-00",
+    "order": 143,
+    "name": "初音ミク：オリジナル",
+    "releaseTime": "1661914800000",
+    "notWearableCostumeIds": []
+  },
+  {
+    "id": "hair-szk-mizg-00",
+    "hairAssetId": "szk-base-00",
+    "faceAssetId": "szk-base-00",
+    "sdHairAssetId": "szk-mizg-00",
+    "characterId": "char-szk",
+    "wearableCostumeIds": [
+      "cos-szk-mizg-00"
+    ],
+    "fittingCostumeId": "cos-szk-mizg-00",
+    "order": 1,
+    "name": "トレーニング水着",
+    "releaseTime": "1609426800000",
+    "notWearableCostumeIds": []
+  },
+  {
+    "id": "hair-szk-mizg-01",
+    "hairAssetId": "szk-base-00",
+    "faceAssetId": "szk-base-00",
+    "sdHairAssetId": "szk-mizg-01",
+    "characterId": "char-szk",
+    "wearableCostumeIds": [
+      "cos-szk-mizg-01"
+    ],
+    "fittingCostumeId": "cos-szk-mizg-01",
+    "order": 1,
+    "name": "サマーホリデイ",
+    "releaseTime": "1609426800000",
+    "notWearableCostumeIds": []
+  },
+  {
+    "id": "hair-szk-newy-00",
+    "hairAssetId": "szk-newy-00",
+    "faceAssetId": "szk-base-00",
+    "sdHairAssetId": "szk-newy-00",
+    "characterId": "char-szk",
+    "wearableCostumeIds": [
+      "cos-szk-newy-00"
+    ],
+    "fittingCostumeId": "cos-szk-newy-00",
+    "order": 93,
+    "name": "全力振袖・梅",
+    "releaseTime": "1641178800000",
+    "notWearableCostumeIds": []
+  },
+  {
+    "id": "hair-szk-rock-00",
+    "hairAssetId": "szk-rock-00",
+    "faceAssetId": "szk-base-00",
+    "sdHairAssetId": "szk-rock-00",
+    "characterId": "char-szk",
+    "wearableCostumeIds": [
+      "cos-szk-rock-00"
+    ],
+    "fittingCostumeId": "cos-szk-rock-00",
+    "order": 136,
+    "name": "サニーダンサブル",
+    "releaseTime": "1663729200000",
+    "notWearableCostumeIds": []
+  },
+  {
+    "id": "hair-szk-schl-00",
+    "hairAssetId": "szk-base-00",
+    "faceAssetId": "szk-base-00",
+    "sdHairAssetId": "szk-schl-00",
+    "characterId": "char-szk",
+    "wearableCostumeIds": [
+      "cos-szk-schl-00"
+    ],
+    "fittingCostumeId": "cos-szk-schl-00",
+    "order": 1,
+    "name": "光ヶ崎高等学校",
+    "releaseTime": "1609426800000",
+    "notWearableCostumeIds": []
+  },
+  {
+    "id": "hair-szk-sdam-00",
+    "hairAssetId": "szk-sdam-00",
+    "faceAssetId": "szk-sdam-00",
+    "sdHairAssetId": "szk-sdam-00",
+    "characterId": "char-szk",
+    "wearableCostumeIds": [
+      "cos-szk-sdam-00"
+    ],
+    "fittingCostumeId": "cos-szk-sdam-00",
+    "order": 1,
+    "name": "親善大使",
+    "releaseTime": "1609426800000",
+    "notWearableCostumeIds": []
+  },
+  {
+    "id": "hair-szk-sdpl-00",
+    "hairAssetId": "szk-sdpl-00",
+    "faceAssetId": "szk-sdpl-00",
+    "sdHairAssetId": "szk-sdpl-00",
+    "characterId": "char-szk",
+    "wearableCostumeIds": [
+      "cos-szk-sdpl-00"
+    ],
+    "fittingCostumeId": "cos-szk-sdpl-00",
+    "order": 1,
+    "name": "一日署長",
+    "releaseTime": "1609426800000",
+    "notWearableCostumeIds": []
+  },
+  {
+    "id": "hair-szk-trng-00",
+    "hairAssetId": "szk-base-00",
+    "faceAssetId": "szk-base-00",
+    "sdHairAssetId": "szk-trng-00",
+    "characterId": "char-szk",
+    "wearableCostumeIds": [
+      "cos-szk-trng-00"
+    ],
+    "fittingCostumeId": "cos-szk-trng-00",
+    "order": 1,
+    "name": "トレーニングウェア",
+    "releaseTime": "1609426800000",
+    "notWearableCostumeIds": []
+  },
+  {
+    "id": "hair-szk-yuru-00",
+    "hairAssetId": "szk-yuru-00",
+    "faceAssetId": "szk-base-00",
+    "sdHairAssetId": "szk-yuru-00",
+    "characterId": "char-szk",
+    "wearableCostumeIds": [
+      "cos-szk-yuru-00"
+    ],
+    "fittingCostumeId": "cos-szk-yuru-00",
+    "order": 98,
+    "name": "クロッカスの扉",
+    "releaseTime": "1609426800000",
+    "notWearableCostumeIds": []
+  },
+  {
+    "id": "hair-vns-casl-00",
+    "hairAssetId": "stm-base-00",
+    "faceAssetId": "stm-base-00",
+    "sdHairAssetId": "stm-casl-00",
+    "characterId": "char-vns",
+    "wearableCostumeIds": [
+      "cos-vns-casl-00"
+    ],
+    "fittingCostumeId": "cos-vns-casl-00",
+    "order": 9999,
+    "name": "ベーシックスタイル",
+    "releaseTime": "1609426800000",
+    "notWearableCostumeIds": []
+  },
+  {
+    "id": "hair-yu-casl-00",
+    "hairAssetId": "yu-base-00",
+    "faceAssetId": "yu-base-00",
+    "sdHairAssetId": "yu-casl-00",
+    "characterId": "char-yu",
+    "wearableCostumeIds": [
+      "cos-yu-casl-00"
+    ],
+    "fittingCostumeId": "cos-yu-casl-00",
+    "order": 1,
+    "name": "ベーシックスタイル",
+    "releaseTime": "1609426800000",
+    "notWearableCostumeIds": []
+  },
+  {
+    "id": "hair-yu-casl-01",
+    "hairAssetId": "yu-base-00",
+    "faceAssetId": "yu-base-00",
+    "sdHairAssetId": "yu-casl-01",
+    "characterId": "char-yu",
+    "wearableCostumeIds": [
+      "cos-yu-casl-01"
+    ],
+    "fittingCostumeId": "cos-yu-casl-01",
+    "order": 1,
+    "name": "カジュアルスタイル",
+    "releaseTime": "1609426800000",
+    "notWearableCostumeIds": []
+  },
+  {
+    "id": "hair-yu-fest-00",
+    "hairAssetId": "yu-fest-00",
+    "faceAssetId": "yu-base-00",
+    "sdHairAssetId": "yu-fest-00",
+    "characterId": "char-yu",
+    "wearableCostumeIds": [
+      "cos-yu-fest-00"
+    ],
+    "fittingCostumeId": "cos-yu-fest-00",
+    "order": 137,
+    "name": "エターナルブリリアンス",
+    "releaseTime": "1664247600000",
+    "notWearableCostumeIds": []
+  },
+  {
+    "id": "hair-yu-idol-00",
+    "hairAssetId": "yu-idol-00",
+    "faceAssetId": "yu-base-00",
+    "sdHairAssetId": "yu-idol-00",
+    "characterId": "char-yu",
+    "wearableCostumeIds": [
+      "cos-yu-idol-00"
+    ],
+    "fittingCostumeId": "cos-yu-idol-00",
+    "order": 1012,
+    "name": "シュヴァリエール",
+    "releaseTime": "1609426800000",
+    "notWearableCostumeIds": []
+  },
+  {
+    "id": "hair-yu-idol-02",
+    "hairAssetId": "yu-base-00",
+    "faceAssetId": "yu-base-00",
+    "sdHairAssetId": "yu-idol-02",
+    "characterId": "char-yu",
+    "wearableCostumeIds": [
+      "cos-yu-idol-02"
+    ],
+    "fittingCostumeId": "cos-yu-idol-02",
+    "order": 1,
+    "name": "フィーリングハート",
+    "releaseTime": "1609426800000",
+    "notWearableCostumeIds": []
+  },
+  {
+    "id": "hair-yu-idol-03",
+    "hairAssetId": "yu-idol-03",
+    "faceAssetId": "yu-base-00",
+    "sdHairAssetId": "yu-idol-03",
+    "characterId": "char-yu",
+    "wearableCostumeIds": [
+      "cos-yu-idol-03"
+    ],
+    "fittingCostumeId": "cos-yu-idol-03",
+    "order": 180,
+    "name": "レ・プリュム",
+    "releaseTime": "1664247600000",
+    "notWearableCostumeIds": []
+  },
+  {
+    "id": "hair-yu-miku-00",
+    "hairAssetId": "yu-base-00",
+    "faceAssetId": "yu-base-00",
+    "sdHairAssetId": "yu-miku-00",
+    "characterId": "char-yu",
+    "wearableCostumeIds": [
+      "cos-yu-miku-00"
+    ],
+    "fittingCostumeId": "cos-yu-miku-00",
+    "order": 150,
+    "name": "初音ミク：オリジナル",
+    "releaseTime": "1661914800000",
+    "notWearableCostumeIds": []
+  },
+  {
+    "id": "hair-yu-mizg-00",
+    "hairAssetId": "yu-base-00",
+    "faceAssetId": "yu-base-00",
+    "sdHairAssetId": "yu-mizg-00",
+    "characterId": "char-yu",
+    "wearableCostumeIds": [
+      "cos-yu-mizg-00"
+    ],
+    "fittingCostumeId": "cos-yu-mizg-00",
+    "order": 1,
+    "name": "トレーニング水着",
+    "releaseTime": "1609426800000",
+    "notWearableCostumeIds": []
+  },
+  {
+    "id": "hair-yu-mizg-01",
+    "hairAssetId": "yu-mizg-01",
+    "faceAssetId": "yu-base-00",
+    "sdHairAssetId": "yu-mizg-01",
+    "characterId": "char-yu",
+    "wearableCostumeIds": [
+      "cos-yu-mizg-01"
+    ],
+    "fittingCostumeId": "cos-yu-mizg-01",
+    "order": 1,
+    "name": "トロピカルフルール",
+    "releaseTime": "1609426800000",
+    "notWearableCostumeIds": []
+  },
+  {
+    "id": "hair-yu-schl-00",
+    "hairAssetId": "yu-base-00",
+    "faceAssetId": "yu-base-00",
+    "sdHairAssetId": "yu-schl-00",
+    "characterId": "char-yu",
+    "wearableCostumeIds": [
+      "cos-yu-schl-00"
+    ],
+    "fittingCostumeId": "cos-yu-schl-00",
+    "order": 1,
+    "name": "月出高等学校",
+    "releaseTime": "1609426800000",
+    "notWearableCostumeIds": []
+  },
+  {
+    "id": "hair-yu-sdam-00",
+    "hairAssetId": "yu-sdam-00",
+    "faceAssetId": "yu-sdam-00",
+    "sdHairAssetId": "yu-sdam-00",
+    "characterId": "char-yu",
+    "wearableCostumeIds": [
+      "cos-yu-sdam-00"
+    ],
+    "fittingCostumeId": "cos-yu-sdam-00",
+    "order": 1,
+    "name": "親善大使",
+    "releaseTime": "1609426800000",
+    "notWearableCostumeIds": []
+  },
+  {
+    "id": "hair-yu-sdpl-00",
+    "hairAssetId": "yu-sdpl-00",
+    "faceAssetId": "yu-sdpl-00",
+    "sdHairAssetId": "yu-sdpl-00",
+    "characterId": "char-yu",
+    "wearableCostumeIds": [
+      "cos-yu-sdpl-00"
+    ],
+    "fittingCostumeId": "cos-yu-sdpl-00",
+    "order": 1,
+    "name": "一日署長",
+    "releaseTime": "1609426800000",
+    "notWearableCostumeIds": []
+  },
+  {
+    "id": "hair-yu-trng-00",
+    "hairAssetId": "yu-base-00",
+    "faceAssetId": "yu-base-00",
+    "sdHairAssetId": "yu-trng-00",
+    "characterId": "char-yu",
+    "wearableCostumeIds": [
+      "cos-yu-trng-00"
+    ],
+    "fittingCostumeId": "cos-yu-trng-00",
+    "order": 1,
+    "name": "トレーニングウェア",
+    "releaseTime": "1609426800000",
+    "notWearableCostumeIds": []
+  },
+  {
+    "id": "hair-yu-wedd-01",
+    "hairAssetId": "yu-wedd-01",
+    "faceAssetId": "yu-base-00",
+    "sdHairAssetId": "yu-wedd-01",
+    "characterId": "char-yu",
+    "wearableCostumeIds": [
+      "cos-yu-wedd-01"
+    ],
+    "fittingCostumeId": "cos-yu-wedd-01",
+    "order": 119,
+    "name": "心恋白無垢",
+    "releaseTime": "1609426800000",
+    "notWearableCostumeIds": []
+  },
+  {
+    "id": "hair-yu-xmas-00",
+    "hairAssetId": "yu-xmas-00",
+    "faceAssetId": "yu-base-00",
+    "sdHairAssetId": "yu-xmas-00",
+    "characterId": "char-yu",
+    "wearableCostumeIds": [
+      "cos-yu-xmas-00"
+    ],
+    "fittingCostumeId": "cos-yu-xmas-00",
+    "order": 85,
+    "name": "ルミエール",
+    "releaseTime": "1609426800000",
+    "notWearableCostumeIds": []
+  }
+]
