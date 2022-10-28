@@ -11970,6 +11970,20 @@
     ]
   },
   {
+    "id": "cd-event-banner-marathon-raid-1028-1106",
+    "settings": [
+      {
+        "satisfyCondition": {
+          "conditionId": "cd-marathon-raid-play"
+        },
+        "term": {
+          "nowAfter": "1666926000000",
+          "nowBefore": "1667703599000"
+        }
+      }
+    ]
+  },
+  {
     "id": "cd-event-exchange-0731-0818",
     "settings": [
       {
