@@ -225,6 +225,25 @@
     "unlockConditionId": ""
   },
   {
+    "id": "event-marathon-raid-22-1028",
+    "eventMissionType": 1,
+    "assetId": "img_banner_l_event-marathon-raid-22-1028",
+    "name": "イベントミッション",
+    "order": 99,
+    "viewConditionId": "cd-date-marathon-raid-22-1028",
+    "missionIds": [
+      "event-ms-normal-22-1028-mission_open_story-02",
+      "event-ms-normal-22-1028-mission_open_story-03",
+      "event-ms-normal-22-1028-mission_open_story-04",
+      "event-ms-normal-22-1028-mission_open_story-05",
+      "ms-daily-event-marathon-raid-22-1028-marathon_raid_host_count",
+      "ms-event-marathon-raid-22-1028-marathon_quest_clear_count",
+      "ms-event-marathon-raid-22-1028-marathon_quest_clear_difficulty-ep4",
+      "ms-normal-event-marathon-raid-22-1028-marathon_raid_clear_count"
+    ],
+    "unlockConditionId": ""
+  },
+  {
     "id": "event-mini-marathon-22-0413",
     "eventMissionType": 1,
     "assetId": "img_banner_l_event-mini-marathon-22-0413",

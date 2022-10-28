@@ -9244,6 +9244,56 @@
     ]
   },
   {
+    "id": "cd-date-event-ladder-marathon-raid-22-1028-panel-story-01",
+    "settings": [
+      {
+        "satisfyCondition": {
+          "conditionId": "cd-date-marathon-raid-22-1028-1106"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-date-event-ladder-marathon-raid-22-1028-panel-story-02",
+    "settings": [
+      {
+        "satisfyCondition": {
+          "conditionId": "cd-date-marathon-raid-22-1028-1106"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-date-event-ladder-marathon-raid-22-1028-panel-story-03",
+    "settings": [
+      {
+        "satisfyCondition": {
+          "conditionId": "cd-date-marathon-raid-22-1028-1106"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-date-event-ladder-marathon-raid-22-1028-panel-story-04",
+    "settings": [
+      {
+        "satisfyCondition": {
+          "conditionId": "cd-date-marathon-raid-22-1028-1106"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-date-event-ladder-marathon-raid-22-1028-panel-story-05",
+    "settings": [
+      {
+        "satisfyCondition": {
+          "conditionId": "cd-date-marathon-raid-22-1028-1106"
+        }
+      }
+    ]
+  },
+  {
     "id": "cd-date-event-race-22-0228",
     "settings": [
       {
@@ -9360,6 +9410,28 @@
         "term": {
           "nowAfter": "1653534000000",
           "nowBefore": "1654484399000"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-date-marathon-raid-22-1028",
+    "settings": [
+      {
+        "term": {
+          "nowAfter": "1666926000000",
+          "nowBefore": "1668351599000"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-date-marathon-raid-22-1028-1106",
+    "settings": [
+      {
+        "term": {
+          "nowAfter": "1666926000000",
+          "nowBefore": "1667703599000"
         }
       }
     ]
@@ -12010,6 +12082,48 @@
     ]
   },
   {
+    "id": "cd-event-ms-001-1028-1105",
+    "settings": [
+      {
+        "satisfyCondition": {
+          "conditionId": "cd-marathon-raid-play"
+        },
+        "term": {
+          "nowAfter": "1666926000000",
+          "nowBefore": "1667660399000"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-event-ms-001-1028-1106",
+    "settings": [
+      {
+        "satisfyCondition": {
+          "conditionId": "cd-clear-area-main-004"
+        },
+        "term": {
+          "nowAfter": "1666926000000",
+          "nowBefore": "1667703599000"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-event-ms-001-1106",
+    "settings": [
+      {
+        "satisfyCondition": {
+          "conditionId": "cd-marathon-raid-play"
+        },
+        "term": {
+          "nowAfter": "1667660400000",
+          "nowBefore": "1667703599000"
+        }
+      }
+    ]
+  },
+  {
     "id": "cd-event-ms-001-1130-1209",
     "settings": [
       {
@@ -12315,6 +12429,17 @@
     ]
   },
   {
+    "id": "cd-event-story-22-1028",
+    "settings": [
+      {
+        "term": {
+          "nowAfter": "1666926000000",
+          "nowBefore": "0"
+        }
+      }
+    ]
+  },
+  {
     "id": "cd-event-story-220731",
     "settings": [
       {
@@ -12461,6 +12586,20 @@
         "term": {
           "nowAfter": "1632967200000",
           "nowBefore": "1634482799000"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-event-story-read-001-1028-1106",
+    "settings": [
+      {
+        "satisfyCondition": {
+          "conditionId": "cd-clear-area-main-004"
+        },
+        "term": {
+          "nowAfter": "1666926000000",
+          "nowBefore": "1667703599000"
         }
       }
     ]
@@ -13388,6 +13527,17 @@
       {
         "term": {
           "nowAfter": "1664755200000",
+          "nowBefore": "0"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-exchange-time-suntory-cp-22-1101-01",
+    "settings": [
+      {
+        "term": {
+          "nowAfter": "1667260800000",
           "nowBefore": "0"
         }
       }
@@ -27418,6 +27568,972 @@
     ]
   },
   {
+    "id": "cd-marathon-raid-22-1028-quest-1-03",
+    "settings": [
+      {},
+      {
+        "managerLevel": {
+          "levelGte": 10,
+          "levelLte": 0
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-marathon-raid-22-1028-quest-1-04",
+    "settings": [
+      {},
+      {
+        "managerLevel": {
+          "levelGte": 20,
+          "levelLte": 0
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-marathon-raid-22-1028-quest-1-05",
+    "settings": [
+      {},
+      {
+        "managerLevel": {
+          "levelGte": 30,
+          "levelLte": 0
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-marathon-raid-22-1028-quest-1-06",
+    "settings": [
+      {},
+      {
+        "managerLevel": {
+          "levelGte": 35,
+          "levelLte": 0
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-marathon-raid-22-1028-quest-1-07",
+    "settings": [
+      {},
+      {
+        "managerLevel": {
+          "levelGte": 40,
+          "levelLte": 0
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-marathon-raid-22-1028-quest-1-08",
+    "settings": [
+      {},
+      {
+        "managerLevel": {
+          "levelGte": 45,
+          "levelLte": 0
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-marathon-raid-22-1028-quest-1-09",
+    "settings": [
+      {},
+      {
+        "managerLevel": {
+          "levelGte": 50,
+          "levelLte": 0
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-marathon-raid-22-1028-quest-1-10",
+    "settings": [
+      {},
+      {
+        "managerLevel": {
+          "levelGte": 55,
+          "levelLte": 0
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-marathon-raid-22-1028-quest-1-11",
+    "settings": [
+      {},
+      {
+        "managerLevel": {
+          "levelGte": 60,
+          "levelLte": 0
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-marathon-raid-22-1028-quest-1-12",
+    "settings": [
+      {},
+      {
+        "managerLevel": {
+          "levelGte": 65,
+          "levelLte": 0
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-marathon-raid-22-1028-quest-1-13",
+    "settings": [
+      {},
+      {
+        "managerLevel": {
+          "levelGte": 70,
+          "levelLte": 0
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-marathon-raid-22-1028-quest-1-14",
+    "settings": [
+      {},
+      {
+        "managerLevel": {
+          "levelGte": 75,
+          "levelLte": 0
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-marathon-raid-22-1028-quest-1-15",
+    "settings": [
+      {},
+      {
+        "managerLevel": {
+          "levelGte": 80,
+          "levelLte": 0
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-marathon-raid-22-1028-quest-2-03",
+    "settings": [
+      {},
+      {
+        "managerLevel": {
+          "levelGte": 10,
+          "levelLte": 0
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-marathon-raid-22-1028-quest-2-04",
+    "settings": [
+      {},
+      {
+        "managerLevel": {
+          "levelGte": 20,
+          "levelLte": 0
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-marathon-raid-22-1028-quest-2-05",
+    "settings": [
+      {},
+      {
+        "managerLevel": {
+          "levelGte": 30,
+          "levelLte": 0
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-marathon-raid-22-1028-quest-2-06",
+    "settings": [
+      {},
+      {
+        "managerLevel": {
+          "levelGte": 35,
+          "levelLte": 0
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-marathon-raid-22-1028-quest-2-07",
+    "settings": [
+      {},
+      {
+        "managerLevel": {
+          "levelGte": 40,
+          "levelLte": 0
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-marathon-raid-22-1028-quest-2-08",
+    "settings": [
+      {},
+      {
+        "managerLevel": {
+          "levelGte": 45,
+          "levelLte": 0
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-marathon-raid-22-1028-quest-2-09",
+    "settings": [
+      {},
+      {
+        "managerLevel": {
+          "levelGte": 50,
+          "levelLte": 0
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-marathon-raid-22-1028-quest-2-10",
+    "settings": [
+      {},
+      {
+        "managerLevel": {
+          "levelGte": 55,
+          "levelLte": 0
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-marathon-raid-22-1028-quest-2-11",
+    "settings": [
+      {},
+      {
+        "managerLevel": {
+          "levelGte": 60,
+          "levelLte": 0
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-marathon-raid-22-1028-quest-2-12",
+    "settings": [
+      {},
+      {
+        "managerLevel": {
+          "levelGte": 65,
+          "levelLte": 0
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-marathon-raid-22-1028-quest-2-13",
+    "settings": [
+      {},
+      {
+        "managerLevel": {
+          "levelGte": 70,
+          "levelLte": 0
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-marathon-raid-22-1028-quest-2-14",
+    "settings": [
+      {},
+      {
+        "managerLevel": {
+          "levelGte": 75,
+          "levelLte": 0
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-marathon-raid-22-1028-quest-2-15",
+    "settings": [
+      {},
+      {
+        "managerLevel": {
+          "levelGte": 80,
+          "levelLte": 0
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-marathon-raid-22-1028-quest-3-03",
+    "settings": [
+      {},
+      {
+        "managerLevel": {
+          "levelGte": 10,
+          "levelLte": 0
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-marathon-raid-22-1028-quest-3-04",
+    "settings": [
+      {},
+      {
+        "managerLevel": {
+          "levelGte": 20,
+          "levelLte": 0
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-marathon-raid-22-1028-quest-3-05",
+    "settings": [
+      {},
+      {
+        "managerLevel": {
+          "levelGte": 30,
+          "levelLte": 0
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-marathon-raid-22-1028-quest-3-06",
+    "settings": [
+      {},
+      {
+        "managerLevel": {
+          "levelGte": 35,
+          "levelLte": 0
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-marathon-raid-22-1028-quest-3-07",
+    "settings": [
+      {},
+      {
+        "managerLevel": {
+          "levelGte": 40,
+          "levelLte": 0
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-marathon-raid-22-1028-quest-3-08",
+    "settings": [
+      {},
+      {
+        "managerLevel": {
+          "levelGte": 45,
+          "levelLte": 0
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-marathon-raid-22-1028-quest-3-09",
+    "settings": [
+      {},
+      {
+        "managerLevel": {
+          "levelGte": 50,
+          "levelLte": 0
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-marathon-raid-22-1028-quest-3-10",
+    "settings": [
+      {},
+      {
+        "managerLevel": {
+          "levelGte": 55,
+          "levelLte": 0
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-marathon-raid-22-1028-quest-3-11",
+    "settings": [
+      {},
+      {
+        "managerLevel": {
+          "levelGte": 60,
+          "levelLte": 0
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-marathon-raid-22-1028-quest-3-12",
+    "settings": [
+      {},
+      {
+        "managerLevel": {
+          "levelGte": 65,
+          "levelLte": 0
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-marathon-raid-22-1028-quest-3-13",
+    "settings": [
+      {},
+      {
+        "managerLevel": {
+          "levelGte": 70,
+          "levelLte": 0
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-marathon-raid-22-1028-quest-3-14",
+    "settings": [
+      {},
+      {
+        "managerLevel": {
+          "levelGte": 75,
+          "levelLte": 0
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-marathon-raid-22-1028-quest-3-15",
+    "settings": [
+      {},
+      {
+        "managerLevel": {
+          "levelGte": 80,
+          "levelLte": 0
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-marathon-raid-22-1028-quest-4-02",
+    "settings": [
+      {},
+      {
+        "managerLevel": {
+          "levelGte": 70,
+          "levelLte": 0
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-marathon-raid-22-1028-quest-4-03",
+    "settings": [
+      {},
+      {
+        "managerLevel": {
+          "levelGte": 80,
+          "levelLte": 0
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-marathon-raid-22-1028-quest-4-04",
+    "settings": [
+      {},
+      {
+        "managerLevel": {
+          "levelGte": 90,
+          "levelLte": 0
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-marathon-raid-22-1028-quest-4-05",
+    "settings": [
+      {},
+      {
+        "managerLevel": {
+          "levelGte": 100,
+          "levelLte": 0
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-marathon-raid-22-1028-quest-4-06",
+    "settings": [
+      {},
+      {
+        "managerLevel": {
+          "levelGte": 110,
+          "levelLte": 0
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-marathon-raid-22-1028-quest-4-07",
+    "settings": [
+      {},
+      {
+        "managerLevel": {
+          "levelGte": 120,
+          "levelLte": 0
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-marathon-raid-22-1028-quest-4-08",
+    "settings": [
+      {},
+      {
+        "managerLevel": {
+          "levelGte": 130,
+          "levelLte": 0
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-marathon-raid-22-1028-quest-4-09",
+    "settings": [
+      {},
+      {
+        "managerLevel": {
+          "levelGte": 140,
+          "levelLte": 0
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-marathon-raid-22-1028-quest-4-10",
+    "settings": [
+      {},
+      {
+        "managerLevel": {
+          "levelGte": 150,
+          "levelLte": 0
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-marathon-raid-22-1028-quest-4-11",
+    "settings": [
+      {},
+      {
+        "managerLevel": {
+          "levelGte": 160,
+          "levelLte": 0
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-marathon-raid-22-1028-quest-4-12",
+    "settings": [
+      {}
+    ]
+  },
+  {
+    "id": "cd-marathon-raid-22-1028-quest-4-13",
+    "settings": [
+      {}
+    ]
+  },
+  {
+    "id": "cd-marathon-raid-22-1028-quest-4-14",
+    "settings": [
+      {}
+    ]
+  },
+  {
+    "id": "cd-marathon-raid-22-1028-quest-4-15",
+    "settings": [
+      {}
+    ]
+  },
+  {
+    "id": "cd-marathon-raid-22-1028-quest-4-16",
+    "settings": [
+      {}
+    ]
+  },
+  {
+    "id": "cd-marathon-raid-22-1028-quest-4-17",
+    "settings": [
+      {}
+    ]
+  },
+  {
+    "id": "cd-marathon-raid-22-1028-quest-4-18",
+    "settings": [
+      {}
+    ]
+  },
+  {
+    "id": "cd-marathon-raid-22-1028-quest-4-19",
+    "settings": [
+      {}
+    ]
+  },
+  {
+    "id": "cd-marathon-raid-22-1028-quest-4-20",
+    "settings": [
+      {}
+    ]
+  },
+  {
+    "id": "cd-marathon-raid-22-1028-quest-raid-1-01",
+    "settings": [
+      {}
+    ]
+  },
+  {
+    "id": "cd-marathon-raid-22-1028-quest-raid-1-02",
+    "settings": [
+      {}
+    ]
+  },
+  {
+    "id": "cd-marathon-raid-22-1028-quest-raid-1-03",
+    "settings": [
+      {}
+    ]
+  },
+  {
+    "id": "cd-marathon-raid-22-1028-quest-raid-1-04",
+    "settings": [
+      {}
+    ]
+  },
+  {
+    "id": "cd-marathon-raid-22-1028-quest-raid-1-05",
+    "settings": [
+      {}
+    ]
+  },
+  {
+    "id": "cd-marathon-raid-22-1028-quest-raid-1-06",
+    "settings": [
+      {}
+    ]
+  },
+  {
+    "id": "cd-marathon-raid-22-1028-quest-raid-1-07",
+    "settings": [
+      {}
+    ]
+  },
+  {
+    "id": "cd-marathon-raid-22-1028-quest-raid-1-08",
+    "settings": [
+      {}
+    ]
+  },
+  {
+    "id": "cd-marathon-raid-22-1028-quest-raid-1-09",
+    "settings": [
+      {}
+    ]
+  },
+  {
+    "id": "cd-marathon-raid-22-1028-quest-raid-1-10",
+    "settings": [
+      {}
+    ]
+  },
+  {
+    "id": "cd-marathon-raid-22-1028-quest-raid-1-11",
+    "settings": [
+      {}
+    ]
+  },
+  {
+    "id": "cd-marathon-raid-22-1028-quest-raid-1-12",
+    "settings": [
+      {}
+    ]
+  },
+  {
+    "id": "cd-marathon-raid-22-1028-quest-raid-1-13",
+    "settings": [
+      {
+        "obtainCard": {
+          "cardId": "card-mei-02-eve-01"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-marathon-raid-22-1028-quest-raid-1-14",
+    "settings": [
+      {
+        "obtainCard": {
+          "cardId": "card-mei-02-eve-01"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-marathon-raid-22-1028-quest-raid-1-15",
+    "settings": [
+      {
+        "obtainCard": {
+          "cardId": "card-mei-02-eve-01"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-marathon-raid-22-1028-quest-raid-1-16",
+    "settings": [
+      {
+        "obtainCard": {
+          "cardId": "card-mei-02-eve-01"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-marathon-raid-22-1028-quest-raid-1-17",
+    "settings": [
+      {
+        "obtainCard": {
+          "cardId": "card-mei-02-eve-01"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-marathon-raid-22-1028-quest-raid-1-18",
+    "settings": [
+      {
+        "obtainCard": {
+          "cardId": "card-mei-02-eve-01"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-marathon-raid-22-1028-quest-raid-1-19",
+    "settings": [
+      {
+        "obtainCard": {
+          "cardId": "card-mei-02-eve-01"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-marathon-raid-22-1028-quest-raid-1-20",
+    "settings": [
+      {
+        "obtainCard": {
+          "cardId": "card-mei-02-eve-01"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-marathon-raid-22-1028-quest-raid-join-1-01",
+    "settings": [
+      {}
+    ]
+  },
+  {
+    "id": "cd-marathon-raid-22-1028-quest-raid-join-1-02",
+    "settings": [
+      {}
+    ]
+  },
+  {
+    "id": "cd-marathon-raid-22-1028-quest-raid-join-1-03",
+    "settings": [
+      {}
+    ]
+  },
+  {
+    "id": "cd-marathon-raid-22-1028-quest-raid-join-1-04",
+    "settings": [
+      {}
+    ]
+  },
+  {
+    "id": "cd-marathon-raid-22-1028-quest-raid-join-1-05",
+    "settings": [
+      {}
+    ]
+  },
+  {
+    "id": "cd-marathon-raid-22-1028-quest-raid-join-1-06",
+    "settings": [
+      {}
+    ]
+  },
+  {
+    "id": "cd-marathon-raid-22-1028-quest-raid-join-1-07",
+    "settings": [
+      {}
+    ]
+  },
+  {
+    "id": "cd-marathon-raid-22-1028-quest-raid-join-1-08",
+    "settings": [
+      {}
+    ]
+  },
+  {
+    "id": "cd-marathon-raid-22-1028-quest-raid-join-1-09",
+    "settings": [
+      {}
+    ]
+  },
+  {
+    "id": "cd-marathon-raid-22-1028-quest-raid-join-1-10",
+    "settings": [
+      {}
+    ]
+  },
+  {
+    "id": "cd-marathon-raid-22-1028-quest-raid-join-1-11",
+    "settings": [
+      {}
+    ]
+  },
+  {
+    "id": "cd-marathon-raid-22-1028-quest-raid-join-1-12",
+    "settings": [
+      {}
+    ]
+  },
+  {
+    "id": "cd-marathon-raid-22-1028-quest-raid-join-1-13",
+    "settings": [
+      {
+        "obtainCard": {
+          "cardId": "card-mei-02-eve-01"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-marathon-raid-22-1028-quest-raid-join-1-14",
+    "settings": [
+      {
+        "obtainCard": {
+          "cardId": "card-mei-02-eve-01"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-marathon-raid-22-1028-quest-raid-join-1-15",
+    "settings": [
+      {
+        "obtainCard": {
+          "cardId": "card-mei-02-eve-01"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-marathon-raid-22-1028-quest-raid-join-1-16",
+    "settings": [
+      {
+        "obtainCard": {
+          "cardId": "card-mei-02-eve-01"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-marathon-raid-22-1028-quest-raid-join-1-17",
+    "settings": [
+      {
+        "obtainCard": {
+          "cardId": "card-mei-02-eve-01"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-marathon-raid-22-1028-quest-raid-join-1-18",
+    "settings": [
+      {
+        "obtainCard": {
+          "cardId": "card-mei-02-eve-01"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-marathon-raid-22-1028-quest-raid-join-1-19",
+    "settings": [
+      {
+        "obtainCard": {
+          "cardId": "card-mei-02-eve-01"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-marathon-raid-22-1028-quest-raid-join-1-20",
+    "settings": [
+      {
+        "obtainCard": {
+          "cardId": "card-mei-02-eve-01"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-marathon-raid-22-1028-quest-raid-open",
+    "settings": [
+      {}
+    ]
+  },
+  {
+    "id": "cd-marathon-raid-play",
+    "settings": [
+      {
+        "satisfyCondition": {
+          "conditionId": "cd-clear-area-main-004"
+        },
+        "managerLevel": {
+          "levelGte": 20,
+          "levelLte": 0
+        }
+      }
+    ]
+  },
+  {
     "id": "cd-mini-marathon-22-0413-quest-1-02",
     "settings": [
       {
@@ -31311,6 +32427,16 @@
     ]
   },
   {
+    "id": "cd-ms-read-message-card-kan-05-poli-00",
+    "settings": [
+      {
+        "finishedMessage": {
+          "messageId": "message-card-kan-05-poli-00"
+        }
+      }
+    ]
+  },
+  {
     "id": "cd-ms-read-message-card-kkr-05-idol-00",
     "settings": [
       {
@@ -31356,6 +32482,16 @@
       {
         "finishedMessage": {
           "messageId": "message-card-kor-05-idol-00"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-ms-read-message-card-kor-05-poli-00",
+    "settings": [
+      {
+        "finishedMessage": {
+          "messageId": "message-card-kor-05-poli-00"
         }
       }
     ]
@@ -32481,6 +33617,16 @@
     ]
   },
   {
+    "id": "cd-obtain-card-mei-02-eve-01",
+    "settings": [
+      {
+        "obtainCard": {
+          "cardId": "card-mei-02-eve-01"
+        }
+      }
+    ]
+  },
+  {
     "id": "cd-obtain-card-rio-02-eve-02",
     "settings": [
       {
@@ -32696,6 +33842,34 @@
         "term": {
           "nowAfter": "1666234800000",
           "nowBefore": "1666537199000"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-photo-shooting-mv-006",
+    "settings": [
+      {
+        "satisfyCondition": {
+          "conditionId": "cd-tutorial-finish-photo-create-shooting"
+        },
+        "term": {
+          "nowAfter": "1666926000000",
+          "nowBefore": "1669820399000"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-photo-shooting-mv-006-banner",
+    "settings": [
+      {
+        "satisfyCondition": {
+          "conditionId": "cd-tutorial-finish-photo-create-shooting"
+        },
+        "term": {
+          "nowAfter": "1666926000000",
+          "nowBefore": "1667228399000"
         }
       }
     ]
@@ -37591,12 +38765,56 @@
     ]
   },
   {
+    "id": "cd-reliability-kan-110",
+    "settings": [
+      {
+        "reliability": {
+          "characterId": "char-kan",
+          "reliabilityGte": 110
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-reliability-kan-130",
+    "settings": [
+      {
+        "reliability": {
+          "characterId": "char-kan",
+          "reliabilityGte": 130
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-reliability-kan-150",
+    "settings": [
+      {
+        "reliability": {
+          "characterId": "char-kan",
+          "reliabilityGte": 150
+        }
+      }
+    ]
+  },
+  {
     "id": "cd-reliability-kan-155",
     "settings": [
       {
         "reliability": {
           "characterId": "char-kan",
           "reliabilityGte": 155
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-reliability-kan-170",
+    "settings": [
+      {
+        "reliability": {
+          "characterId": "char-kan",
+          "reliabilityGte": 170
         }
       }
     ]
@@ -37613,6 +38831,17 @@
     ]
   },
   {
+    "id": "cd-reliability-kan-195",
+    "settings": [
+      {
+        "reliability": {
+          "characterId": "char-kan",
+          "reliabilityGte": 195
+        }
+      }
+    ]
+  },
+  {
     "id": "cd-reliability-kan-210",
     "settings": [
       {
@@ -37624,12 +38853,45 @@
     ]
   },
   {
+    "id": "cd-reliability-kan-220",
+    "settings": [
+      {
+        "reliability": {
+          "characterId": "char-kan",
+          "reliabilityGte": 220
+        }
+      }
+    ]
+  },
+  {
     "id": "cd-reliability-kan-25",
     "settings": [
       {
         "reliability": {
           "characterId": "char-kan",
           "reliabilityGte": 25
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-reliability-kan-250",
+    "settings": [
+      {
+        "reliability": {
+          "characterId": "char-kan",
+          "reliabilityGte": 250
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-reliability-kan-275",
+    "settings": [
+      {
+        "reliability": {
+          "characterId": "char-kan",
+          "reliabilityGte": 275
         }
       }
     ]
@@ -38086,12 +39348,56 @@
     ]
   },
   {
+    "id": "cd-reliability-kor-110",
+    "settings": [
+      {
+        "reliability": {
+          "characterId": "char-kor",
+          "reliabilityGte": 110
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-reliability-kor-130",
+    "settings": [
+      {
+        "reliability": {
+          "characterId": "char-kor",
+          "reliabilityGte": 130
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-reliability-kor-150",
+    "settings": [
+      {
+        "reliability": {
+          "characterId": "char-kor",
+          "reliabilityGte": 150
+        }
+      }
+    ]
+  },
+  {
     "id": "cd-reliability-kor-155",
     "settings": [
       {
         "reliability": {
           "characterId": "char-kor",
           "reliabilityGte": 155
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-reliability-kor-170",
+    "settings": [
+      {
+        "reliability": {
+          "characterId": "char-kor",
+          "reliabilityGte": 170
         }
       }
     ]
@@ -38108,6 +39414,17 @@
     ]
   },
   {
+    "id": "cd-reliability-kor-195",
+    "settings": [
+      {
+        "reliability": {
+          "characterId": "char-kor",
+          "reliabilityGte": 195
+        }
+      }
+    ]
+  },
+  {
     "id": "cd-reliability-kor-210",
     "settings": [
       {
@@ -38119,12 +39436,45 @@
     ]
   },
   {
+    "id": "cd-reliability-kor-220",
+    "settings": [
+      {
+        "reliability": {
+          "characterId": "char-kor",
+          "reliabilityGte": 220
+        }
+      }
+    ]
+  },
+  {
     "id": "cd-reliability-kor-25",
     "settings": [
       {
         "reliability": {
           "characterId": "char-kor",
           "reliabilityGte": 25
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-reliability-kor-250",
+    "settings": [
+      {
+        "reliability": {
+          "characterId": "char-kor",
+          "reliabilityGte": 250
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-reliability-kor-275",
+    "settings": [
+      {
+        "reliability": {
+          "characterId": "char-kor",
+          "reliabilityGte": 275
         }
       }
     ]
@@ -38911,12 +40261,56 @@
     ]
   },
   {
+    "id": "cd-reliability-mhk-110",
+    "settings": [
+      {
+        "reliability": {
+          "characterId": "char-mhk",
+          "reliabilityGte": 110
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-reliability-mhk-130",
+    "settings": [
+      {
+        "reliability": {
+          "characterId": "char-mhk",
+          "reliabilityGte": 130
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-reliability-mhk-150",
+    "settings": [
+      {
+        "reliability": {
+          "characterId": "char-mhk",
+          "reliabilityGte": 150
+        }
+      }
+    ]
+  },
+  {
     "id": "cd-reliability-mhk-155",
     "settings": [
       {
         "reliability": {
           "characterId": "char-mhk",
           "reliabilityGte": 155
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-reliability-mhk-170",
+    "settings": [
+      {
+        "reliability": {
+          "characterId": "char-mhk",
+          "reliabilityGte": 170
         }
       }
     ]
@@ -38933,6 +40327,17 @@
     ]
   },
   {
+    "id": "cd-reliability-mhk-195",
+    "settings": [
+      {
+        "reliability": {
+          "characterId": "char-mhk",
+          "reliabilityGte": 195
+        }
+      }
+    ]
+  },
+  {
     "id": "cd-reliability-mhk-210",
     "settings": [
       {
@@ -38944,12 +40349,45 @@
     ]
   },
   {
+    "id": "cd-reliability-mhk-220",
+    "settings": [
+      {
+        "reliability": {
+          "characterId": "char-mhk",
+          "reliabilityGte": 220
+        }
+      }
+    ]
+  },
+  {
     "id": "cd-reliability-mhk-25",
     "settings": [
       {
         "reliability": {
           "characterId": "char-mhk",
           "reliabilityGte": 25
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-reliability-mhk-250",
+    "settings": [
+      {
+        "reliability": {
+          "characterId": "char-mhk",
+          "reliabilityGte": 250
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-reliability-mhk-275",
+    "settings": [
+      {
+        "reliability": {
+          "characterId": "char-mhk",
+          "reliabilityGte": 275
         }
       }
     ]
@@ -43083,6 +44521,17 @@
     ]
   },
   {
+    "id": "cd-shop_dress-shop-22-1101-1130",
+    "settings": [
+      {
+        "term": {
+          "nowAfter": "1667271600000",
+          "nowBefore": "1669777199000"
+        }
+      }
+    ]
+  },
+  {
     "id": "cd-shop_ever-clear",
     "settings": [
       {
@@ -44886,6 +46335,64 @@
     ]
   },
   {
+    "id": "cd-shop_special-shop-22-1028",
+    "settings": [
+      {
+        "term": {
+          "nowAfter": "1666926000000",
+          "nowBefore": "0"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-shop_special-shop-22-1028-1105",
+    "settings": [
+      {
+        "term": {
+          "nowAfter": "1666926000000",
+          "nowBefore": "1667617199000"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-shop_special-shop-22-1028-1114",
+    "settings": [
+      {
+        "term": {
+          "nowAfter": "1666926000000",
+          "nowBefore": "1668394799000"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-shop_special-shop-22-1028-1114-dokan",
+    "settings": [
+      {
+        "term": {
+          "nowAfter": "1666926000000",
+          "nowBefore": "1668394799000"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-shop_special-shop-22-1028-1114-mlv-120",
+    "settings": [
+      {
+        "satisfyCondition": {
+          "conditionId": "cd-manager_level_gte-120"
+        },
+        "term": {
+          "nowAfter": "1666926000000",
+          "nowBefore": "1668394799000"
+        }
+      }
+    ]
+  },
+  {
     "id": "cd-shop_special-shop-banner-21-1125",
     "settings": [
       {
@@ -45012,6 +46519,30 @@
   },
   {
     "id": "cd-st-eve-2206-marathon-005",
+    "settings": [
+      {}
+    ]
+  },
+  {
+    "id": "cd-st-eve-2211-marathon-001",
+    "settings": [
+      {}
+    ]
+  },
+  {
+    "id": "cd-st-eve-2211-marathon-002",
+    "settings": [
+      {}
+    ]
+  },
+  {
+    "id": "cd-st-eve-2211-marathon-003",
+    "settings": [
+      {}
+    ]
+  },
+  {
+    "id": "cd-st-eve-2211-marathon-004",
     "settings": [
       {}
     ]
@@ -47025,6 +48556,16 @@
     ]
   },
   {
+    "id": "cd-st-read-st-card-kan-05-poli-00-03",
+    "settings": [
+      {
+        "readStory": {
+          "storyId": "st-card-kan-05-poli-00-03"
+        }
+      }
+    ]
+  },
+  {
     "id": "cd-st-read-st-card-kkr-05-idol-00-03",
     "settings": [
       {
@@ -47070,6 +48611,16 @@
       {
         "readStory": {
           "storyId": "st-card-kor-05-idol-00-03"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-st-read-st-card-kor-05-poli-00-03",
+    "settings": [
+      {
+        "readStory": {
+          "storyId": "st-card-kor-05-poli-00-03"
         }
       }
     ]
@@ -48074,6 +49625,20 @@
         "term": {
           "nowAfter": "1662174000000",
           "nowBefore": "1663599599000"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-time-daily-sp-22-1028-22-1114",
+    "settings": [
+      {
+        "satisfyCondition": {
+          "conditionId": "cd-clear-area-main-005"
+        },
+        "term": {
+          "nowAfter": "1666926000000",
+          "nowBefore": "1668437999000"
         }
       }
     ]
@@ -51540,6 +53105,17 @@
     ]
   },
   {
+    "id": "cd-time-gacha-lm-set-bloom-22-1028",
+    "settings": [
+      {
+        "term": {
+          "nowAfter": "1666926000000",
+          "nowBefore": "1668394799000"
+        }
+      }
+    ]
+  },
+  {
     "id": "cd-time-gacha-normal-21-0624-01",
     "settings": [
       {
@@ -52095,7 +53671,18 @@
       {
         "term": {
           "nowAfter": "1666148400000",
-          "nowBefore": "1667185200000"
+          "nowBefore": "1666926000000"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-time-gacha-normal-22-1028",
+    "settings": [
+      {
+        "term": {
+          "nowAfter": "1666926000000",
+          "nowBefore": "1668394800000"
         }
       }
     ]
@@ -52323,6 +53910,17 @@
         "term": {
           "nowAfter": "1666148400000",
           "nowBefore": "1667185199000"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-time-gacha-pick-set-bloom-22-1019-banner",
+    "settings": [
+      {
+        "term": {
+          "nowAfter": "1666148400000",
+          "nowBefore": "1666925999000"
         }
       }
     ]
@@ -56690,6 +58288,20 @@
     ]
   },
   {
+    "id": "cd-time-pvp-22-1101-1103_s-banner",
+    "settings": [
+      {
+        "satisfyCondition": {
+          "conditionId": "cd-clear-area-main-011"
+        },
+        "term": {
+          "nowAfter": "1667228400000",
+          "nowBefore": "1667487599000"
+        }
+      }
+    ]
+  },
+  {
     "id": "cd-time-questionnaire-21-0702-0709_s-banner",
     "settings": [
       {
@@ -57204,6 +58816,16 @@
     ]
   },
   {
+    "id": "cd-wear-costume-cos-kan-poli-00",
+    "settings": [
+      {
+        "wearCostume": {
+          "costumeId": "cos-kan-poli-00"
+        }
+      }
+    ]
+  },
+  {
     "id": "cd-wear-costume-cos-kkr-idol-00",
     "settings": [
       {
@@ -57239,6 +58861,16 @@
       {
         "wearCostume": {
           "costumeId": "cos-kor-idol-00"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-wear-costume-cos-kor-poli-00",
+    "settings": [
+      {
+        "wearCostume": {
+          "costumeId": "cos-kor-poli-00"
         }
       }
     ]

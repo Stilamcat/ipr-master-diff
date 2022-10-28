@@ -922,6 +922,56 @@
     ]
   },
   {
+    "homeTalkId": "home-talk-card-kan-05-poli-00-talk-01",
+    "characterId": "char-kan",
+    "placeType": 1,
+    "conditionId": "cd-st-read-st-card-kan-05-poli-00-03",
+    "firstPriority": 9900,
+    "weight": 1,
+    "callPatternId": "call-pattern-card-kan-05-poli-00",
+    "choiceText": "ええ、美味しかったですか？",
+    "managerText": "ええ、美味しかったですか？",
+    "reliability": 5,
+    "characterTalks": [
+      {
+        "text": "悪くなかった。SNSにアップ\nしたらバズったし、いい仕事\nするじゃん。褒めてあげる。",
+        "voiceAssetId": "sud_vo_home_kan-05-poli-00_talk-01-01",
+        "motionAssetId": "mot_adv_chr_cmn_pos-023_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "……と、良かったのはここまで",
+        "voiceAssetId": "sud_vo_home_kan-05-poli-00_talk-01-02",
+        "motionAssetId": "mot_adv_chr_cmn_talk-003_in",
+        "additionMotionAssetId": "mot_all_chr_cmn_facial-053_in"
+      },
+      {
+        "text": "なんでkanaだけアイス\nもらってるの？　って\nmihoとfranに聞かれてさ。",
+        "voiceAssetId": "sud_vo_home_kan-05-poli-00_talk-01-03",
+        "motionAssetId": "mot_adv_chr_cmn_ask-010_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "あんた達よりkanaの方が\n期待されてるからじゃね？\nって言っといた。",
+        "voiceAssetId": "sud_vo_home_kan-05-poli-00_talk-01-04",
+        "motionAssetId": "mot_adv_chr_cmn_pos-022_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "もしかしたら、mihoとfranに\n冷たい態度をとられるかも\nしんないね。",
+        "voiceAssetId": "sud_vo_home_kan-05-poli-00_talk-01-05",
+        "motionAssetId": "mot_adv_chr_cmn_talk-011_in",
+        "additionMotionAssetId": "mot_all_chr_cmn_facial-037_in"
+      },
+      {
+        "text": "まぁ、その分kanaが\n構ってやるから問題ないっしょ。",
+        "voiceAssetId": "sud_vo_home_kan-05-poli-00_talk-01-06",
+        "motionAssetId": "mot_adv_chr_cmn_pos-009_in",
+        "additionMotionAssetId": ""
+      }
+    ]
+  },
+  {
     "homeTalkId": "home-talk-card-kkr-05-idol-00-talk-01",
     "characterId": "char-kkr",
     "placeType": 1,
@@ -1161,6 +1211,56 @@
         "text": "全部うだつが上がらない\nマネージャーのせいですよ。\n分かったら会議室押さえて下さい！",
         "voiceAssetId": "sud_vo_home_kor-05-idol-00_talk-01-06",
         "motionAssetId": "mot_adv_chr_cmn_angry-024_in",
+        "additionMotionAssetId": ""
+      }
+    ]
+  },
+  {
+    "homeTalkId": "home-talk-card-kor-05-poli-00-talk-01",
+    "characterId": "char-kor",
+    "placeType": 1,
+    "conditionId": "cd-st-read-st-card-kor-05-poli-00-03",
+    "firstPriority": 9900,
+    "weight": 1,
+    "callPatternId": "call-pattern-card-kor-05-poli-00",
+    "choiceText": "もちろんです",
+    "managerText": "もちろんです",
+    "reliability": 5,
+    "characterTalks": [
+      {
+        "text": "それならいいんですけど。万が一\nkanaがこの件を知ったら、果て\nしなく面倒なことになるので…。",
+        "voiceAssetId": "sud_vo_home_kor-05-poli-00_talk-01-01",
+        "motionAssetId": "mot_adv_chr_cmn_talk-001_in",
+        "additionMotionAssetId": "mot_all_chr_cmn_facial-032_in"
+      },
+      {
+        "text": "…え？　星見プロにも\nこういう話題が好きな子が\nいるんですか。",
+        "voiceAssetId": "sud_vo_home_kor-05-poli-00_talk-01-02",
+        "motionAssetId": "mot_adv_chr_cmn_surp-007_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "その手の話題に興味深々の子も\nいるから、もし知られたら、\n質問攻めにあう…なるほど。",
+        "voiceAssetId": "sud_vo_home_kor-05-poli-00_talk-01-03",
+        "motionAssetId": "mot_adv_chr_cmn_think-010_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "星見プロはお人好しじゃなく、\n面倒な子も多いんですね。\n気を付けます。",
+        "voiceAssetId": "sud_vo_home_kor-05-poli-00_talk-01-04",
+        "motionAssetId": "mot_adv_chr_cmn_pos-010_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "…今、私も面倒な部類に\n入ってるだろって顔を\nしてましたね？",
+        "voiceAssetId": "sud_vo_home_kor-05-poli-00_talk-01-05",
+        "motionAssetId": "mot_adv_chr_cmn_talk-011_in",
+        "additionMotionAssetId": "mot_all_chr_cmn_facial-053_in"
+      },
+      {
+        "text": "そんなの、私どころかスリクスの\n全員が自覚してると思いますよ。\n頑張って面倒見て下さいね。",
+        "voiceAssetId": "sud_vo_home_kor-05-poli-00_talk-01-06",
+        "motionAssetId": "mot_adv_chr_cmn_pos-004_in",
         "additionMotionAssetId": ""
       }
     ]

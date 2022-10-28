@@ -780,6 +780,45 @@
     "description": ""
   },
   {
+    "id": "st-card-kan-05-poli-00-01",
+    "name": "二日酔いでも\nパッキパキ",
+    "rewardId": "rd_auto;stone;;30",
+    "advPlayTypes": [
+      1
+    ],
+    "advAssetIds": [
+      "card_kan_02_01"
+    ],
+    "sectionName": "",
+    "description": ""
+  },
+  {
+    "id": "st-card-kan-05-poli-00-02",
+    "name": "この顔\n消したい！",
+    "rewardId": "rd_auto;stone;;30",
+    "advPlayTypes": [
+      1
+    ],
+    "advAssetIds": [
+      "card_kan_02_02"
+    ],
+    "sectionName": "",
+    "description": ""
+  },
+  {
+    "id": "st-card-kan-05-poli-00-03",
+    "name": "たまには\nやるじゃん",
+    "rewardId": "rd_auto;stone;;30",
+    "advPlayTypes": [
+      1
+    ],
+    "advAssetIds": [
+      "card_kan_02_03"
+    ],
+    "sectionName": "",
+    "description": ""
+  },
+  {
     "id": "st-card-kkr-05-idol-00-01",
     "name": "大きな仕事",
     "rewardId": "rd_auto;stone;;30",
@@ -970,6 +1009,45 @@
     ],
     "advAssetIds": [
       "card_kor_01_03"
+    ],
+    "sectionName": "",
+    "description": ""
+  },
+  {
+    "id": "st-card-kor-05-poli-00-01",
+    "name": "この旅館\nなんですか？",
+    "rewardId": "rd_auto;stone;;30",
+    "advPlayTypes": [
+      1
+    ],
+    "advAssetIds": [
+      "card_kor_02_01"
+    ],
+    "sectionName": "",
+    "description": ""
+  },
+  {
+    "id": "st-card-kor-05-poli-00-02",
+    "name": "今回は許してあげます",
+    "rewardId": "rd_auto;stone;;30",
+    "advPlayTypes": [
+      1
+    ],
+    "advAssetIds": [
+      "card_kor_02_02"
+    ],
+    "sectionName": "",
+    "description": ""
+  },
+  {
+    "id": "st-card-kor-05-poli-00-03",
+    "name": "秘密ですからね？",
+    "rewardId": "rd_auto;stone;;30",
+    "advPlayTypes": [
+      1
+    ],
+    "advAssetIds": [
+      "card_kor_02_03"
     ],
     "sectionName": "",
     "description": ""
@@ -4474,6 +4552,71 @@
       "event_2210_01_05_01",
       "adv-live-eve-2210-race-005",
       "event_2210_01_05_02"
+    ],
+    "sectionName": ""
+  },
+  {
+    "id": "st-eve-2211-marathon-raid-001",
+    "name": "幽霊旅館？",
+    "description": "ライブツアーで各地を回るⅢX。kanaの要望で温泉付きの宿に泊まることになったが、そこはまさかの幽霊旅館！？怯えるfranに呼びつけられたあなた。翌朝目撃するのは、仲良く抱き合って眠るⅢXの姿で……？",
+    "rewardId": "rd_auto;stone;;30",
+    "advPlayTypes": [
+      1
+    ],
+    "advAssetIds": [
+      "event_2211_01_01"
+    ],
+    "sectionName": ""
+  },
+  {
+    "id": "st-eve-2211-marathon-raid-002",
+    "name": "今夜だけは\n仲良しⅢX",
+    "description": "franに呼び出され幽霊旅館にやってきたあなた、遙子、芽衣。いつも通り喧嘩するⅢXを横に、芽衣は幽霊を発見！幽霊を怒らせないため、渋々今夜だけは仲良くすることを決めたⅢX。どうなるⅢX！",
+    "rewardId": "rd_auto;stone;;30",
+    "advPlayTypes": [
+      1
+    ],
+    "advAssetIds": [
+      "event_2211_01_02"
+    ],
+    "sectionName": ""
+  },
+  {
+    "id": "st-eve-2211-marathon-raid-003",
+    "name": "勃発？\n褒め合い\nバトル",
+    "description": "口を開けば喧嘩のⅢXは、仲良くする方法が分からない。そんな中、芽衣の提案により褒め合いバトルが勃発！面白がってfranとmihoを褒めるkana、気味悪がる二人。果たして三人は仲良くできるのか！？",
+    "rewardId": "rd_auto;stone;;30",
+    "advPlayTypes": [
+      1
+    ],
+    "advAssetIds": [
+      "event_2211_01_03"
+    ],
+    "sectionName": ""
+  },
+  {
+    "id": "st-eve-2211-marathon-raid-004",
+    "name": "酔いどれ\nパーティー",
+    "description": "遙子の提案で親睦を深めるため飲み会が開催！翌日のライブに備えて早めに眠りたいというmihoも誘いを断れず付き合うことに。酒の入った成人組は、大盛り上がり！酔って飛び交う枕とそれぞれの自己主張！",
+    "rewardId": "rd_auto;stone;;30",
+    "advPlayTypes": [
+      1
+    ],
+    "advAssetIds": [
+      "event_2211_01_04"
+    ],
+    "sectionName": ""
+  },
+  {
+    "id": "st-eve-2211-marathon-raid-005",
+    "name": "喧嘩するほど\n仲がいい",
+    "description": "酔い潰れて同じ部屋で寝てしまった五人。翌朝、慌ただしくライブ会場に向かっていくⅢXを見て遙子は、喧嘩するほど仲がいいのだと理解。ⅢXに二日酔いなど関係ない。最強を証明するため、今日もステージに上がる。",
+    "rewardId": "rd_auto;stone;;30",
+    "advPlayTypes": [
+      1
+    ],
+    "advAssetIds": [
+      "event_2211_01_05"
     ],
     "sectionName": ""
   },

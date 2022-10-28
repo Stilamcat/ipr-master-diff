@@ -822,5 +822,55 @@
         "isAppeal": false
       }
     ]
+  },
+  {
+    "id": "st-eve-2211-marathon-raid",
+    "assetId": "event-marathon-raid-22-1028",
+    "name": "イベントストーリー",
+    "description": "舌戦開幕！賛美の湯",
+    "order": 2300,
+    "viewConditionId": "cd-event-story-22-1028",
+    "episodes": [
+      {
+        "episode": 1,
+        "assetId": "event_2211_01_01",
+        "storyId": "st-eve-2211-marathon-raid-001",
+        "unlockConditionId": "cd-event-story-read-001-1028-1106",
+        "viewConditionId": "",
+        "isAppeal": false
+      },
+      {
+        "episode": 2,
+        "assetId": "event_2211_01_02",
+        "storyId": "st-eve-2211-marathon-raid-002",
+        "unlockConditionId": "cd-date-event-ladder-marathon-raid-22-1028-panel-story-02",
+        "isAppeal": true,
+        "viewConditionId": ""
+      },
+      {
+        "episode": 3,
+        "assetId": "event_2211_01_03",
+        "storyId": "st-eve-2211-marathon-raid-003",
+        "unlockConditionId": "cd-date-event-ladder-marathon-raid-22-1028-panel-story-03",
+        "viewConditionId": "",
+        "isAppeal": false
+      },
+      {
+        "episode": 4,
+        "assetId": "event_2211_01_04",
+        "storyId": "st-eve-2211-marathon-raid-004",
+        "unlockConditionId": "cd-date-event-ladder-marathon-raid-22-1028-panel-story-04",
+        "viewConditionId": "",
+        "isAppeal": false
+      },
+      {
+        "episode": 5,
+        "assetId": "event_2211_01_05",
+        "storyId": "st-eve-2211-marathon-raid-005",
+        "unlockConditionId": "cd-date-event-ladder-marathon-raid-22-1028-panel-story-05",
+        "viewConditionId": "",
+        "isAppeal": false
+      }
+    ]
   }
 ]

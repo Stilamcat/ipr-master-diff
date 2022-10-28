@@ -1683,6 +1683,66 @@
     "homeTalks": []
   },
   {
+    "id": "card-kan-05-poli-00",
+    "assetId": "kan-05-poli-00",
+    "name": "超強いんだから",
+    "description": "どうせやるんだったら、勝って一番になりたいじゃん\nkana達はそれが出来るくらい、超強いんだから\nそれに、mihoもfranも全然好きじゃないけど\nステージの上のあいつらだけは、信用してるから",
+    "type": 2,
+    "characterId": "char-kan",
+    "initialRarity": 5,
+    "cardParameterId": "card-param-01",
+    "vocalRatioPermil": 318,
+    "danceRatioPermil": 278,
+    "visualRatioPermil": 404,
+    "staminaRatioPermil": 1000,
+    "cardLevelReleaseId": "card_level_release_1",
+    "skillId1": "sk-kan-05-poli-00-1",
+    "skillId2": "sk-kan-05-poli-00-2",
+    "skillId3": "sk-kan-05-poli-00-3",
+    "liveAbilityId": "lba-visual_multiply",
+    "order": 249,
+    "releaseDate": "1666926000000",
+    "rewardCostumeId": "cos-kan-poli-00",
+    "imageType1": 3,
+    "displayPositionX1": 0.152,
+    "displayPositionY1": 0.115,
+    "displayScale1": 1.3,
+    "highlightDisplayPositionX1": -0.241,
+    "highlightDisplayPositionY1": 0.184,
+    "highlightDisplayScale1": 1.1,
+    "imageType2": 3,
+    "displayPositionX2": 0.152,
+    "displayPositionY2": 0.115,
+    "displayScale2": 1.3,
+    "highlightDisplayPositionX2": -0.241,
+    "highlightDisplayPositionY2": 0.184,
+    "highlightDisplayScale2": 1.1,
+    "obtainMessage": "kanaは、スリクスは、二度と負けない",
+    "stories": [
+      {
+        "storyId": "st-card-kan-05-poli-00-01"
+      },
+      {
+        "storyId": "st-card-kan-05-poli-00-02"
+      },
+      {
+        "storyId": "st-card-kan-05-poli-00-03"
+      }
+    ],
+    "messages": [
+      {
+        "messageId": "message-card-kan-05-poli-00",
+        "telephoneId": ""
+      },
+      {
+        "telephoneId": "tel-card-kan-05-poli-00",
+        "messageId": ""
+      }
+    ],
+    "activityAbilityId": "",
+    "homeTalks": []
+  },
+  {
     "id": "card-kkr-03-schl-00",
     "assetId": "kkr-03-schl-00",
     "name": "たまには本気で",
@@ -2070,6 +2130,66 @@
       }
     ],
     "activityAbilityId": "",
+    "homeTalks": []
+  },
+  {
+    "id": "card-kor-05-poli-00",
+    "assetId": "kor-05-poli-00",
+    "name": "壁越しに香るゆず湯",
+    "description": "あ～……一人で入る温泉って最っ高～\nはぁぁ～……気ん持ちいぃ～～……\r\n柚子の香りもすっごくいい感じぃ～……",
+    "type": 1,
+    "characterId": "char-kor",
+    "initialRarity": 5,
+    "cardParameterId": "card-param-01",
+    "vocalRatioPermil": 278,
+    "danceRatioPermil": 432,
+    "visualRatioPermil": 320,
+    "staminaRatioPermil": 900,
+    "cardLevelReleaseId": "card_level_release_1",
+    "skillId1": "sk-kor-05-poli-00-1",
+    "skillId2": "sk-kor-05-poli-00-2",
+    "skillId3": "sk-kor-05-poli-00-3",
+    "activityAbilityId": "aab-promotion_gold_up",
+    "order": 248,
+    "releaseDate": "1666926000000",
+    "rewardCostumeId": "cos-kor-poli-00",
+    "imageType1": 3,
+    "displayPositionX1": 0.133,
+    "displayPositionY1": 0.04,
+    "displayScale1": 1.5,
+    "highlightDisplayPositionX1": -0.247,
+    "highlightDisplayPositionY1": 0.06,
+    "highlightDisplayScale1": 0.9,
+    "imageType2": 3,
+    "displayPositionX2": 0.133,
+    "displayPositionY2": 0.04,
+    "displayScale2": 1.5,
+    "highlightDisplayPositionX2": -0.247,
+    "highlightDisplayPositionY2": 0.06,
+    "highlightDisplayScale2": 0.9,
+    "obtainMessage": "あ～……一人で入る温泉って最っ高～",
+    "stories": [
+      {
+        "storyId": "st-card-kor-05-poli-00-01"
+      },
+      {
+        "storyId": "st-card-kor-05-poli-00-02"
+      },
+      {
+        "storyId": "st-card-kor-05-poli-00-03"
+      }
+    ],
+    "messages": [
+      {
+        "messageId": "message-card-kor-05-poli-00",
+        "telephoneId": ""
+      },
+      {
+        "telephoneId": "tel-card-kor-05-poli-00",
+        "messageId": ""
+      }
+    ],
+    "liveAbilityId": "",
     "homeTalks": []
   },
   {
@@ -2583,6 +2703,47 @@
     "activityAbilityId": "",
     "displayPositionY1": 0.0,
     "displayPositionY2": 0.0,
+    "homeTalks": []
+  },
+  {
+    "id": "card-mei-02-eve-01",
+    "assetId": "mei-02-eve-01",
+    "name": "距離が縮まる露天風呂",
+    "description": "ねぇねぇ、来週のレッスン帰りに遊びに行かない？\nねぇってばー聞いてる？",
+    "type": 3,
+    "characterId": "char-mei",
+    "initialRarity": 2,
+    "cardParameterId": "card-param-01",
+    "vocalRatioPermil": 278,
+    "danceRatioPermil": 403,
+    "visualRatioPermil": 319,
+    "staminaRatioPermil": 1000,
+    "cardLevelReleaseId": "card_level_release_1",
+    "skillId1": "sk-mei-02-eve-01-1",
+    "skillId2": "sk-mei-02-eve-01-2",
+    "skillId3": "sk-mei-02-eve-01-3",
+    "order": 250,
+    "releaseDate": "1666926000000",
+    "imageType1": 1,
+    "displayPositionX1": -0.009,
+    "displayPositionY1": 0.255,
+    "displayScale1": 1.1,
+    "highlightDisplayPositionX1": -0.073,
+    "highlightDisplayPositionY1": 0.312,
+    "highlightDisplayScale1": 1.0,
+    "imageType2": 2,
+    "displayPositionX2": 0.072,
+    "displayPositionY2": 0.228,
+    "displayScale2": 2.0,
+    "highlightDisplayPositionX2": -0.14,
+    "highlightDisplayPositionY2": 0.308,
+    "highlightDisplayScale2": 1.2,
+    "liveAbilityId": "",
+    "activityAbilityId": "",
+    "rewardCostumeId": "",
+    "obtainMessage": "",
+    "stories": [],
+    "messages": [],
     "homeTalks": []
   },
   {
