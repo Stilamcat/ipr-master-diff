@@ -385,6 +385,17 @@
     "salePrice": 0
   },
   {
+    "id": "item-exchange-ticket-22-1106",
+    "name": "★5契約書",
+    "assetId": "card-exchange-05",
+    "description": "★5アイドル交換所で好きな\nメンバーと交換できるチケット",
+    "howToGet": "水着オールスター2021ドリームギフトガチャ",
+    "type": 10,
+    "value": 1,
+    "order": 140,
+    "salePrice": 0
+  },
+  {
     "id": "item-exchange_item-ticket-22-0630",
     "name": "引換券",
     "assetId": "item-exchange-cp-01",
@@ -1190,6 +1201,17 @@
   {
     "id": "item-gacha_point-rev-select-01-22-0905",
     "name": "選べる★5復刻ガチャPt",
+    "assetId": "gacha-point",
+    "description": "該当するガチャページの「ガチャPt」から\nガチャPtを消費してアイドルを獲得できる",
+    "type": 9,
+    "value": 1,
+    "order": 140,
+    "howToGet": "",
+    "salePrice": 0
+  },
+  {
+    "id": "item-gacha_point-rev-select-01-22-1106",
+    "name": "選べる★5水着オールスター2021ガチャPt",
     "assetId": "gacha-point",
     "description": "該当するガチャページの「ガチャPt」から\nガチャPtを消費してアイドルを獲得できる",
     "type": 9,
