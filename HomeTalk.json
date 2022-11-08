@@ -1774,6 +1774,56 @@
     ]
   },
   {
+    "homeTalkId": "home-talk-card-mhk-05-poli-00-talk-01",
+    "characterId": "char-mhk",
+    "placeType": 1,
+    "conditionId": "cd-st-read-st-card-mhk-05-poli-00-03",
+    "firstPriority": 9900,
+    "weight": 1,
+    "callPatternId": "call-pattern-card-mhk-05-poli-00",
+    "choiceText": "今日もお弁当ですか？\n体に気を遣ってるんですね。",
+    "managerText": "今日もお弁当ですか？\n体に気を遣ってるんですね。",
+    "reliability": 5,
+    "characterTalks": [
+      {
+        "text": "当たり前でしょう。\nそれもアイドルの仕事のうちです。",
+        "voiceAssetId": "sud_vo_home_mhk-05-poli-00_talk-01-01",
+        "motionAssetId": "mot_adv_chr_cmn_pos-011_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "外食だとカロリーの計算を\nし辛いので、だったら自分で\n用意した方が楽なんですよね。",
+        "voiceAssetId": "sud_vo_home_mhk-05-poli-00_talk-01-02",
+        "motionAssetId": "mot_adv_chr_cmn_think-004_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "他に気を付けていることは…\nそうね、甘酒はなるべく毎日、\n飲むようにしていますね。",
+        "voiceAssetId": "sud_vo_home_mhk-05-poli-00_talk-01-03",
+        "motionAssetId": "mot_adv_chr_cmn_pos-002_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "有名な女優がやってるってテレビで\n見たもので…あ、これ、あの二人\nには言わないで下さいね。",
+        "voiceAssetId": "sud_vo_home_mhk-05-poli-00_talk-01-04",
+        "motionAssetId": "mot_adv_chr_cmn_pos-010_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "少しでも隙を見せると、\n揚げ足を取られて大変なんです。",
+        "voiceAssetId": "sud_vo_home_mhk-05-poli-00_talk-01-05",
+        "motionAssetId": "mot_adv_chr_cmn_deny-004_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "もちろん私は、あの二人みたいに\n子どもっぽいケンカをすることは\nないですけどね。",
+        "voiceAssetId": "sud_vo_home_mhk-05-poli-00_talk-01-06",
+        "motionAssetId": "mot_adv_chr_cmn_pos-023_in",
+        "additionMotionAssetId": ""
+      }
+    ]
+  },
+  {
     "homeTalkId": "home-talk-card-mna-05-fest-00-talk-01",
     "characterId": "char-mna",
     "placeType": 1,

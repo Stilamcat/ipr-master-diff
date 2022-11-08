@@ -41704,6 +41704,492 @@
     "assetId": ""
   },
   {
+    "id": "sk-mhk-05-poli-00-1",
+    "name": "こりごり二日酔い",
+    "categoryType": 2,
+    "levels": [
+      {
+        "level": 1,
+        "description": "350%のスコア獲得\nスコアラータイプ2人に7段階スコア上昇効果[36ビート]\n[ライブバトルのみ]相手のスコアラータイプ2人に15段階スタミナ消費増加効果[55ビート]\nスタミナ133消費 CT:40",
+        "shortDescription": "\n\n\nスタミナ133消費 CT:40",
+        "stamina": 133,
+        "probabilityPermil": 1000,
+        "coolTime": 40,
+        "skillDetails": [
+          {
+            "efficacyId": "ef-score_get-3500-chart_dependence",
+            "triggerId": ""
+          },
+          {
+            "efficacyId": "ef-score_up-7-target-character_type-1-2-36",
+            "triggerId": ""
+          },
+          {
+            "efficacyId": "ef-stamina_consumption_increase-15-target-opponent_character_type-1-2-55",
+            "triggerId": ""
+          }
+        ],
+        "requiredItemAmount": 0,
+        "requiredCardLevel": 0,
+        "triggerId": "",
+        "limitCount": 0,
+        "staminaPermil": 0
+      },
+      {
+        "level": 2,
+        "description": "370%のスコア獲得\nスコアラータイプ2人に7段階スコア上昇効果[38ビート]\n[ライブバトルのみ]相手のスコアラータイプ2人に15段階スタミナ消費増加効果[55ビート]\nスタミナ140消費 CT:40",
+        "shortDescription": "\n\n\nスタミナ140消費 CT:40",
+        "requiredItemAmount": 500,
+        "requiredCardLevel": 40,
+        "stamina": 140,
+        "probabilityPermil": 1000,
+        "coolTime": 40,
+        "skillDetails": [
+          {
+            "efficacyId": "ef-score_get-3700-chart_dependence",
+            "triggerId": ""
+          },
+          {
+            "efficacyId": "ef-score_up-7-target-character_type-1-2-38",
+            "triggerId": ""
+          },
+          {
+            "efficacyId": "ef-stamina_consumption_increase-15-target-opponent_character_type-1-2-55",
+            "triggerId": ""
+          }
+        ],
+        "triggerId": "",
+        "limitCount": 0,
+        "staminaPermil": 0
+      },
+      {
+        "level": 3,
+        "description": "400%のスコア獲得\nスコアラータイプ2人に8段階スコア上昇効果[38ビート]\n[ライブバトルのみ]相手のスコアラータイプ2人に15段階スタミナ消費増加効果[55ビート]\nスタミナ151消費 CT:40",
+        "shortDescription": "\n\n\nスタミナ151消費 CT:40",
+        "requiredItemAmount": 2000,
+        "requiredCardLevel": 60,
+        "stamina": 151,
+        "probabilityPermil": 1000,
+        "coolTime": 40,
+        "skillDetails": [
+          {
+            "efficacyId": "ef-score_get-4000-chart_dependence",
+            "triggerId": ""
+          },
+          {
+            "efficacyId": "ef-score_up-8-target-character_type-1-2-38",
+            "triggerId": ""
+          },
+          {
+            "efficacyId": "ef-stamina_consumption_increase-15-target-opponent_character_type-1-2-55",
+            "triggerId": ""
+          }
+        ],
+        "triggerId": "",
+        "limitCount": 0,
+        "staminaPermil": 0
+      },
+      {
+        "level": 4,
+        "description": "430%のスコア獲得\nスコアラータイプ2人に8段階スコア上昇効果[40ビート]\n[ライブバトルのみ]相手のスコアラータイプ2人に15段階スタミナ消費増加効果[55ビート]\nスタミナ161消費 CT:40",
+        "shortDescription": "\n\n\nスタミナ161消費 CT:40",
+        "requiredItemAmount": 15000,
+        "requiredCardLevel": 90,
+        "stamina": 161,
+        "probabilityPermil": 1000,
+        "coolTime": 40,
+        "skillDetails": [
+          {
+            "efficacyId": "ef-score_get-4300-chart_dependence",
+            "triggerId": ""
+          },
+          {
+            "efficacyId": "ef-score_up-8-target-character_type-1-2-40",
+            "triggerId": ""
+          },
+          {
+            "efficacyId": "ef-stamina_consumption_increase-15-target-opponent_character_type-1-2-55",
+            "triggerId": ""
+          }
+        ],
+        "triggerId": "",
+        "limitCount": 0,
+        "staminaPermil": 0
+      },
+      {
+        "level": 5,
+        "description": "460%のスコア獲得\nスコアラータイプ2人に9段階スコア上昇効果[40ビート]\n[ライブバトルのみ]相手のスコアラータイプ2人に15段階スタミナ消費増加効果[55ビート]\nスタミナ172消費 CT:40",
+        "shortDescription": "\n\n\nスタミナ172消費 CT:40",
+        "requiredItemAmount": 100000,
+        "requiredCardLevel": 150,
+        "stamina": 172,
+        "probabilityPermil": 1000,
+        "coolTime": 40,
+        "skillDetails": [
+          {
+            "efficacyId": "ef-score_get-4600-chart_dependence",
+            "triggerId": ""
+          },
+          {
+            "efficacyId": "ef-score_up-9-target-character_type-1-2-40",
+            "triggerId": ""
+          },
+          {
+            "efficacyId": "ef-stamina_consumption_increase-15-target-opponent_character_type-1-2-55",
+            "triggerId": ""
+          }
+        ],
+        "triggerId": "",
+        "limitCount": 0,
+        "staminaPermil": 0
+      },
+      {
+        "level": 6,
+        "description": "490%のスコア獲得\nスコアラータイプ2人に9段階スコア上昇効果[42ビート]\n[ライブバトルのみ]相手のスコアラータイプ2人に15段階スタミナ消費増加効果[55ビート]\nスタミナ182消費 CT:40",
+        "shortDescription": "\n\n\nスタミナ182消費 CT:40",
+        "requiredItemAmount": 230000,
+        "requiredCardLevel": 180,
+        "stamina": 182,
+        "probabilityPermil": 1000,
+        "coolTime": 40,
+        "skillDetails": [
+          {
+            "efficacyId": "ef-score_get-4900-chart_dependence",
+            "triggerId": ""
+          },
+          {
+            "efficacyId": "ef-score_up-9-target-character_type-1-2-42",
+            "triggerId": ""
+          },
+          {
+            "efficacyId": "ef-stamina_consumption_increase-15-target-opponent_character_type-1-2-55",
+            "triggerId": ""
+          }
+        ],
+        "triggerId": "",
+        "limitCount": 0,
+        "staminaPermil": 0
+      }
+    ],
+    "assetId": ""
+  },
+  {
+    "id": "sk-mhk-05-poli-00-2",
+    "name": "のんびり温泉『出張』",
+    "categoryType": 3,
+    "levels": [
+      {
+        "level": 1,
+        "description": "ボーカルタイプ1人に6段階スコア上昇効果[26ビート]\nボーカルタイプ1人に3段階スタミナ継続回復効果[31ビート]\nスタミナ141消費 CT:50",
+        "shortDescription": "\n\nスタミナ141消費 CT:50",
+        "stamina": 141,
+        "probabilityPermil": 1000,
+        "coolTime": 50,
+        "skillDetails": [
+          {
+            "efficacyId": "ef-score_up-6-target-vocal-1-26",
+            "triggerId": ""
+          },
+          {
+            "efficacyId": "ef-stamina_continuous_recovery-3-target-vocal-1-31",
+            "triggerId": ""
+          }
+        ],
+        "requiredItemAmount": 0,
+        "requiredCardLevel": 0,
+        "triggerId": "",
+        "limitCount": 0,
+        "staminaPermil": 0
+      },
+      {
+        "level": 2,
+        "description": "ボーカルタイプ1人に7段階スコア上昇効果[26ビート]\nボーカルタイプ1人に3段階スタミナ継続回復効果[33ビート]\nスタミナ158消費 CT:50",
+        "shortDescription": "\n\nスタミナ158消費 CT:50",
+        "requiredItemAmount": 1000,
+        "requiredCardLevel": 50,
+        "stamina": 158,
+        "probabilityPermil": 1000,
+        "coolTime": 50,
+        "skillDetails": [
+          {
+            "efficacyId": "ef-score_up-7-target-vocal-1-26",
+            "triggerId": ""
+          },
+          {
+            "efficacyId": "ef-stamina_continuous_recovery-3-target-vocal-1-33",
+            "triggerId": ""
+          }
+        ],
+        "triggerId": "",
+        "limitCount": 0,
+        "staminaPermil": 0
+      },
+      {
+        "level": 3,
+        "description": "ボーカルタイプ1人に7段階スコア上昇効果[32ビート]\nボーカルタイプ1人に3段階スタミナ継続回復効果[36ビート]\nスタミナ183消費 CT:50",
+        "shortDescription": "\n\nスタミナ183消費 CT:50",
+        "requiredItemAmount": 4000,
+        "requiredCardLevel": 70,
+        "stamina": 183,
+        "probabilityPermil": 1000,
+        "coolTime": 50,
+        "skillDetails": [
+          {
+            "efficacyId": "ef-score_up-7-target-vocal-1-32",
+            "triggerId": ""
+          },
+          {
+            "efficacyId": "ef-stamina_continuous_recovery-3-target-vocal-1-36",
+            "triggerId": ""
+          }
+        ],
+        "triggerId": "",
+        "limitCount": 0,
+        "staminaPermil": 0
+      },
+      {
+        "level": 4,
+        "description": "ボーカルタイプ1人に8段階スコア上昇効果[32ビート]\nボーカルタイプ1人に4段階スタミナ継続回復効果[36ビート]\nスタミナ225消費 CT:50",
+        "shortDescription": "\n\nスタミナ225消費 CT:50",
+        "requiredItemAmount": 30000,
+        "requiredCardLevel": 110,
+        "stamina": 225,
+        "probabilityPermil": 1000,
+        "coolTime": 50,
+        "skillDetails": [
+          {
+            "efficacyId": "ef-score_up-8-target-vocal-1-32",
+            "triggerId": ""
+          },
+          {
+            "efficacyId": "ef-stamina_continuous_recovery-4-target-vocal-1-36",
+            "triggerId": ""
+          }
+        ],
+        "triggerId": "",
+        "limitCount": 0,
+        "staminaPermil": 0
+      },
+      {
+        "level": 5,
+        "description": "ボーカルタイプ1人に8段階スコア上昇効果[38ビート]\nボーカルタイプ1人に4段階スタミナ継続回復効果[39ビート]\nスタミナ255消費 CT:50",
+        "shortDescription": "\n\nスタミナ255消費 CT:50",
+        "requiredItemAmount": 140000,
+        "requiredCardLevel": 160,
+        "stamina": 255,
+        "probabilityPermil": 1000,
+        "coolTime": 50,
+        "skillDetails": [
+          {
+            "efficacyId": "ef-score_up-8-target-vocal-1-38",
+            "triggerId": ""
+          },
+          {
+            "efficacyId": "ef-stamina_continuous_recovery-4-target-vocal-1-39",
+            "triggerId": ""
+          }
+        ],
+        "triggerId": "",
+        "limitCount": 0,
+        "staminaPermil": 0
+      },
+      {
+        "level": 6,
+        "description": "ボーカルタイプ1人に9段階スコア上昇効果[38ビート]\nボーカルタイプ1人に4段階スタミナ継続回復効果[42ビート]\nスタミナ282消費 CT:50",
+        "shortDescription": "\n\nスタミナ282消費 CT:50",
+        "requiredItemAmount": 280000,
+        "requiredCardLevel": 200,
+        "stamina": 282,
+        "probabilityPermil": 1000,
+        "coolTime": 50,
+        "skillDetails": [
+          {
+            "efficacyId": "ef-score_up-9-target-vocal-1-38",
+            "triggerId": ""
+          },
+          {
+            "efficacyId": "ef-stamina_continuous_recovery-4-target-vocal-1-42",
+            "triggerId": ""
+          }
+        ],
+        "triggerId": "",
+        "limitCount": 0,
+        "staminaPermil": 0
+      }
+    ],
+    "assetId": ""
+  },
+  {
+    "id": "sk-mhk-05-poli-00-3",
+    "name": "泥酔者の愚痴",
+    "categoryType": 3,
+    "levels": [
+      {
+        "level": 1,
+        "description": "ボーカルタイプ3人に2段階Aスキルスコア上昇効果[22ビート]\n自身に3段階スタミナ継続回復効果[22ビート]\n[ライブバトルのみ]同じレーンの相手に7段階ボーカル低下効果[26ビート]\nスタミナ234消費 CT:40",
+        "shortDescription": "\n\n\nスタミナ234消費 CT:40",
+        "stamina": 234,
+        "probabilityPermil": 1000,
+        "coolTime": 40,
+        "skillDetails": [
+          {
+            "efficacyId": "ef-active_skill_score_up-2-target-vocal-3-22",
+            "triggerId": ""
+          },
+          {
+            "efficacyId": "ef-stamina_continuous_recovery-3-target-self-22",
+            "triggerId": ""
+          },
+          {
+            "efficacyId": "ef-vocal_down-7-target-opponent_same_position-26",
+            "triggerId": ""
+          }
+        ],
+        "requiredItemAmount": 0,
+        "requiredCardLevel": 0,
+        "triggerId": "",
+        "limitCount": 0,
+        "staminaPermil": 0
+      },
+      {
+        "level": 2,
+        "description": "ボーカルタイプ3人に2段階Aスキルスコア上昇効果[24ビート]\n自身に3段階スタミナ継続回復効果[24ビート]\n[ライブバトルのみ]同じレーンの相手に7段階ボーカル低下効果[29ビート]\nスタミナ259消費 CT:40",
+        "shortDescription": "\n\n\nスタミナ259消費 CT:40",
+        "requiredItemAmount": 15000,
+        "requiredCardLevel": 100,
+        "stamina": 259,
+        "probabilityPermil": 1000,
+        "coolTime": 40,
+        "skillDetails": [
+          {
+            "efficacyId": "ef-active_skill_score_up-2-target-vocal-3-24",
+            "triggerId": ""
+          },
+          {
+            "efficacyId": "ef-stamina_continuous_recovery-3-target-self-24",
+            "triggerId": ""
+          },
+          {
+            "efficacyId": "ef-vocal_down-7-target-opponent_same_position-29",
+            "triggerId": ""
+          }
+        ],
+        "triggerId": "",
+        "limitCount": 0,
+        "staminaPermil": 0
+      },
+      {
+        "level": 3,
+        "description": "ボーカルタイプ3人に2段階Aスキルスコア上昇効果[27ビート]\n自身に3段階スタミナ継続回復効果[27ビート]\n[ライブバトルのみ]同じレーンの相手に8段階ボーカル低下効果[29ビート]\nスタミナ294消費 CT:40",
+        "shortDescription": "\n\n\nスタミナ294消費 CT:40",
+        "requiredItemAmount": 60000,
+        "requiredCardLevel": 130,
+        "stamina": 294,
+        "probabilityPermil": 1000,
+        "coolTime": 40,
+        "skillDetails": [
+          {
+            "efficacyId": "ef-active_skill_score_up-2-target-vocal-3-27",
+            "triggerId": ""
+          },
+          {
+            "efficacyId": "ef-stamina_continuous_recovery-3-target-self-27",
+            "triggerId": ""
+          },
+          {
+            "efficacyId": "ef-vocal_down-8-target-opponent_same_position-29",
+            "triggerId": ""
+          }
+        ],
+        "triggerId": "",
+        "limitCount": 0,
+        "staminaPermil": 0
+      },
+      {
+        "level": 4,
+        "description": "ボーカルタイプ3人に3段階Aスキルスコア上昇効果[27ビート]\n自身に4段階スタミナ継続回復効果[27ビート]\n[ライブバトルのみ]同じレーンの相手に8段階ボーカル低下効果[32ビート]\nスタミナ356消費 CT:40",
+        "shortDescription": "\n\n\nスタミナ356消費 CT:40",
+        "requiredItemAmount": 180000,
+        "requiredCardLevel": 170,
+        "stamina": 356,
+        "probabilityPermil": 1000,
+        "coolTime": 40,
+        "skillDetails": [
+          {
+            "efficacyId": "ef-active_skill_score_up-3-target-vocal-3-27",
+            "triggerId": ""
+          },
+          {
+            "efficacyId": "ef-stamina_continuous_recovery-4-target-self-27",
+            "triggerId": ""
+          },
+          {
+            "efficacyId": "ef-vocal_down-8-target-opponent_same_position-32",
+            "triggerId": ""
+          }
+        ],
+        "triggerId": "",
+        "limitCount": 0,
+        "staminaPermil": 0
+      },
+      {
+        "level": 5,
+        "description": "ボーカルタイプ3人に3段階Aスキルスコア上昇効果[30ビート]\n自身に4段階スタミナ継続回復効果[30ビート]\n[ライブバトルのみ]同じレーンの相手に9段階ボーカル低下効果[32ビート]\nスタミナ399消費 CT:40",
+        "shortDescription": "\n\n\nスタミナ399消費 CT:40",
+        "requiredItemAmount": 230000,
+        "requiredCardLevel": 210,
+        "stamina": 399,
+        "probabilityPermil": 1000,
+        "coolTime": 40,
+        "skillDetails": [
+          {
+            "efficacyId": "ef-active_skill_score_up-3-target-vocal-3-30",
+            "triggerId": ""
+          },
+          {
+            "efficacyId": "ef-stamina_continuous_recovery-4-target-self-30",
+            "triggerId": ""
+          },
+          {
+            "efficacyId": "ef-vocal_down-9-target-opponent_same_position-32",
+            "triggerId": ""
+          }
+        ],
+        "triggerId": "",
+        "limitCount": 0,
+        "staminaPermil": 0
+      },
+      {
+        "level": 6,
+        "description": "ボーカルタイプ3人に3段階Aスキルスコア上昇効果[33ビート]\n自身に4段階スタミナ継続回復効果[33ビート]\n[ライブバトルのみ]同じレーンの相手に9段階ボーカル低下効果[36ビート]\nスタミナ445消費 CT:40",
+        "shortDescription": "\n\n\nスタミナ445消費 CT:40",
+        "requiredItemAmount": 230000,
+        "requiredCardLevel": 220,
+        "stamina": 445,
+        "probabilityPermil": 1000,
+        "coolTime": 40,
+        "skillDetails": [
+          {
+            "efficacyId": "ef-active_skill_score_up-3-target-vocal-3-33",
+            "triggerId": ""
+          },
+          {
+            "efficacyId": "ef-stamina_continuous_recovery-4-target-self-33",
+            "triggerId": ""
+          },
+          {
+            "efficacyId": "ef-vocal_down-9-target-opponent_same_position-36",
+            "triggerId": ""
+          }
+        ],
+        "triggerId": "",
+        "limitCount": 0,
+        "staminaPermil": 0
+      }
+    ],
+    "assetId": ""
+  },
+  {
     "id": "sk-mini-marathon-lba-passive_skill-active_score_up-dance_higher-2",
     "name": "ライブボーナス",
     "categoryType": 3,

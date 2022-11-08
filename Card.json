@@ -1707,16 +1707,16 @@
     "displayPositionX1": 0.152,
     "displayPositionY1": 0.115,
     "displayScale1": 1.3,
-    "highlightDisplayPositionX1": -0.241,
-    "highlightDisplayPositionY1": 0.184,
-    "highlightDisplayScale1": 1.1,
+    "highlightDisplayPositionX1": -0.257,
+    "highlightDisplayPositionY1": 0.131,
+    "highlightDisplayScale1": 1.0,
     "imageType2": 3,
     "displayPositionX2": 0.152,
     "displayPositionY2": 0.115,
     "displayScale2": 1.3,
-    "highlightDisplayPositionX2": -0.241,
-    "highlightDisplayPositionY2": 0.184,
-    "highlightDisplayScale2": 1.1,
+    "highlightDisplayPositionX2": -0.257,
+    "highlightDisplayPositionY2": 0.131,
+    "highlightDisplayScale2": 1.0,
     "obtainMessage": "kanaは、スリクスは、二度と負けない",
     "stories": [
       {
@@ -3194,6 +3194,66 @@
       }
     ],
     "liveAbilityId": "",
+    "homeTalks": []
+  },
+  {
+    "id": "card-mhk-05-poli-00",
+    "assetId": "mhk-05-poli-00",
+    "name": "湯けむりショートトリップ",
+    "description": "露天風呂の眺めも良かったですし、檜のいい香りがして\r\n……のぼせる寸前までお風呂に入ってたの、初めてです\r\nぼうっと半日過ごしてみたら\r\n……リラックスするのも大事だと、改めて思いました",
+    "type": 3,
+    "characterId": "char-mhk",
+    "initialRarity": 5,
+    "cardParameterId": "card-param-01",
+    "vocalRatioPermil": 415,
+    "danceRatioPermil": 328,
+    "visualRatioPermil": 287,
+    "staminaRatioPermil": 900,
+    "cardLevelReleaseId": "card_level_release_1",
+    "skillId1": "sk-mhk-05-poli-00-1",
+    "skillId2": "sk-mhk-05-poli-00-2",
+    "skillId3": "sk-mhk-05-poli-00-3",
+    "activityAbilityId": "aab-fan_event_manager_exp_up",
+    "order": 251,
+    "releaseDate": "1667876400000",
+    "rewardCostumeId": "cos-mhk-poli-00",
+    "imageType1": 3,
+    "displayPositionX1": -0.227,
+    "displayScale1": 1.0,
+    "highlightDisplayPositionX1": 0.179,
+    "highlightDisplayPositionY1": 0.142,
+    "highlightDisplayScale1": 1.0,
+    "imageType2": 3,
+    "displayPositionX2": -0.227,
+    "displayScale2": 1.0,
+    "highlightDisplayPositionX2": 0.179,
+    "highlightDisplayPositionY2": 0.142,
+    "highlightDisplayScale2": 1.0,
+    "obtainMessage": "のぼせる寸前までお風呂に入ってたの、\n初めてです",
+    "stories": [
+      {
+        "storyId": "st-card-mhk-05-poli-00-01"
+      },
+      {
+        "storyId": "st-card-mhk-05-poli-00-02"
+      },
+      {
+        "storyId": "st-card-mhk-05-poli-00-03"
+      }
+    ],
+    "messages": [
+      {
+        "messageId": "message-card-mhk-05-poli-00",
+        "telephoneId": ""
+      },
+      {
+        "telephoneId": "tel-card-mhk-05-poli-00",
+        "messageId": ""
+      }
+    ],
+    "liveAbilityId": "",
+    "displayPositionY1": 0.0,
+    "displayPositionY2": 0.0,
     "homeTalks": []
   },
   {

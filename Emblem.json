@@ -3195,6 +3195,33 @@
     "isViewableInInactive": false
   },
   {
+    "id": "emb-647",
+    "name": "VENUSシーズン50 No.1",
+    "assetId": "pvp-season-050-top001",
+    "order": 1501,
+    "description": "VENUSバトルシーズン50で1位獲得",
+    "autoProvideConditionId": "",
+    "isViewableInInactive": false
+  },
+  {
+    "id": "emb-648",
+    "name": "VENUSシーズン50 TOP10",
+    "assetId": "pvp-season-050-top010",
+    "order": 1502,
+    "description": "VENUSバトルシーズン50で10位以内獲得",
+    "autoProvideConditionId": "",
+    "isViewableInInactive": false
+  },
+  {
+    "id": "emb-649",
+    "name": "VENUSシーズン50 TOP100",
+    "assetId": "pvp-season-050-top100",
+    "order": 1503,
+    "description": "VENUSバトルシーズン50で100位以内獲得",
+    "autoProvideConditionId": "",
+    "isViewableInInactive": false
+  },
+  {
     "id": "emb-702",
     "name": "【誕生日】早坂芽衣",
     "assetId": "birthday_mei-02",
@@ -3246,6 +3273,15 @@
     "autoProvideConditionId": "cd-birthday_rio-22-0828",
     "order": 3605,
     "description": "莉央の誕生日を迎える",
+    "isViewableInInactive": false
+  },
+  {
+    "id": "emb-715",
+    "name": "【誕生日】天動瑠依",
+    "assetId": "birthday_rui-02",
+    "autoProvideConditionId": "cd-birthday_emblem_rui-22-1111",
+    "order": 3625,
+    "description": "瑠依の誕生日を迎える",
     "isViewableInInactive": false
   },
   {
@@ -3632,6 +3668,24 @@
     "assetId": "gvg-season-016-top010",
     "order": 1536,
     "description": "ユニオンライブシーズン16で10位以内獲得",
+    "autoProvideConditionId": "",
+    "isViewableInInactive": false
+  },
+  {
+    "id": "emb-926",
+    "name": "ユニオンシーズン17 No.1",
+    "assetId": "gvg-season-017-top001",
+    "order": 1537,
+    "description": "ユニオンライブシーズン17で1位獲得",
+    "autoProvideConditionId": "",
+    "isViewableInInactive": false
+  },
+  {
+    "id": "emb-927",
+    "name": "ユニオンシーズン17 TOP10",
+    "assetId": "gvg-season-017-top010",
+    "order": 1538,
+    "description": "ユニオンライブシーズン17で10位以内獲得",
     "autoProvideConditionId": "",
     "isViewableInInactive": false
   }
