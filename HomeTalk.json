@@ -828,6 +828,56 @@
     ]
   },
   {
+    "homeTalkId": "home-talk-card-hrk-05-onep-00-talk-01",
+    "characterId": "char-hrk",
+    "placeType": 1,
+    "conditionId": "cd-st-read-st-card-hrk-05-onep-00-03",
+    "firstPriority": 9900,
+    "weight": 1,
+    "callPatternId": "call-pattern-card-hrk-05-onep-00",
+    "choiceText": "いつの間に\nお土産を買っていたんですか？",
+    "managerText": "いつの間に\nお土産を買っていたんですか？",
+    "reliability": 5,
+    "characterTalks": [
+      {
+        "text": "帰る直前に慌てて買ったのよ。\n前日は夜遅くまで飲んでいて\n買い物する暇がなかったから。",
+        "voiceAssetId": "sud_vo_home_hrk-05-onep-00_talk-01-01",
+        "motionAssetId": "mot_adv_chr_cmn_emb-015_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "もっとじっくり選びたかったわ。\nお土産屋さんで何を買おうか\n悩むのも旅の醍醐味でしょ？",
+        "voiceAssetId": "sud_vo_home_hrk-05-onep-00_talk-01-02",
+        "motionAssetId": "mot_adv_chr_cmn_pos-017_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "みんなの顔を思い浮かべながら\nその人にぴったりなお土産を\n探すのが楽しいのよね。",
+        "voiceAssetId": "sud_vo_home_hrk-05-onep-00_talk-01-03",
+        "motionAssetId": "mot_adv_chr_cmn_pos-009_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "ちなみに、自分へのお土産も\n買ったんだけど\nなんだか分かる？",
+        "voiceAssetId": "sud_vo_home_hrk-05-onep-00_talk-01-04",
+        "motionAssetId": "mot_adv_chr_cmn_ask-006_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "正解は……\n美味しい地ビールでした～",
+        "voiceAssetId": "sud_vo_home_hrk-05-onep-00_talk-01-05",
+        "motionAssetId": "mot_adv_chr_cmn_glad-003_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "ふふ……\n沢山買ってあるから\n今度一緒に飲もっか。",
+        "voiceAssetId": "sud_vo_home_hrk-05-onep-00_talk-01-06",
+        "motionAssetId": "mot_adv_chr_cmn_glad-005_in",
+        "additionMotionAssetId": ""
+      }
+    ]
+  },
+  {
     "homeTalkId": "home-talk-card-hrk-05-xmas-00-talk-01",
     "characterId": "char-hrk",
     "placeType": 1,

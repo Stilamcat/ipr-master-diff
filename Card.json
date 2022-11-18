@@ -1563,6 +1563,66 @@
     "activityAbilityId": ""
   },
   {
+    "id": "card-hrk-05-onep-00",
+    "assetId": "hrk-05-onep-00",
+    "name": "ゆるり妄想温泉の旅",
+    "description": "温泉が気持ち良くて、つい長風呂しちゃうわ\r\nなんだか頭がぼんやりして……のぼせちゃったかも\r\nマネージャー君も\r\n今頃は温泉に入ってるのかしら……",
+    "type": 1,
+    "characterId": "char-hrk",
+    "initialRarity": 5,
+    "cardParameterId": "card-param-01",
+    "vocalRatioPermil": 317,
+    "danceRatioPermil": 279,
+    "visualRatioPermil": 434,
+    "staminaRatioPermil": 900,
+    "cardLevelReleaseId": "card_level_release_1",
+    "skillId1": "sk-hrk-05-onep-00-1",
+    "skillId2": "sk-hrk-05-onep-00-2",
+    "skillId3": "sk-hrk-05-onep-00-3",
+    "liveAbilityId": "lba-visual_multiply",
+    "order": 252,
+    "releaseDate": "1668913200000",
+    "rewardCostumeId": "cos-hrk-onep-00",
+    "imageType1": 3,
+    "displayPositionX1": 0.233,
+    "displayScale1": 1.0,
+    "highlightDisplayPositionX1": -0.452,
+    "highlightDisplayPositionY1": 0.078,
+    "highlightDisplayScale1": 0.7,
+    "imageType2": 3,
+    "displayPositionX2": 0.233,
+    "displayScale2": 1.0,
+    "highlightDisplayPositionX2": -0.452,
+    "highlightDisplayPositionY2": 0.078,
+    "highlightDisplayScale2": 0.7,
+    "obtainMessage": "あぁ～、極楽極楽～",
+    "stories": [
+      {
+        "storyId": "st-card-hrk-05-onep-00-01"
+      },
+      {
+        "storyId": "st-card-hrk-05-onep-00-02"
+      },
+      {
+        "storyId": "st-card-hrk-05-onep-00-03"
+      }
+    ],
+    "messages": [
+      {
+        "messageId": "message-card-hrk-05-onep-00",
+        "telephoneId": ""
+      },
+      {
+        "telephoneId": "tel-card-hrk-05-onep-00",
+        "messageId": ""
+      }
+    ],
+    "activityAbilityId": "",
+    "displayPositionY1": 0.0,
+    "displayPositionY2": 0.0,
+    "homeTalks": []
+  },
+  {
     "id": "card-hrk-05-xmas-00",
     "assetId": "hrk-05-xmas-00",
     "name": "二人きり、冬夜の打ち上げ",
