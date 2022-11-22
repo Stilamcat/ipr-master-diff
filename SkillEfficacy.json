@@ -2040,6 +2040,16 @@
     "shortDescription": ""
   },
   {
+    "id": "ef-audience_amount_increase-7-target-center-49",
+    "name": "センターに集目効果",
+    "type": 21,
+    "description": "センターに7段階の集目効果[49ビート]",
+    "grade": 7,
+    "maxGrade": 10,
+    "skillTargetId": "target-center",
+    "shortDescription": ""
+  },
+  {
     "id": "ef-audience_amount_increase-7-target-self-26",
     "name": "自身に集目",
     "type": 21,
@@ -2190,6 +2200,16 @@
     "shortDescription": ""
   },
   {
+    "id": "ef-audience_amount_increase-8-target-center-49",
+    "name": "センターに集目効果",
+    "type": 21,
+    "description": "センターに8段階の集目効果[49ビート]",
+    "grade": 8,
+    "maxGrade": 10,
+    "skillTargetId": "target-center",
+    "shortDescription": ""
+  },
+  {
     "id": "ef-audience_amount_increase-8-target-self-20",
     "name": "自身に集目効果",
     "type": 21,
@@ -2274,6 +2294,16 @@
     "name": "センターに集目効果",
     "type": 21,
     "description": "センターに9段階の集目効果[45ビート]",
+    "grade": 9,
+    "maxGrade": 10,
+    "skillTargetId": "target-center",
+    "shortDescription": ""
+  },
+  {
+    "id": "ef-audience_amount_increase-9-target-center-49",
+    "name": "センターに集目効果",
+    "type": 21,
+    "description": "センターに9段階の集目効果[49ビート]",
     "grade": 9,
     "maxGrade": 10,
     "skillTargetId": "target-center",
@@ -29440,6 +29470,16 @@
     "maxGrade": 0
   },
   {
+    "id": "ef-strength_effect_count_increase-3-target-trigger",
+    "name": "対象の強化効果延長",
+    "type": 25,
+    "description": "対象1人の強化効果を3延長",
+    "skillTargetId": "target-trigger",
+    "shortDescription": "",
+    "grade": 0,
+    "maxGrade": 0
+  },
+  {
     "id": "ef-strength_effect_count_increase-3-target-visual-3",
     "name": "ビジュアルタイプ3人の強化効果延長",
     "type": 25,
@@ -29485,6 +29525,16 @@
     "type": 25,
     "description": "隣接するアイドルの強化効果を4延長",
     "skillTargetId": "target-neighbor",
+    "shortDescription": "",
+    "grade": 0,
+    "maxGrade": 0
+  },
+  {
+    "id": "ef-strength_effect_count_increase-4-target-trigger",
+    "name": "対象の強化効果延長",
+    "type": 25,
+    "description": "対象1人の強化効果を4延長",
+    "skillTargetId": "target-trigger",
     "shortDescription": "",
     "grade": 0,
     "maxGrade": 0
@@ -29560,6 +29610,16 @@
     "maxGrade": 0
   },
   {
+    "id": "ef-strength_effect_count_increase-5-target-trigger",
+    "name": "対象の強化効果延長",
+    "type": 25,
+    "description": "対象1人の強化効果を5延長",
+    "skillTargetId": "target-trigger",
+    "shortDescription": "",
+    "grade": 0,
+    "maxGrade": 0
+  },
+  {
     "id": "ef-strength_effect_count_increase-5-target-visual-3",
     "name": "ビジュアルタイプ3人の強化効果延長",
     "type": 25,
@@ -29615,6 +29675,16 @@
     "type": 25,
     "description": "自身の強化効果を6延長",
     "skillTargetId": "target-self",
+    "shortDescription": "",
+    "grade": 0,
+    "maxGrade": 0
+  },
+  {
+    "id": "ef-strength_effect_count_increase-6-target-trigger",
+    "name": "対象の強化効果延長",
+    "type": 25,
+    "description": "対象1人の強化効果を6延長",
+    "skillTargetId": "target-trigger",
     "shortDescription": "",
     "grade": 0,
     "maxGrade": 0
@@ -34350,6 +34420,66 @@
     "shortDescription": ""
   },
   {
+    "id": "ef-vocal_boost-4-target-vocal-2-20",
+    "name": "ボーカルタイプ2人にボーカルブースト",
+    "type": 56,
+    "description": "ボーカルタイプ2人に4段階ボーカルブースト効果[20ビート]",
+    "grade": 4,
+    "maxGrade": 20,
+    "skillTargetId": "target-vocal-2",
+    "shortDescription": ""
+  },
+  {
+    "id": "ef-vocal_boost-4-target-vocal-2-23",
+    "name": "ボーカルタイプ2人にボーカルブースト",
+    "type": 56,
+    "description": "ボーカルタイプ2人に4段階ボーカルブースト効果[23ビート]",
+    "grade": 4,
+    "maxGrade": 20,
+    "skillTargetId": "target-vocal-2",
+    "shortDescription": ""
+  },
+  {
+    "id": "ef-vocal_boost-5-target-vocal-2-23",
+    "name": "ボーカルタイプ2人にボーカルブースト",
+    "type": 56,
+    "description": "ボーカルタイプ2人に5段階ボーカルブースト効果[23ビート]",
+    "grade": 5,
+    "maxGrade": 20,
+    "skillTargetId": "target-vocal-2",
+    "shortDescription": ""
+  },
+  {
+    "id": "ef-vocal_boost-5-target-vocal-2-27",
+    "name": "ボーカルタイプ2人にボーカルブースト",
+    "type": 56,
+    "description": "ボーカルタイプ2人に5段階ボーカルブースト効果[27ビート]",
+    "grade": 5,
+    "maxGrade": 20,
+    "skillTargetId": "target-vocal-2",
+    "shortDescription": ""
+  },
+  {
+    "id": "ef-vocal_boost-6-target-vocal-2-27",
+    "name": "ボーカルタイプ2人にボーカルブースト",
+    "type": 56,
+    "description": "ボーカルタイプ2人に6段階ボーカルブースト効果[27ビート]",
+    "grade": 6,
+    "maxGrade": 20,
+    "skillTargetId": "target-vocal-2",
+    "shortDescription": ""
+  },
+  {
+    "id": "ef-vocal_boost-6-target-vocal-2-31",
+    "name": "ボーカルタイプ2人にボーカルブースト",
+    "type": 56,
+    "description": "ボーカルタイプ2人に6段階ボーカルブースト効果[31ビート]",
+    "grade": 6,
+    "maxGrade": 20,
+    "skillTargetId": "target-vocal-2",
+    "shortDescription": ""
+  },
+  {
     "id": "ef-vocal_down-10-target-opponent_same_position-53",
     "name": "同じレーンの相手にボーカルダウン",
     "type": 31,
@@ -36950,6 +37080,26 @@
     "shortDescription": ""
   },
   {
+    "id": "ef-vocal_up-7-target-center-48",
+    "name": "センターにボーカルアップ",
+    "type": 14,
+    "description": "センターに7段階ボーカル上昇効果[48ビート]",
+    "grade": 7,
+    "maxGrade": 20,
+    "skillTargetId": "target-center",
+    "shortDescription": ""
+  },
+  {
+    "id": "ef-vocal_up-7-target-center-59",
+    "name": "センターにボーカルアップ",
+    "type": 14,
+    "description": "センターに7段階ボーカル上昇効果[59ビート]",
+    "grade": 7,
+    "maxGrade": 20,
+    "skillTargetId": "target-center",
+    "shortDescription": ""
+  },
+  {
     "id": "ef-vocal_up-7-target-character_type-1-2-23",
     "name": "スコアラータイプ2人にボーカルアップ",
     "type": 14,
@@ -37380,6 +37530,26 @@
     "shortDescription": ""
   },
   {
+    "id": "ef-vocal_up-8-target-center-59",
+    "name": "センターにボーカルアップ",
+    "type": 14,
+    "description": "センターに8段階ボーカル上昇効果[59ビート]",
+    "grade": 8,
+    "maxGrade": 20,
+    "skillTargetId": "target-center",
+    "shortDescription": ""
+  },
+  {
+    "id": "ef-vocal_up-8-target-center-67",
+    "name": "センターにボーカルアップ",
+    "type": 14,
+    "description": "センターに8段階ボーカル上昇効果[67ビート]",
+    "grade": 8,
+    "maxGrade": 20,
+    "skillTargetId": "target-center",
+    "shortDescription": ""
+  },
+  {
     "id": "ef-vocal_up-8-target-character_type-1-2-27",
     "name": "スコアラータイプ2人にボーカルアップ",
     "type": 14,
@@ -37634,6 +37804,26 @@
     "name": "センターにボーカルアップ",
     "type": 14,
     "description": "センターに9段階ボーカル上昇効果[37ビート]",
+    "grade": 9,
+    "maxGrade": 20,
+    "skillTargetId": "target-center",
+    "shortDescription": ""
+  },
+  {
+    "id": "ef-vocal_up-9-target-center-67",
+    "name": "センターにボーカルアップ",
+    "type": 14,
+    "description": "センターに9段階ボーカル上昇効果[67ビート]",
+    "grade": 9,
+    "maxGrade": 20,
+    "skillTargetId": "target-center",
+    "shortDescription": ""
+  },
+  {
+    "id": "ef-vocal_up-9-target-center-75",
+    "name": "センターにボーカルアップ",
+    "type": 14,
+    "description": "センターに9段階ボーカル上昇効果[75ビート]",
     "grade": 9,
     "maxGrade": 20,
     "skillTargetId": "target-center",

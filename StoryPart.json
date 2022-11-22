@@ -910,6 +910,68 @@
     "noteText": ""
   },
   {
+    "id": "st-part-group-06",
+    "assetId": "group-06",
+    "name": "サニーピース",
+    "order": 6,
+    "type": 2,
+    "pointType": 4,
+    "storyEpisodeConsumptionId": "story-consumption-group-06",
+    "chapters": [
+      {
+        "chapter": 1,
+        "route": 1,
+        "name": "Chisa's Memories",
+        "episodes": [
+          {
+            "episode": 1,
+            "assetId": "group_sun_01_01",
+            "storyId": "st-group-sun-01-01-01",
+            "viewConditionId": "cd-st-sun-22-1124",
+            "unlockConditionId": "",
+            "isReleased": false
+          },
+          {
+            "episode": 2,
+            "assetId": "group_sun_01_02",
+            "storyId": "st-group-sun-01-01-02",
+            "viewConditionId": "cd-st-group-sun-01-01-01",
+            "unlockConditionId": "",
+            "isReleased": false
+          },
+          {
+            "episode": 3,
+            "assetId": "group_sun_01_03",
+            "storyId": "st-group-sun-01-01-03",
+            "viewConditionId": "cd-st-group-sun-01-01-02",
+            "unlockConditionId": "",
+            "isReleased": false
+          },
+          {
+            "episode": 4,
+            "assetId": "group_sun_01_04",
+            "storyId": "st-group-sun-01-01-04",
+            "viewConditionId": "cd-st-group-sun-01-01-03",
+            "unlockConditionId": "",
+            "isReleased": false
+          },
+          {
+            "episode": 5,
+            "assetId": "group_sun_01_05",
+            "storyId": "st-group-sun-01-01-05",
+            "viewConditionId": "cd-st-group-sun-01-01-04",
+            "unlockConditionId": "",
+            "isReleased": false
+          }
+        ]
+      }
+    ],
+    "subTitle": "",
+    "viewConditionId": "",
+    "unlockConditionId": "",
+    "noteText": ""
+  },
+  {
     "id": "st-part-main-01",
     "assetId": "main-01",
     "name": "東京編",

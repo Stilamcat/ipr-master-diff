@@ -2984,6 +2984,14 @@
     "description": "イベント期間(交換期間含む)"
   },
   {
+    "id": "cd-date-event-race-22-1128",
+    "description": "イベント期間(交換期間含まず)"
+  },
+  {
+    "id": "cd-date-event-race-22-1128-exchange",
+    "description": "イベント期間(交換期間含む)"
+  },
+  {
     "id": "cd-date-marathon-21-0930",
     "description": "イベント期間"
   },
@@ -3976,6 +3984,10 @@
     "description": "開始3日"
   },
   {
+    "id": "cd-event-22-1128-banner",
+    "description": "開始3日"
+  },
+  {
     "id": "cd-event-banner-marathon-raid-1028-1106",
     "description": "イベントバナー"
   },
@@ -4072,6 +4084,18 @@
     "description": "イベント期間(交換期間含む)&参加可能"
   },
   {
+    "id": "cd-event-race-22-1128",
+    "description": "イベント期間(交換期間含まず)&参加可能"
+  },
+  {
+    "id": "cd-event-race-22-1128-close",
+    "description": "マスの進行"
+  },
+  {
+    "id": "cd-event-race-22-1128-exchange",
+    "description": "イベント期間(交換期間含む)&参加可能"
+  },
+  {
     "id": "cd-event-story-0131",
     "description": "イベントストーリー"
   },
@@ -4126,6 +4150,10 @@
   {
     "id": "cd-event-story-22-1028",
     "description": "イベントストーリー"
+  },
+  {
+    "id": "cd-event-story-22-1128",
+    "description": "イベントストーリー視聴可能"
   },
   {
     "id": "cd-event-story-220731",
@@ -4326,6 +4354,10 @@
   {
     "id": "cd-exchange-photo-medal-22-0624",
     "description": "プレミアムフォトメダル交換所開催期間"
+  },
+  {
+    "id": "cd-exchange-photo-medal-22-1124",
+    "description": "プレミアムフォト22年11月雫交換期間"
   },
   {
     "id": "cd-exchange-photo-medal-item-22-0724",
@@ -12964,6 +12996,430 @@
     "description": "Lv54クリア"
   },
   {
+    "id": "cd-race-qt-22-1128-medal-003",
+    "description": "MLv35またはLv2クリア"
+  },
+  {
+    "id": "cd-race-qt-22-1128-medal-004",
+    "description": "MLv35またはLv3クリア"
+  },
+  {
+    "id": "cd-race-qt-22-1128-medal-005",
+    "description": "MLv35またはLv4クリア"
+  },
+  {
+    "id": "cd-race-qt-22-1128-medal-006",
+    "description": "MLv35またはLv5クリア"
+  },
+  {
+    "id": "cd-race-qt-22-1128-medal-007",
+    "description": "MLv35またはLv6クリア"
+  },
+  {
+    "id": "cd-race-qt-22-1128-medal-008",
+    "description": "MLv35またはLv7クリア"
+  },
+  {
+    "id": "cd-race-qt-22-1128-medal-009",
+    "description": "MLv35またはLv8クリア"
+  },
+  {
+    "id": "cd-race-qt-22-1128-medal-010",
+    "description": "MLv100またはLv9クリア"
+  },
+  {
+    "id": "cd-race-qt-22-1128-medal-011",
+    "description": "MLv100またはLv10クリア"
+  },
+  {
+    "id": "cd-race-qt-22-1128-medal-012",
+    "description": "MLv100またはLv11クリア"
+  },
+  {
+    "id": "cd-race-qt-22-1128-medal-013",
+    "description": "MLv100またはLv12クリア"
+  },
+  {
+    "id": "cd-race-qt-22-1128-medal-014",
+    "description": "MLv100またはLv13クリア"
+  },
+  {
+    "id": "cd-race-qt-22-1128-medal-015",
+    "description": "MLv125またはLv14クリア"
+  },
+  {
+    "id": "cd-race-qt-22-1128-medal-016",
+    "description": "MLv125またはLv15クリア"
+  },
+  {
+    "id": "cd-race-qt-22-1128-medal-017",
+    "description": "MLv125またはLv16クリア"
+  },
+  {
+    "id": "cd-race-qt-22-1128-medal-018",
+    "description": "MLv125またはLv17クリア"
+  },
+  {
+    "id": "cd-race-qt-22-1128-medal-019",
+    "description": "MLv125またはLv18クリア"
+  },
+  {
+    "id": "cd-race-qt-22-1128-medal-020",
+    "description": "MLv155またはLv19クリア"
+  },
+  {
+    "id": "cd-race-qt-22-1128-medal-021",
+    "description": "MLv155またはLv20クリア"
+  },
+  {
+    "id": "cd-race-qt-22-1128-medal-022",
+    "description": "MLv155またはLv21クリア"
+  },
+  {
+    "id": "cd-race-qt-22-1128-medal-023",
+    "description": "MLv155またはLv22クリア"
+  },
+  {
+    "id": "cd-race-qt-22-1128-medal-024",
+    "description": "MLv155またはLv23クリア"
+  },
+  {
+    "id": "cd-race-qt-22-1128-medal-025",
+    "description": "MLv180またはLv24クリア"
+  },
+  {
+    "id": "cd-race-qt-22-1128-medal-026",
+    "description": "MLv180またはLv25クリア"
+  },
+  {
+    "id": "cd-race-qt-22-1128-medal-027",
+    "description": "MLv180またはLv26クリア"
+  },
+  {
+    "id": "cd-race-qt-22-1128-medal-028",
+    "description": "MLv180またはLv27クリア"
+  },
+  {
+    "id": "cd-race-qt-22-1128-medal-029",
+    "description": "MLv180またはLv28クリア"
+  },
+  {
+    "id": "cd-race-qt-22-1128-medal-030",
+    "description": "Lv29クリア"
+  },
+  {
+    "id": "cd-race-qt-22-1128-medal-031",
+    "description": "Lv30クリア"
+  },
+  {
+    "id": "cd-race-qt-22-1128-medal-032",
+    "description": "Lv31クリア"
+  },
+  {
+    "id": "cd-race-qt-22-1128-medal-033",
+    "description": "Lv32クリア"
+  },
+  {
+    "id": "cd-race-qt-22-1128-medal-034",
+    "description": "Lv33クリア"
+  },
+  {
+    "id": "cd-race-qt-22-1128-medal-035",
+    "description": "Lv34クリア"
+  },
+  {
+    "id": "cd-race-qt-22-1128-medal-036",
+    "description": "Lv35クリア"
+  },
+  {
+    "id": "cd-race-qt-22-1128-medal-037",
+    "description": "Lv36クリア"
+  },
+  {
+    "id": "cd-race-qt-22-1128-medal-038",
+    "description": "Lv37クリア"
+  },
+  {
+    "id": "cd-race-qt-22-1128-medal-039",
+    "description": "Lv38クリア"
+  },
+  {
+    "id": "cd-race-qt-22-1128-medal-040",
+    "description": "Lv39クリア"
+  },
+  {
+    "id": "cd-race-qt-22-1128-medal-041",
+    "description": "Lv40クリア"
+  },
+  {
+    "id": "cd-race-qt-22-1128-medal-042",
+    "description": "Lv41クリア"
+  },
+  {
+    "id": "cd-race-qt-22-1128-medal-043",
+    "description": "Lv42クリア"
+  },
+  {
+    "id": "cd-race-qt-22-1128-medal-044",
+    "description": "Lv43クリア"
+  },
+  {
+    "id": "cd-race-qt-22-1128-medal-045",
+    "description": "Lv44クリア"
+  },
+  {
+    "id": "cd-race-qt-22-1128-medal-046",
+    "description": "Lv45クリア"
+  },
+  {
+    "id": "cd-race-qt-22-1128-medal-047",
+    "description": "Lv46クリア"
+  },
+  {
+    "id": "cd-race-qt-22-1128-medal-048",
+    "description": "Lv47クリア"
+  },
+  {
+    "id": "cd-race-qt-22-1128-medal-049",
+    "description": "Lv48クリア"
+  },
+  {
+    "id": "cd-race-qt-22-1128-medal-050",
+    "description": "Lv49クリア"
+  },
+  {
+    "id": "cd-race-qt-22-1128-medal-051",
+    "description": "Lv50クリア"
+  },
+  {
+    "id": "cd-race-qt-22-1128-medal-052",
+    "description": "Lv51クリア"
+  },
+  {
+    "id": "cd-race-qt-22-1128-medal-053",
+    "description": "Lv52クリア"
+  },
+  {
+    "id": "cd-race-qt-22-1128-medal-054",
+    "description": "Lv53クリア"
+  },
+  {
+    "id": "cd-race-qt-22-1128-medal-055",
+    "description": "Lv54クリア"
+  },
+  {
+    "id": "cd-race-qt-22-1128-pt-003",
+    "description": "MLv35またはLv2クリア"
+  },
+  {
+    "id": "cd-race-qt-22-1128-pt-004",
+    "description": "MLv35またはLv3クリア"
+  },
+  {
+    "id": "cd-race-qt-22-1128-pt-005",
+    "description": "MLv35またはLv4クリア"
+  },
+  {
+    "id": "cd-race-qt-22-1128-pt-006",
+    "description": "MLv35またはLv5クリア"
+  },
+  {
+    "id": "cd-race-qt-22-1128-pt-007",
+    "description": "MLv35またはLv6クリア"
+  },
+  {
+    "id": "cd-race-qt-22-1128-pt-008",
+    "description": "MLv35またはLv7クリア"
+  },
+  {
+    "id": "cd-race-qt-22-1128-pt-009",
+    "description": "MLv35またはLv8クリア"
+  },
+  {
+    "id": "cd-race-qt-22-1128-pt-010",
+    "description": "MLv100またはLv9クリア"
+  },
+  {
+    "id": "cd-race-qt-22-1128-pt-011",
+    "description": "MLv100またはLv10クリア"
+  },
+  {
+    "id": "cd-race-qt-22-1128-pt-012",
+    "description": "MLv100またはLv11クリア"
+  },
+  {
+    "id": "cd-race-qt-22-1128-pt-013",
+    "description": "MLv100またはLv12クリア"
+  },
+  {
+    "id": "cd-race-qt-22-1128-pt-014",
+    "description": "MLv100またはLv13クリア"
+  },
+  {
+    "id": "cd-race-qt-22-1128-pt-015",
+    "description": "MLv125またはLv14クリア"
+  },
+  {
+    "id": "cd-race-qt-22-1128-pt-016",
+    "description": "MLv125またはLv15クリア"
+  },
+  {
+    "id": "cd-race-qt-22-1128-pt-017",
+    "description": "MLv125またはLv16クリア"
+  },
+  {
+    "id": "cd-race-qt-22-1128-pt-018",
+    "description": "MLv125またはLv17クリア"
+  },
+  {
+    "id": "cd-race-qt-22-1128-pt-019",
+    "description": "MLv125またはLv18クリア"
+  },
+  {
+    "id": "cd-race-qt-22-1128-pt-020",
+    "description": "MLv155またはLv19クリア"
+  },
+  {
+    "id": "cd-race-qt-22-1128-pt-021",
+    "description": "MLv155またはLv20クリア"
+  },
+  {
+    "id": "cd-race-qt-22-1128-pt-022",
+    "description": "MLv155またはLv21クリア"
+  },
+  {
+    "id": "cd-race-qt-22-1128-pt-023",
+    "description": "MLv155またはLv22クリア"
+  },
+  {
+    "id": "cd-race-qt-22-1128-pt-024",
+    "description": "MLv155またはLv23クリア"
+  },
+  {
+    "id": "cd-race-qt-22-1128-pt-025",
+    "description": "MLv180またはLv24クリア"
+  },
+  {
+    "id": "cd-race-qt-22-1128-pt-026",
+    "description": "MLv180またはLv25クリア"
+  },
+  {
+    "id": "cd-race-qt-22-1128-pt-027",
+    "description": "MLv180またはLv26クリア"
+  },
+  {
+    "id": "cd-race-qt-22-1128-pt-028",
+    "description": "MLv180またはLv27クリア"
+  },
+  {
+    "id": "cd-race-qt-22-1128-pt-029",
+    "description": "MLv180またはLv28クリア"
+  },
+  {
+    "id": "cd-race-qt-22-1128-pt-030",
+    "description": "Lv29クリア"
+  },
+  {
+    "id": "cd-race-qt-22-1128-pt-031",
+    "description": "Lv30クリア"
+  },
+  {
+    "id": "cd-race-qt-22-1128-pt-032",
+    "description": "Lv31クリア"
+  },
+  {
+    "id": "cd-race-qt-22-1128-pt-033",
+    "description": "Lv32クリア"
+  },
+  {
+    "id": "cd-race-qt-22-1128-pt-034",
+    "description": "Lv33クリア"
+  },
+  {
+    "id": "cd-race-qt-22-1128-pt-035",
+    "description": "Lv34クリア"
+  },
+  {
+    "id": "cd-race-qt-22-1128-pt-036",
+    "description": "Lv35クリア"
+  },
+  {
+    "id": "cd-race-qt-22-1128-pt-037",
+    "description": "Lv36クリア"
+  },
+  {
+    "id": "cd-race-qt-22-1128-pt-038",
+    "description": "Lv37クリア"
+  },
+  {
+    "id": "cd-race-qt-22-1128-pt-039",
+    "description": "Lv38クリア"
+  },
+  {
+    "id": "cd-race-qt-22-1128-pt-040",
+    "description": "Lv39クリア"
+  },
+  {
+    "id": "cd-race-qt-22-1128-pt-041",
+    "description": "Lv40クリア"
+  },
+  {
+    "id": "cd-race-qt-22-1128-pt-042",
+    "description": "Lv41クリア"
+  },
+  {
+    "id": "cd-race-qt-22-1128-pt-043",
+    "description": "Lv42クリア"
+  },
+  {
+    "id": "cd-race-qt-22-1128-pt-044",
+    "description": "Lv43クリア"
+  },
+  {
+    "id": "cd-race-qt-22-1128-pt-045",
+    "description": "Lv44クリア"
+  },
+  {
+    "id": "cd-race-qt-22-1128-pt-046",
+    "description": "Lv45クリア"
+  },
+  {
+    "id": "cd-race-qt-22-1128-pt-047",
+    "description": "Lv46クリア"
+  },
+  {
+    "id": "cd-race-qt-22-1128-pt-048",
+    "description": "Lv47クリア"
+  },
+  {
+    "id": "cd-race-qt-22-1128-pt-049",
+    "description": "Lv48クリア"
+  },
+  {
+    "id": "cd-race-qt-22-1128-pt-050",
+    "description": "Lv49クリア"
+  },
+  {
+    "id": "cd-race-qt-22-1128-pt-051",
+    "description": "Lv50クリア"
+  },
+  {
+    "id": "cd-race-qt-22-1128-pt-052",
+    "description": "Lv51クリア"
+  },
+  {
+    "id": "cd-race-qt-22-1128-pt-053",
+    "description": "Lv52クリア"
+  },
+  {
+    "id": "cd-race-qt-22-1128-pt-054",
+    "description": "Lv53クリア"
+  },
+  {
+    "id": "cd-race-qt-22-1128-pt-055",
+    "description": "Lv54クリア"
+  },
+  {
     "id": "cd-refresh_total_count_gte-50",
     "description": "リフレッシュを50回行う"
   },
@@ -16484,6 +16940,26 @@
     "description": "月スト1章5話クリア"
   },
   {
+    "id": "cd-st-group-sun-01-01-01",
+    "description": "サニーピース1章1話クリア"
+  },
+  {
+    "id": "cd-st-group-sun-01-01-02",
+    "description": "サニーピース1章2話クリア"
+  },
+  {
+    "id": "cd-st-group-sun-01-01-03",
+    "description": "サニーピース1章3話クリア"
+  },
+  {
+    "id": "cd-st-group-sun-01-01-04",
+    "description": "サニーピース1章4話クリア"
+  },
+  {
+    "id": "cd-st-group-sun-01-01-05",
+    "description": "サニーピース1章5話クリア"
+  },
+  {
     "id": "cd-st-group-thrx-01-01-01",
     "description": "ⅢX1章1話クリア"
   },
@@ -17302,6 +17778,10 @@
   {
     "id": "cd-st-read-st-card-yu-05-xmas-00-03",
     "description": "#3視聴\nで解放"
+  },
+  {
+    "id": "cd-st-sun-22-1124",
+    "description": "22/11/24以降"
   },
   {
     "id": "cd-st-thrx-22-0610",
@@ -19060,6 +19540,18 @@
     "description": "期間：プレミアムガチャ_sバナーエンド"
   },
   {
+    "id": "cd-time-gacha-premium-22-1124",
+    "description": "期間：プレミアムガチャ"
+  },
+  {
+    "id": "cd-time-gacha-premium-22-1124-banner",
+    "description": "期間：プレミアムガチャ_sバナースタート"
+  },
+  {
+    "id": "cd-time-gacha-premium-22-1124-banner-end",
+    "description": "期間：プレミアムガチャ_sバナーエンド"
+  },
+  {
     "id": "cd-time-gacha-rev-limited-21-1225",
     "description": "期間：【復刻】琉球の楽園"
   },
@@ -19206,6 +19698,18 @@
   {
     "id": "cd-time-gacha-select-01-22-1116",
     "description": "期間：選べる★5ボーカルガチャ"
+  },
+  {
+    "id": "cd-time-gacha-select-01-22-1125",
+    "description": "cd-time-gacha-select-01-22-1125"
+  },
+  {
+    "id": "cd-time-gacha-select-01-22-1125-banner",
+    "description": "バナー期間：1人★5確定ロックオンガチャ11月"
+  },
+  {
+    "id": "cd-time-gacha-select-01-22-1125-banner-end",
+    "description": "バナー期間終了条件：1人★5確定ロックオンガチャ11月"
   },
   {
     "id": "cd-time-gift-21-0624-0627",

@@ -19434,6 +19434,184 @@
     "statusEffectType": 0
   },
   {
+    "id": "pab-passive-skill_sk-phot-exchange-5-03",
+    "name": "強化効果延長スキル",
+    "description": "誰かが集目効果時、対象者1人の強化効果延長",
+    "abilityType": 13,
+    "skillId": "sk-phot-exchange-5-3",
+    "photoAbilityLevels": [
+      {
+        "level": 10,
+        "value": 1
+      },
+      {
+        "level": 15,
+        "value": 1
+      },
+      {
+        "level": 20,
+        "value": 1
+      },
+      {
+        "level": 25,
+        "value": 1
+      },
+      {
+        "level": 30,
+        "value": 1
+      },
+      {
+        "level": 35,
+        "value": 1
+      },
+      {
+        "level": 40,
+        "value": 1
+      },
+      {
+        "level": 45,
+        "value": 1
+      },
+      {
+        "level": 50,
+        "value": 1
+      },
+      {
+        "level": 55,
+        "value": 1
+      },
+      {
+        "level": 60,
+        "value": 1
+      },
+      {
+        "level": 65,
+        "value": 1
+      },
+      {
+        "level": 70,
+        "value": 1
+      },
+      {
+        "level": 75,
+        "value": 1
+      },
+      {
+        "level": 80,
+        "value": 1
+      },
+      {
+        "level": 85,
+        "value": 1
+      },
+      {
+        "level": 90,
+        "value": 1
+      },
+      {
+        "level": 95,
+        "value": 1
+      },
+      {
+        "level": 100,
+        "value": 1
+      },
+      {
+        "level": 105,
+        "value": 1
+      },
+      {
+        "level": 110,
+        "value": 2
+      },
+      {
+        "level": 115,
+        "value": 2
+      },
+      {
+        "level": 120,
+        "value": 2
+      },
+      {
+        "level": 125,
+        "value": 2
+      },
+      {
+        "level": 130,
+        "value": 2
+      },
+      {
+        "level": 135,
+        "value": 3
+      },
+      {
+        "level": 140,
+        "value": 3
+      },
+      {
+        "level": 145,
+        "value": 3
+      },
+      {
+        "level": 150,
+        "value": 3
+      },
+      {
+        "level": 155,
+        "value": 4
+      },
+      {
+        "level": 160,
+        "value": 4
+      },
+      {
+        "level": 165,
+        "value": 4
+      },
+      {
+        "level": 170,
+        "value": 4
+      },
+      {
+        "level": 175,
+        "value": 4
+      },
+      {
+        "level": 180,
+        "value": 4
+      },
+      {
+        "level": 185,
+        "value": 4
+      },
+      {
+        "level": 190,
+        "value": 4
+      },
+      {
+        "level": 195,
+        "value": 4
+      },
+      {
+        "level": 200,
+        "value": 4
+      }
+    ],
+    "photoAbilityGrades": [
+      {
+        "grade": 1,
+        "bonusPermil": 1000,
+        "type": 3,
+        "bonusValue": 0
+      }
+    ],
+    "moodType": 0,
+    "abilityTargetId": "",
+    "conditionCardType": 0,
+    "conditionLiveType": 0,
+    "statusEffectType": 0
+  },
+  {
     "id": "pab-passive-skill_sk-phot-exchange-pvp-5-01",
     "name": "スコア獲得スキル",
     "description": "スコア獲得",

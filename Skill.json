@@ -50092,6 +50092,128 @@
     "assetId": ""
   },
   {
+    "id": "sk-phot-exchange-5-3",
+    "name": "強化効果延長スキル",
+    "categoryType": 3,
+    "levels": [
+      {
+        "level": 1,
+        "description": "誰かが集目状態の時\n対象1人の強化効果を3延長\nスタミナ190消費 CT:60",
+        "shortDescription": "\n\nスタミナ190消費 CT:60",
+        "stamina": 190,
+        "triggerId": "tg-someone_status-audience_amount_increase",
+        "probabilityPermil": 1000,
+        "coolTime": 60,
+        "skillDetails": [
+          {
+            "efficacyId": "ef-strength_effect_count_increase-3-target-trigger",
+            "triggerId": ""
+          }
+        ],
+        "requiredItemAmount": 0,
+        "requiredCardLevel": 0,
+        "limitCount": 0,
+        "staminaPermil": 0
+      },
+      {
+        "level": 2,
+        "description": "誰かが集目状態の時\n対象1人の強化効果を4延長\nスタミナ315消費 CT:60",
+        "shortDescription": "\n\nスタミナ315消費 CT:60",
+        "requiredItemAmount": 1,
+        "requiredCardLevel": 10,
+        "stamina": 315,
+        "triggerId": "tg-someone_status-audience_amount_increase",
+        "probabilityPermil": 1000,
+        "coolTime": 60,
+        "skillDetails": [
+          {
+            "efficacyId": "ef-strength_effect_count_increase-4-target-trigger",
+            "triggerId": ""
+          }
+        ],
+        "limitCount": 0,
+        "staminaPermil": 0
+      },
+      {
+        "level": 3,
+        "description": "誰かが集目状態の時\n対象1人の強化効果を4延長\nスタミナ378消費 CT:55",
+        "shortDescription": "\n\nスタミナ378消費 CT:55",
+        "requiredItemAmount": 1,
+        "requiredCardLevel": 20,
+        "stamina": 378,
+        "triggerId": "tg-someone_status-audience_amount_increase",
+        "probabilityPermil": 1000,
+        "coolTime": 55,
+        "skillDetails": [
+          {
+            "efficacyId": "ef-strength_effect_count_increase-4-target-trigger",
+            "triggerId": ""
+          }
+        ],
+        "limitCount": 0,
+        "staminaPermil": 0
+      },
+      {
+        "level": 4,
+        "description": "誰かが集目状態の時\n対象1人の強化効果を5延長\nスタミナ553消費 CT:55",
+        "shortDescription": "\n\nスタミナ553消費 CT:55",
+        "requiredItemAmount": 1,
+        "requiredCardLevel": 30,
+        "stamina": 553,
+        "triggerId": "tg-someone_status-audience_amount_increase",
+        "probabilityPermil": 1000,
+        "coolTime": 55,
+        "skillDetails": [
+          {
+            "efficacyId": "ef-strength_effect_count_increase-5-target-trigger",
+            "triggerId": ""
+          }
+        ],
+        "limitCount": 0,
+        "staminaPermil": 0
+      },
+      {
+        "level": 5,
+        "description": "誰かが集目状態の時\n対象1人の強化効果を5延長\nスタミナ633消費 CT:50",
+        "shortDescription": "\n\nスタミナ633消費 CT:50",
+        "requiredItemAmount": 1,
+        "requiredCardLevel": 40,
+        "stamina": 633,
+        "triggerId": "tg-someone_status-audience_amount_increase",
+        "probabilityPermil": 1000,
+        "coolTime": 50,
+        "skillDetails": [
+          {
+            "efficacyId": "ef-strength_effect_count_increase-5-target-trigger",
+            "triggerId": ""
+          }
+        ],
+        "limitCount": 0,
+        "staminaPermil": 0
+      },
+      {
+        "level": 6,
+        "description": "誰かが集目状態の時\n対象1人の強化効果を6延長\nスタミナ850消費 CT:50",
+        "shortDescription": "\n\nスタミナ850消費 CT:50",
+        "requiredItemAmount": 1,
+        "requiredCardLevel": 50,
+        "stamina": 850,
+        "triggerId": "tg-someone_status-audience_amount_increase",
+        "probabilityPermil": 1000,
+        "coolTime": 50,
+        "skillDetails": [
+          {
+            "efficacyId": "ef-strength_effect_count_increase-6-target-trigger",
+            "triggerId": ""
+          }
+        ],
+        "limitCount": 0,
+        "staminaPermil": 0
+      }
+    ],
+    "assetId": ""
+  },
+  {
     "id": "sk-phot-exchange-pvp-5-01",
     "name": "スコア獲得スキル",
     "categoryType": 3,
@@ -86994,6 +87116,420 @@
           }
         ],
         "limitCount": 0,
+        "staminaPermil": 0
+      }
+    ],
+    "assetId": ""
+  },
+  {
+    "id": "sk-szk-05-prem-00-1",
+    "name": "サニーリリック",
+    "categoryType": 2,
+    "levels": [
+      {
+        "level": 1,
+        "description": "360%のスコア獲得\nボーカルタイプ2人に4段階ボーカルブースト効果[20ビート]\nスタミナ112消費 CT:30",
+        "shortDescription": "\n\nスタミナ112消費 CT:30",
+        "stamina": 112,
+        "probabilityPermil": 1000,
+        "coolTime": 30,
+        "skillDetails": [
+          {
+            "efficacyId": "ef-score_get-3600-chart_dependence",
+            "triggerId": ""
+          },
+          {
+            "efficacyId": "ef-vocal_boost-4-target-vocal-2-20",
+            "triggerId": ""
+          }
+        ],
+        "requiredItemAmount": 0,
+        "requiredCardLevel": 0,
+        "triggerId": "",
+        "limitCount": 0,
+        "staminaPermil": 0
+      },
+      {
+        "level": 2,
+        "description": "380%のスコア獲得\nボーカルタイプ2人に4段階ボーカルブースト効果[23ビート]\nスタミナ119消費 CT:30",
+        "shortDescription": "\n\nスタミナ119消費 CT:30",
+        "requiredItemAmount": 500,
+        "requiredCardLevel": 40,
+        "stamina": 119,
+        "probabilityPermil": 1000,
+        "coolTime": 30,
+        "skillDetails": [
+          {
+            "efficacyId": "ef-score_get-3800-chart_dependence",
+            "triggerId": ""
+          },
+          {
+            "efficacyId": "ef-vocal_boost-4-target-vocal-2-23",
+            "triggerId": ""
+          }
+        ],
+        "triggerId": "",
+        "limitCount": 0,
+        "staminaPermil": 0
+      },
+      {
+        "level": 3,
+        "description": "400%のスコア獲得\nボーカルタイプ2人に5段階ボーカルブースト効果[23ビート]\nスタミナ128消費 CT:30",
+        "shortDescription": "\n\nスタミナ128消費 CT:30",
+        "requiredItemAmount": 2000,
+        "requiredCardLevel": 60,
+        "stamina": 128,
+        "probabilityPermil": 1000,
+        "coolTime": 30,
+        "skillDetails": [
+          {
+            "efficacyId": "ef-score_get-4000-chart_dependence",
+            "triggerId": ""
+          },
+          {
+            "efficacyId": "ef-vocal_boost-5-target-vocal-2-23",
+            "triggerId": ""
+          }
+        ],
+        "triggerId": "",
+        "limitCount": 0,
+        "staminaPermil": 0
+      },
+      {
+        "level": 4,
+        "description": "420%のスコア獲得\nボーカルタイプ2人に5段階ボーカルブースト効果[27ビート]\nスタミナ136消費 CT:30",
+        "shortDescription": "\n\nスタミナ136消費 CT:30",
+        "requiredItemAmount": 15000,
+        "requiredCardLevel": 90,
+        "stamina": 136,
+        "probabilityPermil": 1000,
+        "coolTime": 30,
+        "skillDetails": [
+          {
+            "efficacyId": "ef-score_get-4200-chart_dependence",
+            "triggerId": ""
+          },
+          {
+            "efficacyId": "ef-vocal_boost-5-target-vocal-2-27",
+            "triggerId": ""
+          }
+        ],
+        "triggerId": "",
+        "limitCount": 0,
+        "staminaPermil": 0
+      },
+      {
+        "level": 5,
+        "description": "440%のスコア獲得\nボーカルタイプ2人に6段階ボーカルブースト効果[27ビート]\nスタミナ146消費 CT:30",
+        "shortDescription": "\n\nスタミナ146消費 CT:30",
+        "requiredItemAmount": 100000,
+        "requiredCardLevel": 150,
+        "stamina": 146,
+        "probabilityPermil": 1000,
+        "coolTime": 30,
+        "skillDetails": [
+          {
+            "efficacyId": "ef-score_get-4400-chart_dependence",
+            "triggerId": ""
+          },
+          {
+            "efficacyId": "ef-vocal_boost-6-target-vocal-2-27",
+            "triggerId": ""
+          }
+        ],
+        "triggerId": "",
+        "limitCount": 0,
+        "staminaPermil": 0
+      },
+      {
+        "level": 6,
+        "description": "470%のスコア獲得\nボーカルタイプ2人に6段階ボーカルブースト効果[31ビート]\nスタミナ157消費 CT:30",
+        "shortDescription": "\n\nスタミナ157消費 CT:30",
+        "requiredItemAmount": 230000,
+        "requiredCardLevel": 180,
+        "stamina": 157,
+        "probabilityPermil": 1000,
+        "coolTime": 30,
+        "skillDetails": [
+          {
+            "efficacyId": "ef-score_get-4700-chart_dependence",
+            "triggerId": ""
+          },
+          {
+            "efficacyId": "ef-vocal_boost-6-target-vocal-2-31",
+            "triggerId": ""
+          }
+        ],
+        "triggerId": "",
+        "limitCount": 0,
+        "staminaPermil": 0
+      }
+    ],
+    "assetId": ""
+  },
+  {
+    "id": "sk-szk-05-prem-00-2",
+    "name": "新曲チェケラ",
+    "categoryType": 3,
+    "levels": [
+      {
+        "level": 1,
+        "description": "センターに7段階の集目効果[49ビート]\nセンターの強化効果を1段階増強\nスタミナ170消費 CT:70",
+        "shortDescription": "\n\nスタミナ170消費 CT:70",
+        "stamina": 170,
+        "probabilityPermil": 1000,
+        "coolTime": 70,
+        "skillDetails": [
+          {
+            "efficacyId": "ef-audience_amount_increase-7-target-center-49",
+            "triggerId": ""
+          },
+          {
+            "efficacyId": "ef-strength_effect_value_increase-1-target-center",
+            "triggerId": ""
+          }
+        ],
+        "requiredItemAmount": 0,
+        "requiredCardLevel": 0,
+        "triggerId": "",
+        "limitCount": 0,
+        "staminaPermil": 0
+      },
+      {
+        "level": 2,
+        "description": "センターに7段階の集目効果[49ビート]\nセンターの強化効果を1段階増強\nスタミナ170消費 CT:65",
+        "shortDescription": "\n\nスタミナ170消費 CT:65",
+        "requiredItemAmount": 1000,
+        "requiredCardLevel": 50,
+        "stamina": 170,
+        "probabilityPermil": 1000,
+        "coolTime": 65,
+        "skillDetails": [
+          {
+            "efficacyId": "ef-audience_amount_increase-7-target-center-49",
+            "triggerId": ""
+          },
+          {
+            "efficacyId": "ef-strength_effect_value_increase-1-target-center",
+            "triggerId": ""
+          }
+        ],
+        "triggerId": "",
+        "limitCount": 0,
+        "staminaPermil": 0
+      },
+      {
+        "level": 3,
+        "description": "センターに8段階の集目効果[49ビート]\nセンターの強化効果を1段階増強\nスタミナ175消費 CT:65",
+        "shortDescription": "\n\nスタミナ175消費 CT:65",
+        "requiredItemAmount": 4000,
+        "requiredCardLevel": 70,
+        "stamina": 175,
+        "probabilityPermil": 1000,
+        "coolTime": 65,
+        "skillDetails": [
+          {
+            "efficacyId": "ef-audience_amount_increase-8-target-center-49",
+            "triggerId": ""
+          },
+          {
+            "efficacyId": "ef-strength_effect_value_increase-1-target-center",
+            "triggerId": ""
+          }
+        ],
+        "triggerId": "",
+        "limitCount": 0,
+        "staminaPermil": 0
+      },
+      {
+        "level": 4,
+        "description": "センターに8段階の集目効果[49ビート]\nセンターの強化効果を2段階増強\nスタミナ274消費 CT:65",
+        "shortDescription": "\n\nスタミナ274消費 CT:65",
+        "requiredItemAmount": 30000,
+        "requiredCardLevel": 110,
+        "stamina": 274,
+        "probabilityPermil": 1000,
+        "coolTime": 65,
+        "skillDetails": [
+          {
+            "efficacyId": "ef-audience_amount_increase-8-target-center-49",
+            "triggerId": ""
+          },
+          {
+            "efficacyId": "ef-strength_effect_value_increase-2-target-center",
+            "triggerId": ""
+          }
+        ],
+        "triggerId": "",
+        "limitCount": 0,
+        "staminaPermil": 0
+      },
+      {
+        "level": 5,
+        "description": "センターに9段階の集目効果[49ビート]\nセンターの強化効果を2段階増強\nスタミナ280消費 CT:65",
+        "shortDescription": "\n\nスタミナ280消費 CT:65",
+        "requiredItemAmount": 140000,
+        "requiredCardLevel": 160,
+        "stamina": 280,
+        "probabilityPermil": 1000,
+        "coolTime": 65,
+        "skillDetails": [
+          {
+            "efficacyId": "ef-audience_amount_increase-9-target-center-49",
+            "triggerId": ""
+          },
+          {
+            "efficacyId": "ef-strength_effect_value_increase-2-target-center",
+            "triggerId": ""
+          }
+        ],
+        "triggerId": "",
+        "limitCount": 0,
+        "staminaPermil": 0
+      },
+      {
+        "level": 6,
+        "description": "センターに9段階の集目効果[49ビート]\nセンターの強化効果を2段階増強\nスタミナ280消費 CT:50",
+        "shortDescription": "\n\nスタミナ280消費 CT:50",
+        "requiredItemAmount": 280000,
+        "requiredCardLevel": 200,
+        "stamina": 280,
+        "probabilityPermil": 1000,
+        "coolTime": 50,
+        "skillDetails": [
+          {
+            "efficacyId": "ef-audience_amount_increase-9-target-center-49",
+            "triggerId": ""
+          },
+          {
+            "efficacyId": "ef-strength_effect_value_increase-2-target-center",
+            "triggerId": ""
+          }
+        ],
+        "triggerId": "",
+        "limitCount": 0,
+        "staminaPermil": 0
+      }
+    ],
+    "assetId": ""
+  },
+  {
+    "id": "sk-szk-05-prem-00-3",
+    "name": "サニピでサイファー",
+    "categoryType": 3,
+    "levels": [
+      {
+        "level": 1,
+        "description": "50コンボ以上時\nセンターに7段階ボーカル上昇効果[48ビート]\nスタミナ276消費 ライブ中1回のみ ",
+        "shortDescription": "\n\nスタミナ276消費 ライブ中1回のみ ",
+        "stamina": 276,
+        "triggerId": "tg-combo-50",
+        "probabilityPermil": 1000,
+        "limitCount": 1,
+        "skillDetails": [
+          {
+            "efficacyId": "ef-vocal_up-7-target-center-48",
+            "triggerId": ""
+          }
+        ],
+        "requiredItemAmount": 0,
+        "requiredCardLevel": 0,
+        "coolTime": 0,
+        "staminaPermil": 0
+      },
+      {
+        "level": 2,
+        "description": "50コンボ以上時\nセンターに7段階ボーカル上昇効果[59ビート]\nスタミナ339消費 ライブ中1回のみ ",
+        "shortDescription": "\n\nスタミナ339消費 ライブ中1回のみ ",
+        "requiredItemAmount": 15000,
+        "requiredCardLevel": 100,
+        "stamina": 339,
+        "triggerId": "tg-combo-50",
+        "probabilityPermil": 1000,
+        "limitCount": 1,
+        "skillDetails": [
+          {
+            "efficacyId": "ef-vocal_up-7-target-center-59",
+            "triggerId": ""
+          }
+        ],
+        "coolTime": 0,
+        "staminaPermil": 0
+      },
+      {
+        "level": 3,
+        "description": "50コンボ以上時\nセンターに8段階ボーカル上昇効果[59ビート]\nスタミナ387消費 ライブ中1回のみ ",
+        "shortDescription": "\n\nスタミナ387消費 ライブ中1回のみ ",
+        "requiredItemAmount": 60000,
+        "requiredCardLevel": 130,
+        "stamina": 387,
+        "triggerId": "tg-combo-50",
+        "probabilityPermil": 1000,
+        "limitCount": 1,
+        "skillDetails": [
+          {
+            "efficacyId": "ef-vocal_up-8-target-center-59",
+            "triggerId": ""
+          }
+        ],
+        "coolTime": 0,
+        "staminaPermil": 0
+      },
+      {
+        "level": 4,
+        "description": "50コンボ以上時\nセンターに8段階ボーカル上昇効果[67ビート]\nスタミナ439消費 ライブ中1回のみ ",
+        "shortDescription": "\n\nスタミナ439消費 ライブ中1回のみ ",
+        "requiredItemAmount": 180000,
+        "requiredCardLevel": 170,
+        "stamina": 439,
+        "triggerId": "tg-combo-50",
+        "probabilityPermil": 1000,
+        "limitCount": 1,
+        "skillDetails": [
+          {
+            "efficacyId": "ef-vocal_up-8-target-center-67",
+            "triggerId": ""
+          }
+        ],
+        "coolTime": 0,
+        "staminaPermil": 0
+      },
+      {
+        "level": 5,
+        "description": "50コンボ以上時\nセンターに9段階ボーカル上昇効果[67ビート]\nスタミナ494消費 ライブ中1回のみ ",
+        "shortDescription": "\n\nスタミナ494消費 ライブ中1回のみ ",
+        "requiredItemAmount": 230000,
+        "requiredCardLevel": 210,
+        "stamina": 494,
+        "triggerId": "tg-combo-50",
+        "probabilityPermil": 1000,
+        "limitCount": 1,
+        "skillDetails": [
+          {
+            "efficacyId": "ef-vocal_up-9-target-center-67",
+            "triggerId": ""
+          }
+        ],
+        "coolTime": 0,
+        "staminaPermil": 0
+      },
+      {
+        "level": 6,
+        "description": "50コンボ以上時\nセンターに9段階ボーカル上昇効果[75ビート]\nスタミナ553消費 ライブ中1回のみ ",
+        "shortDescription": "\n\nスタミナ553消費 ライブ中1回のみ ",
+        "requiredItemAmount": 230000,
+        "requiredCardLevel": 220,
+        "stamina": 553,
+        "triggerId": "tg-combo-50",
+        "probabilityPermil": 1000,
+        "limitCount": 1,
+        "skillDetails": [
+          {
+            "efficacyId": "ef-vocal_up-9-target-center-75",
+            "triggerId": ""
+          }
+        ],
+        "coolTime": 0,
         "staminaPermil": 0
       }
     ],
