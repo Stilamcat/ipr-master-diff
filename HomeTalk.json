@@ -1774,6 +1774,56 @@
     ]
   },
   {
+    "homeTalkId": "home-talk-card-mei-05-xmas-00-talk-01",
+    "characterId": "char-mei",
+    "placeType": 1,
+    "conditionId": "cd-st-read-st-card-mei-05-xmas-00-03",
+    "firstPriority": 9900,
+    "weight": 1,
+    "callPatternId": "call-pattern-card-mei-05-xmas-00",
+    "choiceText": "あのハンドミキサーか？\nごめん、まだ使ってないんだ",
+    "managerText": "あのハンドミキサーか？\nごめん、まだ使ってないんだ",
+    "reliability": 5,
+    "characterTalks": [
+      {
+        "text": "えー！？　そうなの？",
+        "voiceAssetId": "sud_vo_home_mei-05-xmas-00_talk-01-01",
+        "motionAssetId": "mot_adv_chr_cmn_surp-004_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "もしかして、迷惑だったかな？\n{user}さんって、\n料理しなそうだもんね。",
+        "voiceAssetId": "sud_vo_home_mei-05-xmas-00_talk-01-02",
+        "motionAssetId": "mot_adv_chr_cmn_talk-005_in",
+        "additionMotionAssetId": "mot_all_chr_cmn_facial-034_in"
+      },
+      {
+        "text": "そんなことない？\nじゃあ、普段自分で作るの？",
+        "voiceAssetId": "sud_vo_home_mei-05-xmas-00_talk-01-03",
+        "motionAssetId": "mot_adv_chr_cmn_ask-002_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "どんな料理が得意なの？\n芽衣、興味あるな～",
+        "voiceAssetId": "sud_vo_home_mei-05-xmas-00_talk-01-04",
+        "motionAssetId": "mot_adv_chr_cmn_pos-006_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "え？　カップ麺？　もうっ\nそれは作ったうちに入らないよ～",
+        "voiceAssetId": "sud_vo_home_mei-05-xmas-00_talk-01-05",
+        "motionAssetId": "mot_adv_chr_cmn_angry-015_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "今度芽衣がハンドミキサーを使う\nレシピ教えてあげる！\n一緒に作ってみようねー",
+        "voiceAssetId": "sud_vo_home_mei-05-xmas-00_talk-01-06",
+        "motionAssetId": "mot_adv_chr_cmn_pos-021_in",
+        "additionMotionAssetId": ""
+      }
+    ]
+  },
+  {
     "homeTalkId": "home-talk-card-mhk-05-idol-00-talk-01",
     "characterId": "char-mhk",
     "placeType": 1,
@@ -3130,6 +3180,56 @@
         "voiceAssetId": "sud_vo_home_ski-05-waso-00_talk-01-06",
         "motionAssetId": "mot_adv_chr_cmn_talk-013_in",
         "additionMotionAssetId": "mot_all_chr_cmn_facial-034_in"
+      }
+    ]
+  },
+  {
+    "homeTalkId": "home-talk-card-ski-05-xmas-00-talk-01",
+    "characterId": "char-ski",
+    "placeType": 1,
+    "conditionId": "cd-st-read-st-card-ski-05-xmas-00-03",
+    "firstPriority": 9900,
+    "weight": 1,
+    "callPatternId": "call-pattern-card-ski-05-xmas-00",
+    "choiceText": "お疲れ様。楽しめたのか？",
+    "managerText": "お疲れ様。楽しめたのか？",
+    "reliability": 5,
+    "characterTalks": [
+      {
+        "text": "はい、とても楽しかったです。\nいろんな生徒がステージに上がって\n出し物を披露したんですよ。",
+        "voiceAssetId": "sud_vo_home_ski-05-xmas-00_talk-01-01",
+        "motionAssetId": "mot_adv_chr_cmn_glad-011_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "お芝居をしたりバンド演奏したり\nクイズ大会をやるグループもあって\n会場は大盛り上がりでした。",
+        "voiceAssetId": "sud_vo_home_ski-05-xmas-00_talk-01-02",
+        "motionAssetId": "mot_adv_chr_cmn_pos-009_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "皆さんクオリティが高くて\n私もパフォーマーの一人として\nとても勉強になりました。",
+        "voiceAssetId": "sud_vo_home_ski-05-xmas-00_talk-01-03",
+        "motionAssetId": "mot_adv_chr_cmn_think-003_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "ちなみに一番盛り上がったのは\n今回のイベントの目玉である\nプレゼント交換の時間です。",
+        "voiceAssetId": "sud_vo_home_ski-05-xmas-00_talk-01-04",
+        "motionAssetId": "mot_adv_chr_cmn_pos-002_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "私が司会者としてサンタ衣装で\n登場すると、もの凄い歓声が\n聞こえて驚きました。",
+        "voiceAssetId": "sud_vo_home_ski-05-xmas-00_talk-01-05",
+        "motionAssetId": "mot_adv_chr_cmn_pos-020_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "ふふっ\n皆さんそんなにプレゼントが\n楽しみだったんですね。",
+        "voiceAssetId": "sud_vo_home_ski-05-xmas-00_talk-01-06",
+        "motionAssetId": "mot_adv_chr_cmn_glad-001_in",
+        "additionMotionAssetId": ""
       }
     ]
   },

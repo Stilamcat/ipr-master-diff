@@ -2335,6 +2335,47 @@
     "homeTalks": []
   },
   {
+    "id": "card-ktn-02-eve-02",
+    "assetId": "ktn-02-eve-02",
+    "name": "月ストサンタからの贈り物",
+    "description": "どんなプレゼントより、みんなからの『生まれてきてくれてありがとう』って言葉が……一番嬉しい",
+    "type": 3,
+    "characterId": "char-ktn",
+    "initialRarity": 2,
+    "cardParameterId": "card-param-01",
+    "vocalRatioPermil": 317,
+    "danceRatioPermil": 280,
+    "visualRatioPermil": 403,
+    "staminaRatioPermil": 1000,
+    "cardLevelReleaseId": "card_level_release_1",
+    "skillId1": "sk-ktn-02-eve-02-1",
+    "skillId2": "sk-ktn-02-eve-02-2",
+    "skillId3": "sk-ktn-02-eve-02-3",
+    "order": 255,
+    "releaseDate": "1669604400000",
+    "imageType1": 1,
+    "displayPositionY1": 0.278,
+    "displayScale1": 1.0,
+    "highlightDisplayPositionX1": 0.013,
+    "highlightDisplayPositionY1": 0.298,
+    "highlightDisplayScale1": 1.0,
+    "imageType2": 2,
+    "displayPositionX2": -0.135,
+    "displayPositionY2": 0.203,
+    "displayScale2": 1.7,
+    "highlightDisplayPositionX2": 0.021,
+    "highlightDisplayPositionY2": 0.194,
+    "highlightDisplayScale2": 1.0,
+    "liveAbilityId": "",
+    "activityAbilityId": "",
+    "rewardCostumeId": "",
+    "displayPositionX1": 0.0,
+    "obtainMessage": "",
+    "stories": [],
+    "messages": [],
+    "homeTalks": []
+  },
+  {
     "id": "card-ktn-03-schl-00",
     "assetId": "ktn-03-schl-00",
     "name": "見なれた光景",
@@ -3190,6 +3231,66 @@
       },
       {
         "telephoneId": "tel-card-mei-05-rock-00",
+        "messageId": ""
+      }
+    ],
+    "activityAbilityId": "",
+    "homeTalks": []
+  },
+  {
+    "id": "card-mei-05-xmas-00",
+    "assetId": "mei-05-xmas-00",
+    "name": "幸せ招く芽衣サンタ",
+    "description": "みんなからもプレゼント、もらおっかな\n今から、今年一番のおっきな応援、ちょうだい！\n……うん！　ありがと、みんな！\nそれじゃ、曲行くよ～！　全力でついてきてね！！",
+    "type": 2,
+    "characterId": "char-mei",
+    "initialRarity": 5,
+    "cardParameterId": "card-param-01",
+    "vocalRatioPermil": 279,
+    "danceRatioPermil": 404,
+    "visualRatioPermil": 317,
+    "staminaRatioPermil": 1000,
+    "cardLevelReleaseId": "card_level_release_1",
+    "skillId1": "sk-mei-05-xmas-00-1",
+    "skillId2": "sk-mei-05-xmas-00-2",
+    "skillId3": "sk-mei-05-xmas-00-3",
+    "liveAbilityId": "lba-dance_multiply",
+    "order": 254,
+    "releaseDate": "1669604400000",
+    "rewardCostumeId": "cos-mei-xmas-00",
+    "imageType1": 3,
+    "displayPositionX1": -0.112,
+    "displayPositionY1": 0.215,
+    "displayScale1": 1.9,
+    "highlightDisplayPositionX1": 0.021,
+    "highlightDisplayPositionY1": 0.211,
+    "highlightDisplayScale1": 1.2,
+    "imageType2": 3,
+    "displayPositionX2": -0.112,
+    "displayPositionY2": 0.215,
+    "displayScale2": 1.9,
+    "highlightDisplayPositionX2": 0.021,
+    "highlightDisplayPositionY2": 0.211,
+    "highlightDisplayScale2": 1.2,
+    "obtainMessage": "みんな、メリー、クリスマーース！",
+    "stories": [
+      {
+        "storyId": "st-card-mei-05-xmas-00-01"
+      },
+      {
+        "storyId": "st-card-mei-05-xmas-00-02"
+      },
+      {
+        "storyId": "st-card-mei-05-xmas-00-03"
+      }
+    ],
+    "messages": [
+      {
+        "messageId": "message-card-mei-05-xmas-00",
+        "telephoneId": ""
+      },
+      {
+        "telephoneId": "tel-card-mei-05-xmas-00",
         "messageId": ""
       }
     ],
@@ -5845,6 +5946,66 @@
     "activityAbilityId": "",
     "displayPositionY1": 0.0,
     "displayPositionY2": 0.0,
+    "homeTalks": []
+  },
+  {
+    "id": "card-ski-05-xmas-00",
+    "assetId": "ski-05-xmas-00",
+    "name": "記憶から拾うスノードーム",
+    "description": "このスノードームで誰かが笑顔になれたらって\n思ってたけど……まさか私が笑顔になるなんて……\n私をこんなに喜ばせて、どういうつもりですか？",
+    "type": 1,
+    "characterId": "char-ski",
+    "initialRarity": 5,
+    "cardParameterId": "card-param-01",
+    "vocalRatioPermil": 433,
+    "danceRatioPermil": 318,
+    "visualRatioPermil": 279,
+    "staminaRatioPermil": 900,
+    "cardLevelReleaseId": "card_level_release_1",
+    "skillId1": "sk-ski-05-xmas-00-1",
+    "skillId2": "sk-ski-05-xmas-00-2",
+    "skillId3": "sk-ski-05-xmas-00-3",
+    "activityAbilityId": "aab-refresh_stamina_up",
+    "order": 253,
+    "releaseDate": "1669604400000",
+    "rewardCostumeId": "cos-ski-xmas-00",
+    "imageType1": 3,
+    "displayPositionX1": -0.024,
+    "displayPositionY1": 0.083,
+    "displayScale1": 1.2,
+    "highlightDisplayPositionX1": -0.108,
+    "highlightDisplayPositionY1": 0.07,
+    "highlightDisplayScale1": 0.7,
+    "imageType2": 3,
+    "displayPositionX2": -0.024,
+    "displayPositionY2": 0.083,
+    "displayScale2": 1.2,
+    "highlightDisplayPositionX2": -0.108,
+    "highlightDisplayPositionY2": 0.07,
+    "highlightDisplayScale2": 0.7,
+    "obtainMessage": "今日の私はおかしいです。\nこれもクリスマスのせいでしょうか……",
+    "stories": [
+      {
+        "storyId": "st-card-ski-05-xmas-00-01"
+      },
+      {
+        "storyId": "st-card-ski-05-xmas-00-02"
+      },
+      {
+        "storyId": "st-card-ski-05-xmas-00-03"
+      }
+    ],
+    "messages": [
+      {
+        "messageId": "message-card-ski-05-xmas-00",
+        "telephoneId": ""
+      },
+      {
+        "telephoneId": "tel-card-ski-05-xmas-00",
+        "messageId": ""
+      }
+    ],
+    "liveAbilityId": "",
     "homeTalks": []
   },
   {

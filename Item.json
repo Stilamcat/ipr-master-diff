@@ -341,6 +341,17 @@
     "salePrice": 0
   },
   {
+    "id": "item-exchange-christmas-medal-22-1128",
+    "name": "クリスマスメダル",
+    "assetId": "medal-christmas",
+    "description": "クリスマスメダル交換所で様々なアイテムと交換できる\n交換所終了後はコインに変換されます",
+    "howToGet": "ガチャ、ショップなど",
+    "type": 10,
+    "value": 1,
+    "order": 140,
+    "salePrice": 0
+  },
+  {
     "id": "item-exchange-collaboration-medal-22-0831",
     "name": "コラボメダル",
     "assetId": "medal_collaboration",
@@ -805,6 +816,17 @@
   {
     "id": "item-gacha_point-lm-set-bloom-22-1028",
     "name": "心溶けゆくKEEPOUTガチャPt",
+    "assetId": "gacha-point",
+    "description": "該当するガチャページの「ガチャPt」から\nガチャPtを消費してアイドルを獲得できる",
+    "type": 9,
+    "value": 1,
+    "order": 140,
+    "howToGet": "",
+    "salePrice": 0
+  },
+  {
+    "id": "item-gacha_point-lm-set-bloom-22-1128",
+    "name": "君を照らす贈りものガチャPt",
     "assetId": "gacha-point",
     "description": "該当するガチャページの「ガチャPt」から\nガチャPtを消費してアイドルを獲得できる",
     "type": 9,
@@ -1355,6 +1377,17 @@
   {
     "id": "item-gacha_point-select-01-22-1116",
     "name": "選べる★5ボーカルガチャPt",
+    "assetId": "gacha-point",
+    "description": "該当するガチャページの「ガチャPt」から\nガチャPtを消費してアイドルを獲得できる",
+    "type": 9,
+    "value": 1,
+    "order": 140,
+    "howToGet": "",
+    "salePrice": 0
+  },
+  {
+    "id": "item-gacha_point-select-01-22-1205",
+    "name": "選べる★5ビジュアルガチャPt",
     "assetId": "gacha-point",
     "description": "該当するガチャページの「ガチャPt」から\nガチャPtを消費してアイドルを獲得できる",
     "type": 9,

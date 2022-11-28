@@ -1482,6 +1482,45 @@
     "description": ""
   },
   {
+    "id": "st-card-mei-05-xmas-00-01",
+    "name": "街中すっかり\nクリスマス",
+    "rewardId": "rd_auto;stone;;30",
+    "advPlayTypes": [
+      1
+    ],
+    "advAssetIds": [
+      "card_mei_06_01"
+    ],
+    "sectionName": "",
+    "description": ""
+  },
+  {
+    "id": "st-card-mei-05-xmas-00-02",
+    "name": "拝啓、\n師走の候",
+    "rewardId": "rd_auto;stone;;30",
+    "advPlayTypes": [
+      1
+    ],
+    "advAssetIds": [
+      "card_mei_06_02"
+    ],
+    "sectionName": "",
+    "description": ""
+  },
+  {
+    "id": "st-card-mei-05-xmas-00-03",
+    "name": "芽衣サンタの\nプレゼント",
+    "rewardId": "rd_auto;stone;;30",
+    "advPlayTypes": [
+      1
+    ],
+    "advAssetIds": [
+      "card_mei_06_03"
+    ],
+    "sectionName": "",
+    "description": ""
+  },
+  {
     "id": "st-card-mhk-05-idol-00-01",
     "name": "名目上は\nマネージャー",
     "rewardId": "rd_auto;stone;;30",
@@ -2647,6 +2686,45 @@
     ],
     "advAssetIds": [
       "card_ski_03_03"
+    ],
+    "sectionName": "",
+    "description": ""
+  },
+  {
+    "id": "st-card-ski-05-xmas-00-01",
+    "name": "何をあげたら\nいいんでしょう",
+    "rewardId": "rd_auto;stone;;30",
+    "advPlayTypes": [
+      1
+    ],
+    "advAssetIds": [
+      "card_ski_06_01"
+    ],
+    "sectionName": "",
+    "description": ""
+  },
+  {
+    "id": "st-card-ski-05-xmas-00-02",
+    "name": "思い出の\nスノードーム",
+    "rewardId": "rd_auto;stone;;30",
+    "advPlayTypes": [
+      1
+    ],
+    "advAssetIds": [
+      "card_ski_06_02"
+    ],
+    "sectionName": "",
+    "description": ""
+  },
+  {
+    "id": "st-card-ski-05-xmas-00-03",
+    "name": "好きな\n人からの\nプレゼント",
+    "rewardId": "rd_auto;stone;;30",
+    "advPlayTypes": [
+      1
+    ],
+    "advAssetIds": [
+      "card_ski_06_03"
     ],
     "sectionName": "",
     "description": ""
@@ -4695,6 +4773,73 @@
     ],
     "advAssetIds": [
       "event_2211_01_05"
+    ],
+    "sectionName": ""
+  },
+  {
+    "id": "st-eve-2212-race-001",
+    "name": "月スト\n冬の新曲会議",
+    "description": "クリスマスの単独ライブに向け、新曲制作に励む月スト。だが、様々な意見が飛び交うも上手く纏まらない。そこで、ライブ当日に誕生日を迎える琴乃を一緒に祝う曲を作ることに。その裏で密かにある計画が動き出す。",
+    "rewardId": "rd_auto;stone;;30",
+    "advPlayTypes": [
+      1
+    ],
+    "advAssetIds": [
+      "event_2212_01_01"
+    ],
+    "sectionName": ""
+  },
+  {
+    "id": "st-eve-2212-race-002",
+    "name": "隠し通して\nみせる",
+    "description": "琴乃への誕生日サプライズを企む月スト四人。しかし、不自然な言動で琴乃から疑いの目を向けられる。そんな中、すずが五人のメッセにサプライズの内容を誤爆。秘密を暴きたい琴乃VS隠したい四人の行方は――",
+    "rewardId": "rd_auto;stone;;30",
+    "advPlayTypes": [
+      1
+    ],
+    "advAssetIds": [
+      "event_2212_01_02"
+    ],
+    "sectionName": ""
+  },
+  {
+    "id": "st-eve-2212-race-003",
+    "name": "暴いてみせる",
+    "description": "隠し事をされて拗ねだす琴乃。そんな彼女の可愛さに悶えながらも、渚は罪悪感を抱き始める。琴乃の意識を逸らすため、『恋と花火』を作った時のことを思い出しながら、恋について語る。そこで標的にされたのは渚で……。",
+    "rewardId": "rd_auto;stone;;30",
+    "advPlayTypes": [
+      1
+    ],
+    "advAssetIds": [
+      "event_2212_01_03"
+    ],
+    "sectionName": ""
+  },
+  {
+    "id": "st-eve-2212-race-004",
+    "name": "クリスマス\nには君と",
+    "description": "ライブ当日、月スト四人から琴乃へのサプライズは大成功。観客も巻き込み、会場全体で琴乃の誕生日を祝う。喜ぶ琴乃の姿を見て胸がいっぱいになる渚。アンコールには、五人で作った新曲を披露する。",
+    "rewardId": "rd_auto;stone;;30",
+    "advPlayTypes": [
+      1,
+      2
+    ],
+    "advAssetIds": [
+      "event_2212_01_04",
+      "adv-live-eve-2212-race-004"
+    ],
+    "sectionName": ""
+  },
+  {
+    "id": "st-eve-2212-race-005",
+    "name": "生まれて\nきてくれて\nありがとう",
+    "description": "ライブ後に、クリスマスパーティーを行う月スト。パーティー中、あなたの協力も得て作ったアルバムやアカペラ歌唱などサプライズを次々と仕掛ける。そして最後のサプライズ、渚はそっと手紙を取り出して……。",
+    "rewardId": "rd_auto;stone;;30",
+    "advPlayTypes": [
+      1
+    ],
+    "advAssetIds": [
+      "event_2212_01_05"
     ],
     "sectionName": ""
   },
