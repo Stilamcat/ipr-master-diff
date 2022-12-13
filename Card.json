@@ -4061,6 +4061,66 @@
     "homeTalks": []
   },
   {
+    "id": "card-ngs-05-xmas-00",
+    "assetId": "ngs-05-xmas-00",
+    "name": "夢抱くクリスマスデート",
+    "description": "琴乃ちゃんはどんなクリスマスデートが理想なの？\nよく分からない？　ふふっ私と遊園地に行きたい？\n……うん、そうだね。私も今はまだ\n琴乃ちゃんとデートするのが一番かも",
+    "type": 3,
+    "characterId": "char-ngs",
+    "initialRarity": 5,
+    "cardParameterId": "card-param-01",
+    "vocalRatioPermil": 404,
+    "danceRatioPermil": 316,
+    "visualRatioPermil": 280,
+    "staminaRatioPermil": 1000,
+    "cardLevelReleaseId": "card_level_release_1",
+    "skillId1": "sk-ngs-05-xmas-00-1",
+    "skillId2": "sk-ngs-05-xmas-00-2",
+    "skillId3": "sk-ngs-05-xmas-00-3",
+    "activityAbilityId": "aab-promotion_gold_up",
+    "order": 256,
+    "releaseDate": "1670900400000",
+    "rewardCostumeId": "cos-ngs-xmas-00",
+    "imageType1": 3,
+    "displayPositionX1": 0.224,
+    "displayPositionY1": 0.03,
+    "displayScale1": 1.3,
+    "highlightDisplayPositionX1": -0.195,
+    "highlightDisplayPositionY1": 0.094,
+    "highlightDisplayScale1": 0.8,
+    "imageType2": 3,
+    "displayPositionX2": 0.224,
+    "displayPositionY2": 0.03,
+    "displayScale2": 1.3,
+    "highlightDisplayPositionX2": -0.195,
+    "highlightDisplayPositionY2": 0.094,
+    "highlightDisplayScale2": 0.8,
+    "obtainMessage": "琴乃ちゃんは\nどんなクリスマスデートが理想なの？",
+    "stories": [
+      {
+        "storyId": "st-card-ngs-05-xmas-00-01"
+      },
+      {
+        "storyId": "st-card-ngs-05-xmas-00-02"
+      },
+      {
+        "storyId": "st-card-ngs-05-xmas-00-03"
+      }
+    ],
+    "messages": [
+      {
+        "messageId": "message-card-ngs-05-xmas-00",
+        "telephoneId": ""
+      },
+      {
+        "telephoneId": "tel-card-ngs-05-xmas-00",
+        "messageId": ""
+      }
+    ],
+    "liveAbilityId": "",
+    "homeTalks": []
+  },
+  {
     "id": "card-rei-02-eve-01",
     "assetId": "rei-02-eve-01",
     "name": "ココロ Distance",
@@ -7239,6 +7299,66 @@
     "liveAbilityId": "",
     "displayPositionY1": 0.0,
     "displayPositionY2": 0.0,
+    "homeTalks": []
+  },
+  {
+    "id": "card-suz-05-xmas-00",
+    "assetId": "suz-05-xmas-00",
+    "name": "恵みを運ぶアイドルサンタ",
+    "description": "良い子のみなさ～ん！\r\nアイドルサンタ成宮すずが街にやって来ましたわよ～！\r\n星降る街に舞い降りたアイドルサンタが\r\nハッピーをお届けするのですわ～！",
+    "type": 2,
+    "characterId": "char-suz",
+    "initialRarity": 5,
+    "cardParameterId": "card-param-01",
+    "vocalRatioPermil": 317,
+    "danceRatioPermil": 280,
+    "visualRatioPermil": 403,
+    "staminaRatioPermil": 1000,
+    "cardLevelReleaseId": "card_level_release_1",
+    "skillId1": "sk-suz-05-xmas-00-1",
+    "skillId2": "sk-suz-05-xmas-00-2",
+    "skillId3": "sk-suz-05-xmas-00-3",
+    "liveAbilityId": "lba-special_skill_score_multiply",
+    "order": 257,
+    "releaseDate": "1670900400000",
+    "rewardCostumeId": "cos-suz-xmas-00",
+    "imageType1": 3,
+    "displayPositionX1": 0.146,
+    "displayPositionY1": 0.083,
+    "displayScale1": 1.2,
+    "highlightDisplayPositionX1": -0.182,
+    "highlightDisplayPositionY1": 0.3,
+    "highlightDisplayScale1": 0.7,
+    "imageType2": 3,
+    "displayPositionX2": 0.146,
+    "displayPositionY2": 0.083,
+    "displayScale2": 1.2,
+    "highlightDisplayPositionX2": -0.182,
+    "highlightDisplayPositionY2": 0.3,
+    "highlightDisplayScale2": 0.7,
+    "obtainMessage": "アイドルサンタ成宮すずが\n街にやって来ましたわよ～！",
+    "stories": [
+      {
+        "storyId": "st-card-suz-05-xmas-00-01"
+      },
+      {
+        "storyId": "st-card-suz-05-xmas-00-02"
+      },
+      {
+        "storyId": "st-card-suz-05-xmas-00-03"
+      }
+    ],
+    "messages": [
+      {
+        "messageId": "message-card-suz-05-xmas-00",
+        "telephoneId": ""
+      },
+      {
+        "telephoneId": "tel-card-suz-05-xmas-00",
+        "messageId": ""
+      }
+    ],
+    "activityAbilityId": "",
     "homeTalks": []
   },
   {

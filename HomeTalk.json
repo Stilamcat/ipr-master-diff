@@ -2244,6 +2244,56 @@
     ]
   },
   {
+    "homeTalkId": "home-talk-card-ngs-05-xmas-00-talk-01",
+    "characterId": "char-ngs",
+    "placeType": 1,
+    "conditionId": "cd-st-read-st-card-ngs-05-xmas-00-03",
+    "firstPriority": 9900,
+    "weight": 1,
+    "callPatternId": "call-pattern-card-ngs-05-xmas-00",
+    "choiceText": "実は、雑誌の恋愛相談コーナーを\n渚に担当してもらいたいって\n打診がきているんだ。",
+    "managerText": "実は、雑誌の恋愛相談コーナーを\n渚に担当してもらいたいって\n打診がきているんだ。",
+    "reliability": 5,
+    "characterTalks": [
+      {
+        "text": "え、えぇぇー！？\n私が恋愛相談に答えるんですか！？",
+        "voiceAssetId": "sud_vo_home_ngs-05-xmas-00_talk-01-01",
+        "motionAssetId": "mot_adv_chr_cmn_emb-006_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "む、無理です！　無理無理！\nそんなの絶対に無理ですから！",
+        "voiceAssetId": "sud_vo_home_ngs-05-xmas-00_talk-01-02",
+        "motionAssetId": "mot_adv_chr_cmn_emb-009_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "え？　取材の時はあんなに\nスムーズに答えてた？　違います！\nあれはあくまで想像ですから！",
+        "voiceAssetId": "sud_vo_home_ngs-05-xmas-00_talk-01-03",
+        "motionAssetId": "mot_adv_chr_cmn_emb-010_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "{user}さん以外の\n男性とは、デートどころかお話さえ\nあんまりしたことないんですよ。",
+        "voiceAssetId": "sud_vo_home_ngs-05-xmas-00_talk-01-04",
+        "motionAssetId": "mot_adv_chr_cmn_emb-012_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "だからこのお仕事は\nもっと経験値の高い方に\nお譲りします…",
+        "voiceAssetId": "sud_vo_home_ngs-05-xmas-00_talk-01-05",
+        "motionAssetId": "mot_adv_chr_cmn_emb-005_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "はぁ、私はただ恋愛小説や漫画で\n妄想してるだけなのに…って\nあ、あはは…なんでもありません。",
+        "voiceAssetId": "sud_vo_home_ngs-05-xmas-00_talk-01-06",
+        "motionAssetId": "mot_adv_chr_cmn_emb-015_in",
+        "additionMotionAssetId": ""
+      }
+    ]
+  },
+  {
     "homeTalkId": "home-talk-card-rei-05-idol-00-talk-01",
     "characterId": "char-rei",
     "placeType": 1,
@@ -3857,6 +3907,56 @@
         "text": "お待ちなさい！\nずるいですわ！\n待ってくださいまし！",
         "voiceAssetId": "sud_vo_home_suz-05-seik-00_talk-01-06",
         "motionAssetId": "mot_adv_chr_cmn_angry-016_in",
+        "additionMotionAssetId": ""
+      }
+    ]
+  },
+  {
+    "homeTalkId": "home-talk-card-suz-05-xmas-00-talk-01",
+    "characterId": "char-suz",
+    "placeType": 1,
+    "conditionId": "cd-st-read-st-card-suz-05-xmas-00-03",
+    "firstPriority": 9900,
+    "weight": 1,
+    "callPatternId": "call-pattern-card-suz-05-xmas-00",
+    "choiceText": "どうした、凄い興奮ぶりだな",
+    "managerText": "どうした、凄い興奮ぶりだな",
+    "reliability": 5,
+    "characterTalks": [
+      {
+        "text": "当然ですわ！　クリスマスライブ\nでの私の勇姿が凄過ぎてファンの\nみなさんが大騒ぎだったんですの！",
+        "voiceAssetId": "sud_vo_home_suz-05-xmas-00_talk-01-01",
+        "motionAssetId": "mot_adv_chr_cmn_emot-004_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "ライブが終わっても\nアンコールの声が鳴りやまず…",
+        "voiceAssetId": "sud_vo_home_suz-05-xmas-00_talk-01-02",
+        "motionAssetId": "mot_adv_chr_cmn_talk-010_in",
+        "additionMotionAssetId": "mot_all_chr_cmn_facial-046_in"
+      },
+      {
+        "text": "控室にまで聞こえてくるくらい\nすずコールも響いていましたの！",
+        "voiceAssetId": "sud_vo_home_suz-05-xmas-00_talk-01-03",
+        "motionAssetId": "mot_adv_chr_cmn_pos-007_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "お聞きになっていたでしょう。\nあれこそが私とファンの\nみなさんの絆ですわ！",
+        "voiceAssetId": "sud_vo_home_suz-05-xmas-00_talk-01-04",
+        "motionAssetId": "mot_adv_chr_cmn_glad-012_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "クリスマスライブは、\n私にとっても、みなさんにとっても\n最高のプレゼントでした。",
+        "voiceAssetId": "sud_vo_home_suz-05-xmas-00_talk-01-05",
+        "motionAssetId": "mot_adv_chr_cmn_glad-011_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "感謝を込めてメリークリスマス\nですわ！",
+        "voiceAssetId": "sud_vo_home_suz-05-xmas-00_talk-01-06",
+        "motionAssetId": "mot_adv_chr_cmn_pos-019_in",
         "additionMotionAssetId": ""
       }
     ]
