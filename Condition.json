@@ -36091,6 +36091,62 @@
     ]
   },
   {
+    "id": "cd-purchase-shop_top_dress-shop-pack-22-0228-01",
+    "settings": [
+      {
+        "term": {
+          "nowAfter": "1671073200000",
+          "nowBefore": "0"
+        },
+        "purchaseShop": {
+          "shopItemId": "shop_top_dress-shop-pack-22-0228-01"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-purchase-shop_top_dress-shop-pack-22-0526-01",
+    "settings": [
+      {
+        "term": {
+          "nowAfter": "1671073200000",
+          "nowBefore": "0"
+        },
+        "purchaseShop": {
+          "shopItemId": "shop_top_dress-shop-pack-22-0526-01"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-purchase-shop_top_dress-shop-pack-22-0526-02",
+    "settings": [
+      {
+        "term": {
+          "nowAfter": "1671073200000",
+          "nowBefore": "0"
+        },
+        "purchaseShop": {
+          "shopItemId": "shop_top_dress-shop-pack-22-0526-02"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-purchase-shop_top_dress-shop-pack-22-0526-03",
+    "settings": [
+      {
+        "term": {
+          "nowAfter": "1671073200000",
+          "nowBefore": "0"
+        },
+        "purchaseShop": {
+          "shopItemId": "shop_top_dress-shop-pack-22-0526-03"
+        }
+      }
+    ]
+  },
+  {
     "id": "cd-qt-main-1-026-01",
     "settings": [
       {
@@ -49006,8 +49062,8 @@
     "id": "cd-shop_top_dress-shop-pack-22-1215-01",
     "settings": [
       {
-        "satisfyCondition": {
-          "conditionId": "cd-possession-cos-rui-yuru-00-not"
+        "notSatisfyCondition": {
+          "conditionId": "cd-purchase-shop_top_dress-shop-pack-22-0228-01"
         },
         "term": {
           "nowAfter": "1671073200000",
@@ -49020,8 +49076,8 @@
     "id": "cd-shop_top_dress-shop-pack-22-1215-02",
     "settings": [
       {
-        "satisfyCondition": {
-          "conditionId": "cd-possession-cos-szk-idol-03-not"
+        "notSatisfyCondition": {
+          "conditionId": "cd-purchase-shop_top_dress-shop-pack-22-0526-01"
         },
         "term": {
           "nowAfter": "1671073200000",
@@ -49034,8 +49090,8 @@
     "id": "cd-shop_top_dress-shop-pack-22-1215-03",
     "settings": [
       {
-        "satisfyCondition": {
-          "conditionId": "cd-possession-cos-chs-idol-03-not"
+        "notSatisfyCondition": {
+          "conditionId": "cd-purchase-shop_top_dress-shop-pack-22-0526-02"
         },
         "term": {
           "nowAfter": "1671073200000",
@@ -49048,8 +49104,8 @@
     "id": "cd-shop_top_dress-shop-pack-22-1215-04",
     "settings": [
       {
-        "satisfyCondition": {
-          "conditionId": "cd-possession-cos-rei-idol-03-not"
+        "notSatisfyCondition": {
+          "conditionId": "cd-purchase-shop_top_dress-shop-pack-22-0526-03"
         },
         "term": {
           "nowAfter": "1671073200000",
