@@ -13732,6 +13732,28 @@
     "eventMissionId": ""
   },
   {
+    "id": "ms-comeback-shop-limited-22-1224-check",
+    "categoryType": 3,
+    "missionType": 4,
+    "targetIds": [
+      "cd_shop_comeback-user-22-1224-23-0110"
+    ],
+    "name": "30日以上ぶりのログイン",
+    "shortDescription": "30日以上ぶりのログイン",
+    "longDescription": "30日以上ぶりのログインです。",
+    "order": 1,
+    "viewConditionId": "cd_shop_comeback-shop-limited-22-1224-mission-view",
+    "progresses": [
+      {
+        "threshold": "1",
+        "rewardSetId": "rd_auto;stone;;50"
+      }
+    ],
+    "linkType": 0,
+    "linkDetail": "",
+    "eventMissionId": ""
+  },
+  {
     "id": "ms-daily-accessory_enhance_count-100",
     "categoryType": 1,
     "missionType": 28,
@@ -24251,6 +24273,28 @@
     "eventMissionId": ""
   },
   {
+    "id": "ms-normal-quest_main_clear_count-001_boost",
+    "categoryType": 3,
+    "missionType": 4,
+    "targetIds": [
+      "cd-clear-area-main-001"
+    ],
+    "name": "メインライブ:#1をクリア",
+    "shortDescription": "メインライブ:#1をクリア",
+    "longDescription": "メインライブ:#1をクリアしましょう。",
+    "order": 1,
+    "linkType": 3,
+    "progresses": [
+      {
+        "threshold": "1",
+        "rewardSetId": "rd-ms-normal-quest_main_clear_count-001_boost"
+      }
+    ],
+    "eventMissionId": "event-beginner-mission",
+    "viewConditionId": "",
+    "linkDetail": ""
+  },
+  {
     "id": "ms-normal-quest_main_clear_count-002",
     "categoryType": 3,
     "missionType": 5,
@@ -24275,6 +24319,28 @@
     "eventMissionId": ""
   },
   {
+    "id": "ms-normal-quest_main_clear_count-002_boost",
+    "categoryType": 3,
+    "missionType": 4,
+    "targetIds": [
+      "cd-clear-area-main-002"
+    ],
+    "name": "メインライブ:#2をクリア",
+    "shortDescription": "メインライブ:#2をクリア",
+    "longDescription": "メインライブ:#2をクリアしましょう。",
+    "order": 2,
+    "linkType": 3,
+    "progresses": [
+      {
+        "threshold": "1",
+        "rewardSetId": "rd-ms-normal-quest_main_clear_count-002_boost"
+      }
+    ],
+    "eventMissionId": "event-beginner-mission",
+    "viewConditionId": "",
+    "linkDetail": ""
+  },
+  {
     "id": "ms-normal-quest_main_clear_count-003",
     "categoryType": 3,
     "missionType": 5,
@@ -24297,6 +24363,28 @@
     ],
     "linkDetail": "",
     "eventMissionId": ""
+  },
+  {
+    "id": "ms-normal-quest_main_clear_count-003_boost",
+    "categoryType": 3,
+    "missionType": 4,
+    "targetIds": [
+      "cd-clear-area-main-003"
+    ],
+    "name": "メインライブ:#3をクリア",
+    "shortDescription": "メインライブ:#3をクリア",
+    "longDescription": "メインライブ:#3をクリアしましょう。",
+    "order": 3,
+    "linkType": 3,
+    "progresses": [
+      {
+        "threshold": "1",
+        "rewardSetId": "rd-ms-normal-quest_main_clear_count-003_boost"
+      }
+    ],
+    "eventMissionId": "event-beginner-mission",
+    "viewConditionId": "",
+    "linkDetail": ""
   },
   {
     "id": "ms-normal-quest_main_clear_count-004",
@@ -24324,6 +24412,28 @@
     "eventMissionId": ""
   },
   {
+    "id": "ms-normal-quest_main_clear_count-004_boost",
+    "categoryType": 3,
+    "missionType": 4,
+    "targetIds": [
+      "cd-clear-area-main-004"
+    ],
+    "name": "メインライブ:#4をクリア",
+    "shortDescription": "メインライブ:#4をクリア",
+    "longDescription": "メインライブ:#4をクリアしましょう。",
+    "order": 4,
+    "linkType": 3,
+    "progresses": [
+      {
+        "threshold": "1",
+        "rewardSetId": "rd-ms-normal-quest_main_clear_count-004_boost"
+      }
+    ],
+    "eventMissionId": "event-beginner-mission",
+    "viewConditionId": "",
+    "linkDetail": ""
+  },
+  {
     "id": "ms-normal-quest_main_clear_count-005",
     "categoryType": 3,
     "missionType": 5,
@@ -24347,6 +24457,28 @@
     ],
     "linkDetail": "",
     "eventMissionId": ""
+  },
+  {
+    "id": "ms-normal-quest_main_clear_count-005_boost",
+    "categoryType": 3,
+    "missionType": 4,
+    "targetIds": [
+      "cd-clear-area-main-005"
+    ],
+    "name": "メインライブ:#5をクリア",
+    "shortDescription": "メインライブ:#5をクリア",
+    "longDescription": "メインライブ:#5をクリアしましょう。",
+    "order": 5,
+    "linkType": 3,
+    "progresses": [
+      {
+        "threshold": "1",
+        "rewardSetId": "rd-ms-normal-quest_main_clear_count-005_boost"
+      }
+    ],
+    "eventMissionId": "event-beginner-mission",
+    "viewConditionId": "",
+    "linkDetail": ""
   },
   {
     "id": "ms-normal-quest_main_clear_count-006",
@@ -24374,6 +24506,28 @@
     "eventMissionId": ""
   },
   {
+    "id": "ms-normal-quest_main_clear_count-006_boost",
+    "categoryType": 3,
+    "missionType": 4,
+    "targetIds": [
+      "cd-clear-area-main-006"
+    ],
+    "name": "メインライブ:#6をクリア",
+    "shortDescription": "メインライブ:#6をクリア",
+    "longDescription": "メインライブ:#6をクリアしましょう。",
+    "order": 6,
+    "linkType": 3,
+    "progresses": [
+      {
+        "threshold": "1",
+        "rewardSetId": "rd-ms-normal-quest_main_clear_count-006_boost"
+      }
+    ],
+    "eventMissionId": "event-beginner-mission",
+    "viewConditionId": "",
+    "linkDetail": ""
+  },
+  {
     "id": "ms-normal-quest_main_clear_count-007",
     "categoryType": 3,
     "missionType": 5,
@@ -24397,6 +24551,28 @@
     ],
     "linkDetail": "",
     "eventMissionId": ""
+  },
+  {
+    "id": "ms-normal-quest_main_clear_count-007_boost",
+    "categoryType": 3,
+    "missionType": 4,
+    "targetIds": [
+      "cd-clear-area-main-007"
+    ],
+    "name": "メインライブ:#7をクリア",
+    "shortDescription": "メインライブ:#7をクリア",
+    "longDescription": "メインライブ:#7をクリアしましょう。",
+    "order": 7,
+    "linkType": 3,
+    "progresses": [
+      {
+        "threshold": "1",
+        "rewardSetId": "rd-ms-normal-quest_main_clear_count-007_boost"
+      }
+    ],
+    "eventMissionId": "event-beginner-mission",
+    "viewConditionId": "",
+    "linkDetail": ""
   },
   {
     "id": "ms-normal-quest_main_clear_count-008",
@@ -24501,6 +24677,28 @@
     ],
     "linkDetail": "",
     "eventMissionId": ""
+  },
+  {
+    "id": "ms-normal-quest_main_clear_count-011_boost",
+    "categoryType": 3,
+    "missionType": 4,
+    "targetIds": [
+      "cd-clear-area-main-011"
+    ],
+    "name": "メインライブ:#11をクリア",
+    "shortDescription": "メインライブ:#11をクリア",
+    "longDescription": "メインライブ:#11をクリアしましょう。",
+    "order": 8,
+    "linkType": 3,
+    "progresses": [
+      {
+        "threshold": "1",
+        "rewardSetId": "rd-ms-normal-quest_main_clear_count-011_boost"
+      }
+    ],
+    "eventMissionId": "event-beginner-mission",
+    "viewConditionId": "",
+    "linkDetail": ""
   },
   {
     "id": "ms-normal-quest_main_clear_count-012",
@@ -24609,6 +24807,28 @@
     ],
     "linkDetail": "",
     "eventMissionId": ""
+  },
+  {
+    "id": "ms-normal-quest_main_clear_count-015_boost",
+    "categoryType": 3,
+    "missionType": 4,
+    "targetIds": [
+      "cd-clear-area-main-015"
+    ],
+    "name": "メインライブ:#15をクリア",
+    "shortDescription": "メインライブ:#15をクリア",
+    "longDescription": "メインライブ:#15をクリアしましょう。",
+    "order": 9,
+    "linkType": 3,
+    "progresses": [
+      {
+        "threshold": "1",
+        "rewardSetId": "rd-ms-normal-quest_main_clear_count-015_boost"
+      }
+    ],
+    "eventMissionId": "event-beginner-mission",
+    "viewConditionId": "",
+    "linkDetail": ""
   },
   {
     "id": "ms-normal-quest_main_clear_count-016",
@@ -24751,6 +24971,28 @@
     "eventMissionId": ""
   },
   {
+    "id": "ms-normal-quest_main_clear_count-020_boost",
+    "categoryType": 3,
+    "missionType": 4,
+    "targetIds": [
+      "cd-clear-area-main-020"
+    ],
+    "name": "メインライブ:#20をクリア",
+    "shortDescription": "メインライブ:#20をクリア",
+    "longDescription": "メインライブ:#20をクリアしましょう。",
+    "order": 10,
+    "linkType": 3,
+    "progresses": [
+      {
+        "threshold": "1",
+        "rewardSetId": "rd-ms-normal-quest_main_clear_count-020_boost"
+      }
+    ],
+    "eventMissionId": "event-beginner-mission",
+    "viewConditionId": "",
+    "linkDetail": ""
+  },
+  {
     "id": "ms-normal-quest_main_clear_count-021",
     "categoryType": 3,
     "missionType": 5,
@@ -24805,6 +25047,28 @@
     ],
     "linkDetail": "",
     "eventMissionId": ""
+  },
+  {
+    "id": "ms-normal-quest_main_clear_count-022_boost",
+    "categoryType": 3,
+    "missionType": 4,
+    "targetIds": [
+      "cd-clear-area-main-022"
+    ],
+    "name": "メインライブ:#22をクリア",
+    "shortDescription": "メインライブ:#22をクリア",
+    "longDescription": "メインライブ:#22をクリアしましょう。",
+    "order": 10,
+    "linkType": 3,
+    "progresses": [
+      {
+        "threshold": "1",
+        "rewardSetId": "rd-ms-normal-quest_main_clear_count-022_boost"
+      }
+    ],
+    "eventMissionId": "event-beginner-mission",
+    "viewConditionId": "",
+    "linkDetail": ""
   },
   {
     "id": "ms-normal-quest_main_clear_count-023",
@@ -24889,6 +25153,28 @@
     ],
     "linkDetail": "",
     "eventMissionId": ""
+  },
+  {
+    "id": "ms-normal-quest_main_clear_count-025_boost",
+    "categoryType": 3,
+    "missionType": 4,
+    "targetIds": [
+      "cd-clear-area-main-025"
+    ],
+    "name": "メインライブ:#25をクリア",
+    "shortDescription": "メインライブ:#25をクリア",
+    "longDescription": "メインライブ:#25をクリアしましょう。",
+    "order": 11,
+    "linkType": 3,
+    "progresses": [
+      {
+        "threshold": "1",
+        "rewardSetId": "rd-ms-normal-quest_main_clear_count-025_boost"
+      }
+    ],
+    "eventMissionId": "event-beginner-mission",
+    "viewConditionId": "",
+    "linkDetail": ""
   },
   {
     "id": "ms-normal-quest_main_clear_count-026",
@@ -24978,6 +25264,28 @@
     "eventMissionId": ""
   },
   {
+    "id": "ms-normal-quest_main_clear_count-028_boost",
+    "categoryType": 3,
+    "missionType": 4,
+    "targetIds": [
+      "cd-clear-area-main-028"
+    ],
+    "name": "メインライブ:#28をクリア",
+    "shortDescription": "メインライブ:#28をクリア",
+    "longDescription": "メインライブ:#28をクリアしましょう。",
+    "order": 12,
+    "linkType": 3,
+    "progresses": [
+      {
+        "threshold": "1",
+        "rewardSetId": "rd-ms-normal-quest_main_clear_count-028_boost"
+      }
+    ],
+    "eventMissionId": "event-beginner-mission",
+    "viewConditionId": "",
+    "linkDetail": ""
+  },
+  {
     "id": "ms-normal-quest_main_clear_count-029",
     "categoryType": 3,
     "missionType": 5,
@@ -25063,6 +25371,28 @@
     ],
     "linkDetail": "",
     "eventMissionId": ""
+  },
+  {
+    "id": "ms-normal-quest_main_clear_count-031_boost",
+    "categoryType": 3,
+    "missionType": 4,
+    "targetIds": [
+      "cd-clear-area-main-031"
+    ],
+    "name": "メインライブ:#31をクリア",
+    "shortDescription": "メインライブ:#31をクリア",
+    "longDescription": "メインライブ:#31をクリアしましょう。",
+    "order": 14,
+    "linkType": 3,
+    "progresses": [
+      {
+        "threshold": "1",
+        "rewardSetId": "rd-ms-normal-quest_main_clear_count-031_boost"
+      }
+    ],
+    "eventMissionId": "event-beginner-mission",
+    "viewConditionId": "",
+    "linkDetail": ""
   },
   {
     "id": "ms-normal-quest_main_clear_count-032",

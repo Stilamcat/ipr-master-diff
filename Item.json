@@ -22,6 +22,28 @@
     "salePrice": 0
   },
   {
+    "id": "item-act_fan-reward-up",
+    "name": "スイーツギフト",
+    "assetId": "act-fan-reward-up",
+    "description": "ファンイベントの報酬アイテムの獲得効率が2倍になる",
+    "howToGet": "イベント、ショップなど",
+    "type": 1006,
+    "value": 10000,
+    "order": 102,
+    "salePrice": 0
+  },
+  {
+    "id": "item-act_lesson-boost",
+    "name": "魚魚っとさんドリンク",
+    "assetId": "act-lesson-boost",
+    "description": "自主トレの時間を2時間分すぐに進行する",
+    "howToGet": "イベント、ショップなど",
+    "type": 1007,
+    "value": 120,
+    "order": 101,
+    "salePrice": 0
+  },
+  {
     "id": "item-act_promotion_shorten",
     "name": "スキップウォッチ",
     "assetId": "act-promotion-shorten",
@@ -30,6 +52,17 @@
     "type": 1002,
     "value": 120,
     "order": 80,
+    "salePrice": 0
+  },
+  {
+    "id": "item-act_promotion_shorten-sp",
+    "name": "SPスキップウォッチ",
+    "assetId": "act-promotion-shorten-sp",
+    "description": "プロモーションの時間を10時間分すぐに進行する",
+    "howToGet": "イベント、ショップなど",
+    "type": 1008,
+    "value": 600,
+    "order": 103,
     "salePrice": 0
   },
   {
@@ -319,6 +352,17 @@
     "salePrice": 0
   },
   {
+    "id": "item-daily_quest_ticket_sp-22-1224",
+    "name": "スペシャルパス",
+    "assetId": "quest-daily-special",
+    "description": "デイリーライブ【スペシャル】に挑戦できる\nイベント終了後は消失します",
+    "howToGet": "ショップなど",
+    "type": 2006,
+    "value": 1,
+    "order": 220,
+    "salePrice": 0
+  },
+  {
     "id": "item-exchange-anniversary-medal-22-0526",
     "name": "1周年記念メダル",
     "assetId": "medal-anniversary",
@@ -407,6 +451,28 @@
     "salePrice": 0
   },
   {
+    "id": "item-exchange-ticket-22-1224-01",
+    "name": "★5契約書",
+    "assetId": "card-exchange-05",
+    "description": "★5アイドル交換所で好きな\nメンバーと交換できるチケット",
+    "howToGet": "1.5周年記念ドリームギフトガチャ",
+    "type": 10,
+    "value": 1,
+    "order": 140,
+    "salePrice": 0
+  },
+  {
+    "id": "item-exchange-ticket-22-1224-02",
+    "name": "★5限定契約書",
+    "assetId": "card-exchange-05-22-1224",
+    "description": "★5限定アイドル交換所で好きな\nメンバーと交換できるチケット",
+    "howToGet": "1.5周年記念特別ショップ",
+    "type": 10,
+    "value": 1,
+    "order": 140,
+    "salePrice": 0
+  },
+  {
     "id": "item-exchange_item-ticket-22-0630",
     "name": "引換券",
     "assetId": "item-exchange-cp-01",
@@ -415,6 +481,17 @@
     "type": 10,
     "value": 1,
     "order": 100,
+    "salePrice": 0
+  },
+  {
+    "id": "item-gacha-endless-22-1224-m10-ticket",
+    "name": "10連ガチャチケ",
+    "assetId": "gacha-endless-22-1224",
+    "description": "有効期限：入手後7日\n10連ガチャを1回引くことができる",
+    "howToGet": "引き放題ガチャ",
+    "type": 8,
+    "value": 1,
+    "order": 140,
     "salePrice": 0
   },
   {

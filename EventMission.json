@@ -54,6 +54,31 @@
     "unlockConditionId": ""
   },
   {
+    "id": "event-beginner-mission",
+    "eventMissionType": 2,
+    "assetId": "img_banner_l_event-beginner-mission",
+    "name": "ビギナーミッション",
+    "order": 90,
+    "viewConditionId": "cd-time-event_beginner-mission-22-1224",
+    "missionIds": [
+      "ms-normal-quest_main_clear_count-001_boost",
+      "ms-normal-quest_main_clear_count-002_boost",
+      "ms-normal-quest_main_clear_count-003_boost",
+      "ms-normal-quest_main_clear_count-004_boost",
+      "ms-normal-quest_main_clear_count-005_boost",
+      "ms-normal-quest_main_clear_count-006_boost",
+      "ms-normal-quest_main_clear_count-007_boost",
+      "ms-normal-quest_main_clear_count-011_boost",
+      "ms-normal-quest_main_clear_count-015_boost",
+      "ms-normal-quest_main_clear_count-020_boost",
+      "ms-normal-quest_main_clear_count-022_boost",
+      "ms-normal-quest_main_clear_count-025_boost",
+      "ms-normal-quest_main_clear_count-028_boost",
+      "ms-normal-quest_main_clear_count-031_boost"
+    ],
+    "unlockConditionId": ""
+  },
+  {
     "id": "event-ladder-22-0513",
     "eventMissionType": 1,
     "assetId": "img_banner_l_event-ladder-22-0513",

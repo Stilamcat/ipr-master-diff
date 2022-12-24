@@ -256,6 +256,36 @@
     "colorCode": ""
   },
   {
+    "id": "area-daily-sp-22-1224",
+    "type": 3,
+    "name": "スペシャル",
+    "description": "デイリーライブ",
+    "order": 1,
+    "viewConditionId": "cd-time-daily-sp-22-1224-23-0103",
+    "unlockConditionId": "cd-time-daily-sp-22-1224-23-0103",
+    "dailyLimitCount": 2,
+    "rewardAssetId": "img_item_thumb_card-skill",
+    "dailySpecialTicketItemId": "item-daily_quest_ticket_sp-22-1224",
+    "dailyRewardName": "スキルパウダー",
+    "questIds": [
+      "qt-daily-sp-22-1224-01",
+      "qt-daily-sp-22-1224-02",
+      "qt-daily-sp-22-1224-03",
+      "qt-daily-sp-22-1224-04",
+      "qt-daily-sp-22-1224-05",
+      "qt-daily-sp-22-1224-06",
+      "qt-daily-sp-22-1224-07",
+      "qt-daily-sp-22-1224-08",
+      "qt-daily-sp-22-1224-09",
+      "qt-daily-sp-22-1224-10",
+      "qt-daily-sp-22-1224-11"
+    ],
+    "areaGroupId": "",
+    "dailyTicketItemType": 0,
+    "assetId": "",
+    "colorCode": ""
+  },
+  {
     "id": "area-ex-tower-001",
     "type": 5,
     "name": "月のテンペスト",
@@ -1613,7 +1643,7 @@
     "description": "マスター1",
     "order": 26,
     "areaGroupId": "area-main-group-004",
-    "unlockConditionId": "cd-manager_level_gte-81",
+    "unlockConditionId": "cd-manager_level_gte-78",
     "questIds": [
       "qt-main-1-026-01",
       "qt-main-1-026-02",
@@ -1640,7 +1670,7 @@
     "description": "マスター2",
     "order": 27,
     "areaGroupId": "area-main-group-004",
-    "unlockConditionId": "cd-manager_level_gte-85",
+    "unlockConditionId": "cd-manager_level_gte-80",
     "questIds": [
       "qt-main-1-027-01",
       "qt-main-1-027-02",
@@ -1667,7 +1697,7 @@
     "description": "マスター3",
     "order": 28,
     "areaGroupId": "area-main-group-004",
-    "unlockConditionId": "cd-manager_level_gte-89",
+    "unlockConditionId": "cd-manager_level_gte-82",
     "questIds": [
       "qt-main-1-028-01",
       "qt-main-1-028-02",
@@ -1694,7 +1724,7 @@
     "description": "マスター4",
     "order": 29,
     "areaGroupId": "area-main-group-004",
-    "unlockConditionId": "cd-manager_level_gte-93",
+    "unlockConditionId": "cd-manager_level_gte-84",
     "questIds": [
       "qt-main-1-029-01",
       "qt-main-1-029-02",
@@ -1721,7 +1751,7 @@
     "description": "マスター5",
     "order": 30,
     "areaGroupId": "area-main-group-004",
-    "unlockConditionId": "cd-manager_level_gte-97",
+    "unlockConditionId": "cd-manager_level_gte-86",
     "questIds": [
       "qt-main-1-030-01",
       "qt-main-1-030-02",
@@ -1748,7 +1778,7 @@
     "description": "マスター6",
     "order": 31,
     "areaGroupId": "area-main-group-004",
-    "unlockConditionId": "cd-manager_level_gte-98",
+    "unlockConditionId": "cd-manager_level_gte-88",
     "questIds": [
       "qt-main-1-031-01",
       "qt-main-1-031-02",
@@ -1775,7 +1805,7 @@
     "description": "マスター7",
     "order": 32,
     "areaGroupId": "area-main-group-004",
-    "unlockConditionId": "cd-manager_level_gte-99",
+    "unlockConditionId": "cd-manager_level_gte-90",
     "questIds": [
       "qt-main-1-032-01",
       "qt-main-1-032-02",
@@ -1802,7 +1832,7 @@
     "description": "マスター8",
     "order": 33,
     "areaGroupId": "area-main-group-004",
-    "unlockConditionId": "cd-manager_level_gte-100",
+    "unlockConditionId": "cd-manager_level_gte-92",
     "questIds": [
       "qt-main-1-033-01",
       "qt-main-1-033-02",
@@ -1829,7 +1859,7 @@
     "description": "マスター9",
     "order": 34,
     "areaGroupId": "area-main-group-004",
-    "unlockConditionId": "cd-manager_level_gte-101",
+    "unlockConditionId": "cd-manager_level_gte-94",
     "questIds": [
       "qt-main-1-034-01",
       "qt-main-1-034-02",
@@ -1856,7 +1886,7 @@
     "description": "マスター10",
     "order": 35,
     "areaGroupId": "area-main-group-004",
-    "unlockConditionId": "cd-manager_level_gte-102",
+    "unlockConditionId": "cd-manager_level_gte-96",
     "questIds": [
       "qt-main-1-035-01",
       "qt-main-1-035-02",
@@ -1883,7 +1913,7 @@
     "description": "マスター11",
     "order": 36,
     "areaGroupId": "area-main-group-004",
-    "unlockConditionId": "cd-manager_level_gte-103",
+    "unlockConditionId": "cd-manager_level_gte-98",
     "questIds": [
       "qt-main-1-036-01",
       "qt-main-1-036-02",
@@ -1910,7 +1940,7 @@
     "description": "マスター12",
     "order": 37,
     "areaGroupId": "area-main-group-004",
-    "unlockConditionId": "cd-manager_level_gte-104",
+    "unlockConditionId": "cd-manager_level_gte-100",
     "questIds": [
       "qt-main-1-037-01",
       "qt-main-1-037-02",
@@ -1937,7 +1967,7 @@
     "description": "マスター13",
     "order": 38,
     "areaGroupId": "area-main-group-004",
-    "unlockConditionId": "cd-manager_level_gte-106",
+    "unlockConditionId": "cd-manager_level_gte-102",
     "questIds": [
       "qt-main-1-038-01",
       "qt-main-1-038-02",
@@ -1964,7 +1994,7 @@
     "description": "マスター14",
     "order": 39,
     "areaGroupId": "area-main-group-004",
-    "unlockConditionId": "cd-manager_level_gte-108",
+    "unlockConditionId": "cd-manager_level_gte-104",
     "questIds": [
       "qt-main-1-039-01",
       "qt-main-1-039-02",
@@ -1991,7 +2021,7 @@
     "description": "マスター15",
     "order": 40,
     "areaGroupId": "area-main-group-004",
-    "unlockConditionId": "cd-manager_level_gte-110",
+    "unlockConditionId": "cd-manager_level_gte-106",
     "questIds": [
       "qt-main-1-040-01",
       "qt-main-1-040-02",
@@ -2018,7 +2048,7 @@
     "description": "マスター16",
     "order": 41,
     "areaGroupId": "area-main-group-004",
-    "unlockConditionId": "cd-manager_level_gte-112",
+    "unlockConditionId": "cd-manager_level_gte-108",
     "questIds": [
       "qt-main-1-041-01",
       "qt-main-1-041-02",
@@ -2045,7 +2075,7 @@
     "description": "マスター17",
     "order": 42,
     "areaGroupId": "area-main-group-004",
-    "unlockConditionId": "cd-manager_level_gte-114",
+    "unlockConditionId": "cd-manager_level_gte-110",
     "questIds": [
       "qt-main-1-042-01",
       "qt-main-1-042-02",
@@ -2072,7 +2102,7 @@
     "description": "マスター18",
     "order": 43,
     "areaGroupId": "area-main-group-004",
-    "unlockConditionId": "cd-manager_level_gte-115",
+    "unlockConditionId": "cd-manager_level_gte-112",
     "questIds": [
       "qt-main-1-043-01",
       "qt-main-1-043-02",
@@ -2099,7 +2129,7 @@
     "description": "マスター19",
     "order": 44,
     "areaGroupId": "area-main-group-004",
-    "unlockConditionId": "cd-manager_level_gte-117",
+    "unlockConditionId": "cd-manager_level_gte-114",
     "questIds": [
       "qt-main-1-044-01",
       "qt-main-1-044-02",
@@ -2126,7 +2156,7 @@
     "description": "マスター20",
     "order": 45,
     "areaGroupId": "area-main-group-004",
-    "unlockConditionId": "cd-manager_level_gte-118",
+    "unlockConditionId": "cd-manager_level_gte-116",
     "questIds": [
       "qt-main-1-045-01",
       "qt-main-1-045-02",
@@ -2153,7 +2183,7 @@
     "description": "マスター21",
     "order": 46,
     "areaGroupId": "area-main-group-004",
-    "unlockConditionId": "cd-manager_level_gte-120",
+    "unlockConditionId": "cd-manager_level_gte-118",
     "questIds": [
       "qt-main-1-046-01",
       "qt-main-1-046-02",
@@ -2180,7 +2210,7 @@
     "description": "マスター22",
     "order": 47,
     "areaGroupId": "area-main-group-004",
-    "unlockConditionId": "cd-manager_level_gte-121",
+    "unlockConditionId": "cd-manager_level_gte-120",
     "questIds": [
       "qt-main-1-047-01",
       "qt-main-1-047-02",
@@ -2207,7 +2237,7 @@
     "description": "マスター23",
     "order": 48,
     "areaGroupId": "area-main-group-004",
-    "unlockConditionId": "cd-manager_level_gte-123",
+    "unlockConditionId": "cd-manager_level_gte-122",
     "questIds": [
       "qt-main-1-048-01",
       "qt-main-1-048-02",
