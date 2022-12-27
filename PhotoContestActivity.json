@@ -297,5 +297,84 @@
     "viewConditionId": "",
     "unlockConditionId": "",
     "impossibleShootingCharacterIds": []
+  },
+  {
+    "id": "photo_activity-22-1227-cafe-00",
+    "name": "カフェ",
+    "type": 2,
+    "thumbAssetId": "cafe-00",
+    "stageId": "stage-photo-cafe-00",
+    "costumeTypeIds": [
+      "casl",
+      "gene",
+      "idol-miku"
+    ],
+    "forceCostumeTypeId": "casl",
+    "photoShootingMotionSetId": "cafe-00",
+    "isDeleteCharacter": true,
+    "order": 1,
+    "viewConditionId": "",
+    "unlockConditionId": "",
+    "impossibleShootingCharacterIds": []
+  },
+  {
+    "id": "photo_activity-22-1227-event_stage-00",
+    "name": "イベントステージ",
+    "type": 1,
+    "thumbAssetId": "event_stage-00",
+    "stageId": "stage-photo-ministage-00",
+    "costumeTypeIds": [
+      "idol",
+      "casl",
+      "gene",
+      "idol-miku"
+    ],
+    "forceCostumeTypeId": "idol",
+    "photoShootingMotionSetId": "ministage-00",
+    "isDeleteCharacter": true,
+    "order": 2,
+    "viewConditionId": "",
+    "unlockConditionId": "",
+    "impossibleShootingCharacterIds": []
+  },
+  {
+    "id": "photo_activity-22-1227-hot_spring-00",
+    "name": "温泉",
+    "type": 2,
+    "thumbAssetId": "hot_spring-00",
+    "stageId": "stage-photo-spa-00",
+    "costumeTypeIds": [
+      "mizg"
+    ],
+    "forceCostumeTypeId": "mizg",
+    "photoShootingMotionSetId": "spa-00",
+    "isDeleteCharacter": true,
+    "order": 3,
+    "impossibleShootingCharacterIds": [
+      "char-mku"
+    ],
+    "viewConditionId": "",
+    "unlockConditionId": ""
+  },
+  {
+    "id": "photo_activity-22-1227-shopping-00",
+    "name": "ショッピング",
+    "type": 2,
+    "thumbAssetId": "shopping-00",
+    "stageId": "stage-photo-catstreet-00",
+    "costumeTypeIds": [
+      "casl",
+      "schl",
+      "gene",
+      "trng",
+      "idol-miku"
+    ],
+    "forceCostumeTypeId": "casl",
+    "photoShootingMotionSetId": "catstreet-00",
+    "isDeleteCharacter": true,
+    "order": 4,
+    "viewConditionId": "",
+    "unlockConditionId": "",
+    "impossibleShootingCharacterIds": []
   }
 ]

@@ -4518,6 +4518,17 @@
     ]
   },
   {
+    "id": "cd-birthday_emblem_hrk-23-0103",
+    "settings": [
+      {
+        "term": {
+          "nowAfter": "1672671600000",
+          "nowBefore": "1672758599000"
+        }
+      }
+    ]
+  },
+  {
     "id": "cd-birthday_emblem_kkr-22-1206",
     "settings": [
       {
@@ -7101,6 +7112,20 @@
     ]
   },
   {
+    "id": "cd-clear-area-main-016-shop",
+    "settings": [
+      {
+        "satisfyCondition": {
+          "conditionId": "cd-clear-area-main-016"
+        },
+        "term": {
+          "nowAfter": "1672498800000",
+          "nowBefore": "0"
+        }
+      }
+    ]
+  },
+  {
     "id": "cd-clear-area-main-017",
     "settings": [
       {
@@ -7766,6 +7791,20 @@
       {
         "clearArea": {
           "areaId": "area-main-083"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-clear-area-main-083-shop",
+    "settings": [
+      {
+        "satisfyCondition": {
+          "conditionId": "cd-clear-area-main-083"
+        },
+        "term": {
+          "nowAfter": "1672498800000",
+          "nowBefore": "0"
         }
       }
     ]
@@ -9447,6 +9486,98 @@
     ]
   },
   {
+    "id": "cd-contest-22-1227",
+    "settings": [
+      {
+        "satisfyCondition": {
+          "conditionId": "cd-clear-area-main-004"
+        },
+        "term": {
+          "nowAfter": "1672131600000",
+          "nowBefore": "1673319599000"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-contest-22-1227-banner-1",
+    "settings": [
+      {
+        "satisfyCondition": {
+          "conditionId": "cd-clear-area-main-004"
+        },
+        "term": {
+          "nowAfter": "1672131600000",
+          "nowBefore": "1672239599000"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-contest-22-1227-banner-2",
+    "settings": [
+      {
+        "satisfyCondition": {
+          "conditionId": "cd-clear-area-main-004"
+        },
+        "term": {
+          "nowAfter": "1672714800000",
+          "nowBefore": "1672844399000"
+        }
+      },
+      {
+        "satisfyCondition": {
+          "conditionId": "cd-clear-area-main-004"
+        },
+        "term": {
+          "nowAfter": "1673190000000",
+          "nowBefore": "1673319599000"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-contest-22-1227-exchange",
+    "settings": [
+      {
+        "term": {
+          "nowAfter": "1672131600000",
+          "nowBefore": "1673881199000"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-contest-22-1227-total_submit_count_gte-",
+    "settings": [
+      {}
+    ]
+  },
+  {
+    "id": "cd-contest-22-1227-total_submit_count_gte-10",
+    "settings": [
+      {}
+    ]
+  },
+  {
+    "id": "cd-contest-22-1227-total_submit_count_gte-20",
+    "settings": [
+      {}
+    ]
+  },
+  {
+    "id": "cd-contest-22-1227-total_submit_count_gte-3",
+    "settings": [
+      {}
+    ]
+  },
+  {
+    "id": "cd-contest-22-1227-total_submit_count_gte-35",
+    "settings": [
+      {}
+    ]
+  },
+  {
     "id": "cd-cos-chs-idol-01",
     "settings": [
       {
@@ -10248,6 +10379,17 @@
         "term": {
           "nowAfter": "1640962800000",
           "nowBefore": "1642647599000"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-day-newyear-01-23-0101",
+    "settings": [
+      {
+        "term": {
+          "nowAfter": "1672498800000",
+          "nowBefore": "1674183599000"
         }
       }
     ]
@@ -11089,6 +11231,17 @@
     ]
   },
   {
+    "id": "cd-dokan-campaign-23-0103",
+    "settings": [
+      {
+        "term": {
+          "nowAfter": "1672498800000",
+          "nowBefore": "1672844399000"
+        }
+      }
+    ]
+  },
+  {
     "id": "cd-dokan-campaign-aniv-1st-22-0624",
     "settings": [
       {
@@ -11248,6 +11401,54 @@
         },
         "term": {
           "nowAfter": "1671073200000",
+          "nowBefore": "0"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-dokan-shop_reprint_login-23-0101",
+    "settings": [
+      {
+        "notSatisfyCondition": {
+          "conditionId": "cd-dokan-shop_reprint_login-23-0101-02"
+        },
+        "term": {
+          "nowAfter": "1672498800000",
+          "nowBefore": "1674183599000"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-dokan-shop_reprint_login-23-0101-01",
+    "settings": [
+      {
+        "satisfyCondition": {
+          "conditionId": "cd-possession-cos-chs-newy-00"
+        },
+        "notSatisfyCondition": {
+          "conditionId": "cd-possession-cos-szk-newy-00-not"
+        },
+        "term": {
+          "nowAfter": "1672498800000",
+          "nowBefore": "0"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-dokan-shop_reprint_login-23-0101-02",
+    "settings": [
+      {
+        "satisfyCondition": {
+          "conditionId": "cd-dokan-shop_reprint_login-23-0101-01"
+        },
+        "notSatisfyCondition": {
+          "conditionId": "cd-possession-cos-hrk-newy-00-not"
+        },
+        "term": {
+          "nowAfter": "1672498800000",
           "nowBefore": "0"
         }
       }
@@ -14915,6 +15116,16 @@
     ]
   },
   {
+    "id": "cd-event-story-read-001-contest-22-1227",
+    "settings": [
+      {
+        "satisfyCondition": {
+          "conditionId": "cd-clear-area-main-004"
+        }
+      }
+    ]
+  },
+  {
     "id": "cd-event_beginner-mission-22-1224_not-recieved",
     "settings": [
       {
@@ -15841,6 +16052,17 @@
       {
         "term": {
           "nowAfter": "1669258800000",
+          "nowBefore": "0"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-exchange-photo-medal-22-1231",
+    "settings": [
+      {
+        "term": {
+          "nowAfter": "1672455600000",
           "nowBefore": "0"
         }
       }
@@ -22136,6 +22358,21 @@
     ]
   },
   {
+    "id": "cd-manager_level_gte-100-shopclose",
+    "settings": [
+      {
+        "managerLevel": {
+          "levelGte": 100,
+          "levelLte": 0
+        },
+        "term": {
+          "nowBefore": "1672498799000",
+          "nowAfter": "0"
+        }
+      }
+    ]
+  },
+  {
     "id": "cd-manager_level_gte-101",
     "settings": [
       {
@@ -24100,6 +24337,21 @@
     ]
   },
   {
+    "id": "cd-manager_level_gte-20-shopclose",
+    "settings": [
+      {
+        "managerLevel": {
+          "levelGte": 20,
+          "levelLte": 0
+        },
+        "term": {
+          "nowBefore": "1672498799000",
+          "nowAfter": "0"
+        }
+      }
+    ]
+  },
+  {
     "id": "cd-manager_level_gte-200",
     "settings": [
       {
@@ -25037,6 +25289,21 @@
     ]
   },
   {
+    "id": "cd-manager_level_gte-40-shopclose",
+    "settings": [
+      {
+        "managerLevel": {
+          "levelGte": 40,
+          "levelLte": 0
+        },
+        "term": {
+          "nowBefore": "1672498799000",
+          "nowAfter": "0"
+        }
+      }
+    ]
+  },
+  {
     "id": "cd-manager_level_gte-41",
     "settings": [
       {
@@ -25487,6 +25754,21 @@
         "term": {
           "nowAfter": "1648998000000",
           "nowBefore": "0"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-manager_level_gte-60-shopclose",
+    "settings": [
+      {
+        "managerLevel": {
+          "levelGte": 60,
+          "levelLte": 0
+        },
+        "term": {
+          "nowBefore": "1672498799000",
+          "nowAfter": "0"
         }
       }
     ]
@@ -25975,6 +26257,21 @@
         "managerLevel": {
           "levelLte": 99,
           "levelGte": 80
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-manager_level_gte-80-shopclose",
+    "settings": [
+      {
+        "managerLevel": {
+          "levelGte": 80,
+          "levelLte": 0
+        },
+        "term": {
+          "nowBefore": "1672498799000",
+          "nowAfter": "0"
         }
       }
     ]
@@ -34732,6 +35029,16 @@
     ]
   },
   {
+    "id": "cd-ms-read-message-card-aoi-05-fest-00",
+    "settings": [
+      {
+        "finishedMessage": {
+          "messageId": "message-card-aoi-05-fest-00"
+        }
+      }
+    ]
+  },
+  {
     "id": "cd-ms-read-message-card-aoi-05-idol-00",
     "settings": [
       {
@@ -35167,6 +35474,16 @@
       {
         "finishedMessage": {
           "messageId": "message-card-ngs-05-xmas-00"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-ms-read-message-card-rei-05-fest-00",
+    "settings": [
+      {
+        "finishedMessage": {
+          "messageId": "message-card-rei-05-fest-00"
         }
       }
     ]
@@ -36404,6 +36721,28 @@
     ]
   },
   {
+    "id": "cd-photo_section-exchange-add-idol-22-1127",
+    "settings": [
+      {
+        "term": {
+          "nowAfter": "2524575600000",
+          "nowBefore": "0"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-photo_section-exchange-add-idol-view-22-1127",
+    "settings": [
+      {
+        "term": {
+          "nowAfter": "1672131600000",
+          "nowBefore": "1672714799000"
+        }
+      }
+    ]
+  },
+  {
     "id": "cd-photo_section-open-22-0103",
     "settings": [
       {
@@ -36530,6 +36869,45 @@
       {
         "term": {
           "nowAfter": "1662346800000",
+          "nowBefore": "0"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-photo_section-open-22-1227-0103",
+    "settings": [
+      {
+        "satisfyCondition": {
+          "conditionId": "cd-clear-area-main-004"
+        },
+        "term": {
+          "nowAfter": "1672131600000",
+          "nowBefore": "1672714799000"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-photo_section-open-23-0103-0110",
+    "settings": [
+      {
+        "satisfyCondition": {
+          "conditionId": "cd-clear-area-main-004"
+        },
+        "term": {
+          "nowAfter": "1672714800000",
+          "nowBefore": "1673319599000"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-photo_section-open-23-0103-only",
+    "settings": [
+      {
+        "term": {
+          "nowAfter": "1672714800000",
           "nowBefore": "0"
         }
       }
@@ -36792,15 +37170,71 @@
     ]
   },
   {
+    "id": "cd-possession-card-ai-05-idol-00-not-rarity-max",
+    "settings": [
+      {
+        "satisfyCondition": {
+          "conditionId": "cd-card-ai-05-idol-00"
+        },
+        "cardRarity": {
+          "cardId": "card-ai-05-idol-00",
+          "rarityLte": 9,
+          "rarityGte": 0
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-possession-card-ai-05-tact-00-not-rarity-max",
+    "settings": [
+      {
+        "satisfyCondition": {
+          "conditionId": "cd-card-ai-05-tact-00"
+        },
+        "cardRarity": {
+          "cardId": "card-ai-05-tact-00",
+          "rarityLte": 9,
+          "rarityGte": 0
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-possession-card-aoi-05-idol-00-not-rarity-max",
+    "settings": [
+      {
+        "satisfyCondition": {
+          "conditionId": "cd-card-aoi-05-idol-00"
+        },
+        "cardRarity": {
+          "cardId": "card-aoi-05-idol-00",
+          "rarityLte": 9,
+          "rarityGte": 0
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-possession-card-aoi-05-vlnt-00-not-rarity-max",
+    "settings": [
+      {
+        "satisfyCondition": {
+          "conditionId": "cd-card-aoi-05-vlnt-00"
+        },
+        "cardRarity": {
+          "cardId": "card-aoi-05-vlnt-00",
+          "rarityLte": 9,
+          "rarityGte": 0
+        }
+      }
+    ]
+  },
+  {
     "id": "cd-possession-card-chs-02-eve-01",
     "settings": [
       {
         "obtainCard": {
           "cardId": "card-chs-02-eve-01"
-        },
-        "term": {
-          "nowAfter": "1671850800000",
-          "nowBefore": "0"
         }
       }
     ]
@@ -36811,10 +37245,6 @@
       {
         "notSatisfyCondition": {
           "conditionId": "cd-possession-card-chs-02-eve-01"
-        },
-        "term": {
-          "nowAfter": "1671850800000",
-          "nowBefore": "0"
         }
       }
     ]
@@ -36835,15 +37265,41 @@
     ]
   },
   {
+    "id": "cd-possession-card-chs-05-idol-00-not-rarity-max",
+    "settings": [
+      {
+        "satisfyCondition": {
+          "conditionId": "cd-card-chs-05-idol-00"
+        },
+        "cardRarity": {
+          "cardId": "card-chs-05-idol-00",
+          "rarityLte": 9,
+          "rarityGte": 0
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-possession-card-chs-05-rock-00-not-rarity-max",
+    "settings": [
+      {
+        "satisfyCondition": {
+          "conditionId": "cd-card-chs-05-rock-00"
+        },
+        "cardRarity": {
+          "cardId": "card-chs-05-rock-00",
+          "rarityLte": 9,
+          "rarityGte": 0
+        }
+      }
+    ]
+  },
+  {
     "id": "cd-possession-card-hrk-02-eve-01",
     "settings": [
       {
         "obtainCard": {
           "cardId": "card-hrk-02-eve-01"
-        },
-        "term": {
-          "nowAfter": "1664334000000",
-          "nowBefore": "0"
         }
       }
     ]
@@ -36854,10 +37310,21 @@
       {
         "notSatisfyCondition": {
           "conditionId": "cd-possession-card-hrk-02-eve-01"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-possession-card-hrk-02-eve-01-not-rarity-max",
+    "settings": [
+      {
+        "satisfyCondition": {
+          "conditionId": "cd-possession-card-hrk-02-eve-01"
         },
-        "term": {
-          "nowAfter": "1664334000000",
-          "nowBefore": "0"
+        "cardRarity": {
+          "cardId": "card-hrk-02-eve-01",
+          "rarityLte": 9,
+          "rarityGte": 0
         }
       }
     ]
@@ -36878,15 +37345,56 @@
     ]
   },
   {
+    "id": "cd-possession-card-hrk-05-chna-00-not-rarity-max",
+    "settings": [
+      {
+        "satisfyCondition": {
+          "conditionId": "cd-card-hrk-05-chna-00"
+        },
+        "cardRarity": {
+          "cardId": "card-hrk-05-chna-00",
+          "rarityLte": 9,
+          "rarityGte": 0
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-possession-card-hrk-05-idol-00-not-rarity-max",
+    "settings": [
+      {
+        "satisfyCondition": {
+          "conditionId": "cd-card-hrk-05-idol-00"
+        },
+        "cardRarity": {
+          "cardId": "card-hrk-05-idol-00",
+          "rarityLte": 9,
+          "rarityGte": 0
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-possession-card-kkr-05-idol-00-not-rarity-max",
+    "settings": [
+      {
+        "satisfyCondition": {
+          "conditionId": "cd-card-kkr-05-idol-00"
+        },
+        "cardRarity": {
+          "cardId": "card-kkr-05-idol-00",
+          "rarityLte": 9,
+          "rarityGte": 0
+        }
+      }
+    ]
+  },
+  {
     "id": "cd-possession-card-ktn-02-eve-01",
     "settings": [
       {
         "obtainCard": {
           "cardId": "card-ktn-02-eve-01"
-        },
-        "term": {
-          "nowAfter": "1671850800000",
-          "nowBefore": "0"
         }
       }
     ]
@@ -36897,10 +37405,6 @@
       {
         "notSatisfyCondition": {
           "conditionId": "cd-possession-card-ktn-02-eve-01"
-        },
-        "term": {
-          "nowAfter": "1671850800000",
-          "nowBefore": "0"
         }
       }
     ]
@@ -36921,15 +37425,71 @@
     ]
   },
   {
+    "id": "cd-possession-card-ktn-05-add-00-not-rarity-max",
+    "settings": [
+      {
+        "satisfyCondition": {
+          "conditionId": "cd-card-ktn-05-add-00"
+        },
+        "cardRarity": {
+          "cardId": "card-ktn-05-add-00",
+          "rarityLte": 9,
+          "rarityGte": 0
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-possession-card-ktn-05-idol-00-not-rarity-max",
+    "settings": [
+      {
+        "satisfyCondition": {
+          "conditionId": "cd-card-ktn-05-idol-00"
+        },
+        "cardRarity": {
+          "cardId": "card-ktn-05-idol-00",
+          "rarityLte": 9,
+          "rarityGte": 0
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-possession-card-mei-05-idol-00-not-rarity-max",
+    "settings": [
+      {
+        "satisfyCondition": {
+          "conditionId": "cd-card-mei-05-idol-00"
+        },
+        "cardRarity": {
+          "cardId": "card-mei-05-idol-00",
+          "rarityLte": 9,
+          "rarityGte": 0
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-possession-card-mna-05-prem-00-not-rarity-max",
+    "settings": [
+      {
+        "satisfyCondition": {
+          "conditionId": "cd-card-mna-05-prem-00"
+        },
+        "cardRarity": {
+          "cardId": "card-mna-05-prem-00",
+          "rarityLte": 9,
+          "rarityGte": 0
+        }
+      }
+    ]
+  },
+  {
     "id": "cd-possession-card-ngs-02-eve-01",
     "settings": [
       {
         "obtainCard": {
           "cardId": "card-ngs-02-eve-01"
-        },
-        "term": {
-          "nowAfter": "1671850800000",
-          "nowBefore": "0"
         }
       }
     ]
@@ -36940,10 +37500,6 @@
       {
         "notSatisfyCondition": {
           "conditionId": "cd-possession-card-ngs-02-eve-01"
-        },
-        "term": {
-          "nowAfter": "1671850800000",
-          "nowBefore": "0"
         }
       }
     ]
@@ -36964,15 +37520,56 @@
     ]
   },
   {
+    "id": "cd-possession-card-ngs-05-flow-00-not-rarity-max",
+    "settings": [
+      {
+        "satisfyCondition": {
+          "conditionId": "cd-card-ngs-05-flow-00"
+        },
+        "cardRarity": {
+          "cardId": "card-ngs-05-flow-00",
+          "rarityLte": 9,
+          "rarityGte": 0
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-possession-card-ngs-05-idol-00-not-rarity-max",
+    "settings": [
+      {
+        "satisfyCondition": {
+          "conditionId": "cd-card-ngs-05-idol-00"
+        },
+        "cardRarity": {
+          "cardId": "card-ngs-05-idol-00",
+          "rarityLte": 9,
+          "rarityGte": 0
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-possession-card-ngs-05-mizg-01-not-rarity-max",
+    "settings": [
+      {
+        "satisfyCondition": {
+          "conditionId": "cd-card-ngs-05-mizg-01"
+        },
+        "cardRarity": {
+          "cardId": "card-ngs-05-mizg-01",
+          "rarityLte": 9,
+          "rarityGte": 0
+        }
+      }
+    ]
+  },
+  {
     "id": "cd-possession-card-rei-02-eve-01",
     "settings": [
       {
         "obtainCard": {
           "cardId": "card-rei-02-eve-01"
-        },
-        "term": {
-          "nowAfter": "1664334000000",
-          "nowBefore": "0"
         }
       }
     ]
@@ -36983,10 +37580,21 @@
       {
         "notSatisfyCondition": {
           "conditionId": "cd-possession-card-rei-02-eve-01"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-possession-card-rei-02-eve-01-not-rarity-max",
+    "settings": [
+      {
+        "satisfyCondition": {
+          "conditionId": "cd-possession-card-rei-02-eve-01"
         },
-        "term": {
-          "nowAfter": "1664334000000",
-          "nowBefore": "0"
+        "cardRarity": {
+          "cardId": "card-rei-02-eve-01",
+          "rarityLte": 9,
+          "rarityGte": 0
         }
       }
     ]
@@ -37007,15 +37615,56 @@
     ]
   },
   {
+    "id": "cd-possession-card-rei-05-idol-00-not-rarity-max",
+    "settings": [
+      {
+        "satisfyCondition": {
+          "conditionId": "cd-card-rei-05-idol-00"
+        },
+        "cardRarity": {
+          "cardId": "card-rei-05-idol-00",
+          "rarityLte": 9,
+          "rarityGte": 0
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-possession-card-rei-05-onep-00-not-rarity-max",
+    "settings": [
+      {
+        "satisfyCondition": {
+          "conditionId": "cd-card-rei-05-onep-00"
+        },
+        "cardRarity": {
+          "cardId": "card-rei-05-onep-00",
+          "rarityLte": 9,
+          "rarityGte": 0
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-possession-card-rei-05-rock-00-not-rarity-max",
+    "settings": [
+      {
+        "satisfyCondition": {
+          "conditionId": "cd-card-rei-05-rock-00"
+        },
+        "cardRarity": {
+          "cardId": "card-rei-05-rock-00",
+          "rarityLte": 9,
+          "rarityGte": 0
+        }
+      }
+    ]
+  },
+  {
     "id": "cd-possession-card-rio-02-eve-01",
     "settings": [
       {
         "obtainCard": {
           "cardId": "card-rio-02-eve-01"
-        },
-        "term": {
-          "nowAfter": "1664334000000",
-          "nowBefore": "0"
         }
       }
     ]
@@ -37026,10 +37675,21 @@
       {
         "notSatisfyCondition": {
           "conditionId": "cd-possession-card-rio-02-eve-01"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-possession-card-rio-02-eve-01-not-rarity-max",
+    "settings": [
+      {
+        "satisfyCondition": {
+          "conditionId": "cd-possession-card-rio-02-eve-01"
         },
-        "term": {
-          "nowAfter": "1664334000000",
-          "nowBefore": "0"
+        "cardRarity": {
+          "cardId": "card-rio-02-eve-01",
+          "rarityLte": 9,
+          "rarityGte": 0
         }
       }
     ]
@@ -37055,10 +37715,6 @@
       {
         "obtainCard": {
           "cardId": "card-rio-02-eve-02"
-        },
-        "term": {
-          "nowAfter": "1671850800000",
-          "nowBefore": "0"
         }
       }
     ]
@@ -37069,10 +37725,6 @@
       {
         "notSatisfyCondition": {
           "conditionId": "cd-possession-card-rio-02-eve-02"
-        },
-        "term": {
-          "nowAfter": "1671850800000",
-          "nowBefore": "0"
         }
       }
     ]
@@ -37093,15 +37745,41 @@
     ]
   },
   {
+    "id": "cd-possession-card-rio-05-halw-00-not-rarity-max",
+    "settings": [
+      {
+        "satisfyCondition": {
+          "conditionId": "cd-card-rio-05-halw-00"
+        },
+        "cardRarity": {
+          "cardId": "card-rio-05-halw-00",
+          "rarityLte": 9,
+          "rarityGte": 0
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-possession-card-rio-05-idol-00-not-rarity-max",
+    "settings": [
+      {
+        "satisfyCondition": {
+          "conditionId": "cd-card-rio-05-idol-00"
+        },
+        "cardRarity": {
+          "cardId": "card-rio-05-idol-00",
+          "rarityLte": 9,
+          "rarityGte": 0
+        }
+      }
+    ]
+  },
+  {
     "id": "cd-possession-card-rui-02-eve-01",
     "settings": [
       {
         "obtainCard": {
           "cardId": "card-rui-02-eve-01"
-        },
-        "term": {
-          "nowAfter": "1671850800000",
-          "nowBefore": "0"
         }
       }
     ]
@@ -37112,10 +37790,6 @@
       {
         "notSatisfyCondition": {
           "conditionId": "cd-possession-card-rui-02-eve-01"
-        },
-        "term": {
-          "nowAfter": "1671850800000",
-          "nowBefore": "0"
         }
       }
     ]
@@ -37136,15 +37810,56 @@
     ]
   },
   {
+    "id": "cd-possession-card-rui-05-date-00-not-rarity-max",
+    "settings": [
+      {
+        "satisfyCondition": {
+          "conditionId": "cd-card-rui-05-date-00"
+        },
+        "cardRarity": {
+          "cardId": "card-rui-05-date-00",
+          "rarityLte": 9,
+          "rarityGte": 0
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-possession-card-rui-05-idol-00-not-rarity-max",
+    "settings": [
+      {
+        "satisfyCondition": {
+          "conditionId": "cd-card-rui-05-idol-00"
+        },
+        "cardRarity": {
+          "cardId": "card-rui-05-idol-00",
+          "rarityLte": 9,
+          "rarityGte": 0
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-possession-card-rui-05-mizg-01-not-rarity-max",
+    "settings": [
+      {
+        "satisfyCondition": {
+          "conditionId": "cd-card-rui-05-mizg-01"
+        },
+        "cardRarity": {
+          "cardId": "card-rui-05-mizg-01",
+          "rarityLte": 9,
+          "rarityGte": 0
+        }
+      }
+    ]
+  },
+  {
     "id": "cd-possession-card-ski-02-mizg-01",
     "settings": [
       {
         "obtainCard": {
           "cardId": "card-ski-02-mizg-01"
-        },
-        "term": {
-          "nowAfter": "1664334000000",
-          "nowBefore": "0"
         }
       }
     ]
@@ -37155,10 +37870,21 @@
       {
         "notSatisfyCondition": {
           "conditionId": "cd-possession-card-ski-02-mizg-01"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-possession-card-ski-02-mizg-01-not-rarity-max",
+    "settings": [
+      {
+        "satisfyCondition": {
+          "conditionId": "cd-possession-card-ski-02-mizg-01"
         },
-        "term": {
-          "nowAfter": "1664334000000",
-          "nowBefore": "0"
+        "cardRarity": {
+          "cardId": "card-ski-02-mizg-01",
+          "rarityLte": 9,
+          "rarityGte": 0
         }
       }
     ]
@@ -37179,15 +37905,116 @@
     ]
   },
   {
+    "id": "cd-possession-card-ski-05-idol-00-not-rarity-max",
+    "settings": [
+      {
+        "satisfyCondition": {
+          "conditionId": "cd-card-ski-05-idol-00"
+        },
+        "cardRarity": {
+          "cardId": "card-ski-05-idol-00",
+          "rarityLte": 9,
+          "rarityGte": 0
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-possession-card-ski-05-kifj-00-not-rarity-max",
+    "settings": [
+      {
+        "satisfyCondition": {
+          "conditionId": "cd-card-ski-05-kifj-00"
+        },
+        "cardRarity": {
+          "cardId": "card-ski-05-kifj-00",
+          "rarityLte": 9,
+          "rarityGte": 0
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-possession-card-ski-05-waso-00-not-rarity-max",
+    "settings": [
+      {
+        "satisfyCondition": {
+          "conditionId": "cd-card-ski-05-waso-00"
+        },
+        "cardRarity": {
+          "cardId": "card-ski-05-waso-00",
+          "rarityLte": 9,
+          "rarityGte": 0
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-possession-card-skr-05-idol-00-not-rarity-max",
+    "settings": [
+      {
+        "satisfyCondition": {
+          "conditionId": "cd-card-skr-05-idol-00"
+        },
+        "cardRarity": {
+          "cardId": "card-skr-05-idol-00",
+          "rarityLte": 9,
+          "rarityGte": 0
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-possession-card-smr-05-frut-00-not-rarity-max",
+    "settings": [
+      {
+        "satisfyCondition": {
+          "conditionId": "cd-card-smr-05-frut-00"
+        },
+        "cardRarity": {
+          "cardId": "card-smr-05-frut-00",
+          "rarityLte": 9,
+          "rarityGte": 0
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-possession-card-smr-05-idol-00-not-rarity-max",
+    "settings": [
+      {
+        "satisfyCondition": {
+          "conditionId": "cd-card-smr-05-idol-00"
+        },
+        "cardRarity": {
+          "cardId": "card-smr-05-idol-00",
+          "rarityLte": 9,
+          "rarityGte": 0
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-possession-card-smr-05-mizg-01-not-rarity-max",
+    "settings": [
+      {
+        "satisfyCondition": {
+          "conditionId": "cd-card-smr-05-mizg-01"
+        },
+        "cardRarity": {
+          "cardId": "card-smr-05-mizg-01",
+          "rarityLte": 9,
+          "rarityGte": 0
+        }
+      }
+    ]
+  },
+  {
     "id": "cd-possession-card-suz-02-eve-01",
     "settings": [
       {
         "obtainCard": {
           "cardId": "card-suz-02-eve-01"
-        },
-        "term": {
-          "nowAfter": "1664334000000",
-          "nowBefore": "0"
         }
       }
     ]
@@ -37198,10 +38025,21 @@
       {
         "notSatisfyCondition": {
           "conditionId": "cd-possession-card-suz-02-eve-01"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-possession-card-suz-02-eve-01-not-rarity-max",
+    "settings": [
+      {
+        "satisfyCondition": {
+          "conditionId": "cd-possession-card-suz-02-eve-01"
         },
-        "term": {
-          "nowAfter": "1664334000000",
-          "nowBefore": "0"
+        "cardRarity": {
+          "cardId": "card-suz-02-eve-01",
+          "rarityLte": 9,
+          "rarityGte": 0
         }
       }
     ]
@@ -37222,15 +38060,41 @@
     ]
   },
   {
+    "id": "cd-possession-card-suz-05-idol-00-not-rarity-max",
+    "settings": [
+      {
+        "satisfyCondition": {
+          "conditionId": "cd-card-suz-05-idol-00"
+        },
+        "cardRarity": {
+          "cardId": "card-suz-05-idol-00",
+          "rarityLte": 9,
+          "rarityGte": 0
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-possession-card-suz-05-mizg-01-not-rarity-max",
+    "settings": [
+      {
+        "satisfyCondition": {
+          "conditionId": "cd-card-suz-05-mizg-01"
+        },
+        "cardRarity": {
+          "cardId": "card-suz-05-mizg-01",
+          "rarityLte": 9,
+          "rarityGte": 0
+        }
+      }
+    ]
+  },
+  {
     "id": "cd-possession-card-szk-02-mizg-01",
     "settings": [
       {
         "obtainCard": {
           "cardId": "card-szk-02-mizg-01"
-        },
-        "term": {
-          "nowAfter": "1664334000000",
-          "nowBefore": "0"
         }
       }
     ]
@@ -37241,10 +38105,21 @@
       {
         "notSatisfyCondition": {
           "conditionId": "cd-possession-card-szk-02-mizg-01"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-possession-card-szk-02-mizg-01-not-rarity-max",
+    "settings": [
+      {
+        "satisfyCondition": {
+          "conditionId": "cd-possession-card-szk-02-mizg-01"
         },
-        "term": {
-          "nowAfter": "1664334000000",
-          "nowBefore": "0"
+        "cardRarity": {
+          "cardId": "card-szk-02-mizg-01",
+          "rarityLte": 9,
+          "rarityGte": 0
         }
       }
     ]
@@ -37258,6 +38133,51 @@
         },
         "cardRarity": {
           "cardId": "card-szk-02-mizg-01",
+          "rarityLte": 9,
+          "rarityGte": 0
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-possession-card-szk-05-chna-00-not-rarity-max",
+    "settings": [
+      {
+        "satisfyCondition": {
+          "conditionId": "cd-card-szk-05-chna-00"
+        },
+        "cardRarity": {
+          "cardId": "card-szk-05-chna-00",
+          "rarityLte": 9,
+          "rarityGte": 0
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-possession-card-szk-05-idol-00-not-rarity-max",
+    "settings": [
+      {
+        "satisfyCondition": {
+          "conditionId": "cd-card-szk-05-idol-00"
+        },
+        "cardRarity": {
+          "cardId": "card-szk-05-idol-00",
+          "rarityLte": 9,
+          "rarityGte": 0
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-possession-card-yu-05-idol-00-not-rarity-max",
+    "settings": [
+      {
+        "satisfyCondition": {
+          "conditionId": "cd-card-yu-05-idol-00"
+        },
+        "cardRarity": {
+          "cardId": "card-yu-05-idol-00",
           "rarityLte": 9,
           "rarityGte": 0
         }
@@ -37298,10 +38218,6 @@
       {
         "obtainCostume": {
           "costumeId": "cos-chs-mizg-01"
-        },
-        "term": {
-          "nowAfter": "1671850800000",
-          "nowBefore": "0"
         }
       }
     ]
@@ -37312,9 +38228,61 @@
       {
         "notSatisfyCondition": {
           "conditionId": "cd-possession-cos-chs-mizg-01"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-possession-cos-chs-newy-00",
+    "settings": [
+      {
+        "obtainCostume": {
+          "costumeId": "cos-chs-newy-00"
         },
         "term": {
-          "nowAfter": "1671850800000",
+          "nowAfter": "1672498800000",
+          "nowBefore": "0"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-possession-cos-chs-newy-00-not",
+    "settings": [
+      {
+        "notSatisfyCondition": {
+          "conditionId": "cd-possession-cos-chs-newy-00"
+        },
+        "term": {
+          "nowAfter": "1672498800000",
+          "nowBefore": "0"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-possession-cos-hrk-newy-00",
+    "settings": [
+      {
+        "obtainCostume": {
+          "costumeId": "cos-hrk-newy-00"
+        },
+        "term": {
+          "nowAfter": "1672498800000",
+          "nowBefore": "0"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-possession-cos-hrk-newy-00-not",
+    "settings": [
+      {
+        "notSatisfyCondition": {
+          "conditionId": "cd-possession-cos-hrk-newy-00"
+        },
+        "term": {
+          "nowAfter": "1672498800000",
           "nowBefore": "0"
         }
       }
@@ -37364,10 +38332,6 @@
       {
         "obtainCostume": {
           "costumeId": "cos-rei-mizg-01"
-        },
-        "term": {
-          "nowAfter": "1671850800000",
-          "nowBefore": "0"
         }
       }
     ]
@@ -37378,10 +38342,6 @@
       {
         "notSatisfyCondition": {
           "conditionId": "cd-possession-cos-rei-mizg-01"
-        },
-        "term": {
-          "nowAfter": "1671850800000",
-          "nowBefore": "0"
         }
       }
     ]
@@ -37392,10 +38352,6 @@
       {
         "obtainCostume": {
           "costumeId": "cos-rio-vlnt-00"
-        },
-        "term": {
-          "nowAfter": "1671850800000",
-          "nowBefore": "0"
         }
       }
     ]
@@ -37406,10 +38362,6 @@
       {
         "notSatisfyCondition": {
           "conditionId": "cd-possession-cos-rio-vlnt-00"
-        },
-        "term": {
-          "nowAfter": "1671850800000",
-          "nowBefore": "0"
         }
       }
     ]
@@ -37448,10 +38400,6 @@
       {
         "obtainCostume": {
           "costumeId": "cos-ski-mizg-01"
-        },
-        "term": {
-          "nowAfter": "1671850800000",
-          "nowBefore": "0"
         }
       }
     ]
@@ -37462,10 +38410,6 @@
       {
         "notSatisfyCondition": {
           "conditionId": "cd-possession-cos-ski-mizg-01"
-        },
-        "term": {
-          "nowAfter": "1671850800000",
-          "nowBefore": "0"
         }
       }
     ]
@@ -37476,10 +38420,6 @@
       {
         "obtainCostume": {
           "costumeId": "cos-skr-mizg-01"
-        },
-        "term": {
-          "nowAfter": "1671850800000",
-          "nowBefore": "0"
         }
       }
     ]
@@ -37490,10 +38430,6 @@
       {
         "notSatisfyCondition": {
           "conditionId": "cd-possession-cos-skr-mizg-01"
-        },
-        "term": {
-          "nowAfter": "1671850800000",
-          "nowBefore": "0"
         }
       }
     ]
@@ -37532,10 +38468,6 @@
       {
         "obtainCostume": {
           "costumeId": "cos-szk-mizg-01"
-        },
-        "term": {
-          "nowAfter": "1671850800000",
-          "nowBefore": "0"
         }
       }
     ]
@@ -37546,9 +38478,33 @@
       {
         "notSatisfyCondition": {
           "conditionId": "cd-possession-cos-szk-mizg-01"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-possession-cos-szk-newy-00",
+    "settings": [
+      {
+        "obtainCostume": {
+          "costumeId": "cos-szk-newy-00"
         },
         "term": {
-          "nowAfter": "1671850800000",
+          "nowAfter": "1672498800000",
+          "nowBefore": "0"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-possession-cos-szk-newy-00-not",
+    "settings": [
+      {
+        "notSatisfyCondition": {
+          "conditionId": "cd-possession-cos-szk-newy-00"
+        },
+        "term": {
+          "nowAfter": "1672498800000",
           "nowBefore": "0"
         }
       }
@@ -48269,6 +49225,17 @@
     ]
   },
   {
+    "id": "cd-shop-renewal-23-0101",
+    "settings": [
+      {
+        "term": {
+          "nowAfter": "1672498800000",
+          "nowBefore": "0"
+        }
+      }
+    ]
+  },
+  {
     "id": "cd-shop_beginner-pack-01",
     "settings": [
       {
@@ -48762,6 +49729,17 @@
     ]
   },
   {
+    "id": "cd-shop_dress-shop-23-0101-0120",
+    "settings": [
+      {
+        "term": {
+          "nowAfter": "1672498800000",
+          "nowBefore": "1674183599000"
+        }
+      }
+    ]
+  },
+  {
     "id": "cd-shop_ever-clear",
     "settings": [
       {
@@ -48823,6 +49801,34 @@
         "term": {
           "nowAfter": "1661914800000",
           "nowBefore": "1663599599000"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-shop_normal-shop--23-0101-mlv-50",
+    "settings": [
+      {
+        "satisfyCondition": {
+          "conditionId": "cd-manager_level_gte-50"
+        },
+        "term": {
+          "nowAfter": "1672498800000",
+          "nowBefore": "0"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-shop_normal-shop--23-0101-mlv-60",
+    "settings": [
+      {
+        "satisfyCondition": {
+          "conditionId": "cd-manager_level_gte-60"
+        },
+        "term": {
+          "nowAfter": "1672498800000",
+          "nowBefore": "0"
         }
       }
     ]
@@ -48892,6 +49898,20 @@
     ]
   },
   {
+    "id": "cd-shop_normal-shop-22-0401-mlv-50-shopclose",
+    "settings": [
+      {
+        "satisfyCondition": {
+          "conditionId": "cd-manager_level_gte-50"
+        },
+        "term": {
+          "nowAfter": "1648738800000",
+          "nowBefore": "1672498799000"
+        }
+      }
+    ]
+  },
+  {
     "id": "cd-shop_normal-shop-22-0401-mlv-60",
     "settings": [
       {
@@ -48900,6 +49920,42 @@
         },
         "term": {
           "nowAfter": "1648738800000",
+          "nowBefore": "0"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-shop_normal-shop-22-0401-mlv-60-shopclose",
+    "settings": [
+      {
+        "satisfyCondition": {
+          "conditionId": "cd-manager_level_gte-60"
+        },
+        "term": {
+          "nowAfter": "1648738800000",
+          "nowBefore": "1672498799000"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-shop_normal-shop-22-0401-shopclose",
+    "settings": [
+      {
+        "term": {
+          "nowAfter": "1648738800000",
+          "nowBefore": "1672498799000"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-shop_normal-shop-23-0101",
+    "settings": [
+      {
+        "term": {
+          "nowAfter": "1672498800000",
           "nowBefore": "0"
         }
       }
@@ -50877,6 +51933,97 @@
     ]
   },
   {
+    "id": "cd-shop_special-shop-22-1227",
+    "settings": [
+      {
+        "term": {
+          "nowAfter": "1672110000000",
+          "nowBefore": "0"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-shop_special-shop-22-1227-0103",
+    "settings": [
+      {
+        "term": {
+          "nowAfter": "1672110000000",
+          "nowBefore": "1672714799000"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-shop_special-shop-22-1227-0103-dokan",
+    "settings": [
+      {
+        "term": {
+          "nowAfter": "1672110000000",
+          "nowBefore": "1672714799000"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-shop_special-shop-22-1227-0103-mlv-120",
+    "settings": [
+      {
+        "satisfyCondition": {
+          "conditionId": "cd-manager_level_gte-120"
+        },
+        "term": {
+          "nowAfter": "1672110000000",
+          "nowBefore": "1672714799000"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-shop_special-shop-22-1231-0203",
+    "settings": [
+      {
+        "term": {
+          "nowAfter": "1672455600000",
+          "nowBefore": "1675393199000"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-shop_special-shop-23-0101",
+    "settings": [
+      {
+        "term": {
+          "nowAfter": "1672498800000",
+          "nowBefore": "0"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-shop_special-shop-23-0101-0105",
+    "settings": [
+      {
+        "term": {
+          "nowAfter": "1672498800000",
+          "nowBefore": "1672930799000"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-shop_special-shop-23-0101-0105-dokan",
+    "settings": [
+      {
+        "term": {
+          "nowAfter": "1672498800000",
+          "nowBefore": "1672930799000"
+        }
+      }
+    ]
+  },
+  {
     "id": "cd-shop_special-shop-banner-21-1125",
     "settings": [
       {
@@ -50939,6 +52086,46 @@
         "term": {
           "nowAfter": "1671073200000",
           "nowBefore": "1672455599000"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-shop_top_dress-shop-pack-23-0101-01",
+    "settings": [
+      {
+        "notSatisfyCondition": {
+          "conditionId": "cd-shop_top_dress-shop-pack-23-0101-01-02"
+        },
+        "term": {
+          "nowAfter": "1672498800000",
+          "nowBefore": "1674183599000"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-shop_top_dress-shop-pack-23-0101-01-01",
+    "settings": [
+      {
+        "satisfyCondition": {
+          "conditionId": "cd-possession-cos-chs-newy-00"
+        },
+        "notSatisfyCondition": {
+          "conditionId": "cd-possession-cos-szk-newy-00-not"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-shop_top_dress-shop-pack-23-0101-01-02",
+    "settings": [
+      {
+        "satisfyCondition": {
+          "conditionId": "cd-shop_top_dress-shop-pack-23-0101-01-01"
+        },
+        "notSatisfyCondition": {
+          "conditionId": "cd-possession-cos-hrk-newy-00-not"
         }
       }
     ]
@@ -53015,6 +54202,16 @@
     ]
   },
   {
+    "id": "cd-st-read-st-card-aoi-05-fest-00-03",
+    "settings": [
+      {
+        "readStory": {
+          "storyId": "st-card-aoi-05-fest-00-03"
+        }
+      }
+    ]
+  },
+  {
     "id": "cd-st-read-st-card-aoi-05-idol-00-03",
     "settings": [
       {
@@ -53470,6 +54667,16 @@
       {
         "readStory": {
           "storyId": "st-card-ngs-05-xmas-00-03"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-st-read-st-card-rei-05-fest-00-03",
+    "settings": [
+      {
+        "readStory": {
+          "storyId": "st-card-rei-05-fest-00-03"
         }
       }
     ]
@@ -54784,6 +55991,59 @@
         "term": {
           "nowAfter": "1649818800000",
           "nowBefore": "1651503599000"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-time-event_lottery-22-1231-01_banner",
+    "settings": [
+      {
+        "term": {
+          "nowAfter": "1672455600000",
+          "nowBefore": "1672714799000"
+        }
+      },
+      {
+        "term": {
+          "nowAfter": "1675177200000",
+          "nowBefore": "1675436399000"
+        },
+        "itemAmount": {
+          "itemId": "item-gacha_lottery-ticket-22-1231",
+          "amountGte": "1"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-time-event_lottery-22-1231-01_gacha",
+    "settings": [
+      {
+        "term": {
+          "nowAfter": "1672455600000",
+          "nowBefore": "1675177199000"
+        }
+      },
+      {
+        "term": {
+          "nowAfter": "1672455600000",
+          "nowBefore": "1675436399000"
+        },
+        "itemAmount": {
+          "itemId": "item-gacha_lottery-ticket-22-1231",
+          "amountGte": "1"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-time-event_lottery-22-1231-01_gacha-view",
+    "settings": [
+      {
+        "term": {
+          "nowAfter": "1672455600000",
+          "nowBefore": "1675436399000"
         }
       }
     ]
@@ -56106,6 +57366,17 @@
     ]
   },
   {
+    "id": "cd-time-exchange-gacha_point-23-0101-0131",
+    "settings": [
+      {
+        "term": {
+          "nowAfter": "1672498800000",
+          "nowBefore": "1675177199000"
+        }
+      }
+    ]
+  },
+  {
     "id": "cd-time-exchange-idle_medal-21-0624-0731",
     "settings": [
       {
@@ -56299,6 +57570,17 @@
         "term": {
           "nowAfter": "1669820400000",
           "nowBefore": "1672498799000"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-time-exchange-idle_medal-23-0101-0131",
+    "settings": [
+      {
+        "term": {
+          "nowAfter": "1672498800000",
+          "nowBefore": "1675177199000"
         }
       }
     ]
@@ -56557,6 +57839,17 @@
         "term": {
           "nowAfter": "1669820400000",
           "nowBefore": "1672498799000"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-time-exchange-pvp_medal-23-0101-0131",
+    "settings": [
+      {
+        "term": {
+          "nowAfter": "1672498800000",
+          "nowBefore": "1675177199000"
         }
       }
     ]
@@ -57730,6 +59023,17 @@
     ]
   },
   {
+    "id": "cd-time-gacha-fs-select-22-1227",
+    "settings": [
+      {
+        "term": {
+          "nowAfter": "1672110000000",
+          "nowBefore": "1672714799000"
+        }
+      }
+    ]
+  },
+  {
     "id": "cd-time-gacha-fs-set-bloom-21-1228",
     "settings": [
       {
@@ -57802,6 +59106,17 @@
         "term": {
           "nowAfter": "1664506800000",
           "nowBefore": "1664765999000"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-time-gacha-fs-set-bloom-22-1227",
+    "settings": [
+      {
+        "term": {
+          "nowAfter": "1672110000000",
+          "nowBefore": "1672714799000"
         }
       }
     ]
@@ -58918,6 +60233,17 @@
         "term": {
           "nowAfter": "1670900400000",
           "nowBefore": "1672110000000"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-time-gacha-normal-22-1227",
+    "settings": [
+      {
+        "term": {
+          "nowAfter": "1672110000000",
+          "nowBefore": "1672714800000"
         }
       }
     ]
@@ -60196,6 +61522,43 @@
     ]
   },
   {
+    "id": "cd-time-gacha-select-01-22-1231",
+    "settings": [
+      {
+        "term": {
+          "nowAfter": "1672455600000",
+          "nowBefore": "1673233199000"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-time-gacha-select-01-22-1231-banner",
+    "settings": [
+      {
+        "notSatisfyCondition": {
+          "conditionId": "cd-time-gacha-select-01-22-1231-banner-end"
+        },
+        "term": {
+          "nowAfter": "1672455600000",
+          "nowBefore": "1673233199000"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-time-gacha-select-01-22-1231-banner-end",
+    "settings": [
+      {
+        "drawGacha": {
+          "gachaButtonIds": [
+            "btn-10-gacha-select-01-22-1231"
+          ]
+        }
+      }
+    ]
+  },
+  {
     "id": "cd-time-gift-21-0624-0627",
     "settings": [
       {
@@ -61105,6 +62468,29 @@
     ]
   },
   {
+    "id": "cd-time-home-newyear-evening-23-0101",
+    "settings": [
+      {
+        "satisfyCondition": {
+          "conditionId": "cd-day-newyear-01-23-0101"
+        },
+        "time": {
+          "nowAfter": "54000000",
+          "nowBefore": "61199000"
+        }
+      },
+      {
+        "satisfyCondition": {
+          "conditionId": "cd-day-newyear-01"
+        },
+        "time": {
+          "nowAfter": "54000000",
+          "nowBefore": "61199000"
+        }
+      }
+    ]
+  },
+  {
     "id": "cd-time-home-newyear-night",
     "settings": [
       {
@@ -61119,8 +62505,54 @@
     ]
   },
   {
+    "id": "cd-time-home-newyear-night-23-0101",
+    "settings": [
+      {
+        "satisfyCondition": {
+          "conditionId": "cd-day-newyear-01-23-0101"
+        },
+        "time": {
+          "nowAfter": "61200000",
+          "nowBefore": "21599000"
+        }
+      },
+      {
+        "satisfyCondition": {
+          "conditionId": "cd-day-newyear-01"
+        },
+        "time": {
+          "nowAfter": "61200000",
+          "nowBefore": "21599000"
+        }
+      }
+    ]
+  },
+  {
     "id": "cd-time-home-newyear-noon",
     "settings": [
+      {
+        "satisfyCondition": {
+          "conditionId": "cd-day-newyear-01"
+        },
+        "time": {
+          "nowAfter": "21600000",
+          "nowBefore": "53999000"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-time-home-newyear-noon-23-0101",
+    "settings": [
+      {
+        "satisfyCondition": {
+          "conditionId": "cd-day-newyear-01-23-0101"
+        },
+        "time": {
+          "nowAfter": "21600000",
+          "nowBefore": "53999000"
+        }
+      },
       {
         "satisfyCondition": {
           "conditionId": "cd-day-newyear-01"
@@ -64130,6 +65562,20 @@
     ]
   },
   {
+    "id": "cd-time-pvp-23-0101-0103_s-banner",
+    "settings": [
+      {
+        "satisfyCondition": {
+          "conditionId": "cd-clear-area-main-011"
+        },
+        "term": {
+          "nowAfter": "1672498800000",
+          "nowBefore": "1672757999000"
+        }
+      }
+    ]
+  },
+  {
     "id": "cd-time-questionnaire-21-0702-0709_s-banner",
     "settings": [
       {
@@ -64213,6 +65659,17 @@
         "term": {
           "nowAfter": "1667617200000",
           "nowBefore": "1668265199000"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-time-questionnaire-23-0102-0109_s-banner",
+    "settings": [
+      {
+        "term": {
+          "nowAfter": "1672628400000",
+          "nowBefore": "1673276399000"
         }
       }
     ]
@@ -64521,6 +65978,16 @@
       {
         "wearCostume": {
           "costumeId": "cos-ai-vlnt-00"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-wear-costume-cos-aoi-fest-00",
+    "settings": [
+      {
+        "wearCostume": {
+          "costumeId": "cos-aoi-fest-00"
         }
       }
     ]
@@ -64961,6 +66428,16 @@
       {
         "wearCostume": {
           "costumeId": "cos-ngs-xmas-00"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-wear-costume-cos-rei-fest-00",
+    "settings": [
+      {
+        "wearCostume": {
+          "costumeId": "cos-rei-fest-00"
         }
       }
     ]

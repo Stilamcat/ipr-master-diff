@@ -513,6 +513,66 @@
     "homeTalks": []
   },
   {
+    "id": "card-aoi-05-fest-00",
+    "assetId": "aoi-05-fest-00",
+    "name": "名残の空に約束を",
+    "description": "誰にも文句を言わせないぐらい\n圧倒的に格好いいLizNoirへ進化するよ\nだから、心待ちにしていてほしい\n――僕達との、約束だよ",
+    "type": 3,
+    "characterId": "char-aoi",
+    "initialRarity": 5,
+    "cardParameterId": "card-param-01",
+    "vocalRatioPermil": 327,
+    "danceRatioPermil": 288,
+    "visualRatioPermil": 415,
+    "staminaRatioPermil": 900,
+    "cardLevelReleaseId": "card_level_release_1",
+    "skillId1": "sk-aoi-05-fest-00-1",
+    "skillId2": "sk-aoi-05-fest-00-2",
+    "skillId3": "sk-aoi-05-fest-00-3",
+    "liveAbilityId": "lba-mental_add",
+    "order": 259,
+    "releaseDate": "1672110000000",
+    "rewardCostumeId": "cos-aoi-fest-00",
+    "imageType1": 3,
+    "displayPositionX1": 0.289,
+    "displayPositionY1": 0.19,
+    "displayScale1": 2.0,
+    "highlightDisplayPositionX1": -0.349,
+    "highlightDisplayPositionY1": 0.227,
+    "highlightDisplayScale1": 1.2,
+    "imageType2": 3,
+    "displayPositionX2": 0.289,
+    "displayPositionY2": 0.19,
+    "displayScale2": 2.0,
+    "highlightDisplayPositionX2": -0.349,
+    "highlightDisplayPositionY2": 0.227,
+    "highlightDisplayScale2": 1.2,
+    "obtainMessage": "圧倒的に格好いいLizNoirへ進化するよ",
+    "stories": [
+      {
+        "storyId": "st-card-aoi-05-fest-00-01"
+      },
+      {
+        "storyId": "st-card-aoi-05-fest-00-02"
+      },
+      {
+        "storyId": "st-card-aoi-05-fest-00-03"
+      }
+    ],
+    "messages": [
+      {
+        "messageId": "message-card-aoi-05-fest-00",
+        "telephoneId": ""
+      },
+      {
+        "telephoneId": "tel-card-aoi-05-fest-00",
+        "messageId": ""
+      }
+    ],
+    "activityAbilityId": "",
+    "homeTalks": []
+  },
+  {
     "id": "card-aoi-05-idol-00",
     "assetId": "aoi-05-idol-00",
     "name": "濡れた髪は何を語る",
@@ -4241,6 +4301,66 @@
     "obtainMessage": "",
     "stories": [],
     "messages": [],
+    "homeTalks": []
+  },
+  {
+    "id": "card-rei-05-fest-00",
+    "assetId": "rei-05-fest-00",
+    "name": "踊る彼女に息をのむ",
+    "description": "アイドルをよく知らない人にも、明るくて元気な\nサニーピースのダンスを好きになってほしかったんです\nだって私が――\n誰よりもサニーピースのダンスを好きだから！",
+    "type": 2,
+    "characterId": "char-rei",
+    "initialRarity": 5,
+    "cardParameterId": "card-param-01",
+    "vocalRatioPermil": 281,
+    "danceRatioPermil": 428,
+    "visualRatioPermil": 321,
+    "staminaRatioPermil": 900,
+    "cardLevelReleaseId": "card_level_release_1",
+    "skillId1": "sk-rei-05-fest-00-1",
+    "skillId2": "sk-rei-05-fest-00-2",
+    "skillId3": "sk-rei-05-fest-00-3",
+    "liveAbilityId": "lba-dance_multiply",
+    "order": 258,
+    "releaseDate": "1672110000000",
+    "rewardCostumeId": "cos-rei-fest-00",
+    "imageType1": 3,
+    "displayPositionX1": 0.242,
+    "displayPositionY1": 0.026,
+    "displayScale1": 1.3,
+    "highlightDisplayPositionX1": -0.688,
+    "highlightDisplayPositionY1": 0.052,
+    "highlightDisplayScale1": 0.8,
+    "imageType2": 3,
+    "displayPositionX2": 0.242,
+    "displayPositionY2": 0.026,
+    "displayScale2": 1.3,
+    "highlightDisplayPositionX2": -0.688,
+    "highlightDisplayPositionY2": 0.052,
+    "highlightDisplayScale2": 0.8,
+    "obtainMessage": "もしかして\r\n私に惚れちゃいましたか？",
+    "stories": [
+      {
+        "storyId": "st-card-rei-05-fest-00-01"
+      },
+      {
+        "storyId": "st-card-rei-05-fest-00-02"
+      },
+      {
+        "storyId": "st-card-rei-05-fest-00-03"
+      }
+    ],
+    "messages": [
+      {
+        "messageId": "message-card-rei-05-fest-00",
+        "telephoneId": ""
+      },
+      {
+        "telephoneId": "tel-card-rei-05-fest-00",
+        "messageId": ""
+      }
+    ],
+    "activityAbilityId": "",
     "homeTalks": []
   },
   {

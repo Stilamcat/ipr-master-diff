@@ -3330,6 +3330,33 @@
     "isViewableInInactive": false
   },
   {
+    "id": "emb-662",
+    "name": "VENUSシーズン55 No.1",
+    "assetId": "pvp-season-055-top001",
+    "order": 1551,
+    "description": "VENUSバトルシーズン55で1位獲得",
+    "autoProvideConditionId": "",
+    "isViewableInInactive": false
+  },
+  {
+    "id": "emb-663",
+    "name": "VENUSシーズン55 TOP10",
+    "assetId": "pvp-season-055-top010",
+    "order": 1552,
+    "description": "VENUSバトルシーズン55で10位以内獲得",
+    "autoProvideConditionId": "",
+    "isViewableInInactive": false
+  },
+  {
+    "id": "emb-664",
+    "name": "VENUSシーズン55 TOP100",
+    "assetId": "pvp-season-055-top100",
+    "order": 1553,
+    "description": "VENUSバトルシーズン55で100位以内獲得",
+    "autoProvideConditionId": "",
+    "isViewableInInactive": false
+  },
+  {
     "id": "emb-701",
     "name": "【誕生日】長瀬琴乃",
     "assetId": "birthday_ktn-02",
@@ -3390,6 +3417,15 @@
     "autoProvideConditionId": "cd-birthday_emblem_szk-22-1015",
     "order": 3595,
     "description": "雫の誕生日を迎える",
+    "isViewableInInactive": false
+  },
+  {
+    "id": "emb-710",
+    "name": "【誕生日】佐伯遙子",
+    "assetId": "birthday_hrk-02",
+    "autoProvideConditionId": "cd-birthday_emblem_hrk-23-0103",
+    "order": 3600,
+    "description": "遙子の誕生日を迎える",
     "isViewableInInactive": false
   },
   {
@@ -3578,6 +3614,15 @@
     "assetId": "race-22-1128",
     "order": 1718,
     "description": "VENUSレース「君と願う月灯の祝祭」クリア",
+    "autoProvideConditionId": "",
+    "isViewableInInactive": false
+  },
+  {
+    "id": "emb-818",
+    "name": "イベント称号",
+    "assetId": "contest-22-0831",
+    "order": 1715,
+    "description": "フォトオーディション「未来とつながるマジカルメロディ」条件達成",
     "autoProvideConditionId": "",
     "isViewableInInactive": false
   },

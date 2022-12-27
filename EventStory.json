@@ -922,5 +922,55 @@
         "isAppeal": false
       }
     ]
+  },
+  {
+    "id": "st-eve-2301-contest",
+    "assetId": "event-contest-22-0831",
+    "name": "イベントストーリー",
+    "description": "未来とつながるマジカルメロディ",
+    "order": 221227,
+    "viewConditionId": "cd-photo_section-open-23-0103-only",
+    "episodes": [
+      {
+        "episode": 1,
+        "assetId": "event_2209_01_01",
+        "storyId": "st-eve-2209-contest-001",
+        "unlockConditionId": "cd-event-story-read-001-contest-22-1227",
+        "viewConditionId": "",
+        "isAppeal": false
+      },
+      {
+        "episode": 2,
+        "assetId": "event_2209_01_02",
+        "storyId": "st-eve-2209-contest-002",
+        "unlockConditionId": "cd-contest-22-1227-total_submit_count_gte-3",
+        "isAppeal": true,
+        "viewConditionId": ""
+      },
+      {
+        "episode": 3,
+        "assetId": "event_2209_01_03",
+        "storyId": "st-eve-2209-contest-003",
+        "unlockConditionId": "cd-contest-22-1227-total_submit_count_gte-10",
+        "isAppeal": true,
+        "viewConditionId": ""
+      },
+      {
+        "episode": 4,
+        "assetId": "event_2209_01_04",
+        "storyId": "st-eve-2209-contest-004",
+        "unlockConditionId": "cd-contest-22-1227-total_submit_count_gte-20",
+        "isAppeal": true,
+        "viewConditionId": ""
+      },
+      {
+        "episode": 5,
+        "assetId": "event_2209_01_05",
+        "storyId": "st-eve-2209-contest-005",
+        "unlockConditionId": "cd-contest-22-1227-total_submit_count_gte-35",
+        "isAppeal": true,
+        "viewConditionId": ""
+      }
+    ]
   }
 ]

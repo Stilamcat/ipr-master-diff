@@ -238,6 +238,56 @@
     ]
   },
   {
+    "homeTalkId": "home-talk-card-aoi-05-fest-00-talk-01",
+    "characterId": "char-aoi",
+    "placeType": 1,
+    "conditionId": "cd-st-read-st-card-aoi-05-fest-00-03",
+    "firstPriority": 9900,
+    "weight": 1,
+    "callPatternId": "call-pattern-card-aoi-05-fest-00",
+    "choiceText": "どうだった？\nいい仕上がりだっただろう",
+    "managerText": "どうだった？\nいい仕上がりだっただろう",
+    "reliability": 5,
+    "characterTalks": [
+      {
+        "text": "あはは、君はおかしいなぁ。\n君が撮影した訳でもないのに、\n随分得意げだね。",
+        "voiceAssetId": "sud_vo_home_aoi-05-fest-00_talk-01-01",
+        "motionAssetId": "mot_adv_chr_cmn_talk-005_in",
+        "additionMotionAssetId": "mot_all_chr_cmn_facial-001_in"
+      },
+      {
+        "text": "でも…凄くいい出来だったよ。\n自分で言うのもなんだけど。\n君のお陰だね。",
+        "voiceAssetId": "sud_vo_home_aoi-05-fest-00_talk-01-02",
+        "motionAssetId": "mot_adv_chr_cmn_pos-023_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "あの広告に写ってる僕は、\nなんだか自分じゃないみたいで、\nちょっと落ち着かないけどね。",
+        "voiceAssetId": "sud_vo_home_aoi-05-fest-00_talk-01-03",
+        "motionAssetId": "mot_adv_chr_cmn_talk-012_in",
+        "additionMotionAssetId": "mot_all_chr_cmn_facial-034_in"
+      },
+      {
+        "text": "大人びていて、莉央みたいに\nキラッとしてて…ああいう僕も\nいたんだって、初めて知ったよ。",
+        "voiceAssetId": "sud_vo_home_aoi-05-fest-00_talk-01-04",
+        "motionAssetId": "mot_adv_chr_cmn_talk-016_in",
+        "additionMotionAssetId": "mot_all_chr_cmn_facial-046_in"
+      },
+      {
+        "text": "あんな風に、出会ったことのない\n自分がまだいるんだって思うと、\nそわそわワクワクするよね。",
+        "voiceAssetId": "sud_vo_home_aoi-05-fest-00_talk-01-05",
+        "motionAssetId": "mot_adv_chr_cmn_pos-004_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "だから{user}君。\nこれからも、僕が知らない僕を\n教えてほしいな。",
+        "voiceAssetId": "sud_vo_home_aoi-05-fest-00_talk-01-06",
+        "motionAssetId": "mot_adv_chr_cmn_pos-010_in",
+        "additionMotionAssetId": ""
+      }
+    ]
+  },
+  {
     "homeTalkId": "home-talk-card-aoi-05-idol-00-talk-01",
     "characterId": "char-aoi",
     "placeType": 1,
@@ -2289,6 +2339,56 @@
         "text": "はぁ、私はただ恋愛小説や漫画で\n妄想してるだけなのに…って\nあ、あはは…なんでもありません。",
         "voiceAssetId": "sud_vo_home_ngs-05-xmas-00_talk-01-06",
         "motionAssetId": "mot_adv_chr_cmn_emb-015_in",
+        "additionMotionAssetId": ""
+      }
+    ]
+  },
+  {
+    "homeTalkId": "home-talk-card-rei-05-fest-00-talk-01",
+    "characterId": "char-rei",
+    "placeType": 1,
+    "conditionId": "cd-st-read-st-card-rei-05-fest-00-03",
+    "firstPriority": 9900,
+    "weight": 1,
+    "callPatternId": "call-pattern-card-rei-05-fest-00",
+    "choiceText": "緊張していたようには\n見えなかったよ。",
+    "managerText": "緊張していたようには\n見えなかったよ。",
+    "reliability": 5,
+    "characterTalks": [
+      {
+        "text": "よく言われるんですけど、\n私ってそんなに\n怖いもの知らずに見えますか？",
+        "voiceAssetId": "sud_vo_home_rei-05-fest-00_talk-01-01",
+        "motionAssetId": "mot_adv_chr_cmn_ask-005_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "私だって普通の人間です。\n緊張で足が震えることくらい\nあります。",
+        "voiceAssetId": "sud_vo_home_rei-05-fest-00_talk-01-02",
+        "motionAssetId": "mot_adv_chr_cmn_angry-015_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "…あ、でも星見プロに来てから\n大きな緊張はあまり\nしなくなったかもしれません。",
+        "voiceAssetId": "sud_vo_home_rei-05-fest-00_talk-01-03",
+        "motionAssetId": "mot_adv_chr_cmn_pos-010_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "{user}さんと\n話したりするとなんだか\n安心して緊張がほぐれるんです。",
+        "voiceAssetId": "sud_vo_home_rei-05-fest-00_talk-01-04",
+        "motionAssetId": "mot_adv_chr_cmn_pos-008_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "さくら達も一緒に戦ってくれて\nいるみたいで、心強いって\nよく言ってますよ。",
+        "voiceAssetId": "sud_vo_home_rei-05-fest-00_talk-01-05",
+        "motionAssetId": "mot_adv_chr_cmn_pos-017_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "私達が緊張しないように\nこれからもそばで\n見守っていて下さいね。",
+        "voiceAssetId": "sud_vo_home_rei-05-fest-00_talk-01-06",
+        "motionAssetId": "mot_adv_chr_cmn_glad-005_in",
         "additionMotionAssetId": ""
       }
     ]
