@@ -1368,6 +1368,50 @@
     "shootingTime": "0"
   },
   {
+    "id": "phot-prm-5-8",
+    "assetId": "phot-prm-5-0008",
+    "name": "こころ＆すず＆すみれ",
+    "rarity": 5,
+    "placeName": "お正月",
+    "eventName": "メモリアルフォト",
+    "level": 35,
+    "abilities": [
+      {
+        "photoAbilityId": "pab-vocal_multiply_distribution-5",
+        "effectValue": 200,
+        "grade": 1,
+        "missionId": ""
+      },
+      {
+        "photoAbilityId": "pab-dance_multiply_distribution-5",
+        "effectValue": 200,
+        "grade": 1,
+        "missionId": ""
+      },
+      {
+        "photoAbilityId": "pab-visual_multiply_distribution-5",
+        "effectValue": 200,
+        "grade": 1,
+        "missionId": ""
+      },
+      {
+        "photoAbilityId": "pab-beat-score-up_multiply_distribution-5",
+        "effectValue": 100,
+        "grade": 1,
+        "missionId": ""
+      },
+      {
+        "photoAbilityId": "pab-passive-skill_sk-phot-release-login-5-01",
+        "effectValue": 1,
+        "grade": 1,
+        "missionId": ""
+      }
+    ],
+    "focusCharacterId": "char-kkr",
+    "characterIds": [],
+    "shootingTime": "0"
+  },
+  {
     "id": "phot-release-login-5-1",
     "assetId": "phot-login-5-0001",
     "name": "長瀬麻奈",
@@ -1672,6 +1716,50 @@
       }
     ],
     "focusCharacterId": "char-skr",
+    "characterIds": [],
+    "shootingTime": "0"
+  },
+  {
+    "id": "phot-shop-5-15",
+    "assetId": "phot-shop-5-0015",
+    "name": "神崎莉央＆井川葵",
+    "rarity": 5,
+    "placeName": "さぁ！私達らしく！",
+    "eventName": "メモリアルフォト",
+    "level": 60,
+    "abilities": [
+      {
+        "photoAbilityId": "pab-vocal_multiply_distribution-5",
+        "effectValue": 250,
+        "grade": 1,
+        "missionId": ""
+      },
+      {
+        "photoAbilityId": "pab-dance_multiply_distribution-5",
+        "effectValue": 250,
+        "grade": 1,
+        "missionId": ""
+      },
+      {
+        "photoAbilityId": "pab-visual_multiply_distribution-5",
+        "effectValue": 250,
+        "grade": 1,
+        "missionId": ""
+      },
+      {
+        "photoAbilityId": "pab-stamina_multiply_distribution-5",
+        "effectValue": 70,
+        "grade": 1,
+        "missionId": ""
+      },
+      {
+        "photoAbilityId": "pab-passive-skill_sk-phot-release-login-5-01",
+        "effectValue": 1,
+        "grade": 1,
+        "missionId": ""
+      }
+    ],
+    "focusCharacterId": "char-rio",
     "characterIds": [],
     "shootingTime": "0"
   },

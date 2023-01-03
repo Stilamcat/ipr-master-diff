@@ -1166,6 +1166,56 @@
     ]
   },
   {
+    "homeTalkId": "home-talk-card-kkr-05-newy-00-talk-01",
+    "characterId": "char-kkr",
+    "placeType": 1,
+    "conditionId": "cd-st-read-st-card-kkr-05-newy-00-03",
+    "firstPriority": 9900,
+    "weight": 1,
+    "callPatternId": "call-pattern-card-kkr-05-newy-00",
+    "choiceText": "詳しく聞かせてくれ",
+    "managerText": "詳しく聞かせてくれ",
+    "reliability": 5,
+    "characterTalks": [
+      {
+        "text": "羽子板の罰ゲームで、\nほっぺたにプリンの絵を描いた\nじゃないですか。",
+        "voiceAssetId": "sud_vo_home_kkr-05-newy-00_talk-01-01",
+        "motionAssetId": "mot_adv_chr_cmn_talk-011_in",
+        "additionMotionAssetId": "mot_all_chr_cmn_facial-001_in"
+      },
+      {
+        "text": "あれからですね、莉央さんが\nプリンを見るだけで笑うように\nなったんです！",
+        "voiceAssetId": "sud_vo_home_kkr-05-newy-00_talk-01-02",
+        "motionAssetId": "mot_adv_chr_cmn_pos-002_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "なんということでしょう！\nまさにパブロフの犬！",
+        "voiceAssetId": "sud_vo_home_kkr-05-newy-00_talk-01-03",
+        "motionAssetId": "mot_adv_chr_cmn_pos-009_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "これをなんとか有効活用\n出来ないかと考えたんですけど～",
+        "voiceAssetId": "sud_vo_home_kkr-05-newy-00_talk-01-04",
+        "motionAssetId": "mot_adv_chr_cmn_talk-017_in",
+        "additionMotionAssetId": "mot_all_chr_cmn_facial-001_in"
+      },
+      {
+        "text": "今度から、莉央さんに怒られそうに\nなったら、すかさずプリンを見せる\nようにしてみようかな～と。",
+        "voiceAssetId": "sud_vo_home_kkr-05-newy-00_talk-01-05",
+        "motionAssetId": "mot_adv_chr_cmn_pos-014_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "これでしばらくは平穏な日々が\n続きそうです。はぁ～\nいい年になりそうですね～",
+        "voiceAssetId": "sud_vo_home_kkr-05-newy-00_talk-01-06",
+        "motionAssetId": "mot_adv_chr_cmn_glad-010_in",
+        "additionMotionAssetId": ""
+      }
+    ]
+  },
+  {
     "homeTalkId": "home-talk-card-kkr-05-seik-00-talk-01",
     "characterId": "char-kkr",
     "placeType": 1,
@@ -2866,6 +2916,56 @@
         "voiceAssetId": "sud_vo_home_rio-05-kiok-00_talk-01-06",
         "motionAssetId": "mot_adv_chr_cmn_talk-003_in",
         "additionMotionAssetId": "mot_all_chr_cmn_facial-034_in"
+      }
+    ]
+  },
+  {
+    "homeTalkId": "home-talk-card-rio-05-newy-00-talk-01",
+    "characterId": "char-rio",
+    "placeType": 1,
+    "conditionId": "cd-st-read-st-card-rio-05-newy-00-03",
+    "firstPriority": 9900,
+    "weight": 1,
+    "callPatternId": "call-pattern-card-rio-05-newy-00",
+    "choiceText": "はい、なんですか？",
+    "managerText": "はい、なんですか？",
+    "reliability": 5,
+    "characterTalks": [
+      {
+        "text": "お母さんが、また貴方を\n連れて来いって言ってるんだけど。",
+        "voiceAssetId": "sud_vo_home_rio-05-newy-00_talk-01-01",
+        "motionAssetId": "mot_adv_chr_cmn_talk-006_in",
+        "additionMotionAssetId": "mot_all_chr_cmn_facial-034_in"
+      },
+      {
+        "text": "電話をするたびに\n{user}さんは\n元気なの？　とか。",
+        "voiceAssetId": "sud_vo_home_rio-05-newy-00_talk-01-02",
+        "motionAssetId": "mot_adv_chr_cmn_ask-009_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "{user}さんを\n困らせちゃダメよ、とか。",
+        "voiceAssetId": "sud_vo_home_rio-05-newy-00_talk-01-03",
+        "motionAssetId": "mot_adv_chr_cmn_talk-012_in",
+        "additionMotionAssetId": "mot_all_chr_cmn_facial-003_in"
+      },
+      {
+        "text": "最近じゃ、私のことより\n貴方の話題が多いくらいで…\nなんだか複雑な気分だわ。",
+        "voiceAssetId": "sud_vo_home_rio-05-newy-00_talk-01-04",
+        "motionAssetId": "mot_adv_chr_cmn_talk-003_in",
+        "additionMotionAssetId": "mot_all_chr_cmn_facial-034_in"
+      },
+      {
+        "text": "え？　また行きましょうか…？\nちょっと、やめてよ！\nまた誤解されたらどうするの！？",
+        "voiceAssetId": "sud_vo_home_rio-05-newy-00_talk-01-05",
+        "motionAssetId": "mot_adv_chr_cmn_emb-006_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "べ、別に嫌って訳じゃないけど\nこういうのは段取りが…あぁもう！\n変なこと考えちゃったじゃない！",
+        "voiceAssetId": "sud_vo_home_rio-05-newy-00_talk-01-06",
+        "motionAssetId": "mot_adv_chr_cmn_angry-018_in",
+        "additionMotionAssetId": ""
       }
     ]
   },

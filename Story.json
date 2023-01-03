@@ -975,6 +975,45 @@
     "description": ""
   },
   {
+    "id": "st-card-kkr-05-newy-00-01",
+    "name": "一人だけの\nオフなので",
+    "rewardId": "rd_auto;stone;;30",
+    "advPlayTypes": [
+      1
+    ],
+    "advAssetIds": [
+      "card_kkr_05_01"
+    ],
+    "sectionName": "",
+    "description": ""
+  },
+  {
+    "id": "st-card-kkr-05-newy-00-02",
+    "name": "なかなか\n楽しんで\nますよ？",
+    "rewardId": "rd_auto;stone;;30",
+    "advPlayTypes": [
+      1
+    ],
+    "advAssetIds": [
+      "card_kkr_05_02"
+    ],
+    "sectionName": "",
+    "description": ""
+  },
+  {
+    "id": "st-card-kkr-05-newy-00-03",
+    "name": "四人で\n着たかった\nんです",
+    "rewardId": "rd_auto;stone;;30",
+    "advPlayTypes": [
+      1
+    ],
+    "advAssetIds": [
+      "card_kkr_05_03"
+    ],
+    "sectionName": "",
+    "description": ""
+  },
+  {
     "id": "st-card-kkr-05-seik-00-01",
     "name": "研究中のアイドルさん",
     "rewardId": "rd_auto;stone;;30",
@@ -2413,6 +2452,45 @@
     ],
     "advAssetIds": [
       "card_rio_05_03"
+    ],
+    "sectionName": "",
+    "description": ""
+  },
+  {
+    "id": "st-card-rio-05-newy-00-01",
+    "name": "実家に来る？",
+    "rewardId": "rd_auto;stone;;30",
+    "advPlayTypes": [
+      1
+    ],
+    "advAssetIds": [
+      "card_rio_06_01"
+    ],
+    "sectionName": "",
+    "description": ""
+  },
+  {
+    "id": "st-card-rio-05-newy-00-02",
+    "name": "娘を\nよろしく！？",
+    "rewardId": "rd_auto;stone;;30",
+    "advPlayTypes": [
+      1
+    ],
+    "advAssetIds": [
+      "card_rio_06_02"
+    ],
+    "sectionName": "",
+    "description": ""
+  },
+  {
+    "id": "st-card-rio-05-newy-00-03",
+    "name": "莉央への本心",
+    "rewardId": "rd_auto;stone;;30",
+    "advPlayTypes": [
+      1
+    ],
+    "advAssetIds": [
+      "card_rio_06_03"
     ],
     "sectionName": "",
     "description": ""
@@ -4996,6 +5074,75 @@
     ],
     "advAssetIds": [
       "event_2212_01_05"
+    ],
+    "sectionName": ""
+  },
+  {
+    "id": "st-eve-2301-contest-001",
+    "name": "今年最後のライブバトル",
+    "description": "I-UNITY後、初の年末。リズノワは合同カウントダウンライブの為に大阪を訪れていた。会場で下見をする中、他事務所のプロデューサーから煽られる。売り言葉に買い言葉で急遽ライブバトルが決まってしまう。",
+    "rewardId": "rd_auto;stone;;30",
+    "advPlayTypes": [
+      1
+    ],
+    "advAssetIds": [
+      "event_2301_01_01"
+    ],
+    "sectionName": ""
+  },
+  {
+    "id": "st-eve-2301-contest-002",
+    "name": "スリクスと戦うつもりで",
+    "description": "莉央は、カウントダウンライブにライブバトルが追加されたことをあなたに報告する。決まったからには全力で挑むリズノワは、バトルで新曲を披露することに。星見プロの面々からも続々と応援メッセージが届く。",
+    "rewardId": "rd_auto;stone;;30",
+    "advPlayTypes": [
+      1
+    ],
+    "advAssetIds": [
+      "event_2301_01_02"
+    ],
+    "sectionName": ""
+  },
+  {
+    "id": "st-eve-2301-contest-003",
+    "name": "先輩ボディーガード",
+    "description": "敵事務所のプロデューサーはリズノワに勝つため妨害工作を行う。訴訟をちらつかせるこころを落ち着かせる葵と莉央。警戒の甲斐あってか、無事に迎えたライブ当日。駅まで母を迎えに行った莉央だったが……。",
+    "rewardId": "rd_auto;stone;;30",
+    "advPlayTypes": [
+      1
+    ],
+    "advAssetIds": [
+      "event_2301_01_03"
+    ],
+    "sectionName": ""
+  },
+  {
+    "id": "st-eve-2301-contest-004",
+    "name": "莉央不在のリズノワ",
+    "description": "開始十分前にもかかわらず、音信不通の莉央。それでもステージに立つ意志を固めた葵は、こころにあるお願いをする。先輩二人の想いを受け取り、覚悟を決めるこころ。莉央不在の中、リズノワのステージが幕を開ける。",
+    "rewardId": "rd_auto;stone;;30",
+    "advPlayTypes": [
+      1
+    ],
+    "advAssetIds": [
+      "event_2301_01_04"
+    ],
+    "sectionName": ""
+  },
+  {
+    "id": "st-eve-2301-contest-005",
+    "name": "飛躍の年、無敵のLizNoir",
+    "description": "莉央のいないリズノワで、初センターを務めるこころ。慣れない三人体制で挑むライブは負担が大きく莉央の凄さを実感する。それでも諦めずステージを守る三人の元へ、ようやく莉央が到着。果たして勝負の行方は――",
+    "rewardId": "rd_auto;stone;;30",
+    "advPlayTypes": [
+      1,
+      2,
+      1
+    ],
+    "advAssetIds": [
+      "event_2301_01_05_01",
+      "adv-live-eve-2301-contest-005",
+      "event_2301_01_05_02"
     ],
     "sectionName": ""
   },

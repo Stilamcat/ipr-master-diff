@@ -1,5 +1,46 @@
 [
   {
+    "id": "card-ai-02-eve-00",
+    "assetId": "ai-02-eve-00",
+    "name": "初日に誓う今年の飛躍",
+    "description": "今年のリズノワは去年より\r\nもっともっと活躍しちゃいますよ！",
+    "type": 3,
+    "characterId": "char-ai",
+    "initialRarity": 2,
+    "cardParameterId": "card-param-01",
+    "vocalRatioPermil": 404,
+    "danceRatioPermil": 316,
+    "visualRatioPermil": 280,
+    "staminaRatioPermil": 1000,
+    "cardLevelReleaseId": "card_level_release_1",
+    "skillId1": "sk-ai-02-eve-00-1",
+    "skillId2": "sk-ai-02-eve-00-2",
+    "skillId3": "sk-ai-02-eve-00-3",
+    "order": 262,
+    "releaseDate": "1672714800000",
+    "imageType1": 1,
+    "displayPositionY1": 0.278,
+    "displayScale1": 1.0,
+    "highlightDisplayPositionX1": 0.013,
+    "highlightDisplayPositionY1": 0.298,
+    "highlightDisplayScale1": 1.0,
+    "imageType2": 2,
+    "displayPositionX2": -0.135,
+    "displayPositionY2": 0.203,
+    "displayScale2": 1.7,
+    "highlightDisplayPositionX2": 0.021,
+    "highlightDisplayPositionY2": 0.194,
+    "highlightDisplayScale2": 1.0,
+    "liveAbilityId": "",
+    "activityAbilityId": "",
+    "rewardCostumeId": "",
+    "displayPositionX1": 0.0,
+    "obtainMessage": "",
+    "stories": [],
+    "messages": [],
+    "homeTalks": []
+  },
+  {
     "id": "card-ai-03-schl-00",
     "assetId": "ai-03-schl-00",
     "name": "嘘から出た実",
@@ -2060,6 +2101,66 @@
       },
       {
         "telephoneId": "tel-card-kkr-05-mizg-01",
+        "messageId": ""
+      }
+    ],
+    "activityAbilityId": "",
+    "displayPositionY1": 0.0,
+    "displayPositionY2": 0.0,
+    "homeTalks": []
+  },
+  {
+    "id": "card-kkr-05-newy-00",
+    "assetId": "kkr-05-newy-00",
+    "name": "うれしはずかし初詣",
+    "description": "ふむふむ、なかなかいい感じですね！\n着物姿で四人並ぶと壮観ですね～\nよ～し、この調子でどんどん撮っちゃいましょう！\nポージングと表情の指定はこころにお任せあれ！",
+    "type": 2,
+    "characterId": "char-kkr",
+    "initialRarity": 5,
+    "cardParameterId": "card-param-01",
+    "vocalRatioPermil": 404,
+    "danceRatioPermil": 318,
+    "visualRatioPermil": 278,
+    "staminaRatioPermil": 1000,
+    "cardLevelReleaseId": "card_level_release_1",
+    "skillId1": "sk-kkr-05-newy-00-1",
+    "skillId2": "sk-kkr-05-newy-00-2",
+    "skillId3": "sk-kkr-05-newy-00-3",
+    "liveAbilityId": "lba-vocal_multiply",
+    "order": 261,
+    "releaseDate": "1672714800000",
+    "rewardCostumeId": "cos-kkr-newy-00",
+    "imageType1": 3,
+    "displayPositionX1": -0.03,
+    "displayScale1": 1.0,
+    "highlightDisplayPositionX1": -0.044,
+    "highlightDisplayPositionY1": 0.178,
+    "highlightDisplayScale1": 0.7,
+    "imageType2": 3,
+    "displayPositionX2": -0.03,
+    "displayScale2": 1.0,
+    "highlightDisplayPositionX2": -0.044,
+    "highlightDisplayPositionY2": 0.178,
+    "highlightDisplayScale2": 0.7,
+    "obtainMessage": "こころは舌をぺろっと出した\n可愛さ満点の天使スマイルを……",
+    "stories": [
+      {
+        "storyId": "st-card-kkr-05-newy-00-01"
+      },
+      {
+        "storyId": "st-card-kkr-05-newy-00-02"
+      },
+      {
+        "storyId": "st-card-kkr-05-newy-00-03"
+      }
+    ],
+    "messages": [
+      {
+        "messageId": "message-card-kkr-05-newy-00",
+        "telephoneId": ""
+      },
+      {
+        "telephoneId": "tel-card-kkr-05-newy-00",
         "messageId": ""
       }
     ],
@@ -5219,6 +5320,66 @@
       },
       {
         "telephoneId": "tel-card-rio-05-kiok-00",
+        "messageId": ""
+      }
+    ],
+    "activityAbilityId": "",
+    "homeTalks": []
+  },
+  {
+    "id": "card-rio-05-newy-00",
+    "assetId": "rio-05-newy-00",
+    "name": "貴方と新春ホームカミング",
+    "description": "ファンのみんな、沢山のエール、ありがとう\n今年最後のステージを、こうしてみんなと\n迎えることが出来て、私達は幸せです\n精一杯、みんなのために歌うから聴いて下さい！",
+    "type": 3,
+    "characterId": "char-rio",
+    "initialRarity": 5,
+    "cardParameterId": "card-param-01",
+    "vocalRatioPermil": 287,
+    "danceRatioPermil": 415,
+    "visualRatioPermil": 328,
+    "staminaRatioPermil": 900,
+    "cardLevelReleaseId": "card_level_release_1",
+    "skillId1": "sk-rio-05-newy-00-1",
+    "skillId2": "sk-rio-05-newy-00-2",
+    "skillId3": "sk-rio-05-newy-00-3",
+    "liveAbilityId": "lba-active_skill_score_multiply",
+    "order": 260,
+    "releaseDate": "1672714800000",
+    "rewardCostumeId": "cos-rio-newy-00",
+    "imageType1": 3,
+    "displayPositionX1": 0.133,
+    "displayPositionY1": 0.11,
+    "displayScale1": 1.5,
+    "highlightDisplayPositionX1": -0.309,
+    "highlightDisplayPositionY1": 0.178,
+    "highlightDisplayScale1": 1.0,
+    "imageType2": 3,
+    "displayPositionX2": 0.133,
+    "displayPositionY2": 0.11,
+    "displayScale2": 1.5,
+    "highlightDisplayPositionX2": -0.309,
+    "highlightDisplayPositionY2": 0.178,
+    "highlightDisplayScale2": 1.0,
+    "obtainMessage": "今年のLizNoirには\nもっと期待してくれていいわよ",
+    "stories": [
+      {
+        "storyId": "st-card-rio-05-newy-00-01"
+      },
+      {
+        "storyId": "st-card-rio-05-newy-00-02"
+      },
+      {
+        "storyId": "st-card-rio-05-newy-00-03"
+      }
+    ],
+    "messages": [
+      {
+        "messageId": "message-card-rio-05-newy-00",
+        "telephoneId": ""
+      },
+      {
+        "telephoneId": "tel-card-rio-05-newy-00",
         "messageId": ""
       }
     ],
