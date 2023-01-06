@@ -1593,6 +1593,51 @@
     "isViewableInInactive": false
   },
   {
+    "id": "emb-200",
+    "name": "VENUSリーグ L1到達",
+    "assetId": "league-l1",
+    "autoProvideConditionId": "cd-league_grade-1",
+    "order": 150,
+    "description": "VENUSリーグでL1に到達",
+    "isViewableInInactive": false
+  },
+  {
+    "id": "emb-201",
+    "name": "VENUSリーグ L2到達",
+    "assetId": "league-l2",
+    "autoProvideConditionId": "cd-league_grade-2",
+    "order": 151,
+    "description": "VENUSリーグでL2に到達",
+    "isViewableInInactive": false
+  },
+  {
+    "id": "emb-202",
+    "name": "VENUSリーグ L3到達",
+    "assetId": "league-l3",
+    "autoProvideConditionId": "cd-league_grade-3",
+    "order": 152,
+    "description": "VENUSリーグでL3に到達",
+    "isViewableInInactive": false
+  },
+  {
+    "id": "emb-203",
+    "name": "VENUSリーグ L4到達",
+    "assetId": "league-l4",
+    "autoProvideConditionId": "cd-league_grade-4",
+    "order": 153,
+    "description": "VENUSリーグでL4に到達",
+    "isViewableInInactive": false
+  },
+  {
+    "id": "emb-204",
+    "name": "VENUSリーグ L5到達",
+    "assetId": "league-l5",
+    "autoProvideConditionId": "cd-league_grade-5",
+    "order": 154,
+    "description": "VENUSリーグでL5に到達",
+    "isViewableInInactive": false
+  },
+  {
     "id": "emb-300",
     "name": "fran-狂奔",
     "assetId": "job_kor",
@@ -3357,6 +3402,33 @@
     "isViewableInInactive": false
   },
   {
+    "id": "emb-665",
+    "name": "VENUSシーズン56 No.1",
+    "assetId": "pvp-season-056-top001",
+    "order": 1561,
+    "description": "VENUSバトルシーズン56で1位獲得",
+    "autoProvideConditionId": "",
+    "isViewableInInactive": false
+  },
+  {
+    "id": "emb-666",
+    "name": "VENUSシーズン56 TOP10",
+    "assetId": "pvp-season-056-top010",
+    "order": 1562,
+    "description": "VENUSバトルシーズン56で10位以内獲得",
+    "autoProvideConditionId": "",
+    "isViewableInInactive": false
+  },
+  {
+    "id": "emb-667",
+    "name": "VENUSシーズン56 TOP100",
+    "assetId": "pvp-season-056-top100",
+    "order": 1563,
+    "description": "VENUSバトルシーズン56で100位以内獲得",
+    "autoProvideConditionId": "",
+    "isViewableInInactive": false
+  },
+  {
     "id": "emb-701",
     "name": "【誕生日】長瀬琴乃",
     "assetId": "birthday_ktn-02",
@@ -3893,6 +3965,24 @@
     "assetId": "gvg-season-018-top010",
     "order": 1540,
     "description": "ユニオンライブシーズン18で10位以内獲得",
+    "autoProvideConditionId": "",
+    "isViewableInInactive": false
+  },
+  {
+    "id": "emb-930",
+    "name": "ユニオンシーズン19 No.1",
+    "assetId": "gvg-season-019-top001",
+    "order": 1541,
+    "description": "ユニオンライブシーズン19で1位獲得",
+    "autoProvideConditionId": "",
+    "isViewableInInactive": false
+  },
+  {
+    "id": "emb-931",
+    "name": "ユニオンシーズン19 TOP10",
+    "assetId": "gvg-season-019-top010",
+    "order": 1542,
+    "description": "ユニオンライブシーズン19で10位以内獲得",
     "autoProvideConditionId": "",
     "isViewableInInactive": false
   }

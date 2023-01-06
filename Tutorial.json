@@ -1676,7 +1676,7 @@
         "subStep": 100,
         "navigationType": 3,
         "texts": [
-          "育成済みのアイドルをLv1に戻し、消費したレッスンピース、スキルパウダー、エールパウダーを返却させることが出来ます。\n「レベルアシスト」とうまく組み合わせて活用しましょう。"
+          "育成済みのアイドルをLv1に戻し、消費したレッスンピース、スキルパウダー、エールパウダー、ポテンシャルピースを返却させることが出来ます。 「レベルアシスト」とうまく組み合わせて活用しましょう。"
         ],
         "assetIds": [
           "img_tutorial_tips_tips-004"
@@ -1944,6 +1944,42 @@
         ],
         "assetIds": [
           "img_tutorial_tips_tips-019"
+        ],
+        "navigationPositionType": 0
+      }
+    ],
+    "unlockConditionId": ""
+  },
+  {
+    "type": 32,
+    "stepInfo": [
+      {
+        "step": 1,
+        "subStep": 100,
+        "navigationType": 3,
+        "texts": [
+          "1週間を1シーズンとして、毎日決まった時間に自動で対戦が行われます。\n2日目以降は前日の結果を確認することで対戦が行われます。"
+        ],
+        "assetIds": [
+          "img_tutorial_tips_tips-021"
+        ],
+        "navigationPositionType": 0
+      }
+    ],
+    "unlockConditionId": ""
+  },
+  {
+    "type": 33,
+    "stepInfo": [
+      {
+        "step": 1,
+        "subStep": 100,
+        "navigationType": 3,
+        "texts": [
+          "ポテンシャルピースによって、アイドルの潜在ランクを上昇させることができます。実際のアイドルのLv上限は★(レアリティ)と潜在ランクの値を合算したものが適用されます。"
+        ],
+        "assetIds": [
+          "img_tutorial_tips_tips-020"
         ],
         "navigationPositionType": 0
       }

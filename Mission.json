@@ -13666,6 +13666,116 @@
     "linkDetail": ""
   },
   {
+    "id": "ms-cd-league_grade-1",
+    "categoryType": 3,
+    "missionType": 4,
+    "targetIds": [
+      "cd-league_grade-1"
+    ],
+    "name": "リーグL1初昇格",
+    "shortDescription": "リーグL1初昇格",
+    "longDescription": "リーグL1に初昇格しましょう。",
+    "order": 25,
+    "viewConditionId": "cd-clear-area-main-015",
+    "progresses": [
+      {
+        "threshold": "1",
+        "rewardSetId": "rd_auto;item;item-league_medal;3000"
+      }
+    ],
+    "linkType": 0,
+    "linkDetail": "",
+    "eventMissionId": ""
+  },
+  {
+    "id": "ms-cd-league_grade-2",
+    "categoryType": 3,
+    "missionType": 4,
+    "targetIds": [
+      "cd-league_grade-2"
+    ],
+    "name": "リーグL2初昇格",
+    "shortDescription": "リーグL2初昇格",
+    "longDescription": "リーグL2に初昇格しましょう。",
+    "order": 24,
+    "viewConditionId": "cd-clear-area-main-015",
+    "progresses": [
+      {
+        "threshold": "1",
+        "rewardSetId": "rd_auto;item;item-league_medal;2500"
+      }
+    ],
+    "linkType": 0,
+    "linkDetail": "",
+    "eventMissionId": ""
+  },
+  {
+    "id": "ms-cd-league_grade-3",
+    "categoryType": 3,
+    "missionType": 4,
+    "targetIds": [
+      "cd-league_grade-3"
+    ],
+    "name": "リーグL3初昇格",
+    "shortDescription": "リーグL3初昇格",
+    "longDescription": "リーグL3に初昇格しましょう。",
+    "order": 23,
+    "viewConditionId": "cd-clear-area-main-015",
+    "progresses": [
+      {
+        "threshold": "1",
+        "rewardSetId": "rd_auto;item;item-league_medal;2000"
+      }
+    ],
+    "linkType": 0,
+    "linkDetail": "",
+    "eventMissionId": ""
+  },
+  {
+    "id": "ms-cd-league_grade-4",
+    "categoryType": 3,
+    "missionType": 4,
+    "targetIds": [
+      "cd-league_grade-4"
+    ],
+    "name": "リーグL4初昇格",
+    "shortDescription": "リーグL4初昇格",
+    "longDescription": "リーグL4に初昇格しましょう。",
+    "order": 22,
+    "viewConditionId": "cd-clear-area-main-015",
+    "progresses": [
+      {
+        "threshold": "1",
+        "rewardSetId": "rd_auto;item;item-league_medal;1500"
+      }
+    ],
+    "linkType": 0,
+    "linkDetail": "",
+    "eventMissionId": ""
+  },
+  {
+    "id": "ms-cd-league_grade-5",
+    "categoryType": 3,
+    "missionType": 4,
+    "targetIds": [
+      "cd-league_grade-5"
+    ],
+    "name": "リーグL5初昇格",
+    "shortDescription": "リーグL5初昇格",
+    "longDescription": "リーグL5に初昇格しましょう。",
+    "order": 21,
+    "viewConditionId": "cd-clear-area-main-015",
+    "progresses": [
+      {
+        "threshold": "1",
+        "rewardSetId": "rd_auto;item;item-league_medal;1000"
+      }
+    ],
+    "linkType": 0,
+    "linkDetail": "",
+    "eventMissionId": ""
+  },
+  {
     "id": "ms-comeback-shop-limited-22-0328-check",
     "categoryType": 3,
     "missionType": 4,
@@ -21332,6 +21442,108 @@
       }
     ],
     "eventMissionId": "event-mini-marathon-22-0928",
+    "viewConditionId": "",
+    "linkType": 0,
+    "linkDetail": ""
+  },
+  {
+    "id": "ms-event-mini-marathon-23-0110-marathon_quest_clear_count_001",
+    "categoryType": 3,
+    "missionType": 1201,
+    "targetIds": [
+      "mini-marathon-23-0110-quest-1"
+    ],
+    "name": "No.1ステージを{threshold}回クリア",
+    "shortDescription": "No.1ステージを{threshold}回クリア",
+    "longDescription": "No.1ステージを{threshold}回クリアしましょう。",
+    "order": 1,
+    "progresses": [
+      {
+        "threshold": "20",
+        "rewardSetId": "rd_auto;stone;;50"
+      },
+      {
+        "threshold": "40",
+        "rewardSetId": "rd_auto;stone;;50"
+      },
+      {
+        "threshold": "70",
+        "rewardSetId": "rd_auto;stone;;50"
+      },
+      {
+        "threshold": "100",
+        "rewardSetId": "rd_auto;stone;;50"
+      }
+    ],
+    "eventMissionId": "event-mini-marathon-23-0110",
+    "viewConditionId": "",
+    "linkType": 0,
+    "linkDetail": ""
+  },
+  {
+    "id": "ms-event-mini-marathon-23-0110-marathon_quest_clear_count_002",
+    "categoryType": 3,
+    "missionType": 1201,
+    "targetIds": [
+      "mini-marathon-23-0110-quest-2"
+    ],
+    "name": "No.2ステージを{threshold}回クリア",
+    "shortDescription": "No.2ステージを{threshold}回クリア",
+    "longDescription": "No.2ステージを{threshold}回クリアしましょう。",
+    "order": 2,
+    "progresses": [
+      {
+        "threshold": "20",
+        "rewardSetId": "rd_auto;stone;;50"
+      },
+      {
+        "threshold": "40",
+        "rewardSetId": "rd_auto;stone;;50"
+      },
+      {
+        "threshold": "70",
+        "rewardSetId": "rd_auto;stone;;50"
+      },
+      {
+        "threshold": "100",
+        "rewardSetId": "rd_auto;stone;;50"
+      }
+    ],
+    "eventMissionId": "event-mini-marathon-23-0110",
+    "viewConditionId": "",
+    "linkType": 0,
+    "linkDetail": ""
+  },
+  {
+    "id": "ms-event-mini-marathon-23-0110-marathon_quest_clear_count_003",
+    "categoryType": 3,
+    "missionType": 1201,
+    "targetIds": [
+      "mini-marathon-23-0110-quest-3"
+    ],
+    "name": "No.3ステージを{threshold}回クリア",
+    "shortDescription": "No.3ステージを{threshold}回クリア",
+    "longDescription": "No.3ステージを{threshold}回クリアしましょう。",
+    "order": 3,
+    "progresses": [
+      {
+        "threshold": "20",
+        "rewardSetId": "rd_auto;stone;;50"
+      },
+      {
+        "threshold": "40",
+        "rewardSetId": "rd_auto;stone;;50"
+      },
+      {
+        "threshold": "70",
+        "rewardSetId": "rd_auto;stone;;50"
+      },
+      {
+        "threshold": "100",
+        "rewardSetId": "rd_auto;stone;;50"
+      }
+    ],
+    "eventMissionId": "event-mini-marathon-23-0110",
     "viewConditionId": "",
     "linkType": 0,
     "linkDetail": ""
