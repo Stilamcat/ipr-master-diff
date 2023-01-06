@@ -19624,6 +19624,30 @@
     ]
   },
   {
+    "id": "cd-function_lock-pvp-23-0106",
+    "settings": [
+      {
+        "notSatisfyCondition": {
+          "conditionId": "cd-function_lock-pvp-23-0106-lock"
+        },
+        "clearArea": {
+          "areaId": "area-main-011"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-function_lock-pvp-23-0106-lock",
+    "settings": [
+      {
+        "term": {
+          "nowAfter": "1672973100000",
+          "nowBefore": "1672975800000"
+        }
+      }
+    ]
+  },
+  {
     "id": "cd-function_lock-pvp-maintenance",
     "settings": [
       {
