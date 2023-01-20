@@ -3484,6 +3484,56 @@
     ]
   },
   {
+    "homeTalkId": "home-talk-card-skr-05-chna-00-talk-01",
+    "characterId": "char-skr",
+    "placeType": 1,
+    "conditionId": "cd-st-read-st-card-skr-05-chna-00-03",
+    "firstPriority": 9900,
+    "weight": 1,
+    "callPatternId": "call-pattern-card-skr-05-chna-00",
+    "choiceText": "あぁ、何度か見たな。見てると\nこっちまでお腹が空いてくるよ。",
+    "managerText": "あぁ、何度か見たな。見てると\nこっちまでお腹が空いてくるよ。",
+    "reliability": 5,
+    "characterTalks": [
+      {
+        "text": "私も寮であのCMを見て\n無性に中華まんが食べたく\nなっちゃって…",
+        "voiceAssetId": "sud_vo_home_skr-05-chna-00_talk-01-01",
+        "motionAssetId": "mot_adv_chr_cmn_emb-002_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "買いに行こうか迷ってたら、\n遙子ちゃんが台所にある物で\n作ってくれたんです。",
+        "voiceAssetId": "sud_vo_home_skr-05-chna-00_talk-01-02",
+        "motionAssetId": "mot_adv_chr_cmn_pos-009_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "中華まんって家で作れるんですね。\nとっても美味しくて\n感動しちゃいました！",
+        "voiceAssetId": "sud_vo_home_skr-05-chna-00_talk-01-03",
+        "motionAssetId": "mot_adv_chr_cmn_emot-001_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "料理上手な女の人って\n素敵ですよね。\n憧れちゃうなぁ～",
+        "voiceAssetId": "sud_vo_home_skr-05-chna-00_talk-01-04",
+        "motionAssetId": "mot_adv_chr_cmn_think-003_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "…今度遙子ちゃんに教わって\n私も中華まん作りに\n挑戦してみようかな？",
+        "voiceAssetId": "sud_vo_home_skr-05-chna-00_talk-01-05",
+        "motionAssetId": "mot_adv_chr_cmn_glad-003_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "沢山種類があると楽しそうですね。\n{user}さんも\n一緒に作りましょう！",
+        "voiceAssetId": "sud_vo_home_skr-05-chna-00_talk-01-06",
+        "motionAssetId": "mot_adv_chr_cmn_pos-007_in",
+        "additionMotionAssetId": ""
+      }
+    ]
+  },
+  {
     "homeTalkId": "home-talk-card-skr-05-fest-00-talk-01",
     "characterId": "char-skr",
     "placeType": 1,

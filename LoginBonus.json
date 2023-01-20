@@ -799,6 +799,25 @@
     "receiveConditionId": "cd-time-login-23-0104-0117"
   },
   {
+    "id": "login_bonus-campaign-23-0123-01",
+    "name": "育成応援",
+    "description": "5日間の特別なログインボーナス",
+    "type": 2,
+    "assetId": "login-campaign-21-0706-01",
+    "topColorCode": "00CEFF",
+    "bottomColorCode": "D0FFA0",
+    "priority": 10,
+    "rewardIds": [
+      "rd_auto;item;item-daily_quest_ticket_01;2",
+      "rd_auto;item;item-daily_quest_ticket_02;2",
+      "rd_auto;item;item-act_refresh_shorten;1",
+      "rd_auto;item;item-act_promotion_shorten;1",
+      "rd_auto;stone;;500"
+    ],
+    "openConditionId": "cd-time-login-23-0123-0129",
+    "receiveConditionId": "cd-time-login-23-0123-0205"
+  },
+  {
     "id": "login_bonus-normal-01",
     "name": "デイリー",
     "description": "毎日もらえるログインボーナス",

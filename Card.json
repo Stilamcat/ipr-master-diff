@@ -6514,6 +6514,66 @@
     "homeTalks": []
   },
   {
+    "id": "card-skr-05-chna-00",
+    "assetId": "skr-05-chna-00",
+    "name": "パクパク満腹笑顔",
+    "description": "美味しい中華まんが食べたいな～\r\nそんな時は……じゃーん！\r\n定番の中華まんが、さらに美味しくなって新登場！\r\n寒い冬はこれで決まりだね！",
+    "type": 1,
+    "characterId": "char-skr",
+    "initialRarity": 5,
+    "cardParameterId": "card-param-01",
+    "vocalRatioPermil": 278,
+    "danceRatioPermil": 433,
+    "visualRatioPermil": 319,
+    "staminaRatioPermil": 900,
+    "cardLevelReleaseId": "card_level_release_1",
+    "skillId1": "sk-skr-05-chna-00-1",
+    "skillId2": "sk-skr-05-chna-00-2",
+    "skillId3": "sk-skr-05-chna-00-3",
+    "activityAbilityId": "aab-promotion_manager_exp_up",
+    "order": 263,
+    "releaseDate": "1674183600000",
+    "rewardCostumeId": "cos-skr-chna-00",
+    "imageType1": 3,
+    "displayPositionX1": 0.063,
+    "displayPositionY1": 0.167,
+    "displayScale1": 1.5,
+    "highlightDisplayPositionX1": -0.087,
+    "highlightDisplayPositionY1": 0.261,
+    "highlightDisplayScale1": 1.0,
+    "imageType2": 3,
+    "displayPositionX2": 0.063,
+    "displayPositionY2": 0.167,
+    "displayScale2": 1.5,
+    "highlightDisplayPositionX2": -0.087,
+    "highlightDisplayPositionY2": 0.261,
+    "highlightDisplayScale2": 1.0,
+    "obtainMessage": "はああぁ～、美味しい～！\n美味し過ぎてほっぺたゆるゆるです！",
+    "stories": [
+      {
+        "storyId": "st-card-skr-05-chna-00-01"
+      },
+      {
+        "storyId": "st-card-skr-05-chna-00-02"
+      },
+      {
+        "storyId": "st-card-skr-05-chna-00-03"
+      }
+    ],
+    "messages": [
+      {
+        "messageId": "message-card-skr-05-chna-00",
+        "telephoneId": ""
+      },
+      {
+        "telephoneId": "tel-card-skr-05-chna-00",
+        "messageId": ""
+      }
+    ],
+    "liveAbilityId": "",
+    "homeTalks": []
+  },
+  {
     "id": "card-skr-05-fest-00",
     "assetId": "skr-05-fest-00",
     "name": "あなたの光になれるように",

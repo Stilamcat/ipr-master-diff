@@ -1833,19 +1833,6 @@
     "isUserUnavailable": false
   },
   {
-    "id": "cos-mku-miku-00-casl",
-    "bodyAssetId": "mku-miku-00",
-    "characterId": "char-mku",
-    "order": 1,
-    "name": "初音ミク：オリジナル",
-    "releaseDate": "1661914800000",
-    "costumeTypeId": "casl",
-    "sdAssetId": "mku-miku-00",
-    "motifAssetId": "miku-00",
-    "isUserUnavailable": true,
-    "defaultHairId": "hair-mku-miku-00-casl"
-  },
-  {
     "id": "cos-mku-miku-01",
     "bodyAssetId": "mku-miku-01",
     "characterId": "char-mku",
@@ -3065,6 +3052,19 @@
     "sdAssetId": "skr-casl-01",
     "motifAssetId": "casl-01",
     "defaultHairId": "hair-skr-casl-01",
+    "isUserUnavailable": false
+  },
+  {
+    "id": "cos-skr-chna-00",
+    "bodyAssetId": "skr-chna-00",
+    "characterId": "char-skr",
+    "order": 163,
+    "name": "満福華衣",
+    "releaseDate": "1674183600000",
+    "costumeTypeId": "idol",
+    "sdAssetId": "skr-chna-00",
+    "motifAssetId": "chna-00",
+    "defaultHairId": "hair-skr-chna-00",
     "isUserUnavailable": false
   },
   {
