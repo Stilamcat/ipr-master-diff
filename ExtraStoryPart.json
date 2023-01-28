@@ -1,1 +1,51 @@
-[]
+[
+  {
+    "id": "ex-story-part-birthday-01",
+    "assetId": "birthday-01",
+    "name": "誕生日",
+    "order": 1,
+    "type": 1,
+    "viewConditionId": "cd-ex-story-part-birthday-01-open",
+    "unlockConditionId": "cd-ex-story-part-birthday-01-open",
+    "extraStoryIds": [
+      "ex-story-part-birthday-01-hrk-0103",
+      "ex-story-part-birthday-01-mhk-0125",
+      "ex-story-part-birthday-01-ai-0209",
+      "ex-story-part-birthday-01-yu-0227",
+      "ex-story-part-birthday-01-rei-0308",
+      "ex-story-part-birthday-01-skr-0403",
+      "ex-story-part-birthday-01-smr-0505",
+      "ex-story-part-birthday-01-aoi-0619",
+      "ex-story-part-birthday-01-mei-0707",
+      "ex-story-part-birthday-01-ngs-0803",
+      "ex-story-part-birthday-01-rio-0828",
+      "ex-story-part-birthday-01-suz-0913",
+      "ex-story-part-birthday-01-ski-0926",
+      "ex-story-part-birthday-01-szk-1015",
+      "ex-story-part-birthday-01-rui-1111",
+      "ex-story-part-birthday-01-chs-1122",
+      "ex-story-part-birthday-01-kkr-1206",
+      "ex-story-part-birthday-01-ktn-1225"
+    ],
+    "subTitle": "",
+    "noteText": ""
+  },
+  {
+    "id": "ex-story-part-special-01",
+    "assetId": "special-01",
+    "name": "特別編",
+    "order": 2,
+    "type": 1,
+    "viewConditionId": "cd-ex-story-part-special-01-open",
+    "unlockConditionId": "cd-ex-story-part-special-01-open",
+    "extraStoryIds": [
+      "ex-story-part-special-01-21-1224-half-aniv",
+      "ex-story-part-special-01-22-0624-aniv",
+      "ex-story-part-special-01-22-0401-april",
+      "ex-story-part-special-01-22-0103-newyear",
+      "ex-story-part-special-01-23-0101-newyear"
+    ],
+    "subTitle": "",
+    "noteText": ""
+  }
+]

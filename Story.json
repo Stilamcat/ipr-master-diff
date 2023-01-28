@@ -1794,6 +1794,45 @@
     "description": ""
   },
   {
+    "id": "st-card-mna-05-vlnt-00-01",
+    "name": "経験ないのに",
+    "rewardId": "rd_auto;stone;;30",
+    "advPlayTypes": [
+      1
+    ],
+    "advAssetIds": [
+      "card_mna_03_01"
+    ],
+    "sectionName": "",
+    "description": ""
+  },
+  {
+    "id": "st-card-mna-05-vlnt-00-02",
+    "name": "今は見ないで",
+    "rewardId": "rd_auto;stone;;30",
+    "advPlayTypes": [
+      1
+    ],
+    "advAssetIds": [
+      "card_mna_03_02"
+    ],
+    "sectionName": "",
+    "description": ""
+  },
+  {
+    "id": "st-card-mna-05-vlnt-00-03",
+    "name": "こうご期待",
+    "rewardId": "rd_auto;stone;;30",
+    "advPlayTypes": [
+      1
+    ],
+    "advAssetIds": [
+      "card_mna_03_03"
+    ],
+    "sectionName": "",
+    "description": ""
+  },
+  {
     "id": "st-card-ngs-05-akma-00-01",
     "name": "小悪魔\nといえば？",
     "rewardId": "rd_auto;stone;;30",
@@ -2647,6 +2686,45 @@
     ],
     "advAssetIds": [
       "card_rui_02_03"
+    ],
+    "sectionName": "",
+    "description": ""
+  },
+  {
+    "id": "st-card-rui-05-vlnt-00-01",
+    "name": "掴めない感覚",
+    "rewardId": "rd_auto;stone;;30",
+    "advPlayTypes": [
+      1
+    ],
+    "advAssetIds": [
+      "card_rui_06_01"
+    ],
+    "sectionName": "",
+    "description": ""
+  },
+  {
+    "id": "st-card-rui-05-vlnt-00-02",
+    "name": "ひとたび\n意識して\nしまうと",
+    "rewardId": "rd_auto;stone;;30",
+    "advPlayTypes": [
+      1
+    ],
+    "advAssetIds": [
+      "card_rui_06_02"
+    ],
+    "sectionName": "",
+    "description": ""
+  },
+  {
+    "id": "st-card-rui-05-vlnt-00-03",
+    "name": "大切な人に\n想いを",
+    "rewardId": "rd_auto;stone;;30",
+    "advPlayTypes": [
+      1
+    ],
+    "advAssetIds": [
+      "card_rui_06_03"
     ],
     "sectionName": "",
     "description": ""
@@ -5184,6 +5262,539 @@
       "event_2301_01_05_02"
     ],
     "sectionName": ""
+  },
+  {
+    "id": "st-eve-2302-marathon-raid-001",
+    "name": "レッツ・XXX・チャレンジ",
+    "description": "有名お菓子メーカーから、バレンタインCMの仕事が舞い込んだトリエル。学園生活を舞台に同級生を演じるという内容に三人は心躍らせる。しかし、そのCMには優が発狂するほどの過激シーンが瑠依に用意されていた。",
+    "rewardId": "rd_auto;stone;;30",
+    "advPlayTypes": [
+      1
+    ],
+    "advAssetIds": [
+      "event_2302_01_01"
+    ],
+    "sectionName": ""
+  },
+  {
+    "id": "st-eve-2302-marathon-raid-002",
+    "name": "あなたと練習キッス",
+    "description": "鏡の前でキスの練習に励む瑠依だが、一人での練習に苦戦中。そこで練習相手になってもらおうとあなたにキスを迫る。そんな二人をレッスンルームの扉越しに見て動揺した優とすみれが乗り込んでくる。",
+    "rewardId": "rd_auto;stone;;30",
+    "advPlayTypes": [
+      1
+    ],
+    "advAssetIds": [
+      "event_2302_01_02"
+    ],
+    "sectionName": ""
+  },
+  {
+    "id": "st-eve-2302-marathon-raid-003",
+    "name": "瑠依ちゃんの唇守り隊",
+    "description": "優は瑠依のキスの練習相手を引き受けることになり上機嫌。だが、キスがなくなるわけではないことに気づき『瑠依ちゃんの唇守り隊』を一人で結成。そして、あの手この手でキス相手を抹消しようと画策しだす。",
+    "rewardId": "rd_auto;stone;;30",
+    "advPlayTypes": [
+      1
+    ],
+    "advAssetIds": [
+      "event_2302_01_03"
+    ],
+    "sectionName": ""
+  },
+  {
+    "id": "st-eve-2302-marathon-raid-004",
+    "name": "相思相愛チョコレート",
+    "description": "練習生時代に起きた瑠依とのバレンタインの大切な思い出を回顧する優。その話を聞いたすみれは心打たれ、とうとう『瑠依ちゃんの唇守り隊』に入隊を決意。果たして二人は瑠依の唇を守り切ることができるのか！？",
+    "rewardId": "rd_auto;stone;;30",
+    "advPlayTypes": [
+      1
+    ],
+    "advAssetIds": [
+      "event_2302_01_04"
+    ],
+    "sectionName": ""
+  },
+  {
+    "id": "st-eve-2302-marathon-raid-005",
+    "name": "グッバイ・キスシーン",
+    "description": "いよいよ始まるCM撮影。『瑠依ちゃんの唇守り隊』の活動が功を奏し、急遽台本は変更に。しかし、俳優とのキスはなくなったものの全国のお茶の間に瑠依のキス顔が流れることになり……。",
+    "rewardId": "rd_auto;stone;;30",
+    "advPlayTypes": [
+      1
+    ],
+    "advAssetIds": [
+      "event_2302_01_05"
+    ],
+    "sectionName": ""
+  },
+  {
+    "id": "st-ex-story-part-birthday-01-ai-01",
+    "name": "小美山愛 誕生日2022",
+    "advPlayTypes": [
+      3
+    ],
+    "advAssetIds": [
+      "hbd_02_ai"
+    ],
+    "sectionName": "",
+    "description": "",
+    "rewardId": ""
+  },
+  {
+    "id": "st-ex-story-part-birthday-01-aoi-01",
+    "name": "井川葵 誕生日2022",
+    "advPlayTypes": [
+      3
+    ],
+    "advAssetIds": [
+      "hbd_02_aoi"
+    ],
+    "sectionName": "",
+    "description": "",
+    "rewardId": ""
+  },
+  {
+    "id": "st-ex-story-part-birthday-01-chs-01",
+    "name": "白石千紗 誕生日2021",
+    "advPlayTypes": [
+      3
+    ],
+    "advAssetIds": [
+      "hbd_01_chs"
+    ],
+    "sectionName": "",
+    "description": "",
+    "rewardId": ""
+  },
+  {
+    "id": "st-ex-story-part-birthday-01-chs-02",
+    "name": "白石千紗 誕生日2022",
+    "advPlayTypes": [
+      3
+    ],
+    "advAssetIds": [
+      "hbd_02_chs"
+    ],
+    "sectionName": "",
+    "description": "",
+    "rewardId": ""
+  },
+  {
+    "id": "st-ex-story-part-birthday-01-hrk-01",
+    "name": "佐伯遙子 誕生日2022",
+    "advPlayTypes": [
+      3
+    ],
+    "advAssetIds": [
+      "hbd_02_hrk"
+    ],
+    "sectionName": "",
+    "description": "",
+    "rewardId": ""
+  },
+  {
+    "id": "st-ex-story-part-birthday-01-hrk-02",
+    "name": "佐伯遙子 誕生日2023",
+    "advPlayTypes": [
+      3
+    ],
+    "advAssetIds": [
+      "hbd_03_hrk"
+    ],
+    "sectionName": "",
+    "description": "",
+    "rewardId": ""
+  },
+  {
+    "id": "st-ex-story-part-birthday-01-kkr-01",
+    "name": "赤崎こころ 誕生日2021",
+    "advPlayTypes": [
+      3
+    ],
+    "advAssetIds": [
+      "hbd_01_kkr"
+    ],
+    "sectionName": "",
+    "description": "",
+    "rewardId": ""
+  },
+  {
+    "id": "st-ex-story-part-birthday-01-kkr-02",
+    "name": "赤崎こころ 誕生日2022",
+    "advPlayTypes": [
+      3
+    ],
+    "advAssetIds": [
+      "hbd_02_kkr"
+    ],
+    "sectionName": "",
+    "description": "",
+    "rewardId": ""
+  },
+  {
+    "id": "st-ex-story-part-birthday-01-ktn-01",
+    "name": "長瀬琴乃 誕生日2021",
+    "advPlayTypes": [
+      3
+    ],
+    "advAssetIds": [
+      "hbd_02_ktn"
+    ],
+    "sectionName": "",
+    "description": "",
+    "rewardId": ""
+  },
+  {
+    "id": "st-ex-story-part-birthday-01-ktn-02",
+    "name": "長瀬琴乃 誕生日2022",
+    "advPlayTypes": [
+      3
+    ],
+    "advAssetIds": [
+      "hbd_03_ktn"
+    ],
+    "sectionName": "",
+    "description": "",
+    "rewardId": ""
+  },
+  {
+    "id": "st-ex-story-part-birthday-01-mei-01",
+    "name": "早坂芽衣 誕生日2021",
+    "advPlayTypes": [
+      3
+    ],
+    "advAssetIds": [
+      "hbd_01_mei"
+    ],
+    "sectionName": "",
+    "description": "",
+    "rewardId": ""
+  },
+  {
+    "id": "st-ex-story-part-birthday-01-mei-02",
+    "name": "早坂芽衣 誕生日2022",
+    "advPlayTypes": [
+      3
+    ],
+    "advAssetIds": [
+      "hbd_02_mei"
+    ],
+    "sectionName": "",
+    "description": "",
+    "rewardId": ""
+  },
+  {
+    "id": "st-ex-story-part-birthday-01-mhk-01",
+    "name": "miho 誕生日2023",
+    "advPlayTypes": [
+      3
+    ],
+    "advAssetIds": [
+      "hbd_03_mhk"
+    ],
+    "sectionName": "",
+    "description": "",
+    "rewardId": ""
+  },
+  {
+    "id": "st-ex-story-part-birthday-01-ngs-01",
+    "name": "伊吹渚 誕生日2021",
+    "advPlayTypes": [
+      3
+    ],
+    "advAssetIds": [
+      "hbd_01_ngs"
+    ],
+    "sectionName": "",
+    "description": "",
+    "rewardId": ""
+  },
+  {
+    "id": "st-ex-story-part-birthday-01-ngs-02",
+    "name": "伊吹渚 誕生日2022",
+    "advPlayTypes": [
+      3
+    ],
+    "advAssetIds": [
+      "hbd_02_ngs"
+    ],
+    "sectionName": "",
+    "description": "",
+    "rewardId": ""
+  },
+  {
+    "id": "st-ex-story-part-birthday-01-rei-01",
+    "name": "一ノ瀬怜 誕生日2022",
+    "advPlayTypes": [
+      3
+    ],
+    "advAssetIds": [
+      "hbd_02_rei"
+    ],
+    "sectionName": "",
+    "description": "",
+    "rewardId": ""
+  },
+  {
+    "id": "st-ex-story-part-birthday-01-rio-01",
+    "name": "神崎莉央 誕生日2021",
+    "advPlayTypes": [
+      3
+    ],
+    "advAssetIds": [
+      "hbd_01_rio"
+    ],
+    "sectionName": "",
+    "description": "",
+    "rewardId": ""
+  },
+  {
+    "id": "st-ex-story-part-birthday-01-rio-02",
+    "name": "神崎莉央 誕生日2022",
+    "advPlayTypes": [
+      3
+    ],
+    "advAssetIds": [
+      "hbd_02_rio"
+    ],
+    "sectionName": "",
+    "description": "",
+    "rewardId": ""
+  },
+  {
+    "id": "st-ex-story-part-birthday-01-rui-01",
+    "name": "天動瑠依 誕生日2021",
+    "advPlayTypes": [
+      3
+    ],
+    "advAssetIds": [
+      "hbd_01_rui"
+    ],
+    "sectionName": "",
+    "description": "",
+    "rewardId": ""
+  },
+  {
+    "id": "st-ex-story-part-birthday-01-rui-02",
+    "name": "天動瑠依 誕生日2022",
+    "advPlayTypes": [
+      3
+    ],
+    "advAssetIds": [
+      "hbd_02_rui"
+    ],
+    "sectionName": "",
+    "description": "",
+    "rewardId": ""
+  },
+  {
+    "id": "st-ex-story-part-birthday-01-ski-01",
+    "name": "白石沙季 誕生日2021",
+    "advPlayTypes": [
+      3
+    ],
+    "advAssetIds": [
+      "hbd_01_ski"
+    ],
+    "sectionName": "",
+    "description": "",
+    "rewardId": ""
+  },
+  {
+    "id": "st-ex-story-part-birthday-01-ski-02",
+    "name": "白石沙季 誕生日2022",
+    "advPlayTypes": [
+      3
+    ],
+    "advAssetIds": [
+      "hbd_02_ski"
+    ],
+    "sectionName": "",
+    "description": "",
+    "rewardId": ""
+  },
+  {
+    "id": "st-ex-story-part-birthday-01-skr-01",
+    "name": "川咲さくら 誕生日2022",
+    "advPlayTypes": [
+      3
+    ],
+    "advAssetIds": [
+      "hbd_02_skr"
+    ],
+    "sectionName": "",
+    "description": "",
+    "rewardId": ""
+  },
+  {
+    "id": "st-ex-story-part-birthday-01-smr-01",
+    "name": "奥山すみれ 誕生日2022",
+    "advPlayTypes": [
+      3
+    ],
+    "advAssetIds": [
+      "hbd_02_smr"
+    ],
+    "sectionName": "",
+    "description": "",
+    "rewardId": ""
+  },
+  {
+    "id": "st-ex-story-part-birthday-01-suz-01",
+    "name": "成宮すず 誕生日2021",
+    "advPlayTypes": [
+      3
+    ],
+    "advAssetIds": [
+      "hbd_01_suz"
+    ],
+    "sectionName": "",
+    "description": "",
+    "rewardId": ""
+  },
+  {
+    "id": "st-ex-story-part-birthday-01-suz-02",
+    "name": "成宮すず 誕生日2022",
+    "advPlayTypes": [
+      3
+    ],
+    "advAssetIds": [
+      "hbd_02_suz"
+    ],
+    "sectionName": "",
+    "description": "",
+    "rewardId": ""
+  },
+  {
+    "id": "st-ex-story-part-birthday-01-szk-01",
+    "name": "兵藤雫 誕生日2021",
+    "advPlayTypes": [
+      3
+    ],
+    "advAssetIds": [
+      "hbd_01_szk"
+    ],
+    "sectionName": "",
+    "description": "",
+    "rewardId": ""
+  },
+  {
+    "id": "st-ex-story-part-birthday-01-szk-02",
+    "name": "兵藤雫 誕生日2022",
+    "advPlayTypes": [
+      3
+    ],
+    "advAssetIds": [
+      "hbd_02_szk"
+    ],
+    "sectionName": "",
+    "description": "",
+    "rewardId": ""
+  },
+  {
+    "id": "st-ex-story-part-birthday-01-yu-01",
+    "name": "鈴村優 誕生日2022",
+    "advPlayTypes": [
+      3
+    ],
+    "advAssetIds": [
+      "hbd_02_yu"
+    ],
+    "sectionName": "",
+    "description": "",
+    "rewardId": ""
+  },
+  {
+    "id": "st-ex-story-part-special-01-21-1224-half-aniv",
+    "name": "半周年",
+    "advPlayTypes": [
+      5
+    ],
+    "advAssetIds": [
+      "campaign_2021_1224"
+    ],
+    "sectionName": "",
+    "description": "",
+    "rewardId": ""
+  },
+  {
+    "id": "st-ex-story-part-special-01-22-0103-newyear-01",
+    "name": "お正月 2021",
+    "advPlayTypes": [
+      3
+    ],
+    "advAssetIds": [
+      "event_2201_02_01"
+    ],
+    "sectionName": "",
+    "description": "",
+    "rewardId": ""
+  },
+  {
+    "id": "st-ex-story-part-special-01-22-0401-april-01",
+    "name": "エイプリル 2021①",
+    "advPlayTypes": [
+      5
+    ],
+    "advAssetIds": [
+      "campaign_2022_0401-01"
+    ],
+    "sectionName": "",
+    "description": "",
+    "rewardId": ""
+  },
+  {
+    "id": "st-ex-story-part-special-01-22-0401-april-02",
+    "name": "エイプリル 2021②",
+    "advPlayTypes": [
+      5
+    ],
+    "advAssetIds": [
+      "campaign_2022_0401-02"
+    ],
+    "sectionName": "",
+    "description": "",
+    "rewardId": ""
+  },
+  {
+    "id": "st-ex-story-part-special-01-22-0624-aniv-01",
+    "name": "周年①",
+    "advPlayTypes": [
+      4
+    ],
+    "advAssetIds": [
+      "campaign_2022_0624-anniv"
+    ],
+    "sectionName": "",
+    "description": "",
+    "rewardId": ""
+  },
+  {
+    "id": "st-ex-story-part-special-01-22-0624-aniv-02",
+    "name": "周年②",
+    "advPlayTypes": [
+      3
+    ],
+    "advAssetIds": [
+      "event_2206_02_01"
+    ],
+    "sectionName": "",
+    "description": "",
+    "rewardId": ""
+  },
+  {
+    "id": "st-ex-story-part-special-01-23-0101-newyear-01",
+    "name": "お正月 2022",
+    "advPlayTypes": [
+      3
+    ],
+    "advAssetIds": [
+      "event_2301_02_01"
+    ],
+    "sectionName": "",
+    "description": "",
+    "rewardId": ""
   },
   {
     "id": "st-group-liz-01-01-01",

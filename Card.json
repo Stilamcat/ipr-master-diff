@@ -3791,6 +3791,62 @@
     "homeTalks": []
   },
   {
+    "id": "card-mna-05-vlnt-00",
+    "assetId": "mna-05-vlnt-00",
+    "name": "胸に残るショコラの約束",
+    "description": "私から君へのバレンタインチョコだよ\r\nもちろん本気の本気。本命チョコ\r\n……照れないの。君は鈍いんだから\r\nこれくらいはっきり言わなきゃ伝わらないでしょ？",
+    "type": 3,
+    "characterId": "char-mna",
+    "initialRarity": 5,
+    "cardParameterId": "card-param-01",
+    "vocalRatioPermil": 328,
+    "danceRatioPermil": 288,
+    "visualRatioPermil": 414,
+    "staminaRatioPermil": 900,
+    "cardLevelReleaseId": "card_level_release_1",
+    "skillId1": "sk-mna-05-vlnt-00-1",
+    "skillId2": "sk-mna-05-vlnt-00-2",
+    "skillId3": "sk-mna-05-vlnt-00-3",
+    "liveAbilityId": "lba-active_skill_score_multiply",
+    "order": 264,
+    "releaseDate": "1674874800000",
+    "rewardCostumeId": "cos-mna-vlnt-00",
+    "imageType1": 3,
+    "displayPositionX1": 0.189,
+    "displayPositionY1": 0.113,
+    "displayScale1": 1.3,
+    "highlightDisplayPositionX1": -0.29,
+    "highlightDisplayPositionY1": 0.157,
+    "highlightDisplayScale1": 0.9,
+    "imageType2": 3,
+    "displayPositionX2": 0.189,
+    "displayPositionY2": 0.113,
+    "displayScale2": 1.3,
+    "highlightDisplayPositionX2": -0.29,
+    "highlightDisplayPositionY2": 0.157,
+    "highlightDisplayScale2": 0.9,
+    "obtainMessage": "……私のこと、どう思ってるの？",
+    "stories": [
+      {
+        "storyId": "st-card-mna-05-vlnt-00-01"
+      },
+      {
+        "storyId": "st-card-mna-05-vlnt-00-02"
+      },
+      {
+        "storyId": "st-card-mna-05-vlnt-00-03"
+      }
+    ],
+    "messages": [
+      {
+        "messageId": "message-card-mna-05-vlnt-00",
+        "telephoneId": ""
+      }
+    ],
+    "activityAbilityId": "",
+    "homeTalks": []
+  },
+  {
     "id": "card-ngs-02-eve-01",
     "assetId": "ngs-02-eve-01",
     "name": "姉妹の活躍に染められて",
@@ -5799,6 +5855,62 @@
     "liveAbilityId": ""
   },
   {
+    "id": "card-rui-05-vlnt-00",
+    "assetId": "rui-05-vlnt-00",
+    "name": "薔薇色の夕暮れに染まって",
+    "description": "その、本当は当日にお渡しする予定だったんです\r\nでもなんだかいろいろと余計なことを考えちゃって……\r\n当日に渡したら、『そういう』意味だと\r\n誤解されてしまうような気がして……！",
+    "type": 1,
+    "characterId": "char-rui",
+    "initialRarity": 5,
+    "cardParameterId": "card-param-01",
+    "vocalRatioPermil": 433,
+    "danceRatioPermil": 320,
+    "visualRatioPermil": 277,
+    "staminaRatioPermil": 900,
+    "cardLevelReleaseId": "card_level_release_1",
+    "skillId1": "sk-rui-05-vlnt-00-1",
+    "skillId2": "sk-rui-05-vlnt-00-2",
+    "skillId3": "sk-rui-05-vlnt-00-3",
+    "activityAbilityId": "aab-promotion_accessory_multi_step_reward_up",
+    "order": 265,
+    "releaseDate": "1674874800000",
+    "rewardCostumeId": "cos-rui-vlnt-00",
+    "imageType1": 3,
+    "displayPositionX1": 0.126,
+    "displayPositionY1": 0.143,
+    "displayScale1": 1.4,
+    "highlightDisplayPositionX1": -0.263,
+    "highlightDisplayPositionY1": 0.23,
+    "highlightDisplayScale1": 1.0,
+    "imageType2": 3,
+    "displayPositionX2": 0.126,
+    "displayPositionY2": 0.143,
+    "displayScale2": 1.4,
+    "highlightDisplayPositionX2": -0.263,
+    "highlightDisplayPositionY2": 0.23,
+    "highlightDisplayScale2": 1.0,
+    "obtainMessage": "言ってましたよね\n今日は大切な人に想いを伝える日だ、って",
+    "stories": [
+      {
+        "storyId": "st-card-rui-05-vlnt-00-01"
+      },
+      {
+        "storyId": "st-card-rui-05-vlnt-00-02"
+      },
+      {
+        "storyId": "st-card-rui-05-vlnt-00-03"
+      }
+    ],
+    "messages": [
+      {
+        "messageId": "message-card-rui-05-vlnt-00",
+        "telephoneId": ""
+      }
+    ],
+    "liveAbilityId": "",
+    "homeTalks": []
+  },
+  {
     "id": "card-rui-05-xmas-00",
     "assetId": "rui-05-xmas-00",
     "name": "白息はずむホーリーナイト",
@@ -6819,6 +6931,47 @@
     "liveAbilityId": "",
     "displayPositionY1": 0.0,
     "displayPositionY2": 0.0,
+    "homeTalks": []
+  },
+  {
+    "id": "card-smr-02-eve-00",
+    "assetId": "smr-02-eve-00",
+    "name": "憧れのスクールラブ",
+    "description": "放課後に片思いの男の子と二人きり……！\r\nわぁ～瑠依ちゃんのキスシーン楽しみだっちゃ～！\r\nなんだか私までドキドキしてきたよ～",
+    "type": 2,
+    "characterId": "char-smr",
+    "initialRarity": 2,
+    "cardParameterId": "card-param-01",
+    "vocalRatioPermil": 320,
+    "danceRatioPermil": 278,
+    "visualRatioPermil": 402,
+    "staminaRatioPermil": 1000,
+    "cardLevelReleaseId": "card_level_release_1",
+    "skillId1": "sk-smr-02-eve-00-1",
+    "skillId2": "sk-smr-02-eve-00-2",
+    "skillId3": "sk-smr-02-eve-00-3",
+    "order": 266,
+    "releaseDate": "1674874800000",
+    "imageType1": 1,
+    "displayPositionY1": 0.204,
+    "displayScale1": 1.0,
+    "highlightDisplayPositionY1": 0.204,
+    "highlightDisplayScale1": 1.0,
+    "imageType2": 2,
+    "displayPositionX2": -0.295,
+    "displayPositionY2": 0.085,
+    "displayScale2": 1.3,
+    "highlightDisplayPositionX2": 0.735,
+    "highlightDisplayPositionY2": 0.123,
+    "highlightDisplayScale2": 0.6,
+    "liveAbilityId": "",
+    "activityAbilityId": "",
+    "rewardCostumeId": "",
+    "displayPositionX1": 0.0,
+    "highlightDisplayPositionX1": 0.0,
+    "obtainMessage": "",
+    "stories": [],
+    "messages": [],
     "homeTalks": []
   },
   {

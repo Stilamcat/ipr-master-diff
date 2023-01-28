@@ -2118,6 +2118,56 @@
     ]
   },
   {
+    "homeTalkId": "home-talk-card-mna-05-vlnt-00-talk-01",
+    "characterId": "char-mna",
+    "placeType": 1,
+    "conditionId": "cd-st-read-st-card-mna-05-vlnt-00-03",
+    "firstPriority": 9900,
+    "weight": 1,
+    "callPatternId": "call-pattern-card-mna-05-vlnt-00",
+    "choiceText": "ああ、どうしたんだ？",
+    "managerText": "ああ、どうしたんだ？",
+    "reliability": 5,
+    "characterTalks": [
+      {
+        "text": "この間のバレンタインの\nCMみたいに恥ずかしいのは、\n今後、要検討だよね。",
+        "voiceAssetId": "sud_vo_home_mna-05-vlnt-00_talk-01-01",
+        "motionAssetId": "mot_adv_chr_cmn_ask-006_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "私さ、今でもたまに夢に見ちゃって\nあ～！！　ってなるんだから。",
+        "voiceAssetId": "sud_vo_home_mna-05-vlnt-00_talk-01-02",
+        "motionAssetId": "mot_adv_chr_cmn_angry-015_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "やっぱり私、歌以外で\n気持ちを表現するのは\nすっごく照れるんだよねぇ。",
+        "voiceAssetId": "sud_vo_home_mna-05-vlnt-00_talk-01-03",
+        "motionAssetId": "mot_adv_chr_cmn_emb-008_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "琴乃には思いっきり\n呆れられちゃうし…",
+        "voiceAssetId": "sud_vo_home_mna-05-vlnt-00_talk-01-04",
+        "motionAssetId": "mot_adv_chr_cmn_trouble-006_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "お母さんには\n誰のことを思い浮かべたの？\nってからかわれるし…",
+        "voiceAssetId": "sud_vo_home_mna-05-vlnt-00_talk-01-05",
+        "motionAssetId": "mot_adv_chr_cmn_emb-015_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "え？　もう来年のバレンタインの\nCMオファー来てるの！？\n嬉しいけど、どうしよー！！",
+        "voiceAssetId": "sud_vo_home_mna-05-vlnt-00_talk-01-06",
+        "motionAssetId": "mot_adv_chr_cmn_emb-006_in",
+        "additionMotionAssetId": ""
+      }
+    ]
+  },
+  {
     "homeTalkId": "home-talk-card-ngs-05-akma-00-talk-01",
     "characterId": "char-ngs",
     "placeType": 1,
@@ -3141,6 +3191,56 @@
         "text": "気を遣わせてしまったみたいで\n悪いことしちゃったな\nって思ってます",
         "voiceAssetId": "sud_vo_home_rui-05-mizg-01_talk-01-04",
         "motionAssetId": "mot_adv_chr_cmn_moji-001_in",
+        "additionMotionAssetId": ""
+      }
+    ]
+  },
+  {
+    "homeTalkId": "home-talk-card-rui-05-vlnt-00-talk-01",
+    "characterId": "char-rui",
+    "placeType": 1,
+    "conditionId": "cd-st-read-st-card-rui-05-vlnt-00-03",
+    "firstPriority": 9900,
+    "weight": 1,
+    "callPatternId": "call-pattern-card-rui-05-vlnt-00",
+    "choiceText": "美味しかったよ",
+    "managerText": "美味しかったよ",
+    "reliability": 5,
+    "characterTalks": [
+      {
+        "text": "お口に合ったようで良かったです。",
+        "voiceAssetId": "sud_vo_home_rui-05-vlnt-00_talk-01-01",
+        "motionAssetId": "mot_adv_chr_cmn_glad-009_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "最初は唐辛子風味のチョコグミを\n買ったんですけど、優とすみれに\n止められて。",
+        "voiceAssetId": "sud_vo_home_rui-05-vlnt-00_talk-01-02",
+        "motionAssetId": "mot_adv_chr_cmn_think-001_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "理由は分からなかったんですが…\n優にお勧めのお店を紹介してもら\nえたので、結果的に良かったです。",
+        "voiceAssetId": "sud_vo_home_rui-05-vlnt-00_talk-01-03",
+        "motionAssetId": "mot_adv_chr_cmn_talk-003_in",
+        "additionMotionAssetId": "mot_all_chr_cmn_facial-001_in"
+      },
+      {
+        "text": "あ、そういえばバレンタインの日、\nチョコを渡すところを二人が後ろ\nから覗いてたみたいなんです。",
+        "voiceAssetId": "sud_vo_home_rui-05-vlnt-00_talk-01-04",
+        "motionAssetId": "mot_adv_chr_cmn_talk-019_in",
+        "additionMotionAssetId": "mot_all_chr_cmn_facial-034_in"
+      },
+      {
+        "text": "応援してくれるのは嬉しいんです\nけど、もし気付いてたら恥ずかしく\nて渡せなかったかもしれません。",
+        "voiceAssetId": "sud_vo_home_rui-05-vlnt-00_talk-01-05",
+        "motionAssetId": "mot_adv_chr_cmn_emb-012_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "…あ、応援っていうのは、その、\n変な意味じゃないですからね？\n本当になんでもないですから！",
+        "voiceAssetId": "sud_vo_home_rui-05-vlnt-00_talk-01-06",
+        "motionAssetId": "mot_adv_chr_cmn_emb-009_in",
         "additionMotionAssetId": ""
       }
     ]
