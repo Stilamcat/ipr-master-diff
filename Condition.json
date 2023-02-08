@@ -68472,6 +68472,20 @@
     ]
   },
   {
+    "id": "cd-time-pvp-23-0210-0212_s-banner",
+    "settings": [
+      {
+        "satisfyCondition": {
+          "conditionId": "cd-clear-area-main-011"
+        },
+        "term": {
+          "nowAfter": "1675954800000",
+          "nowBefore": "1676213999000"
+        }
+      }
+    ]
+  },
+  {
     "id": "cd-time-questionnaire-21-0702-0709_s-banner",
     "settings": [
       {
