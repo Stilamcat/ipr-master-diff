@@ -8616,6 +8616,66 @@
     "activityAbilityId": ""
   },
   {
+    "id": "card-yu-05-vlnt-00",
+    "assetId": "yu-05-vlnt-00",
+    "name": "思わせぶりな戦略家",
+    "description": "あ～も～、うちったらうっかりさんやわ～\r\nうっかりタクシーに荷物を忘れてしもた～\r\n……なんて、嘘に決まってるやんかぁ",
+    "type": 1,
+    "characterId": "char-yu",
+    "initialRarity": 5,
+    "cardParameterId": "card-param-01",
+    "vocalRatioPermil": 320,
+    "danceRatioPermil": 277,
+    "visualRatioPermil": 433,
+    "staminaRatioPermil": 900,
+    "cardLevelReleaseId": "card_level_release_1",
+    "skillId1": "sk-yu-05-vlnt-00-1",
+    "skillId2": "sk-yu-05-vlnt-00-2",
+    "skillId3": "sk-yu-05-vlnt-00-3",
+    "liveAbilityId": "lba-critical_score_multiply",
+    "order": 267,
+    "releaseDate": "1675998000000",
+    "rewardCostumeId": "cos-yu-vlnt-00",
+    "imageType1": 3,
+    "displayPositionX1": -0.021,
+    "displayPositionY1": 0.083,
+    "displayScale1": 1.2,
+    "highlightDisplayPositionX1": -0.012,
+    "highlightDisplayPositionY1": 0.259,
+    "highlightDisplayScale1": 0.7,
+    "imageType2": 3,
+    "displayPositionX2": -0.021,
+    "displayPositionY2": 0.083,
+    "displayScale2": 1.2,
+    "highlightDisplayPositionX2": -0.012,
+    "highlightDisplayPositionY2": 0.259,
+    "highlightDisplayScale2": 0.7,
+    "obtainMessage": "バレンタインがくるたびに\nうちのこと、思い出して下さいね",
+    "stories": [
+      {
+        "storyId": "st-card-yu-05-vlnt-00-01"
+      },
+      {
+        "storyId": "st-card-yu-05-vlnt-00-02"
+      },
+      {
+        "storyId": "st-card-yu-05-vlnt-00-03"
+      }
+    ],
+    "messages": [
+      {
+        "messageId": "message-card-yu-05-vlnt-00",
+        "telephoneId": ""
+      },
+      {
+        "telephoneId": "tel-card-yu-05-vlnt-00",
+        "messageId": ""
+      }
+    ],
+    "activityAbilityId": "",
+    "homeTalks": []
+  },
+  {
     "id": "card-yu-05-wedd-01",
     "assetId": "yu-05-wedd-01",
     "name": "心恋、京ツアー",

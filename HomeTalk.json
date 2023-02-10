@@ -4620,6 +4620,56 @@
     ]
   },
   {
+    "homeTalkId": "home-talk-card-yu-05-vlnt-00-talk-01",
+    "characterId": "char-yu",
+    "placeType": 1,
+    "conditionId": "cd-st-read-st-card-yu-05-vlnt-00-03",
+    "firstPriority": 9900,
+    "weight": 1,
+    "callPatternId": "call-pattern-card-yu-05-vlnt-00",
+    "choiceText": "優は教室でチョコを渡すことに\n憧れがあるのか？",
+    "managerText": "優は教室でチョコを渡すことに\n憧れがあるのか？",
+    "reliability": 5,
+    "characterTalks": [
+      {
+        "text": "憧れとはちゃいますけど、\nそういう青春ぽいイベントに\n興味はあります。",
+        "voiceAssetId": "sud_vo_home_yu-05-vlnt-00_talk-01-01",
+        "motionAssetId": "mot_adv_chr_cmn_pos-009_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "ほら、うちが通ってる高校は、\n芸能コースがあるやろ？\n同級生も芸能人が多いし…",
+        "voiceAssetId": "sud_vo_home_yu-05-vlnt-00_talk-01-02",
+        "motionAssetId": "mot_adv_chr_cmn_talk-001_in",
+        "additionMotionAssetId": "mot_all_chr_cmn_facial-034_in"
+      },
+      {
+        "text": "仕事で学校を休むことも多くて\nなかなか『普通の青春』とは\nいかへんのよ。",
+        "voiceAssetId": "sud_vo_home_yu-05-vlnt-00_talk-01-03",
+        "motionAssetId": "mot_adv_chr_cmn_deny-006_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "まあ、興味がある言うても\nアイドルやめて普通の青春を\n送りたいとは思わへんけどね。",
+        "voiceAssetId": "sud_vo_home_yu-05-vlnt-00_talk-01-04",
+        "motionAssetId": "mot_adv_chr_cmn_glad-007_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "うちは普通の学校生活より\n瑠依ちゃんやすみれちゃんと\nアイドルしてる方が好きやわ。",
+        "voiceAssetId": "sud_vo_home_yu-05-vlnt-00_talk-01-05",
+        "motionAssetId": "mot_adv_chr_cmn_pos-006_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "TRINITYAiLEが\nうちの青春やからね。",
+        "voiceAssetId": "sud_vo_home_yu-05-vlnt-00_talk-01-06",
+        "motionAssetId": "mot_adv_chr_cmn_glad-002_in",
+        "additionMotionAssetId": ""
+      }
+    ]
+  },
+  {
     "homeTalkId": "home-talk-card-yu-05-wedd-01-talk-01",
     "characterId": "char-yu",
     "placeType": 1,

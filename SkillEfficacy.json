@@ -2310,6 +2310,16 @@
     "shortDescription": ""
   },
   {
+    "id": "ef-audience_amount_increase-4-target-self-26",
+    "name": "自身に集目効果",
+    "type": 21,
+    "description": "自身に4段階の集目効果[26ビート]",
+    "grade": 4,
+    "maxGrade": 10,
+    "skillTargetId": "target-self",
+    "shortDescription": ""
+  },
+  {
     "id": "ef-audience_amount_increase-4-target-self-30",
     "name": "自身に集目効果",
     "type": 21,
@@ -2365,6 +2375,26 @@
     "type": 21,
     "description": "自身に4段階の集目効果[61ビート]",
     "grade": 4,
+    "maxGrade": 10,
+    "skillTargetId": "target-self",
+    "shortDescription": ""
+  },
+  {
+    "id": "ef-audience_amount_increase-5-target-self-26",
+    "name": "自身に集目効果",
+    "type": 21,
+    "description": "自身に5段階の集目効果[26ビート]",
+    "grade": 5,
+    "maxGrade": 10,
+    "skillTargetId": "target-self",
+    "shortDescription": ""
+  },
+  {
+    "id": "ef-audience_amount_increase-5-target-self-35",
+    "name": "自身に集目効果",
+    "type": 21,
+    "description": "自身に5段階の集目効果[35ビート]",
+    "grade": 5,
     "maxGrade": 10,
     "skillTargetId": "target-self",
     "shortDescription": ""
@@ -2470,10 +2500,30 @@
     "shortDescription": ""
   },
   {
+    "id": "ef-audience_amount_increase-6-target-self-35",
+    "name": "自身に集目効果",
+    "type": 21,
+    "description": "自身に6段階の集目効果[35ビート]",
+    "grade": 6,
+    "maxGrade": 10,
+    "skillTargetId": "target-self",
+    "shortDescription": ""
+  },
+  {
     "id": "ef-audience_amount_increase-6-target-self-37",
     "name": "自身に集目効果",
     "type": 21,
     "description": "自身に6段階の集目効果[37ビート]",
+    "grade": 6,
+    "maxGrade": 10,
+    "skillTargetId": "target-self",
+    "shortDescription": ""
+  },
+  {
+    "id": "ef-audience_amount_increase-6-target-self-44",
+    "name": "自身に集目効果",
+    "type": 21,
+    "description": "自身に6段階の集目効果[44ビート]",
     "grade": 6,
     "maxGrade": 10,
     "skillTargetId": "target-self",
@@ -2624,6 +2674,16 @@
     "name": "自身に集目効果",
     "type": 21,
     "description": "自身に7段階の集目効果[41ビート]",
+    "grade": 7,
+    "maxGrade": 10,
+    "skillTargetId": "target-self",
+    "shortDescription": ""
+  },
+  {
+    "id": "ef-audience_amount_increase-7-target-self-44",
+    "name": "自身に集目効果",
+    "type": 21,
+    "description": "自身に7段階の集目効果[44ビート]",
     "grade": 7,
     "maxGrade": 10,
     "skillTargetId": "target-self",
@@ -7430,6 +7490,16 @@
     "shortDescription": ""
   },
   {
+    "id": "ef-critical_bonus_permil_up-4-target-self-20",
+    "name": "自身にクリティカル係数上昇効果",
+    "type": 20,
+    "description": "自身に4段階クリティカル係数上昇効果[20ビート]",
+    "grade": 4,
+    "maxGrade": 20,
+    "skillTargetId": "target-self",
+    "shortDescription": ""
+  },
+  {
     "id": "ef-critical_bonus_permil_up-4-target-self-23",
     "name": "自身にクリティカル係数上昇効果",
     "type": 20,
@@ -7920,10 +7990,30 @@
     "shortDescription": ""
   },
   {
+    "id": "ef-critical_bonus_permil_up-5-target-self-24",
+    "name": "自身にクリティカル係数上昇効果",
+    "type": 20,
+    "description": "自身に5段階クリティカル係数上昇効果[24ビート]",
+    "grade": 5,
+    "maxGrade": 20,
+    "skillTargetId": "target-self",
+    "shortDescription": ""
+  },
+  {
     "id": "ef-critical_bonus_permil_up-5-target-self-26",
     "name": "自身にクリティカル係数上昇効果",
     "type": 20,
     "description": "自身に5段階クリティカル係数上昇効果[26ビート]",
+    "grade": 5,
+    "maxGrade": 20,
+    "skillTargetId": "target-self",
+    "shortDescription": ""
+  },
+  {
+    "id": "ef-critical_bonus_permil_up-5-target-self-28",
+    "name": "自身にクリティカル係数上昇効果",
+    "type": 20,
+    "description": "自身に5段階クリティカル係数上昇効果[28ビート]",
     "grade": 5,
     "maxGrade": 20,
     "skillTargetId": "target-self",
@@ -8267,6 +8357,16 @@
     "grade": 6,
     "maxGrade": 20,
     "skillTargetId": "target-dance-1",
+    "shortDescription": ""
+  },
+  {
+    "id": "ef-critical_bonus_permil_up-6-target-self-28",
+    "name": "自身にクリティカル係数上昇効果",
+    "type": 20,
+    "description": "自身に6段階クリティカル係数上昇効果[28ビート]",
+    "grade": 6,
+    "maxGrade": 20,
+    "skillTargetId": "target-self",
     "shortDescription": ""
   },
   {
@@ -17961,7 +18061,7 @@
   },
   {
     "id": "ef-passive_score_multiplier_add-5-target-all-37",
-    "name": "全員にPスキルスコア付与効果",
+    "name": "全員にPスキルスコア追加効果",
     "type": 61,
     "description": "全員に5段階Pスキルスコア付与効果[37ビート]",
     "grade": 5,
@@ -17971,7 +18071,7 @@
   },
   {
     "id": "ef-passive_score_multiplier_add-6-target-all-37",
-    "name": "全員にPスキルスコア付与効果",
+    "name": "全員にPスキルスコア追加効果",
     "type": 61,
     "description": "全員に6段階Pスキルスコア付与効果[37ビート]",
     "grade": 6,
@@ -17981,7 +18081,7 @@
   },
   {
     "id": "ef-passive_score_multiplier_add-6-target-all-42",
-    "name": "全員にPスキルスコア付与効果",
+    "name": "全員にPスキルスコア追加効果",
     "type": 61,
     "description": "全員に6段階Pスキルスコア付与効果[42ビート]",
     "grade": 6,
@@ -17991,7 +18091,7 @@
   },
   {
     "id": "ef-passive_score_multiplier_add-7-target-all-42",
-    "name": "全員にPスキルスコア付与効果",
+    "name": "全員にPスキルスコア追加効果",
     "type": 61,
     "description": "全員に7段階Pスキルスコア付与効果[42ビート]",
     "grade": 7,
@@ -18001,7 +18101,7 @@
   },
   {
     "id": "ef-passive_score_multiplier_add-7-target-all-47",
-    "name": "全員にPスキルスコア付与効果",
+    "name": "全員にPスキルスコア追加効果",
     "type": 61,
     "description": "全員に7段階Pスキルスコア付与効果[47ビート]",
     "grade": 7,
@@ -18011,7 +18111,7 @@
   },
   {
     "id": "ef-passive_score_multiplier_add-8-target-all-47",
-    "name": "全員にPスキルスコア付与効果",
+    "name": "全員にPスキルスコア追加効果",
     "type": 61,
     "description": "全員に8段階Pスキルスコア付与効果[47ビート]",
     "grade": 8,
@@ -29901,7 +30001,7 @@
   },
   {
     "id": "ef-special_score_multiplier_add-6-target-character_type-1-2-999",
-    "name": "スコアラータイプ2人にSPスキルスコア付与効果",
+    "name": "スコアラータイプ2人にSPスキルスコア追加効果",
     "type": 59,
     "description": "スコアラータイプ2人に6段階SPスキルスコア付与効果",
     "grade": 6,
@@ -29911,7 +30011,7 @@
   },
   {
     "id": "ef-special_score_multiplier_add-7-target-character_type-1-2-999",
-    "name": "スコアラータイプ2人にSPスキルスコア付与効果",
+    "name": "スコアラータイプ2人にSPスキルスコア追加効果",
     "type": 59,
     "description": "スコアラータイプ2人に7段階SPスキルスコア付与効果",
     "grade": 7,
@@ -29921,7 +30021,7 @@
   },
   {
     "id": "ef-special_score_multiplier_add-8-target-character_type-1-2-999",
-    "name": "スコアラータイプ2人にSPスキルスコア付与効果",
+    "name": "スコアラータイプ2人にSPスキルスコア追加効果",
     "type": 59,
     "description": "スコアラータイプ2人に8段階SPスキルスコア付与効果",
     "grade": 8,
@@ -31860,6 +31960,16 @@
     "maxGrade": 0
   },
   {
+    "id": "ef-strength_effect_count_increase-10-target-self",
+    "name": "自身の強化効果を延長",
+    "type": 25,
+    "description": "自身の強化効果を10延長",
+    "skillTargetId": "target-self",
+    "shortDescription": "",
+    "grade": 0,
+    "maxGrade": 0
+  },
+  {
     "id": "ef-strength_effect_count_increase-10-target-trigger",
     "name": "対象の強化効果を延長",
     "type": 25,
@@ -31885,6 +31995,16 @@
     "type": 25,
     "description": "スコアラータイプ2人の強化効果を11延長",
     "skillTargetId": "target-character_type-1-2",
+    "shortDescription": "",
+    "grade": 0,
+    "maxGrade": 0
+  },
+  {
+    "id": "ef-strength_effect_count_increase-11-target-self",
+    "name": "自身の強化効果を延長",
+    "type": 25,
+    "description": "自身の強化効果を11延長",
+    "skillTargetId": "target-self",
     "shortDescription": "",
     "grade": 0,
     "maxGrade": 0
@@ -32620,6 +32740,16 @@
     "maxGrade": 0
   },
   {
+    "id": "ef-strength_effect_count_increase-9-target-self",
+    "name": "自身の強化効果を延長",
+    "type": 25,
+    "description": "自身の強化効果を9延長",
+    "skillTargetId": "target-self",
+    "shortDescription": "",
+    "grade": 0,
+    "maxGrade": 0
+  },
+  {
     "id": "ef-strength_effect_erasing-dance_up-target-opponent_same_position",
     "name": "同じレーンの相手のダンスアップ効果消去",
     "type": 51,
@@ -32960,6 +33090,16 @@
     "maxGrade": 0
   },
   {
+    "id": "ef-target_stamina_recovery-175-target-all",
+    "name": "全員に対象最大スタミナに応じたスタミナ回復効果",
+    "type": 35,
+    "description": "全員に対象最大スタミナの17%のスタミナ回復効果",
+    "skillTargetId": "target-all",
+    "shortDescription": "",
+    "grade": 0,
+    "maxGrade": 0
+  },
+  {
     "id": "ef-target_stamina_recovery-200-target-all",
     "name": "全員に対象最大スタミナに応じたスタミナ回復効果",
     "type": 35,
@@ -33015,6 +33155,16 @@
     "type": 35,
     "description": "ボーカルが高い2人に対象最大スタミナの20%のスタミナ回復効果",
     "skillTargetId": "target-vocal_higher-2",
+    "shortDescription": "",
+    "grade": 0,
+    "maxGrade": 0
+  },
+  {
+    "id": "ef-target_stamina_recovery-225-target-all",
+    "name": "全員に対象最大スタミナに応じたスタミナ回復効果",
+    "type": 35,
+    "description": "全員に対象最大スタミナの22%のスタミナ回復効果",
+    "skillTargetId": "target-all",
     "shortDescription": "",
     "grade": 0,
     "maxGrade": 0

@@ -731,6 +731,162 @@
     "linkDetail": ""
   },
   {
+    "id": "event-mini-backside-23-0214-backside_final_score_achievement-1",
+    "categoryType": 3,
+    "missionType": 1104,
+    "targetIds": [
+      "mini-backside_area-23-0214"
+    ],
+    "name": "本番のライブスコアが{threshold}に到達",
+    "shortDescription": "本番のライブスコアが{threshold}に到達",
+    "longDescription": "本番のライブスコア{threshold}に到達しましょう。",
+    "order": 2,
+    "viewConditionId": "cd-time-event_backside-mission-23-0214",
+    "progresses": [
+      {
+        "threshold": "9100000",
+        "rewardSetId": "rd_auto;item;item-mini-tour_medal-tour-21-0721;200"
+      },
+      {
+        "threshold": "11900000",
+        "rewardSetId": "rd_auto;item;item-mini-tour_medal-tour-21-0721;200"
+      },
+      {
+        "threshold": "14700000",
+        "rewardSetId": "rd_auto;item;item-mini-tour_medal-tour-21-0721;200"
+      },
+      {
+        "threshold": "17500000",
+        "rewardSetId": "rd_auto;item;item-mini-tour_medal-tour-21-0721;200"
+      },
+      {
+        "threshold": "20300000",
+        "rewardSetId": "rd_auto;item;item-mini-tour_medal-tour-21-0721;250"
+      },
+      {
+        "threshold": "23100000",
+        "rewardSetId": "rd_auto;item;item-mini-tour_medal-tour-21-0721;250"
+      },
+      {
+        "threshold": "30100000",
+        "rewardSetId": "rd_auto;item;item-mini-tour_medal-tour-21-0721;250"
+      },
+      {
+        "threshold": "37100000",
+        "rewardSetId": "rd_auto;item;item-mini-tour_medal-tour-21-0721;250"
+      },
+      {
+        "threshold": "44100000",
+        "rewardSetId": "rd_auto;item;item-mini-tour_medal-tour-21-0721;250"
+      },
+      {
+        "threshold": "50900000",
+        "rewardSetId": "rd_auto;item;item-mini-tour_medal-tour-21-0721;250"
+      },
+      {
+        "threshold": "63820000",
+        "rewardSetId": "rd_auto;item;item-mini-tour_medal-tour-21-0721;250"
+      },
+      {
+        "threshold": "76740000",
+        "rewardSetId": "rd_auto;item;item-mini-tour_medal-tour-21-0721;250"
+      },
+      {
+        "threshold": "89660000",
+        "rewardSetId": "rd_auto;item;item-mini-tour_medal-tour-21-0721;250"
+      },
+      {
+        "threshold": "102580000",
+        "rewardSetId": "rd_auto;item;item-mini-tour_medal-tour-21-0721;250"
+      },
+      {
+        "threshold": "115500000",
+        "rewardSetId": "rd_auto;item;item-mini-tour_medal-tour-21-0721;250"
+      },
+      {
+        "threshold": "145900000",
+        "rewardSetId": "rd_auto;item;item-mini-tour_medal-tour-21-0721;250"
+      },
+      {
+        "threshold": "176300000",
+        "rewardSetId": "rd_auto;item;item-mini-tour_medal-tour-21-0721;250"
+      },
+      {
+        "threshold": "206700000",
+        "rewardSetId": "rd_auto;item;item-mini-tour_medal-tour-21-0721;250"
+      },
+      {
+        "threshold": "237100000",
+        "rewardSetId": "rd_auto;item;item-mini-tour_medal-tour-21-0721;250"
+      },
+      {
+        "threshold": "267600000",
+        "rewardSetId": "rd_auto;item;item-mini-tour_medal-tour-21-0721;250"
+      }
+    ],
+    "eventMissionId": "event-mini-backside-23-0214",
+    "linkType": 0,
+    "linkDetail": ""
+  },
+  {
+    "id": "event-mini-backside-23-0214-backside_practice_score_achievement-1",
+    "categoryType": 3,
+    "missionType": 1103,
+    "targetIds": [
+      "mini-backside_area-23-0214"
+    ],
+    "name": "本番の特訓スコアが{threshold}に到達",
+    "shortDescription": "本番の特訓スコアが{threshold}に到達",
+    "longDescription": "本番の特訓スコア{threshold}に到達しましょう。",
+    "order": 1,
+    "viewConditionId": "cd-time-event_backside-mission-23-0214",
+    "progresses": [
+      {
+        "threshold": "900",
+        "rewardSetId": "rd_auto;item;item-mini-tour_medal-tour-21-0721;300"
+      },
+      {
+        "threshold": "1050",
+        "rewardSetId": "rd_auto;item;item-mini-tour_medal-tour-21-0721;300"
+      },
+      {
+        "threshold": "1200",
+        "rewardSetId": "rd_auto;item;item-mini-tour_medal-tour-21-0721;300"
+      },
+      {
+        "threshold": "1350",
+        "rewardSetId": "rd_auto;item;item-mini-tour_medal-tour-21-0721;300"
+      },
+      {
+        "threshold": "1500",
+        "rewardSetId": "rd_auto;item;item-mini-tour_medal-tour-21-0721;300"
+      },
+      {
+        "threshold": "1650",
+        "rewardSetId": "rd_auto;item;item-mini-tour_medal-tour-21-0721;300"
+      },
+      {
+        "threshold": "1800",
+        "rewardSetId": "rd_auto;item;item-mini-tour_medal-tour-21-0721;300"
+      },
+      {
+        "threshold": "1950",
+        "rewardSetId": "rd_auto;item;item-mini-tour_medal-tour-21-0721;300"
+      },
+      {
+        "threshold": "2100",
+        "rewardSetId": "rd_auto;item;item-mini-tour_medal-tour-21-0721;300"
+      },
+      {
+        "threshold": "2200",
+        "rewardSetId": "rd_auto;item;item-mini-tour_medal-tour-21-0721;300"
+      }
+    ],
+    "eventMissionId": "event-mini-backside-23-0214",
+    "linkType": 0,
+    "linkDetail": ""
+  },
+  {
     "id": "event-ms-anniversary-22-0630-00-00-accessory_enhance_count",
     "categoryType": 3,
     "missionType": 28,

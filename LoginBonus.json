@@ -837,6 +837,27 @@
     "receiveConditionId": "cd-time-login-23-0131-0209"
   },
   {
+    "id": "login_bonus-campaign-23-0214-01",
+    "name": "バレンタイン",
+    "description": "7日間の特別なログインボーナス",
+    "type": 2,
+    "assetId": "login-campaign-23-0214-01",
+    "topColorCode": "00CEFF",
+    "bottomColorCode": "D0FFA0",
+    "priority": 10,
+    "rewardIds": [
+      "rd_auto;decoration;deco-login-campaign-23-0214-01;1",
+      "rd_auto;item;item-daily_quest_ticket_01;3",
+      "rd_auto;item;item-act_fan-reward-up;2",
+      "rd_auto;item;item-card_skill;10000",
+      "rd_auto;item;item-rarity_exp_medal-21-1228;1",
+      "rd_auto;item;item-act_fan-reward-up;2",
+      "rd_auto;stone;;500"
+    ],
+    "openConditionId": "cd-time-login-23-0214-0220",
+    "receiveConditionId": "cd-time-login-23-0214-0227"
+  },
+  {
     "id": "login_bonus-normal-01",
     "name": "デイリー",
     "description": "毎日もらえるログインボーナス",
