@@ -7990,6 +7990,66 @@
     ]
   },
   {
+    "id": "cd-clear-area-main-090",
+    "settings": [
+      {
+        "clearArea": {
+          "areaId": "area-main-090"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-clear-area-main-091",
+    "settings": [
+      {
+        "clearArea": {
+          "areaId": "area-main-091"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-clear-area-main-092",
+    "settings": [
+      {
+        "clearArea": {
+          "areaId": "area-main-092"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-clear-area-main-093",
+    "settings": [
+      {
+        "clearArea": {
+          "areaId": "area-main-093"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-clear-area-main-094",
+    "settings": [
+      {
+        "clearArea": {
+          "areaId": "area-main-094"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-clear-area-main-095",
+    "settings": [
+      {
+        "clearArea": {
+          "areaId": "area-main-095"
+        }
+      }
+    ]
+  },
+  {
     "id": "cd-clear-event_beginner-mission-22-1224",
     "settings": [
       {
@@ -8141,6 +8201,16 @@
       {
         "clearQuest": {
           "questId": "qt-area-1-013"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-clear-qt-area-1-014",
+    "settings": [
+      {
+        "clearQuest": {
+          "questId": "qt-area-1-014"
         }
       }
     ]
@@ -24483,6 +24553,20 @@
         "managerLevel": {
           "levelGte": 186,
           "levelLte": 0
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-manager_level_gte-186-230217",
+    "settings": [
+      {
+        "satisfyCondition": {
+          "conditionId": "cd-manager_level_gte-186"
+        },
+        "term": {
+          "nowAfter": "1676602800000",
+          "nowBefore": "0"
         }
       }
     ]
