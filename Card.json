@@ -311,6 +311,66 @@
     "homeTalks": []
   },
   {
+    "id": "card-ai-05-rock-00",
+    "assetId": "ai-05-rock-00",
+    "name": "クールにキメるぼっち収録",
+    "description": "離れていても、莉央さんも、葵さんも、こころも\r\nマネージャーさんまでついてくれてる\r\n私が一人で参加する仕事でも\r\nみんなでやってきた経験が私を助けてくれる",
+    "type": 2,
+    "characterId": "char-ai",
+    "initialRarity": 5,
+    "cardParameterId": "card-param-01",
+    "vocalRatioPermil": 402,
+    "danceRatioPermil": 319,
+    "visualRatioPermil": 279,
+    "staminaRatioPermil": 1000,
+    "cardLevelReleaseId": "card_level_release_1",
+    "skillId1": "sk-ai-05-rock-00-1",
+    "skillId2": "sk-ai-05-rock-00-2",
+    "skillId3": "sk-ai-05-rock-00-3",
+    "activityAbilityId": "aab-fan_event_manager_exp_up",
+    "order": 268,
+    "releaseDate": "1676948400000",
+    "rewardCostumeId": "cos-ai-rock-00",
+    "imageType1": 3,
+    "displayPositionX1": -0.107,
+    "displayPositionY1": 0.236,
+    "displayScale1": 2.0,
+    "highlightDisplayPositionX1": 0.034,
+    "highlightDisplayPositionY1": 0.231,
+    "highlightDisplayScale1": 1.3,
+    "imageType2": 3,
+    "displayPositionX2": -0.107,
+    "displayPositionY2": 0.236,
+    "displayScale2": 2.0,
+    "highlightDisplayPositionX2": 0.034,
+    "highlightDisplayPositionY2": 0.231,
+    "highlightDisplayScale2": 1.3,
+    "obtainMessage": "絶対に、後悔させませんから！",
+    "stories": [
+      {
+        "storyId": "st-card-ai-05-rock-00-01"
+      },
+      {
+        "storyId": "st-card-ai-05-rock-00-02"
+      },
+      {
+        "storyId": "st-card-ai-05-rock-00-03"
+      }
+    ],
+    "messages": [
+      {
+        "messageId": "message-card-ai-05-rock-00",
+        "telephoneId": ""
+      },
+      {
+        "telephoneId": "tel-card-ai-05-rock-00",
+        "messageId": ""
+      }
+    ],
+    "liveAbilityId": "",
+    "homeTalks": []
+  },
+  {
     "id": "card-ai-05-tact-00",
     "assetId": "ai-05-tact-00",
     "name": "セクシーシューティング",

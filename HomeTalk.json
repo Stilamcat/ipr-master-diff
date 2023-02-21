@@ -144,6 +144,56 @@
     ]
   },
   {
+    "homeTalkId": "home-talk-card-ai-05-rock-00-talk-01",
+    "characterId": "char-ai",
+    "placeType": 1,
+    "conditionId": "cd-st-read-st-card-ai-05-rock-00-03",
+    "firstPriority": 9900,
+    "weight": 1,
+    "callPatternId": "call-pattern-card-ai-05-rock-00",
+    "choiceText": "愛、どうしたんだ？",
+    "managerText": "愛、どうしたんだ？",
+    "reliability": 5,
+    "characterTalks": [
+      {
+        "text": "実は、番組のスタッフさんから\n差し入れで、ショートケーキを\nいただいたんです。",
+        "voiceAssetId": "sud_vo_home_ai-05-rock-00_talk-01-01",
+        "motionAssetId": "mot_adv_chr_cmn_talk-015_in",
+        "additionMotionAssetId": "mot_all_chr_cmn_facial-032_in"
+      },
+      {
+        "text": "私、ケーキの中だと一番好きで、\nもう今すぐにでも食べちゃいたい\n気分なんですけど…",
+        "voiceAssetId": "sud_vo_home_ai-05-rock-00_talk-01-02",
+        "motionAssetId": "mot_adv_chr_cmn_deny-006_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "こんなにかっこいい衣装でケーキを\n食べてたら、リズノワのイメージ\nが崩れちゃいそうで…！",
+        "voiceAssetId": "sud_vo_home_ai-05-rock-00_talk-01-03",
+        "motionAssetId": "mot_adv_chr_cmn_trouble-003_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "しかも、こころがさっきから\n写真を撮ろうとスマホを\n構えてるんですよー！",
+        "voiceAssetId": "sud_vo_home_ai-05-rock-00_talk-01-04",
+        "motionAssetId": "mot_adv_chr_cmn_angry-016_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "うぅ、ケーキのことは忘れないと…\nふわふわクリームと甘酸っぱい\nイチゴのことも忘れないと…！",
+        "voiceAssetId": "sud_vo_home_ai-05-rock-00_talk-01-05",
+        "motionAssetId": "mot_adv_chr_cmn_deny-005_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "って、余計に食べたくなって\nきちゃいました～！？",
+        "voiceAssetId": "sud_vo_home_ai-05-rock-00_talk-01-06",
+        "motionAssetId": "mot_adv_chr_cmn_trouble-006_in",
+        "additionMotionAssetId": ""
+      }
+    ]
+  },
+  {
     "homeTalkId": "home-talk-card-ai-05-tact-00-talk-01",
     "characterId": "char-ai",
     "placeType": 1,
