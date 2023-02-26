@@ -14166,6 +14166,458 @@
     "linkDetail": ""
   },
   {
+    "id": "event-race-23-0226-1",
+    "categoryType": 3,
+    "missionType": 1301,
+    "targetIds": [
+      "race-23-0226"
+    ],
+    "name": "{threshold}マスに到達",
+    "shortDescription": "{threshold}マスに到達",
+    "longDescription": "{threshold}マスに到達しましょう。",
+    "order": 1,
+    "progresses": [
+      {
+        "threshold": "25",
+        "rewardSetId": "rd_auto;item;item-race_medal-23-0226;22000"
+      },
+      {
+        "threshold": "50",
+        "rewardSetId": "rd_auto;item;item-race_reset-live-bonus-23-0226;1"
+      },
+      {
+        "threshold": "75",
+        "rewardSetId": "rd_auto;item;item-race_medal-23-0226;22000"
+      },
+      {
+        "threshold": "100",
+        "rewardSetId": "rd_auto;item;item-race_reset-live-bonus-23-0226;1"
+      },
+      {
+        "threshold": "125",
+        "rewardSetId": "rd_auto;item;item-race_medal-23-0226;26000"
+      },
+      {
+        "threshold": "150",
+        "rewardSetId": "rd_auto;item;item-race_reset-live-bonus-23-0226;1"
+      },
+      {
+        "threshold": "175",
+        "rewardSetId": "rd_auto;item;item-race_medal-23-0226;26000"
+      },
+      {
+        "threshold": "200",
+        "rewardSetId": "rd_auto;item;item-race_reset-live-bonus-23-0226;1"
+      },
+      {
+        "threshold": "225",
+        "rewardSetId": "rd_auto;item;item-race_medal-23-0226;30000"
+      },
+      {
+        "threshold": "250",
+        "rewardSetId": "rd_auto;emblem;emb-820;1"
+      },
+      {
+        "threshold": "300",
+        "rewardSetId": "rd_auto;photo_recipe;photo-recipe-exchange_race-23-0226-5-rare-001;1"
+      },
+      {
+        "threshold": "350",
+        "rewardSetId": "rd_auto;item;item-race_medal-23-0226;40000"
+      },
+      {
+        "threshold": "400",
+        "rewardSetId": "rd_auto;item;item-race_medal-23-0226;50000"
+      },
+      {
+        "threshold": "450",
+        "rewardSetId": "rd_auto;item;item-race_medal-23-0226;55000"
+      },
+      {
+        "threshold": "500",
+        "rewardSetId": "rd_auto;item;item-race_medal-23-0226;65000"
+      }
+    ],
+    "eventMissionId": "event-race-23-0226",
+    "viewConditionId": "",
+    "linkType": 0,
+    "linkDetail": ""
+  },
+  {
+    "id": "event-race-23-0226-10",
+    "categoryType": 3,
+    "missionType": 1302,
+    "targetIds": [
+      "race-23-0226"
+    ],
+    "name": "レースメダルステージのLv2をクリア",
+    "shortDescription": "レースメダルステージのLv2をクリア",
+    "longDescription": "レースメダルステージのLv2をクリアしましょう。",
+    "order": 10,
+    "progresses": [
+      {
+        "threshold": "1",
+        "rewardSetId": "rd_auto;item;item-race_medal-23-0226;22000"
+      }
+    ],
+    "eventMissionId": "event-race-23-0226",
+    "viewConditionId": "",
+    "linkType": 0,
+    "linkDetail": ""
+  },
+  {
+    "id": "event-race-23-0226-11",
+    "categoryType": 3,
+    "missionType": 1302,
+    "targetIds": [
+      "race-23-0226"
+    ],
+    "name": "レースメダルステージのLv5をクリア",
+    "shortDescription": "レースメダルステージのLv5をクリア",
+    "longDescription": "レースメダルステージのLv5をクリアしましょう。",
+    "order": 11,
+    "progresses": [
+      {
+        "threshold": "1",
+        "rewardSetId": "rd_auto;item;item-race_medal-23-0226;26000"
+      }
+    ],
+    "eventMissionId": "event-race-23-0226",
+    "viewConditionId": "",
+    "linkType": 0,
+    "linkDetail": ""
+  },
+  {
+    "id": "event-race-23-0226-12",
+    "categoryType": 3,
+    "missionType": 1302,
+    "targetIds": [
+      "race-23-0226"
+    ],
+    "name": "レースメダルステージのLv7をクリア",
+    "shortDescription": "レースメダルステージのLv7をクリア",
+    "longDescription": "レースメダルステージのLv7をクリアしましょう。",
+    "order": 12,
+    "progresses": [
+      {
+        "threshold": "1",
+        "rewardSetId": "rd_auto;item;item-race_medal-23-0226;28000"
+      }
+    ],
+    "eventMissionId": "event-race-23-0226",
+    "viewConditionId": "",
+    "linkType": 0,
+    "linkDetail": ""
+  },
+  {
+    "id": "event-race-23-0226-13",
+    "categoryType": 3,
+    "missionType": 1302,
+    "targetIds": [
+      "race-23-0226"
+    ],
+    "name": "レースメダルステージのLv10をクリア",
+    "shortDescription": "レースメダルステージのLv10をクリア",
+    "longDescription": "レースメダルステージのLv10をクリアしましょう。",
+    "order": 13,
+    "progresses": [
+      {
+        "threshold": "1",
+        "rewardSetId": "rd_auto;item;item-race_medal-23-0226;30000"
+      }
+    ],
+    "eventMissionId": "event-race-23-0226",
+    "viewConditionId": "",
+    "linkType": 0,
+    "linkDetail": ""
+  },
+  {
+    "id": "event-race-23-0226-14",
+    "categoryType": 3,
+    "missionType": 1302,
+    "targetIds": [
+      "race-23-0226"
+    ],
+    "name": "レースメダルステージのLv15をクリア",
+    "shortDescription": "レースメダルステージのLv15をクリア",
+    "longDescription": "レースメダルステージのLv15をクリアしましょう。",
+    "order": 14,
+    "progresses": [
+      {
+        "threshold": "1",
+        "rewardSetId": "rd_auto;item;item-race_medal-23-0226;35000"
+      }
+    ],
+    "eventMissionId": "event-race-23-0226",
+    "viewConditionId": "",
+    "linkType": 0,
+    "linkDetail": ""
+  },
+  {
+    "id": "event-race-23-0226-15",
+    "categoryType": 3,
+    "missionType": 1302,
+    "targetIds": [
+      "race-23-0226"
+    ],
+    "name": "レースメダルステージのLv20をクリア",
+    "shortDescription": "レースメダルステージのLv20をクリア",
+    "longDescription": "レースメダルステージのLv20をクリアしましょう。",
+    "order": 15,
+    "progresses": [
+      {
+        "threshold": "1",
+        "rewardSetId": "rd_auto;item;item-race_medal-23-0226;40000"
+      }
+    ],
+    "eventMissionId": "event-race-23-0226",
+    "viewConditionId": "",
+    "linkType": 0,
+    "linkDetail": ""
+  },
+  {
+    "id": "event-race-23-0226-16",
+    "categoryType": 3,
+    "missionType": 1302,
+    "targetIds": [
+      "race-23-0226"
+    ],
+    "name": "レースメダルステージのLv25をクリア",
+    "shortDescription": "レースメダルステージのLv25をクリア",
+    "longDescription": "レースメダルステージのLv25をクリアしましょう。",
+    "order": 16,
+    "progresses": [
+      {
+        "threshold": "1",
+        "rewardSetId": "rd_auto;item;item-race_medal-23-0226;50000"
+      }
+    ],
+    "eventMissionId": "event-race-23-0226",
+    "viewConditionId": "",
+    "linkType": 0,
+    "linkDetail": ""
+  },
+  {
+    "id": "event-race-23-0226-17",
+    "categoryType": 3,
+    "missionType": 1302,
+    "targetIds": [
+      "race-23-0226"
+    ],
+    "name": "レースメダルステージのLv30をクリア",
+    "shortDescription": "レースメダルステージのLv30をクリア",
+    "longDescription": "レースメダルステージのLv30をクリアしましょう。",
+    "order": 17,
+    "progresses": [
+      {
+        "threshold": "1",
+        "rewardSetId": "rd_auto;item;item-race_medal-23-0226;65000"
+      }
+    ],
+    "eventMissionId": "event-race-23-0226",
+    "viewConditionId": "",
+    "linkType": 0,
+    "linkDetail": ""
+  },
+  {
+    "id": "event-race-23-0226-18",
+    "categoryType": 3,
+    "missionType": 1303,
+    "targetIds": [
+      "race-23-0226"
+    ],
+    "name": "いずれかのライブボーナスをLv{threshold}まで強化",
+    "shortDescription": "いずれかのライブボーナスをLv{threshold}まで強化",
+    "longDescription": "いずれかのライブボーナスをLv{threshold}まで強化しましょう。",
+    "order": 18,
+    "progresses": [
+      {
+        "threshold": "10",
+        "rewardSetId": "rd_auto;item;item-race_reset-live-bonus-23-0226;1"
+      }
+    ],
+    "eventMissionId": "event-race-23-0226",
+    "viewConditionId": "",
+    "linkType": 0,
+    "linkDetail": ""
+  },
+  {
+    "id": "event-race-23-0226-2",
+    "categoryType": 3,
+    "missionType": 1302,
+    "targetIds": [
+      "race-23-0226"
+    ],
+    "name": "レースPtステージのLv2をクリア",
+    "shortDescription": "レースPtステージのLv2をクリア",
+    "longDescription": "レースPtステージのLv2をクリアしましょう。",
+    "order": 2,
+    "progresses": [
+      {
+        "threshold": "1",
+        "rewardSetId": "rd_auto;item;item-race_point-23-0226;2000"
+      }
+    ],
+    "eventMissionId": "event-race-23-0226",
+    "viewConditionId": "",
+    "linkType": 0,
+    "linkDetail": ""
+  },
+  {
+    "id": "event-race-23-0226-3",
+    "categoryType": 3,
+    "missionType": 1302,
+    "targetIds": [
+      "race-23-0226"
+    ],
+    "name": "レースPtステージのLv5をクリア",
+    "shortDescription": "レースPtステージのLv5をクリア",
+    "longDescription": "レースPtステージのLv5をクリアしましょう。",
+    "order": 3,
+    "progresses": [
+      {
+        "threshold": "1",
+        "rewardSetId": "rd_auto;item;item-race_point-23-0226;5000"
+      }
+    ],
+    "eventMissionId": "event-race-23-0226",
+    "viewConditionId": "",
+    "linkType": 0,
+    "linkDetail": ""
+  },
+  {
+    "id": "event-race-23-0226-4",
+    "categoryType": 3,
+    "missionType": 1302,
+    "targetIds": [
+      "race-23-0226"
+    ],
+    "name": "レースPtステージのLv7をクリア",
+    "shortDescription": "レースPtステージのLv7をクリア",
+    "longDescription": "レースPtステージのLv7をクリアしましょう。",
+    "order": 4,
+    "progresses": [
+      {
+        "threshold": "1",
+        "rewardSetId": "rd_auto;item;item-race_point-23-0226;7500"
+      }
+    ],
+    "eventMissionId": "event-race-23-0226",
+    "viewConditionId": "",
+    "linkType": 0,
+    "linkDetail": ""
+  },
+  {
+    "id": "event-race-23-0226-5",
+    "categoryType": 3,
+    "missionType": 1302,
+    "targetIds": [
+      "race-23-0226"
+    ],
+    "name": "レースPtステージのLv10をクリア",
+    "shortDescription": "レースPtステージのLv10をクリア",
+    "longDescription": "レースPtステージのLv10をクリアしましょう。",
+    "order": 5,
+    "progresses": [
+      {
+        "threshold": "1",
+        "rewardSetId": "rd_auto;item;item-race_point-23-0226;10000"
+      }
+    ],
+    "eventMissionId": "event-race-23-0226",
+    "viewConditionId": "",
+    "linkType": 0,
+    "linkDetail": ""
+  },
+  {
+    "id": "event-race-23-0226-6",
+    "categoryType": 3,
+    "missionType": 1302,
+    "targetIds": [
+      "race-23-0226"
+    ],
+    "name": "レースPtステージのLv15をクリア",
+    "shortDescription": "レースPtステージのLv15をクリア",
+    "longDescription": "レースPtステージのLv15をクリアしましょう。",
+    "order": 6,
+    "progresses": [
+      {
+        "threshold": "1",
+        "rewardSetId": "rd_auto;item;item-race_point-23-0226;15000"
+      }
+    ],
+    "eventMissionId": "event-race-23-0226",
+    "viewConditionId": "",
+    "linkType": 0,
+    "linkDetail": ""
+  },
+  {
+    "id": "event-race-23-0226-7",
+    "categoryType": 3,
+    "missionType": 1302,
+    "targetIds": [
+      "race-23-0226"
+    ],
+    "name": "レースPtステージのLv20をクリア",
+    "shortDescription": "レースPtステージのLv20をクリア",
+    "longDescription": "レースPtステージのLv20をクリアしましょう。",
+    "order": 7,
+    "progresses": [
+      {
+        "threshold": "1",
+        "rewardSetId": "rd_auto;item;item-race_point-23-0226;20000"
+      }
+    ],
+    "eventMissionId": "event-race-23-0226",
+    "viewConditionId": "",
+    "linkType": 0,
+    "linkDetail": ""
+  },
+  {
+    "id": "event-race-23-0226-8",
+    "categoryType": 3,
+    "missionType": 1302,
+    "targetIds": [
+      "race-23-0226"
+    ],
+    "name": "レースPtステージのLv25をクリア",
+    "shortDescription": "レースPtステージのLv25をクリア",
+    "longDescription": "レースPtステージのLv25をクリアしましょう。",
+    "order": 8,
+    "progresses": [
+      {
+        "threshold": "1",
+        "rewardSetId": "rd_auto;item;item-race_point-23-0226;25000"
+      }
+    ],
+    "eventMissionId": "event-race-23-0226",
+    "viewConditionId": "",
+    "linkType": 0,
+    "linkDetail": ""
+  },
+  {
+    "id": "event-race-23-0226-9",
+    "categoryType": 3,
+    "missionType": 1302,
+    "targetIds": [
+      "race-23-0226"
+    ],
+    "name": "レースPtステージのLv30をクリア",
+    "shortDescription": "レースPtステージのLv30をクリア",
+    "longDescription": "レースPtステージのLv30をクリアしましょう。",
+    "order": 9,
+    "progresses": [
+      {
+        "threshold": "1",
+        "rewardSetId": "rd_auto;item;item-race_point-23-0226;30000"
+      }
+    ],
+    "eventMissionId": "event-race-23-0226",
+    "viewConditionId": "",
+    "linkType": 0,
+    "linkDetail": ""
+  },
+  {
     "id": "ms-cd-league_grade-1",
     "categoryType": 3,
     "missionType": 4,

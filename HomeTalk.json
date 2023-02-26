@@ -4036,6 +4036,56 @@
     ]
   },
   {
+    "homeTalkId": "home-talk-card-smr-05-pajm-00-talk-01",
+    "characterId": "char-smr",
+    "placeType": 1,
+    "conditionId": "cd-st-read-st-card-smr-05-pajm-00-03",
+    "firstPriority": 9900,
+    "weight": 1,
+    "callPatternId": "call-pattern-card-smr-05-pajm-00",
+    "choiceText": "急にどうしたんだ？",
+    "managerText": "急にどうしたんだ？",
+    "reliability": 5,
+    "characterTalks": [
+      {
+        "text": "この衣装すっごく素敵ですけど、\n実は私、こんなに可愛い\nパジャマは持ってなくて…",
+        "voiceAssetId": "sud_vo_home_smr-05-pajm-00_talk-01-01",
+        "motionAssetId": "mot_adv_chr_cmn_emb-015_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "どうせ寝るだけだしって思うと、\nTシャツとか、楽な格好に\nなっちゃうんですよね。",
+        "voiceAssetId": "sud_vo_home_smr-05-pajm-00_talk-01-02",
+        "motionAssetId": "mot_adv_chr_cmn_talk-008_in",
+        "additionMotionAssetId": "mot_all_chr_cmn_facial-034_in"
+      },
+      {
+        "text": "でも、誰も見てない所でも、素敵な\n格好をすると気分が上がるって、\n莉央さんが前に言ってて。",
+        "voiceAssetId": "sud_vo_home_smr-05-pajm-00_talk-01-03",
+        "motionAssetId": "mot_adv_chr_cmn_pos-009_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "そう言ってた時の莉央さん、\nなんだか凄く\n大人っぽかったんですよね。",
+        "voiceAssetId": "sud_vo_home_smr-05-pajm-00_talk-01-04",
+        "motionAssetId": "mot_adv_chr_cmn_glad-011_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "…え？　寝間着は、\n安眠出来るのが一番じゃないか？\nそれはそうなんですけど…",
+        "voiceAssetId": "sud_vo_home_smr-05-pajm-00_talk-01-05",
+        "motionAssetId": "mot_adv_chr_cmn_talk-012_in",
+        "additionMotionAssetId": "mot_all_chr_cmn_facial-034_in"
+      },
+      {
+        "text": "誰にも見せないお洒落とか、\nちょっとしてみたい\nじゃないですか…！",
+        "voiceAssetId": "sud_vo_home_smr-05-pajm-00_talk-01-06",
+        "motionAssetId": "mot_adv_chr_cmn_trouble-006_in",
+        "additionMotionAssetId": ""
+      }
+    ]
+  },
+  {
     "homeTalkId": "home-talk-card-smr-05-xmas-00-talk-01",
     "characterId": "char-smr",
     "placeType": 1,
@@ -4439,6 +4489,56 @@
         "text": "今思うと、嬉し泣きは…\n少し恥ずかしい…かも。",
         "voiceAssetId": "sud_vo_home_szk-05-idol-00_talk-01-4",
         "motionAssetId": "mot_adv_chr_cmn_moji-001_in",
+        "additionMotionAssetId": ""
+      }
+    ]
+  },
+  {
+    "homeTalkId": "home-talk-card-szk-05-pajm-00-talk-01",
+    "characterId": "char-szk",
+    "placeType": 1,
+    "conditionId": "cd-st-read-st-card-szk-05-pajm-00-03",
+    "firstPriority": 9900,
+    "weight": 1,
+    "callPatternId": "call-pattern-card-szk-05-pajm-00",
+    "choiceText": "何を悩んでるんだ？　雫",
+    "managerText": "何を悩んでるんだ？　雫",
+    "reliability": 5,
+    "characterTalks": [
+      {
+        "text": "撮影とか、リハーサル中とか\n衣装のまま、お弁当を\n食べることある、よね…？",
+        "voiceAssetId": "sud_vo_home_szk-05-pajm-00_talk-01-01",
+        "motionAssetId": "mot_adv_chr_cmn_talk-019_in",
+        "additionMotionAssetId": "mot_all_chr_cmn_facial-032_in"
+      },
+      {
+        "text": "なんだかこの衣装…\n気が抜けるのか、こぼしそうに\nなることが多くて…",
+        "voiceAssetId": "sud_vo_home_szk-05-pajm-00_talk-01-02",
+        "motionAssetId": "mot_adv_chr_cmn_trouble-001_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "いつも以上にこぼさないように\n気をつけたりしてる、けど…\nライブの時も少し、気が抜ける…",
+        "voiceAssetId": "sud_vo_home_szk-05-pajm-00_talk-01-03",
+        "motionAssetId": "mot_adv_chr_cmn_talk-001_in",
+        "additionMotionAssetId": "mot_all_chr_cmn_facial-003_in"
+      },
+      {
+        "text": "でも、よく言えば\nリラックス出来てる\nってこと、なのかな…？",
+        "voiceAssetId": "sud_vo_home_szk-05-pajm-00_talk-01-04",
+        "motionAssetId": "mot_adv_chr_cmn_ask-011_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "この自然体な感じを\nファンの人達に伝えられたら\nそれはそれで、いいのかも",
+        "voiceAssetId": "sud_vo_home_szk-05-pajm-00_talk-01-05",
+        "motionAssetId": "mot_adv_chr_cmn_glad-009_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "ファンの人達を\n和ませてあげられるように\n頑張ってみる…！",
+        "voiceAssetId": "sud_vo_home_szk-05-pajm-00_talk-01-06",
+        "motionAssetId": "mot_adv_chr_cmn_glad-010_in",
         "additionMotionAssetId": ""
       }
     ]

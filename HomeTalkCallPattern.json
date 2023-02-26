@@ -2024,6 +2024,13 @@
   },
   {
     "characterId": "char-smr",
+    "patternId": "call-pattern-card-smr-05-pajm-00",
+    "managerCallText": "お疲れさま",
+    "characterArrivalText": "{user}さんって、\nいつも寝る時には\nどんなパジャマで寝てるんですか？",
+    "characterArrivalVoiceAssetId": "sud_vo_home_smr-05-pajm-00_talk-01-start"
+  },
+  {
+    "characterId": "char-smr",
     "patternId": "call-pattern-card-smr-05-xmas-00",
     "managerCallText": "お疲れさま",
     "characterArrivalText": "{user}さん\n上手になりましたか？",
@@ -2252,6 +2259,13 @@
     "managerCallText": "お疲れさま",
     "characterArrivalText": "{user}さん\nこの前の釣り、どう、でした？",
     "characterArrivalVoiceAssetId": "sud_vo_home_szk-05-chna-00_talk-01-start"
+  },
+  {
+    "characterId": "char-szk",
+    "patternId": "call-pattern-card-szk-05-pajm-00",
+    "managerCallText": "お疲れさま",
+    "characterArrivalText": "早急に打開策を考えないと…",
+    "characterArrivalVoiceAssetId": "sud_vo_home_szk-05-pajm-00_talk-01-start"
   },
   {
     "characterId": "char-szk",

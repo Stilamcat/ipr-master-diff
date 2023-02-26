@@ -407,6 +407,17 @@
     "salePrice": 0
   },
   {
+    "id": "item-daily_quest_ticket_sp-23-0226",
+    "name": "スペシャルパス",
+    "assetId": "quest-daily-special",
+    "description": "デイリーライブ【スペシャル】に挑戦できる\nイベント終了後は消失します",
+    "howToGet": "ショップなど",
+    "type": 2006,
+    "value": 1,
+    "order": 220,
+    "salePrice": 0
+  },
+  {
     "id": "item-exchange-anniversary-medal-22-0526",
     "name": "1周年記念メダル",
     "assetId": "medal-anniversary",
@@ -1025,6 +1036,17 @@
   {
     "id": "item-gacha_point-lm-set-bloom-23-0128",
     "name": "溶けちゃう前に受けとってガチャPt",
+    "assetId": "gacha-point",
+    "description": "該当するガチャページの「ガチャPt」から\nガチャPtを消費してアイドルを獲得できる",
+    "type": 9,
+    "value": 1,
+    "order": 140,
+    "howToGet": "",
+    "salePrice": 0
+  },
+  {
+    "id": "item-gacha_point-lm-set-bloom-23-0226",
+    "name": "こよいはあさまでぱじゃまパーティー!ガチャPt",
     "assetId": "gacha-point",
     "description": "該当するガチャページの「ガチャPt」から\nガチャPtを消費してアイドルを獲得できる",
     "type": 9,

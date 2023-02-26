@@ -3753,6 +3753,33 @@
     "isViewableInInactive": false
   },
   {
+    "id": "emb-680",
+    "name": "VENUSシーズン61 No.1",
+    "assetId": "pvp-season-061-top001",
+    "order": 306110,
+    "description": "VENUSバトルシーズン61で1位獲得",
+    "autoProvideConditionId": "",
+    "isViewableInInactive": false
+  },
+  {
+    "id": "emb-681",
+    "name": "VENUSシーズン61 TOP10",
+    "assetId": "pvp-season-061-top010",
+    "order": 306120,
+    "description": "VENUSバトルシーズン61で10位以内獲得",
+    "autoProvideConditionId": "",
+    "isViewableInInactive": false
+  },
+  {
+    "id": "emb-682",
+    "name": "VENUSシーズン61 TOP100",
+    "assetId": "pvp-season-061-top100",
+    "order": 306130,
+    "description": "VENUSバトルシーズン61で100位以内獲得",
+    "autoProvideConditionId": "",
+    "isViewableInInactive": false
+  },
+  {
     "id": "emb-701",
     "name": "【誕生日】長瀬琴乃",
     "assetId": "birthday_ktn-02",
@@ -3802,8 +3829,17 @@
     "name": "【誕生日】白石千紗",
     "assetId": "birthday_chs-02",
     "autoProvideConditionId": "cd-birthday_emblem_chs-22-1122",
-    "order": 602060,
+    "order": 602070,
     "description": "千紗の誕生日を迎える",
+    "isViewableInInactive": false
+  },
+  {
+    "id": "emb-708",
+    "name": "【誕生日】一ノ瀬怜",
+    "assetId": "birthday_rei-02",
+    "autoProvideConditionId": "cd-birthday_emblem_rei-23-0308",
+    "order": 602080,
+    "description": "怜の誕生日を迎える",
     "isViewableInInactive": false
   },
   {
@@ -3811,7 +3847,7 @@
     "name": "【誕生日】兵藤雫",
     "assetId": "birthday_szk-02",
     "autoProvideConditionId": "cd-birthday_emblem_szk-22-1015",
-    "order": 602070,
+    "order": 602090,
     "description": "雫の誕生日を迎える",
     "isViewableInInactive": false
   },
@@ -3820,7 +3856,7 @@
     "name": "【誕生日】佐伯遙子",
     "assetId": "birthday_hrk-02",
     "autoProvideConditionId": "cd-birthday_emblem_hrk-23-0103",
-    "order": 602080,
+    "order": 602100,
     "description": "遙子の誕生日を迎える",
     "isViewableInInactive": false
   },
@@ -3829,7 +3865,7 @@
     "name": "【誕生日】神崎莉央",
     "assetId": "birthday_rio-02",
     "autoProvideConditionId": "cd-birthday_rio-22-0828",
-    "order": 602100,
+    "order": 602140,
     "description": "莉央の誕生日を迎える",
     "isViewableInInactive": false
   },
@@ -3838,7 +3874,7 @@
     "name": "【誕生日】赤崎こころ",
     "assetId": "birthday_kkr-02",
     "autoProvideConditionId": "cd-birthday_emblem_kkr-22-1206",
-    "order": 602120,
+    "order": 602170,
     "description": "こころの誕生日を迎える",
     "isViewableInInactive": false
   },
@@ -3847,8 +3883,17 @@
     "name": "【誕生日】天動瑠依",
     "assetId": "birthday_rui-02",
     "autoProvideConditionId": "cd-birthday_emblem_rui-22-1111",
-    "order": 602090,
+    "order": 602110,
     "description": "瑠依の誕生日を迎える",
+    "isViewableInInactive": false
+  },
+  {
+    "id": "emb-716",
+    "name": "【誕生日】鈴村優",
+    "assetId": "birthday_yu-02",
+    "autoProvideConditionId": "cd-birthday_emblem_yu-23-0227",
+    "order": 602120,
+    "description": "優の誕生日を迎える",
     "isViewableInInactive": false
   },
   {
@@ -3865,7 +3910,7 @@
     "name": "【誕生日】小美山愛",
     "assetId": "birthday_ai-02",
     "autoProvideConditionId": "cd-birthday_emblem_ai-23-0209",
-    "order": 602110,
+    "order": 602160,
     "description": "愛の誕生日を迎える",
     "isViewableInInactive": false
   },
@@ -4046,6 +4091,15 @@
     "assetId": "marathon-raid-23-0128",
     "order": 123020,
     "description": "マルチリンクス「守れ！純潔のベーゼ」",
+    "autoProvideConditionId": "",
+    "isViewableInInactive": false
+  },
+  {
+    "id": "emb-820",
+    "name": "ぱじゃまパーティー！～夢見る少女と眠り姫～",
+    "assetId": "race-23-0226",
+    "order": 123030,
+    "description": "VENUSレース「ぱじゃまパーティー！～夢見る少女と眠り姫～」クリア",
     "autoProvideConditionId": "",
     "isViewableInInactive": false
   },

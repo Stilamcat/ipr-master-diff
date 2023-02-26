@@ -1964,6 +1964,47 @@
     "homeTalks": []
   },
   {
+    "id": "card-kkr-02-eve-00",
+    "assetId": "kkr-02-eve-00",
+    "name": "こころのカワイイTV",
+    "description": "みなさんぐっすり眠っていますね\r\nふふふっ……今からこころがカワイイ寝顔を\r\n寝起きドッキリで歪めていきますよ～！",
+    "type": 1,
+    "characterId": "char-kkr",
+    "initialRarity": 2,
+    "cardParameterId": "card-param-01",
+    "vocalRatioPermil": 279,
+    "danceRatioPermil": 431,
+    "visualRatioPermil": 320,
+    "staminaRatioPermil": 900,
+    "cardLevelReleaseId": "card_level_release_1",
+    "skillId1": "sk-kkr-02-eve-00-1",
+    "skillId2": "sk-kkr-02-eve-00-2",
+    "skillId3": "sk-kkr-02-eve-00-3",
+    "order": 271,
+    "releaseDate": "1677380400000",
+    "imageType1": 1,
+    "displayPositionX1": -0.003,
+    "displayPositionY1": 0.21,
+    "displayScale1": 1.0,
+    "highlightDisplayPositionX1": -0.011,
+    "highlightDisplayPositionY1": 0.276,
+    "highlightDisplayScale1": 1.0,
+    "imageType2": 2,
+    "displayPositionX2": 0.163,
+    "displayPositionY2": 0.07,
+    "displayScale2": 1.2,
+    "highlightDisplayPositionX2": -0.201,
+    "highlightDisplayPositionY2": 0.096,
+    "highlightDisplayScale2": 0.8,
+    "liveAbilityId": "",
+    "activityAbilityId": "",
+    "rewardCostumeId": "",
+    "obtainMessage": "",
+    "stories": [],
+    "messages": [],
+    "homeTalks": []
+  },
+  {
     "id": "card-kkr-03-schl-00",
     "assetId": "kkr-03-schl-00",
     "name": "たまには本気で",
@@ -7365,6 +7406,66 @@
     "activityAbilityId": ""
   },
   {
+    "id": "card-smr-05-pajm-00",
+    "assetId": "smr-05-pajm-00",
+    "name": "夢の国へ誘う安眠膝枕",
+    "description": "私はすずちゃんの膝枕係に任命されまして\r\nそれは嬉しいんですけど、動けなくなっちゃって",
+    "type": 2,
+    "characterId": "char-smr",
+    "initialRarity": 5,
+    "cardParameterId": "card-param-01",
+    "vocalRatioPermil": 280,
+    "danceRatioPermil": 403,
+    "visualRatioPermil": 317,
+    "staminaRatioPermil": 1000,
+    "cardLevelReleaseId": "card_level_release_1",
+    "skillId1": "sk-smr-05-pajm-00-1",
+    "skillId2": "sk-smr-05-pajm-00-2",
+    "skillId3": "sk-smr-05-pajm-00-3",
+    "liveAbilityId": "lba-dance_multiply",
+    "order": 269,
+    "releaseDate": "1677380400000",
+    "rewardCostumeId": "cos-smr-pajm-00",
+    "imageType1": 3,
+    "displayPositionX1": 0.155,
+    "displayPositionY1": 0.045,
+    "displayScale1": 1.1,
+    "highlightDisplayPositionX1": -0.507,
+    "highlightDisplayPositionY1": 0.215,
+    "highlightDisplayScale1": 0.7,
+    "imageType2": 3,
+    "displayPositionX2": 0.155,
+    "displayPositionY2": 0.045,
+    "displayScale2": 1.1,
+    "highlightDisplayPositionX2": -0.507,
+    "highlightDisplayPositionY2": 0.215,
+    "highlightDisplayScale2": 0.7,
+    "obtainMessage": "立派なセンターに、\n少しでも近づけたでしょうか……？",
+    "stories": [
+      {
+        "storyId": "st-card-smr-05-pajm-00-01"
+      },
+      {
+        "storyId": "st-card-smr-05-pajm-00-02"
+      },
+      {
+        "storyId": "st-card-smr-05-pajm-00-03"
+      }
+    ],
+    "messages": [
+      {
+        "messageId": "message-card-smr-05-pajm-00",
+        "telephoneId": ""
+      },
+      {
+        "telephoneId": "tel-card-smr-05-pajm-00",
+        "messageId": ""
+      }
+    ],
+    "activityAbilityId": "",
+    "homeTalks": []
+  },
+  {
     "id": "card-smr-05-xmas-00",
     "assetId": "smr-05-xmas-00",
     "name": "六花イルミネーション",
@@ -8202,6 +8303,66 @@
     "liveAbilityId": "",
     "displayPositionY1": 0.0,
     "displayPositionY2": 0.0
+  },
+  {
+    "id": "card-szk-05-pajm-00",
+    "assetId": "szk-05-pajm-00",
+    "name": "万歳オフショ夢空間",
+    "description": "みんな今日は、特に……可愛い……！\r\nもう、ステージじゃないから写真……撮り放題……！\r\nファンサが手厚い……最高のイベント……！\r\n尊過ぎて、さとみさんと撮りまくってる……！",
+    "type": 3,
+    "characterId": "char-szk",
+    "initialRarity": 5,
+    "cardParameterId": "card-param-01",
+    "vocalRatioPermil": 326,
+    "danceRatioPermil": 289,
+    "visualRatioPermil": 415,
+    "staminaRatioPermil": 900,
+    "cardLevelReleaseId": "card_level_release_1",
+    "skillId1": "sk-szk-05-pajm-00-1",
+    "skillId2": "sk-szk-05-pajm-00-2",
+    "skillId3": "sk-szk-05-pajm-00-3",
+    "activityAbilityId": "aab-promotion_manager_exp_up",
+    "order": 270,
+    "releaseDate": "1677380400000",
+    "rewardCostumeId": "cos-szk-pajm-00",
+    "imageType1": 3,
+    "displayPositionX1": 0.1,
+    "displayScale1": 1.0,
+    "highlightDisplayPositionX1": -0.125,
+    "highlightDisplayPositionY1": 0.219,
+    "highlightDisplayScale1": 0.7,
+    "imageType2": 3,
+    "displayPositionX2": 0.1,
+    "displayScale2": 1.0,
+    "highlightDisplayPositionX2": -0.125,
+    "highlightDisplayPositionY2": 0.219,
+    "highlightDisplayScale2": 0.7,
+    "obtainMessage": "みんな今日は、特に……可愛い……！",
+    "stories": [
+      {
+        "storyId": "st-card-szk-05-pajm-00-01"
+      },
+      {
+        "storyId": "st-card-szk-05-pajm-00-02"
+      },
+      {
+        "storyId": "st-card-szk-05-pajm-00-03"
+      }
+    ],
+    "messages": [
+      {
+        "messageId": "message-card-szk-05-pajm-00",
+        "telephoneId": ""
+      },
+      {
+        "telephoneId": "tel-card-szk-05-pajm-00",
+        "messageId": ""
+      }
+    ],
+    "liveAbilityId": "",
+    "displayPositionY1": 0.0,
+    "displayPositionY2": 0.0,
+    "homeTalks": []
   },
   {
     "id": "card-szk-05-prem-00",

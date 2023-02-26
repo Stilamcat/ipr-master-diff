@@ -1,5 +1,47 @@
 [
   {
+    "id": "ex-st-part-limited-01",
+    "assetId": "main-01",
+    "name": "東京編1章",
+    "order": 3,
+    "type": 2,
+    "viewConditionId": "cd-ex-st-part-limited-01-open-230226",
+    "unlockConditionId": "cd-ex-st-part-limited-01-open-230226",
+    "extraStoryIds": [
+      "ex-st-part-limited-01-01"
+    ],
+    "subTitle": "",
+    "noteText": ""
+  },
+  {
+    "id": "ex-st-part-limited-02",
+    "assetId": "main-01",
+    "name": "東京編2章",
+    "order": 4,
+    "type": 2,
+    "viewConditionId": "cd-ex-st-part-limited-01-open-230226-01",
+    "unlockConditionId": "cd-ex-st-part-limited-01-open-230226-01",
+    "extraStoryIds": [
+      "ex-st-part-limited-02-01"
+    ],
+    "subTitle": "",
+    "noteText": ""
+  },
+  {
+    "id": "ex-st-part-limited-03",
+    "assetId": "main-02",
+    "name": "BIG4編1章",
+    "order": 5,
+    "type": 2,
+    "viewConditionId": "cd-ex-st-part-limited-01-open-230318-05",
+    "unlockConditionId": "cd-ex-st-part-limited-01-open-230318-05",
+    "extraStoryIds": [
+      "ex-st-part-limited-03-01"
+    ],
+    "subTitle": "",
+    "noteText": ""
+  },
+  {
     "id": "ex-story-part-birthday-01",
     "assetId": "birthday-01",
     "name": "誕生日",
