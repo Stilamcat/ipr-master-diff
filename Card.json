@@ -1229,6 +1229,66 @@
     "activityAbilityId": ""
   },
   {
+    "id": "card-chs-05-pajm-00",
+    "assetId": "chs-05-pajm-00",
+    "name": "お姫様抱っこで夢の中",
+    "description": "マネージャーさん\r\n一人で頑張らないで、もっと私を頼って下さい\r\n疲れた時は、私に寄りかかっていいですよ\r\n私が支えますから",
+    "type": 1,
+    "characterId": "char-chs",
+    "initialRarity": 5,
+    "cardParameterId": "card-param-01",
+    "vocalRatioPermil": 432,
+    "danceRatioPermil": 319,
+    "visualRatioPermil": 279,
+    "staminaRatioPermil": 900,
+    "cardLevelReleaseId": "card_level_release_1",
+    "skillId1": "sk-chs-05-pajm-00-1",
+    "skillId2": "sk-chs-05-pajm-00-2",
+    "skillId3": "sk-chs-05-pajm-00-3",
+    "liveAbilityId": "lba-critical_score_multiply",
+    "order": 272,
+    "releaseDate": "1678417200000",
+    "rewardCostumeId": "cos-chs-pajm-00",
+    "imageType1": 3,
+    "displayPositionX1": 0.261,
+    "displayPositionY1": -0.016,
+    "displayScale1": 1.4,
+    "highlightDisplayPositionX1": -0.43,
+    "highlightDisplayPositionY1": 0.022,
+    "highlightDisplayScale1": 0.8,
+    "imageType2": 3,
+    "displayPositionX2": 0.261,
+    "displayPositionY2": -0.016,
+    "displayScale2": 1.4,
+    "highlightDisplayPositionX2": -0.43,
+    "highlightDisplayPositionY2": 0.022,
+    "highlightDisplayScale2": 0.8,
+    "obtainMessage": "普段なら恥ずかしくて言えないお願いでも\n今なら言える気がする……",
+    "stories": [
+      {
+        "storyId": "st-card-chs-05-pajm-00-01"
+      },
+      {
+        "storyId": "st-card-chs-05-pajm-00-02"
+      },
+      {
+        "storyId": "st-card-chs-05-pajm-00-03"
+      }
+    ],
+    "messages": [
+      {
+        "messageId": "message-card-chs-05-pajm-00",
+        "telephoneId": ""
+      },
+      {
+        "telephoneId": "tel-card-chs-05-pajm-00",
+        "messageId": ""
+      }
+    ],
+    "activityAbilityId": "",
+    "homeTalks": []
+  },
+  {
     "id": "card-chs-05-rock-00",
     "assetId": "chs-05-rock-00",
     "name": "ひと握りの勇気",

@@ -652,6 +652,56 @@
     ]
   },
   {
+    "homeTalkId": "home-talk-card-chs-05-pajm-00-talk-01",
+    "characterId": "char-chs",
+    "placeType": 1,
+    "conditionId": "cd-st-read-st-card-chs-05-pajm-00-03",
+    "firstPriority": 9900,
+    "weight": 1,
+    "callPatternId": "call-pattern-card-chs-05-pajm-00",
+    "choiceText": "そんなことを言うなんて\n何かあったのか？",
+    "managerText": "そんなことを言うなんて\n何かあったのか？",
+    "reliability": 5,
+    "characterTalks": [
+      {
+        "text": "この間お姉ちゃんと\nショッピングモールに行った時、\n凄い人出だったから…",
+        "voiceAssetId": "sud_vo_home_chs-05-pajm-00_talk-01-01",
+        "motionAssetId": "mot_adv_chr_cmn_talk-015_in",
+        "additionMotionAssetId": "mot_all_chr_cmn_facial-003_in"
+      },
+      {
+        "text": "このままじゃはぐれちゃうと思って\n「手を繋いでもいい？」って\nお姉ちゃんに聞いたんです。",
+        "voiceAssetId": "sud_vo_home_chs-05-pajm-00_talk-01-02",
+        "motionAssetId": "mot_adv_chr_cmn_ask-009_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "そうしたらお姉ちゃんが楽しそうに\n千紗は子供っぽいわねって\n手を繋ぎながら笑ったんです。",
+        "voiceAssetId": "sud_vo_home_chs-05-pajm-00_talk-01-03",
+        "motionAssetId": "mot_adv_chr_cmn_trouble-006_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "昨日だって、夜眠れなかったから\nお姉ちゃんにお願いして\nホットミルクを作ってもらって…",
+        "voiceAssetId": "sud_vo_home_chs-05-pajm-00_talk-01-04",
+        "motionAssetId": "mot_adv_chr_cmn_talk-014_in",
+        "additionMotionAssetId": "mot_all_chr_cmn_facial-003_in"
+      },
+      {
+        "text": "私がふーふーしながら飲んでたら、\nお姉ちゃんが千紗はいつまでも\nそのままでいてねって言うんです。",
+        "voiceAssetId": "sud_vo_home_chs-05-pajm-00_talk-01-05",
+        "motionAssetId": "mot_adv_chr_cmn_talk-016_in",
+        "additionMotionAssetId": "mot_all_chr_cmn_facial-020_in"
+      },
+      {
+        "text": "私は早く大人っぽくなりたいのに\n酷いと思いませんか？",
+        "voiceAssetId": "sud_vo_home_chs-05-pajm-00_talk-01-06",
+        "motionAssetId": "mot_adv_chr_cmn_angry-015_in",
+        "additionMotionAssetId": ""
+      }
+    ]
+  },
+  {
     "homeTalkId": "home-talk-card-chs-05-rock-00-talk-01",
     "characterId": "char-chs",
     "placeType": 1,

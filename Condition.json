@@ -10668,6 +10668,17 @@
     ]
   },
   {
+    "id": "cd-date-mini-marathon-23-0310",
+    "settings": [
+      {
+        "term": {
+          "nowAfter": "1678417200000",
+          "nowBefore": "1679842799000"
+        }
+      }
+    ]
+  },
+  {
     "id": "cd-day-christmas-01",
     "settings": [
       {
@@ -15388,6 +15399,20 @@
         "term": {
           "nowAfter": "1643598000000",
           "nowBefore": "1645109999000"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-event-story-read-001-0310-0320",
+    "settings": [
+      {
+        "satisfyCondition": {
+          "conditionId": "cd-manager_level_gte-20"
+        },
+        "term": {
+          "nowAfter": "1678417200000",
+          "nowBefore": "1679281199000"
         }
       }
     ]
@@ -35045,6 +35070,528 @@
     ]
   },
   {
+    "id": "cd-mini-marathon-23-0310-quest-1-02",
+    "settings": [
+      {
+        "managerLevel": {
+          "levelGte": 40,
+          "levelLte": 0
+        }
+      },
+      {}
+    ]
+  },
+  {
+    "id": "cd-mini-marathon-23-0310-quest-1-03",
+    "settings": [
+      {
+        "managerLevel": {
+          "levelGte": 60,
+          "levelLte": 0
+        }
+      },
+      {}
+    ]
+  },
+  {
+    "id": "cd-mini-marathon-23-0310-quest-1-04",
+    "settings": [
+      {
+        "managerLevel": {
+          "levelGte": 80,
+          "levelLte": 0
+        }
+      },
+      {}
+    ]
+  },
+  {
+    "id": "cd-mini-marathon-23-0310-quest-1-05",
+    "settings": [
+      {
+        "managerLevel": {
+          "levelGte": 100,
+          "levelLte": 0
+        }
+      },
+      {}
+    ]
+  },
+  {
+    "id": "cd-mini-marathon-23-0310-quest-1-06",
+    "settings": [
+      {
+        "managerLevel": {
+          "levelGte": 110,
+          "levelLte": 0
+        }
+      },
+      {}
+    ]
+  },
+  {
+    "id": "cd-mini-marathon-23-0310-quest-1-07",
+    "settings": [
+      {
+        "managerLevel": {
+          "levelGte": 120,
+          "levelLte": 0
+        }
+      },
+      {}
+    ]
+  },
+  {
+    "id": "cd-mini-marathon-23-0310-quest-1-08",
+    "settings": [
+      {
+        "managerLevel": {
+          "levelGte": 130,
+          "levelLte": 0
+        }
+      },
+      {}
+    ]
+  },
+  {
+    "id": "cd-mini-marathon-23-0310-quest-1-09",
+    "settings": [
+      {
+        "managerLevel": {
+          "levelGte": 140,
+          "levelLte": 0
+        }
+      },
+      {}
+    ]
+  },
+  {
+    "id": "cd-mini-marathon-23-0310-quest-1-10",
+    "settings": [
+      {
+        "managerLevel": {
+          "levelGte": 150,
+          "levelLte": 0
+        }
+      },
+      {}
+    ]
+  },
+  {
+    "id": "cd-mini-marathon-23-0310-quest-1-11",
+    "settings": [
+      {
+        "managerLevel": {
+          "levelGte": 160,
+          "levelLte": 0
+        }
+      },
+      {}
+    ]
+  },
+  {
+    "id": "cd-mini-marathon-23-0310-quest-1-12",
+    "settings": [
+      {}
+    ]
+  },
+  {
+    "id": "cd-mini-marathon-23-0310-quest-1-13",
+    "settings": [
+      {}
+    ]
+  },
+  {
+    "id": "cd-mini-marathon-23-0310-quest-1-14",
+    "settings": [
+      {}
+    ]
+  },
+  {
+    "id": "cd-mini-marathon-23-0310-quest-1-15",
+    "settings": [
+      {}
+    ]
+  },
+  {
+    "id": "cd-mini-marathon-23-0310-quest-1-16",
+    "settings": [
+      {}
+    ]
+  },
+  {
+    "id": "cd-mini-marathon-23-0310-quest-1-17",
+    "settings": [
+      {}
+    ]
+  },
+  {
+    "id": "cd-mini-marathon-23-0310-quest-1-18",
+    "settings": [
+      {}
+    ]
+  },
+  {
+    "id": "cd-mini-marathon-23-0310-quest-1-19",
+    "settings": [
+      {}
+    ]
+  },
+  {
+    "id": "cd-mini-marathon-23-0310-quest-1-20",
+    "settings": [
+      {}
+    ]
+  },
+  {
+    "id": "cd-mini-marathon-23-0310-quest-2-02",
+    "settings": [
+      {
+        "managerLevel": {
+          "levelGte": 40,
+          "levelLte": 0
+        }
+      },
+      {}
+    ]
+  },
+  {
+    "id": "cd-mini-marathon-23-0310-quest-2-03",
+    "settings": [
+      {
+        "managerLevel": {
+          "levelGte": 60,
+          "levelLte": 0
+        }
+      },
+      {}
+    ]
+  },
+  {
+    "id": "cd-mini-marathon-23-0310-quest-2-04",
+    "settings": [
+      {
+        "managerLevel": {
+          "levelGte": 80,
+          "levelLte": 0
+        }
+      },
+      {}
+    ]
+  },
+  {
+    "id": "cd-mini-marathon-23-0310-quest-2-05",
+    "settings": [
+      {
+        "managerLevel": {
+          "levelGte": 100,
+          "levelLte": 0
+        }
+      },
+      {}
+    ]
+  },
+  {
+    "id": "cd-mini-marathon-23-0310-quest-2-06",
+    "settings": [
+      {
+        "managerLevel": {
+          "levelGte": 110,
+          "levelLte": 0
+        }
+      },
+      {}
+    ]
+  },
+  {
+    "id": "cd-mini-marathon-23-0310-quest-2-07",
+    "settings": [
+      {
+        "managerLevel": {
+          "levelGte": 120,
+          "levelLte": 0
+        }
+      },
+      {}
+    ]
+  },
+  {
+    "id": "cd-mini-marathon-23-0310-quest-2-08",
+    "settings": [
+      {
+        "managerLevel": {
+          "levelGte": 130,
+          "levelLte": 0
+        }
+      },
+      {}
+    ]
+  },
+  {
+    "id": "cd-mini-marathon-23-0310-quest-2-09",
+    "settings": [
+      {
+        "managerLevel": {
+          "levelGte": 140,
+          "levelLte": 0
+        }
+      },
+      {}
+    ]
+  },
+  {
+    "id": "cd-mini-marathon-23-0310-quest-2-10",
+    "settings": [
+      {
+        "managerLevel": {
+          "levelGte": 150,
+          "levelLte": 0
+        }
+      },
+      {}
+    ]
+  },
+  {
+    "id": "cd-mini-marathon-23-0310-quest-2-11",
+    "settings": [
+      {
+        "managerLevel": {
+          "levelGte": 160,
+          "levelLte": 0
+        }
+      },
+      {}
+    ]
+  },
+  {
+    "id": "cd-mini-marathon-23-0310-quest-2-12",
+    "settings": [
+      {}
+    ]
+  },
+  {
+    "id": "cd-mini-marathon-23-0310-quest-2-13",
+    "settings": [
+      {}
+    ]
+  },
+  {
+    "id": "cd-mini-marathon-23-0310-quest-2-14",
+    "settings": [
+      {}
+    ]
+  },
+  {
+    "id": "cd-mini-marathon-23-0310-quest-2-15",
+    "settings": [
+      {}
+    ]
+  },
+  {
+    "id": "cd-mini-marathon-23-0310-quest-2-16",
+    "settings": [
+      {}
+    ]
+  },
+  {
+    "id": "cd-mini-marathon-23-0310-quest-2-17",
+    "settings": [
+      {}
+    ]
+  },
+  {
+    "id": "cd-mini-marathon-23-0310-quest-2-18",
+    "settings": [
+      {}
+    ]
+  },
+  {
+    "id": "cd-mini-marathon-23-0310-quest-2-19",
+    "settings": [
+      {}
+    ]
+  },
+  {
+    "id": "cd-mini-marathon-23-0310-quest-2-20",
+    "settings": [
+      {}
+    ]
+  },
+  {
+    "id": "cd-mini-marathon-23-0310-quest-3-02",
+    "settings": [
+      {
+        "managerLevel": {
+          "levelGte": 40,
+          "levelLte": 0
+        }
+      },
+      {}
+    ]
+  },
+  {
+    "id": "cd-mini-marathon-23-0310-quest-3-03",
+    "settings": [
+      {
+        "managerLevel": {
+          "levelGte": 60,
+          "levelLte": 0
+        }
+      },
+      {}
+    ]
+  },
+  {
+    "id": "cd-mini-marathon-23-0310-quest-3-04",
+    "settings": [
+      {
+        "managerLevel": {
+          "levelGte": 80,
+          "levelLte": 0
+        }
+      },
+      {}
+    ]
+  },
+  {
+    "id": "cd-mini-marathon-23-0310-quest-3-05",
+    "settings": [
+      {
+        "managerLevel": {
+          "levelGte": 100,
+          "levelLte": 0
+        }
+      },
+      {}
+    ]
+  },
+  {
+    "id": "cd-mini-marathon-23-0310-quest-3-06",
+    "settings": [
+      {
+        "managerLevel": {
+          "levelGte": 110,
+          "levelLte": 0
+        }
+      },
+      {}
+    ]
+  },
+  {
+    "id": "cd-mini-marathon-23-0310-quest-3-07",
+    "settings": [
+      {
+        "managerLevel": {
+          "levelGte": 120,
+          "levelLte": 0
+        }
+      },
+      {}
+    ]
+  },
+  {
+    "id": "cd-mini-marathon-23-0310-quest-3-08",
+    "settings": [
+      {
+        "managerLevel": {
+          "levelGte": 130,
+          "levelLte": 0
+        }
+      },
+      {}
+    ]
+  },
+  {
+    "id": "cd-mini-marathon-23-0310-quest-3-09",
+    "settings": [
+      {
+        "managerLevel": {
+          "levelGte": 140,
+          "levelLte": 0
+        }
+      },
+      {}
+    ]
+  },
+  {
+    "id": "cd-mini-marathon-23-0310-quest-3-10",
+    "settings": [
+      {
+        "managerLevel": {
+          "levelGte": 150,
+          "levelLte": 0
+        }
+      },
+      {}
+    ]
+  },
+  {
+    "id": "cd-mini-marathon-23-0310-quest-3-11",
+    "settings": [
+      {
+        "managerLevel": {
+          "levelGte": 160,
+          "levelLte": 0
+        }
+      },
+      {}
+    ]
+  },
+  {
+    "id": "cd-mini-marathon-23-0310-quest-3-12",
+    "settings": [
+      {}
+    ]
+  },
+  {
+    "id": "cd-mini-marathon-23-0310-quest-3-13",
+    "settings": [
+      {}
+    ]
+  },
+  {
+    "id": "cd-mini-marathon-23-0310-quest-3-14",
+    "settings": [
+      {}
+    ]
+  },
+  {
+    "id": "cd-mini-marathon-23-0310-quest-3-15",
+    "settings": [
+      {}
+    ]
+  },
+  {
+    "id": "cd-mini-marathon-23-0310-quest-3-16",
+    "settings": [
+      {}
+    ]
+  },
+  {
+    "id": "cd-mini-marathon-23-0310-quest-3-17",
+    "settings": [
+      {}
+    ]
+  },
+  {
+    "id": "cd-mini-marathon-23-0310-quest-3-18",
+    "settings": [
+      {}
+    ]
+  },
+  {
+    "id": "cd-mini-marathon-23-0310-quest-3-19",
+    "settings": [
+      {}
+    ]
+  },
+  {
+    "id": "cd-mini-marathon-23-0310-quest-3-20",
+    "settings": [
+      {}
+    ]
+  },
+  {
     "id": "cd-mission-clear-event-ms-normal-21-0731-tour_area-1_clear_count",
     "settings": [
       {
@@ -37307,6 +37854,16 @@
       {
         "finishedMessage": {
           "messageId": "message-card-chs-05-idol-00"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-ms-read-message-card-chs-05-pajm-00",
+    "settings": [
+      {
+        "finishedMessage": {
+          "messageId": "message-card-chs-05-pajm-00"
         }
       }
     ]
@@ -55637,6 +56194,53 @@
     ]
   },
   {
+    "id": "cd-shop_special-shop-23-0310",
+    "settings": [
+      {
+        "term": {
+          "nowAfter": "1678417200000",
+          "nowBefore": "0"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-shop_special-shop-23-0310-0328",
+    "settings": [
+      {
+        "term": {
+          "nowAfter": "1678417200000",
+          "nowBefore": "1679972399000"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-shop_special-shop-23-0310-0328-dokan",
+    "settings": [
+      {
+        "term": {
+          "nowAfter": "1678417200000",
+          "nowBefore": "1679972399000"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-shop_special-shop-23-0310-0328-mlv-120",
+    "settings": [
+      {
+        "satisfyCondition": {
+          "conditionId": "cd-manager_level_gte-120"
+        },
+        "term": {
+          "nowAfter": "1678417200000",
+          "nowBefore": "1679972399000"
+        }
+      }
+    ]
+  },
+  {
     "id": "cd-shop_special-shop-banner-21-1125",
     "settings": [
       {
@@ -58025,6 +58629,16 @@
     ]
   },
   {
+    "id": "cd-st-read-st-card-chs-05-pajm-00-03",
+    "settings": [
+      {
+        "readStory": {
+          "storyId": "st-card-chs-05-pajm-00-03"
+        }
+      }
+    ]
+  },
+  {
     "id": "cd-st-read-st-card-chs-05-rock-00-03",
     "settings": [
       {
@@ -59670,6 +60284,32 @@
         "term": {
           "nowAfter": "1647183600000",
           "nowBefore": "1648047599000"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-time-event-ms-spr-23-0313-0323",
+    "settings": [
+      {
+        "term": {
+          "nowAfter": "1678633200000",
+          "nowBefore": "1679583599000"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-time-event-ms-spr-23-0313-0323-mlv20",
+    "settings": [
+      {
+        "managerLevel": {
+          "levelGte": 20,
+          "levelLte": 0
+        },
+        "term": {
+          "nowAfter": "1678633200000",
+          "nowBefore": "1679583599000"
         }
       }
     ]
@@ -61327,6 +61967,17 @@
     ]
   },
   {
+    "id": "cd-time-exchange-gacha_point-23-0401-0430",
+    "settings": [
+      {
+        "term": {
+          "nowAfter": "1680274800000",
+          "nowBefore": "1682866799000"
+        }
+      }
+    ]
+  },
+  {
     "id": "cd-time-exchange-idle_medal-21-0624-0731",
     "settings": [
       {
@@ -61558,6 +62209,17 @@
     ]
   },
   {
+    "id": "cd-time-exchange-idle_medal-23-0401-0430",
+    "settings": [
+      {
+        "term": {
+          "nowAfter": "1680274800000",
+          "nowBefore": "1682866799000"
+        }
+      }
+    ]
+  },
+  {
     "id": "cd-time-exchange-idol_medal-21-0630-0831",
     "settings": [
       {
@@ -61631,6 +62293,20 @@
         "term": {
           "nowAfter": "1677596400000",
           "nowBefore": "1680274799000"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-time-exchange-league_medal-23-0401-0430",
+    "settings": [
+      {
+        "satisfyCondition": {
+          "conditionId": "cd-time-exchange-league-open"
+        },
+        "term": {
+          "nowAfter": "1680274800000",
+          "nowBefore": "1682866799000"
         }
       }
     ]
@@ -61911,6 +62587,17 @@
         "term": {
           "nowAfter": "1677596400000",
           "nowBefore": "1680274799000"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-time-exchange-pvp_medal-23-0401-0430",
+    "settings": [
+      {
+        "term": {
+          "nowAfter": "1680274800000",
+          "nowBefore": "1682866799000"
         }
       }
     ]
@@ -63907,6 +64594,28 @@
     ]
   },
   {
+    "id": "cd-time-gacha-lm-set-bloom-23-0226-0310",
+    "settings": [
+      {
+        "term": {
+          "nowAfter": "1677380400000",
+          "nowBefore": "1678417199000"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-time-gacha-lm-set-bloom-23-0226-banner",
+    "settings": [
+      {
+        "term": {
+          "nowAfter": "1677380400000",
+          "nowBefore": "1678417199000"
+        }
+      }
+    ]
+  },
+  {
     "id": "cd-time-gacha-lm-set-bloom-dokan-22-1128",
     "settings": [
       {
@@ -64605,7 +65314,18 @@
       {
         "term": {
           "nowAfter": "1677380400000",
-          "nowBefore": "1678590000000"
+          "nowBefore": "1678417200000"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-time-gacha-normal-23-0310",
+    "settings": [
+      {
+        "term": {
+          "nowAfter": "1678417200000",
+          "nowBefore": "1679367600000"
         }
       }
     ]
@@ -64932,6 +65652,17 @@
         "term": {
           "nowAfter": "1676948400000",
           "nowBefore": "1677466799000"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-time-gacha-pick-set-bloom-23-0310",
+    "settings": [
+      {
+        "term": {
+          "nowAfter": "1678417200000",
+          "nowBefore": "1679367599000"
         }
       }
     ]
@@ -66274,6 +67005,17 @@
     ]
   },
   {
+    "id": "cd-time-gacha-select-01-23-0312",
+    "settings": [
+      {
+        "term": {
+          "nowAfter": "1678590000000",
+          "nowBefore": "1679108399000"
+        }
+      }
+    ]
+  },
+  {
     "id": "cd-time-gift-21-0624-0627",
     "settings": [
       {
@@ -67008,6 +67750,31 @@
         "term": {
           "nowAfter": "1676386800000",
           "nowBefore": "1676991599000"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-time-gvg-23-0315-0317_s-banner",
+    "settings": [
+      {
+        "satisfyCondition": {
+          "conditionId": "cd-clear-area-main-012"
+        },
+        "term": {
+          "nowAfter": "1678806000000",
+          "nowBefore": "1679065199000"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-time-gvg-23-0315-0321",
+    "settings": [
+      {
+        "term": {
+          "nowAfter": "1678806000000",
+          "nowBefore": "1679410799000"
         }
       }
     ]
@@ -68776,6 +69543,28 @@
         "term": {
           "nowAfter": "1677510000000",
           "nowBefore": "1678719599000"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-time-login-23-0317-0321",
+    "settings": [
+      {
+        "term": {
+          "nowAfter": "1678978800000",
+          "nowBefore": "1679410799000"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-time-login-23-0317-0328",
+    "settings": [
+      {
+        "term": {
+          "nowAfter": "1678978800000",
+          "nowBefore": "1680015599000"
         }
       }
     ]
@@ -70652,6 +71441,20 @@
     ]
   },
   {
+    "id": "cd-time-pvp-23-0312-0314_s-banner",
+    "settings": [
+      {
+        "satisfyCondition": {
+          "conditionId": "cd-clear-area-main-011"
+        },
+        "term": {
+          "nowAfter": "1678546800000",
+          "nowBefore": "1678805999000"
+        }
+      }
+    ]
+  },
+  {
     "id": "cd-time-questionnaire-21-0702-0709_s-banner",
     "settings": [
       {
@@ -71210,6 +72013,16 @@
       {
         "wearCostume": {
           "costumeId": "cos-chs-idol-00"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-wear-costume-cos-chs-pajm-00",
+    "settings": [
+      {
+        "wearCostume": {
+          "costumeId": "cos-chs-pajm-00"
         }
       }
     ]
