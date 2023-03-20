@@ -1844,6 +1844,66 @@
     "homeTalks": []
   },
   {
+    "id": "card-hrk-05-sail-00",
+    "assetId": "hrk-05-sail-00",
+    "name": "陽光見守るとなりの青春",
+    "description": "何年も前だけど、君と麻奈ちゃんって一緒に下校して\r\nそのまま現場に行くことが多かったでしょ？\r\n羨ましいなー、青春だなーって思ってたんだ\r\n今日は少しだけ、その気分が味わえた気がするの",
+    "type": 2,
+    "characterId": "char-hrk",
+    "initialRarity": 5,
+    "cardParameterId": "card-param-01",
+    "vocalRatioPermil": 317,
+    "danceRatioPermil": 279,
+    "visualRatioPermil": 404,
+    "staminaRatioPermil": 1000,
+    "cardLevelReleaseId": "card_level_release_1",
+    "skillId1": "sk-hrk-05-sail-00-1",
+    "skillId2": "sk-hrk-05-sail-00-2",
+    "skillId3": "sk-hrk-05-sail-00-3",
+    "liveAbilityId": "lba-visual_multiply",
+    "order": 273,
+    "releaseDate": "1679367600000",
+    "rewardCostumeId": "cos-hrk-sail-00",
+    "imageType1": 3,
+    "displayPositionX1": 0.106,
+    "displayPositionY1": 0.167,
+    "displayScale1": 1.5,
+    "highlightDisplayPositionX1": -0.201,
+    "highlightDisplayPositionY1": 0.236,
+    "highlightDisplayScale1": 1.1,
+    "imageType2": 3,
+    "displayPositionX2": 0.106,
+    "displayPositionY2": 0.167,
+    "displayScale2": 1.5,
+    "highlightDisplayPositionX2": -0.201,
+    "highlightDisplayPositionY2": 0.236,
+    "highlightDisplayScale2": 1.1,
+    "obtainMessage": "なんだか今日は、\n青春出来たなーって気がするわ",
+    "stories": [
+      {
+        "storyId": "st-card-hrk-05-sail-00-01"
+      },
+      {
+        "storyId": "st-card-hrk-05-sail-00-02"
+      },
+      {
+        "storyId": "st-card-hrk-05-sail-00-03"
+      }
+    ],
+    "messages": [
+      {
+        "messageId": "message-card-hrk-05-sail-00",
+        "telephoneId": ""
+      },
+      {
+        "telephoneId": "tel-card-hrk-05-sail-00",
+        "messageId": ""
+      }
+    ],
+    "activityAbilityId": "",
+    "homeTalks": []
+  },
+  {
     "id": "card-hrk-05-xmas-00",
     "assetId": "hrk-05-xmas-00",
     "name": "二人きり、冬夜の打ち上げ",

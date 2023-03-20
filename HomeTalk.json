@@ -1028,6 +1028,56 @@
     ]
   },
   {
+    "homeTalkId": "home-talk-card-hrk-05-sail-00-talk-01",
+    "characterId": "char-hrk",
+    "placeType": 1,
+    "conditionId": "cd-st-read-st-card-hrk-05-sail-00-03",
+    "firstPriority": 9900,
+    "weight": 1,
+    "callPatternId": "call-pattern-card-hrk-05-sail-00",
+    "choiceText": "傷んでいたとか？",
+    "managerText": "傷んでいたとか？",
+    "reliability": 5,
+    "characterTalks": [
+      {
+        "text": "ううん、そういう訳じゃないの。\n買ったのは人気店のタルト\nなんだけど…",
+        "voiceAssetId": "sud_vo_home_hrk-05-sail-00_talk-01-01",
+        "motionAssetId": "mot_adv_chr_cmn_talk-012_in",
+        "additionMotionAssetId": "mot_all_chr_cmn_facial-003_in"
+      },
+      {
+        "text": "美味し過ぎて危険なの！\n食べ過ぎちゃうのよ～！",
+        "voiceAssetId": "sud_vo_home_hrk-05-sail-00_talk-01-02",
+        "motionAssetId": "mot_adv_chr_cmn_angry-016_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "サニピのみんなも同じみたいで、\n「食べたいけどこれ以上は…」\nって顔をしてたわ。",
+        "voiceAssetId": "sud_vo_home_hrk-05-sail-00_talk-01-03",
+        "motionAssetId": "mot_adv_chr_cmn_emb-012_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "その場はなんとか我慢したんだけど\n一人でいる時に見かけたら、\nついつい一個だけ食べたくなって。",
+        "voiceAssetId": "sud_vo_home_hrk-05-sail-00_talk-01-04",
+        "motionAssetId": "mot_adv_chr_cmn_emb-013_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "誰もいないしちょっとくらい…\nって手を伸ばしたら、怜ちゃんが\nドアの隙間からじっと見てたのよ！",
+        "voiceAssetId": "sud_vo_home_hrk-05-sail-00_talk-01-05",
+        "motionAssetId": "mot_adv_chr_cmn_trouble-006_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "私のこと見張ってたのかしら…\nそれとも、怜ちゃんも実は\n食べたくて見てたとか…？",
+        "voiceAssetId": "sud_vo_home_hrk-05-sail-00_talk-01-06",
+        "motionAssetId": "mot_adv_chr_cmn_think-001_in",
+        "additionMotionAssetId": ""
+      }
+    ]
+  },
+  {
     "homeTalkId": "home-talk-card-hrk-05-xmas-00-talk-01",
     "characterId": "char-hrk",
     "placeType": 1,

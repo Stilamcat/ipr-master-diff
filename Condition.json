@@ -21175,11 +21175,61 @@
     ]
   },
   {
+    "id": "cd-game_story_point_gte-2285",
+    "settings": [
+      {
+        "gameStoryPoint": {
+          "pointGte": "2285"
+        }
+      }
+    ]
+  },
+  {
     "id": "cd-game_story_point_gte-230",
     "settings": [
       {
         "gameStoryPoint": {
           "pointGte": "230"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-game_story_point_gte-2300",
+    "settings": [
+      {
+        "gameStoryPoint": {
+          "pointGte": "2300"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-game_story_point_gte-2315",
+    "settings": [
+      {
+        "gameStoryPoint": {
+          "pointGte": "2315"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-game_story_point_gte-2330",
+    "settings": [
+      {
+        "gameStoryPoint": {
+          "pointGte": "2330"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-game_story_point_gte-2345",
+    "settings": [
+      {
+        "gameStoryPoint": {
+          "pointGte": "2345"
         }
       }
     ]
@@ -37934,6 +37984,16 @@
       {
         "finishedMessage": {
           "messageId": "message-card-hrk-05-onep-00"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-ms-read-message-card-hrk-05-sail-00",
+    "settings": [
+      {
+        "finishedMessage": {
+          "messageId": "message-card-hrk-05-sail-00"
         }
       }
     ]
@@ -58195,6 +58255,19 @@
     ]
   },
   {
+    "id": "cd-st-main-cmn-02-01-15",
+    "settings": [
+      {
+        "satisfyCondition": {
+          "conditionId": "cd-st-main-cmn-23-0321-1200"
+        },
+        "readStory": {
+          "storyId": "st-main-cmn-02-01-15"
+        }
+      }
+    ]
+  },
+  {
     "id": "cd-st-main-cmn-22-0922-1200",
     "settings": [
       {
@@ -58211,6 +58284,17 @@
       {
         "term": {
           "nowAfter": "1671937200000",
+          "nowBefore": "0"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-st-main-cmn-23-0321-1200",
+    "settings": [
+      {
+        "term": {
+          "nowAfter": "1679367600000",
           "nowBefore": "0"
         }
       }
@@ -58704,6 +58788,16 @@
       {
         "readStory": {
           "storyId": "st-card-hrk-05-onep-00-03"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-st-read-st-card-hrk-05-sail-00-03",
+    "settings": [
+      {
+        "readStory": {
+          "storyId": "st-card-hrk-05-sail-00-03"
         }
       }
     ]
@@ -63270,6 +63364,43 @@
     ]
   },
   {
+    "id": "cd-time-gacha-fixed-23-0322",
+    "settings": [
+      {
+        "term": {
+          "nowAfter": "1679454000000",
+          "nowBefore": "1679885999000"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-time-gacha-fixed-23-0322-banner",
+    "settings": [
+      {
+        "notSatisfyCondition": {
+          "conditionId": "cd-time-gacha-fixed-23-0322-banner-end"
+        },
+        "term": {
+          "nowAfter": "1679454000000",
+          "nowBefore": "1679885999000"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-time-gacha-fixed-23-0322-banner-end",
+    "settings": [
+      {
+        "drawGacha": {
+          "gachaButtonIds": [
+            "btn-10-gacha-fixed-23-0322-total"
+          ]
+        }
+      }
+    ]
+  },
+  {
     "id": "cd-time-gacha-free-21-1130",
     "settings": [
       {
@@ -65331,6 +65462,17 @@
     ]
   },
   {
+    "id": "cd-time-gacha-normal-23-0321",
+    "settings": [
+      {
+        "term": {
+          "nowAfter": "1679367600000",
+          "nowBefore": "1680231600000"
+        }
+      }
+    ]
+  },
+  {
     "id": "cd-time-gacha-pick-set-bloom-21-1112",
     "settings": [
       {
@@ -65663,6 +65805,17 @@
         "term": {
           "nowAfter": "1678417200000",
           "nowBefore": "1679367599000"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-time-gacha-pick-set-bloom-23-0321",
+    "settings": [
+      {
+        "term": {
+          "nowAfter": "1679367600000",
+          "nowBefore": "1680231599000"
         }
       }
     ]
@@ -71455,6 +71608,20 @@
     ]
   },
   {
+    "id": "cd-time-pvp-23-0322-0324_s-banner",
+    "settings": [
+      {
+        "satisfyCondition": {
+          "conditionId": "cd-clear-area-main-011"
+        },
+        "term": {
+          "nowAfter": "1679410800000",
+          "nowBefore": "1679669999000"
+        }
+      }
+    ]
+  },
+  {
     "id": "cd-time-questionnaire-21-0702-0709_s-banner",
     "settings": [
       {
@@ -71750,6 +71917,17 @@
       {
         "term": {
           "nowAfter": "1677207600000",
+          "nowBefore": "0"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-time-tower-23-0322",
+    "settings": [
+      {
+        "term": {
+          "nowAfter": "1679454000000",
           "nowBefore": "0"
         }
       }
@@ -72083,6 +72261,16 @@
       {
         "wearCostume": {
           "costumeId": "cos-hrk-onep-00"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-wear-costume-cos-hrk-sail-00",
+    "settings": [
+      {
+        "wearCostume": {
+          "costumeId": "cos-hrk-sail-00"
         }
       }
     ]

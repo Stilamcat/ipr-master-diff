@@ -20214,6 +20214,420 @@
     "assetId": ""
   },
   {
+    "id": "sk-hrk-05-sail-00-1",
+    "name": "恋をしているような表情",
+    "categoryType": 2,
+    "levels": [
+      {
+        "level": 1,
+        "description": "350%のスコア獲得\nスコアラータイプ2人に3段階ビジュアル上昇効果[35ビート]\nスタミナ112消費 CT:30",
+        "shortDescription": "\n\nスタミナ112消費 CT:30",
+        "stamina": 112,
+        "probabilityPermil": 1000,
+        "coolTime": 30,
+        "skillDetails": [
+          {
+            "efficacyId": "ef-score_get-3500-chart_dependence",
+            "triggerId": ""
+          },
+          {
+            "efficacyId": "ef-visual_up-3-target-character_type-1-2-35",
+            "triggerId": ""
+          }
+        ],
+        "requiredItemAmount": 0,
+        "requiredCardLevel": 0,
+        "triggerId": "",
+        "limitCount": 0,
+        "staminaPermil": 0
+      },
+      {
+        "level": 2,
+        "description": "370%のスコア獲得\nスコアラータイプ2人に3段階ビジュアル上昇効果[40ビート]\nスタミナ119消費 CT:30",
+        "shortDescription": "\n\nスタミナ119消費 CT:30",
+        "requiredItemAmount": 500,
+        "requiredCardLevel": 40,
+        "stamina": 119,
+        "probabilityPermil": 1000,
+        "coolTime": 30,
+        "skillDetails": [
+          {
+            "efficacyId": "ef-score_get-3700-chart_dependence",
+            "triggerId": ""
+          },
+          {
+            "efficacyId": "ef-visual_up-3-target-character_type-1-2-40",
+            "triggerId": ""
+          }
+        ],
+        "triggerId": "",
+        "limitCount": 0,
+        "staminaPermil": 0
+      },
+      {
+        "level": 3,
+        "description": "390%のスコア獲得\nスコアラータイプ2人に3段階ビジュアル上昇効果[45ビート]\nスタミナ127消費 CT:30",
+        "shortDescription": "\n\nスタミナ127消費 CT:30",
+        "requiredItemAmount": 2000,
+        "requiredCardLevel": 60,
+        "stamina": 127,
+        "probabilityPermil": 1000,
+        "coolTime": 30,
+        "skillDetails": [
+          {
+            "efficacyId": "ef-score_get-3900-chart_dependence",
+            "triggerId": ""
+          },
+          {
+            "efficacyId": "ef-visual_up-3-target-character_type-1-2-45",
+            "triggerId": ""
+          }
+        ],
+        "triggerId": "",
+        "limitCount": 0,
+        "staminaPermil": 0
+      },
+      {
+        "level": 4,
+        "description": "410%のスコア獲得\nスコアラータイプ2人に4段階ビジュアル上昇効果[45ビート]\nスタミナ138消費 CT:30",
+        "shortDescription": "\n\nスタミナ138消費 CT:30",
+        "requiredItemAmount": 15000,
+        "requiredCardLevel": 90,
+        "stamina": 138,
+        "probabilityPermil": 1000,
+        "coolTime": 30,
+        "skillDetails": [
+          {
+            "efficacyId": "ef-score_get-4100-chart_dependence",
+            "triggerId": ""
+          },
+          {
+            "efficacyId": "ef-visual_up-4-target-character_type-1-2-45",
+            "triggerId": ""
+          }
+        ],
+        "triggerId": "",
+        "limitCount": 0,
+        "staminaPermil": 0
+      },
+      {
+        "level": 5,
+        "description": "430%のスコア獲得\nスコアラータイプ2人に4段階ビジュアル上昇効果[50ビート]\nスタミナ146消費 CT:30",
+        "shortDescription": "\n\nスタミナ146消費 CT:30",
+        "requiredItemAmount": 100000,
+        "requiredCardLevel": 150,
+        "stamina": 146,
+        "probabilityPermil": 1000,
+        "coolTime": 30,
+        "skillDetails": [
+          {
+            "efficacyId": "ef-score_get-4300-chart_dependence",
+            "triggerId": ""
+          },
+          {
+            "efficacyId": "ef-visual_up-4-target-character_type-1-2-50",
+            "triggerId": ""
+          }
+        ],
+        "triggerId": "",
+        "limitCount": 0,
+        "staminaPermil": 0
+      },
+      {
+        "level": 6,
+        "description": "450%のスコア獲得\nスコアラータイプ2人に5段階ビジュアル上昇効果[55ビート]\nスタミナ162消費 CT:30",
+        "shortDescription": "\n\nスタミナ162消費 CT:30",
+        "requiredItemAmount": 230000,
+        "requiredCardLevel": 180,
+        "stamina": 162,
+        "probabilityPermil": 1000,
+        "coolTime": 30,
+        "skillDetails": [
+          {
+            "efficacyId": "ef-score_get-4500-chart_dependence",
+            "triggerId": ""
+          },
+          {
+            "efficacyId": "ef-visual_up-5-target-character_type-1-2-55",
+            "triggerId": ""
+          }
+        ],
+        "triggerId": "",
+        "limitCount": 0,
+        "staminaPermil": 0
+      }
+    ],
+    "assetId": ""
+  },
+  {
+    "id": "sk-hrk-05-sail-00-2",
+    "name": "憧れていた青春",
+    "categoryType": 3,
+    "levels": [
+      {
+        "level": 1,
+        "description": "誰かが低下効果状態の時\n対象1人の低下効果反転\n対象1人に9段階ビジュアルブースト効果[31ビート]\nスタミナ380消費 CT:60",
+        "shortDescription": "\n\n\nスタミナ380消費 CT:60",
+        "stamina": 380,
+        "triggerId": "tg-someone_status_group-weekness",
+        "probabilityPermil": 1000,
+        "coolTime": 60,
+        "skillDetails": [
+          {
+            "efficacyId": "ef-weakness_effect_inversion-target-trigger",
+            "triggerId": ""
+          },
+          {
+            "efficacyId": "ef-visual_boost-9-target-trigger-31",
+            "triggerId": ""
+          }
+        ],
+        "requiredItemAmount": 0,
+        "requiredCardLevel": 0,
+        "limitCount": 0,
+        "staminaPermil": 0
+      },
+      {
+        "level": 2,
+        "description": "誰かが低下効果状態の時\n対象1人の低下効果反転\n対象1人に10段階ビジュアルブースト効果[31ビート]\nスタミナ407消費 CT:60",
+        "shortDescription": "\n\n\nスタミナ407消費 CT:60",
+        "requiredItemAmount": 1000,
+        "requiredCardLevel": 50,
+        "stamina": 407,
+        "triggerId": "tg-someone_status_group-weekness",
+        "probabilityPermil": 1000,
+        "coolTime": 60,
+        "skillDetails": [
+          {
+            "efficacyId": "ef-weakness_effect_inversion-target-trigger",
+            "triggerId": ""
+          },
+          {
+            "efficacyId": "ef-visual_boost-10-target-trigger-31",
+            "triggerId": ""
+          }
+        ],
+        "limitCount": 0,
+        "staminaPermil": 0
+      },
+      {
+        "level": 3,
+        "description": "誰かが低下効果状態の時\n対象1人の低下効果反転\n対象1人に10段階ビジュアルブースト効果[41ビート]\nスタミナ496消費 CT:60",
+        "shortDescription": "\n\n\nスタミナ496消費 CT:60",
+        "requiredItemAmount": 4000,
+        "requiredCardLevel": 70,
+        "stamina": 496,
+        "triggerId": "tg-someone_status_group-weekness",
+        "probabilityPermil": 1000,
+        "coolTime": 60,
+        "skillDetails": [
+          {
+            "efficacyId": "ef-weakness_effect_inversion-target-trigger",
+            "triggerId": ""
+          },
+          {
+            "efficacyId": "ef-visual_boost-10-target-trigger-41",
+            "triggerId": ""
+          }
+        ],
+        "limitCount": 0,
+        "staminaPermil": 0
+      },
+      {
+        "level": 4,
+        "description": "誰かが低下効果状態の時\n対象1人の低下効果反転\n対象1人に11段階ビジュアルブースト効果[41ビート]\nスタミナ533消費 CT:60",
+        "shortDescription": "\n\n\nスタミナ533消費 CT:60",
+        "requiredItemAmount": 30000,
+        "requiredCardLevel": 110,
+        "stamina": 533,
+        "triggerId": "tg-someone_status_group-weekness",
+        "probabilityPermil": 1000,
+        "coolTime": 60,
+        "skillDetails": [
+          {
+            "efficacyId": "ef-weakness_effect_inversion-target-trigger",
+            "triggerId": ""
+          },
+          {
+            "efficacyId": "ef-visual_boost-11-target-trigger-41",
+            "triggerId": ""
+          }
+        ],
+        "limitCount": 0,
+        "staminaPermil": 0
+      },
+      {
+        "level": 5,
+        "description": "誰かが低下効果状態の時\n対象1人の低下効果反転\n対象1人に11段階ビジュアルブースト効果[51ビート]\nスタミナ630消費 CT:60",
+        "shortDescription": "\n\n\nスタミナ630消費 CT:60",
+        "requiredItemAmount": 140000,
+        "requiredCardLevel": 160,
+        "stamina": 630,
+        "triggerId": "tg-someone_status_group-weekness",
+        "probabilityPermil": 1000,
+        "coolTime": 60,
+        "skillDetails": [
+          {
+            "efficacyId": "ef-weakness_effect_inversion-target-trigger",
+            "triggerId": ""
+          },
+          {
+            "efficacyId": "ef-visual_boost-11-target-trigger-51",
+            "triggerId": ""
+          }
+        ],
+        "limitCount": 0,
+        "staminaPermil": 0
+      },
+      {
+        "level": 6,
+        "description": "誰かが低下効果状態の時\n対象1人の低下効果反転\n対象1人に12段階ビジュアルブースト効果[51ビート]\nスタミナ676消費 CT:60",
+        "shortDescription": "\n\n\nスタミナ676消費 CT:60",
+        "requiredItemAmount": 280000,
+        "requiredCardLevel": 200,
+        "stamina": 676,
+        "triggerId": "tg-someone_status_group-weekness",
+        "probabilityPermil": 1000,
+        "coolTime": 60,
+        "skillDetails": [
+          {
+            "efficacyId": "ef-weakness_effect_inversion-target-trigger",
+            "triggerId": ""
+          },
+          {
+            "efficacyId": "ef-visual_boost-12-target-trigger-51",
+            "triggerId": ""
+          }
+        ],
+        "limitCount": 0,
+        "staminaPermil": 0
+      }
+    ],
+    "assetId": ""
+  },
+  {
+    "id": "sk-hrk-05-sail-00-3",
+    "name": "本当は起きてた？",
+    "categoryType": 3,
+    "levels": [
+      {
+        "level": 1,
+        "description": "自身に4段階ビジュアル上昇効果[45ビート]\nスタミナ148消費 CT:55",
+        "shortDescription": "\nスタミナ148消費 CT:55",
+        "stamina": 148,
+        "probabilityPermil": 1000,
+        "coolTime": 55,
+        "skillDetails": [
+          {
+            "efficacyId": "ef-visual_up-4-target-self-45",
+            "triggerId": ""
+          }
+        ],
+        "requiredItemAmount": 0,
+        "requiredCardLevel": 0,
+        "triggerId": "",
+        "limitCount": 0,
+        "staminaPermil": 0
+      },
+      {
+        "level": 2,
+        "description": "自身に5段階ビジュアル上昇効果[45ビート]\nスタミナ184消費 CT:55",
+        "shortDescription": "\nスタミナ184消費 CT:55",
+        "requiredItemAmount": 15000,
+        "requiredCardLevel": 100,
+        "stamina": 184,
+        "probabilityPermil": 1000,
+        "coolTime": 55,
+        "skillDetails": [
+          {
+            "efficacyId": "ef-visual_up-5-target-self-45",
+            "triggerId": ""
+          }
+        ],
+        "triggerId": "",
+        "limitCount": 0,
+        "staminaPermil": 0
+      },
+      {
+        "level": 3,
+        "description": "自身に5段階ビジュアル上昇効果[48ビート]\nスタミナ197消費 CT:55",
+        "shortDescription": "\nスタミナ197消費 CT:55",
+        "requiredItemAmount": 60000,
+        "requiredCardLevel": 130,
+        "stamina": 197,
+        "probabilityPermil": 1000,
+        "coolTime": 55,
+        "skillDetails": [
+          {
+            "efficacyId": "ef-visual_up-5-target-self-48",
+            "triggerId": ""
+          }
+        ],
+        "triggerId": "",
+        "limitCount": 0,
+        "staminaPermil": 0
+      },
+      {
+        "level": 4,
+        "description": "自身に6段階ビジュアル上昇効果[48ビート]\nスタミナ236消費 CT:55",
+        "shortDescription": "\nスタミナ236消費 CT:55",
+        "requiredItemAmount": 180000,
+        "requiredCardLevel": 170,
+        "stamina": 236,
+        "probabilityPermil": 1000,
+        "coolTime": 55,
+        "skillDetails": [
+          {
+            "efficacyId": "ef-visual_up-6-target-self-48",
+            "triggerId": ""
+          }
+        ],
+        "triggerId": "",
+        "limitCount": 0,
+        "staminaPermil": 0
+      },
+      {
+        "level": 5,
+        "description": "自身に6段階ビジュアル上昇効果[51ビート]\nスタミナ251消費 CT:55",
+        "shortDescription": "\nスタミナ251消費 CT:55",
+        "requiredItemAmount": 330000,
+        "requiredCardLevel": 210,
+        "stamina": 251,
+        "probabilityPermil": 1000,
+        "coolTime": 55,
+        "skillDetails": [
+          {
+            "efficacyId": "ef-visual_up-6-target-self-51",
+            "triggerId": ""
+          }
+        ],
+        "triggerId": "",
+        "limitCount": 0,
+        "staminaPermil": 0
+      },
+      {
+        "level": 6,
+        "description": "自身に7段階ビジュアル上昇効果[51ビート]\nスタミナ293消費 CT:55",
+        "shortDescription": "\nスタミナ293消費 CT:55",
+        "requiredItemAmount": 380000,
+        "requiredCardLevel": 230,
+        "stamina": 293,
+        "probabilityPermil": 1000,
+        "coolTime": 55,
+        "skillDetails": [
+          {
+            "efficacyId": "ef-visual_up-7-target-self-51",
+            "triggerId": ""
+          }
+        ],
+        "triggerId": "",
+        "limitCount": 0,
+        "staminaPermil": 0
+      }
+    ],
+    "assetId": ""
+  },
+  {
     "id": "sk-hrk-05-xmas-00-1",
     "name": "二人で過ごすクリスマス",
     "categoryType": 2,
@@ -41867,6 +42281,152 @@
           }
         ],
         "stamina": 0,
+        "limitCount": 0,
+        "staminaPermil": 0
+      }
+    ],
+    "assetId": ""
+  },
+  {
+    "id": "sk-live-lba-passive_skill-093",
+    "name": "ライブボーナス",
+    "categoryType": 3,
+    "levels": [
+      {
+        "level": 1,
+        "description": "センターに9段階スコア上昇効果[31ビート]\nスコアラータイプ1人に7段階ビジュアル低下効果[33ビート]\nCT:50",
+        "shortDescription": "\n\nCT:50",
+        "probabilityPermil": 1000,
+        "coolTime": 50,
+        "skillDetails": [
+          {
+            "efficacyId": "ef-score_up-9-target-center-31",
+            "triggerId": ""
+          },
+          {
+            "efficacyId": "ef-visual_down-0-7-target-character_type-1-1-33",
+            "triggerId": ""
+          }
+        ],
+        "requiredItemAmount": 0,
+        "requiredCardLevel": 0,
+        "stamina": 0,
+        "triggerId": "",
+        "limitCount": 0,
+        "staminaPermil": 0
+      },
+      {
+        "level": 2,
+        "description": "センターに9段階スコア上昇効果[35ビート]\nスコアラータイプ1人に8段階ビジュアル低下効果[33ビート]\nCT:50",
+        "shortDescription": "\n\nCT:50",
+        "requiredItemAmount": 1,
+        "requiredCardLevel": 1,
+        "probabilityPermil": 1000,
+        "coolTime": 50,
+        "skillDetails": [
+          {
+            "efficacyId": "ef-score_up-9-target-center-35",
+            "triggerId": ""
+          },
+          {
+            "efficacyId": "ef-visual_down-0-8-target-character_type-1-1-33",
+            "triggerId": ""
+          }
+        ],
+        "stamina": 0,
+        "triggerId": "",
+        "limitCount": 0,
+        "staminaPermil": 0
+      },
+      {
+        "level": 3,
+        "description": "センターに9段階スコア上昇効果[41ビート]\nスコアラータイプ1人に8段階ビジュアル低下効果[38ビート]\nCT:50",
+        "shortDescription": "\n\nCT:50",
+        "requiredItemAmount": 1,
+        "requiredCardLevel": 2,
+        "probabilityPermil": 1000,
+        "coolTime": 50,
+        "skillDetails": [
+          {
+            "efficacyId": "ef-score_up-9-target-center-41",
+            "triggerId": ""
+          },
+          {
+            "efficacyId": "ef-visual_down-0-8-target-character_type-1-1-38",
+            "triggerId": ""
+          }
+        ],
+        "stamina": 0,
+        "triggerId": "",
+        "limitCount": 0,
+        "staminaPermil": 0
+      },
+      {
+        "level": 4,
+        "description": "センターに10段階スコア上昇効果[41ビート]\nスコアラータイプ1人に9段階ビジュアル低下効果[38ビート]\nCT:50",
+        "shortDescription": "\n\nCT:50",
+        "requiredItemAmount": 1,
+        "requiredCardLevel": 3,
+        "probabilityPermil": 1000,
+        "coolTime": 50,
+        "skillDetails": [
+          {
+            "efficacyId": "ef-score_up-10-target-center-41",
+            "triggerId": ""
+          },
+          {
+            "efficacyId": "ef-visual_down-0-9-target-character_type-1-1-38",
+            "triggerId": ""
+          }
+        ],
+        "stamina": 0,
+        "triggerId": "",
+        "limitCount": 0,
+        "staminaPermil": 0
+      },
+      {
+        "level": 5,
+        "description": "センターに10段階スコア上昇効果[47ビート]\nスコアラータイプ1人に9段階ビジュアル低下効果[43ビート]\nCT:50",
+        "shortDescription": "\n\nCT:50",
+        "requiredItemAmount": 1,
+        "requiredCardLevel": 4,
+        "probabilityPermil": 1000,
+        "coolTime": 50,
+        "skillDetails": [
+          {
+            "efficacyId": "ef-score_up-10-target-center-47",
+            "triggerId": ""
+          },
+          {
+            "efficacyId": "ef-visual_down-0-9-target-character_type-1-1-43",
+            "triggerId": ""
+          }
+        ],
+        "stamina": 0,
+        "triggerId": "",
+        "limitCount": 0,
+        "staminaPermil": 0
+      },
+      {
+        "level": 6,
+        "description": "センターに10段階スコア上昇効果[53ビート]\nスコアラータイプ1人に10段階ビジュアル低下効果[43ビート]\nCT:50",
+        "shortDescription": "\n\nCT:50",
+        "requiredItemAmount": 1,
+        "requiredCardLevel": 5,
+        "probabilityPermil": 1000,
+        "coolTime": 50,
+        "skillDetails": [
+          {
+            "efficacyId": "ef-score_up-10-target-center-53",
+            "triggerId": ""
+          },
+          {
+            "efficacyId": "ef-visual_down-0-10-target-character_type-1-1-43",
+            "triggerId": ""
+          }
+        ],
+        "stamina": 0,
+        "triggerId": "",
         "limitCount": 0,
         "staminaPermil": 0
       }
