@@ -7950,6 +7950,16 @@
     "shortDescription": ""
   },
   {
+    "id": "ef-critical_bonus_permil_up-4-target-self-35",
+    "name": "自身にクリティカル係数上昇効果",
+    "type": 20,
+    "description": "自身に4段階クリティカル係数上昇効果[35ビート]",
+    "grade": 4,
+    "maxGrade": 20,
+    "skillTargetId": "target-self",
+    "shortDescription": ""
+  },
+  {
     "id": "ef-critical_bonus_permil_up-4-target-self-36",
     "name": "自身にクリティカル係数上昇効果",
     "type": 20,
@@ -8520,6 +8530,16 @@
     "shortDescription": ""
   },
   {
+    "id": "ef-critical_bonus_permil_up-5-target-self-45",
+    "name": "自身にクリティカル係数上昇効果",
+    "type": 20,
+    "description": "自身に5段階クリティカル係数上昇効果[45ビート]",
+    "grade": 5,
+    "maxGrade": 20,
+    "skillTargetId": "target-self",
+    "shortDescription": ""
+  },
+  {
     "id": "ef-critical_bonus_permil_up-5-target-self-46",
     "name": "自身にクリティカル係数上昇効果",
     "type": 20,
@@ -8844,6 +8864,16 @@
     "name": "自身にクリティカル係数上昇効果",
     "type": 20,
     "description": "自身に6段階クリティカル係数上昇効果[35ビート]",
+    "grade": 6,
+    "maxGrade": 20,
+    "skillTargetId": "target-self",
+    "shortDescription": ""
+  },
+  {
+    "id": "ef-critical_bonus_permil_up-6-target-self-45",
+    "name": "自身にクリティカル係数上昇効果",
+    "type": 20,
+    "description": "自身に6段階クリティカル係数上昇効果[45ビート]",
     "grade": 6,
     "maxGrade": 20,
     "skillTargetId": "target-self",
@@ -32730,6 +32760,16 @@
     "shortDescription": ""
   },
   {
+    "id": "ef-status_effect_change-target-character_type-1-1-vocal_up-vocal_boost",
+    "name": "スコアラータイプ1人のボーカル上昇をボーカルブーストに変化",
+    "type": 72,
+    "description": "スコアラータイプ1人のボーカルアップをボーカルブーストに状態変化",
+    "skillTargetId": "target-character_type-1-1",
+    "shortDescription": "",
+    "grade": 0,
+    "maxGrade": 0
+  },
+  {
     "id": "ef-strength_effect_assignment-active_skill_score_up-target-trigger",
     "name": "対象をAスキルチャンス譲渡状態",
     "type": 52,
@@ -40580,6 +40620,16 @@
     "shortDescription": ""
   },
   {
+    "id": "ef-vocal_up-4-target-self-45",
+    "name": "自身にボーカル上昇効果",
+    "type": 14,
+    "description": "自身に4段階ボーカル上昇効果[45ビート]",
+    "grade": 4,
+    "maxGrade": 20,
+    "skillTargetId": "target-self",
+    "shortDescription": ""
+  },
+  {
     "id": "ef-vocal_up-4-target-self-46",
     "name": "自身にボーカル上昇効果",
     "type": 14,
@@ -40764,6 +40814,16 @@
     "name": "全員にボーカル上昇効果",
     "type": 14,
     "description": "全員に5段階ボーカル上昇効果[20ビート]",
+    "grade": 5,
+    "maxGrade": 20,
+    "skillTargetId": "target-all",
+    "shortDescription": ""
+  },
+  {
+    "id": "ef-vocal_up-5-target-all-22",
+    "name": "全員にボーカル上昇効果",
+    "type": 14,
+    "description": "全員に5段階ボーカル上昇効果[22ビート]",
     "grade": 5,
     "maxGrade": 20,
     "skillTargetId": "target-all",
@@ -41080,10 +41140,30 @@
     "shortDescription": ""
   },
   {
+    "id": "ef-vocal_up-5-target-self-45",
+    "name": "自身にボーカル上昇効果",
+    "type": 14,
+    "description": "自身に5段階ボーカル上昇効果[45ビート]",
+    "grade": 5,
+    "maxGrade": 20,
+    "skillTargetId": "target-self",
+    "shortDescription": ""
+  },
+  {
     "id": "ef-vocal_up-5-target-self-46",
     "name": "自身にボーカル上昇効果",
     "type": 14,
     "description": "自身に5段階ボーカル上昇効果[46ビート]",
+    "grade": 5,
+    "maxGrade": 20,
+    "skillTargetId": "target-self",
+    "shortDescription": ""
+  },
+  {
+    "id": "ef-vocal_up-5-target-self-48",
+    "name": "自身にボーカル上昇効果",
+    "type": 14,
+    "description": "自身に5段階ボーカル上昇効果[48ビート]",
     "grade": 5,
     "maxGrade": 20,
     "skillTargetId": "target-self",
@@ -41270,6 +41350,16 @@
     "shortDescription": ""
   },
   {
+    "id": "ef-vocal_up-6-target-all-22",
+    "name": "全員にボーカル上昇効果",
+    "type": 14,
+    "description": "全員に6段階ボーカル上昇効果[22ビート]",
+    "grade": 6,
+    "maxGrade": 20,
+    "skillTargetId": "target-all",
+    "shortDescription": ""
+  },
+  {
     "id": "ef-vocal_up-6-target-all-25",
     "name": "全員にボーカル上昇効果",
     "type": 14,
@@ -41280,10 +41370,30 @@
     "shortDescription": ""
   },
   {
+    "id": "ef-vocal_up-6-target-all-27",
+    "name": "全員にボーカル上昇効果",
+    "type": 14,
+    "description": "全員に6段階ボーカル上昇効果[27ビート]",
+    "grade": 6,
+    "maxGrade": 20,
+    "skillTargetId": "target-all",
+    "shortDescription": ""
+  },
+  {
     "id": "ef-vocal_up-6-target-all-30",
     "name": "全員にボーカル上昇効果",
     "type": 14,
     "description": "全員に6段階ボーカル上昇効果[30ビート]",
+    "grade": 6,
+    "maxGrade": 20,
+    "skillTargetId": "target-all",
+    "shortDescription": ""
+  },
+  {
+    "id": "ef-vocal_up-6-target-all-33",
+    "name": "全員にボーカル上昇効果",
+    "type": 14,
+    "description": "全員に6段階ボーカル上昇効果[33ビート]",
     "grade": 6,
     "maxGrade": 20,
     "skillTargetId": "target-all",
@@ -41690,6 +41800,16 @@
     "shortDescription": ""
   },
   {
+    "id": "ef-vocal_up-6-target-self-51",
+    "name": "自身にボーカル上昇効果",
+    "type": 14,
+    "description": "自身に6段階ボーカル上昇効果[51ビート]",
+    "grade": 6,
+    "maxGrade": 20,
+    "skillTargetId": "target-self",
+    "shortDescription": ""
+  },
+  {
     "id": "ef-vocal_up-6-target-self-63",
     "name": "自身にボーカル上昇効果",
     "type": 14,
@@ -41827,6 +41947,16 @@
     "grade": 6,
     "maxGrade": 20,
     "skillTargetId": "target-vocal_higher-3",
+    "shortDescription": ""
+  },
+  {
+    "id": "ef-vocal_up-7-target-all-33",
+    "name": "全員にボーカル上昇効果",
+    "type": 14,
+    "description": "全員に7段階ボーカル上昇効果[33ビート]",
+    "grade": 7,
+    "maxGrade": 20,
+    "skillTargetId": "target-all",
     "shortDescription": ""
   },
   {
@@ -42154,6 +42284,16 @@
     "name": "自身にボーカル上昇効果",
     "type": 14,
     "description": "自身に7段階ボーカル上昇効果[48ビート]",
+    "grade": 7,
+    "maxGrade": 20,
+    "skillTargetId": "target-self",
+    "shortDescription": ""
+  },
+  {
+    "id": "ef-vocal_up-7-target-self-51",
+    "name": "自身にボーカル上昇効果",
+    "type": 14,
+    "description": "自身に7段階ボーカル上昇効果[51ビート]",
     "grade": 7,
     "maxGrade": 20,
     "skillTargetId": "target-self",

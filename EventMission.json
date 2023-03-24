@@ -235,6 +235,22 @@
     "unlockConditionId": ""
   },
   {
+    "id": "event-ladder-23-0325",
+    "eventMissionType": 1,
+    "assetId": "img_banner_l_campaign-23-0325-02",
+    "name": "Re:Sound",
+    "order": 1,
+    "viewConditionId": "cd-date-event-ladder-23-0325",
+    "missionIds": [
+      "event-ms-normal-23-0325-mission_login_count",
+      "event-ms-normal-23-0325-mission_open_panel_count",
+      "event-ms-normal-23-0325-mission_photo_shoot_total_count",
+      "event-ms-normal-23-0325-mission_quest_pvp_play_count",
+      "event-ms-normal-23-0325-mission_use_point_amount_count"
+    ],
+    "unlockConditionId": ""
+  },
+  {
     "id": "event-marathon-21-0930",
     "eventMissionType": 1,
     "assetId": "img_banner_l_event-marathon-21-0930",

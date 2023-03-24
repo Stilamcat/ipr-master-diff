@@ -10315,6 +10315,28 @@
     ]
   },
   {
+    "id": "cd-date-event-ladder-23-0325",
+    "settings": [
+      {
+        "term": {
+          "nowAfter": "1679670000000",
+          "nowBefore": "1680577199000"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-date-event-ladder-23-0328",
+    "settings": [
+      {
+        "term": {
+          "nowAfter": "1679972400000",
+          "nowBefore": "1680577199000"
+        }
+      }
+    ]
+  },
+  {
     "id": "cd-date-event-ladder-marathon-raid-22-1028-panel-story-01",
     "settings": [
       {
@@ -15755,6 +15777,28 @@
     ]
   },
   {
+    "id": "cd-ex-st-part-limited-01-open-230324",
+    "settings": [
+      {
+        "term": {
+          "nowAfter": "1679626800000",
+          "nowBefore": "1680620399000"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-ex-st-part-limited-05-open-230324-01",
+    "settings": [
+      {
+        "term": {
+          "nowAfter": "1679626800000",
+          "nowBefore": "1680620399000"
+        }
+      }
+    ]
+  },
+  {
     "id": "cd-ex-story-part-birthday-01-open",
     "settings": [
       {
@@ -16708,6 +16752,17 @@
       {
         "term": {
           "nowAfter": "1672455600000",
+          "nowBefore": "0"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-exchange-photo-medal-23-0324",
+    "settings": [
+      {
+        "term": {
+          "nowAfter": "1679626800000",
           "nowBefore": "0"
         }
       }
@@ -39576,6 +39631,15 @@
           "nowAfter": "1664766000000",
           "nowBefore": "1667228399000"
         }
+      },
+      {
+        "satisfyCondition": {
+          "conditionId": "cd-tutorial-finish-photo-create-shooting"
+        },
+        "term": {
+          "nowAfter": "1679626800000",
+          "nowBefore": "1682866799000"
+        }
       }
     ]
   },
@@ -39589,6 +39653,20 @@
         "term": {
           "nowAfter": "1664766000000",
           "nowBefore": "1665068399000"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-photo-shooting-mv-004-banner-23-0328",
+    "settings": [
+      {
+        "satisfyCondition": {
+          "conditionId": "cd-tutorial-finish-photo-create-shooting"
+        },
+        "term": {
+          "nowAfter": "1679626800000",
+          "nowBefore": "1679929199000"
         }
       }
     ]
@@ -53702,6 +53780,17 @@
     ]
   },
   {
+    "id": "cd-shop_dress-shop-23-0326-0430",
+    "settings": [
+      {
+        "term": {
+          "nowAfter": "1679799600000",
+          "nowBefore": "1682866799000"
+        }
+      }
+    ]
+  },
+  {
     "id": "cd-shop_ever-clear",
     "settings": [
       {
@@ -61797,6 +61886,24 @@
     ]
   },
   {
+    "id": "cd-time-event_tour-23-0325",
+    "settings": [
+      {
+        "managerLevel": {
+          "levelGte": 40,
+          "levelLte": 0
+        },
+        "term": {
+          "nowAfter": "1679670000000",
+          "nowBefore": "1679972399000"
+        },
+        "clearArea": {
+          "areaId": "area-main-001"
+        }
+      }
+    ]
+  },
+  {
     "id": "cd-time-event_tour-mission-21-0731",
     "settings": [
       {
@@ -62436,6 +62543,28 @@
         "term": {
           "nowAfter": "1677207600000",
           "nowBefore": "1684897199000"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-time-exchange-photo-medal-23-0324",
+    "settings": [
+      {
+        "term": {
+          "nowAfter": "1679626800000",
+          "nowBefore": "0"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-time-exchange-photo-medal-23-0324-close",
+    "settings": [
+      {
+        "term": {
+          "nowBefore": "1679626799000",
+          "nowAfter": "0"
         }
       }
     ]
@@ -66421,6 +66550,39 @@
         "term": {
           "nowAfter": "1679324399000",
           "nowBefore": "1679626799000"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-time-gacha-premium-23-0324",
+    "settings": [
+      {
+        "term": {
+          "nowAfter": "1679626800000",
+          "nowBefore": "1682305199000"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-time-gacha-premium-23-0324-banner",
+    "settings": [
+      {
+        "term": {
+          "nowAfter": "1679626800000",
+          "nowBefore": "1679929199000"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-time-gacha-premium-23-0324-banner-end",
+    "settings": [
+      {
+        "term": {
+          "nowAfter": "1682002800000",
+          "nowBefore": "1682305199000"
         }
       }
     ]
