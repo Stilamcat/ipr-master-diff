@@ -1454,6 +1454,47 @@
     "homeTalks": []
   },
   {
+    "id": "card-hrk-02-eve-03",
+    "assetId": "hrk-02-eve-03",
+    "name": "巡る季節と色褪せない日々",
+    "description": "ごめんなさい、今はまだ麻奈ちゃんの曲は歌えない\r\nでも、いつか私達に後輩が出来たら……その時は\r\n私と麻奈ちゃんと、後輩達と、みんなで一緒に歌いましょう？",
+    "type": 1,
+    "characterId": "char-hrk",
+    "initialRarity": 2,
+    "cardParameterId": "card-param-01",
+    "vocalRatioPermil": 432,
+    "danceRatioPermil": 318,
+    "visualRatioPermil": 280,
+    "staminaRatioPermil": 900,
+    "cardLevelReleaseId": "card_level_release_1",
+    "skillId1": "sk-hrk-02-eve-03-1",
+    "skillId2": "sk-hrk-02-eve-03-2",
+    "skillId3": "sk-hrk-02-eve-03-3",
+    "order": 277,
+    "releaseDate": "1679972400000",
+    "imageType1": 1,
+    "displayPositionX1": -0.001,
+    "displayPositionY1": 0.279,
+    "displayScale1": 1.0,
+    "highlightDisplayPositionX1": -0.003,
+    "highlightDisplayPositionY1": 0.322,
+    "highlightDisplayScale1": 1.0,
+    "imageType2": 2,
+    "displayPositionX2": 0.013,
+    "displayPositionY2": 0.298,
+    "displayScale2": 1.0,
+    "highlightDisplayPositionX2": -0.212,
+    "highlightDisplayPositionY2": 0.053,
+    "highlightDisplayScale2": 1.0,
+    "liveAbilityId": "",
+    "activityAbilityId": "",
+    "rewardCostumeId": "",
+    "obtainMessage": "",
+    "stories": [],
+    "messages": [],
+    "homeTalks": []
+  },
+  {
     "id": "card-hrk-03-schl-00",
     "assetId": "hrk-03-schl-00",
     "name": "後輩思いのお姉さん",
@@ -2936,6 +2977,66 @@
       }
     ],
     "liveAbilityId": "",
+    "displayPositionY1": 0.0,
+    "displayPositionY2": 0.0,
+    "homeTalks": []
+  },
+  {
+    "id": "card-ktn-05-fest-01",
+    "assetId": "ktn-05-fest-01",
+    "name": "月光惑う光耀の幻影",
+    "description": "這い上がるのは辛いとしか\r\n思えなかったんですけど……\r\nあんな風に力に変えることも出来るんですね",
+    "type": 1,
+    "characterId": "char-ktn",
+    "initialRarity": 5,
+    "cardParameterId": "card-param-01",
+    "vocalRatioPermil": 318,
+    "danceRatioPermil": 278,
+    "visualRatioPermil": 434,
+    "staminaRatioPermil": 900,
+    "cardLevelReleaseId": "card_level_release_1",
+    "skillId1": "sk-ktn-05-fest-01-1",
+    "skillId2": "sk-ktn-05-fest-01-2",
+    "skillId3": "sk-ktn-05-fest-01-3",
+    "liveAbilityId": "lba-special_skill_score_multiply",
+    "order": 275,
+    "releaseDate": "1679972400000",
+    "rewardCostumeId": "cos-ktn-fest-01",
+    "imageType1": 3,
+    "displayPositionX1": -0.17,
+    "displayScale1": 1.0,
+    "highlightDisplayPositionX1": 0.079,
+    "highlightDisplayPositionY1": 0.239,
+    "highlightDisplayScale1": 0.7,
+    "imageType2": 3,
+    "displayPositionX2": -0.17,
+    "displayScale2": 1.0,
+    "highlightDisplayPositionX2": 0.079,
+    "highlightDisplayPositionY2": 0.239,
+    "highlightDisplayScale2": 0.7,
+    "obtainMessage": "……ダメ、今は\n観てくれる人達のことを考えなきゃ",
+    "stories": [
+      {
+        "storyId": "st-card-ktn-05-fest-01-01"
+      },
+      {
+        "storyId": "st-card-ktn-05-fest-01-02"
+      },
+      {
+        "storyId": "st-card-ktn-05-fest-01-03"
+      }
+    ],
+    "messages": [
+      {
+        "messageId": "message-card-ktn-05-fest-01",
+        "telephoneId": ""
+      },
+      {
+        "telephoneId": "tel-card-ktn-05-fest-01",
+        "messageId": ""
+      }
+    ],
+    "activityAbilityId": "",
     "displayPositionY1": 0.0,
     "displayPositionY2": 0.0,
     "homeTalks": []
@@ -7010,6 +7111,66 @@
       }
     ],
     "activityAbilityId": ""
+  },
+  {
+    "id": "card-skr-05-fest-01",
+    "assetId": "skr-05-fest-01",
+    "name": "太陽は光耀と共に",
+    "description": "麻奈さん……\nもし私の声が届いたら、一緒に歌って下さい\nありったけの想いを込めて歌います\n空の向こうまで、私達の声が届くように！",
+    "type": 3,
+    "characterId": "char-skr",
+    "initialRarity": 5,
+    "cardParameterId": "card-param-01",
+    "vocalRatioPermil": 289,
+    "danceRatioPermil": 415,
+    "visualRatioPermil": 326,
+    "staminaRatioPermil": 900,
+    "cardLevelReleaseId": "card_level_release_1",
+    "skillId1": "sk-skr-05-fest-01-1",
+    "skillId2": "sk-skr-05-fest-01-2",
+    "skillId3": "sk-skr-05-fest-01-3",
+    "activityAbilityId": "aab-fan_event_manager_exp_up",
+    "order": 276,
+    "releaseDate": "1679972400000",
+    "rewardCostumeId": "cos-skr-fest-01",
+    "imageType1": 3,
+    "displayPositionX1": 0.158,
+    "displayScale1": 1.0,
+    "highlightDisplayPositionX1": 0.5,
+    "highlightDisplayPositionY1": 0.5,
+    "highlightDisplayScale1": 0.6,
+    "imageType2": 3,
+    "displayPositionX2": 0.158,
+    "displayScale2": 1.0,
+    "highlightDisplayPositionX2": 0.5,
+    "highlightDisplayPositionY2": 0.5,
+    "highlightDisplayScale2": 0.6,
+    "obtainMessage": "麻奈さん、観てくれていますか？",
+    "stories": [
+      {
+        "storyId": "st-card-skr-05-fest-01-01"
+      },
+      {
+        "storyId": "st-card-skr-05-fest-01-02"
+      },
+      {
+        "storyId": "st-card-skr-05-fest-01-03"
+      }
+    ],
+    "messages": [
+      {
+        "messageId": "message-card-skr-05-fest-01",
+        "telephoneId": ""
+      },
+      {
+        "telephoneId": "tel-card-skr-05-fest-01",
+        "messageId": ""
+      }
+    ],
+    "liveAbilityId": "",
+    "displayPositionY1": 0.0,
+    "displayPositionY2": 0.0,
+    "homeTalks": []
   },
   {
     "id": "card-skr-05-idol-00",

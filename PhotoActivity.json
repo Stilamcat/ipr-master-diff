@@ -19,6 +19,26 @@
     "unlockConditionId": ""
   },
   {
+    "id": "photo_activity-aj",
+    "name": "展示スペース",
+    "type": 1,
+    "thumbAssetId": "aj-00",
+    "stageId": "stage-photo-aj-00",
+    "costumeTypeIds": [
+      "idol",
+      "casl",
+      "gene",
+      "idol-miku"
+    ],
+    "forceCostumeTypeId": "casl",
+    "photoShootingMotionSetId": "aj-00",
+    "isDeleteCharacter": true,
+    "order": 1,
+    "viewConditionId": "",
+    "unlockConditionId": "",
+    "impossibleShootingCharacterIds": []
+  },
+  {
     "id": "photo_activity-cafe",
     "name": "カフェ",
     "type": 2,

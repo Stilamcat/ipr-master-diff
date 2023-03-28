@@ -3879,6 +3879,15 @@
     "isViewableInInactive": false
   },
   {
+    "id": "emb-706",
+    "name": "【誕生日】川咲さくら",
+    "assetId": "birthday_skr-02",
+    "autoProvideConditionId": "cd-birthday_emblem_skr-23-0403",
+    "order": 602060,
+    "description": "さくらの誕生日を迎える",
+    "isViewableInInactive": false
+  },
+  {
     "id": "emb-707",
     "name": "【誕生日】白石千紗",
     "assetId": "birthday_chs-02",
@@ -4154,6 +4163,15 @@
     "assetId": "race-23-0226",
     "order": 123030,
     "description": "VENUSレース「ぱじゃまパーティー！～夢見る少女と眠り姫～」クリア",
+    "autoProvideConditionId": "",
+    "isViewableInInactive": false
+  },
+  {
+    "id": "emb-821",
+    "name": "音色の輝石が紡ぐ未来",
+    "assetId": "marathon-raid-23-0328",
+    "order": 123040,
+    "description": "マルチリンクス「音色の輝石が紡ぐ未来」",
     "autoProvideConditionId": "",
     "isViewableInInactive": false
   },
@@ -4478,6 +4496,33 @@
     "assetId": "gvg-season-021-top010",
     "order": 402120,
     "description": "ユニオンライブシーズン21 で10位以内獲得",
+    "autoProvideConditionId": "",
+    "isViewableInInactive": false
+  },
+  {
+    "id": "emb-sp-pvp-season-001-top001",
+    "name": "SPVENUS-1 No.1",
+    "assetId": "sp-pvp-season-001-top1",
+    "order": 350110,
+    "description": "スペシャルVENUSバトルシーズン1で1位獲得",
+    "autoProvideConditionId": "",
+    "isViewableInInactive": false
+  },
+  {
+    "id": "emb-sp-pvp-season-001-top010",
+    "name": "SPVENUS-1 TOP10",
+    "assetId": "sp-pvp-season-001-top10",
+    "order": 350120,
+    "description": "スペシャルVENUSバトルシーズン1で10位以内獲得",
+    "autoProvideConditionId": "",
+    "isViewableInInactive": false
+  },
+  {
+    "id": "emb-sp-pvp-season-001-top100",
+    "name": "SPVENUS-1 TOP100",
+    "assetId": "sp-pvp-season-001-top100",
+    "order": 350130,
+    "description": "スペシャルVENUSバトルシーズン1で100位以内獲得",
     "autoProvideConditionId": "",
     "isViewableInInactive": false
   }

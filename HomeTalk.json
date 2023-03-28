@@ -1610,6 +1610,56 @@
     ]
   },
   {
+    "homeTalkId": "home-talk-card-ktn-05-fest-01-talk-01",
+    "characterId": "char-ktn",
+    "placeType": 1,
+    "conditionId": "cd-st-read-st-card-ktn-05-fest-01-03",
+    "firstPriority": 9900,
+    "weight": 1,
+    "callPatternId": "call-pattern-card-ktn-05-fest-01",
+    "choiceText": "議論が白熱してたな",
+    "managerText": "議論が白熱してたな",
+    "reliability": 5,
+    "characterTalks": [
+      {
+        "text": "サニピメンバーと話し合うと、\n新しい発見があって…\nついつい話し込んじゃうんです。",
+        "voiceAssetId": "sud_vo_home_ktn-05-fest-01_talk-01-01",
+        "motionAssetId": "mot_adv_chr_cmn_pos-020_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "祭典の直前なんて、レッスンが\n終わって寮に帰ってからも、\nずっと話し合いを続けていて…",
+        "voiceAssetId": "sud_vo_home_ktn-05-fest-01_talk-01-02",
+        "motionAssetId": "mot_adv_chr_cmn_pos-010_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "見かねた莉央さんに「さすがに\nそろそろ休みなさい」って\n叱られました。",
+        "voiceAssetId": "sud_vo_home_ktn-05-fest-01_talk-01-03",
+        "motionAssetId": "mot_adv_chr_cmn_emb-015_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "十人で一つのものを作るって\nいう感覚が楽しくて、つい止まら\nなくなっちゃうんですよね。",
+        "voiceAssetId": "sud_vo_home_ktn-05-fest-01_talk-01-04",
+        "motionAssetId": "mot_adv_chr_cmn_pos-006_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "あの頃より成長した十人で\n見た景色は…この先もずっと\n忘れないと思います。",
+        "voiceAssetId": "sud_vo_home_ktn-05-fest-01_talk-01-05",
+        "motionAssetId": "mot_adv_chr_cmn_think-003_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "また、機会があったら…\n十人で歌わせて下さい。",
+        "voiceAssetId": "sud_vo_home_ktn-05-fest-01_talk-01-06",
+        "motionAssetId": "mot_adv_chr_cmn_glad-001_in",
+        "additionMotionAssetId": ""
+      }
+    ]
+  },
+  {
     "homeTalkId": "home-talk-card-ktn-05-idol-00-talk-01",
     "characterId": "char-ktn",
     "placeType": 1,
@@ -3823,6 +3873,56 @@
         "text": "公開収録にしちゃえば\n可愛い衣装、見てもらえますね！\n我ながらいいひらめきです！",
         "voiceAssetId": "sud_vo_home_skr-05-fest-00_talk-01-05",
         "motionAssetId": "mot_adv_chr_cmn_pos-002_in",
+        "additionMotionAssetId": ""
+      }
+    ]
+  },
+  {
+    "homeTalkId": "home-talk-card-skr-05-fest-01-talk-01",
+    "characterId": "char-skr",
+    "placeType": 1,
+    "conditionId": "cd-st-read-st-card-skr-05-fest-01-03",
+    "firstPriority": 9900,
+    "weight": 1,
+    "callPatternId": "call-pattern-card-skr-05-fest-01",
+    "choiceText": "サニピがライブでカバー曲を\n歌うことはあまりないからな。",
+    "managerText": "サニピがライブでカバー曲を\n歌うことはあまりないからな。",
+    "reliability": 5,
+    "characterTalks": [
+      {
+        "text": "はい、凄く新鮮でした\nたまにはこういうのもいいですね。",
+        "voiceAssetId": "sud_vo_home_skr-05-fest-01_talk-01-01",
+        "motionAssetId": "mot_adv_chr_cmn_pos-018_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "麻奈さんの曲を\nカバーすることになって\nプレッシャーもあったけど…",
+        "voiceAssetId": "sud_vo_home_skr-05-fest-01_talk-01-02",
+        "motionAssetId": "mot_adv_chr_cmn_talk-012_in",
+        "additionMotionAssetId": "mot_all_chr_cmn_facial-034_in"
+      },
+      {
+        "text": "思い入れがある曲を\n私達なりに歌うのは\nやりがいがあって楽しいです。",
+        "voiceAssetId": "sud_vo_home_skr-05-fest-01_talk-01-03",
+        "motionAssetId": "mot_adv_chr_cmn_pos-013_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "すずちゃんや雫ちゃんは、\nカバーしたいアイドルの曲が\n他にも沢山あるって言ってました。",
+        "voiceAssetId": "sud_vo_home_skr-05-fest-01_talk-01-04",
+        "motionAssetId": "mot_adv_chr_cmn_glad-001_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "世代を超えて\n曲が歌い継がれていくって\n素敵ですよね。",
+        "voiceAssetId": "sud_vo_home_skr-05-fest-01_talk-01-05",
+        "motionAssetId": "mot_adv_chr_cmn_think-003_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "未来のアイドルが\nサニーピースの曲をカバーしたい\nって思ってくれたら嬉しいな。",
+        "voiceAssetId": "sud_vo_home_skr-05-fest-01_talk-01-06",
+        "motionAssetId": "mot_adv_chr_cmn_glad-012_in",
         "additionMotionAssetId": ""
       }
     ]

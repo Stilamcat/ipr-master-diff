@@ -20132,6 +20132,362 @@
     "statusEffectType": 0
   },
   {
+    "id": "pab-passive-skill_sk-phot-exchange-5-05",
+    "name": "スコアUPスキル",
+    "description": "誰かがクリティカル率上昇の時、自身にスコア上昇効果(1回)",
+    "abilityType": 13,
+    "skillId": "sk-phot-exchange-5-5",
+    "photoAbilityLevels": [
+      {
+        "level": 10,
+        "value": 1
+      },
+      {
+        "level": 15,
+        "value": 1
+      },
+      {
+        "level": 20,
+        "value": 1
+      },
+      {
+        "level": 25,
+        "value": 1
+      },
+      {
+        "level": 30,
+        "value": 1
+      },
+      {
+        "level": 35,
+        "value": 1
+      },
+      {
+        "level": 40,
+        "value": 1
+      },
+      {
+        "level": 45,
+        "value": 1
+      },
+      {
+        "level": 50,
+        "value": 1
+      },
+      {
+        "level": 55,
+        "value": 1
+      },
+      {
+        "level": 60,
+        "value": 1
+      },
+      {
+        "level": 65,
+        "value": 1
+      },
+      {
+        "level": 70,
+        "value": 1
+      },
+      {
+        "level": 75,
+        "value": 1
+      },
+      {
+        "level": 80,
+        "value": 1
+      },
+      {
+        "level": 85,
+        "value": 1
+      },
+      {
+        "level": 90,
+        "value": 1
+      },
+      {
+        "level": 95,
+        "value": 1
+      },
+      {
+        "level": 100,
+        "value": 1
+      },
+      {
+        "level": 105,
+        "value": 1
+      },
+      {
+        "level": 110,
+        "value": 2
+      },
+      {
+        "level": 115,
+        "value": 2
+      },
+      {
+        "level": 120,
+        "value": 2
+      },
+      {
+        "level": 125,
+        "value": 2
+      },
+      {
+        "level": 130,
+        "value": 2
+      },
+      {
+        "level": 135,
+        "value": 3
+      },
+      {
+        "level": 140,
+        "value": 3
+      },
+      {
+        "level": 145,
+        "value": 3
+      },
+      {
+        "level": 150,
+        "value": 3
+      },
+      {
+        "level": 155,
+        "value": 4
+      },
+      {
+        "level": 160,
+        "value": 4
+      },
+      {
+        "level": 165,
+        "value": 4
+      },
+      {
+        "level": 170,
+        "value": 4
+      },
+      {
+        "level": 175,
+        "value": 5
+      },
+      {
+        "level": 180,
+        "value": 5
+      },
+      {
+        "level": 185,
+        "value": 5
+      },
+      {
+        "level": 190,
+        "value": 5
+      },
+      {
+        "level": 195,
+        "value": 5
+      },
+      {
+        "level": 200,
+        "value": 5
+      }
+    ],
+    "photoAbilityGrades": [
+      {
+        "grade": 1,
+        "bonusPermil": 1000,
+        "type": 3,
+        "bonusValue": 0
+      }
+    ],
+    "moodType": 0,
+    "abilityTargetId": "",
+    "conditionCardType": 0,
+    "conditionLiveType": 0,
+    "statusEffectType": 0
+  },
+  {
+    "id": "pab-passive-skill_sk-phot-exchange-5-06",
+    "name": "スタミナ回復スキル",
+    "description": "自身のスタミナが70％以下の時、スタミナ回復(1回)",
+    "abilityType": 13,
+    "skillId": "sk-phot-exchange-5-6",
+    "photoAbilityLevels": [
+      {
+        "level": 10,
+        "value": 1
+      },
+      {
+        "level": 15,
+        "value": 1
+      },
+      {
+        "level": 20,
+        "value": 1
+      },
+      {
+        "level": 25,
+        "value": 1
+      },
+      {
+        "level": 30,
+        "value": 1
+      },
+      {
+        "level": 35,
+        "value": 1
+      },
+      {
+        "level": 40,
+        "value": 1
+      },
+      {
+        "level": 45,
+        "value": 1
+      },
+      {
+        "level": 50,
+        "value": 1
+      },
+      {
+        "level": 55,
+        "value": 1
+      },
+      {
+        "level": 60,
+        "value": 1
+      },
+      {
+        "level": 65,
+        "value": 1
+      },
+      {
+        "level": 70,
+        "value": 1
+      },
+      {
+        "level": 75,
+        "value": 1
+      },
+      {
+        "level": 80,
+        "value": 1
+      },
+      {
+        "level": 85,
+        "value": 1
+      },
+      {
+        "level": 90,
+        "value": 1
+      },
+      {
+        "level": 95,
+        "value": 1
+      },
+      {
+        "level": 100,
+        "value": 1
+      },
+      {
+        "level": 105,
+        "value": 1
+      },
+      {
+        "level": 110,
+        "value": 2
+      },
+      {
+        "level": 115,
+        "value": 2
+      },
+      {
+        "level": 120,
+        "value": 2
+      },
+      {
+        "level": 125,
+        "value": 2
+      },
+      {
+        "level": 130,
+        "value": 2
+      },
+      {
+        "level": 135,
+        "value": 3
+      },
+      {
+        "level": 140,
+        "value": 3
+      },
+      {
+        "level": 145,
+        "value": 3
+      },
+      {
+        "level": 150,
+        "value": 3
+      },
+      {
+        "level": 155,
+        "value": 4
+      },
+      {
+        "level": 160,
+        "value": 4
+      },
+      {
+        "level": 165,
+        "value": 4
+      },
+      {
+        "level": 170,
+        "value": 4
+      },
+      {
+        "level": 175,
+        "value": 5
+      },
+      {
+        "level": 180,
+        "value": 5
+      },
+      {
+        "level": 185,
+        "value": 5
+      },
+      {
+        "level": 190,
+        "value": 5
+      },
+      {
+        "level": 195,
+        "value": 5
+      },
+      {
+        "level": 200,
+        "value": 5
+      }
+    ],
+    "photoAbilityGrades": [
+      {
+        "grade": 1,
+        "bonusPermil": 1000,
+        "type": 3,
+        "bonusValue": 0
+      }
+    ],
+    "moodType": 0,
+    "abilityTargetId": "",
+    "conditionCardType": 0,
+    "conditionLiveType": 0,
+    "statusEffectType": 0
+  },
+  {
     "id": "pab-passive-skill_sk-phot-exchange-5-07",
     "name": "クリティカルスキル",
     "description": "<スコアラータイプのみ>\n50コンボ以上時\n自身にクリティカル係数上昇効果(1回)",
@@ -26833,6 +27189,120 @@
     "description": "<サポータータイプのみ> ビジュアルタイプ2人にスコア上昇効果",
     "abilityType": 13,
     "skillId": "sk-photo-recipe-exchange-5-6",
+    "photoAbilityLevels": [
+      {
+        "level": 140,
+        "value": 3
+      },
+      {
+        "level": 145,
+        "value": 3
+      },
+      {
+        "level": 150,
+        "value": 3
+      },
+      {
+        "level": 155,
+        "value": 4
+      },
+      {
+        "level": 160,
+        "value": 4
+      },
+      {
+        "level": 165,
+        "value": 4
+      },
+      {
+        "level": 170,
+        "value": 4
+      },
+      {
+        "level": 175,
+        "value": 5
+      },
+      {
+        "level": 180,
+        "value": 5
+      },
+      {
+        "level": 185,
+        "value": 5
+      },
+      {
+        "level": 190,
+        "value": 5
+      },
+      {
+        "level": 195,
+        "value": 5
+      },
+      {
+        "level": 200,
+        "value": 5
+      },
+      {
+        "level": 205,
+        "value": 5
+      },
+      {
+        "level": 210,
+        "value": 5
+      },
+      {
+        "level": 215,
+        "value": 5
+      },
+      {
+        "level": 220,
+        "value": 5
+      },
+      {
+        "level": 225,
+        "value": 5
+      },
+      {
+        "level": 230,
+        "value": 5
+      },
+      {
+        "level": 235,
+        "value": 5
+      },
+      {
+        "level": 240,
+        "value": 5
+      },
+      {
+        "level": 245,
+        "value": 5
+      },
+      {
+        "level": 250,
+        "value": 5
+      }
+    ],
+    "photoAbilityGrades": [
+      {
+        "grade": 1,
+        "bonusPermil": 1000,
+        "type": 3,
+        "bonusValue": 0
+      }
+    ],
+    "conditionCardType": 3,
+    "moodType": 0,
+    "abilityTargetId": "",
+    "conditionLiveType": 0,
+    "statusEffectType": 0
+  },
+  {
+    "id": "pab-passive_skill-sk-photo-recipe-exchange_marathon-raid-23-0328-5-rare-001_recipe_distribution-5-cd-support",
+    "name": "AスコアUP",
+    "description": "<サポータータイプのみ> ボーカルタイプ3人にAスキルスコア上昇効果",
+    "abilityType": 13,
+    "skillId": "sk-photo-recipe-exchange_marathon-raid-23-0328-5-rare-001",
     "photoAbilityLevels": [
       {
         "level": 140,

@@ -176,6 +176,94 @@
     "shootingTime": "0"
   },
   {
+    "id": "phot-exchange-5-5",
+    "assetId": "phot-exchange-5-0005",
+    "name": "長瀬琴乃",
+    "rarity": 5,
+    "placeName": "この一歩から(琴乃)",
+    "eventName": "メモリアルフォト",
+    "level": 150,
+    "abilities": [
+      {
+        "photoAbilityId": "pab-vocal_multiply_distribution-5",
+        "effectValue": 430,
+        "grade": 1,
+        "missionId": ""
+      },
+      {
+        "photoAbilityId": "pab-dance_multiply_distribution-5",
+        "effectValue": 430,
+        "grade": 1,
+        "missionId": ""
+      },
+      {
+        "photoAbilityId": "pab-visual_multiply_distribution-5",
+        "effectValue": 430,
+        "grade": 1,
+        "missionId": ""
+      },
+      {
+        "photoAbilityId": "pab-special-skill-score-up_multiply_distribution-5",
+        "effectValue": 97,
+        "grade": 1,
+        "missionId": ""
+      },
+      {
+        "photoAbilityId": "pab-passive-skill_sk-phot-exchange-5-05",
+        "effectValue": 3,
+        "grade": 1,
+        "missionId": ""
+      }
+    ],
+    "focusCharacterId": "char-ktn",
+    "characterIds": [],
+    "shootingTime": "0"
+  },
+  {
+    "id": "phot-exchange-5-6",
+    "assetId": "phot-exchange-5-0006",
+    "name": "川咲さくら",
+    "rarity": 5,
+    "placeName": "この一歩から(さくら)",
+    "eventName": "メモリアルフォト",
+    "level": 150,
+    "abilities": [
+      {
+        "photoAbilityId": "pab-vocal_multiply_distribution-5",
+        "effectValue": 430,
+        "grade": 1,
+        "missionId": ""
+      },
+      {
+        "photoAbilityId": "pab-dance_multiply_distribution-5",
+        "effectValue": 430,
+        "grade": 1,
+        "missionId": ""
+      },
+      {
+        "photoAbilityId": "pab-visual_multiply_distribution-5",
+        "effectValue": 430,
+        "grade": 1,
+        "missionId": ""
+      },
+      {
+        "photoAbilityId": "pab-stamina_multiply_distribution-5",
+        "effectValue": 295,
+        "grade": 1,
+        "missionId": ""
+      },
+      {
+        "photoAbilityId": "pab-passive-skill_sk-phot-exchange-5-06",
+        "effectValue": 3,
+        "grade": 1,
+        "missionId": ""
+      }
+    ],
+    "focusCharacterId": "char-skr",
+    "characterIds": [],
+    "shootingTime": "0"
+  },
+  {
     "id": "phot-exchange-5-7",
     "assetId": "phot-exchange-5-0007",
     "name": "長瀬麻奈",
@@ -1540,6 +1628,50 @@
       }
     ],
     "focusCharacterId": "char-kkr",
+    "characterIds": [],
+    "shootingTime": "0"
+  },
+  {
+    "id": "phot-prm-5-9",
+    "assetId": "photo-mission-23-0325-01",
+    "name": "長瀬琴乃&川咲さくら",
+    "rarity": 5,
+    "placeName": "Re:Sound",
+    "eventName": "メモリアルフォト",
+    "level": 35,
+    "abilities": [
+      {
+        "photoAbilityId": "pab-vocal_multiply_distribution-5",
+        "effectValue": 200,
+        "grade": 1,
+        "missionId": ""
+      },
+      {
+        "photoAbilityId": "pab-dance_multiply_distribution-5",
+        "effectValue": 200,
+        "grade": 1,
+        "missionId": ""
+      },
+      {
+        "photoAbilityId": "pab-visual_multiply_distribution-5",
+        "effectValue": 200,
+        "grade": 1,
+        "missionId": ""
+      },
+      {
+        "photoAbilityId": "pab-special-skill-score-up_multiply_distribution-5",
+        "effectValue": 50,
+        "grade": 1,
+        "missionId": ""
+      },
+      {
+        "photoAbilityId": "pab-passive-skill_sk-phot-shop-5-02",
+        "effectValue": 1,
+        "grade": 1,
+        "missionId": ""
+      }
+    ],
+    "focusCharacterId": "char-ktn",
     "characterIds": [],
     "shootingTime": "0"
   },

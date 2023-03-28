@@ -11065,6 +11065,254 @@
     "linkDetail": ""
   },
   {
+    "id": "event-ms-normal-23-0328-mission_open_story-02",
+    "categoryType": 3,
+    "missionType": 4,
+    "targetIds": [
+      "cd-date-event-ladder-marathon-raid-23-0328-panel-story-02"
+    ],
+    "name": "ストーリー2話を解放",
+    "shortDescription": "ストーリー2話を解放",
+    "longDescription": "ストーリー2話を解放しましょう。",
+    "order": 5,
+    "progresses": [
+      {
+        "threshold": "1",
+        "rewardSetId": "rd_auto;item;item-ladder_pt_23-0328-raid;100"
+      }
+    ],
+    "eventMissionId": "event-marathon-raid-23-0328",
+    "viewConditionId": "",
+    "linkType": 0,
+    "linkDetail": ""
+  },
+  {
+    "id": "event-ms-normal-23-0328-mission_open_story-03",
+    "categoryType": 3,
+    "missionType": 4,
+    "targetIds": [
+      "cd-date-event-ladder-marathon-raid-23-0328-panel-story-03"
+    ],
+    "name": "ストーリー3話を解放",
+    "shortDescription": "ストーリー3話を解放",
+    "longDescription": "ストーリー3話を解放しましょう。",
+    "order": 6,
+    "progresses": [
+      {
+        "threshold": "1",
+        "rewardSetId": "rd_auto;item;item-ladder_pt_23-0328-raid;100"
+      }
+    ],
+    "eventMissionId": "event-marathon-raid-23-0328",
+    "viewConditionId": "",
+    "linkType": 0,
+    "linkDetail": ""
+  },
+  {
+    "id": "event-ms-normal-23-0328-mission_open_story-04",
+    "categoryType": 3,
+    "missionType": 4,
+    "targetIds": [
+      "cd-date-event-ladder-marathon-raid-23-0328-panel-story-04"
+    ],
+    "name": "ストーリー4話を解放",
+    "shortDescription": "ストーリー4話を解放",
+    "longDescription": "ストーリー4話を解放しましょう。",
+    "order": 7,
+    "progresses": [
+      {
+        "threshold": "1",
+        "rewardSetId": "rd_auto;item;item-ladder_pt_23-0328-raid;100"
+      }
+    ],
+    "eventMissionId": "event-marathon-raid-23-0328",
+    "viewConditionId": "",
+    "linkType": 0,
+    "linkDetail": ""
+  },
+  {
+    "id": "event-ms-normal-23-0328-mission_open_story-05",
+    "categoryType": 3,
+    "missionType": 4,
+    "targetIds": [
+      "cd-date-event-ladder-marathon-raid-23-0328-panel-story-05"
+    ],
+    "name": "ストーリー5話を解放",
+    "shortDescription": "ストーリー5話を解放",
+    "longDescription": "ストーリー5話を解放しましょう。",
+    "order": 8,
+    "progresses": [
+      {
+        "threshold": "1",
+        "rewardSetId": "rd_auto;item;item-ladder_pt_23-0328-raid;100"
+      }
+    ],
+    "eventMissionId": "event-marathon-raid-23-0328",
+    "viewConditionId": "",
+    "linkType": 0,
+    "linkDetail": ""
+  },
+  {
+    "id": "event-ms-pvp-23-0402-quest_pvp_play_count-05",
+    "categoryType": 3,
+    "missionType": 45,
+    "name": "スペシャルVENUSバトルに挑戦{threshold}回",
+    "shortDescription": "スペシャルVENUSバトルに挑戦{threshold}回",
+    "longDescription": "スペシャルVENUSバトルに挑戦を{threshold}回しましょう。",
+    "order": 1,
+    "linkType": 2,
+    "progresses": [
+      {
+        "threshold": "5",
+        "rewardSetId": "rd-event-ms-pvp-23-0402-quest_pvp_play_count-05"
+      }
+    ],
+    "eventMissionId": "event_pvp-mission-23-0402",
+    "targetIds": [],
+    "viewConditionId": "",
+    "linkDetail": ""
+  },
+  {
+    "id": "event-ms-pvp-23-0402-quest_pvp_play_count-10",
+    "categoryType": 3,
+    "missionType": 45,
+    "name": "スペシャルVENUSバトルに挑戦{threshold}回",
+    "shortDescription": "スペシャルVENUSバトルに挑戦{threshold}回",
+    "longDescription": "スペシャルVENUSバトルに挑戦を{threshold}回しましょう。",
+    "order": 2,
+    "linkType": 2,
+    "progresses": [
+      {
+        "threshold": "10",
+        "rewardSetId": "rd-event-ms-pvp-23-0402-quest_pvp_play_count-10"
+      }
+    ],
+    "eventMissionId": "event_pvp-mission-23-0402",
+    "targetIds": [],
+    "viewConditionId": "",
+    "linkDetail": ""
+  },
+  {
+    "id": "event-ms-pvp-23-0402-quest_pvp_play_count-15",
+    "categoryType": 3,
+    "missionType": 45,
+    "name": "スペシャルVENUSバトルに挑戦{threshold}回",
+    "shortDescription": "スペシャルVENUSバトルに挑戦{threshold}回",
+    "longDescription": "スペシャルVENUSバトルに挑戦を{threshold}回しましょう。",
+    "order": 3,
+    "linkType": 2,
+    "progresses": [
+      {
+        "threshold": "15",
+        "rewardSetId": "rd-event-ms-pvp-23-0402-quest_pvp_play_count-15"
+      }
+    ],
+    "eventMissionId": "event_pvp-mission-23-0402",
+    "targetIds": [],
+    "viewConditionId": "",
+    "linkDetail": ""
+  },
+  {
+    "id": "event-ms-pvp-23-0402-quest_pvp_play_count-20",
+    "categoryType": 3,
+    "missionType": 45,
+    "name": "スペシャルVENUSバトルに挑戦{threshold}回",
+    "shortDescription": "スペシャルVENUSバトルに挑戦{threshold}回",
+    "longDescription": "スペシャルVENUSバトルに挑戦を{threshold}回しましょう。",
+    "order": 4,
+    "linkType": 2,
+    "progresses": [
+      {
+        "threshold": "20",
+        "rewardSetId": "rd-event-ms-pvp-23-0402-quest_pvp_play_count-20"
+      }
+    ],
+    "eventMissionId": "event_pvp-mission-23-0402",
+    "targetIds": [],
+    "viewConditionId": "",
+    "linkDetail": ""
+  },
+  {
+    "id": "event-ms-pvp-23-0402-quest_pvp_play_count-25",
+    "categoryType": 3,
+    "missionType": 45,
+    "name": "スペシャルVENUSバトルに挑戦{threshold}回",
+    "shortDescription": "スペシャルVENUSバトルに挑戦{threshold}回",
+    "longDescription": "スペシャルVENUSバトルに挑戦を{threshold}回しましょう。",
+    "order": 5,
+    "linkType": 2,
+    "progresses": [
+      {
+        "threshold": "25",
+        "rewardSetId": "rd-event-ms-pvp-23-0402-quest_pvp_play_count-25"
+      }
+    ],
+    "eventMissionId": "event_pvp-mission-23-0402",
+    "targetIds": [],
+    "viewConditionId": "",
+    "linkDetail": ""
+  },
+  {
+    "id": "event-ms-pvp-23-0402-quest_pvp_play_count-30",
+    "categoryType": 3,
+    "missionType": 45,
+    "name": "スペシャルVENUSバトルに挑戦{threshold}回",
+    "shortDescription": "スペシャルVENUSバトルに挑戦{threshold}回",
+    "longDescription": "スペシャルVENUSバトルに挑戦を{threshold}回しましょう。",
+    "order": 6,
+    "linkType": 2,
+    "progresses": [
+      {
+        "threshold": "30",
+        "rewardSetId": "rd-event-ms-pvp-23-0402-quest_pvp_play_count-30"
+      }
+    ],
+    "eventMissionId": "event_pvp-mission-23-0402",
+    "targetIds": [],
+    "viewConditionId": "",
+    "linkDetail": ""
+  },
+  {
+    "id": "event-ms-pvp-23-0402-quest_pvp_play_count-35",
+    "categoryType": 3,
+    "missionType": 45,
+    "name": "スペシャルVENUSバトルに挑戦{threshold}回",
+    "shortDescription": "スペシャルVENUSバトルに挑戦{threshold}回",
+    "longDescription": "スペシャルVENUSバトルに挑戦を{threshold}回しましょう。",
+    "order": 7,
+    "linkType": 2,
+    "progresses": [
+      {
+        "threshold": "35",
+        "rewardSetId": "rd-event-ms-pvp-23-0402-quest_pvp_play_count-35"
+      }
+    ],
+    "eventMissionId": "event_pvp-mission-23-0402",
+    "targetIds": [],
+    "viewConditionId": "",
+    "linkDetail": ""
+  },
+  {
+    "id": "event-ms-pvp-23-0402-quest_pvp_play_count-40",
+    "categoryType": 3,
+    "missionType": 45,
+    "name": "スペシャルVENUSバトルに挑戦{threshold}回",
+    "shortDescription": "スペシャルVENUSバトルに挑戦{threshold}回",
+    "longDescription": "スペシャルVENUSバトルに挑戦を{threshold}回しましょう。",
+    "order": 8,
+    "linkType": 2,
+    "progresses": [
+      {
+        "threshold": "40",
+        "rewardSetId": "rd-event-ms-pvp-23-0402-quest_pvp_play_count-40"
+      }
+    ],
+    "eventMissionId": "event_pvp-mission-23-0402",
+    "targetIds": [],
+    "viewConditionId": "",
+    "linkDetail": ""
+  },
+  {
     "id": "event-ms-spr-22-0314-00-00-accessory_enhance_count",
     "categoryType": 3,
     "missionType": 28,
@@ -15318,6 +15566,28 @@
     "eventMissionId": ""
   },
   {
+    "id": "ms-comeback-shop-limited-23-0328-check",
+    "categoryType": 3,
+    "missionType": 4,
+    "targetIds": [
+      "cd_shop_comeback-user-23-0328-23-0404"
+    ],
+    "name": "30日以上ぶりのログイン",
+    "shortDescription": "30日以上ぶりのログイン",
+    "longDescription": "30日以上ぶりのログインです。",
+    "order": 1,
+    "viewConditionId": "cd_shop_comeback-shop-limited-23-0328-mission-view",
+    "progresses": [
+      {
+        "threshold": "1",
+        "rewardSetId": "rd_auto;stone;;50"
+      }
+    ],
+    "linkType": 0,
+    "linkDetail": "",
+    "eventMissionId": ""
+  },
+  {
     "id": "ms-daily-accessory_enhance_count-100",
     "categoryType": 1,
     "missionType": 28,
@@ -15933,6 +16203,26 @@
       }
     ],
     "eventMissionId": "event-marathon-raid-23-0128",
+    "targetIds": [],
+    "linkType": 0,
+    "linkDetail": ""
+  },
+  {
+    "id": "ms-daily-event-marathon-raid-23-0328-marathon_raid_host_count",
+    "categoryType": 1,
+    "missionType": 1204,
+    "name": "【デイリー】自身で協力ライブを{threshold}回挑戦する",
+    "shortDescription": "【デイリー】自身で協力ライブを{threshold}回挑戦する",
+    "longDescription": "【デイリー】自身で協力ライブを{threshold}回挑戦しましょう。",
+    "order": 4,
+    "viewConditionId": "cd-event-ms-001-0328-0407",
+    "progresses": [
+      {
+        "threshold": "1",
+        "rewardSetId": "rd_auto;item;item-ladder_pt_23-0328-raid;500"
+      }
+    ],
+    "eventMissionId": "event-marathon-raid-23-0328",
     "targetIds": [],
     "linkType": 0,
     "linkDetail": ""
@@ -22733,6 +23023,124 @@
     "linkDetail": ""
   },
   {
+    "id": "ms-event-marathon-raid-23-0328-marathon_quest_clear_count",
+    "categoryType": 3,
+    "missionType": 1201,
+    "name": "いずれかの単独ライブを{threshold}回クリア",
+    "shortDescription": "いずれかの単独ライブを{threshold}回クリア",
+    "longDescription": "いずれかの単独ライブを{threshold}回クリアしましょう。",
+    "order": 1,
+    "progresses": [
+      {
+        "threshold": "1",
+        "rewardSetId": "rd_auto;item;item-ladder_pt_23-0328-raid;200"
+      },
+      {
+        "threshold": "5",
+        "rewardSetId": "rd_auto;item;item-ladder_pt_23-0328-raid;200"
+      },
+      {
+        "threshold": "10",
+        "rewardSetId": "rd_auto;item;item-ladder_pt_23-0328-raid;200"
+      },
+      {
+        "threshold": "25",
+        "rewardSetId": "rd_auto;item;item-ladder_pt_23-0328-raid;200"
+      },
+      {
+        "threshold": "50",
+        "rewardSetId": "rd_auto;item;item-ladder_pt_23-0328-raid;200"
+      },
+      {
+        "threshold": "75",
+        "rewardSetId": "rd_auto;item;item-ladder_pt_23-0328-raid;200"
+      },
+      {
+        "threshold": "100",
+        "rewardSetId": "rd_auto;item;item-ladder_pt_23-0328-raid;200"
+      },
+      {
+        "threshold": "125",
+        "rewardSetId": "rd_auto;item;item-ladder_pt_23-0328-raid;400"
+      },
+      {
+        "threshold": "150",
+        "rewardSetId": "rd_auto;item;item-ladder_pt_23-0328-raid;400"
+      },
+      {
+        "threshold": "175",
+        "rewardSetId": "rd_auto;item;item-ladder_pt_23-0328-raid;400"
+      },
+      {
+        "threshold": "200",
+        "rewardSetId": "rd_auto;item;item-ladder_pt_23-0328-raid;400"
+      },
+      {
+        "threshold": "225",
+        "rewardSetId": "rd_auto;item;item-ladder_pt_23-0328-raid;500"
+      },
+      {
+        "threshold": "250",
+        "rewardSetId": "rd_auto;item;item-ladder_pt_23-0328-raid;500"
+      },
+      {
+        "threshold": "275",
+        "rewardSetId": "rd_auto;item;item-ladder_pt_23-0328-raid;500"
+      },
+      {
+        "threshold": "300",
+        "rewardSetId": "rd_auto;item;item-ladder_pt_23-0328-raid;500"
+      }
+    ],
+    "eventMissionId": "event-marathon-raid-23-0328",
+    "targetIds": [],
+    "viewConditionId": "",
+    "linkType": 0,
+    "linkDetail": ""
+  },
+  {
+    "id": "ms-event-marathon-raid-23-0328-marathon_quest_clear_difficulty-ep4",
+    "categoryType": 3,
+    "missionType": 1202,
+    "targetIds": [
+      "marathon-raid-23-0328-quest-4"
+    ],
+    "name": "No.4ステージの難易度Lv{threshold}以上をクリア",
+    "shortDescription": "No.4ステージの難易度Lv{threshold}以上をクリア",
+    "longDescription": "No.4ステージの難易度Lv{threshold}以上をクリアしましょう。",
+    "order": 2,
+    "progresses": [
+      {
+        "threshold": "1",
+        "rewardSetId": "rd_auto;item;item-ladder_pt_23-0328-raid;200"
+      },
+      {
+        "threshold": "3",
+        "rewardSetId": "rd_auto;item;item-ladder_pt_23-0328-raid;400"
+      },
+      {
+        "threshold": "5",
+        "rewardSetId": "rd_auto;item;item-ladder_pt_23-0328-raid;600"
+      },
+      {
+        "threshold": "7",
+        "rewardSetId": "rd_auto;item;item-ladder_pt_23-0328-raid;800"
+      },
+      {
+        "threshold": "10",
+        "rewardSetId": "rd_auto;item;item-ladder_pt_23-0328-raid;1000"
+      },
+      {
+        "threshold": "12",
+        "rewardSetId": "rd_auto;item;item-ladder_pt_23-0328-raid;1500"
+      }
+    ],
+    "eventMissionId": "event-marathon-raid-23-0328",
+    "viewConditionId": "",
+    "linkType": 0,
+    "linkDetail": ""
+  },
+  {
     "id": "ms-event-mini-marathon-22-0413-marathon_quest_clear_count_001",
     "categoryType": 3,
     "missionType": 1201,
@@ -25205,6 +25613,82 @@
       }
     ],
     "eventMissionId": "event-marathon-raid-23-0128",
+    "targetIds": [],
+    "viewConditionId": "",
+    "linkType": 0,
+    "linkDetail": ""
+  },
+  {
+    "id": "ms-normal-event-marathon-raid-23-0328-marathon_raid_clear_count",
+    "categoryType": 3,
+    "missionType": 1203,
+    "name": "協力ライブを{threshold}回クリア",
+    "shortDescription": "協力ライブを{threshold}回クリア",
+    "longDescription": "協力ライブを{threshold}回クリアしましょう。",
+    "order": 3,
+    "progresses": [
+      {
+        "threshold": "1",
+        "rewardSetId": "rd_auto;item;item-ladder_pt_23-0328-raid;100"
+      },
+      {
+        "threshold": "5",
+        "rewardSetId": "rd_auto;item;item-ladder_pt_23-0328-raid;100"
+      },
+      {
+        "threshold": "10",
+        "rewardSetId": "rd_auto;item;item-ladder_pt_23-0328-raid;200"
+      },
+      {
+        "threshold": "15",
+        "rewardSetId": "rd_auto;item;item-ladder_pt_23-0328-raid;200"
+      },
+      {
+        "threshold": "20",
+        "rewardSetId": "rd_auto;item;item-ladder_pt_23-0328-raid;300"
+      },
+      {
+        "threshold": "25",
+        "rewardSetId": "rd_auto;item;item-ladder_pt_23-0328-raid;300"
+      },
+      {
+        "threshold": "30",
+        "rewardSetId": "rd_auto;item;item-ladder_pt_23-0328-raid;400"
+      },
+      {
+        "threshold": "35",
+        "rewardSetId": "rd_auto;item;item-ladder_pt_23-0328-raid;400"
+      },
+      {
+        "threshold": "40",
+        "rewardSetId": "rd_auto;item;item-ladder_pt_23-0328-raid;500"
+      },
+      {
+        "threshold": "45",
+        "rewardSetId": "rd_auto;item;item-ladder_pt_23-0328-raid;500"
+      },
+      {
+        "threshold": "50",
+        "rewardSetId": "rd_auto;item;item-ladder_pt_23-0328-raid;600"
+      },
+      {
+        "threshold": "55",
+        "rewardSetId": "rd_auto;item;item-ladder_pt_23-0328-raid;600"
+      },
+      {
+        "threshold": "60",
+        "rewardSetId": "rd_auto;item;item-ladder_pt_23-0328-raid;800"
+      },
+      {
+        "threshold": "65",
+        "rewardSetId": "rd_auto;item;item-ladder_pt_23-0328-raid;800"
+      },
+      {
+        "threshold": "70",
+        "rewardSetId": "rd_auto;item;item-ladder_pt_23-0328-raid;1000"
+      }
+    ],
+    "eventMissionId": "event-marathon-raid-23-0328",
     "targetIds": [],
     "viewConditionId": "",
     "linkType": 0,
