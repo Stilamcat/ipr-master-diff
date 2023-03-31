@@ -238,5 +238,65 @@
       0.0
     ],
     "characterCostumeGroupId": "costume-group-home-lesson-00"
+  },
+  {
+    "homeBackgroundId": "home-bg-office_04-evening",
+    "name": "オフィス背景_エイプリル_夕方",
+    "placeType": 3,
+    "backgroundAssetId": "env_home_office-01-003-evening",
+    "cameraAssetId": "mot_home_talkcamera-001_in_cam",
+    "conditionId": "cd-time-home-april-evening-23-0401",
+    "priority": 3,
+    "positions": [
+      7.23,
+      0.0,
+      -1.75
+    ],
+    "angles": [
+      0.0,
+      50.0,
+      0.0
+    ],
+    "characterCostumeGroupId": "costume-group-home-lesson-00"
+  },
+  {
+    "homeBackgroundId": "home-bg-office_04-night",
+    "name": "オフィス背景_エイプリル_夜",
+    "placeType": 3,
+    "backgroundAssetId": "env_home_office-01-003-night",
+    "cameraAssetId": "mot_home_talkcamera-001_in_cam",
+    "conditionId": "cd-time-home-april-night-23-0401",
+    "priority": 3,
+    "positions": [
+      7.23,
+      0.0,
+      -1.75
+    ],
+    "angles": [
+      0.0,
+      50.0,
+      0.0
+    ],
+    "characterCostumeGroupId": "costume-group-home-lesson-00"
+  },
+  {
+    "homeBackgroundId": "home-bg-office_04-noon",
+    "name": "オフィス背景_エイプリル_昼",
+    "placeType": 3,
+    "backgroundAssetId": "env_home_office-01-003-noon",
+    "cameraAssetId": "mot_home_talkcamera-001_in_cam",
+    "conditionId": "cd-time-home-april-noon-23-0401",
+    "priority": 3,
+    "positions": [
+      7.23,
+      0.0,
+      -1.75
+    ],
+    "angles": [
+      0.0,
+      50.0,
+      0.0
+    ],
+    "characterCostumeGroupId": "costume-group-home-lesson-00"
   }
 ]

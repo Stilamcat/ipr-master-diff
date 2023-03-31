@@ -1,5 +1,24 @@
 [
   {
+    "id": "ex-story-part-special-01-21-1224-half-aniv",
+    "extraStoryPartId": "ex-story-part-special-01",
+    "assetId": "img_banner_l_campaign-21-1224",
+    "name": "半周年",
+    "description": "再生するストーリーを選択してください。",
+    "order": 1,
+    "viewConditionId": "cd-ex-story-part-special-01-open",
+    "unlockConditionId": "cd-ex-story-part-special-01-open",
+    "episodes": [
+      {
+        "episode": 1,
+        "assetId": "campaign_2021_1224",
+        "storyId": "st-ex-story-part-special-01-21-1224-half-aniv",
+        "viewConditionId": "cd-ex-story-part-special-01-open",
+        "unlockConditionId": "cd-ex-story-part-special-01-open"
+      }
+    ]
+  },
+  {
     "id": "ex-st-part-limited-05-01",
     "extraStoryPartId": "ex-st-part-limited-05",
     "assetId": "img_banner_l_ex-st-part-limited-23-0324",
@@ -113,25 +132,6 @@
         "storyId": "st-group-mna-01-01-15-limited",
         "viewConditionId": "cd-ex-st-part-limited-05-open-230324-01",
         "unlockConditionId": "cd-ex-st-part-limited-05-open-230324-01"
-      }
-    ]
-  },
-  {
-    "id": "ex-story-part-special-01-21-1224-half-aniv",
-    "extraStoryPartId": "ex-story-part-special-01",
-    "assetId": "img_banner_l_campaign-21-1224",
-    "name": "半周年",
-    "description": "再生するストーリーを選択してください。",
-    "order": 1,
-    "viewConditionId": "cd-ex-story-part-special-01-open",
-    "unlockConditionId": "cd-ex-story-part-special-01-open",
-    "episodes": [
-      {
-        "episode": 1,
-        "assetId": "campaign_2021_1224",
-        "storyId": "st-ex-story-part-special-01-21-1224-half-aniv",
-        "viewConditionId": "cd-ex-story-part-special-01-open",
-        "unlockConditionId": "cd-ex-story-part-special-01-open"
       }
     ]
   },
@@ -812,12 +812,45 @@
     ]
   },
   {
+    "id": "ex-story-part-special-01-23-0401-april",
+    "extraStoryPartId": "ex-story-part-special-01",
+    "assetId": "img_banner_l_campaign-23-0401-01-story",
+    "name": "さとみアイドルデビュー！",
+    "description": "再生するストーリーを選択してください。",
+    "order": 4,
+    "viewConditionId": "cd-dokan-campaign-april-23-0401-01",
+    "unlockConditionId": "cd-dokan-campaign-april-23-0401-01",
+    "episodes": [
+      {
+        "episode": 1,
+        "assetId": "event_2304_02_01_01",
+        "storyId": "st-ex-story-part-special-01-23-0401-april-01",
+        "viewConditionId": "cd-dokan-campaign-april-23-0401-01",
+        "unlockConditionId": "cd-dokan-campaign-april-23-0401-01"
+      },
+      {
+        "episode": 2,
+        "assetId": "event_2304_02_02",
+        "storyId": "st-ex-story-part-special-01-23-0401-april-02",
+        "viewConditionId": "cd-dokan-campaign-april-23-0401-02",
+        "unlockConditionId": "cd-dokan-campaign-april-23-0401-02"
+      },
+      {
+        "episode": 3,
+        "assetId": "event_2304_02_03",
+        "storyId": "st-ex-story-part-special-01-23-0401-april-03",
+        "viewConditionId": "cd-dokan-campaign-april-23-0401-03",
+        "unlockConditionId": "cd-dokan-campaign-april-23-0401-03"
+      }
+    ]
+  },
+  {
     "id": "ex-story-part-special-01-22-0103-newyear",
     "extraStoryPartId": "ex-story-part-special-01",
     "assetId": "img_banner_l_campaign-22-0103-01-story",
     "name": "お正月",
     "description": "再生するストーリーを選択してください。",
-    "order": 4,
+    "order": 5,
     "viewConditionId": "cd-ex-story-part-special-01-open",
     "unlockConditionId": "cd-ex-story-part-special-01-open",
     "episodes": [
@@ -836,7 +869,7 @@
     "assetId": "img_banner_l_campaign-23-0101-01-story",
     "name": "お正月",
     "description": "再生するストーリーを選択してください。",
-    "order": 5,
+    "order": 6,
     "viewConditionId": "cd-ex-story-part-special-01-open",
     "unlockConditionId": "cd-ex-story-part-special-01-open",
     "episodes": [

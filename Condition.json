@@ -6042,6 +6042,81 @@
     ]
   },
   {
+    "id": "cd-campaign-23-0401-01",
+    "settings": [
+      {
+        "term": {
+          "nowAfter": "1680274800000",
+          "nowBefore": "1680317999000"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-campaign-23-0401-01-unlock",
+    "settings": [
+      {
+        "satisfyCondition": {
+          "conditionId": "cd-tutorial-finish-photo-create-shooting"
+        },
+        "term": {
+          "nowAfter": "1680274800000",
+          "nowBefore": "1680317999000"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-campaign-23-0401-02",
+    "settings": [
+      {
+        "term": {
+          "nowAfter": "1680318000000",
+          "nowBefore": "1680361199000"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-campaign-23-0401-02-unlock",
+    "settings": [
+      {
+        "satisfyCondition": {
+          "conditionId": "cd-tutorial-finish-photo-create-shooting"
+        },
+        "term": {
+          "nowAfter": "1680318000000",
+          "nowBefore": "1680361199000"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-campaign-23-0401-all",
+    "settings": [
+      {
+        "term": {
+          "nowAfter": "1680274800000",
+          "nowBefore": "1680361199000"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-campaign-23-0401-all-unlock",
+    "settings": [
+      {
+        "satisfyCondition": {
+          "conditionId": "cd-tutorial-finish-photo-create-shooting"
+        },
+        "term": {
+          "nowAfter": "1680274800000",
+          "nowBefore": "1680361199000"
+        }
+      }
+    ]
+  },
+  {
     "id": "cd-campaign-gift_bonus-22-0624",
     "settings": [
       {
@@ -11736,6 +11811,39 @@
         "term": {
           "nowAfter": "1648818000000",
           "nowBefore": "1651330799000"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-dokan-campaign-april-23-0401-01",
+    "settings": [
+      {
+        "term": {
+          "nowAfter": "1680274800000",
+          "nowBefore": "1680361199000"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-dokan-campaign-april-23-0401-02",
+    "settings": [
+      {
+        "term": {
+          "nowAfter": "1680318000000",
+          "nowBefore": "1680361199000"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-dokan-campaign-april-23-0401-03",
+    "settings": [
+      {
+        "term": {
+          "nowAfter": "1680339600000",
+          "nowBefore": "1680361199000"
         }
       }
     ]
@@ -41440,6 +41548,48 @@
     ]
   },
   {
+    "id": "cd-notice-campaign-23-0401-01",
+    "settings": [
+      {
+        "satisfyCondition": {
+          "conditionId": "cd-tutorial-finish-photo-create-shooting"
+        },
+        "term": {
+          "nowAfter": "1680274800000",
+          "nowBefore": "1680317999000"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-notice-campaign-23-0401-02",
+    "settings": [
+      {
+        "satisfyCondition": {
+          "conditionId": "cd-tutorial-finish-photo-create-shooting"
+        },
+        "term": {
+          "nowAfter": "1680318000000",
+          "nowBefore": "1680339599000"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-notice-campaign-23-0401-03",
+    "settings": [
+      {
+        "satisfyCondition": {
+          "conditionId": "cd-tutorial-finish-photo-create-shooting"
+        },
+        "term": {
+          "nowAfter": "1680339600000",
+          "nowBefore": "1680361199000"
+        }
+      }
+    ]
+  },
+  {
     "id": "cd-obtain-card-hrk-02-eve-01",
     "settings": [
       {
@@ -66738,6 +66888,54 @@
     ]
   },
   {
+    "id": "cd-time-gacha-free-23-0401-01-banner",
+    "settings": [
+      {
+        "notSatisfyCondition": {
+          "conditionId": "cd-time-gacha-free-23-0401-01-check"
+        },
+        "term": {
+          "nowAfter": "1680339600000",
+          "nowBefore": "1680447599000"
+        },
+        "itemAmount": {
+          "itemId": "item-gacha-free-ticket-1s-23-0401",
+          "amountGte": "1"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-time-gacha-free-23-0401-01-check",
+    "settings": [
+      {
+        "drawGacha": {
+          "gachaButtonIds": [
+            "btn-10-gacha-free-23-0401-01"
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-time-gacha-free-23-0401-01-open",
+    "settings": [
+      {
+        "notSatisfyCondition": {
+          "conditionId": "cd-time-gacha-free-23-0401-01-check"
+        },
+        "term": {
+          "nowAfter": "1680339600000",
+          "nowBefore": "1680447599000"
+        },
+        "itemAmount": {
+          "itemId": "item-gacha-free-ticket-1s-23-0401",
+          "amountGte": "1"
+        }
+      }
+    ]
+  },
+  {
     "id": "cd-time-gacha-free-ticket-1s-23-0131",
     "settings": [
       {
@@ -70836,6 +71034,45 @@
         "time": {
           "nowAfter": "43200000",
           "nowBefore": "86399000"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-time-home-april-evening-23-0401",
+    "settings": [
+      {
+        "term": {
+          "nowAfter": "1680337800000",
+          "nowBefore": "1680346799000"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-time-home-april-night-23-0401",
+    "settings": [
+      {
+        "term": {
+          "nowAfter": "1680274800000",
+          "nowBefore": "1680292799000"
+        }
+      },
+      {
+        "term": {
+          "nowAfter": "1680346800000",
+          "nowBefore": "1680361199000"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-time-home-april-noon-23-0401",
+    "settings": [
+      {
+        "term": {
+          "nowAfter": "1680292800000",
+          "nowBefore": "1680337799000"
         }
       }
     ]

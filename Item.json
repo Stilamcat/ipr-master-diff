@@ -605,6 +605,17 @@
     "salePrice": 0
   },
   {
+    "id": "item-gacha-free-ticket-1s-23-0401",
+    "name": "おにぎり10連ガチャチケ",
+    "assetId": "gacha-free-april-ticket-10s",
+    "description": "有効期限：4/2(日) 23:59\nおにぎり10連ガチャを1回引くことができる",
+    "howToGet": "さとみアイドルデビュー！",
+    "type": 8,
+    "value": 1,
+    "order": 140,
+    "salePrice": 0
+  },
+  {
     "id": "item-gacha-premium-ticket",
     "name": "プレミアムガチャチケ",
     "assetId": "gacha-ticket-premium",
@@ -3154,6 +3165,28 @@
     "type": 3001,
     "value": 1,
     "order": 145,
+    "salePrice": 0
+  },
+  {
+    "id": "item-sp-photo-shooting-23-0401-01",
+    "name": "特別フィルム",
+    "assetId": "photo-shooting-april-23-0401",
+    "description": "「さとみアイドルデビュー！」の撮影ができる\nイベント終了後はコインに変換されます",
+    "howToGet": "ギフト、プロモーションなど",
+    "type": 17,
+    "value": 1,
+    "order": 1,
+    "salePrice": 0
+  },
+  {
+    "id": "item-sp-photo-shooting-23-0401-02",
+    "name": "★5確定特別フィルム",
+    "assetId": "photo-shooting-april-23-0401-r5",
+    "description": "「さとみアイドルデビュー！」の撮影ができる\nイベント終了後はコインに変換されます",
+    "howToGet": "ギフト",
+    "type": 17,
+    "value": 1,
+    "order": 1,
     "salePrice": 0
   },
   {
