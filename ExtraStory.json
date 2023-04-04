@@ -818,29 +818,29 @@
     "name": "さとみアイドルデビュー！",
     "description": "再生するストーリーを選択してください。",
     "order": 4,
-    "viewConditionId": "cd-dokan-campaign-april-23-0401-01",
-    "unlockConditionId": "cd-dokan-campaign-april-23-0401-01",
+    "viewConditionId": "cd-st-ex-story-part-special-01-23-0401-april-01",
+    "unlockConditionId": "cd-st-ex-story-part-special-01-23-0401-april-01",
     "episodes": [
       {
         "episode": 1,
         "assetId": "event_2304_02_01_01",
         "storyId": "st-ex-story-part-special-01-23-0401-april-01",
-        "viewConditionId": "cd-dokan-campaign-april-23-0401-01",
-        "unlockConditionId": "cd-dokan-campaign-april-23-0401-01"
+        "viewConditionId": "cd-st-ex-story-part-special-01-23-0401-april-01",
+        "unlockConditionId": "cd-st-ex-story-part-special-01-23-0401-april-01"
       },
       {
         "episode": 2,
         "assetId": "event_2304_02_02",
         "storyId": "st-ex-story-part-special-01-23-0401-april-02",
-        "viewConditionId": "cd-dokan-campaign-april-23-0401-02",
-        "unlockConditionId": "cd-dokan-campaign-april-23-0401-02"
+        "viewConditionId": "cd-st-ex-story-part-special-01-23-0401-april-02",
+        "unlockConditionId": "cd-st-ex-story-part-special-01-23-0401-april-02"
       },
       {
         "episode": 3,
         "assetId": "event_2304_02_03",
         "storyId": "st-ex-story-part-special-01-23-0401-april-03",
-        "viewConditionId": "cd-dokan-campaign-april-23-0401-03",
-        "unlockConditionId": "cd-dokan-campaign-april-23-0401-03"
+        "viewConditionId": "cd-st-ex-story-part-special-01-23-0401-april-03",
+        "unlockConditionId": "cd-st-ex-story-part-special-01-23-0401-april-03"
       }
     ]
   },
@@ -1028,6 +1028,25 @@
         "storyId": "st-ex-story-part-birthday-01-skr-02",
         "viewConditionId": "cd-ex-story-part-birthday-skr-23-0403-open",
         "unlockConditionId": "cd-ex-story-part-birthday-skr-23-0403-open"
+      }
+    ]
+  },
+  {
+    "id": "ex-story-part-birthday-01-kan-0410",
+    "extraStoryPartId": "ex-story-part-birthday-01",
+    "assetId": "img_banner_l_birthday-23-0410-kan",
+    "name": "kana",
+    "description": "再生するストーリーを選択してください。",
+    "order": 210410,
+    "viewConditionId": "cd-ex-story-part-birthday-01-open",
+    "unlockConditionId": "cd-ex-story-part-birthday-01-open",
+    "episodes": [
+      {
+        "episode": 1,
+        "assetId": "hbd_2023",
+        "storyId": "st-ex-story-part-birthday-01-kan-01",
+        "viewConditionId": "cd-ex-story-part-birthday-kan-23-0410-open",
+        "unlockConditionId": "cd-ex-story-part-birthday-kan-23-0410-open"
       }
     ]
   },

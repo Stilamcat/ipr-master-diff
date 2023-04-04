@@ -2065,6 +2065,66 @@
     "homeTalks": []
   },
   {
+    "id": "card-kan-05-idol-03",
+    "assetId": "kan-05-idol-03",
+    "name": "本音イミテーション",
+    "description": "ポンコツマネージャーでも分かるでしょ？\r\n安心しなって\r\nしばらくは恋愛する気なんてないから\r\n再びBIG4に返り咲くまでは、ね",
+    "type": 3,
+    "characterId": "char-kan",
+    "initialRarity": 5,
+    "cardParameterId": "card-param-01",
+    "vocalRatioPermil": 415,
+    "danceRatioPermil": 328,
+    "visualRatioPermil": 287,
+    "staminaRatioPermil": 900,
+    "cardLevelReleaseId": "card_level_release_1",
+    "skillId1": "sk-kan-05-idol-03-1",
+    "skillId2": "sk-kan-05-idol-03-2",
+    "skillId3": "sk-kan-05-idol-03-3",
+    "activityAbilityId": "aab-promotion_accessory_multi_step_reward_up",
+    "order": 278,
+    "releaseDate": "1680577200000",
+    "rewardCostumeId": "cos-kan-idol-03",
+    "imageType1": 3,
+    "displayPositionX1": -0.044,
+    "displayScale1": 1.0,
+    "highlightDisplayPositionX1": 0.064,
+    "highlightDisplayPositionY1": 0.136,
+    "highlightDisplayScale1": 0.6,
+    "imageType2": 3,
+    "displayPositionX2": -0.044,
+    "displayScale2": 1.0,
+    "highlightDisplayPositionX2": 0.064,
+    "highlightDisplayPositionY2": 0.136,
+    "highlightDisplayScale2": 0.6,
+    "obtainMessage": "kanaのこと\n何も分かってないよね～",
+    "stories": [
+      {
+        "storyId": "st-card-kan-05-idol-03-01"
+      },
+      {
+        "storyId": "st-card-kan-05-idol-03-02"
+      },
+      {
+        "storyId": "st-card-kan-05-idol-03-03"
+      }
+    ],
+    "messages": [
+      {
+        "messageId": "message-card-kan-05-idol-03",
+        "telephoneId": ""
+      },
+      {
+        "telephoneId": "tel-card-kan-05-idol-03",
+        "messageId": ""
+      }
+    ],
+    "liveAbilityId": "",
+    "displayPositionY1": 0.0,
+    "displayPositionY2": 0.0,
+    "homeTalks": []
+  },
+  {
     "id": "card-kan-05-poli-00",
     "assetId": "kan-05-poli-00",
     "name": "超強いんだから",
@@ -3838,6 +3898,66 @@
       }
     ],
     "liveAbilityId": "",
+    "homeTalks": []
+  },
+  {
+    "id": "card-mhk-05-idol-03",
+    "assetId": "mhk-05-idol-03",
+    "name": "囚われの執心",
+    "description": "葉ちゃんは、ファンの人達に喜んでもらいたいと\r\nいつも言っていましたから\r\nそれなら私はスリクスとして、ファンに届ける\r\n新曲に取り組んだ方がいいと思っただけです",
+    "type": 2,
+    "characterId": "char-mhk",
+    "initialRarity": 5,
+    "cardParameterId": "card-param-01",
+    "vocalRatioPermil": 277,
+    "danceRatioPermil": 403,
+    "visualRatioPermil": 320,
+    "staminaRatioPermil": 1000,
+    "cardLevelReleaseId": "card_level_release_1",
+    "skillId1": "sk-mhk-05-idol-03-1",
+    "skillId2": "sk-mhk-05-idol-03-2",
+    "skillId3": "sk-mhk-05-idol-03-3",
+    "liveAbilityId": "lba-dance_multiply",
+    "order": 279,
+    "releaseDate": "1680577200000",
+    "rewardCostumeId": "cos-mhk-idol-03",
+    "imageType1": 3,
+    "displayPositionX1": -0.04,
+    "displayPositionY1": 0.25,
+    "displayScale1": 2.0,
+    "highlightDisplayPositionX1": 0.746,
+    "highlightDisplayPositionY1": 0.377,
+    "highlightDisplayScale1": 0.6,
+    "imageType2": 3,
+    "displayPositionX2": -0.04,
+    "displayPositionY2": 0.25,
+    "displayScale2": 2.0,
+    "highlightDisplayPositionX2": 0.746,
+    "highlightDisplayPositionY2": 0.377,
+    "highlightDisplayScale2": 0.6,
+    "obtainMessage": "……葉ちゃんに笑われないように、\n私も頑張らないと",
+    "stories": [
+      {
+        "storyId": "st-card-mhk-05-idol-03-01"
+      },
+      {
+        "storyId": "st-card-mhk-05-idol-03-02"
+      },
+      {
+        "storyId": "st-card-mhk-05-idol-03-03"
+      }
+    ],
+    "messages": [
+      {
+        "messageId": "message-card-mhk-05-idol-03",
+        "telephoneId": ""
+      },
+      {
+        "telephoneId": "tel-card-mhk-05-idol-03",
+        "messageId": ""
+      }
+    ],
+    "activityAbilityId": "",
     "homeTalks": []
   },
   {

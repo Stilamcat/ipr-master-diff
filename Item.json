@@ -1133,6 +1133,17 @@
     "salePrice": 0
   },
   {
+    "id": "item-gacha_point-lm-set-bloom-23-0404",
+    "name": "物思いにふける眩しい記憶ガチャPt",
+    "assetId": "gacha-point",
+    "description": "該当するガチャページの「ガチャPt」から\nガチャPtを消費してアイドルを獲得できる",
+    "type": 9,
+    "value": 1,
+    "order": 140,
+    "howToGet": "",
+    "salePrice": 0
+  },
+  {
     "id": "item-gacha_point-pick-set-bloom-21-1112",
     "name": "福招く獅子舞娘ガチャPt",
     "assetId": "gacha-point",
@@ -2018,6 +2029,17 @@
     "assetId": "marathon-raid-pt",
     "description": "マルチリンクスイベントで報酬を獲得することができます\nイベント終了後はコインに変換されます",
     "howToGet": "マルチリンクスイベント",
+    "type": 8001,
+    "value": 1,
+    "order": 100,
+    "salePrice": 0
+  },
+  {
+    "id": "item-ladder_pt_23-0411",
+    "name": "メッセPt",
+    "assetId": "ladder-pt",
+    "description": "メッセージミッションで報酬を獲得することができます\nイベント終了後はコインに変換されます",
+    "howToGet": "メッセージミッション、自主トレ、プロモーション、ファンイベントなど",
     "type": 8001,
     "value": 1,
     "order": 100,

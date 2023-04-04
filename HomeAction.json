@@ -444,6 +444,18 @@
     "actionType": 0
   },
   {
+    "homeActionId": "home-action-ai-birthday-kan-01",
+    "characterId": "char-ai",
+    "motionAssetId": "mot_adv_chr_cmn_trouble-006_in",
+    "voiceAssetId": "sud_vo_home_ai_birthday-kan-01",
+    "text": "kanaさんに、当然誕生日プレゼ\nント用意してるよね？　って言われ\nちゃいました…圧が凄かったです。",
+    "conditionId": "cd-birthday_kan-23-0410",
+    "weight": 1000,
+    "additionMotionAssetId": "",
+    "positionType": 0,
+    "actionType": 0
+  },
+  {
     "homeActionId": "home-action-ai-birthday-kkr-01",
     "characterId": "char-ai",
     "motionAssetId": "mot_adv_chr_cmn_pos-003_in",
@@ -1220,6 +1232,18 @@
     "text": "遙子、誕生日なんだ。お祝い何が\nいいんだろうね。結構多趣味\nっぽいしね、彼女。",
     "conditionId": "cd-birthday_hrk-0103",
     "weight": 1000,
+    "positionType": 0,
+    "actionType": 0
+  },
+  {
+    "homeActionId": "home-action-aoi-birthday-kan-01",
+    "characterId": "char-aoi",
+    "motionAssetId": "mot_adv_chr_cmn_pos-010_in",
+    "voiceAssetId": "sud_vo_home_aoi_birthday-kan-01",
+    "text": "kanaの誕生日か。あの子、結構\nダンスうまいから今度一緒に踊って\nみたいな。よし、誘ってみるか。",
+    "conditionId": "cd-birthday_kan-23-0410",
+    "weight": 1000,
+    "additionMotionAssetId": "",
     "positionType": 0,
     "actionType": 0
   },
@@ -2556,6 +2580,18 @@
     "actionType": 0
   },
   {
+    "homeActionId": "home-action-chs-birthday-kan-01",
+    "characterId": "char-chs",
+    "motionAssetId": "mot_adv_chr_cmn_trouble-001_in",
+    "voiceAssetId": "sud_vo_home_chs_birthday-kan-01",
+    "text": "kanaさんが、誕生日だしSNS\nでバズる物がほしい、って。\nうーん、心霊映像でしょうか？",
+    "conditionId": "cd-birthday_kan-23-0410",
+    "weight": 1000,
+    "additionMotionAssetId": "",
+    "positionType": 0,
+    "actionType": 0
+  },
+  {
     "homeActionId": "home-action-chs-birthday-kkr-01",
     "characterId": "char-chs",
     "motionAssetId": "mot_adv_chr_cmn_pos-013_in",
@@ -3432,6 +3468,18 @@
     "actionType": 0
   },
   {
+    "homeActionId": "home-action-hrk-birthday-kan-01",
+    "characterId": "char-hrk",
+    "motionAssetId": "mot_adv_chr_cmn_emb-015_in",
+    "voiceAssetId": "sud_vo_home_hrk_birthday-kan-01",
+    "text": "kanaさんが、誕生日だしSNS\nでバズるネタがほしい、って。\n私の漬けたお漬物なんてダメよね？",
+    "conditionId": "cd-birthday_kan-23-0410",
+    "weight": 1000,
+    "additionMotionAssetId": "",
+    "positionType": 0,
+    "actionType": 0
+  },
+  {
     "homeActionId": "home-action-hrk-birthday-kkr-01",
     "characterId": "char-hrk",
     "motionAssetId": "mot_adv_chr_cmn_pos-004_in",
@@ -3864,6 +3912,54 @@
     "actionType": 0
   },
   {
+    "homeActionId": "home-action-kan-05-idol-03-01",
+    "characterId": "char-kan",
+    "motionAssetId": "mot_adv_chr_cmn_trouble-006_in",
+    "voiceAssetId": "sud_vo_home_kan-05-idol-03_01",
+    "text": "どう考えてもさー\nこの事務所、狭過ぎでしょ？\nもうちょい広いとこ引っ越そうよ。",
+    "conditionId": "cd-wear-costume-cos-kan-idol-03",
+    "weight": 100,
+    "additionMotionAssetId": "",
+    "positionType": 0,
+    "actionType": 0
+  },
+  {
+    "homeActionId": "home-action-kan-05-idol-03-cos-01",
+    "characterId": "char-kan",
+    "motionAssetId": "mot_adv_chr_cmn_angry-014_in",
+    "voiceAssetId": "sud_vo_home_kan-05-idol-03_cos-01",
+    "text": "なんでkanaが事務所なわけ？\nもっと仕事入れてこいっつーの！",
+    "conditionId": "cd-wear-costume-cos-kan-idol-03",
+    "weight": 100,
+    "additionMotionAssetId": "",
+    "positionType": 0,
+    "actionType": 0
+  },
+  {
+    "homeActionId": "home-action-kan-05-idol-03-cos-02",
+    "characterId": "char-kan",
+    "motionAssetId": "mot_adv_chr_cmn_pos-012_in",
+    "voiceAssetId": "sud_vo_home_kan-05-idol-03_cos-02",
+    "text": "いやーホントkanaって\nなんでも似合うよね～。\nそう思うでしょ？",
+    "conditionId": "cd-wear-costume-cos-kan-idol-03",
+    "weight": 100,
+    "additionMotionAssetId": "",
+    "positionType": 0,
+    "actionType": 0
+  },
+  {
+    "homeActionId": "home-action-kan-05-idol-03-cos-03",
+    "characterId": "char-kan",
+    "motionAssetId": "mot_adv_chr_cmn_pos-009_in",
+    "voiceAssetId": "sud_vo_home_kan-05-idol-03_cos-03",
+    "text": "この衣装、似合い過ぎでしょ？\n…あ～、今のなし。\n聞かなくても分かることだったわ。",
+    "conditionId": "cd-wear-costume-cos-kan-idol-03",
+    "weight": 100,
+    "additionMotionAssetId": "",
+    "positionType": 0,
+    "actionType": 0
+  },
+  {
     "homeActionId": "home-action-kan-05-poli-00-01",
     "characterId": "char-kan",
     "motionAssetId": "mot_adv_chr_cmn_pos-017_in",
@@ -4074,6 +4170,18 @@
     "voiceAssetId": "sud_vo_home_kan_birthday-hrk-01",
     "text": "17歳の人の誕生日っぽいですね～。若作り、いつまでもつのか楽しみ～、きゃはっ！",
     "conditionId": "cd-birthday_hrk-0103",
+    "weight": 1000,
+    "additionMotionAssetId": "",
+    "positionType": 0,
+    "actionType": 0
+  },
+  {
+    "homeActionId": "home-action-kan-birthday-kan-01",
+    "characterId": "char-kan",
+    "motionAssetId": "mot_adv_chr_cmn_pos-006_in",
+    "voiceAssetId": "sud_vo_home_kan_birthday-kan-01",
+    "text": "kanaの誕生日忘れてないよね？\n素敵なプレゼント期待してまーす！\nあとでSNS用の写真も撮ろ～っ！",
+    "conditionId": "cd-birthday_kan-23-0410",
     "weight": 1000,
     "additionMotionAssetId": "",
     "positionType": 0,
@@ -4860,6 +4968,18 @@
     "actionType": 0
   },
   {
+    "homeActionId": "home-action-kkr-birthday-kan-01",
+    "characterId": "char-kkr",
+    "motionAssetId": "mot_adv_chr_cmn_glad-012_in",
+    "voiceAssetId": "sud_vo_home_kkr_birthday-kan-01",
+    "text": "kanaさんの誕生日なのでSNS\nでハピバ爆弾を送りつけました！！\n当然、こころの可愛い自撮りです！",
+    "conditionId": "cd-birthday_kan-23-0410",
+    "weight": 1000,
+    "additionMotionAssetId": "",
+    "positionType": 0,
+    "actionType": 0
+  },
+  {
     "homeActionId": "home-action-kkr-birthday-kkr-01",
     "characterId": "char-kkr",
     "motionAssetId": "mot_adv_chr_cmn_glad-003_in",
@@ -5504,6 +5624,18 @@
     "text": "遙子の誕生日らしいですね。\n年上だと思ってたけど違いました。\nもちろん本人には言いませんよ？",
     "conditionId": "cd-birthday_hrk-0103",
     "weight": 1000,
+    "positionType": 0,
+    "actionType": 0
+  },
+  {
+    "homeActionId": "home-action-kor-birthday-kan-01",
+    "characterId": "char-kor",
+    "motionAssetId": "mot_adv_chr_cmn_angry-023_in",
+    "voiceAssetId": "sud_vo_home_kor_birthday-kan-01",
+    "text": "朝からkanaが誕生日誕生日\nうるさいんですけど！！　ほんっと\nあいつ何歳ですか？？　ガキかよ。",
+    "conditionId": "cd-birthday_kan-23-0410",
+    "weight": 1000,
+    "additionMotionAssetId": "",
     "positionType": 0,
     "actionType": 0
   },
@@ -6336,6 +6468,18 @@
     "actionType": 0
   },
   {
+    "homeActionId": "home-action-ktn-birthday-kan-01",
+    "characterId": "char-ktn",
+    "motionAssetId": "mot_adv_chr_cmn_talk-019_in",
+    "additionMotionAssetId": "mot_all_chr_cmn_facial-022_in",
+    "voiceAssetId": "sud_vo_home_ktn_birthday-kan-01",
+    "text": "kanaさん、机にプレゼントを\n並べて、沢山自撮りをしてました。\nしかも凄い集中力だったんです。",
+    "conditionId": "cd-birthday_kan-23-0410",
+    "weight": 1000,
+    "positionType": 0,
+    "actionType": 0
+  },
+  {
     "homeActionId": "home-action-ktn-birthday-kkr-01",
     "characterId": "char-ktn",
     "motionAssetId": "mot_adv_chr_cmn_pos-008_in",
@@ -7164,6 +7308,18 @@
     "actionType": 0
   },
   {
+    "homeActionId": "home-action-mei-birthday-kan-01",
+    "characterId": "char-mei",
+    "motionAssetId": "mot_adv_chr_cmn_empa-001_in",
+    "voiceAssetId": "sud_vo_home_mei_birthday-kan-01",
+    "text": "今日はkanaちゃんの誕生日～！\nマネージャーとSNS用の写真撮り\nたいって言ってたよ～！",
+    "conditionId": "cd-birthday_kan-23-0410",
+    "weight": 1000,
+    "additionMotionAssetId": "",
+    "positionType": 0,
+    "actionType": 0
+  },
+  {
     "homeActionId": "home-action-mei-birthday-kkr-01",
     "characterId": "char-mei",
     "motionAssetId": "mot_adv_chr_cmn_glad-010_in",
@@ -7596,6 +7752,54 @@
     "actionType": 0
   },
   {
+    "homeActionId": "home-action-mhk-05-idol-03-01",
+    "characterId": "char-mhk",
+    "motionAssetId": "mot_adv_chr_cmn_trouble-001_in",
+    "voiceAssetId": "sud_vo_home_mhk-05-idol-03_01",
+    "text": "流れ流れて、星見プロまで来て\nしまいましたけど…これが運命と\nいうものなら、皮肉が過ぎますね。",
+    "conditionId": "cd-wear-costume-cos-mhk-idol-03",
+    "weight": 100,
+    "additionMotionAssetId": "",
+    "positionType": 0,
+    "actionType": 0
+  },
+  {
+    "homeActionId": "home-action-mhk-05-idol-03-cos-01",
+    "characterId": "char-mhk",
+    "motionAssetId": "mot_adv_chr_cmn_pos-011_in",
+    "voiceAssetId": "sud_vo_home_mhk-05-idol-03_cos-01",
+    "text": "新曲の評判はどんな感じですか？\n上々？　…ええ、当然でしょう。\n次は、もっと上を目指します。",
+    "conditionId": "cd-wear-costume-cos-mhk-idol-03",
+    "weight": 100,
+    "additionMotionAssetId": "",
+    "positionType": 0,
+    "actionType": 0
+  },
+  {
+    "homeActionId": "home-action-mhk-05-idol-03-cos-02",
+    "characterId": "char-mhk",
+    "motionAssetId": "mot_adv_chr_cmn_talk-003_in",
+    "additionMotionAssetId": "mot_all_chr_cmn_facial-025_in",
+    "voiceAssetId": "sud_vo_home_mhk-05-idol-03_cos-02",
+    "text": "franが床の隙間に挟まった\n小銭を拾おうとムキになって\nいました。この衣装のままで…。",
+    "conditionId": "cd-wear-costume-cos-mhk-idol-03",
+    "weight": 100,
+    "positionType": 0,
+    "actionType": 0
+  },
+  {
+    "homeActionId": "home-action-mhk-05-idol-03-cos-03",
+    "characterId": "char-mhk",
+    "motionAssetId": "mot_adv_chr_cmn_talk-017_in",
+    "additionMotionAssetId": "mot_all_chr_cmn_facial-032_in",
+    "voiceAssetId": "sud_vo_home_mhk-05-idol-03_cos-03",
+    "text": "衣装をまとめて置いてある倉庫、\n今度、掃除させて下さい。\nあの保管状況では生地を傷めます。",
+    "conditionId": "cd-wear-costume-cos-mhk-idol-03",
+    "weight": 100,
+    "positionType": 0,
+    "actionType": 0
+  },
+  {
     "homeActionId": "home-action-mhk-05-poli-00-01",
     "characterId": "char-mhk",
     "motionAssetId": "mot_adv_chr_cmn_pos-005_in",
@@ -7808,6 +8012,18 @@
     "text": "遙子の誕生日って聞きました。趣味が多そうだし、みんなプレゼントに苦戦しそうですね。",
     "conditionId": "cd-birthday_hrk-0103",
     "weight": 1000,
+    "positionType": 0,
+    "actionType": 0
+  },
+  {
+    "homeActionId": "home-action-mhk-birthday-kan-01",
+    "characterId": "char-mhk",
+    "motionAssetId": "mot_adv_chr_cmn_angry-002_in",
+    "voiceAssetId": "sud_vo_home_mhk_birthday-kan-01",
+    "text": "誕生日だからってkanaが\n事務所で騒いでてすみません…\nあとで注意しておきますね。",
+    "conditionId": "cd-birthday_kan-23-0410",
+    "weight": 1000,
+    "additionMotionAssetId": "",
     "positionType": 0,
     "actionType": 0
   },
@@ -9108,6 +9324,18 @@
     "actionType": 0
   },
   {
+    "homeActionId": "home-action-ngs-birthday-kan-01",
+    "characterId": "char-ngs",
+    "motionAssetId": "mot_adv_chr_cmn_glad-001_in",
+    "voiceAssetId": "sud_vo_home_ngs_birthday-kan-01",
+    "text": "kanaさんのお誕生日をお祝い\nしたら一緒に写真を撮ろうって\n誘われちゃいました！　えへへ",
+    "conditionId": "cd-birthday_kan-23-0410",
+    "weight": 1000,
+    "additionMotionAssetId": "",
+    "positionType": 0,
+    "actionType": 0
+  },
+  {
     "homeActionId": "home-action-ngs-birthday-kkr-01",
     "characterId": "char-ngs",
     "motionAssetId": "mot_adv_chr_cmn_pos-002_in",
@@ -9931,6 +10159,18 @@
     "voiceAssetId": "sud_vo_home_rei_birthday-hrk-01",
     "text": "今日は遙子さんの誕生日です。\nいつもフォローしてもらっている\nお礼を伝えたいですね。",
     "conditionId": "cd-birthday_hrk-0103",
+    "weight": 1000,
+    "positionType": 0,
+    "actionType": 0
+  },
+  {
+    "homeActionId": "home-action-rei-birthday-kan-01",
+    "characterId": "char-rei",
+    "motionAssetId": "mot_adv_chr_cmn_talk-001_in",
+    "additionMotionAssetId": "mot_all_chr_cmn_facial-034_in",
+    "voiceAssetId": "sud_vo_home_rei_birthday-kan-01",
+    "text": "さくら達が騒がしいなと思っていた\nら、kanaさんの誕生日だったん\nですね。私も行くべきでしょうか…",
+    "conditionId": "cd-birthday_kan-23-0410",
     "weight": 1000,
     "positionType": 0,
     "actionType": 0
@@ -10764,6 +11004,18 @@
     "actionType": 0
   },
   {
+    "homeActionId": "home-action-rio-birthday-kan-01",
+    "characterId": "char-rio",
+    "motionAssetId": "mot_adv_chr_cmn_pos-008_in",
+    "voiceAssetId": "sud_vo_home_rio_birthday-kan-01",
+    "text": "kanaさんの誕生日なのね。朝か\nらこころがSNSで絡んでたみたい\nだけど、疲れさせてないかしら…？",
+    "conditionId": "cd-birthday_kan-23-0410",
+    "weight": 1000,
+    "additionMotionAssetId": "",
+    "positionType": 0,
+    "actionType": 0
+  },
+  {
     "homeActionId": "home-action-rio-birthday-kkr-01",
     "characterId": "char-rio",
     "motionAssetId": "mot_adv_chr_cmn_ask-008_in",
@@ -11586,6 +11838,18 @@
     "voiceAssetId": "sud_vo_home_rui_birthday-hrk-01",
     "text": "遙子さんに、誕生日のお祝いを\n伝えてきました。ああいう\nしっかりした女性は憧れますね。",
     "conditionId": "cd-birthday_hrk-0103",
+    "weight": 1000,
+    "additionMotionAssetId": "",
+    "positionType": 0,
+    "actionType": 0
+  },
+  {
+    "homeActionId": "home-action-rui-birthday-kan-01",
+    "characterId": "char-rui",
+    "motionAssetId": "mot_adv_chr_cmn_think-001_in",
+    "voiceAssetId": "sud_vo_home_rui_birthday-kan-01",
+    "text": "kanaさんに、誕生日にはSNS\nでバズるものが欲しいと言われまし\nたが…難しいですね…新曲とか…？",
+    "conditionId": "cd-birthday_kan-23-0410",
     "weight": 1000,
     "additionMotionAssetId": "",
     "positionType": 0,
@@ -12420,6 +12684,18 @@
     "actionType": 0
   },
   {
+    "homeActionId": "home-action-ski-birthday-kan-01",
+    "characterId": "char-ski",
+    "motionAssetId": "mot_adv_chr_cmn_talk-020_in",
+    "additionMotionAssetId": "mot_all_chr_cmn_facial-001_in",
+    "voiceAssetId": "sud_vo_home_ski_birthday-kan-01",
+    "text": "今日はkanaさんのお誕生日です\nね。SNSでファンから沢山お祝い\nされてトレンドに入っていました！",
+    "conditionId": "cd-birthday_kan-23-0410",
+    "weight": 1000,
+    "positionType": 0,
+    "actionType": 0
+  },
+  {
     "homeActionId": "home-action-ski-birthday-kkr-01",
     "characterId": "char-ski",
     "motionAssetId": "mot_adv_chr_cmn_pos-008_in",
@@ -13242,6 +13518,18 @@
     "voiceAssetId": "sud_vo_home_skr_birthday-hrk-01",
     "text": "遙子ちゃんのお誕生日です！\n普段のお礼を100倍にして\nお返ししまーす！",
     "conditionId": "cd-birthday_hrk-0103",
+    "weight": 1000,
+    "additionMotionAssetId": "",
+    "positionType": 0,
+    "actionType": 0
+  },
+  {
+    "homeActionId": "home-action-skr-birthday-kan-01",
+    "characterId": "char-skr",
+    "motionAssetId": "mot_adv_chr_cmn_pos-021_in",
+    "voiceAssetId": "sud_vo_home_skr_birthday-kan-01",
+    "text": "kanaさんのお誕生日なので\n一緒にご飯に行こうと思ってい\nます！　誘って来よう～っと！",
+    "conditionId": "cd-birthday_kan-23-0410",
     "weight": 1000,
     "additionMotionAssetId": "",
     "positionType": 0,
@@ -14076,6 +14364,18 @@
     "actionType": 0
   },
   {
+    "homeActionId": "home-action-smr-birthday-kan-01",
+    "characterId": "char-smr",
+    "motionAssetId": "mot_adv_chr_cmn_talk-012_in",
+    "additionMotionAssetId": "mot_all_chr_cmn_facial-034_in",
+    "voiceAssetId": "sud_vo_home_smr_birthday-kan-01",
+    "text": "kanaさんのお誕生日ですけど、\n何をあげたらいいんでしょう？\nSNSで映えるもの…芋煮とか…？",
+    "conditionId": "cd-birthday_kan-23-0410",
+    "weight": 1000,
+    "positionType": 0,
+    "actionType": 0
+  },
+  {
     "homeActionId": "home-action-smr-birthday-kkr-01",
     "characterId": "char-smr",
     "motionAssetId": "mot_adv_chr_cmn_pos-009_in",
@@ -14904,6 +15204,18 @@
     "actionType": 0
   },
   {
+    "homeActionId": "home-action-suz-birthday-kan-01",
+    "characterId": "char-suz",
+    "motionAssetId": "mot_adv_chr_cmn_trouble-003_in",
+    "voiceAssetId": "sud_vo_home_suz_birthday-kan-01",
+    "text": "kanaさんの誕生日、今日でした\nのね？　先ほどプレゼントを所望\nされましたわ…用意しなくては…",
+    "conditionId": "cd-birthday_kan-23-0410",
+    "weight": 1000,
+    "additionMotionAssetId": "",
+    "positionType": 0,
+    "actionType": 0
+  },
+  {
     "homeActionId": "home-action-suz-birthday-kkr-01",
     "characterId": "char-suz",
     "motionAssetId": "mot_adv_chr_cmn_pos-009_in",
@@ -15680,6 +15992,18 @@
     "conditionId": "cd-birthday_hrk-0103",
     "weight": 1000,
     "additionMotionAssetId": "",
+    "positionType": 0,
+    "actionType": 0
+  },
+  {
+    "homeActionId": "home-action-szk-birthday-kan-01",
+    "characterId": "char-szk",
+    "motionAssetId": "mot_adv_chr_cmn_talk-021_in",
+    "additionMotionAssetId": "mot_all_chr_cmn_facial-034_in",
+    "voiceAssetId": "sud_vo_home_szk_birthday-kan-01",
+    "text": "kanaさんが、誕生日だしSNS\nでバズる物がほしい、って。\n釣り竿は、怒られる…かな？",
+    "conditionId": "cd-birthday_kan-23-0410",
+    "weight": 1000,
     "positionType": 0,
     "actionType": 0
   },
@@ -16506,6 +16830,18 @@
     "voiceAssetId": "sud_vo_home_yu_birthday-hrk-01",
     "text": "遙子さん、今日誕生日やってな〜\n三が日生まれって\n縁起良さそうやね〜",
     "conditionId": "cd-birthday_hrk-0103",
+    "weight": 1000,
+    "additionMotionAssetId": "",
+    "positionType": 0,
+    "actionType": 0
+  },
+  {
+    "homeActionId": "home-action-yu-birthday-kan-01",
+    "characterId": "char-yu",
+    "motionAssetId": "mot_adv_chr_cmn_pos-009_in",
+    "voiceAssetId": "sud_vo_home_yu_birthday-kan-01",
+    "text": "kanaさん、誕生日はイイネの\n稼ぎ時や～って言ってはったわ。\nプレゼントの写真載せるんやって。",
+    "conditionId": "cd-birthday_kan-23-0410",
     "weight": 1000,
     "additionMotionAssetId": "",
     "positionType": 0,

@@ -3843,6 +3843,33 @@
     "isViewableInInactive": false
   },
   {
+    "id": "emb-689",
+    "name": "VENUSシーズン64 No.1",
+    "assetId": "pvp-season-064-top001",
+    "order": 306410,
+    "description": "VENUSバトルシーズン64で1位獲得",
+    "autoProvideConditionId": "",
+    "isViewableInInactive": false
+  },
+  {
+    "id": "emb-690",
+    "name": "VENUSシーズン64 TOP10",
+    "assetId": "pvp-season-064-top010",
+    "order": 306420,
+    "description": "VENUSバトルシーズン64で10位以内獲得",
+    "autoProvideConditionId": "",
+    "isViewableInInactive": false
+  },
+  {
+    "id": "emb-691",
+    "name": "VENUSシーズン64 TOP100",
+    "assetId": "pvp-season-064-top100",
+    "order": 306430,
+    "description": "VENUSバトルシーズン64で100位以内獲得",
+    "autoProvideConditionId": "",
+    "isViewableInInactive": false
+  },
+  {
     "id": "emb-701",
     "name": "【誕生日】長瀬琴乃",
     "assetId": "birthday_ktn-02",
@@ -3966,6 +3993,15 @@
     "autoProvideConditionId": "cd-birthday_emblem_yu-23-0227",
     "order": 602120,
     "description": "優の誕生日を迎える",
+    "isViewableInInactive": false
+  },
+  {
+    "id": "emb-719",
+    "name": "【誕生日】kana",
+    "assetId": "birthday_kan-03",
+    "autoProvideConditionId": "cd-birthday_emblem_kan-23-0410",
+    "order": 601190,
+    "description": "kanaの誕生日を迎える",
     "isViewableInInactive": false
   },
   {
@@ -4505,6 +4541,24 @@
     "assetId": "gvg-season-021-top010",
     "order": 402120,
     "description": "ユニオンライブシーズン21 で10位以内獲得",
+    "autoProvideConditionId": "",
+    "isViewableInInactive": false
+  },
+  {
+    "id": "emb-gvg-season-022-top001",
+    "name": "ユニオンシーズン22 No.1",
+    "assetId": "gvg-season-022-top001",
+    "order": 402210,
+    "description": "ユニオンライブシーズン22 で1位獲得",
+    "autoProvideConditionId": "",
+    "isViewableInInactive": false
+  },
+  {
+    "id": "emb-gvg-season-022-top010",
+    "name": "ユニオンシーズン22 TOP10",
+    "assetId": "gvg-season-022-top010",
+    "order": 402220,
+    "description": "ユニオンライブシーズン22 で10位以内獲得",
     "autoProvideConditionId": "",
     "isViewableInInactive": false
   },
