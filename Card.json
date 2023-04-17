@@ -2676,6 +2676,66 @@
     "homeTalks": []
   },
   {
+    "id": "card-kor-05-idol-03",
+    "assetId": "kor-05-idol-03",
+    "name": "俊傑は我が道を貫く",
+    "description": "大体、人気があったからって\r\n誰かの真似をするなんて、格好悪いったらないです\r\n私達は、私達に出来る最高のパフォーマンスを目指す\r\n結局それ以外にはないなって",
+    "type": 1,
+    "characterId": "char-kor",
+    "initialRarity": 5,
+    "cardParameterId": "card-param-01",
+    "vocalRatioPermil": 319,
+    "danceRatioPermil": 277,
+    "visualRatioPermil": 434,
+    "staminaRatioPermil": 900,
+    "cardLevelReleaseId": "card_level_release_1",
+    "skillId1": "sk-kor-05-idol-03-1",
+    "skillId2": "sk-kor-05-idol-03-2",
+    "skillId3": "sk-kor-05-idol-03-3",
+    "liveAbilityId": "lba-visual_multiply",
+    "order": 280,
+    "releaseDate": "1681700400000",
+    "rewardCostumeId": "cos-kor-idol-03",
+    "imageType1": 3,
+    "displayPositionX1": 0.233,
+    "displayScale1": 1.0,
+    "highlightDisplayPositionX1": -0.237,
+    "highlightDisplayPositionY1": 0.204,
+    "highlightDisplayScale1": 0.7,
+    "imageType2": 3,
+    "displayPositionX2": 0.233,
+    "displayScale2": 1.0,
+    "highlightDisplayPositionX2": -0.237,
+    "highlightDisplayPositionY2": 0.204,
+    "highlightDisplayScale2": 0.7,
+    "obtainMessage": "その胸にきっちり刻み込んで下さいね",
+    "stories": [
+      {
+        "storyId": "st-card-kor-05-idol-03-01"
+      },
+      {
+        "storyId": "st-card-kor-05-idol-03-02"
+      },
+      {
+        "storyId": "st-card-kor-05-idol-03-03"
+      }
+    ],
+    "messages": [
+      {
+        "messageId": "message-card-kor-05-idol-03",
+        "telephoneId": ""
+      },
+      {
+        "telephoneId": "tel-card-kor-05-idol-03",
+        "messageId": ""
+      }
+    ],
+    "activityAbilityId": "",
+    "displayPositionY1": 0.0,
+    "displayPositionY2": 0.0,
+    "homeTalks": []
+  },
+  {
     "id": "card-kor-05-poli-00",
     "assetId": "kor-05-poli-00",
     "name": "壁越しに香るゆず湯",

@@ -1566,6 +1566,56 @@
     ]
   },
   {
+    "homeTalkId": "home-talk-card-kor-05-idol-03-talk-01",
+    "characterId": "char-kor",
+    "placeType": 1,
+    "conditionId": "cd-st-read-st-card-kor-05-idol-03-03",
+    "firstPriority": 9900,
+    "weight": 1,
+    "callPatternId": "call-pattern-card-kor-05-idol-03",
+    "choiceText": "煮干しではなく？",
+    "managerText": "煮干しではなく？",
+    "reliability": 5,
+    "characterTalks": [
+      {
+        "text": "ですから、人を餌付けされた野良猫\nみたいに言わないで下さい。\nあとカルシウムは大事なんですよ！",
+        "voiceAssetId": "sud_vo_home_kor-05-idol-03_talk-01-01",
+        "motionAssetId": "mot_adv_chr_cmn_angry-002_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "mihoだって、いつも発酵食品を\nあーだーこーだ言いながら\n食べてますし。",
+        "voiceAssetId": "sud_vo_home_kor-05-idol-03_talk-01-02",
+        "motionAssetId": "mot_adv_chr_cmn_talk-006_in",
+        "additionMotionAssetId": "mot_all_chr_cmn_facial-032_in"
+      },
+      {
+        "text": "あの人、乳酸菌の信者なんで、\nあまり話振らない方がいいですよ。\nウンチクすっごい長いから…。",
+        "voiceAssetId": "sud_vo_home_kor-05-idol-03_talk-01-03",
+        "motionAssetId": "mot_adv_chr_cmn_sad-001_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "kana？\nああ、あの子は完全に子供舌。",
+        "voiceAssetId": "sud_vo_home_kor-05-idol-03_talk-01-04",
+        "motionAssetId": "mot_adv_chr_cmn_talk-007_in",
+        "additionMotionAssetId": "mot_all_chr_cmn_facial-032_in"
+      },
+      {
+        "text": "カロリー高い物食べたって、\n次の日にその分動けばいいじゃん\nとか言うんですよ。",
+        "voiceAssetId": "sud_vo_home_kor-05-idol-03_talk-01-05",
+        "motionAssetId": "mot_adv_chr_cmn_talk-020_in",
+        "additionMotionAssetId": "mot_all_chr_cmn_facial-011_in"
+      },
+      {
+        "text": "ぬあー、腹立つ！\nいつまでも、それが通じるとは\n思わないことね…！",
+        "voiceAssetId": "sud_vo_home_kor-05-idol-03_talk-01-06",
+        "motionAssetId": "mot_adv_chr_cmn_angry-005_in",
+        "additionMotionAssetId": ""
+      }
+    ]
+  },
+  {
     "homeTalkId": "home-talk-card-kor-05-poli-00-talk-01",
     "characterId": "char-kor",
     "placeType": 1,
