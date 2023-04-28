@@ -429,6 +429,17 @@
     "salePrice": 0
   },
   {
+    "id": "item-daily_quest_ticket_sp-23-0428",
+    "name": "スペシャルパス",
+    "assetId": "quest-daily-special",
+    "description": "デイリーライブ【スペシャル】に挑戦できる\nイベント終了後は消失します",
+    "howToGet": "ショップなど",
+    "type": 2006,
+    "value": 1,
+    "order": 220,
+    "salePrice": 0
+  },
+  {
     "id": "item-exchange-anniversary-medal-22-0526",
     "name": "1周年記念メダル",
     "assetId": "medal-anniversary",
@@ -474,6 +485,17 @@
   },
   {
     "id": "item-exchange-collaboration-medal-22-0831",
+    "name": "コラボメダル",
+    "assetId": "medal_collaboration",
+    "description": "コラボメダル交換所で様々なアイテムと交換できる 期限を過ぎるとメダルは消失します",
+    "howToGet": "ガチャ、ショップなど",
+    "type": 10,
+    "value": 1,
+    "order": 140,
+    "salePrice": 0
+  },
+  {
+    "id": "item-exchange-collaboration-medal-23-0428",
     "name": "コラボメダル",
     "assetId": "medal_collaboration",
     "description": "コラボメダル交換所で様々なアイテムと交換できる 期限を過ぎるとメダルは消失します",
@@ -1144,6 +1166,17 @@
     "salePrice": 0
   },
   {
+    "id": "item-gacha_point-lm-set-bloom-23-0428",
+    "name": "いっしょにティータイム！ガチャPt",
+    "assetId": "gacha-point",
+    "description": "該当するガチャページの「ガチャPt」から\nガチャPtを消費してアイドルを獲得できる",
+    "type": 9,
+    "value": 1,
+    "order": 140,
+    "howToGet": "",
+    "salePrice": 0
+  },
+  {
     "id": "item-gacha_point-pick-set-bloom-21-1112",
     "name": "福招く獅子舞娘ガチャPt",
     "assetId": "gacha-point",
@@ -1685,6 +1718,17 @@
   {
     "id": "item-gacha_point-rev-select-01-23-0330",
     "name": "感謝祭記念選べる★5復刻ガチャPt",
+    "assetId": "gacha-point",
+    "description": "該当するガチャページの「ガチャPt」から\nガチャPtを消費してアイドルを獲得できる",
+    "type": 9,
+    "value": 1,
+    "order": 140,
+    "howToGet": "",
+    "salePrice": 0
+  },
+  {
+    "id": "item-gacha_point-rev-select-01-23-0430",
+    "name": "GW記念選べる★5復刻ガチャPt",
     "assetId": "gacha-point",
     "description": "該当するガチャページの「ガチャPt」から\nガチャPtを消費してアイドルを獲得できる",
     "type": 9,

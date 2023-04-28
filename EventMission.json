@@ -635,8 +635,27 @@
     "name": "イベントミッション",
     "order": 99,
     "viewConditionId": "cd-event-race-23-0428-exchange",
-    "unlockConditionId": "",
-    "missionIds": []
+    "missionIds": [
+      "event-race-23-0428-1",
+      "event-race-23-0428-10",
+      "event-race-23-0428-11",
+      "event-race-23-0428-12",
+      "event-race-23-0428-13",
+      "event-race-23-0428-14",
+      "event-race-23-0428-15",
+      "event-race-23-0428-16",
+      "event-race-23-0428-17",
+      "event-race-23-0428-18",
+      "event-race-23-0428-2",
+      "event-race-23-0428-3",
+      "event-race-23-0428-4",
+      "event-race-23-0428-5",
+      "event-race-23-0428-6",
+      "event-race-23-0428-7",
+      "event-race-23-0428-8",
+      "event-race-23-0428-9"
+    ],
+    "unlockConditionId": ""
   },
   {
     "id": "event-tour-21-0630",
@@ -700,6 +719,34 @@
     "unlockConditionId": ""
   },
   {
+    "id": "event_comeback-mission-23-0428",
+    "eventMissionType": 2,
+    "assetId": "img_banner_l_event-comeback-mission",
+    "name": "カムバックミッション",
+    "order": 80,
+    "viewConditionId": "cd-time-event-ms-comeback-23-0428-0510",
+    "missionIds": [
+      "event-ms-comeback-23-0428-condition_clear-1",
+      "event-ms-comeback-23-0428-condition_clear-2",
+      "event-ms-comeback-23-0428-condition_clear-3",
+      "event-ms-comeback-23-0428-condition_clear-4",
+      "event-ms-comeback-23-0428-condition_clear-5",
+      "event-ms-comeback-23-0428-login_count",
+      "event-ms-comeback-23-0428-quest_main_clear_count-1",
+      "event-ms-comeback-23-0428-quest_main_clear_count-2",
+      "event-ms-comeback-23-0428-quest_main_clear_count-3",
+      "event-ms-comeback-23-0428-quest_main_clear_count-4",
+      "event-ms-comeback-23-0428-quest_main_clear_count-5",
+      "event-ms-comeback-23-0428-quest_tower_clear_count-1",
+      "event-ms-comeback-23-0428-quest_tower_clear_count-2",
+      "event-ms-comeback-23-0428-quest_tower_clear_count-3",
+      "event-ms-comeback-23-0428-quest_tower_clear_count-4",
+      "event-ms-comeback-23-0428-quest_tower_clear_count-5",
+      "event-ms-comeback-23-0428-race_panel_clear_count"
+    ],
+    "unlockConditionId": ""
+  },
+  {
     "id": "event_fes-mission-22-0929",
     "eventMissionType": 2,
     "assetId": "img_banner_l_event-fes-mission-22-0929",
@@ -738,6 +785,38 @@
       "event-ms-gw-22-0501-00-quest_daily_clear_count",
       "event-ms-gw-22-0501-00-quest_pvp_play_count",
       "event-ms-gw-22-0501-00-quest_qt-area_clear_count"
+    ],
+    "unlockConditionId": ""
+  },
+  {
+    "id": "event_live-mission-23-0503",
+    "eventMissionType": 2,
+    "assetId": "img_banner_l_event-live-mission",
+    "name": "ライブミッション",
+    "order": 5,
+    "viewConditionId": "cd-time-event-ms-live-23-0503-0514",
+    "missionIds": [
+      "event-ms-live-23-0503-condition_clear-1",
+      "event-ms-live-23-0503-condition_clear-2",
+      "event-ms-live-23-0503-condition_clear-3",
+      "event-ms-live-23-0503-condition_clear-4",
+      "event-ms-live-23-0503-condition_clear-5",
+      "event-ms-live-23-0503-login_count-1",
+      "event-ms-live-23-0503-login_count-2",
+      "event-ms-live-23-0503-login_count-3",
+      "event-ms-live-23-0503-login_count-4",
+      "event-ms-live-23-0503-quest_all_clear_count",
+      "event-ms-live-23-0503-quest_all_clear_count_goal",
+      "event-ms-live-23-0503-quest_main_clear_count-1",
+      "event-ms-live-23-0503-quest_main_clear_count-2",
+      "event-ms-live-23-0503-quest_main_clear_count-3",
+      "event-ms-live-23-0503-quest_main_clear_count-4",
+      "event-ms-live-23-0503-quest_main_clear_count-5",
+      "event-ms-live-23-0503-quest_tower_clear_count-1",
+      "event-ms-live-23-0503-quest_tower_clear_count-2",
+      "event-ms-live-23-0503-quest_tower_clear_count-3",
+      "event-ms-live-23-0503-quest_tower_clear_count-4",
+      "event-ms-live-23-0503-quest_tower_clear_count-5"
     ],
     "unlockConditionId": ""
   },
@@ -1265,6 +1344,34 @@
       "event-ms-newyear-22-0101-00-photo_level_up_count",
       "event-ms-newyear-22-0101-00-quest_daily_clear_count",
       "event-ms-newyear-22-0101-00-quest_pvp_play_count"
+    ],
+    "unlockConditionId": ""
+  },
+  {
+    "id": "event_photo-mission-23-0430",
+    "eventMissionType": 2,
+    "assetId": "img_banner_l_event-photo-mission-23-0430",
+    "name": "コラボフォト育成ミッション",
+    "order": 2,
+    "viewConditionId": "cd-time-event-ms-photo-23-0430-0510",
+    "missionIds": [
+      "event-ms-photo-23-0430-00-costume_exchange_count",
+      "event-ms-photo-23-0430-00-event_card_obtain",
+      "event-ms-photo-23-0430-00-event_card_rarity",
+      "event-ms-photo-23-0430-00-event_story_read_1",
+      "event-ms-photo-23-0430-00-event_story_read_2",
+      "event-ms-photo-23-0430-00-event_story_read_3",
+      "event-ms-photo-23-0430-00-login_count",
+      "event-ms-photo-23-0430-00-mission_clear_count",
+      "event-ms-photo-23-0430-00-mission_clear_count_photo_1",
+      "event-ms-photo-23-0430-00-mission_clear_count_photo_10",
+      "event-ms-photo-23-0430-00-mission_clear_count_photo_4",
+      "event-ms-photo-23-0430-00-mission_clear_count_photo_7",
+      "event-ms-photo-23-0430-00-photo_shoot_mission_clear_count",
+      "event-ms-photo-23-0430-00-quest_daily_clear_count",
+      "event-ms-photo-23-0430-00-quest_pvp_play_count",
+      "event-ms-photo-23-0430-00-quest_qt-area_clear_count",
+      "event-ms-photo-23-0430-00-quest_qt-area_S_rank_clear"
     ],
     "unlockConditionId": ""
   },

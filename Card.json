@@ -41,6 +41,47 @@
     "homeTalks": []
   },
   {
+    "id": "card-ai-02-eve-01",
+    "assetId": "ai-02-eve-01",
+    "name": "えんそう！大成功",
+    "description": "みなさんとの共演とっても楽しかったです！\r\n今度はぜひ、私達の曲を演奏して下さい！\r\nそして、一緒に歌いましょう！",
+    "type": 3,
+    "characterId": "char-ai",
+    "initialRarity": 2,
+    "cardParameterId": "card-param-01",
+    "vocalRatioPermil": 330,
+    "danceRatioPermil": 289,
+    "visualRatioPermil": 411,
+    "staminaRatioPermil": 900,
+    "cardLevelReleaseId": "card_level_release_1",
+    "skillId1": "sk-ai-02-eve-01-1",
+    "skillId2": "sk-ai-02-eve-01-2",
+    "skillId3": "sk-ai-02-eve-01-3",
+    "order": 283,
+    "releaseDate": "1682650800000",
+    "imageType1": 1,
+    "displayPositionX1": -0.023,
+    "displayPositionY1": 0.324,
+    "displayScale1": 1.0,
+    "highlightDisplayPositionX1": -0.02,
+    "highlightDisplayPositionY1": 0.31,
+    "highlightDisplayScale1": 1.0,
+    "imageType2": 2,
+    "displayPositionX2": -0.093,
+    "displayScale2": 1.0,
+    "highlightDisplayPositionX2": 0.52,
+    "highlightDisplayPositionY2": 0.451,
+    "highlightDisplayScale2": 0.6,
+    "liveAbilityId": "",
+    "activityAbilityId": "",
+    "rewardCostumeId": "",
+    "displayPositionY2": 0.0,
+    "obtainMessage": "",
+    "stories": [],
+    "messages": [],
+    "homeTalks": []
+  },
+  {
     "id": "card-ai-03-schl-00",
     "assetId": "ai-03-schl-00",
     "name": "嘘から出た実",
@@ -2370,6 +2411,66 @@
       }
     ],
     "activityAbilityId": ""
+  },
+  {
+    "id": "card-kkr-05-kion-00",
+    "assetId": "kkr-05-kion-00",
+    "name": "打ち上げティータイム",
+    "description": "あんなにお茶会ばっかりしてるのに\n五人の息がぴったりで、本当に楽しそうで\nこころも、愛ちゃんも、すずにゃんも\nバンドの音に心地良く乗れたんです",
+    "type": 2,
+    "characterId": "char-kkr",
+    "initialRarity": 5,
+    "cardParameterId": "card-param-01",
+    "vocalRatioPermil": 319,
+    "danceRatioPermil": 278,
+    "visualRatioPermil": 403,
+    "staminaRatioPermil": 1000,
+    "cardLevelReleaseId": "card_level_release_1",
+    "skillId1": "sk-kkr-05-kion-00-1",
+    "skillId2": "sk-kkr-05-kion-00-2",
+    "skillId3": "sk-kkr-05-kion-00-3",
+    "liveAbilityId": "lba-special_skill_score_multiply",
+    "order": 281,
+    "releaseDate": "1682650800000",
+    "rewardCostumeId": "cos-kkr-kion-00",
+    "imageType1": 3,
+    "displayPositionX1": -0.007,
+    "displayScale1": 1.0,
+    "highlightDisplayPositionX1": 0.003,
+    "highlightDisplayPositionY1": 0.232,
+    "highlightDisplayScale1": 0.8,
+    "imageType2": 3,
+    "displayPositionX2": -0.007,
+    "displayScale2": 1.0,
+    "highlightDisplayPositionX2": 0.003,
+    "highlightDisplayPositionY2": 0.232,
+    "highlightDisplayScale2": 0.8,
+    "obtainMessage": "放課後ティータイムとのコラボ、\nどうでしたか～！",
+    "stories": [
+      {
+        "storyId": "st-card-kkr-05-kion-00-01"
+      },
+      {
+        "storyId": "st-card-kkr-05-kion-00-02"
+      },
+      {
+        "storyId": "st-card-kkr-05-kion-00-03"
+      }
+    ],
+    "messages": [
+      {
+        "messageId": "message-card-kkr-05-kion-00",
+        "telephoneId": ""
+      },
+      {
+        "telephoneId": "tel-card-kkr-05-kion-00",
+        "messageId": ""
+      }
+    ],
+    "activityAbilityId": "",
+    "displayPositionY1": 0.0,
+    "displayPositionY2": 0.0,
+    "homeTalks": []
   },
   {
     "id": "card-kkr-05-mizg-01",
@@ -8273,6 +8374,66 @@
       }
     ],
     "activityAbilityId": ""
+  },
+  {
+    "id": "card-suz-05-kion-00",
+    "assetId": "suz-05-kion-00",
+    "name": "にゃんて素晴らしい放課後！",
+    "description": "仕方なくネコミミを付けたら\nみなさん「可愛い可愛い」と騒ぎ出して……",
+    "type": 1,
+    "characterId": "char-suz",
+    "initialRarity": 5,
+    "cardParameterId": "card-param-01",
+    "vocalRatioPermil": 280,
+    "danceRatioPermil": 433,
+    "visualRatioPermil": 317,
+    "staminaRatioPermil": 900,
+    "cardLevelReleaseId": "card_level_release_1",
+    "skillId1": "sk-suz-05-kion-00-1",
+    "skillId2": "sk-suz-05-kion-00-2",
+    "skillId3": "sk-suz-05-kion-00-3",
+    "activityAbilityId": "aab-promotion_gold_up",
+    "order": 282,
+    "releaseDate": "1682650800000",
+    "rewardCostumeId": "cos-suz-kion-00",
+    "imageType1": 3,
+    "displayPositionX1": 0.001,
+    "displayScale1": 1.0,
+    "highlightDisplayPositionX1": 0.835,
+    "highlightDisplayPositionY1": 0.062,
+    "highlightDisplayScale1": 0.7,
+    "imageType2": 3,
+    "displayPositionX2": 0.001,
+    "displayScale2": 1.0,
+    "highlightDisplayPositionX2": 0.835,
+    "highlightDisplayPositionY2": 0.062,
+    "highlightDisplayScale2": 0.7,
+    "obtainMessage": "抱きつかないでほしいにゃん！\nもう許してにゃ～ん！",
+    "stories": [
+      {
+        "storyId": "st-card-suz-05-kion-00-01"
+      },
+      {
+        "storyId": "st-card-suz-05-kion-00-02"
+      },
+      {
+        "storyId": "st-card-suz-05-kion-00-03"
+      }
+    ],
+    "messages": [
+      {
+        "messageId": "message-card-suz-05-kion-00",
+        "telephoneId": ""
+      },
+      {
+        "telephoneId": "tel-card-suz-05-kion-00",
+        "messageId": ""
+      }
+    ],
+    "liveAbilityId": "",
+    "displayPositionY1": 0.0,
+    "displayPositionY2": 0.0,
+    "homeTalks": []
   },
   {
     "id": "card-suz-05-mizg-01",

@@ -15550,6 +15550,85 @@
     "description": ""
   },
   {
+    "id": "live-lba-passive_skill-075",
+    "name": "誰かがクリティカル率上昇状態の時\r\nダンスタイプ2人にダンス上昇効果",
+    "levels": [
+      {
+        "level": 1,
+        "description": "パッシブスキル発動",
+        "type": 13,
+        "value": 1,
+        "skillId": "sk-live-lba-passive_skill-075",
+        "shortDescription": "",
+        "requiredItemAmount": 0,
+        "requiredCardLevel": 0,
+        "moodType": 0,
+        "backgroundRankType": 0
+      },
+      {
+        "level": 2,
+        "description": "パッシブスキル発動",
+        "type": 13,
+        "requiredItemAmount": 1,
+        "requiredCardLevel": 1,
+        "value": 2,
+        "skillId": "sk-live-lba-passive_skill-075",
+        "shortDescription": "",
+        "moodType": 0,
+        "backgroundRankType": 0
+      },
+      {
+        "level": 3,
+        "description": "パッシブスキル発動",
+        "type": 13,
+        "requiredItemAmount": 1,
+        "requiredCardLevel": 2,
+        "value": 3,
+        "skillId": "sk-live-lba-passive_skill-075",
+        "shortDescription": "",
+        "moodType": 0,
+        "backgroundRankType": 0
+      },
+      {
+        "level": 4,
+        "description": "パッシブスキル発動",
+        "type": 13,
+        "requiredItemAmount": 1,
+        "requiredCardLevel": 3,
+        "value": 4,
+        "skillId": "sk-live-lba-passive_skill-075",
+        "shortDescription": "",
+        "moodType": 0,
+        "backgroundRankType": 0
+      },
+      {
+        "level": 5,
+        "description": "パッシブスキル発動",
+        "type": 13,
+        "requiredItemAmount": 1,
+        "requiredCardLevel": 4,
+        "value": 5,
+        "skillId": "sk-live-lba-passive_skill-075",
+        "shortDescription": "",
+        "moodType": 0,
+        "backgroundRankType": 0
+      },
+      {
+        "level": 6,
+        "description": "パッシブスキル発動",
+        "type": 13,
+        "requiredItemAmount": 1,
+        "requiredCardLevel": 5,
+        "value": 6,
+        "skillId": "sk-live-lba-passive_skill-075",
+        "shortDescription": "",
+        "moodType": 0,
+        "backgroundRankType": 0
+      }
+    ],
+    "description": ""
+  },
+  {
     "id": "live-lba-passive_skill-076",
     "name": "誰かがスコアアップ状態の時\nスコアラータイプ2人に対象最大スタミナに応じたスタミナ回復",
     "levels": [
@@ -17201,6 +17280,164 @@
         "requiredCardLevel": 5,
         "value": 6,
         "skillId": "sk-live-lba-passive_skill-100",
+        "shortDescription": "",
+        "moodType": 0,
+        "backgroundRankType": 0
+      }
+    ],
+    "description": ""
+  },
+  {
+    "id": "live-lba-passive_skill-101",
+    "name": "ボーカルタイプ1人にボーカル低下効果\nボーカルタイプ1人にスコア上昇効果",
+    "levels": [
+      {
+        "level": 1,
+        "description": "パッシブスキル発動",
+        "type": 13,
+        "value": 1,
+        "skillId": "sk-live-lba-passive_skill-101",
+        "shortDescription": "",
+        "requiredItemAmount": 0,
+        "requiredCardLevel": 0,
+        "moodType": 0,
+        "backgroundRankType": 0
+      },
+      {
+        "level": 2,
+        "description": "パッシブスキル発動",
+        "type": 13,
+        "requiredItemAmount": 1,
+        "requiredCardLevel": 1,
+        "value": 2,
+        "skillId": "sk-live-lba-passive_skill-101",
+        "shortDescription": "",
+        "moodType": 0,
+        "backgroundRankType": 0
+      },
+      {
+        "level": 3,
+        "description": "パッシブスキル発動",
+        "type": 13,
+        "requiredItemAmount": 1,
+        "requiredCardLevel": 2,
+        "value": 3,
+        "skillId": "sk-live-lba-passive_skill-101",
+        "shortDescription": "",
+        "moodType": 0,
+        "backgroundRankType": 0
+      },
+      {
+        "level": 4,
+        "description": "パッシブスキル発動",
+        "type": 13,
+        "requiredItemAmount": 1,
+        "requiredCardLevel": 3,
+        "value": 4,
+        "skillId": "sk-live-lba-passive_skill-101",
+        "shortDescription": "",
+        "moodType": 0,
+        "backgroundRankType": 0
+      },
+      {
+        "level": 5,
+        "description": "パッシブスキル発動",
+        "type": 13,
+        "requiredItemAmount": 1,
+        "requiredCardLevel": 4,
+        "value": 5,
+        "skillId": "sk-live-lba-passive_skill-101",
+        "shortDescription": "",
+        "moodType": 0,
+        "backgroundRankType": 0
+      },
+      {
+        "level": 6,
+        "description": "パッシブスキル発動",
+        "type": 13,
+        "requiredItemAmount": 1,
+        "requiredCardLevel": 5,
+        "value": 6,
+        "skillId": "sk-live-lba-passive_skill-101",
+        "shortDescription": "",
+        "moodType": 0,
+        "backgroundRankType": 0
+      }
+    ],
+    "description": ""
+  },
+  {
+    "id": "live-lba-passive_skill-102",
+    "name": "ボーカルタイプ2人にボーカル低下効果\nボーカルタイプ2人にスキル成功率上昇効果",
+    "levels": [
+      {
+        "level": 1,
+        "description": "パッシブスキル発動",
+        "type": 13,
+        "value": 1,
+        "skillId": "sk-live-lba-passive_skill-102",
+        "shortDescription": "",
+        "requiredItemAmount": 0,
+        "requiredCardLevel": 0,
+        "moodType": 0,
+        "backgroundRankType": 0
+      },
+      {
+        "level": 2,
+        "description": "パッシブスキル発動",
+        "type": 13,
+        "requiredItemAmount": 1,
+        "requiredCardLevel": 1,
+        "value": 2,
+        "skillId": "sk-live-lba-passive_skill-102",
+        "shortDescription": "",
+        "moodType": 0,
+        "backgroundRankType": 0
+      },
+      {
+        "level": 3,
+        "description": "パッシブスキル発動",
+        "type": 13,
+        "requiredItemAmount": 1,
+        "requiredCardLevel": 2,
+        "value": 3,
+        "skillId": "sk-live-lba-passive_skill-102",
+        "shortDescription": "",
+        "moodType": 0,
+        "backgroundRankType": 0
+      },
+      {
+        "level": 4,
+        "description": "パッシブスキル発動",
+        "type": 13,
+        "requiredItemAmount": 1,
+        "requiredCardLevel": 3,
+        "value": 4,
+        "skillId": "sk-live-lba-passive_skill-102",
+        "shortDescription": "",
+        "moodType": 0,
+        "backgroundRankType": 0
+      },
+      {
+        "level": 5,
+        "description": "パッシブスキル発動",
+        "type": 13,
+        "requiredItemAmount": 1,
+        "requiredCardLevel": 4,
+        "value": 5,
+        "skillId": "sk-live-lba-passive_skill-102",
+        "shortDescription": "",
+        "moodType": 0,
+        "backgroundRankType": 0
+      },
+      {
+        "level": 6,
+        "description": "パッシブスキル発動",
+        "type": 13,
+        "requiredItemAmount": 1,
+        "requiredCardLevel": 5,
+        "value": 6,
+        "skillId": "sk-live-lba-passive_skill-102",
         "shortDescription": "",
         "moodType": 0,
         "backgroundRankType": 0
@@ -21619,6 +21856,121 @@
     "description": ""
   },
   {
+    "id": "race-lba-passive_skill-ef-cool_time_reduction-5",
+    "name": "誰かがクリティカル係数アップ状態の時、全員のCTを減少",
+    "levels": [
+      {
+        "level": 1,
+        "description": "パッシブスキル発動",
+        "type": 13,
+        "value": 1,
+        "skillId": "sk-race-lba-passive_skill-ef-cool_time_reduction-5",
+        "backgroundRankType": 1,
+        "shortDescription": "",
+        "requiredItemAmount": 0,
+        "requiredCardLevel": 0,
+        "moodType": 0
+      },
+      {
+        "level": 2,
+        "description": "パッシブスキル発動",
+        "type": 13,
+        "requiredItemAmount": 1,
+        "requiredCardLevel": 1,
+        "value": 2,
+        "skillId": "sk-race-lba-passive_skill-ef-cool_time_reduction-5",
+        "backgroundRankType": 1,
+        "shortDescription": "",
+        "moodType": 0
+      },
+      {
+        "level": 3,
+        "description": "パッシブスキル発動",
+        "type": 13,
+        "requiredItemAmount": 1,
+        "requiredCardLevel": 2,
+        "value": 3,
+        "skillId": "sk-race-lba-passive_skill-ef-cool_time_reduction-5",
+        "backgroundRankType": 1,
+        "shortDescription": "",
+        "moodType": 0
+      },
+      {
+        "level": 4,
+        "description": "パッシブスキル発動",
+        "type": 13,
+        "requiredItemAmount": 1,
+        "requiredCardLevel": 3,
+        "value": 4,
+        "skillId": "sk-race-lba-passive_skill-ef-cool_time_reduction-5",
+        "backgroundRankType": 2,
+        "shortDescription": "",
+        "moodType": 0
+      },
+      {
+        "level": 5,
+        "description": "パッシブスキル発動",
+        "type": 13,
+        "requiredItemAmount": 1,
+        "requiredCardLevel": 4,
+        "value": 5,
+        "skillId": "sk-race-lba-passive_skill-ef-cool_time_reduction-5",
+        "backgroundRankType": 2,
+        "shortDescription": "",
+        "moodType": 0
+      },
+      {
+        "level": 6,
+        "description": "パッシブスキル発動",
+        "type": 13,
+        "requiredItemAmount": 1,
+        "requiredCardLevel": 5,
+        "value": 6,
+        "skillId": "sk-race-lba-passive_skill-ef-cool_time_reduction-5",
+        "backgroundRankType": 2,
+        "shortDescription": "",
+        "moodType": 0
+      },
+      {
+        "level": 7,
+        "description": "パッシブスキル発動",
+        "type": 13,
+        "requiredItemAmount": 1,
+        "requiredCardLevel": 6,
+        "value": 7,
+        "skillId": "sk-race-lba-passive_skill-ef-cool_time_reduction-5",
+        "backgroundRankType": 3,
+        "shortDescription": "",
+        "moodType": 0
+      },
+      {
+        "level": 8,
+        "description": "パッシブスキル発動",
+        "type": 13,
+        "requiredItemAmount": 1,
+        "requiredCardLevel": 7,
+        "value": 8,
+        "skillId": "sk-race-lba-passive_skill-ef-cool_time_reduction-5",
+        "backgroundRankType": 3,
+        "shortDescription": "",
+        "moodType": 0
+      },
+      {
+        "level": 9,
+        "description": "パッシブスキル発動",
+        "type": 13,
+        "requiredItemAmount": 1,
+        "requiredCardLevel": 8,
+        "value": 9,
+        "skillId": "sk-race-lba-passive_skill-ef-cool_time_reduction-5",
+        "backgroundRankType": 3,
+        "shortDescription": "",
+        "moodType": 0
+      }
+    ],
+    "description": ""
+  },
+  {
     "id": "race-lba-passive_skill-ef-dance_up-1",
     "name": "バッファータイプ1人のダンスアップ",
     "levels": [
@@ -21726,6 +22078,121 @@
         "requiredCardLevel": 8,
         "value": 9,
         "skillId": "sk-race-lba-passive_skill-ef-dance_up-1",
+        "backgroundRankType": 3,
+        "shortDescription": "",
+        "moodType": 0
+      }
+    ],
+    "description": ""
+  },
+  {
+    "id": "race-lba-passive_skill-ef-dance_up-2",
+    "name": "サポータータイプ2人にダンス上昇効果",
+    "levels": [
+      {
+        "level": 1,
+        "description": "パッシブスキル発動",
+        "type": 13,
+        "value": 1,
+        "skillId": "sk-race-lba-passive_skill-ef-dance_up-2",
+        "backgroundRankType": 1,
+        "shortDescription": "",
+        "requiredItemAmount": 0,
+        "requiredCardLevel": 0,
+        "moodType": 0
+      },
+      {
+        "level": 2,
+        "description": "パッシブスキル発動",
+        "type": 13,
+        "requiredItemAmount": 1,
+        "requiredCardLevel": 1,
+        "value": 2,
+        "skillId": "sk-race-lba-passive_skill-ef-dance_up-2",
+        "backgroundRankType": 1,
+        "shortDescription": "",
+        "moodType": 0
+      },
+      {
+        "level": 3,
+        "description": "パッシブスキル発動",
+        "type": 13,
+        "requiredItemAmount": 1,
+        "requiredCardLevel": 2,
+        "value": 3,
+        "skillId": "sk-race-lba-passive_skill-ef-dance_up-2",
+        "backgroundRankType": 1,
+        "shortDescription": "",
+        "moodType": 0
+      },
+      {
+        "level": 4,
+        "description": "パッシブスキル発動",
+        "type": 13,
+        "requiredItemAmount": 1,
+        "requiredCardLevel": 3,
+        "value": 4,
+        "skillId": "sk-race-lba-passive_skill-ef-dance_up-2",
+        "backgroundRankType": 2,
+        "shortDescription": "",
+        "moodType": 0
+      },
+      {
+        "level": 5,
+        "description": "パッシブスキル発動",
+        "type": 13,
+        "requiredItemAmount": 1,
+        "requiredCardLevel": 4,
+        "value": 5,
+        "skillId": "sk-race-lba-passive_skill-ef-dance_up-2",
+        "backgroundRankType": 2,
+        "shortDescription": "",
+        "moodType": 0
+      },
+      {
+        "level": 6,
+        "description": "パッシブスキル発動",
+        "type": 13,
+        "requiredItemAmount": 1,
+        "requiredCardLevel": 5,
+        "value": 6,
+        "skillId": "sk-race-lba-passive_skill-ef-dance_up-2",
+        "backgroundRankType": 2,
+        "shortDescription": "",
+        "moodType": 0
+      },
+      {
+        "level": 7,
+        "description": "パッシブスキル発動",
+        "type": 13,
+        "requiredItemAmount": 1,
+        "requiredCardLevel": 6,
+        "value": 7,
+        "skillId": "sk-race-lba-passive_skill-ef-dance_up-2",
+        "backgroundRankType": 3,
+        "shortDescription": "",
+        "moodType": 0
+      },
+      {
+        "level": 8,
+        "description": "パッシブスキル発動",
+        "type": 13,
+        "requiredItemAmount": 1,
+        "requiredCardLevel": 7,
+        "value": 8,
+        "skillId": "sk-race-lba-passive_skill-ef-dance_up-2",
+        "backgroundRankType": 3,
+        "shortDescription": "",
+        "moodType": 0
+      },
+      {
+        "level": 9,
+        "description": "パッシブスキル発動",
+        "type": 13,
+        "requiredItemAmount": 1,
+        "requiredCardLevel": 8,
+        "value": 9,
+        "skillId": "sk-race-lba-passive_skill-ef-dance_up-2",
         "backgroundRankType": 3,
         "shortDescription": "",
         "moodType": 0
@@ -22906,6 +23373,121 @@
     "description": ""
   },
   {
+    "id": "race-lba-passive_skill-ef-skill_success_rate_up-3",
+    "name": "誰かが集目状態の時、ダンスタイプ2人にスキル成功率上昇効果",
+    "levels": [
+      {
+        "level": 1,
+        "description": "パッシブスキル発動",
+        "type": 13,
+        "value": 1,
+        "skillId": "sk-race-lba-passive_skill-ef-skill_success_rate_up-3",
+        "backgroundRankType": 1,
+        "shortDescription": "",
+        "requiredItemAmount": 0,
+        "requiredCardLevel": 0,
+        "moodType": 0
+      },
+      {
+        "level": 2,
+        "description": "パッシブスキル発動",
+        "type": 13,
+        "requiredItemAmount": 1,
+        "requiredCardLevel": 1,
+        "value": 2,
+        "skillId": "sk-race-lba-passive_skill-ef-skill_success_rate_up-3",
+        "backgroundRankType": 1,
+        "shortDescription": "",
+        "moodType": 0
+      },
+      {
+        "level": 3,
+        "description": "パッシブスキル発動",
+        "type": 13,
+        "requiredItemAmount": 1,
+        "requiredCardLevel": 2,
+        "value": 3,
+        "skillId": "sk-race-lba-passive_skill-ef-skill_success_rate_up-3",
+        "backgroundRankType": 1,
+        "shortDescription": "",
+        "moodType": 0
+      },
+      {
+        "level": 4,
+        "description": "パッシブスキル発動",
+        "type": 13,
+        "requiredItemAmount": 1,
+        "requiredCardLevel": 3,
+        "value": 4,
+        "skillId": "sk-race-lba-passive_skill-ef-skill_success_rate_up-3",
+        "backgroundRankType": 2,
+        "shortDescription": "",
+        "moodType": 0
+      },
+      {
+        "level": 5,
+        "description": "パッシブスキル発動",
+        "type": 13,
+        "requiredItemAmount": 1,
+        "requiredCardLevel": 4,
+        "value": 5,
+        "skillId": "sk-race-lba-passive_skill-ef-skill_success_rate_up-3",
+        "backgroundRankType": 2,
+        "shortDescription": "",
+        "moodType": 0
+      },
+      {
+        "level": 6,
+        "description": "パッシブスキル発動",
+        "type": 13,
+        "requiredItemAmount": 1,
+        "requiredCardLevel": 5,
+        "value": 6,
+        "skillId": "sk-race-lba-passive_skill-ef-skill_success_rate_up-3",
+        "backgroundRankType": 2,
+        "shortDescription": "",
+        "moodType": 0
+      },
+      {
+        "level": 7,
+        "description": "パッシブスキル発動",
+        "type": 13,
+        "requiredItemAmount": 1,
+        "requiredCardLevel": 6,
+        "value": 7,
+        "skillId": "sk-race-lba-passive_skill-ef-skill_success_rate_up-3",
+        "backgroundRankType": 3,
+        "shortDescription": "",
+        "moodType": 0
+      },
+      {
+        "level": 8,
+        "description": "パッシブスキル発動",
+        "type": 13,
+        "requiredItemAmount": 1,
+        "requiredCardLevel": 7,
+        "value": 8,
+        "skillId": "sk-race-lba-passive_skill-ef-skill_success_rate_up-3",
+        "backgroundRankType": 3,
+        "shortDescription": "",
+        "moodType": 0
+      },
+      {
+        "level": 9,
+        "description": "パッシブスキル発動",
+        "type": 13,
+        "requiredItemAmount": 1,
+        "requiredCardLevel": 8,
+        "value": 9,
+        "skillId": "sk-race-lba-passive_skill-ef-skill_success_rate_up-3",
+        "backgroundRankType": 3,
+        "shortDescription": "",
+        "moodType": 0
+      }
+    ],
+    "description": ""
+  },
+  {
     "id": "race-lba-passive_skill-ef-strength_effect_value_increase-1",
     "name": "50コンボ以上時、センターの強化効果増強",
     "levels": [
@@ -23358,6 +23940,121 @@
         "requiredCardLevel": 8,
         "value": 9,
         "skillId": "sk-race-lba-passive_skill-ef-visual_up-1",
+        "backgroundRankType": 3,
+        "shortDescription": "",
+        "moodType": 0
+      }
+    ],
+    "description": ""
+  },
+  {
+    "id": "race-lba-passive_skill-ef-visual_up-2",
+    "name": "80コンボ以上時、スコアラータイプ2人にビジュアル上昇効果",
+    "levels": [
+      {
+        "level": 1,
+        "description": "パッシブスキル発動",
+        "type": 13,
+        "value": 1,
+        "skillId": "sk-race-lba-passive_skill-ef-visual_up-2",
+        "backgroundRankType": 1,
+        "shortDescription": "",
+        "requiredItemAmount": 0,
+        "requiredCardLevel": 0,
+        "moodType": 0
+      },
+      {
+        "level": 2,
+        "description": "パッシブスキル発動",
+        "type": 13,
+        "requiredItemAmount": 1,
+        "requiredCardLevel": 1,
+        "value": 2,
+        "skillId": "sk-race-lba-passive_skill-ef-visual_up-2",
+        "backgroundRankType": 1,
+        "shortDescription": "",
+        "moodType": 0
+      },
+      {
+        "level": 3,
+        "description": "パッシブスキル発動",
+        "type": 13,
+        "requiredItemAmount": 1,
+        "requiredCardLevel": 2,
+        "value": 3,
+        "skillId": "sk-race-lba-passive_skill-ef-visual_up-2",
+        "backgroundRankType": 1,
+        "shortDescription": "",
+        "moodType": 0
+      },
+      {
+        "level": 4,
+        "description": "パッシブスキル発動",
+        "type": 13,
+        "requiredItemAmount": 1,
+        "requiredCardLevel": 3,
+        "value": 4,
+        "skillId": "sk-race-lba-passive_skill-ef-visual_up-2",
+        "backgroundRankType": 2,
+        "shortDescription": "",
+        "moodType": 0
+      },
+      {
+        "level": 5,
+        "description": "パッシブスキル発動",
+        "type": 13,
+        "requiredItemAmount": 1,
+        "requiredCardLevel": 4,
+        "value": 5,
+        "skillId": "sk-race-lba-passive_skill-ef-visual_up-2",
+        "backgroundRankType": 2,
+        "shortDescription": "",
+        "moodType": 0
+      },
+      {
+        "level": 6,
+        "description": "パッシブスキル発動",
+        "type": 13,
+        "requiredItemAmount": 1,
+        "requiredCardLevel": 5,
+        "value": 6,
+        "skillId": "sk-race-lba-passive_skill-ef-visual_up-2",
+        "backgroundRankType": 2,
+        "shortDescription": "",
+        "moodType": 0
+      },
+      {
+        "level": 7,
+        "description": "パッシブスキル発動",
+        "type": 13,
+        "requiredItemAmount": 1,
+        "requiredCardLevel": 6,
+        "value": 7,
+        "skillId": "sk-race-lba-passive_skill-ef-visual_up-2",
+        "backgroundRankType": 3,
+        "shortDescription": "",
+        "moodType": 0
+      },
+      {
+        "level": 8,
+        "description": "パッシブスキル発動",
+        "type": 13,
+        "requiredItemAmount": 1,
+        "requiredCardLevel": 7,
+        "value": 8,
+        "skillId": "sk-race-lba-passive_skill-ef-visual_up-2",
+        "backgroundRankType": 3,
+        "shortDescription": "",
+        "moodType": 0
+      },
+      {
+        "level": 9,
+        "description": "パッシブスキル発動",
+        "type": 13,
+        "requiredItemAmount": 1,
+        "requiredCardLevel": 8,
+        "value": 9,
+        "skillId": "sk-race-lba-passive_skill-ef-visual_up-2",
         "backgroundRankType": 3,
         "shortDescription": "",
         "moodType": 0

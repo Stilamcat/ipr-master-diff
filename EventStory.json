@@ -1130,6 +1130,31 @@
     "description": "きょうえん！HTT＆HMA～放課後ティータイム＆星見アンバサダー～",
     "order": 230428,
     "viewConditionId": "cd-event-story-23-0428",
-    "episodes": []
+    "episodes": [
+      {
+        "episode": 1,
+        "assetId": "event_2305_01_01",
+        "storyId": "st-eve-2305-race-001",
+        "unlockConditionId": "cd-event-race-23-0428-close",
+        "viewConditionId": "",
+        "isAppeal": false
+      },
+      {
+        "episode": 2,
+        "assetId": "event_2305_01_02",
+        "storyId": "st-eve-2305-race-002",
+        "unlockConditionId": "cd-event-race-23-0428-close",
+        "viewConditionId": "",
+        "isAppeal": false
+      },
+      {
+        "episode": 3,
+        "assetId": "event_2305_01_03",
+        "storyId": "st-eve-2305-race-003",
+        "unlockConditionId": "cd-event-race-23-0428-close",
+        "viewConditionId": "",
+        "isAppeal": false
+      }
+    ]
   }
 ]

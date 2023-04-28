@@ -3,10 +3,10 @@
     "id": "ex-st-part-limited-01",
     "assetId": "main-01",
     "name": "東京編1章",
-    "order": 4,
+    "order": 10,
     "type": 2,
-    "viewConditionId": "cd-ex-st-part-limited-01-open-230226",
-    "unlockConditionId": "cd-ex-st-part-limited-01-open-230226",
+    "viewConditionId": "cd-ex-st-part-limited-01-open-230428",
+    "unlockConditionId": "cd-ex-st-part-limited-01-open-230428",
     "extraStoryIds": [
       "ex-st-part-limited-01-01"
     ],
@@ -17,10 +17,10 @@
     "id": "ex-st-part-limited-02",
     "assetId": "main-01",
     "name": "東京編2章",
-    "order": 5,
+    "order": 11,
     "type": 2,
-    "viewConditionId": "cd-ex-st-part-limited-01-open-230226-01",
-    "unlockConditionId": "cd-ex-st-part-limited-01-open-230226-01",
+    "viewConditionId": "cd-ex-st-part-limited-01-open-230428",
+    "unlockConditionId": "cd-ex-st-part-limited-01-open-230428",
     "extraStoryIds": [
       "ex-st-part-limited-02-01"
     ],
@@ -31,10 +31,10 @@
     "id": "ex-st-part-limited-03",
     "assetId": "main-02",
     "name": "BIG4編1章",
-    "order": 6,
+    "order": 12,
     "type": 2,
-    "viewConditionId": "cd-ex-st-part-limited-01-open-230318-05",
-    "unlockConditionId": "cd-ex-st-part-limited-01-open-230318-05",
+    "viewConditionId": "cd-ex-st-part-limited-01-open-230428",
+    "unlockConditionId": "cd-ex-st-part-limited-01-open-230428",
     "extraStoryIds": [
       "ex-st-part-limited-03-01"
     ],
@@ -42,15 +42,57 @@
     "noteText": ""
   },
   {
-    "id": "ex-st-part-limited-05",
-    "assetId": "limited-5",
-    "name": "長瀬麻奈1章",
-    "order": 3,
+    "id": "ex-st-part-limited-04",
+    "assetId": "original-01",
+    "name": "星見編1章",
+    "order": 6,
     "type": 2,
-    "viewConditionId": "cd-ex-st-part-limited-01-open-230324",
-    "unlockConditionId": "cd-ex-st-part-limited-01-open-230324",
+    "viewConditionId": "cd-ex-st-part-limited-01-open-230428",
+    "unlockConditionId": "cd-ex-st-part-limited-01-open-230428",
+    "extraStoryIds": [
+      "ex-st-part-limited-04-01"
+    ],
+    "subTitle": "",
+    "noteText": ""
+  },
+  {
+    "id": "ex-st-part-limited-05",
+    "assetId": "original-01",
+    "name": "星見編2章",
+    "order": 7,
+    "type": 2,
+    "viewConditionId": "cd-ex-st-part-limited-01-open-230428",
+    "unlockConditionId": "cd-ex-st-part-limited-01-open-230428",
     "extraStoryIds": [
       "ex-st-part-limited-05-01"
+    ],
+    "subTitle": "",
+    "noteText": ""
+  },
+  {
+    "id": "ex-st-part-limited-06",
+    "assetId": "original-01",
+    "name": "星見編3章",
+    "order": 8,
+    "type": 2,
+    "viewConditionId": "cd-ex-st-part-limited-01-open-230428",
+    "unlockConditionId": "cd-ex-st-part-limited-01-open-230428",
+    "extraStoryIds": [
+      "ex-st-part-limited-06-01"
+    ],
+    "subTitle": "",
+    "noteText": ""
+  },
+  {
+    "id": "ex-st-part-limited-07",
+    "assetId": "original-01",
+    "name": "星見編4章",
+    "order": 9,
+    "type": 2,
+    "viewConditionId": "cd-ex-st-part-limited-01-open-230428",
+    "unlockConditionId": "cd-ex-st-part-limited-01-open-230428",
+    "extraStoryIds": [
+      "ex-st-part-limited-07-01"
     ],
     "subTitle": "",
     "noteText": ""

@@ -1316,6 +1316,56 @@
     ]
   },
   {
+    "homeTalkId": "home-talk-card-kkr-05-kion-00-talk-01",
+    "characterId": "char-kkr",
+    "placeType": 1,
+    "conditionId": "cd-st-read-st-card-kkr-05-kion-00-03",
+    "firstPriority": 9900,
+    "weight": 1,
+    "callPatternId": "call-pattern-card-kkr-05-kion-00",
+    "choiceText": "予想がつかないなぁ",
+    "managerText": "予想がつかないなぁ",
+    "reliability": 5,
+    "characterTalks": [
+      {
+        "text": "こころと愛ちゃんはもうお話し\nしてるから分かりますけど、\n莉央さんと葵さんがどうなるやら。",
+        "voiceAssetId": "sud_vo_home_kkr-05-kion-00_talk-01-01",
+        "motionAssetId": "mot_adv_chr_cmn_think-001_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "葵さんはポーカーフェイスのわりに\n意外と話してくれますし、\n打ち解けるのは早いかもですね～。",
+        "voiceAssetId": "sud_vo_home_kkr-05-kion-00_talk-01-02",
+        "motionAssetId": "mot_adv_chr_cmn_glad-009_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "莉央さんは…なんせ見た目があの\nかっこ良さなので、大人の女性\nとしてチヤホヤされそうです！",
+        "voiceAssetId": "sud_vo_home_kkr-05-kion-00_talk-01-03",
+        "motionAssetId": "mot_adv_chr_cmn_pos-018_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "HTTのみなさんにジッと\n見られてひそかに照れるのが\n目に浮かびますね～。",
+        "voiceAssetId": "sud_vo_home_kkr-05-kion-00_talk-01-04",
+        "motionAssetId": "mot_adv_chr_cmn_glad-010_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "……おや、おやおや？\nこれはひょっとしなくても、\nかなり楽しい会になるのでは？",
+        "voiceAssetId": "sud_vo_home_kkr-05-kion-00_talk-01-05",
+        "motionAssetId": "mot_adv_chr_cmn_talk-003_in",
+        "additionMotionAssetId": "mot_all_chr_cmn_facial-037_in"
+      },
+      {
+        "text": "リズノワが柔軟性を身につける\nためにも…ぜひ合同お茶会を\nセッティングしないとですね！",
+        "voiceAssetId": "sud_vo_home_kkr-05-kion-00_talk-01-06",
+        "motionAssetId": "mot_adv_chr_cmn_pos-002_in",
+        "additionMotionAssetId": ""
+      }
+    ]
+  },
+  {
     "homeTalkId": "home-talk-card-kkr-05-mizg-01-talk-01",
     "characterId": "char-kkr",
     "placeType": 1,
@@ -4575,6 +4625,56 @@
         "text": "…わかってるならいいですわ。\nこれからもよろしくお願いします\nわね。",
         "voiceAssetId": "sud_vo_home_suz-05-idol-00_talk-01-5",
         "motionAssetId": "mot_adv_chr_cmn_moji-001_in",
+        "additionMotionAssetId": ""
+      }
+    ]
+  },
+  {
+    "homeTalkId": "home-talk-card-suz-05-kion-00-talk-01",
+    "characterId": "char-suz",
+    "placeType": 1,
+    "conditionId": "cd-st-read-st-card-suz-05-kion-00-03",
+    "firstPriority": 9900,
+    "weight": 1,
+    "callPatternId": "call-pattern-card-suz-05-kion-00",
+    "choiceText": "文化祭のステージか…\nきっと盛り上がったんだろうな。",
+    "managerText": "文化祭のステージか…\nきっと盛り上がったんだろうな。",
+    "reliability": 5,
+    "characterTalks": [
+      {
+        "text": "とても素晴らしい演奏で\nステージで歌う彼女達が\n眩しく輝いて見えました。",
+        "voiceAssetId": "sud_vo_home_suz-05-kion-00_talk-01-01",
+        "motionAssetId": "mot_adv_chr_cmn_think-003_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "こういう青春も素敵だと\n部活動をしていない私は\n素直に感動してしまいましたわ。",
+        "voiceAssetId": "sud_vo_home_suz-05-kion-00_talk-01-02",
+        "motionAssetId": "mot_adv_chr_cmn_pos-009_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "あ、誤解しないでくださいまし。\n感動はしましたが、部活動で青春\nしたくなった訳ではありません。",
+        "voiceAssetId": "sud_vo_home_suz-05-kion-00_talk-01-03",
+        "motionAssetId": "mot_adv_chr_cmn_talk-011_in",
+        "additionMotionAssetId": "mot_all_chr_cmn_facial-048_in"
+      },
+      {
+        "text": "部活動に負けないくらい\n今の私は青春を\n謳歌していますから。",
+        "voiceAssetId": "sud_vo_home_suz-05-kion-00_talk-01-04",
+        "motionAssetId": "mot_adv_chr_cmn_glad-002_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "星見プロの仲間と一緒に\nアイドルとして過ごす時間…\nそれが私の青春なのですわ。",
+        "voiceAssetId": "sud_vo_home_suz-05-kion-00_talk-01-05",
+        "motionAssetId": "mot_adv_chr_cmn_pos-010_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "想いや夢の形は人それぞれ…\n軽音部もアイドルも、みんな等しく\n素晴らしい青春なのですわ。",
+        "voiceAssetId": "sud_vo_home_suz-05-kion-00_talk-01-06",
+        "motionAssetId": "mot_adv_chr_cmn_pos-017_in",
         "additionMotionAssetId": ""
       }
     ]

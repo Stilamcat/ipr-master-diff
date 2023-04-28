@@ -17644,6 +17644,120 @@
     "statusEffectType": 0
   },
   {
+    "id": "pab-mental_add_recipe_distribution-5",
+    "name": "メンタル",
+    "description": "メンタルが固定値で上昇します",
+    "abilityType": 9,
+    "photoAbilityLevels": [
+      {
+        "level": 140,
+        "value": 1563
+      },
+      {
+        "level": 145,
+        "value": 1680
+      },
+      {
+        "level": 150,
+        "value": 1803
+      },
+      {
+        "level": 155,
+        "value": 1925
+      },
+      {
+        "level": 160,
+        "value": 2048
+      },
+      {
+        "level": 165,
+        "value": 2171
+      },
+      {
+        "level": 170,
+        "value": 2293
+      },
+      {
+        "level": 175,
+        "value": 2416
+      },
+      {
+        "level": 180,
+        "value": 2539
+      },
+      {
+        "level": 185,
+        "value": 2661
+      },
+      {
+        "level": 190,
+        "value": 2784
+      },
+      {
+        "level": 195,
+        "value": 2907
+      },
+      {
+        "level": 200,
+        "value": 3030
+      },
+      {
+        "level": 205,
+        "value": 3152
+      },
+      {
+        "level": 210,
+        "value": 3275
+      },
+      {
+        "level": 215,
+        "value": 3397
+      },
+      {
+        "level": 220,
+        "value": 3520
+      },
+      {
+        "level": 225,
+        "value": 3642
+      },
+      {
+        "level": 230,
+        "value": 3765
+      },
+      {
+        "level": 235,
+        "value": 3887
+      },
+      {
+        "level": 240,
+        "value": 4010
+      },
+      {
+        "level": 245,
+        "value": 4133
+      },
+      {
+        "level": 250,
+        "value": 4256
+      }
+    ],
+    "photoAbilityGrades": [
+      {
+        "grade": 1,
+        "bonusPermil": 1000,
+        "type": 1,
+        "bonusValue": 0
+      }
+    ],
+    "moodType": 0,
+    "skillId": "",
+    "abilityTargetId": "",
+    "conditionCardType": 0,
+    "conditionLiveType": 0,
+    "statusEffectType": 0
+  },
+  {
     "id": "pab-passive-skill_sk-phot-ai-idol-00",
     "name": "AスキルUPスキル",
     "description": "自身がダンスup状態の場合、Aスキルスコアアップ",
@@ -19402,6 +19516,1096 @@
       },
       {
         "level": 200,
+        "value": 5
+      }
+    ],
+    "photoAbilityGrades": [
+      {
+        "grade": 1,
+        "bonusPermil": 1000,
+        "type": 3,
+        "bonusValue": 0
+      }
+    ],
+    "moodType": 0,
+    "abilityTargetId": "",
+    "conditionCardType": 0,
+    "conditionLiveType": 0,
+    "statusEffectType": 0
+  },
+  {
+    "id": "pab-passive-skill_sk-phot-clb-mission-2304-01",
+    "name": "けいおん！曲限定スキル1",
+    "description": "Don't say \"lazy\"プレイ時、全員にビジュアル上昇効果",
+    "abilityType": 13,
+    "skillId": "passive-skill_sk-phot-clb-mission-2304-01",
+    "photoAbilityLevels": [
+      {
+        "level": 10,
+        "value": 1
+      },
+      {
+        "level": 15,
+        "value": 1
+      },
+      {
+        "level": 20,
+        "value": 1
+      },
+      {
+        "level": 25,
+        "value": 1
+      },
+      {
+        "level": 30,
+        "value": 1
+      },
+      {
+        "level": 35,
+        "value": 1
+      },
+      {
+        "level": 40,
+        "value": 1
+      },
+      {
+        "level": 45,
+        "value": 1
+      },
+      {
+        "level": 50,
+        "value": 1
+      },
+      {
+        "level": 55,
+        "value": 1
+      },
+      {
+        "level": 60,
+        "value": 1
+      },
+      {
+        "level": 65,
+        "value": 1
+      },
+      {
+        "level": 70,
+        "value": 1
+      },
+      {
+        "level": 75,
+        "value": 1
+      },
+      {
+        "level": 80,
+        "value": 1
+      },
+      {
+        "level": 85,
+        "value": 1
+      },
+      {
+        "level": 90,
+        "value": 1
+      },
+      {
+        "level": 95,
+        "value": 1
+      },
+      {
+        "level": 100,
+        "value": 1
+      },
+      {
+        "level": 105,
+        "value": 1
+      },
+      {
+        "level": 110,
+        "value": 2
+      },
+      {
+        "level": 115,
+        "value": 2
+      },
+      {
+        "level": 120,
+        "value": 2
+      },
+      {
+        "level": 125,
+        "value": 2
+      },
+      {
+        "level": 130,
+        "value": 2
+      },
+      {
+        "level": 135,
+        "value": 3
+      },
+      {
+        "level": 140,
+        "value": 3
+      },
+      {
+        "level": 145,
+        "value": 3
+      },
+      {
+        "level": 150,
+        "value": 3
+      },
+      {
+        "level": 155,
+        "value": 4
+      },
+      {
+        "level": 160,
+        "value": 4
+      },
+      {
+        "level": 165,
+        "value": 4
+      },
+      {
+        "level": 170,
+        "value": 4
+      },
+      {
+        "level": 175,
+        "value": 5
+      },
+      {
+        "level": 180,
+        "value": 5
+      },
+      {
+        "level": 185,
+        "value": 5
+      },
+      {
+        "level": 190,
+        "value": 5
+      },
+      {
+        "level": 195,
+        "value": 5
+      },
+      {
+        "level": 200,
+        "value": 5
+      },
+      {
+        "level": 205,
+        "value": 5
+      },
+      {
+        "level": 210,
+        "value": 5
+      },
+      {
+        "level": 215,
+        "value": 5
+      },
+      {
+        "level": 220,
+        "value": 5
+      },
+      {
+        "level": 225,
+        "value": 5
+      },
+      {
+        "level": 230,
+        "value": 5
+      },
+      {
+        "level": 235,
+        "value": 5
+      },
+      {
+        "level": 240,
+        "value": 5
+      },
+      {
+        "level": 245,
+        "value": 5
+      },
+      {
+        "level": 250,
+        "value": 5
+      }
+    ],
+    "photoAbilityGrades": [
+      {
+        "grade": 1,
+        "bonusPermil": 1000,
+        "type": 3,
+        "bonusValue": 0
+      }
+    ],
+    "moodType": 0,
+    "abilityTargetId": "",
+    "conditionCardType": 0,
+    "conditionLiveType": 0,
+    "statusEffectType": 0
+  },
+  {
+    "id": "pab-passive-skill_sk-phot-clb-mission-2304-02",
+    "name": "けいおん！曲限定スキル2",
+    "description": "Don't say \"lazy\"プレイ時、全員にダンス上昇効果",
+    "abilityType": 13,
+    "skillId": "passive-skill_sk-phot-clb-mission-2304-02",
+    "photoAbilityLevels": [
+      {
+        "level": 10,
+        "value": 1
+      },
+      {
+        "level": 15,
+        "value": 1
+      },
+      {
+        "level": 20,
+        "value": 1
+      },
+      {
+        "level": 25,
+        "value": 1
+      },
+      {
+        "level": 30,
+        "value": 1
+      },
+      {
+        "level": 35,
+        "value": 1
+      },
+      {
+        "level": 40,
+        "value": 1
+      },
+      {
+        "level": 45,
+        "value": 1
+      },
+      {
+        "level": 50,
+        "value": 1
+      },
+      {
+        "level": 55,
+        "value": 1
+      },
+      {
+        "level": 60,
+        "value": 1
+      },
+      {
+        "level": 65,
+        "value": 1
+      },
+      {
+        "level": 70,
+        "value": 1
+      },
+      {
+        "level": 75,
+        "value": 1
+      },
+      {
+        "level": 80,
+        "value": 1
+      },
+      {
+        "level": 85,
+        "value": 1
+      },
+      {
+        "level": 90,
+        "value": 1
+      },
+      {
+        "level": 95,
+        "value": 1
+      },
+      {
+        "level": 100,
+        "value": 1
+      },
+      {
+        "level": 105,
+        "value": 1
+      },
+      {
+        "level": 110,
+        "value": 2
+      },
+      {
+        "level": 115,
+        "value": 2
+      },
+      {
+        "level": 120,
+        "value": 2
+      },
+      {
+        "level": 125,
+        "value": 2
+      },
+      {
+        "level": 130,
+        "value": 2
+      },
+      {
+        "level": 135,
+        "value": 3
+      },
+      {
+        "level": 140,
+        "value": 3
+      },
+      {
+        "level": 145,
+        "value": 3
+      },
+      {
+        "level": 150,
+        "value": 3
+      },
+      {
+        "level": 155,
+        "value": 4
+      },
+      {
+        "level": 160,
+        "value": 4
+      },
+      {
+        "level": 165,
+        "value": 4
+      },
+      {
+        "level": 170,
+        "value": 4
+      },
+      {
+        "level": 175,
+        "value": 5
+      },
+      {
+        "level": 180,
+        "value": 5
+      },
+      {
+        "level": 185,
+        "value": 5
+      },
+      {
+        "level": 190,
+        "value": 5
+      },
+      {
+        "level": 195,
+        "value": 5
+      },
+      {
+        "level": 200,
+        "value": 5
+      },
+      {
+        "level": 205,
+        "value": 5
+      },
+      {
+        "level": 210,
+        "value": 5
+      },
+      {
+        "level": 215,
+        "value": 5
+      },
+      {
+        "level": 220,
+        "value": 5
+      },
+      {
+        "level": 225,
+        "value": 5
+      },
+      {
+        "level": 230,
+        "value": 5
+      },
+      {
+        "level": 235,
+        "value": 5
+      },
+      {
+        "level": 240,
+        "value": 5
+      },
+      {
+        "level": 245,
+        "value": 5
+      },
+      {
+        "level": 250,
+        "value": 5
+      }
+    ],
+    "photoAbilityGrades": [
+      {
+        "grade": 1,
+        "bonusPermil": 1000,
+        "type": 3,
+        "bonusValue": 0
+      }
+    ],
+    "moodType": 0,
+    "abilityTargetId": "",
+    "conditionCardType": 0,
+    "conditionLiveType": 0,
+    "statusEffectType": 0
+  },
+  {
+    "id": "pab-passive-skill_sk-phot-clb-mission-2304-03",
+    "name": "けいおん！曲限定スキル3",
+    "description": "Don't say \"lazy\"プレイ時、全員にスキル成功率上昇効果",
+    "abilityType": 13,
+    "skillId": "passive-skill_sk-phot-clb-mission-2304-03",
+    "photoAbilityLevels": [
+      {
+        "level": 10,
+        "value": 1
+      },
+      {
+        "level": 15,
+        "value": 1
+      },
+      {
+        "level": 20,
+        "value": 1
+      },
+      {
+        "level": 25,
+        "value": 1
+      },
+      {
+        "level": 30,
+        "value": 1
+      },
+      {
+        "level": 35,
+        "value": 1
+      },
+      {
+        "level": 40,
+        "value": 1
+      },
+      {
+        "level": 45,
+        "value": 1
+      },
+      {
+        "level": 50,
+        "value": 1
+      },
+      {
+        "level": 55,
+        "value": 1
+      },
+      {
+        "level": 60,
+        "value": 1
+      },
+      {
+        "level": 65,
+        "value": 1
+      },
+      {
+        "level": 70,
+        "value": 1
+      },
+      {
+        "level": 75,
+        "value": 1
+      },
+      {
+        "level": 80,
+        "value": 1
+      },
+      {
+        "level": 85,
+        "value": 1
+      },
+      {
+        "level": 90,
+        "value": 1
+      },
+      {
+        "level": 95,
+        "value": 1
+      },
+      {
+        "level": 100,
+        "value": 1
+      },
+      {
+        "level": 105,
+        "value": 1
+      },
+      {
+        "level": 110,
+        "value": 2
+      },
+      {
+        "level": 115,
+        "value": 2
+      },
+      {
+        "level": 120,
+        "value": 2
+      },
+      {
+        "level": 125,
+        "value": 2
+      },
+      {
+        "level": 130,
+        "value": 2
+      },
+      {
+        "level": 135,
+        "value": 3
+      },
+      {
+        "level": 140,
+        "value": 3
+      },
+      {
+        "level": 145,
+        "value": 3
+      },
+      {
+        "level": 150,
+        "value": 3
+      },
+      {
+        "level": 155,
+        "value": 4
+      },
+      {
+        "level": 160,
+        "value": 4
+      },
+      {
+        "level": 165,
+        "value": 4
+      },
+      {
+        "level": 170,
+        "value": 4
+      },
+      {
+        "level": 175,
+        "value": 5
+      },
+      {
+        "level": 180,
+        "value": 5
+      },
+      {
+        "level": 185,
+        "value": 5
+      },
+      {
+        "level": 190,
+        "value": 5
+      },
+      {
+        "level": 195,
+        "value": 5
+      },
+      {
+        "level": 200,
+        "value": 5
+      },
+      {
+        "level": 205,
+        "value": 5
+      },
+      {
+        "level": 210,
+        "value": 5
+      },
+      {
+        "level": 215,
+        "value": 5
+      },
+      {
+        "level": 220,
+        "value": 5
+      },
+      {
+        "level": 225,
+        "value": 5
+      },
+      {
+        "level": 230,
+        "value": 5
+      },
+      {
+        "level": 235,
+        "value": 5
+      },
+      {
+        "level": 240,
+        "value": 5
+      },
+      {
+        "level": 245,
+        "value": 5
+      },
+      {
+        "level": 250,
+        "value": 5
+      }
+    ],
+    "photoAbilityGrades": [
+      {
+        "grade": 1,
+        "bonusPermil": 1000,
+        "type": 3,
+        "bonusValue": 0
+      }
+    ],
+    "moodType": 0,
+    "abilityTargetId": "",
+    "conditionCardType": 0,
+    "conditionLiveType": 0,
+    "statusEffectType": 0
+  },
+  {
+    "id": "pab-passive-skill_sk-phot-clb-mission-2304-04",
+    "name": "けいおん！曲限定スキル4",
+    "description": "Don't say \"lazy\"プレイ時、全員にボーカル上昇効果",
+    "abilityType": 13,
+    "skillId": "passive-skill_sk-phot-clb-mission-2304-04",
+    "photoAbilityLevels": [
+      {
+        "level": 10,
+        "value": 1
+      },
+      {
+        "level": 15,
+        "value": 1
+      },
+      {
+        "level": 20,
+        "value": 1
+      },
+      {
+        "level": 25,
+        "value": 1
+      },
+      {
+        "level": 30,
+        "value": 1
+      },
+      {
+        "level": 35,
+        "value": 1
+      },
+      {
+        "level": 40,
+        "value": 1
+      },
+      {
+        "level": 45,
+        "value": 1
+      },
+      {
+        "level": 50,
+        "value": 1
+      },
+      {
+        "level": 55,
+        "value": 1
+      },
+      {
+        "level": 60,
+        "value": 1
+      },
+      {
+        "level": 65,
+        "value": 1
+      },
+      {
+        "level": 70,
+        "value": 1
+      },
+      {
+        "level": 75,
+        "value": 1
+      },
+      {
+        "level": 80,
+        "value": 1
+      },
+      {
+        "level": 85,
+        "value": 1
+      },
+      {
+        "level": 90,
+        "value": 1
+      },
+      {
+        "level": 95,
+        "value": 1
+      },
+      {
+        "level": 100,
+        "value": 1
+      },
+      {
+        "level": 105,
+        "value": 1
+      },
+      {
+        "level": 110,
+        "value": 2
+      },
+      {
+        "level": 115,
+        "value": 2
+      },
+      {
+        "level": 120,
+        "value": 2
+      },
+      {
+        "level": 125,
+        "value": 2
+      },
+      {
+        "level": 130,
+        "value": 2
+      },
+      {
+        "level": 135,
+        "value": 3
+      },
+      {
+        "level": 140,
+        "value": 3
+      },
+      {
+        "level": 145,
+        "value": 3
+      },
+      {
+        "level": 150,
+        "value": 3
+      },
+      {
+        "level": 155,
+        "value": 4
+      },
+      {
+        "level": 160,
+        "value": 4
+      },
+      {
+        "level": 165,
+        "value": 4
+      },
+      {
+        "level": 170,
+        "value": 4
+      },
+      {
+        "level": 175,
+        "value": 5
+      },
+      {
+        "level": 180,
+        "value": 5
+      },
+      {
+        "level": 185,
+        "value": 5
+      },
+      {
+        "level": 190,
+        "value": 5
+      },
+      {
+        "level": 195,
+        "value": 5
+      },
+      {
+        "level": 200,
+        "value": 5
+      },
+      {
+        "level": 205,
+        "value": 5
+      },
+      {
+        "level": 210,
+        "value": 5
+      },
+      {
+        "level": 215,
+        "value": 5
+      },
+      {
+        "level": 220,
+        "value": 5
+      },
+      {
+        "level": 225,
+        "value": 5
+      },
+      {
+        "level": 230,
+        "value": 5
+      },
+      {
+        "level": 235,
+        "value": 5
+      },
+      {
+        "level": 240,
+        "value": 5
+      },
+      {
+        "level": 245,
+        "value": 5
+      },
+      {
+        "level": 250,
+        "value": 5
+      }
+    ],
+    "photoAbilityGrades": [
+      {
+        "grade": 1,
+        "bonusPermil": 1000,
+        "type": 3,
+        "bonusValue": 0
+      }
+    ],
+    "moodType": 0,
+    "abilityTargetId": "",
+    "conditionCardType": 0,
+    "conditionLiveType": 0,
+    "statusEffectType": 0
+  },
+  {
+    "id": "pab-passive-skill_sk-phot-clb-mission-2304-05",
+    "name": "けいおん！曲限定スキル5",
+    "description": "Don't say \"lazy\"プレイ時、全員にスコア上昇効果",
+    "abilityType": 13,
+    "skillId": "passive-skill_sk-phot-clb-mission-2304-05",
+    "photoAbilityLevels": [
+      {
+        "level": 10,
+        "value": 1
+      },
+      {
+        "level": 15,
+        "value": 1
+      },
+      {
+        "level": 20,
+        "value": 1
+      },
+      {
+        "level": 25,
+        "value": 1
+      },
+      {
+        "level": 30,
+        "value": 1
+      },
+      {
+        "level": 35,
+        "value": 1
+      },
+      {
+        "level": 40,
+        "value": 1
+      },
+      {
+        "level": 45,
+        "value": 1
+      },
+      {
+        "level": 50,
+        "value": 1
+      },
+      {
+        "level": 55,
+        "value": 1
+      },
+      {
+        "level": 60,
+        "value": 1
+      },
+      {
+        "level": 65,
+        "value": 1
+      },
+      {
+        "level": 70,
+        "value": 1
+      },
+      {
+        "level": 75,
+        "value": 1
+      },
+      {
+        "level": 80,
+        "value": 1
+      },
+      {
+        "level": 85,
+        "value": 1
+      },
+      {
+        "level": 90,
+        "value": 1
+      },
+      {
+        "level": 95,
+        "value": 1
+      },
+      {
+        "level": 100,
+        "value": 1
+      },
+      {
+        "level": 105,
+        "value": 1
+      },
+      {
+        "level": 110,
+        "value": 2
+      },
+      {
+        "level": 115,
+        "value": 2
+      },
+      {
+        "level": 120,
+        "value": 2
+      },
+      {
+        "level": 125,
+        "value": 2
+      },
+      {
+        "level": 130,
+        "value": 2
+      },
+      {
+        "level": 135,
+        "value": 3
+      },
+      {
+        "level": 140,
+        "value": 3
+      },
+      {
+        "level": 145,
+        "value": 3
+      },
+      {
+        "level": 150,
+        "value": 3
+      },
+      {
+        "level": 155,
+        "value": 4
+      },
+      {
+        "level": 160,
+        "value": 4
+      },
+      {
+        "level": 165,
+        "value": 4
+      },
+      {
+        "level": 170,
+        "value": 4
+      },
+      {
+        "level": 175,
+        "value": 5
+      },
+      {
+        "level": 180,
+        "value": 5
+      },
+      {
+        "level": 185,
+        "value": 5
+      },
+      {
+        "level": 190,
+        "value": 5
+      },
+      {
+        "level": 195,
+        "value": 5
+      },
+      {
+        "level": 200,
+        "value": 5
+      },
+      {
+        "level": 205,
+        "value": 5
+      },
+      {
+        "level": 210,
+        "value": 5
+      },
+      {
+        "level": 215,
+        "value": 5
+      },
+      {
+        "level": 220,
+        "value": 5
+      },
+      {
+        "level": 225,
+        "value": 5
+      },
+      {
+        "level": 230,
+        "value": 5
+      },
+      {
+        "level": 235,
+        "value": 5
+      },
+      {
+        "level": 240,
+        "value": 5
+      },
+      {
+        "level": 245,
+        "value": 5
+      },
+      {
+        "level": 250,
         "value": 5
       }
     ],
@@ -27412,6 +28616,120 @@
     "statusEffectType": 0
   },
   {
+    "id": "pab-passive_skill-sk-photo-recipe-exchange_race-23-0428-5-rare-001_recipe_distribution-5-cd-support",
+    "name": "AスコアUP",
+    "description": "<サポータータイプのみ> ダンスタイプ3人にAスキルスコア上昇効果",
+    "abilityType": 13,
+    "skillId": "sk-photo-recipe-exchange_race-23-0428-5-rare-001",
+    "photoAbilityLevels": [
+      {
+        "level": 140,
+        "value": 3
+      },
+      {
+        "level": 145,
+        "value": 3
+      },
+      {
+        "level": 150,
+        "value": 3
+      },
+      {
+        "level": 155,
+        "value": 4
+      },
+      {
+        "level": 160,
+        "value": 4
+      },
+      {
+        "level": 165,
+        "value": 4
+      },
+      {
+        "level": 170,
+        "value": 4
+      },
+      {
+        "level": 175,
+        "value": 5
+      },
+      {
+        "level": 180,
+        "value": 5
+      },
+      {
+        "level": 185,
+        "value": 5
+      },
+      {
+        "level": 190,
+        "value": 5
+      },
+      {
+        "level": 195,
+        "value": 5
+      },
+      {
+        "level": 200,
+        "value": 5
+      },
+      {
+        "level": 205,
+        "value": 5
+      },
+      {
+        "level": 210,
+        "value": 5
+      },
+      {
+        "level": 215,
+        "value": 5
+      },
+      {
+        "level": 220,
+        "value": 5
+      },
+      {
+        "level": 225,
+        "value": 5
+      },
+      {
+        "level": 230,
+        "value": 5
+      },
+      {
+        "level": 235,
+        "value": 5
+      },
+      {
+        "level": 240,
+        "value": 5
+      },
+      {
+        "level": 245,
+        "value": 5
+      },
+      {
+        "level": 250,
+        "value": 5
+      }
+    ],
+    "photoAbilityGrades": [
+      {
+        "grade": 1,
+        "bonusPermil": 1000,
+        "type": 3,
+        "bonusValue": 0
+      }
+    ],
+    "conditionCardType": 3,
+    "moodType": 0,
+    "abilityTargetId": "",
+    "conditionLiveType": 0,
+    "statusEffectType": 0
+  },
+  {
     "id": "pab-passive_skill-sk-phot_recipe-cmn-001-cd-appeal",
     "name": "テンションUP",
     "description": "<スコアラータイプのみ>\n自身がボーカルレーンの時 自身にテンションUP効果",
@@ -28729,6 +30047,120 @@
     "skillId": "",
     "abilityTargetId": "",
     "conditionCardType": 0,
+    "conditionLiveType": 0
+  },
+  {
+    "id": "pab-received_strength_effect_count_increase-active_skill_score_up_recipe_distribution-5-cd-appeal",
+    "name": "被・Aスコア延長",
+    "description": "<スコアラータイプのみ>受けるAスコアアップ効果を14延長します",
+    "abilityType": 28,
+    "photoAbilityLevels": [
+      {
+        "level": 140,
+        "value": 14
+      },
+      {
+        "level": 145,
+        "value": 14
+      },
+      {
+        "level": 150,
+        "value": 14
+      },
+      {
+        "level": 155,
+        "value": 14
+      },
+      {
+        "level": 160,
+        "value": 14
+      },
+      {
+        "level": 165,
+        "value": 14
+      },
+      {
+        "level": 170,
+        "value": 14
+      },
+      {
+        "level": 175,
+        "value": 14
+      },
+      {
+        "level": 180,
+        "value": 14
+      },
+      {
+        "level": 185,
+        "value": 14
+      },
+      {
+        "level": 190,
+        "value": 14
+      },
+      {
+        "level": 195,
+        "value": 14
+      },
+      {
+        "level": 200,
+        "value": 14
+      },
+      {
+        "level": 205,
+        "value": 14
+      },
+      {
+        "level": 210,
+        "value": 14
+      },
+      {
+        "level": 215,
+        "value": 14
+      },
+      {
+        "level": 220,
+        "value": 14
+      },
+      {
+        "level": 225,
+        "value": 14
+      },
+      {
+        "level": 230,
+        "value": 14
+      },
+      {
+        "level": 235,
+        "value": 14
+      },
+      {
+        "level": 240,
+        "value": 14
+      },
+      {
+        "level": 245,
+        "value": 14
+      },
+      {
+        "level": 250,
+        "value": 14
+      }
+    ],
+    "photoAbilityGrades": [
+      {
+        "grade": 1,
+        "bonusPermil": 1000,
+        "type": 3,
+        "bonusValue": 0
+      }
+    ],
+    "conditionCardType": 1,
+    "statusEffectType": 6,
+    "moodType": 0,
+    "skillId": "",
+    "abilityTargetId": "",
     "conditionLiveType": 0
   },
   {
@@ -42069,6 +43501,120 @@
         "grade": 10,
         "bonusPermil": 1400,
         "type": 3,
+        "bonusValue": 0
+      }
+    ],
+    "moodType": 0,
+    "skillId": "",
+    "abilityTargetId": "",
+    "conditionCardType": 0,
+    "conditionLiveType": 0,
+    "statusEffectType": 0
+  },
+  {
+    "id": "pab-technique_add_recipe_distribution-5",
+    "name": "クリティカル",
+    "description": "クリティカルが固定値で上昇します",
+    "abilityType": 11,
+    "photoAbilityLevels": [
+      {
+        "level": 140,
+        "value": 3551
+      },
+      {
+        "level": 145,
+        "value": 3817
+      },
+      {
+        "level": 150,
+        "value": 4096
+      },
+      {
+        "level": 155,
+        "value": 4374
+      },
+      {
+        "level": 160,
+        "value": 4652
+      },
+      {
+        "level": 165,
+        "value": 4931
+      },
+      {
+        "level": 170,
+        "value": 5210
+      },
+      {
+        "level": 175,
+        "value": 5488
+      },
+      {
+        "level": 180,
+        "value": 5767
+      },
+      {
+        "level": 185,
+        "value": 6045
+      },
+      {
+        "level": 190,
+        "value": 6324
+      },
+      {
+        "level": 195,
+        "value": 6602
+      },
+      {
+        "level": 200,
+        "value": 6881
+      },
+      {
+        "level": 205,
+        "value": 7160
+      },
+      {
+        "level": 210,
+        "value": 7438
+      },
+      {
+        "level": 215,
+        "value": 7717
+      },
+      {
+        "level": 220,
+        "value": 7995
+      },
+      {
+        "level": 225,
+        "value": 8274
+      },
+      {
+        "level": 230,
+        "value": 8552
+      },
+      {
+        "level": 235,
+        "value": 8831
+      },
+      {
+        "level": 240,
+        "value": 9110
+      },
+      {
+        "level": 245,
+        "value": 9388
+      },
+      {
+        "level": 250,
+        "value": 9667
+      }
+    ],
+    "photoAbilityGrades": [
+      {
+        "grade": 1,
+        "bonusPermil": 1000,
+        "type": 1,
         "bonusValue": 0
       }
     ],

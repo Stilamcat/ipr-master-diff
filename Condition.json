@@ -2723,6 +2723,17 @@
     ]
   },
   {
+    "id": "cd-banner-pr-campaign-23-0428-01",
+    "settings": [
+      {
+        "term": {
+          "nowAfter": "1682650800000",
+          "nowBefore": "1682823599000"
+        }
+      }
+    ]
+  },
+  {
     "id": "cd-banner_s-delete-22-0624-0715",
     "settings": [
       {
@@ -4710,6 +4721,17 @@
         "term": {
           "nowAfter": "1680447600000",
           "nowBefore": "1680534599000"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-birthday_emblem_smr-23-0505",
+    "settings": [
+      {
+        "term": {
+          "nowAfter": "1683212400000",
+          "nowBefore": "1683299399000"
         }
       }
     ]
@@ -8191,6 +8213,182 @@
     ]
   },
   {
+    "id": "cd-clear-area-main-095-msn-clear",
+    "settings": [
+      {
+        "clearMission": {
+          "missionId": "event-ms-live-23-0503-quest_main_clear_count-4",
+          "threshold": "0"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-clear-area-main-095-msn-clear-cb",
+    "settings": [
+      {
+        "clearMission": {
+          "missionId": "event-ms-comeback-23-0428-quest_main_clear_count-4",
+          "threshold": "0"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-clear-area-main-095-msn-non-clear",
+    "settings": [
+      {
+        "satisfyCondition": {
+          "conditionId": "cd-clear-area-main-095"
+        },
+        "notSatisfyCondition": {
+          "conditionId": "cd-clear-area-main-095-msn-clear"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-clear-area-main-095-msn-non-clear-cb",
+    "settings": [
+      {
+        "satisfyCondition": {
+          "conditionId": "cd-clear-area-main-095"
+        },
+        "notSatisfyCondition": {
+          "conditionId": "cd-clear-area-main-095-msn-clear-cb"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-clear-cd-clear-qt-tower-800-or-event-ms-comeback-23-0428-quest_tower_clear_count-1",
+    "settings": [
+      {
+        "notSatisfyCondition": {
+          "conditionId": "cd-clear-qt-tower-800"
+        }
+      },
+      {
+        "clearMission": {
+          "missionId": "event-ms-comeback-23-0428-quest_tower_clear_count-1",
+          "threshold": "1"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-clear-cd-clear-qt-tower-800-or-event-ms-comeback-23-0428-quest_tower_clear_count-2",
+    "settings": [
+      {
+        "notSatisfyCondition": {
+          "conditionId": "cd-clear-qt-tower-800"
+        }
+      },
+      {
+        "clearMission": {
+          "missionId": "event-ms-comeback-23-0428-quest_tower_clear_count-2",
+          "threshold": "1"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-clear-cd-clear-qt-tower-800-or-event-ms-comeback-23-0428-quest_tower_clear_count-3",
+    "settings": [
+      {
+        "notSatisfyCondition": {
+          "conditionId": "cd-clear-qt-tower-800"
+        }
+      },
+      {
+        "clearMission": {
+          "missionId": "event-ms-comeback-23-0428-quest_tower_clear_count-3",
+          "threshold": "1"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-clear-cd-clear-qt-tower-800-or-event-ms-comeback-23-0428-quest_tower_clear_count-4",
+    "settings": [
+      {
+        "notSatisfyCondition": {
+          "conditionId": "cd-clear-qt-tower-800"
+        }
+      },
+      {
+        "clearMission": {
+          "missionId": "event-ms-comeback-23-0428-quest_tower_clear_count-4",
+          "threshold": "1"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-clear-cd-clear-qt-tower-800-or-event-ms-live-23-0503-quest_tower_clear_count-1",
+    "settings": [
+      {
+        "notSatisfyCondition": {
+          "conditionId": "cd-clear-qt-tower-800"
+        }
+      },
+      {
+        "clearMission": {
+          "missionId": "event-ms-live-23-0503-quest_tower_clear_count-1",
+          "threshold": "1"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-clear-cd-clear-qt-tower-800-or-event-ms-live-23-0503-quest_tower_clear_count-2",
+    "settings": [
+      {
+        "notSatisfyCondition": {
+          "conditionId": "cd-clear-qt-tower-800"
+        }
+      },
+      {
+        "clearMission": {
+          "missionId": "event-ms-live-23-0503-quest_tower_clear_count-2",
+          "threshold": "1"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-clear-cd-clear-qt-tower-800-or-event-ms-live-23-0503-quest_tower_clear_count-3",
+    "settings": [
+      {
+        "notSatisfyCondition": {
+          "conditionId": "cd-clear-qt-tower-800"
+        }
+      },
+      {
+        "clearMission": {
+          "missionId": "event-ms-live-23-0503-quest_tower_clear_count-3",
+          "threshold": "1"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-clear-cd-clear-qt-tower-800-or-event-ms-live-23-0503-quest_tower_clear_count-4",
+    "settings": [
+      {
+        "notSatisfyCondition": {
+          "conditionId": "cd-clear-qt-tower-800"
+        }
+      },
+      {
+        "clearMission": {
+          "missionId": "event-ms-live-23-0503-quest_tower_clear_count-4",
+          "threshold": "1"
+        }
+      }
+    ]
+  },
+  {
     "id": "cd-clear-event_beginner-mission-22-1224",
     "settings": [
       {
@@ -8931,6 +9129,236 @@
     ]
   },
   {
+    "id": "cd-clear-qt-ex-tower-001-001",
+    "settings": [
+      {
+        "clearQuest": {
+          "questId": "qt-ex-tower-001-001"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-clear-qt-ex-tower-001-025",
+    "settings": [
+      {
+        "clearQuest": {
+          "questId": "qt-ex-tower-001-025"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-clear-qt-ex-tower-001-050",
+    "settings": [
+      {
+        "clearQuest": {
+          "questId": "qt-ex-tower-001-050"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-clear-qt-ex-tower-001-075",
+    "settings": [
+      {
+        "clearQuest": {
+          "questId": "qt-ex-tower-001-075"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-clear-qt-ex-tower-001-100",
+    "settings": [
+      {
+        "clearQuest": {
+          "questId": "qt-ex-tower-001-100"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-clear-qt-ex-tower-002-001",
+    "settings": [
+      {
+        "clearQuest": {
+          "questId": "qt-ex-tower-002-001"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-clear-qt-ex-tower-002-025",
+    "settings": [
+      {
+        "clearQuest": {
+          "questId": "qt-ex-tower-002-025"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-clear-qt-ex-tower-002-050",
+    "settings": [
+      {
+        "clearQuest": {
+          "questId": "qt-ex-tower-002-050"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-clear-qt-ex-tower-002-075",
+    "settings": [
+      {
+        "clearQuest": {
+          "questId": "qt-ex-tower-002-075"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-clear-qt-ex-tower-002-100",
+    "settings": [
+      {
+        "clearQuest": {
+          "questId": "qt-ex-tower-002-100"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-clear-qt-ex-tower-003-001",
+    "settings": [
+      {
+        "clearQuest": {
+          "questId": "qt-ex-tower-003-001"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-clear-qt-ex-tower-003-025",
+    "settings": [
+      {
+        "clearQuest": {
+          "questId": "qt-ex-tower-003-025"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-clear-qt-ex-tower-003-050",
+    "settings": [
+      {
+        "clearQuest": {
+          "questId": "qt-ex-tower-003-050"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-clear-qt-ex-tower-003-075",
+    "settings": [
+      {
+        "clearQuest": {
+          "questId": "qt-ex-tower-003-075"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-clear-qt-ex-tower-003-100",
+    "settings": [
+      {
+        "clearQuest": {
+          "questId": "qt-ex-tower-003-100"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-clear-qt-ex-tower-004-001",
+    "settings": [
+      {
+        "clearQuest": {
+          "questId": "qt-ex-tower-004-001"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-clear-qt-ex-tower-004-025",
+    "settings": [
+      {
+        "clearQuest": {
+          "questId": "qt-ex-tower-004-025"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-clear-qt-ex-tower-004-050",
+    "settings": [
+      {
+        "clearQuest": {
+          "questId": "qt-ex-tower-004-050"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-clear-qt-ex-tower-004-075",
+    "settings": [
+      {
+        "clearQuest": {
+          "questId": "qt-ex-tower-004-075"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-clear-qt-ex-tower-004-100",
+    "settings": [
+      {
+        "clearQuest": {
+          "questId": "qt-ex-tower-004-100"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-clear-qt-ex-tower-all-001",
+    "settings": [
+      {}
+    ]
+  },
+  {
+    "id": "cd-clear-qt-ex-tower-all-025",
+    "settings": [
+      {}
+    ]
+  },
+  {
+    "id": "cd-clear-qt-ex-tower-all-050",
+    "settings": [
+      {}
+    ]
+  },
+  {
+    "id": "cd-clear-qt-ex-tower-all-075",
+    "settings": [
+      {}
+    ]
+  },
+  {
+    "id": "cd-clear-qt-ex-tower-all-100",
+    "settings": [
+      {}
+    ]
+  },
+  {
     "id": "cd-clear-qt-exercise-basic-01",
     "settings": [
       {
@@ -9564,6 +9992,100 @@
       {
         "clearQuest": {
           "questId": "qt-tower-500"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-clear-qt-tower-800",
+    "settings": [
+      {
+        "clearQuest": {
+          "questId": "qt-tower-800"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-clear-qt-tower-800-msn-clear",
+    "settings": [
+      {
+        "clearMission": {
+          "missionId": "event-ms-live-23-0503-quest_tower_clear_count-1",
+          "threshold": "0"
+        }
+      },
+      {
+        "clearMission": {
+          "missionId": "event-ms-live-23-0503-quest_tower_clear_count-2",
+          "threshold": "0"
+        }
+      },
+      {
+        "clearMission": {
+          "missionId": "event-ms-live-23-0503-quest_tower_clear_count-3",
+          "threshold": "0"
+        }
+      },
+      {
+        "clearMission": {
+          "missionId": "event-ms-live-23-0503-quest_tower_clear_count-4",
+          "threshold": "0"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-clear-qt-tower-800-msn-clear-cb",
+    "settings": [
+      {
+        "clearMission": {
+          "missionId": "event-ms-comeback-23-0428-quest_tower_clear_count-4",
+          "threshold": "0"
+        }
+      },
+      {
+        "clearMission": {
+          "missionId": "event-ms-comeback-23-0428-quest_tower_clear_count-1",
+          "threshold": "0"
+        }
+      },
+      {
+        "clearMission": {
+          "missionId": "event-ms-comeback-23-0428-quest_tower_clear_count-2",
+          "threshold": "0"
+        }
+      },
+      {
+        "clearMission": {
+          "missionId": "event-ms-comeback-23-0428-quest_tower_clear_count-3",
+          "threshold": "0"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-clear-qt-tower-800-msn-non-clear",
+    "settings": [
+      {
+        "satisfyCondition": {
+          "conditionId": "cd-clear-qt-tower-800"
+        },
+        "notSatisfyCondition": {
+          "conditionId": "cd-clear-qt-tower-800-msn-clear"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-clear-qt-tower-800-msn-non-clear-cb",
+    "settings": [
+      {
+        "satisfyCondition": {
+          "conditionId": "cd-clear-qt-tower-800"
+        },
+        "notSatisfyCondition": {
+          "conditionId": "cd-clear-qt-tower-800-msn-clear-cb"
         }
       }
     ]
@@ -11961,6 +12483,17 @@
         "term": {
           "nowAfter": "1680339600000",
           "nowBefore": "1680361199000"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-dokan-ex-st-part-limited-23-0428",
+    "settings": [
+      {
+        "term": {
+          "nowAfter": "1682737200000",
+          "nowBefore": "1684076399000"
         }
       }
     ]
@@ -16058,6 +16591,168 @@
     ]
   },
   {
+    "id": "cd-event-ms-photo-23-0430-00-costume_exchange_count",
+    "settings": [
+      {
+        "obtainCostume": {
+          "costumeId": "cos-ktn-kion-00"
+        }
+      },
+      {
+        "obtainCostume": {
+          "costumeId": "cos-ngs-kion-00"
+        }
+      },
+      {
+        "obtainCostume": {
+          "costumeId": "cos-mei-kion-00"
+        }
+      },
+      {
+        "obtainCostume": {
+          "costumeId": "cos-ski-kion-00"
+        }
+      },
+      {
+        "obtainCostume": {
+          "costumeId": "cos-skr-kion-00"
+        }
+      },
+      {
+        "obtainCostume": {
+          "costumeId": "cos-chs-kion-00"
+        }
+      },
+      {
+        "obtainCostume": {
+          "costumeId": "cos-rei-kion-00"
+        }
+      },
+      {
+        "obtainCostume": {
+          "costumeId": "cos-szk-kion-00"
+        }
+      },
+      {
+        "obtainCostume": {
+          "costumeId": "cos-hrk-kion-00"
+        }
+      },
+      {
+        "obtainCostume": {
+          "costumeId": "cos-rio-kion-00"
+        }
+      },
+      {
+        "obtainCostume": {
+          "costumeId": "cos-aoi-kion-00"
+        }
+      },
+      {
+        "obtainCostume": {
+          "costumeId": "cos-ai-kion-00"
+        }
+      },
+      {
+        "obtainCostume": {
+          "costumeId": "cos-rui-kion-00"
+        }
+      },
+      {
+        "obtainCostume": {
+          "costumeId": "cos-smr-kion-00"
+        }
+      },
+      {
+        "obtainCostume": {
+          "costumeId": "cos-yu-kion-00"
+        }
+      },
+      {
+        "obtainCostume": {
+          "costumeId": "cos-mna-kion-00"
+        }
+      },
+      {
+        "obtainCostume": {
+          "costumeId": "cos-kor-kion-00"
+        }
+      },
+      {
+        "obtainCostume": {
+          "costumeId": "cos-kan-kion-00"
+        }
+      },
+      {
+        "obtainCostume": {
+          "costumeId": "cos-mhk-kion-00"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-event-ms-photo-23-0430-00-event_card_obtain",
+    "settings": [
+      {
+        "obtainCard": {
+          "cardId": "card-ai-02-eve-01"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-event-ms-photo-23-0430-00-event_story_read_1",
+    "settings": [
+      {
+        "readStory": {
+          "storyId": "st-eve-2305-race-001"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-event-ms-photo-23-0430-00-event_story_read_2",
+    "settings": [
+      {
+        "readStory": {
+          "storyId": "st-eve-2305-race-002"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-event-ms-photo-23-0430-00-event_story_read_3",
+    "settings": [
+      {
+        "readStory": {
+          "storyId": "st-eve-2305-race-003"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-event-ms-photo-23-0430-00-false",
+    "settings": [
+      {
+        "term": {
+          "nowAfter": "2219324400000",
+          "nowBefore": "0"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-event-ms-photo-23-0430-00-quest_qt-area_S_rank_clear",
+    "settings": [
+      {
+        "maxQuestScoreRank": {
+          "questId": "qt-area-1-clb-kion",
+          "rankGte": 5
+        }
+      }
+    ]
+  },
+  {
     "id": "cd-event-race-22-0228",
     "settings": [
       {
@@ -16988,6 +17683,17 @@
     ]
   },
   {
+    "id": "cd-ex-st-part-limited-01-open-230428",
+    "settings": [
+      {
+        "term": {
+          "nowAfter": "1682650800000",
+          "nowBefore": "1684076399000"
+        }
+      }
+    ]
+  },
+  {
     "id": "cd-ex-st-part-limited-05-open-230324-01",
     "settings": [
       {
@@ -17054,6 +17760,17 @@
     ]
   },
   {
+    "id": "cd-ex-story-part-birthday-smr-23-0505-open",
+    "settings": [
+      {
+        "term": {
+          "nowAfter": "1683212400000",
+          "nowBefore": "0"
+        }
+      }
+    ]
+  },
+  {
     "id": "cd-ex-story-part-birthday-yu-23-0227-open",
     "settings": [
       {
@@ -17104,6 +17821,17 @@
         "term": {
           "nowAfter": "1661914800000",
           "nowBefore": "1663599599000"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-exchange-collaboration-medal-23-0428",
+    "settings": [
+      {
+        "term": {
+          "nowAfter": "1682650800000",
+          "nowBefore": "1684076399000"
         }
       }
     ]
@@ -24201,6 +24929,16 @@
     ]
   },
   {
+    "id": "cd-manager_level_gte-1--ex",
+    "settings": [
+      {
+        "satisfyCondition": {
+          "conditionId": "cd-clear-qt-tower-350"
+        }
+      }
+    ]
+  },
+  {
     "id": "cd-manager_level_gte-1-19",
     "settings": [
       {
@@ -24356,6 +25094,109 @@
         "term": {
           "nowBefore": "1679970599000",
           "nowAfter": "0"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-manager_level_gte-1-69-cb-clear",
+    "settings": [
+      {
+        "clearMission": {
+          "missionId": "ms-comeback-shop-limited-23-0428-check-1",
+          "threshold": "0"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-manager_level_gte-1-69-ex-cb",
+    "settings": [
+      {
+        "satisfyCondition": {
+          "conditionId": "cd-clear-qt-tower-350"
+        },
+        "clearMission": {
+          "missionId": "ms-comeback-shop-limited-23-0428-check-1",
+          "threshold": "1"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-manager_level_gte-1-69-main",
+    "settings": [
+      {
+        "notSatisfyCondition": {
+          "conditionId": "cd-clear-area-main-095"
+        },
+        "clearMission": {
+          "missionId": "event-ms-live-23-0503-login_count-1",
+          "threshold": "1"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-manager_level_gte-1-69-main-cb",
+    "settings": [
+      {
+        "notSatisfyCondition": {
+          "conditionId": "cd-clear-area-main-095"
+        },
+        "clearMission": {
+          "missionId": "ms-comeback-shop-limited-23-0428-check-1",
+          "threshold": "1"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-manager_level_gte-1-69-start",
+    "settings": [
+      {
+        "managerLevel": {
+          "levelLte": 69,
+          "levelGte": 1
+        }
+      },
+      {
+        "clearMission": {
+          "missionId": "event-ms-live-23-0503-login_count-1",
+          "threshold": "0"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-manager_level_gte-1-69-start-clear",
+    "settings": [
+      {
+        "clearMission": {
+          "missionId": "event-ms-live-23-0503-login_count-1",
+          "threshold": "0"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-manager_level_gte-1-69-tower",
+    "settings": [
+      {
+        "clearMission": {
+          "missionId": "event-ms-live-23-0503-login_count-1",
+          "threshold": "1"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-manager_level_gte-1-69-tower-cb",
+    "settings": [
+      {
+        "clearMission": {
+          "missionId": "ms-comeback-shop-limited-23-0428-check-1",
+          "threshold": "1"
         }
       }
     ]
@@ -25253,6 +26094,109 @@
     ]
   },
   {
+    "id": "cd-manager_level_gte-130-179-cb-clear",
+    "settings": [
+      {
+        "clearMission": {
+          "missionId": "ms-comeback-shop-limited-23-0428-check-3",
+          "threshold": "0"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-manager_level_gte-130-179-ex-cb",
+    "settings": [
+      {
+        "satisfyCondition": {
+          "conditionId": "cd-clear-qt-tower-350"
+        },
+        "clearMission": {
+          "missionId": "ms-comeback-shop-limited-23-0428-check-3",
+          "threshold": "1"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-manager_level_gte-130-179-main",
+    "settings": [
+      {
+        "notSatisfyCondition": {
+          "conditionId": "cd-clear-area-main-095"
+        },
+        "clearMission": {
+          "missionId": "event-ms-live-23-0503-login_count-3",
+          "threshold": "1"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-manager_level_gte-130-179-main-cb",
+    "settings": [
+      {
+        "notSatisfyCondition": {
+          "conditionId": "cd-clear-area-main-095"
+        },
+        "clearMission": {
+          "missionId": "ms-comeback-shop-limited-23-0428-check-3",
+          "threshold": "1"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-manager_level_gte-130-179-start",
+    "settings": [
+      {
+        "managerLevel": {
+          "levelLte": 179,
+          "levelGte": 130
+        }
+      },
+      {
+        "clearMission": {
+          "missionId": "event-ms-live-23-0503-login_count-3",
+          "threshold": "0"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-manager_level_gte-130-179-start-clear",
+    "settings": [
+      {
+        "clearMission": {
+          "missionId": "event-ms-live-23-0503-login_count-3",
+          "threshold": "0"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-manager_level_gte-130-179-tower",
+    "settings": [
+      {
+        "clearMission": {
+          "missionId": "event-ms-live-23-0503-login_count-3",
+          "threshold": "1"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-manager_level_gte-130-179-tower-cb",
+    "settings": [
+      {
+        "clearMission": {
+          "missionId": "ms-comeback-shop-limited-23-0428-check-3",
+          "threshold": "1"
+        }
+      }
+    ]
+  },
+  {
     "id": "cd-manager_level_gte-130-23-0328-close",
     "settings": [
       {
@@ -25625,6 +26569,20 @@
     "id": "cd-manager_level_gte-150",
     "settings": [
       {
+        "managerLevel": {
+          "levelGte": 150,
+          "levelLte": 0
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-manager_level_gte-150--ex",
+    "settings": [
+      {
+        "satisfyCondition": {
+          "conditionId": "cd-clear-qt-tower-350"
+        },
         "managerLevel": {
           "levelGte": 150,
           "levelLte": 0
@@ -26058,6 +27016,20 @@
     ]
   },
   {
+    "id": "cd-manager_level_gte-170--ex",
+    "settings": [
+      {
+        "satisfyCondition": {
+          "conditionId": "cd-clear-qt-tower-350"
+        },
+        "managerLevel": {
+          "levelGte": 170,
+          "levelLte": 0
+        }
+      }
+    ]
+  },
+  {
     "id": "cd-manager_level_gte-171",
     "settings": [
       {
@@ -26174,6 +27146,109 @@
         "managerLevel": {
           "levelGte": 180,
           "levelLte": 0
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-manager_level_gte-180-cb-clear",
+    "settings": [
+      {
+        "clearMission": {
+          "missionId": "ms-comeback-shop-limited-23-0428-check-4",
+          "threshold": "0"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-manager_level_gte-180-ex-cb",
+    "settings": [
+      {
+        "satisfyCondition": {
+          "conditionId": "cd-clear-qt-tower-350"
+        },
+        "clearMission": {
+          "missionId": "ms-comeback-shop-limited-23-0428-check-4",
+          "threshold": "1"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-manager_level_gte-180-main",
+    "settings": [
+      {
+        "notSatisfyCondition": {
+          "conditionId": "cd-clear-area-main-095"
+        },
+        "clearMission": {
+          "missionId": "event-ms-live-23-0503-login_count-4",
+          "threshold": "1"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-manager_level_gte-180-main-cb",
+    "settings": [
+      {
+        "notSatisfyCondition": {
+          "conditionId": "cd-clear-area-main-095"
+        },
+        "clearMission": {
+          "missionId": "ms-comeback-shop-limited-23-0428-check-4",
+          "threshold": "1"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-manager_level_gte-180-start",
+    "settings": [
+      {
+        "managerLevel": {
+          "levelGte": 180,
+          "levelLte": 0
+        }
+      },
+      {
+        "clearMission": {
+          "missionId": "event-ms-live-23-0503-login_count-4",
+          "threshold": "0"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-manager_level_gte-180-start-clear",
+    "settings": [
+      {
+        "clearMission": {
+          "missionId": "event-ms-live-23-0503-login_count-4",
+          "threshold": "0"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-manager_level_gte-180-tower",
+    "settings": [
+      {
+        "clearMission": {
+          "missionId": "event-ms-live-23-0503-login_count-4",
+          "threshold": "1"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-manager_level_gte-180-tower-cb",
+    "settings": [
+      {
+        "clearMission": {
+          "missionId": "ms-comeback-shop-limited-23-0428-check-4",
+          "threshold": "1"
         }
       }
     ]
@@ -26306,6 +27381,20 @@
     "id": "cd-manager_level_gte-190",
     "settings": [
       {
+        "managerLevel": {
+          "levelGte": 190,
+          "levelLte": 0
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-manager_level_gte-190--ex",
+    "settings": [
+      {
+        "satisfyCondition": {
+          "conditionId": "cd-clear-qt-tower-350"
+        },
         "managerLevel": {
           "levelGte": 190,
           "levelLte": 0
@@ -28115,6 +29204,109 @@
         "term": {
           "nowBefore": "1679970599000",
           "nowAfter": "0"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-manager_level_gte-70-129-cb-clear",
+    "settings": [
+      {
+        "clearMission": {
+          "missionId": "ms-comeback-shop-limited-23-0428-check-2",
+          "threshold": "0"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-manager_level_gte-70-129-ex-cb",
+    "settings": [
+      {
+        "satisfyCondition": {
+          "conditionId": "cd-clear-qt-tower-350"
+        },
+        "clearMission": {
+          "missionId": "ms-comeback-shop-limited-23-0428-check-2",
+          "threshold": "1"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-manager_level_gte-70-129-main",
+    "settings": [
+      {
+        "notSatisfyCondition": {
+          "conditionId": "cd-clear-area-main-095"
+        },
+        "clearMission": {
+          "missionId": "event-ms-live-23-0503-login_count-2",
+          "threshold": "1"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-manager_level_gte-70-129-main-cb",
+    "settings": [
+      {
+        "notSatisfyCondition": {
+          "conditionId": "cd-clear-area-main-095"
+        },
+        "clearMission": {
+          "missionId": "ms-comeback-shop-limited-23-0428-check-2",
+          "threshold": "1"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-manager_level_gte-70-129-start",
+    "settings": [
+      {
+        "managerLevel": {
+          "levelLte": 129,
+          "levelGte": 70
+        }
+      },
+      {
+        "clearMission": {
+          "missionId": "event-ms-live-23-0503-login_count-2",
+          "threshold": "0"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-manager_level_gte-70-129-start-clear",
+    "settings": [
+      {
+        "clearMission": {
+          "missionId": "event-ms-live-23-0503-login_count-2",
+          "threshold": "0"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-manager_level_gte-70-129-tower",
+    "settings": [
+      {
+        "clearMission": {
+          "missionId": "event-ms-live-23-0503-login_count-2",
+          "threshold": "1"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-manager_level_gte-70-129-tower-cb",
+    "settings": [
+      {
+        "clearMission": {
+          "missionId": "ms-comeback-shop-limited-23-0428-check-2",
+          "threshold": "1"
         }
       }
     ]
@@ -40155,6 +41347,81 @@
     ]
   },
   {
+    "id": "cd-ms-photo-23-0430-00-mission_clear_count_1",
+    "settings": [
+      {
+        "clearMission": {
+          "missionId": "event-ms-photo-23-0430-00-mission_clear_count_photo_1",
+          "threshold": "1"
+        },
+        "term": {
+          "nowAfter": "1682780400000",
+          "nowBefore": "1683730799000"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-ms-photo-23-0430-00-mission_clear_count_10",
+    "settings": [
+      {
+        "clearMission": {
+          "missionId": "event-ms-photo-23-0430-00-mission_clear_count_photo_10",
+          "threshold": "10"
+        },
+        "term": {
+          "nowAfter": "1682780400000",
+          "nowBefore": "1683730799000"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-ms-photo-23-0430-00-mission_clear_count_15",
+    "settings": [
+      {
+        "clearMission": {
+          "missionId": "event-ms-photo-23-0430-00-mission_clear_count",
+          "threshold": "15"
+        },
+        "term": {
+          "nowAfter": "1682780400000",
+          "nowBefore": "1683730799000"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-ms-photo-23-0430-00-mission_clear_count_4",
+    "settings": [
+      {
+        "clearMission": {
+          "missionId": "event-ms-photo-23-0430-00-mission_clear_count_photo_4",
+          "threshold": "4"
+        },
+        "term": {
+          "nowAfter": "1682780400000",
+          "nowBefore": "1683730799000"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-ms-photo-23-0430-00-mission_clear_count_7",
+    "settings": [
+      {
+        "clearMission": {
+          "missionId": "event-ms-photo-23-0430-00-mission_clear_count_photo_7",
+          "threshold": "7"
+        },
+        "term": {
+          "nowAfter": "1682780400000",
+          "nowBefore": "1683730799000"
+        }
+      }
+    ]
+  },
+  {
     "id": "cd-ms-read-message-card-ai-05-idol-00",
     "settings": [
       {
@@ -40430,6 +41697,16 @@
       {
         "finishedMessage": {
           "messageId": "message-card-kkr-05-idol-00"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-ms-read-message-card-kkr-05-kion-00",
+    "settings": [
+      {
+        "finishedMessage": {
+          "messageId": "message-card-kkr-05-kion-00"
         }
       }
     ]
@@ -41130,6 +42407,16 @@
       {
         "finishedMessage": {
           "messageId": "message-card-suz-05-idol-00"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-ms-read-message-card-suz-05-kion-00",
+    "settings": [
+      {
+        "finishedMessage": {
+          "messageId": "message-card-suz-05-kion-00"
         }
       }
     ]
@@ -42202,6 +43489,20 @@
         "term": {
           "nowAfter": "1679972400000",
           "nowBefore": "1680274799000"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-photo-shooting-mv-008",
+    "settings": [
+      {
+        "satisfyCondition": {
+          "conditionId": "cd-tutorial-finish-photo-create-shooting"
+        },
+        "term": {
+          "nowAfter": "1682650800000",
+          "nowBefore": "1684033199000"
         }
       }
     ]
@@ -44350,6 +45651,31 @@
         },
         "purchaseShop": {
           "shopItemId": "shop_top_dress-shop-pack-22-0526-03"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-qt-area-1-clb-kion-unlock",
+    "settings": [
+      {
+        "satisfyCondition": {
+          "conditionId": "cd-clear-area-main-004"
+        },
+        "term": {
+          "nowAfter": "1682780400000",
+          "nowBefore": "1683730799000"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-qt-area-1-clb-kion-view",
+    "settings": [
+      {
+        "term": {
+          "nowAfter": "1682780400000",
+          "nowBefore": "1683730799000"
         }
       }
     ]
@@ -59980,6 +61306,53 @@
     ]
   },
   {
+    "id": "cd-shop_special-shop-23-0428",
+    "settings": [
+      {
+        "term": {
+          "nowAfter": "1682650800000",
+          "nowBefore": "0"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-shop_special-shop-23-0428-0514",
+    "settings": [
+      {
+        "term": {
+          "nowAfter": "1682650800000",
+          "nowBefore": "1684033199000"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-shop_special-shop-23-0428-0514-dokan",
+    "settings": [
+      {
+        "term": {
+          "nowAfter": "1682650800000",
+          "nowBefore": "1684033199000"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-shop_special-shop-23-0428-0514-mlv-120",
+    "settings": [
+      {
+        "satisfyCondition": {
+          "conditionId": "cd-manager_level_gte-120"
+        },
+        "term": {
+          "nowAfter": "1682650800000",
+          "nowBefore": "1684033199000"
+        }
+      }
+    ]
+  },
+  {
     "id": "cd-shop_special-shop-banner-21-1125",
     "settings": [
       {
@@ -62589,6 +63962,16 @@
     ]
   },
   {
+    "id": "cd-st-read-st-card-kkr-05-kion-00-03",
+    "settings": [
+      {
+        "readStory": {
+          "storyId": "st-card-kkr-05-kion-00-03"
+        }
+      }
+    ]
+  },
+  {
     "id": "cd-st-read-st-card-kkr-05-mizg-01-03",
     "settings": [
       {
@@ -63274,6 +64657,16 @@
       {
         "readStory": {
           "storyId": "st-card-suz-05-idol-00-02"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-st-read-st-card-suz-05-kion-00-03",
+    "settings": [
+      {
+        "readStory": {
+          "storyId": "st-card-suz-05-kion-00-03"
         }
       }
     ]
@@ -64150,6 +65543,20 @@
     ]
   },
   {
+    "id": "cd-time-daily-sp-23-0428-23-0514",
+    "settings": [
+      {
+        "satisfyCondition": {
+          "conditionId": "cd-clear-area-main-005"
+        },
+        "term": {
+          "nowAfter": "1682650800000",
+          "nowBefore": "1684076399000"
+        }
+      }
+    ]
+  },
+  {
     "id": "cd-time-diary-21-1009",
     "settings": [
       {
@@ -64303,6 +65710,51 @@
     ]
   },
   {
+    "id": "cd-time-event-ms-comeback-23-0428-0510",
+    "settings": [
+      {
+        "clearMission": {
+          "missionId": "ms-comeback-shop-limited-23-0428-check-1",
+          "threshold": "0"
+        },
+        "term": {
+          "nowAfter": "1682650800000",
+          "nowBefore": "1683687599000"
+        }
+      },
+      {
+        "clearMission": {
+          "missionId": "ms-comeback-shop-limited-23-0428-check-2",
+          "threshold": "0"
+        },
+        "term": {
+          "nowAfter": "1682650800000",
+          "nowBefore": "1683687599000"
+        }
+      },
+      {
+        "clearMission": {
+          "missionId": "ms-comeback-shop-limited-23-0428-check-3",
+          "threshold": "0"
+        },
+        "term": {
+          "nowAfter": "1682650800000",
+          "nowBefore": "1683687599000"
+        }
+      },
+      {
+        "clearMission": {
+          "missionId": "ms-comeback-shop-limited-23-0428-check-4",
+          "threshold": "0"
+        },
+        "term": {
+          "nowAfter": "1682650800000",
+          "nowBefore": "1683687599000"
+        }
+      }
+    ]
+  },
+  {
     "id": "cd-time-event-ms-fes-22-0929-1009",
     "settings": [
       {
@@ -64325,12 +65777,49 @@
     ]
   },
   {
+    "id": "cd-time-event-ms-live-23-0503-0514",
+    "settings": [
+      {
+        "term": {
+          "nowAfter": "1683039600000",
+          "nowBefore": "1684033199000"
+        }
+      }
+    ]
+  },
+  {
     "id": "cd-time-event-ms-miku-22-0903-0918",
     "settings": [
       {
         "term": {
           "nowAfter": "1662130800000",
           "nowBefore": "1663513199000"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-time-event-ms-photo-23-0430-0510",
+    "settings": [
+      {
+        "term": {
+          "nowAfter": "1682780400000",
+          "nowBefore": "1683730799000"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-time-event-ms-photo-23-0430-0510-mlv20",
+    "settings": [
+      {
+        "managerLevel": {
+          "levelGte": 20,
+          "levelLte": 0
+        },
+        "term": {
+          "nowAfter": "1682780400000",
+          "nowBefore": "1683730799000"
         }
       }
     ]
@@ -67616,6 +69105,20 @@
     ]
   },
   {
+    "id": "cd-time-gacha-fixed-selection-23-0425-banner-banner",
+    "settings": [
+      {
+        "notSatisfyCondition": {
+          "conditionId": "cd-time-gacha-fixed-selection-23-0425-banner-end"
+        },
+        "term": {
+          "nowAfter": "1682391600000",
+          "nowBefore": "1682650799000"
+        }
+      }
+    ]
+  },
+  {
     "id": "cd-time-gacha-fixed-selection-23-0425-banner-end",
     "settings": [
       {
@@ -68400,6 +69903,105 @@
         "itemAmount": {
           "itemId": "item-gacha-free-ticket-1s-23-0401",
           "amountGte": "1"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-time-gacha-free-23-0428-01-banner",
+    "settings": [
+      {
+        "term": {
+          "nowAfter": "1682650800000",
+          "nowBefore": "1683471599000"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-time-gacha-free-23-0428-01-check",
+    "settings": [
+      {
+        "drawGacha": {
+          "gachaButtonIds": [
+            "btn-10-gacha-free-23-0428-01"
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-time-gacha-free-23-0428-01-open",
+    "settings": [
+      {
+        "notSatisfyCondition": {
+          "conditionId": "cd-time-gacha-free-23-0428-01-check"
+        },
+        "term": {
+          "nowAfter": "1682650800000",
+          "nowBefore": "1683471599000"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-time-gacha-free-23-0428-02-check",
+    "settings": [
+      {
+        "drawGacha": {
+          "gachaButtonIds": [
+            "btn-10-gacha-free-23-0428-02"
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-time-gacha-free-23-0428-02-open",
+    "settings": [
+      {
+        "notSatisfyCondition": {
+          "conditionId": "cd-time-gacha-free-23-0428-02-check"
+        },
+        "term": {
+          "nowAfter": "1682737200000",
+          "nowBefore": "1683471599000"
+        },
+        "drawGacha": {
+          "gachaButtonIds": [
+            "btn-10-gacha-free-23-0428-01"
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-time-gacha-free-23-0428-03-check",
+    "settings": [
+      {
+        "drawGacha": {
+          "gachaButtonIds": [
+            "btn-10-gacha-free-23-0428-03"
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-time-gacha-free-23-0428-03-open",
+    "settings": [
+      {
+        "notSatisfyCondition": {
+          "conditionId": "cd-time-gacha-free-23-0428-03-check"
+        },
+        "term": {
+          "nowAfter": "1682823600000",
+          "nowBefore": "1683471599000"
+        },
+        "drawGacha": {
+          "gachaButtonIds": [
+            "btn-10-gacha-free-23-0428-02"
+          ]
         }
       }
     ]
@@ -69249,6 +70851,17 @@
     ]
   },
   {
+    "id": "cd-time-gacha-lm-set-bloom-23-0428",
+    "settings": [
+      {
+        "term": {
+          "nowAfter": "1682650800000",
+          "nowBefore": "1684033199000"
+        }
+      }
+    ]
+  },
+  {
     "id": "cd-time-gacha-lm-set-bloom-dokan-22-1128",
     "settings": [
       {
@@ -70003,6 +71616,17 @@
         "term": {
           "nowAfter": "1681700400000",
           "nowBefore": "1682650800000"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-time-gacha-normal-23-0428",
+    "settings": [
+      {
+        "term": {
+          "nowAfter": "1682650800000",
+          "nowBefore": "1684033200000"
         }
       }
     ]
@@ -71071,6 +72695,72 @@
     ]
   },
   {
+    "id": "cd-time-gacha-premium-23-0502",
+    "settings": [
+      {
+        "term": {
+          "nowAfter": "1682996400000",
+          "nowBefore": "1683687599000"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-time-gacha-premium-23-0502-01",
+    "settings": [
+      {
+        "term": {
+          "nowAfter": "1682996400000",
+          "nowBefore": "1683298799000"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-time-gacha-premium-23-0502-02",
+    "settings": [
+      {
+        "term": {
+          "nowAfter": "1683385200000",
+          "nowBefore": "1683687599000"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-time-gacha-premium-23-0510",
+    "settings": [
+      {
+        "term": {
+          "nowAfter": "1683687600000",
+          "nowBefore": "1684292399000"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-time-gacha-premium-23-0510-01",
+    "settings": [
+      {
+        "term": {
+          "nowAfter": "1683687600000",
+          "nowBefore": "1683990000000"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-time-gacha-premium-23-0510-02",
+    "settings": [
+      {
+        "term": {
+          "nowAfter": "1683990000000",
+          "nowBefore": "1684292399000"
+        }
+      }
+    ]
+  },
+  {
     "id": "cd-time-gacha-rev-limited-21-1225",
     "settings": [
       {
@@ -71318,6 +73008,43 @@
     ]
   },
   {
+    "id": "cd-time-gacha-rev-rockon-01-23-0430",
+    "settings": [
+      {
+        "term": {
+          "nowAfter": "1682823600000",
+          "nowBefore": "1683514799000"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-time-gacha-rev-rockon-01-23-0430-banner",
+    "settings": [
+      {
+        "notSatisfyCondition": {
+          "conditionId": "cd-time-gacha-rev-rockon-01-23-0430-banner-end"
+        },
+        "term": {
+          "nowAfter": "1682823600000",
+          "nowBefore": "1683514799000"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-time-gacha-rev-rockon-01-23-0430-banner-end",
+    "settings": [
+      {
+        "drawGacha": {
+          "gachaButtonIds": [
+            "btn-10-gacha-rev-rockon-01-23-0430"
+          ]
+        }
+      }
+    ]
+  },
+  {
     "id": "cd-time-gacha-rev-select-01-22-0324",
     "settings": [
       {
@@ -71405,6 +73132,33 @@
         "drawGacha": {
           "gachaButtonIds": [
             "btn-10-gacha-rev-rockon-01-23-0330"
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-time-gacha-rev-select-01-23-0430",
+    "settings": [
+      {
+        "term": {
+          "nowAfter": "1682823600000",
+          "nowBefore": "1683514799000"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-time-gacha-rev-select-01-23-0430-banner",
+    "settings": [
+      {
+        "term": {
+          "nowAfter": "1682823600000",
+          "nowBefore": "1683514799000"
+        },
+        "drawGacha": {
+          "gachaButtonIds": [
+            "btn-10-gacha-rev-rockon-01-23-0430"
           ]
         }
       }
@@ -71921,6 +73675,43 @@
         "term": {
           "nowAfter": "1681873200000",
           "nowBefore": "1682391599000"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-time-gacha-select-01-23-0509",
+    "settings": [
+      {
+        "term": {
+          "nowAfter": "1683601200000",
+          "nowBefore": "1684205999000"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-time-gacha-select-01-23-0509-banner",
+    "settings": [
+      {
+        "notSatisfyCondition": {
+          "conditionId": "cd-time-gacha-select-01-23-0509-banner-end"
+        },
+        "term": {
+          "nowAfter": "1683601200000",
+          "nowBefore": "1684205999000"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-time-gacha-select-01-23-0509-banner-end",
+    "settings": [
+      {
+        "drawGacha": {
+          "gachaButtonIds": [
+            "btn-10-gacha-select-01-23-0509"
+          ]
         }
       }
     ]
@@ -72730,6 +74521,31 @@
         "term": {
           "nowAfter": "1681484400000",
           "nowBefore": "1682089199000"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-time-gvg-23-0515-0517_s-banner",
+    "settings": [
+      {
+        "satisfyCondition": {
+          "conditionId": "cd-clear-area-main-012"
+        },
+        "term": {
+          "nowAfter": "1684076400000",
+          "nowBefore": "1684335599000"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-time-gvg-23-0515-0521",
+    "settings": [
+      {
+        "term": {
+          "nowAfter": "1684076400000",
+          "nowBefore": "1684681199000"
         }
       }
     ]
@@ -74635,6 +76451,95 @@
     ]
   },
   {
+    "id": "cd-time-login-23-0428-23-0510",
+    "settings": [
+      {
+        "clearMission": {
+          "missionId": "ms-comeback-shop-limited-23-0428-check-1",
+          "threshold": "0"
+        },
+        "term": {
+          "nowAfter": "1682650800000",
+          "nowBefore": "1684033199000"
+        }
+      },
+      {
+        "clearMission": {
+          "missionId": "ms-comeback-shop-limited-23-0428-check-2",
+          "threshold": "0"
+        },
+        "term": {
+          "nowAfter": "1682650800000",
+          "nowBefore": "1684033199000"
+        }
+      },
+      {
+        "clearMission": {
+          "missionId": "ms-comeback-shop-limited-23-0428-check-3",
+          "threshold": "0"
+        },
+        "term": {
+          "nowAfter": "1682650800000",
+          "nowBefore": "1684033199000"
+        }
+      },
+      {
+        "clearMission": {
+          "missionId": "ms-comeback-shop-limited-23-0428-check-4",
+          "threshold": "0"
+        },
+        "term": {
+          "nowAfter": "1682650800000",
+          "nowBefore": "1684033199000"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-time-login-23-0429-0505",
+    "settings": [
+      {
+        "term": {
+          "nowAfter": "1682694000000",
+          "nowBefore": "1683298799000"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-time-login-23-0429-0512",
+    "settings": [
+      {
+        "term": {
+          "nowAfter": "1682694000000",
+          "nowBefore": "1683903599000"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-time-login-23-0503-0509",
+    "settings": [
+      {
+        "term": {
+          "nowAfter": "1683039600000",
+          "nowBefore": "1683644399000"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-time-login-23-0503-0516",
+    "settings": [
+      {
+        "term": {
+          "nowAfter": "1683039600000",
+          "nowBefore": "1684249199000"
+        }
+      }
+    ]
+  },
+  {
     "id": "cd-time-market-phase-001-close",
     "settings": [
       {
@@ -74824,6 +76729,45 @@
       {
         "term": {
           "nowAfter": "1661914800000",
+          "nowBefore": "0"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-time-music-clb-004-23-0428",
+    "settings": [
+      {
+        "satisfyCondition": {
+          "conditionId": "cd-clear-area-main-007"
+        },
+        "term": {
+          "nowAfter": "1682650800000",
+          "nowBefore": "0"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-time-music-clb-004-23-0428-close",
+    "settings": [
+      {
+        "term": {
+          "nowAfter": "1682650800000",
+          "nowBefore": "1682953199000"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-time-music-clb-004-23-0428-close-shoot",
+    "settings": [
+      {
+        "satisfyCondition": {
+          "conditionId": "cd-clear-area-main-007"
+        },
+        "term": {
+          "nowAfter": "1682650800000",
           "nowBefore": "0"
         }
       }
@@ -76679,6 +78623,34 @@
     ]
   },
   {
+    "id": "cd-time-pvp-23-0502-0504_s-banner",
+    "settings": [
+      {
+        "satisfyCondition": {
+          "conditionId": "cd-clear-area-main-011"
+        },
+        "term": {
+          "nowAfter": "1682953200000",
+          "nowBefore": "1683212399000"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-time-pvp-23-0512-0514_s-banner",
+    "settings": [
+      {
+        "satisfyCondition": {
+          "conditionId": "cd-clear-area-main-011"
+        },
+        "term": {
+          "nowAfter": "1683817200000",
+          "nowBefore": "1684076399000"
+        }
+      }
+    ]
+  },
+  {
     "id": "cd-time-questionnaire-21-0702-0709_s-banner",
     "settings": [
       {
@@ -76985,6 +78957,17 @@
       {
         "term": {
           "nowAfter": "1679454000000",
+          "nowBefore": "0"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-time-tower-23-0503",
+    "settings": [
+      {
+        "term": {
+          "nowAfter": "1683039600000",
           "nowBefore": "0"
         }
       }
@@ -77378,6 +79361,16 @@
       {
         "wearCostume": {
           "costumeId": "cos-kkr-idol-00"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-wear-costume-cos-kkr-kion-00",
+    "settings": [
+      {
+        "wearCostume": {
+          "costumeId": "cos-kkr-kion-00"
         }
       }
     ]
@@ -78073,6 +80066,16 @@
     ]
   },
   {
+    "id": "cd-wear-costume-cos-suz-kion-00",
+    "settings": [
+      {
+        "wearCostume": {
+          "costumeId": "cos-suz-kion-00"
+        }
+      }
+    ]
+  },
+  {
     "id": "cd-wear-costume-cos-suz-mizg-01",
     "settings": [
       {
@@ -78484,6 +80487,167 @@
     ]
   },
   {
+    "id": "cd_shop_comeback-shop-limited-23-0428-mission-view-1",
+    "settings": [
+      {
+        "satisfyCondition": {
+          "conditionId": "cd_shop_comeback-user-23-0428-23-0510"
+        },
+        "managerLevel": {
+          "levelLte": 69,
+          "levelGte": 1
+        }
+      },
+      {
+        "satisfyCondition": {
+          "conditionId": "cd_shop_comeback-shop-limited-23-0428-shop-view"
+        },
+        "managerLevel": {
+          "levelLte": 69,
+          "levelGte": 1
+        }
+      },
+      {
+        "clearMission": {
+          "missionId": "ms-comeback-shop-limited-23-0428-check-1",
+          "threshold": "0"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd_shop_comeback-shop-limited-23-0428-mission-view-2",
+    "settings": [
+      {
+        "satisfyCondition": {
+          "conditionId": "cd_shop_comeback-user-23-0428-23-0510"
+        },
+        "managerLevel": {
+          "levelLte": 129,
+          "levelGte": 70
+        }
+      },
+      {
+        "satisfyCondition": {
+          "conditionId": "cd_shop_comeback-shop-limited-23-0428-shop-view"
+        },
+        "managerLevel": {
+          "levelLte": 129,
+          "levelGte": 70
+        }
+      },
+      {
+        "clearMission": {
+          "missionId": "ms-comeback-shop-limited-23-0428-check-2",
+          "threshold": "0"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd_shop_comeback-shop-limited-23-0428-mission-view-3",
+    "settings": [
+      {
+        "satisfyCondition": {
+          "conditionId": "cd_shop_comeback-user-23-0428-23-0510"
+        },
+        "managerLevel": {
+          "levelLte": 179,
+          "levelGte": 130
+        }
+      },
+      {
+        "satisfyCondition": {
+          "conditionId": "cd_shop_comeback-shop-limited-23-0428-shop-view"
+        },
+        "managerLevel": {
+          "levelLte": 179,
+          "levelGte": 130
+        }
+      },
+      {
+        "clearMission": {
+          "missionId": "ms-comeback-shop-limited-23-0428-check-3",
+          "threshold": "0"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd_shop_comeback-shop-limited-23-0428-mission-view-4",
+    "settings": [
+      {
+        "satisfyCondition": {
+          "conditionId": "cd_shop_comeback-user-23-0428-23-0510"
+        },
+        "managerLevel": {
+          "levelGte": 180,
+          "levelLte": 0
+        }
+      },
+      {
+        "satisfyCondition": {
+          "conditionId": "cd_shop_comeback-shop-limited-23-0428-shop-view"
+        },
+        "managerLevel": {
+          "levelGte": 180,
+          "levelLte": 0
+        }
+      },
+      {
+        "clearMission": {
+          "missionId": "ms-comeback-shop-limited-23-0428-check-4",
+          "threshold": "0"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd_shop_comeback-shop-limited-23-0428-shop-view",
+    "settings": [
+      {
+        "clearMission": {
+          "missionId": "ms-comeback-shop-limited-23-0428-check-1",
+          "threshold": "0"
+        },
+        "term": {
+          "nowAfter": "1682650800000",
+          "nowBefore": "1684033199000"
+        }
+      },
+      {
+        "clearMission": {
+          "missionId": "ms-comeback-shop-limited-23-0428-check-2",
+          "threshold": "0"
+        },
+        "term": {
+          "nowAfter": "1682650800000",
+          "nowBefore": "1684033199000"
+        }
+      },
+      {
+        "clearMission": {
+          "missionId": "ms-comeback-shop-limited-23-0428-check-3",
+          "threshold": "0"
+        },
+        "term": {
+          "nowAfter": "1682650800000",
+          "nowBefore": "1684033199000"
+        }
+      },
+      {
+        "clearMission": {
+          "missionId": "ms-comeback-shop-limited-23-0428-check-4",
+          "threshold": "0"
+        },
+        "term": {
+          "nowAfter": "1682650800000",
+          "nowBefore": "1684033199000"
+        }
+      }
+    ]
+  },
+  {
     "id": "cd_shop_comeback-user-22-0328-22-0404",
     "settings": [
       {
@@ -78546,6 +80710,20 @@
         "term": {
           "nowAfter": "1679972400000",
           "nowBefore": "1680577199000"
+        },
+        "comebackUser": {
+          "isComebackUser": true
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd_shop_comeback-user-23-0428-23-0510",
+    "settings": [
+      {
+        "term": {
+          "nowAfter": "1682650800000",
+          "nowBefore": "1684033199000"
         },
         "comebackUser": {
           "isComebackUser": true
