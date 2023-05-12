@@ -2844,6 +2844,56 @@
     ]
   },
   {
+    "homeTalkId": "home-talk-card-rei-05-casl-02-talk-01",
+    "characterId": "char-rei",
+    "placeType": 1,
+    "conditionId": "cd-st-read-st-card-rei-05-casl-02-03",
+    "firstPriority": 9900,
+    "weight": 1,
+    "callPatternId": "call-pattern-card-rei-05-casl-02",
+    "choiceText": "それは、どうだろうな…。\n告白されたこととかあるのか？",
+    "managerText": "それは、どうだろうな…。\n告白されたこととかあるのか？",
+    "reliability": 5,
+    "characterTalks": [
+      {
+        "text": "告白されたことなんてありません。\nずっとダンス漬けの毎日で\n男子と関わることもなかったので。",
+        "voiceAssetId": "sud_vo_home_rei-05-casl-02_talk-01-01",
+        "motionAssetId": "mot_adv_chr_cmn_talk-001_in",
+        "additionMotionAssetId": "mot_all_chr_cmn_facial-034_in"
+      },
+      {
+        "text": "あ、でも、もらったファンレターに\n「好きです」って書かれてることは\nたまにありますね。",
+        "voiceAssetId": "sud_vo_home_rei-05-casl-02_talk-01-02",
+        "motionAssetId": "mot_adv_chr_cmn_pos-008_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "好きな人に手紙を書いて送るのは\nとても勇気がいることですから\nあれも立派な告白ですよね。",
+        "voiceAssetId": "sud_vo_home_rei-05-casl-02_talk-01-03",
+        "motionAssetId": "mot_adv_chr_cmn_pos-010_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "そう考えると、私はいつも\nファンの方から沢山の愛の告白を\nもらっていたのかも…",
+        "voiceAssetId": "sud_vo_home_rei-05-casl-02_talk-01-04",
+        "motionAssetId": "mot_adv_chr_cmn_think-003_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "…アイドルは恋愛をしちゃ\nいけないって思ってたけど\nそうじゃないのかもしれませんね。",
+        "voiceAssetId": "sud_vo_home_rei-05-casl-02_talk-01-05",
+        "motionAssetId": "mot_adv_chr_cmn_talk-020_in",
+        "additionMotionAssetId": "mot_all_chr_cmn_facial-001_in"
+      },
+      {
+        "text": "だって私もファンのみんなのことが\n大好きなんですから、\n両想いですね。",
+        "voiceAssetId": "sud_vo_home_rei-05-casl-02_talk-01-06",
+        "motionAssetId": "mot_adv_chr_cmn_glad-003_in",
+        "additionMotionAssetId": ""
+      }
+    ]
+  },
+  {
     "homeTalkId": "home-talk-card-rei-05-fest-00-talk-01",
     "characterId": "char-rei",
     "placeType": 1,

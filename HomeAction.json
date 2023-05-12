@@ -9816,6 +9816,54 @@
     "actionType": 0
   },
   {
+    "homeActionId": "home-action-rei-05-casl-02-01",
+    "characterId": "char-rei",
+    "motionAssetId": "mot_adv_chr_cmn_pos-005_in",
+    "voiceAssetId": "sud_vo_home_rei-05-casl-02_01",
+    "text": "恋愛ゲームって意外と面白いですね\nこれでヒロインが私でなければ\nもっと素直に楽しめたんですが…",
+    "conditionId": "cd-wear-costume-cos-rei-casl-02",
+    "weight": 100,
+    "additionMotionAssetId": "",
+    "positionType": 0,
+    "actionType": 0
+  },
+  {
+    "homeActionId": "home-action-rei-05-casl-02-cos-01",
+    "characterId": "char-rei",
+    "motionAssetId": "mot_adv_chr_cmn_angry-014_in",
+    "voiceAssetId": "sud_vo_home_rei-05-casl-02_cos-01",
+    "text": "私が書いた恋愛観のアンケート\n恥ずかしいので\nみんなには絶対見せないで下さい。",
+    "conditionId": "cd-wear-costume-cos-rei-casl-02",
+    "weight": 100,
+    "additionMotionAssetId": "",
+    "positionType": 0,
+    "actionType": 0
+  },
+  {
+    "homeActionId": "home-action-rei-05-casl-02-cos-02",
+    "characterId": "char-rei",
+    "motionAssetId": "mot_adv_chr_cmn_deny-006_in",
+    "voiceAssetId": "sud_vo_home_rei-05-casl-02_cos-02",
+    "text": "ゲームから私の声が\n聞こえてくるのって\nなんだか不思議な感じがします。",
+    "conditionId": "cd-wear-costume-cos-rei-casl-02",
+    "weight": 100,
+    "additionMotionAssetId": "",
+    "positionType": 0,
+    "actionType": 0
+  },
+  {
+    "homeActionId": "home-action-rei-05-casl-02-cos-03",
+    "characterId": "char-rei",
+    "motionAssetId": "mot_adv_chr_cmn_think-004_in",
+    "voiceAssetId": "sud_vo_home_rei-05-casl-02_cos-03",
+    "text": "アルバイト先で素敵な出会いって\n実際にあるんでしょうか？\nタケミヤではなさそうでしたが…",
+    "conditionId": "cd-wear-costume-cos-rei-casl-02",
+    "weight": 100,
+    "additionMotionAssetId": "",
+    "positionType": 0,
+    "actionType": 0
+  },
+  {
     "homeActionId": "home-action-rei-05-fest-00-01",
     "characterId": "char-rei",
     "motionAssetId": "mot_adv_chr_cmn_talk-019_in",
@@ -10459,6 +10507,42 @@
     "text": "お菓子食べたら運動しないと！",
     "conditionId": "cd-day_halloween",
     "weight": 1000,
+    "additionMotionAssetId": "",
+    "positionType": 0,
+    "actionType": 0
+  },
+  {
+    "homeActionId": "home-action-rei-love-01-true-01",
+    "characterId": "char-rei",
+    "motionAssetId": "mot_adv_chr_cmn_angry-002_in",
+    "voiceAssetId": "sud_vo_home_rei_love-01-home-01",
+    "text": "ゲームの中の私と現実の私を同一視\nするのはやめて下さい。あれは\n一ノ瀬怜っていうキャラなんです！",
+    "conditionId": "cd-event-love-23-0514_love-end_true",
+    "weight": 100,
+    "additionMotionAssetId": "",
+    "positionType": 0,
+    "actionType": 0
+  },
+  {
+    "homeActionId": "home-action-rei-love-01-true-02",
+    "characterId": "char-rei",
+    "motionAssetId": "mot_adv_chr_cmn_think-001_in",
+    "voiceAssetId": "sud_vo_home_rei_love-01-home-02",
+    "text": "いつか私も好きな人と恋人になった\nら、ゲームの中みたいに同棲…とか\nしたりするんでしょうか…？",
+    "conditionId": "cd-event-love-23-0514_love-end_true",
+    "weight": 100,
+    "additionMotionAssetId": "",
+    "positionType": 0,
+    "actionType": 0
+  },
+  {
+    "homeActionId": "home-action-rei-love-01-true-03",
+    "characterId": "char-rei",
+    "motionAssetId": "mot_adv_chr_cmn_emb-004_in",
+    "voiceAssetId": "sud_vo_home_rei_love-01-home-03",
+    "text": "私との恋愛はどうでしたか？\nゲームの話ですよ！　え？　可愛か\nった…？　そ、そうですか…。",
+    "conditionId": "cd-event-love-23-0514_love-end_true",
+    "weight": 100,
     "additionMotionAssetId": "",
     "positionType": 0,
     "actionType": 0

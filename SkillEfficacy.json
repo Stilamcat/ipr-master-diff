@@ -23340,6 +23340,66 @@
     "skillTargetId": ""
   },
   {
+    "id": "ef-score_get_by_skill_success_rate_up-3600-chart_dependence",
+    "name": "スコア獲得-スキル成功率が多い程効果上昇",
+    "type": 54,
+    "description": "360%のスコア獲得、スキル成功率が多い程効果上昇",
+    "shortDescription": "",
+    "grade": 0,
+    "maxGrade": 0,
+    "skillTargetId": ""
+  },
+  {
+    "id": "ef-score_get_by_skill_success_rate_up-3800-chart_dependence",
+    "name": "スコア獲得-スキル成功率が多い程効果上昇",
+    "type": 54,
+    "description": "380%のスコア獲得、スキル成功率が多い程効果上昇",
+    "shortDescription": "",
+    "grade": 0,
+    "maxGrade": 0,
+    "skillTargetId": ""
+  },
+  {
+    "id": "ef-score_get_by_skill_success_rate_up-4000-chart_dependence",
+    "name": "スコア獲得-スキル成功率が多い程効果上昇",
+    "type": 54,
+    "description": "400%のスコア獲得、スキル成功率が多い程効果上昇",
+    "shortDescription": "",
+    "grade": 0,
+    "maxGrade": 0,
+    "skillTargetId": ""
+  },
+  {
+    "id": "ef-score_get_by_skill_success_rate_up-4200-chart_dependence",
+    "name": "スコア獲得-スキル成功率が多い程効果上昇",
+    "type": 54,
+    "description": "420%のスコア獲得、スキル成功率が多い程効果上昇",
+    "shortDescription": "",
+    "grade": 0,
+    "maxGrade": 0,
+    "skillTargetId": ""
+  },
+  {
+    "id": "ef-score_get_by_skill_success_rate_up-4400-chart_dependence",
+    "name": "スコア獲得-スキル成功率が多い程効果上昇",
+    "type": 54,
+    "description": "440%のスコア獲得、スキル成功率が多い程効果上昇",
+    "shortDescription": "",
+    "grade": 0,
+    "maxGrade": 0,
+    "skillTargetId": ""
+  },
+  {
+    "id": "ef-score_get_by_skill_success_rate_up-4600-chart_dependence",
+    "name": "スコア獲得-スキル成功率が多い程効果上昇",
+    "type": 54,
+    "description": "460%のスコア獲得、スキル成功率が多い程効果上昇",
+    "shortDescription": "",
+    "grade": 0,
+    "maxGrade": 0,
+    "skillTargetId": ""
+  },
+  {
     "id": "ef-score_get_by_skill_success_rate_up-8400-chart_dependence",
     "name": "スコア獲得-スキル成功率が多い程効果上昇",
     "type": 54,
@@ -30850,6 +30910,36 @@
     "shortDescription": ""
   },
   {
+    "id": "ef-skill_success_rate_up-2-target-all-31",
+    "name": "全員にスキル成功率上昇効果",
+    "type": 37,
+    "description": "全員に2段階スキル成功率上昇効果[31ビート]",
+    "grade": 2,
+    "maxGrade": 10,
+    "skillTargetId": "target-all",
+    "shortDescription": ""
+  },
+  {
+    "id": "ef-skill_success_rate_up-2-target-all-35",
+    "name": "全員にスキル成功率上昇効果",
+    "type": 37,
+    "description": "全員に2段階スキル成功率上昇効果[35ビート]",
+    "grade": 2,
+    "maxGrade": 10,
+    "skillTargetId": "target-all",
+    "shortDescription": ""
+  },
+  {
+    "id": "ef-skill_success_rate_up-2-target-all-39",
+    "name": "全員にスキル成功率上昇効果",
+    "type": 37,
+    "description": "全員に2段階スキル成功率上昇効果[39ビート]",
+    "grade": 2,
+    "maxGrade": 10,
+    "skillTargetId": "target-all",
+    "shortDescription": ""
+  },
+  {
     "id": "ef-skill_success_rate_up-2-target-all-40",
     "name": "全員にスキル成功率上昇効果",
     "type": 37,
@@ -31017,6 +31107,36 @@
     "grade": 2,
     "maxGrade": 10,
     "skillTargetId": "target-self",
+    "shortDescription": ""
+  },
+  {
+    "id": "ef-skill_success_rate_up-3-target-all-39",
+    "name": "全員にスキル成功率上昇効果",
+    "type": 37,
+    "description": "全員に3段階スキル成功率上昇効果[39ビート]",
+    "grade": 3,
+    "maxGrade": 10,
+    "skillTargetId": "target-all",
+    "shortDescription": ""
+  },
+  {
+    "id": "ef-skill_success_rate_up-3-target-all-48",
+    "name": "全員にスキル成功率上昇効果",
+    "type": 37,
+    "description": "全員に3段階スキル成功率上昇効果[48ビート]",
+    "grade": 3,
+    "maxGrade": 10,
+    "skillTargetId": "target-all",
+    "shortDescription": ""
+  },
+  {
+    "id": "ef-skill_success_rate_up-3-target-all-57",
+    "name": "全員にスキル成功率上昇効果",
+    "type": 37,
+    "description": "全員に3段階スキル成功率上昇効果[57ビート]",
+    "grade": 3,
+    "maxGrade": 10,
+    "skillTargetId": "target-all",
     "shortDescription": ""
   },
   {
@@ -42990,6 +43110,16 @@
     "shortDescription": ""
   },
   {
+    "id": "ef-vocal_up-3-target-self-22",
+    "name": "自身にボーカル上昇効果",
+    "type": 14,
+    "description": "自身に3段階ボーカル上昇効果[22ビート]",
+    "grade": 3,
+    "maxGrade": 20,
+    "skillTargetId": "target-self",
+    "shortDescription": ""
+  },
+  {
     "id": "ef-vocal_up-3-target-self-23",
     "name": "自身にボーカル上昇効果",
     "type": 14,
@@ -43444,6 +43574,16 @@
     "name": "自身にボーカル上昇効果",
     "type": 14,
     "description": "自身に4段階ボーカル上昇効果[21ビート]",
+    "grade": 4,
+    "maxGrade": 20,
+    "skillTargetId": "target-self",
+    "shortDescription": ""
+  },
+  {
+    "id": "ef-vocal_up-4-target-self-22",
+    "name": "自身にボーカル上昇効果",
+    "type": 14,
+    "description": "自身に4段階ボーカル上昇効果[22ビート]",
     "grade": 4,
     "maxGrade": 20,
     "skillTargetId": "target-self",
@@ -44014,6 +44154,16 @@
     "name": "自身にボーカル上昇効果",
     "type": 14,
     "description": "自身に5段階ボーカル上昇効果[25ビート]",
+    "grade": 5,
+    "maxGrade": 20,
+    "skillTargetId": "target-self",
+    "shortDescription": ""
+  },
+  {
+    "id": "ef-vocal_up-5-target-self-26",
+    "name": "自身にボーカル上昇効果",
+    "type": 14,
+    "description": "自身に5段階ボーカル上昇効果[26ビート]",
     "grade": 5,
     "maxGrade": 20,
     "skillTargetId": "target-self",

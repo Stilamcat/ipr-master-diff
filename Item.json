@@ -1452,6 +1452,17 @@
     "salePrice": 0
   },
   {
+    "id": "item-gacha_point-pick-set-bloom-23-0514",
+    "name": "もしも君と恋をしたら~一ノ瀬怜編~ガチャPt",
+    "assetId": "gacha-point",
+    "description": "該当するガチャページの「ガチャPt」から\nガチャPtを消費してアイドルを獲得できる",
+    "type": 9,
+    "value": 1,
+    "order": 140,
+    "howToGet": "",
+    "salePrice": 0
+  },
+  {
     "id": "item-gacha_point-pickup-21-0712",
     "name": "光射す海宴ガチャPt",
     "assetId": "gacha-point",
@@ -1914,6 +1925,17 @@
     "salePrice": 0
   },
   {
+    "id": "item-gacha_point-select-01-23-0516",
+    "name": "選べる★5スコアラーガチャPt",
+    "assetId": "gacha-point",
+    "description": "該当するガチャページの「ガチャPt」から\nガチャPtを消費してアイドルを獲得できる",
+    "type": 9,
+    "value": 1,
+    "order": 140,
+    "howToGet": "",
+    "salePrice": 0
+  },
+  {
     "id": "item-gacha_ticket",
     "name": "ガチャチケ",
     "assetId": "gacha-ticket-normal",
@@ -2120,6 +2142,39 @@
     "type": 10,
     "value": 1,
     "order": 140,
+    "salePrice": 0
+  },
+  {
+    "id": "item-love-23-0514-lesson-boost",
+    "name": "もし恋スキップドリンク",
+    "assetId": "love-23-0514-lesson-boost",
+    "description": "2時間分の報酬をすぐに獲得できる\nもし恋 一ノ瀬怜編で使用できる",
+    "howToGet": "もし恋",
+    "type": 9003,
+    "value": 120,
+    "order": 1000,
+    "salePrice": 0
+  },
+  {
+    "id": "item-love-23-0514-present",
+    "name": "プレゼント",
+    "assetId": "love-23-0514-present",
+    "description": "ヒロインに渡すことができるプレゼント\nもし恋 一ノ瀬怜編で使用できる",
+    "howToGet": "もし恋",
+    "type": 9002,
+    "value": 167,
+    "order": 1000,
+    "salePrice": 0
+  },
+  {
+    "id": "item-love-23-0514-story",
+    "name": "もし恋ストーリーPt",
+    "assetId": "love-23-0514-story-pt",
+    "description": "もし恋のストーリーを読むために必要なPt\nもし恋 一ノ瀬怜編で使用できる",
+    "howToGet": "もし恋",
+    "type": 9001,
+    "value": 1,
+    "order": 1000,
     "salePrice": 0
   },
   {

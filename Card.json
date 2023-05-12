@@ -5105,6 +5105,66 @@
     "homeTalks": []
   },
   {
+    "id": "card-rei-05-casl-02",
+    "assetId": "rei-05-casl-02",
+    "name": "もしも君の手に触れたら",
+    "description": "そりゃあ、私だって女の子なんだから……\r\n大好きな場所で、大好きな人とデートすることに\r\n憧れたっていいじゃない……",
+    "type": 1,
+    "characterId": "char-rei",
+    "initialRarity": 5,
+    "cardParameterId": "card-param-01",
+    "vocalRatioPermil": 434,
+    "danceRatioPermil": 316,
+    "visualRatioPermil": 280,
+    "staminaRatioPermil": 900,
+    "cardLevelReleaseId": "card_level_release_1",
+    "skillId1": "sk-rei-05-casl-02-1",
+    "skillId2": "sk-rei-05-casl-02-2",
+    "skillId3": "sk-rei-05-casl-02-3",
+    "liveAbilityId": "lba-special_skill_score_multiply",
+    "order": 284,
+    "releaseDate": "1684033200000",
+    "rewardCostumeId": "cos-rei-casl-02",
+    "imageType1": 3,
+    "displayPositionX1": 0.063,
+    "displayScale1": 1.0,
+    "highlightDisplayPositionX1": 0.012,
+    "highlightDisplayPositionY1": 0.052,
+    "highlightDisplayScale1": 0.7,
+    "imageType2": 3,
+    "displayPositionX2": 0.063,
+    "displayScale2": 1.0,
+    "highlightDisplayPositionX2": 0.012,
+    "highlightDisplayPositionY2": 0.052,
+    "highlightDisplayScale2": 0.7,
+    "obtainMessage": "ありのままの私と恋をしてほしいんです",
+    "stories": [
+      {
+        "storyId": "st-card-rei-05-casl-02-01"
+      },
+      {
+        "storyId": "st-card-rei-05-casl-02-02"
+      },
+      {
+        "storyId": "st-card-rei-05-casl-02-03"
+      }
+    ],
+    "messages": [
+      {
+        "messageId": "message-card-rei-05-casl-02",
+        "telephoneId": ""
+      },
+      {
+        "telephoneId": "tel-card-rei-05-casl-02",
+        "messageId": ""
+      }
+    ],
+    "activityAbilityId": "",
+    "displayPositionY1": 0.0,
+    "displayPositionY2": 0.0,
+    "homeTalks": []
+  },
+  {
     "id": "card-rei-05-fest-00",
     "assetId": "rei-05-fest-00",
     "name": "踊る彼女に息をのむ",
