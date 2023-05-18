@@ -8261,6 +8261,36 @@
     ]
   },
   {
+    "id": "cd-clear-area-main-096",
+    "settings": [
+      {
+        "clearArea": {
+          "areaId": "area-main-096"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-clear-area-main-097",
+    "settings": [
+      {
+        "clearArea": {
+          "areaId": "area-main-097"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-clear-area-main-098",
+    "settings": [
+      {
+        "clearArea": {
+          "areaId": "area-main-098"
+        }
+      }
+    ]
+  },
+  {
     "id": "cd-clear-cd-clear-qt-tower-800-or-event-ms-comeback-23-0428-quest_tower_clear_count-1",
     "settings": [
       {
@@ -27775,6 +27805,20 @@
         "managerLevel": {
           "levelGte": 198,
           "levelLte": 0
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-manager_level_gte-198-230518",
+    "settings": [
+      {
+        "satisfyCondition": {
+          "conditionId": "cd-manager_level_gte-198"
+        },
+        "term": {
+          "nowAfter": "1684378800000",
+          "nowBefore": "0"
         }
       }
     ]
@@ -79496,6 +79540,17 @@
       {
         "term": {
           "nowAfter": "1683039600000",
+          "nowBefore": "0"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-time-tower-23-0520",
+    "settings": [
+      {
+        "term": {
+          "nowAfter": "1684551600000",
           "nowBefore": "0"
         }
       }

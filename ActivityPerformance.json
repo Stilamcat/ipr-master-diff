@@ -570,6 +570,26 @@
     "assistantNpcSpineId": ""
   },
   {
+    "id": "public-radio",
+    "costumeTypeIds": [
+      "casl",
+      "schl",
+      "idol",
+      "gene"
+    ],
+    "forceCostumeTypeId": "casl",
+    "fieldId": "public-radio-00",
+    "existBackground": true,
+    "backgroundTopColorCode": "eadfdd",
+    "backgroundBottomColorCode": "fae1be",
+    "fieldSpineNumber": 5,
+    "existProp": true,
+    "existForeground": false,
+    "fieldSpineColorSlotId": "",
+    "fieldSpineColorSlotNumber": 0,
+    "assistantNpcSpineId": ""
+  },
+  {
     "id": "quiz_program",
     "costumeTypeIds": [
       "idol",
