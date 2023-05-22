@@ -42595,6 +42595,16 @@
     ]
   },
   {
+    "id": "cd-ms-read-message-card-ski-05-poli-00",
+    "settings": [
+      {
+        "finishedMessage": {
+          "messageId": "message-card-ski-05-poli-00"
+        }
+      }
+    ]
+  },
+  {
     "id": "cd-ms-read-message-card-ski-05-waso-00",
     "settings": [
       {
@@ -61743,6 +61753,39 @@
     ]
   },
   {
+    "id": "cd-shop_special-shop-23-0523",
+    "settings": [
+      {
+        "term": {
+          "nowAfter": "1684810800000",
+          "nowBefore": "0"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-shop_special-shop-23-0523-0528",
+    "settings": [
+      {
+        "term": {
+          "nowAfter": "1684810800000",
+          "nowBefore": "1685242799000"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-shop_special-shop-23-0523-0528-dokan",
+    "settings": [
+      {
+        "term": {
+          "nowAfter": "1684810800000",
+          "nowBefore": "1685242799000"
+        }
+      }
+    ]
+  },
+  {
     "id": "cd-shop_special-shop-banner-21-1125",
     "settings": [
       {
@@ -64897,6 +64940,16 @@
       {
         "readStory": {
           "storyId": "st-card-ski-05-mizg-02-03"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-st-read-st-card-ski-05-poli-00-03",
+    "settings": [
+      {
+        "readStory": {
+          "storyId": "st-card-ski-05-poli-00-03"
         }
       }
     ]
@@ -72107,7 +72160,18 @@
       {
         "term": {
           "nowAfter": "1684033200000",
-          "nowBefore": "1685156400000"
+          "nowBefore": "1684724400000"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-time-gacha-normal-23-0522",
+    "settings": [
+      {
+        "term": {
+          "nowAfter": "1684724400000",
+          "nowBefore": "1685502000000"
         }
       }
     ]
@@ -72514,6 +72578,17 @@
         "term": {
           "nowAfter": "1684033200000",
           "nowBefore": "1685156399000"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-time-gacha-pick-set-bloom-23-0522",
+    "settings": [
+      {
+        "term": {
+          "nowAfter": "1684724400000",
+          "nowBefore": "1685501999000"
         }
       }
     ]
@@ -80494,6 +80569,16 @@
       {
         "wearCostume": {
           "costumeId": "cos-ski-mizg-02"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-wear-costume-cos-ski-poli-00",
+    "settings": [
+      {
+        "wearCostume": {
+          "costumeId": "cos-ski-poli-00"
         }
       }
     ]

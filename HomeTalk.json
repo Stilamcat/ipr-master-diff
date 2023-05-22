@@ -3934,6 +3934,56 @@
     ]
   },
   {
+    "homeTalkId": "home-talk-card-ski-05-poli-00-talk-01",
+    "characterId": "char-ski",
+    "placeType": 1,
+    "conditionId": "cd-st-read-st-card-ski-05-poli-00-03",
+    "firstPriority": 9900,
+    "weight": 1,
+    "callPatternId": "call-pattern-card-ski-05-poli-00",
+    "choiceText": "kanaさんの真似を続けてるのか？",
+    "managerText": "kanaさんの真似を続けてるのか？",
+    "reliability": 5,
+    "characterTalks": [
+      {
+        "text": "似てるかどうかはともかくとして\n物真似というアプローチは\nとてもいいと思ったんです。",
+        "voiceAssetId": "sud_vo_home_ski-05-poli-00_talk-01-01",
+        "motionAssetId": "mot_adv_chr_cmn_pos-005_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "分析するだけでなく、実際に\nアウトプットしてみて初めて自分\nとの違いに気付くことも多くて。",
+        "voiceAssetId": "sud_vo_home_ski-05-poli-00_talk-01-02",
+        "motionAssetId": "mot_adv_chr_cmn_pos-010_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "ですから、これからはスリクスの\n皆さんだけでなく他の人の真似も\nこまめに練習してみたいなと。",
+        "voiceAssetId": "sud_vo_home_ski-05-poli-00_talk-01-03",
+        "motionAssetId": "mot_adv_chr_cmn_pos-006_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "とはいえ、なるべく自分とかけ\n離れた人の方が参考になると考え\nると、真っ先に思いつくのは…。",
+        "voiceAssetId": "sud_vo_home_ski-05-poli-00_talk-01-04",
+        "motionAssetId": "mot_adv_chr_cmn_think-004_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "きゃはっ。お疲れ様で～す。",
+        "voiceAssetId": "sud_vo_home_ski-05-poli-00_talk-01-05",
+        "motionAssetId": "mot_adv_chr_cmn_empa-001_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "って、真顔にならないで下さい！\nあ、あくまで練習の一環ですから！\nこれから真顔は禁止ですよ、禁止！",
+        "voiceAssetId": "sud_vo_home_ski-05-poli-00_talk-01-06",
+        "motionAssetId": "mot_adv_chr_cmn_emb-009_in",
+        "additionMotionAssetId": ""
+      }
+    ]
+  },
+  {
     "homeTalkId": "home-talk-card-ski-05-waso-00-talk-01",
     "characterId": "char-ski",
     "placeType": 1,

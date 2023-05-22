@@ -7046,6 +7046,66 @@
     "homeTalks": []
   },
   {
+    "id": "card-ski-05-poli-00",
+    "assetId": "ski-05-poli-00",
+    "name": "厳然たるプライド",
+    "description": "私の強みを生かして、自分なりのアプローチを続けて\n自分の課題と深く向き合って……想いを育てていきます\n私だって、アイドルに対する覚悟や想いは\n誰よりも強い自信がありますから",
+    "type": 2,
+    "characterId": "char-ski",
+    "initialRarity": 5,
+    "cardParameterId": "card-param-01",
+    "vocalRatioPermil": 277,
+    "danceRatioPermil": 404,
+    "visualRatioPermil": 319,
+    "staminaRatioPermil": 1000,
+    "cardLevelReleaseId": "card_level_release_1",
+    "skillId1": "sk-ski-05-poli-00-1",
+    "skillId2": "sk-ski-05-poli-00-2",
+    "skillId3": "sk-ski-05-poli-00-3",
+    "activityAbilityId": "aab-refresh_stamina_up",
+    "order": 285,
+    "releaseDate": "1684724400000",
+    "rewardCostumeId": "cos-ski-poli-00",
+    "imageType1": 3,
+    "displayPositionX1": 0.22,
+    "displayScale1": 1.0,
+    "highlightDisplayPositionX1": -0.168,
+    "highlightDisplayPositionY1": 0.252,
+    "highlightDisplayScale1": 0.8,
+    "imageType2": 3,
+    "displayPositionX2": 0.22,
+    "displayScale2": 1.0,
+    "highlightDisplayPositionX2": -0.168,
+    "highlightDisplayPositionY2": 0.252,
+    "highlightDisplayScale2": 0.8,
+    "obtainMessage": "さあ、 圧倒的なステージをお見せしましょう",
+    "stories": [
+      {
+        "storyId": "st-card-ski-05-poli-00-01"
+      },
+      {
+        "storyId": "st-card-ski-05-poli-00-02"
+      },
+      {
+        "storyId": "st-card-ski-05-poli-00-03"
+      }
+    ],
+    "messages": [
+      {
+        "messageId": "message-card-ski-05-poli-00",
+        "telephoneId": ""
+      },
+      {
+        "telephoneId": "tel-card-ski-05-poli-00",
+        "messageId": ""
+      }
+    ],
+    "liveAbilityId": "",
+    "displayPositionY1": 0.0,
+    "displayPositionY2": 0.0,
+    "homeTalks": []
+  },
+  {
     "id": "card-ski-05-waso-00",
     "assetId": "ski-05-waso-00",
     "name": "胸に秘めていた情熱",

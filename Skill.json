@@ -93952,6 +93952,444 @@
     "assetId": ""
   },
   {
+    "id": "sk-ski-05-poli-00-1",
+    "name": "秀才の矜持",
+    "categoryType": 2,
+    "levels": [
+      {
+        "level": 1,
+        "description": "350%のスコア獲得\nダンスタイプ2人に5段階ダンス上昇効果[25ビート]\n自身がダンスレーンの時 ライブボーナスのCTを15減少\nスタミナ126消費 CT:40",
+        "shortDescription": "\n\n \nスタミナ126消費 CT:40",
+        "stamina": 126,
+        "probabilityPermil": 1000,
+        "coolTime": 40,
+        "skillDetails": [
+          {
+            "efficacyId": "ef-score_get-3500-chart_dependence",
+            "triggerId": ""
+          },
+          {
+            "efficacyId": "ef-dance_up-5-target-dance-2-25",
+            "triggerId": ""
+          },
+          {
+            "efficacyId": "ef-live_ability_cool_time_reduction-15",
+            "triggerId": "tg-position_attribute_dance"
+          }
+        ],
+        "requiredItemAmount": 0,
+        "requiredCardLevel": 0,
+        "triggerId": "",
+        "limitCount": 0,
+        "staminaPermil": 0
+      },
+      {
+        "level": 2,
+        "description": "360%のスコア獲得\nダンスタイプ2人に5段階ダンス上昇効果[30ビート]\n自身がダンスレーンの時 ライブボーナスのCTを17減少\nスタミナ133消費 CT:40",
+        "shortDescription": "\n\n \nスタミナ133消費 CT:40",
+        "requiredItemAmount": 500,
+        "requiredCardLevel": 40,
+        "stamina": 133,
+        "probabilityPermil": 1000,
+        "coolTime": 40,
+        "skillDetails": [
+          {
+            "efficacyId": "ef-score_get-3600-chart_dependence",
+            "triggerId": ""
+          },
+          {
+            "efficacyId": "ef-dance_up-5-target-dance-2-30",
+            "triggerId": ""
+          },
+          {
+            "efficacyId": "ef-live_ability_cool_time_reduction-17",
+            "triggerId": "tg-position_attribute_dance"
+          }
+        ],
+        "triggerId": "",
+        "limitCount": 0,
+        "staminaPermil": 0
+      },
+      {
+        "level": 3,
+        "description": "370%のスコア獲得\nダンスタイプ2人に6段階ダンス上昇効果[30ビート]\n自身がダンスレーンの時 ライブボーナスのCTを19減少\nスタミナ141消費 CT:40",
+        "shortDescription": "\n\n \nスタミナ141消費 CT:40",
+        "requiredItemAmount": 2000,
+        "requiredCardLevel": 60,
+        "stamina": 141,
+        "probabilityPermil": 1000,
+        "coolTime": 40,
+        "skillDetails": [
+          {
+            "efficacyId": "ef-score_get-3700-chart_dependence",
+            "triggerId": ""
+          },
+          {
+            "efficacyId": "ef-dance_up-6-target-dance-2-30",
+            "triggerId": ""
+          },
+          {
+            "efficacyId": "ef-live_ability_cool_time_reduction-19",
+            "triggerId": "tg-position_attribute_dance"
+          }
+        ],
+        "triggerId": "",
+        "limitCount": 0,
+        "staminaPermil": 0
+      },
+      {
+        "level": 4,
+        "description": "390%のスコア獲得\nダンスタイプ2人に6段階ダンス上昇効果[35ビート]\n自身がダンスレーンの時 ライブボーナスのCTを21減少\nスタミナ152消費 CT:40",
+        "shortDescription": "\n\n \nスタミナ152消費 CT:40",
+        "requiredItemAmount": 15000,
+        "requiredCardLevel": 90,
+        "stamina": 152,
+        "probabilityPermil": 1000,
+        "coolTime": 40,
+        "skillDetails": [
+          {
+            "efficacyId": "ef-score_get-3900-chart_dependence",
+            "triggerId": ""
+          },
+          {
+            "efficacyId": "ef-dance_up-6-target-dance-2-35",
+            "triggerId": ""
+          },
+          {
+            "efficacyId": "ef-live_ability_cool_time_reduction-21",
+            "triggerId": "tg-position_attribute_dance"
+          }
+        ],
+        "triggerId": "",
+        "limitCount": 0,
+        "staminaPermil": 0
+      },
+      {
+        "level": 5,
+        "description": "410%のスコア獲得\nダンスタイプ2人に7段階ダンス上昇効果[35ビート]\n自身がダンスレーンの時 ライブボーナスのCTを23減少\nスタミナ164消費 CT:40",
+        "shortDescription": "\n\n \nスタミナ164消費 CT:40",
+        "requiredItemAmount": 100000,
+        "requiredCardLevel": 150,
+        "stamina": 164,
+        "probabilityPermil": 1000,
+        "coolTime": 40,
+        "skillDetails": [
+          {
+            "efficacyId": "ef-score_get-4100-chart_dependence",
+            "triggerId": ""
+          },
+          {
+            "efficacyId": "ef-dance_up-7-target-dance-2-35",
+            "triggerId": ""
+          },
+          {
+            "efficacyId": "ef-live_ability_cool_time_reduction-23",
+            "triggerId": "tg-position_attribute_dance"
+          }
+        ],
+        "triggerId": "",
+        "limitCount": 0,
+        "staminaPermil": 0
+      },
+      {
+        "level": 6,
+        "description": "430%のスコア獲得\nダンスタイプ2人に7段階ダンス上昇効果[40ビート]\n自身がダンスレーンの時 ライブボーナスのCTを25減少\nスタミナ175消費 CT:40",
+        "shortDescription": "\n\n \nスタミナ175消費 CT:40",
+        "requiredItemAmount": 230000,
+        "requiredCardLevel": 180,
+        "stamina": 175,
+        "probabilityPermil": 1000,
+        "coolTime": 40,
+        "skillDetails": [
+          {
+            "efficacyId": "ef-score_get-4300-chart_dependence",
+            "triggerId": ""
+          },
+          {
+            "efficacyId": "ef-dance_up-7-target-dance-2-40",
+            "triggerId": ""
+          },
+          {
+            "efficacyId": "ef-live_ability_cool_time_reduction-25",
+            "triggerId": "tg-position_attribute_dance"
+          }
+        ],
+        "triggerId": "",
+        "limitCount": 0,
+        "staminaPermil": 0
+      }
+    ],
+    "assetId": ""
+  },
+  {
+    "id": "sk-ski-05-poli-00-2",
+    "name": "miho直伝の技",
+    "categoryType": 3,
+    "levels": [
+      {
+        "level": 1,
+        "description": "誰かがSPスキル発動前\n対象1人に4段階SPスキルスコア上昇効果\nスタミナ175消費 CT:50",
+        "shortDescription": "\n\nスタミナ175消費 CT:50",
+        "stamina": 175,
+        "triggerId": "tg-before_special_skill_by_someone",
+        "probabilityPermil": 1000,
+        "coolTime": 50,
+        "skillDetails": [
+          {
+            "efficacyId": "ef-special_skill_score_up-4-target-trigger-5",
+            "triggerId": ""
+          }
+        ],
+        "requiredItemAmount": 0,
+        "requiredCardLevel": 0,
+        "limitCount": 0,
+        "staminaPermil": 0
+      },
+      {
+        "level": 2,
+        "description": "誰かがSPスキル発動前\n対象1人に5段階SPスキルスコア上昇効果\nスタミナ218消費 CT:50",
+        "shortDescription": "\n\nスタミナ218消費 CT:50",
+        "requiredItemAmount": 1000,
+        "requiredCardLevel": 50,
+        "stamina": 218,
+        "triggerId": "tg-before_special_skill_by_someone",
+        "probabilityPermil": 1000,
+        "coolTime": 50,
+        "skillDetails": [
+          {
+            "efficacyId": "ef-special_skill_score_up-5-target-trigger-5",
+            "triggerId": ""
+          }
+        ],
+        "limitCount": 0,
+        "staminaPermil": 0
+      },
+      {
+        "level": 3,
+        "description": "誰かがSPスキル発動前\n対象1人に6段階SPスキルスコア上昇効果\nスタミナ262消費 CT:50",
+        "shortDescription": "\n\nスタミナ262消費 CT:50",
+        "requiredItemAmount": 4000,
+        "requiredCardLevel": 70,
+        "stamina": 262,
+        "triggerId": "tg-before_special_skill_by_someone",
+        "probabilityPermil": 1000,
+        "coolTime": 50,
+        "skillDetails": [
+          {
+            "efficacyId": "ef-special_skill_score_up-6-target-trigger-5",
+            "triggerId": ""
+          }
+        ],
+        "limitCount": 0,
+        "staminaPermil": 0
+      },
+      {
+        "level": 4,
+        "description": "誰かがSPスキル発動前\n対象1人に6段階SPスキルスコア上昇効果\nスタミナ262消費 CT:30",
+        "shortDescription": "\n\nスタミナ262消費 CT:30",
+        "requiredItemAmount": 30000,
+        "requiredCardLevel": 110,
+        "stamina": 262,
+        "triggerId": "tg-before_special_skill_by_someone",
+        "probabilityPermil": 1000,
+        "coolTime": 30,
+        "skillDetails": [
+          {
+            "efficacyId": "ef-special_skill_score_up-6-target-trigger-5",
+            "triggerId": ""
+          }
+        ],
+        "limitCount": 0,
+        "staminaPermil": 0
+      },
+      {
+        "level": 5,
+        "description": "誰かがSPスキル発動前\n対象1人に7段階SPスキルスコア上昇効果\nスタミナ306消費 CT:30",
+        "shortDescription": "\n\nスタミナ306消費 CT:30",
+        "requiredItemAmount": 140000,
+        "requiredCardLevel": 160,
+        "stamina": 306,
+        "triggerId": "tg-before_special_skill_by_someone",
+        "probabilityPermil": 1000,
+        "coolTime": 30,
+        "skillDetails": [
+          {
+            "efficacyId": "ef-special_skill_score_up-7-target-trigger-5",
+            "triggerId": ""
+          }
+        ],
+        "limitCount": 0,
+        "staminaPermil": 0
+      },
+      {
+        "level": 6,
+        "description": "誰かがSPスキル発動前\n対象1人に8段階SPスキルスコア上昇効果\nスタミナ349消費 CT:30",
+        "shortDescription": "\n\nスタミナ349消費 CT:30",
+        "requiredItemAmount": 280000,
+        "requiredCardLevel": 200,
+        "stamina": 349,
+        "triggerId": "tg-before_special_skill_by_someone",
+        "probabilityPermil": 1000,
+        "coolTime": 30,
+        "skillDetails": [
+          {
+            "efficacyId": "ef-special_skill_score_up-8-target-trigger-5",
+            "triggerId": ""
+          }
+        ],
+        "limitCount": 0,
+        "staminaPermil": 0
+      }
+    ],
+    "assetId": ""
+  },
+  {
+    "id": "sk-ski-05-poli-00-3",
+    "name": "ⅢXのモノマネ",
+    "categoryType": 3,
+    "levels": [
+      {
+        "level": 1,
+        "description": "自身に4段階ダンス上昇効果[39ビート]\nダンスタイプ1人に4段階ダンス上昇効果[39ビート]\nスタミナ135消費 CT:50",
+        "shortDescription": "\n\nスタミナ135消費 CT:50",
+        "stamina": 135,
+        "probabilityPermil": 1000,
+        "coolTime": 50,
+        "skillDetails": [
+          {
+            "efficacyId": "ef-dance_up-4-target-self-39",
+            "triggerId": ""
+          },
+          {
+            "efficacyId": "ef-dance_up-4-target-dance-1-39",
+            "triggerId": ""
+          }
+        ],
+        "requiredItemAmount": 0,
+        "requiredCardLevel": 0,
+        "triggerId": "",
+        "limitCount": 0,
+        "staminaPermil": 0
+      },
+      {
+        "level": 2,
+        "description": "自身に5段階ダンス上昇効果[39ビート]\nダンスタイプ1人に5段階ダンス上昇効果[39ビート]\nスタミナ168消費 CT:50",
+        "shortDescription": "\n\nスタミナ168消費 CT:50",
+        "requiredItemAmount": 15000,
+        "requiredCardLevel": 100,
+        "stamina": 168,
+        "probabilityPermil": 1000,
+        "coolTime": 50,
+        "skillDetails": [
+          {
+            "efficacyId": "ef-dance_up-5-target-self-39",
+            "triggerId": ""
+          },
+          {
+            "efficacyId": "ef-dance_up-5-target-dance-1-39",
+            "triggerId": ""
+          }
+        ],
+        "triggerId": "",
+        "limitCount": 0,
+        "staminaPermil": 0
+      },
+      {
+        "level": 3,
+        "description": "自身に5段階ダンス上昇効果[43ビート]\nダンスタイプ1人に5段階ダンス上昇効果[43ビート]\nスタミナ186消費 CT:50",
+        "shortDescription": "\n\nスタミナ186消費 CT:50",
+        "requiredItemAmount": 60000,
+        "requiredCardLevel": 130,
+        "stamina": 186,
+        "probabilityPermil": 1000,
+        "coolTime": 50,
+        "skillDetails": [
+          {
+            "efficacyId": "ef-dance_up-5-target-self-43",
+            "triggerId": ""
+          },
+          {
+            "efficacyId": "ef-dance_up-5-target-dance-1-43",
+            "triggerId": ""
+          }
+        ],
+        "triggerId": "",
+        "limitCount": 0,
+        "staminaPermil": 0
+      },
+      {
+        "level": 4,
+        "description": "自身に6段階ダンス上昇効果[43ビート]\nダンスタイプ1人に6段階ダンス上昇効果[43ビート]\nスタミナ223消費 CT:50",
+        "shortDescription": "\n\nスタミナ223消費 CT:50",
+        "requiredItemAmount": 180000,
+        "requiredCardLevel": 170,
+        "stamina": 223,
+        "probabilityPermil": 1000,
+        "coolTime": 50,
+        "skillDetails": [
+          {
+            "efficacyId": "ef-dance_up-6-target-self-43",
+            "triggerId": ""
+          },
+          {
+            "efficacyId": "ef-dance_up-6-target-dance-1-43",
+            "triggerId": ""
+          }
+        ],
+        "triggerId": "",
+        "limitCount": 0,
+        "staminaPermil": 0
+      },
+      {
+        "level": 5,
+        "description": "自身に6段階ダンス上昇効果[47ビート]\nダンスタイプ1人に6段階ダンス上昇効果[47ビート]\nスタミナ243消費 CT:50",
+        "shortDescription": "\n\nスタミナ243消費 CT:50",
+        "requiredItemAmount": 330000,
+        "requiredCardLevel": 210,
+        "stamina": 243,
+        "probabilityPermil": 1000,
+        "coolTime": 50,
+        "skillDetails": [
+          {
+            "efficacyId": "ef-dance_up-6-target-self-47",
+            "triggerId": ""
+          },
+          {
+            "efficacyId": "ef-dance_up-6-target-dance-1-47",
+            "triggerId": ""
+          }
+        ],
+        "triggerId": "",
+        "limitCount": 0,
+        "staminaPermil": 0
+      },
+      {
+        "level": 6,
+        "description": "自身に7段階ダンス上昇効果[47ビート]\nダンスタイプ1人に7段階ダンス上昇効果[47ビート]\nスタミナ284消費 CT:50",
+        "shortDescription": "\n\nスタミナ284消費 CT:50",
+        "requiredItemAmount": 380000,
+        "requiredCardLevel": 230,
+        "stamina": 284,
+        "probabilityPermil": 1000,
+        "coolTime": 50,
+        "skillDetails": [
+          {
+            "efficacyId": "ef-dance_up-7-target-self-47",
+            "triggerId": ""
+          },
+          {
+            "efficacyId": "ef-dance_up-7-target-dance-1-47",
+            "triggerId": ""
+          }
+        ],
+        "triggerId": "",
+        "limitCount": 0,
+        "staminaPermil": 0
+      }
+    ],
+    "assetId": ""
+  },
+  {
     "id": "sk-ski-05-waso-00-1",
     "name": "殻をやぶる",
     "categoryType": 2,

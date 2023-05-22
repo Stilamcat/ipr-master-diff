@@ -1002,7 +1002,7 @@
     ],
     "exchangeResourceType": 1,
     "exchangeResourceId": "item-gacha_point-pick-set-bloom-23-0514",
-    "order": 99,
+    "order": 199,
     "isPeriodDisplay": true,
     "appealText": "★5アイドルが1人確定！",
     "buttonIds": [
@@ -7787,6 +7787,45 @@
     "cardRewards": []
   },
   {
+    "id": "gacha-normal-23-0522",
+    "assetId": "normal-21-0624-01",
+    "bannerAssetId": "gacha-normal-21-0624-01",
+    "appealAssetId": "normal-21-0624-01",
+    "screenAssetId": "normal-21-0624-01",
+    "name": "ダイヤガチャ",
+    "description": "ダイヤガチャ",
+    "precaution": "・ブルーダイヤ、レッドダイヤ、およびガチャチケを消費することでアイドルを獲得することができます。\n・一部のアイドルのみ登場します。必ず提供割合をご確認ください。\n・ガチャからはじめて獲得したアイドルは、Lv1の状態となります。\n・一部のアイドルは獲得するとセットで「衣装」を獲得できます。\n・本ガチャから獲得することができるアイドルは、重複する可能性があります。\n・既に獲得済みのアイドルがガチャから登場すると、アイドルは開花Ptとアイドルメダルに自動的に変換されます。\n・開花Ptが必要Ptに到達すると自動で才能開花が行われます。\n・本ガチャの開催期間は予告なく変更する場合があります。\n※本ガチャからは「ガチャPt」を獲得することはできません。\n※本ガチャは「才能開花Pt付きガチャ」ではございません。ピックアップや交換で「専用開花Pt」を獲得することはできません。\n　\n■ガチャの仕組みについて\n（1）提供割合に基づき1回ごとの抽選となります。\n（2）複数回ガチャを引く場合は前回の結果を考慮せず、提供割合に基づき毎回抽選を行います。\n・提供割合はアイドルごとに異なります。\n・それぞれの提供割合は、小数第4位を切り捨てして表示しているため、合計値が100％にならない場合があります。\n・本ガチャの提供割合については、必ずガチャ詳細にて提供割合をご確認ください。\n・サーバーとの通信状況等によっては、ガチャ演出や結果画面が正常に表示されない場合がありますが、アイドルは正常に獲得されております。\n・ガチャ毎の履歴は「ガチャ履歴」から確認することができます。",
+    "gachaType": 1,
+    "viewConditionId": "cd-time-gacha-normal-23-0522",
+    "pickupCardIds": [
+      "card-ski-05-poli-00",
+      "card-rei-05-casl-02",
+      "card-kor-05-idol-03",
+      "card-hrk-05-sail-00",
+      "card-chs-05-pajm-00",
+      "card-ai-05-rock-00"
+    ],
+    "order": 300,
+    "buttonIds": [
+      "btn-01-gacha-normal-23-0522",
+      "btn-10-gacha-normal-23-0522",
+      "ticket-01-gacha-normal-23-0522"
+    ],
+    "movieAssetId": "",
+    "unlockConditionId": "",
+    "exchangeResourceType": 0,
+    "exchangeResourceId": "",
+    "exchangeBoothId": "",
+    "isPeriodDisplay": false,
+    "appealText": "",
+    "selectPickupAmount": 0,
+    "selectCardIds": [],
+    "shopId": "",
+    "bgmAssetId": "",
+    "exchangeIds": [],
+    "cardRewards": []
+  },
+  {
     "id": "gacha-paid-21-0928-r5",
     "assetId": "paid-21-0928-r5",
     "bannerAssetId": "gacha-paid-21-0928-r5",
@@ -8976,7 +9015,7 @@
     ],
     "exchangeResourceType": 1,
     "exchangeResourceId": "item-gacha_point-pick-set-bloom-23-0514",
-    "order": 100,
+    "order": 200,
     "isPeriodDisplay": true,
     "appealText": "ダイヤで10回ガチャを引くたびに報酬GET！",
     "buttonIds": [
@@ -8994,6 +9033,50 @@
       {
         "cardId": "card-rei-05-casl-02",
         "rewardId": "rd-bloom-card-rei-05-casl-02"
+      }
+    ],
+    "unlockConditionId": "",
+    "exchangeBoothId": "",
+    "selectPickupAmount": 0,
+    "selectCardIds": [],
+    "shopId": "",
+    "bgmAssetId": ""
+  },
+  {
+    "id": "gacha-pick-set-bloom-23-0522",
+    "assetId": "pick-set-bloom-23-0522",
+    "bannerAssetId": "gacha-pick-set-bloom-23-0522",
+    "appealAssetId": "pick-set-bloom-23-0522",
+    "movieAssetId": "pick-set-bloom-23-0522",
+    "screenAssetId": "pick-set-bloom-23-0522",
+    "name": "chase the X",
+    "description": "ピックアップ才能開花Pt付きスタンプガチャ",
+    "precaution": "・ブルーダイヤ、レッドダイヤ、およびガチャチケを消費することでアイドルを獲得することができます。\n・一部のアイドルのみ登場します。必ず提供割合をご確認ください。\n・ガチャからはじめて獲得したアイドルは、Lv1の状態となります。\n・一部のアイドルは獲得するとセットで「衣装」を獲得できます。\n・本ガチャから獲得することができるアイドルは、重複する可能性があります。\n・既に獲得済みのアイドルがガチャから登場すると、アイドルは開花Ptとアイドルメダルに自動的に変換されます。\n・開花Ptが必要Ptに到達すると自動で才能開花が行われます。\n・「ガチャPt」は、ガチャ1回につき1Pt獲得できます。\n・「ガチャPt」を消費して獲得することができるアイドルは【ガチャ > ガチャPt > ガチャPt交換】から確認できます。\n・本ガチャで獲得できる「ガチャPt」の有効期限は 5/31 (水) 11:59までです。\n・有効期限までに使用しなかった「ガチャPt」は本ガチャ開催期間終了後、【交換所 > ガチャPt交換所】で使用できる「共通ガチャPt」に変換されます。\n・スタンプガチャからは、ピックアップ対象のアイドルを獲得した場合のみセットアイテムとして、獲得した対象アイドルの「専用開花Pt」が100Pt提供されます。\n・「専用開花Pt」は対象アイドルの保有できる才能開花Ptの最大値を超える場合、ギフトから受け取った際に「ブルームピース」に変換されます。\n・本ガチャの開催期間は予告なく変更する場合があります。\n■ガチャの仕組みについて\n（1）提供割合に基づき1回ごとの抽選となります。\n（2）複数回ガチャを引く場合は前回の結果を考慮せず、提供割合に基づき毎回抽選を行います。\n・1日1回のみ引けるガチャは、ブルーダイヤでのみ引くことができます。\n・1日1回のみ引けるガチャは、毎日0:00にリセットされます。\n・提供割合はアイドルごとに異なります。\n・それぞれの提供割合は、小数第4位を切り捨てして表示しているため、合計値が100％にならない場合があります。\n・本ガチャの提供割合については、必ずガチャ詳細にて提供割合をご確認ください。\n・サーバーとの通信状況等によっては、ガチャ演出や結果画面が正常に表示されない場合がありますが、アイドルは正常に獲得されております。\n・ガチャ毎の履歴は「ガチャ履歴」から確認することができます。\n・スタンプは「10回引く」によって獲得できます。ただし、ガチャチケを消費して10回引いた場合はスタンプ獲得の対象になりません。\n・本ガチャで獲得したスタンプは他のスタンプガチャには引き継がれません。\n・本ガチャのスタンプシートで獲得した「次の10回ガチャ無料！」は本ガチャのみ対象となります。\n・本ガチャのスタンプシートで獲得した「次の10回ガチャ無料！」の利用可能期限は本ガチャ開催期間と同じ 5/31 (水) 11:59までとなります。",
+    "gachaType": 5,
+    "viewConditionId": "cd-time-gacha-pick-set-bloom-23-0522",
+    "pickupCardIds": [
+      "card-ski-05-poli-00"
+    ],
+    "exchangeResourceType": 1,
+    "exchangeResourceId": "item-gacha_point-pick-set-bloom-23-0522",
+    "order": 130,
+    "isPeriodDisplay": true,
+    "appealText": "ダイヤで10回ガチャを引くたびに報酬GET！",
+    "buttonIds": [
+      "btn-01-gacha-pick-set-bloom-23-0522",
+      "btn-01-gacha-pick-set-bloom-23-0522-daily",
+      "btn-10-gacha-pick-set-bloom-23-0522",
+      "btn-10-gacha-pick-set-bloom-23-0522-free",
+      "btn-10-gacha-pick-set-bloom-23-0522-free-ticket",
+      "ticket-01-gacha-pick-set-bloom-23-0522"
+    ],
+    "exchangeIds": [
+      "exc-gacha-gacha-pick-set-bloom-23-0522-01"
+    ],
+    "cardRewards": [
+      {
+        "cardId": "card-ski-05-poli-00",
+        "rewardId": "rd-bloom-card-ski-05-poli-00"
       }
     ],
     "unlockConditionId": "",
@@ -13548,7 +13631,7 @@
     ],
     "exchangeResourceType": 1,
     "exchangeResourceId": "item-gacha_point-select-01-23-0516",
-    "order": 110,
+    "order": 210,
     "isPeriodDisplay": true,
     "selectPickupAmount": 2,
     "selectCardIds": [
