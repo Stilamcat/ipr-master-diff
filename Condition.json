@@ -67761,6 +67761,24 @@
     ]
   },
   {
+    "id": "cd-time-event_tour-23-0525",
+    "settings": [
+      {
+        "managerLevel": {
+          "levelGte": 40,
+          "levelLte": 0
+        },
+        "term": {
+          "nowAfter": "1684983600000",
+          "nowBefore": "1685242799000"
+        },
+        "clearArea": {
+          "areaId": "area-main-001"
+        }
+      }
+    ]
+  },
+  {
     "id": "cd-time-event_tour-mission-21-0731",
     "settings": [
       {
@@ -68458,6 +68476,17 @@
         "term": {
           "nowBefore": "1679626799000",
           "nowAfter": "0"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-time-exchange-photo-medal-23-0524",
+    "settings": [
+      {
+        "term": {
+          "nowAfter": "1684897200000",
+          "nowBefore": "1687575599000"
         }
       }
     ]
@@ -69637,6 +69666,43 @@
         "drawGacha": {
           "gachaButtonIds": [
             "btn-10-gacha-fixed-selection-23-0425-total"
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-time-gacha-fixed-selection-23-0524",
+    "settings": [
+      {
+        "term": {
+          "nowAfter": "1684897200000",
+          "nowBefore": "1685329199000"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-time-gacha-fixed-selection-23-0524-banner",
+    "settings": [
+      {
+        "notSatisfyCondition": {
+          "conditionId": "cd-time-gacha-fixed-selection-23-0524-banner-end"
+        },
+        "term": {
+          "nowAfter": "1684897200000",
+          "nowBefore": "1685329199000"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-time-gacha-fixed-selection-23-0524-banner-end",
+    "settings": [
+      {
+        "drawGacha": {
+          "gachaButtonIds": [
+            "btn-10-gacha-fixed-selection-23-0524-total"
           ]
         }
       }
@@ -73370,6 +73436,39 @@
         "term": {
           "nowAfter": "1684594800000",
           "nowBefore": "1684897199000"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-time-gacha-premium-23-0524",
+    "settings": [
+      {
+        "term": {
+          "nowAfter": "1684897200000",
+          "nowBefore": "1687575599000"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-time-gacha-premium-23-0524-01",
+    "settings": [
+      {
+        "term": {
+          "nowAfter": "1684897200000",
+          "nowBefore": "1685199599000"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-time-gacha-premium-23-0524-02",
+    "settings": [
+      {
+        "term": {
+          "nowAfter": "1687273199000",
+          "nowBefore": "1687575599000"
         }
       }
     ]
