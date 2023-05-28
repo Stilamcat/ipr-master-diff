@@ -963,6 +963,66 @@
     "homeTalks": []
   },
   {
+    "id": "card-aoi-05-wedd-00",
+    "assetId": "aoi-05-wedd-00",
+    "name": "リングに誓う永遠",
+    "description": "みんなに祝福されて、君と結ばれるなんて\r\n思ってもみなかったから……なんだか、夢みたいだ",
+    "type": 2,
+    "characterId": "char-aoi",
+    "initialRarity": 5,
+    "cardParameterId": "card-param-01",
+    "vocalRatioPermil": 428,
+    "danceRatioPermil": 320,
+    "visualRatioPermil": 282,
+    "staminaRatioPermil": 900,
+    "cardLevelReleaseId": "card_level_release_1",
+    "skillId1": "sk-aoi-05-wedd-00-1",
+    "skillId2": "sk-aoi-05-wedd-00-2",
+    "skillId3": "sk-aoi-05-wedd-00-3",
+    "liveAbilityId": "lba-vocal_multiply",
+    "order": 287,
+    "releaseDate": "1685242800000",
+    "rewardCostumeId": "cos-aoi-wedd-00",
+    "imageType1": 3,
+    "displayPositionX1": 0.182,
+    "displayScale1": 1.0,
+    "highlightDisplayPositionX1": -0.22,
+    "highlightDisplayPositionY1": 0.083,
+    "highlightDisplayScale1": 0.6,
+    "imageType2": 3,
+    "displayPositionX2": 0.182,
+    "displayScale2": 1.0,
+    "highlightDisplayPositionX2": -0.22,
+    "highlightDisplayPositionY2": 0.083,
+    "highlightDisplayScale2": 0.6,
+    "obtainMessage": "君が僕を幸せにするんじゃない。\n僕が、君を幸せにするんだ",
+    "stories": [
+      {
+        "storyId": "st-card-aoi-05-wedd-00-01"
+      },
+      {
+        "storyId": "st-card-aoi-05-wedd-00-02"
+      },
+      {
+        "storyId": "st-card-aoi-05-wedd-00-03"
+      }
+    ],
+    "messages": [
+      {
+        "messageId": "message-card-aoi-05-wedd-00",
+        "telephoneId": ""
+      },
+      {
+        "telephoneId": "tel-card-aoi-05-wedd-00",
+        "messageId": ""
+      }
+    ],
+    "activityAbilityId": "",
+    "displayPositionY1": 0.0,
+    "displayPositionY2": 0.0,
+    "homeTalks": []
+  },
+  {
     "id": "card-chs-02-eve-01",
     "assetId": "chs-02-eve-01",
     "name": "賑やかなお正月",
@@ -3939,6 +3999,66 @@
       }
     ],
     "activityAbilityId": "",
+    "homeTalks": []
+  },
+  {
+    "id": "card-mei-05-wedd-00",
+    "assetId": "mei-05-wedd-00",
+    "name": "パールホワイトの想い出",
+    "description": "一緒にドレスを選んだ時ね、この時間がずっと続けば\r\nいいのになーって思うくらい……とっても楽しかったよ\r\n……私、アイドルとして、もっともっと頑張るよ",
+    "type": 3,
+    "characterId": "char-mei",
+    "initialRarity": 5,
+    "cardParameterId": "card-param-01",
+    "vocalRatioPermil": 326,
+    "danceRatioPermil": 289,
+    "visualRatioPermil": 415,
+    "staminaRatioPermil": 900,
+    "cardLevelReleaseId": "card_level_release_1",
+    "skillId1": "sk-mei-05-wedd-00-1",
+    "skillId2": "sk-mei-05-wedd-00-2",
+    "skillId3": "sk-mei-05-wedd-00-3",
+    "liveAbilityId": "lba-stamina_add",
+    "order": 289,
+    "releaseDate": "1685242800000",
+    "rewardCostumeId": "cos-mei-wedd-00",
+    "imageType1": 3,
+    "displayPositionX1": 0.006,
+    "displayScale1": 1.0,
+    "highlightDisplayPositionX1": 0.807,
+    "highlightDisplayPositionY1": 0.27,
+    "highlightDisplayScale1": 0.6,
+    "imageType2": 3,
+    "displayPositionX2": 0.006,
+    "displayScale2": 1.0,
+    "highlightDisplayPositionX2": 0.807,
+    "highlightDisplayPositionY2": 0.27,
+    "highlightDisplayScale2": 0.6,
+    "obtainMessage": "これからも、ずっとずっと、一緒にいようね",
+    "stories": [
+      {
+        "storyId": "st-card-mei-05-wedd-00-01"
+      },
+      {
+        "storyId": "st-card-mei-05-wedd-00-02"
+      },
+      {
+        "storyId": "st-card-mei-05-wedd-00-03"
+      }
+    ],
+    "messages": [
+      {
+        "messageId": "message-card-mei-05-wedd-00",
+        "telephoneId": ""
+      },
+      {
+        "telephoneId": "tel-card-mei-05-wedd-00",
+        "messageId": ""
+      }
+    ],
+    "activityAbilityId": "",
+    "displayPositionY1": 0.0,
+    "displayPositionY2": 0.0,
     "homeTalks": []
   },
   {

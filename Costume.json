@@ -442,6 +442,19 @@
     "isUserUnavailable": false
   },
   {
+    "id": "cos-aoi-wedd-00",
+    "bodyAssetId": "aoi-wedd-00",
+    "characterId": "char-aoi",
+    "order": 187,
+    "name": "エレガント・ブライド",
+    "releaseDate": "1685242800000",
+    "costumeTypeId": "idol",
+    "sdAssetId": "aoi-wedd-00",
+    "motifAssetId": "wedd-00",
+    "defaultHairId": "hair-aoi-wedd-00",
+    "isUserUnavailable": false
+  },
+  {
     "id": "cos-chs-casl-00",
     "bodyAssetId": "chs-casl-00",
     "characterId": "char-chs",
@@ -2028,6 +2041,19 @@
     "isUserUnavailable": false
   },
   {
+    "id": "cos-mei-wedd-00",
+    "bodyAssetId": "mei-wedd-00",
+    "characterId": "char-mei",
+    "order": 189,
+    "name": "パーフェクト・ブライド",
+    "releaseDate": "1685242800000",
+    "costumeTypeId": "idol",
+    "sdAssetId": "mei-wedd-00",
+    "motifAssetId": "wedd-00",
+    "defaultHairId": "hair-mei-wedd-00",
+    "isUserUnavailable": false
+  },
+  {
     "id": "cos-mei-xmas-00",
     "bodyAssetId": "mei-xmas-00",
     "characterId": "char-mei",
@@ -2177,7 +2203,7 @@
     "order": 132,
     "name": "初音ミク：オリジナル",
     "releaseDate": "1661914800000",
-    "costumeTypeId": "idol",
+    "costumeTypeId": "idol-miku",
     "sdAssetId": "mku-miku-00",
     "motifAssetId": "miku-00",
     "defaultHairId": "hair-mku-miku-00",
@@ -3234,6 +3260,19 @@
     "sdAssetId": "rui-schl-00",
     "motifAssetId": "schl-00",
     "defaultHairId": "hair-rui-schl-00",
+    "isUserUnavailable": false
+  },
+  {
+    "id": "cos-rui-schl-01",
+    "bodyAssetId": "rui-schl-01",
+    "characterId": "char-rui",
+    "order": 5446,
+    "name": "月出中学校",
+    "releaseDate": "1685242800000",
+    "costumeTypeId": "schl",
+    "sdAssetId": "rui-schl-01",
+    "motifAssetId": "schl-01",
+    "defaultHairId": "hair-rui-schl-01",
     "isUserUnavailable": false
   },
   {

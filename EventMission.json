@@ -277,6 +277,40 @@
     "unlockConditionId": ""
   },
   {
+    "id": "event-ladder-23-0528",
+    "eventMissionType": 1,
+    "assetId": "img_banner_l_event-verysoon-mission-23-0528-01",
+    "name": "もうすぐ2周年記念Memory",
+    "order": 5,
+    "viewConditionId": "cd-event-mission-0528-0623",
+    "missionIds": [
+      "event-ms-normal-23-0528-condition_clear-01",
+      "event-ms-normal-23-0528-condition_clear-02",
+      "event-ms-normal-23-0528-condition_clear-03",
+      "event-ms-normal-23-0528-condition_clear-04",
+      "event-ms-normal-23-0528-condition_clear-05",
+      "event-ms-normal-23-0528-condition_clear-06",
+      "event-ms-normal-23-0528-condition_clear-07",
+      "event-ms-normal-23-0528-condition_clear-mv01",
+      "event-ms-normal-23-0528-condition_clear-mv02",
+      "event-ms-normal-23-0528-condition_clear-mv03",
+      "event-ms-normal-23-0528-condition_clear-mv04",
+      "event-ms-normal-23-0528-condition_clear-mv05",
+      "event-ms-normal-23-0528-condition_clear-mv06",
+      "event-ms-normal-23-0528-condition_clear-mv07",
+      "event-ms-normal-23-0528-marathon_raid_join_count",
+      "event-ms-normal-23-0528-mission_clear_count",
+      "event-ms-normal-23-0528-photo_shoot_count",
+      "event-ms-normal-23-0528-quest_all_clear_count",
+      "event-ms-normal-23-0528-quest_gvg_clear_count",
+      "event-ms-normal-23-0528-quest_pvp_play_count",
+      "event-ms-normal-23-0528-tour_area_clear_count-01",
+      "event-ms-normal-23-0528-tour_area_clear_count-02",
+      "event-ms-normal-23-0528-tour_area_clear_count-03"
+    ],
+    "unlockConditionId": ""
+  },
+  {
     "id": "event-love-23-0514-limited",
     "eventMissionType": 1,
     "assetId": "img_banner_l_event-mission-21-0624",
@@ -454,6 +488,21 @@
       "ms-event-marathon-raid-23-0328-marathon_quest_clear_count",
       "ms-event-marathon-raid-23-0328-marathon_quest_clear_difficulty-ep4",
       "ms-normal-event-marathon-raid-23-0328-marathon_raid_clear_count"
+    ],
+    "unlockConditionId": ""
+  },
+  {
+    "id": "event-marathon-raid-23-0528",
+    "eventMissionType": 1,
+    "assetId": "img_banner_l_event-mini-marathon-raid-23-0528",
+    "name": "イベントミッション",
+    "order": 99,
+    "viewConditionId": "cd-date-marathon-raid-23-0528",
+    "missionIds": [
+      "ms-daily-event-marathon-raid-23-0528-marathon_raid_host_count",
+      "ms-event-marathon-raid-23-0528-marathon_quest_clear_count",
+      "ms-event-marathon-raid-23-0528-marathon_quest_clear_difficulty-ep4",
+      "ms-normal-event-marathon-raid-23-0528-marathon_raid_clear_count"
     ],
     "unlockConditionId": ""
   },

@@ -462,6 +462,48 @@
     "additionalDisplayCharacterIds": []
   },
   {
+    "id": "st-card-aoi-05-wedd-00-01",
+    "name": "ドラマの中の\nことなのに",
+    "rewardId": "rd_auto;stone;;30",
+    "advPlayTypes": [
+      1
+    ],
+    "advAssetIds": [
+      "card_aoi_06_01"
+    ],
+    "sectionName": "",
+    "description": "",
+    "additionalDisplayCharacterIds": []
+  },
+  {
+    "id": "st-card-aoi-05-wedd-00-02",
+    "name": "可愛い\nマネージャー君",
+    "rewardId": "rd_auto;stone;;30",
+    "advPlayTypes": [
+      1
+    ],
+    "advAssetIds": [
+      "card_aoi_06_02"
+    ],
+    "sectionName": "",
+    "description": "",
+    "additionalDisplayCharacterIds": []
+  },
+  {
+    "id": "st-card-aoi-05-wedd-00-03",
+    "name": "幸せに\nしてあげる",
+    "rewardId": "rd_auto;stone;;30",
+    "advPlayTypes": [
+      1
+    ],
+    "advAssetIds": [
+      "card_aoi_06_03"
+    ],
+    "sectionName": "",
+    "description": "",
+    "additionalDisplayCharacterIds": []
+  },
+  {
     "id": "st-card-chs-05-chsk-00-01",
     "name": "最高の\n衣装デザイン",
     "rewardId": "rd_auto;stone;;30",
@@ -1968,6 +2010,48 @@
     ],
     "advAssetIds": [
       "card_mei_03_03"
+    ],
+    "sectionName": "",
+    "description": "",
+    "additionalDisplayCharacterIds": []
+  },
+  {
+    "id": "st-card-mei-05-wedd-00-01",
+    "name": "水が垂れてる\nいい男？",
+    "rewardId": "rd_auto;stone;;30",
+    "advPlayTypes": [
+      1
+    ],
+    "advAssetIds": [
+      "card_mei_07_01"
+    ],
+    "sectionName": "",
+    "description": "",
+    "additionalDisplayCharacterIds": []
+  },
+  {
+    "id": "st-card-mei-05-wedd-00-02",
+    "name": "お父さんに\n見せたくて",
+    "rewardId": "rd_auto;stone;;30",
+    "advPlayTypes": [
+      1
+    ],
+    "advAssetIds": [
+      "card_mei_07_02"
+    ],
+    "sectionName": "",
+    "description": "",
+    "additionalDisplayCharacterIds": []
+  },
+  {
+    "id": "st-card-mei-05-wedd-00-03",
+    "name": "まっすぐ\nウエディング",
+    "rewardId": "rd_auto;stone;;30",
+    "advPlayTypes": [
+      1
+    ],
+    "advAssetIds": [
+      "card_mei_07_03"
     ],
     "sectionName": "",
     "description": "",
@@ -5727,9 +5811,23 @@
   },
   {
     "id": "st-eve-2206-marathon-001",
-    "name": "みんなで作る曲",
+    "name": "みんなで\n作る曲",
     "description": "I-UNITYのセミファイナル数日前。新曲制作を快く引き受けてくれたクリエイター達から、制作に参加してみないかと打診されるサニーピース。さくらと雫と遙子は歌詞制作に協力することになるが……。",
     "rewardId": "rd_auto;stone;;30",
+    "advPlayTypes": [
+      1
+    ],
+    "advAssetIds": [
+      "event_2206_01_01"
+    ],
+    "sectionName": "",
+    "additionalDisplayCharacterIds": []
+  },
+  {
+    "id": "st-eve-2206-marathon-001-limited",
+    "name": "みんなで\n作る曲",
+    "description": "I-UNITYのセミファイナル数日前。新曲制作を快く引き受けてくれたクリエイター達から、制作に参加してみないかと打診されるサニーピース。さくらと雫と遙子は歌詞制作に協力することになるが……。",
+    "rewardId": "rd_auto;item;item-ladder_pt_23-0528;30",
     "advPlayTypes": [
       1
     ],
@@ -5754,10 +5852,38 @@
     "additionalDisplayCharacterIds": []
   },
   {
+    "id": "st-eve-2206-marathon-002-limited",
+    "name": "迷子のピース",
+    "description": "衣装制作、振り付けに協力している千紗と怜は、順調に仕事を進めていた。一方さくら達は歌詞制作に苦戦。プロのアドバイスをもとに、思い切り息抜きをすることに。",
+    "rewardId": "rd_auto;item;item-ladder_pt_23-0528;30",
+    "advPlayTypes": [
+      1
+    ],
+    "advAssetIds": [
+      "event_2206_01_02"
+    ],
+    "sectionName": "",
+    "additionalDisplayCharacterIds": []
+  },
+  {
     "id": "st-eve-2206-marathon-003",
-    "name": "お散歩中の出会い",
+    "name": "お散歩中の\n出会い",
     "description": "星見市の高台に自然と足を運んでいた三人はファンと遭遇する。それは、小さな子供達だった。徹底的に休むという名目のもと、子供達と全力で遊ぶこととなり……。",
     "rewardId": "rd_auto;stone;;30",
+    "advPlayTypes": [
+      1
+    ],
+    "advAssetIds": [
+      "event_2206_01_03"
+    ],
+    "sectionName": "",
+    "additionalDisplayCharacterIds": []
+  },
+  {
+    "id": "st-eve-2206-marathon-003-limited",
+    "name": "お散歩中の\n出会い",
+    "description": "星見市の高台に自然と足を運んでいた三人はファンと遭遇する。それは、小さな子供達だった。徹底的に休むという名目のもと、子供達と全力で遊ぶこととなり……。",
+    "rewardId": "rd_auto;item;item-ladder_pt_23-0528;30",
     "advPlayTypes": [
       1
     ],
@@ -5782,10 +5908,38 @@
     "additionalDisplayCharacterIds": []
   },
   {
+    "id": "st-eve-2206-marathon-004-limited",
+    "name": "全力外遊び",
+    "description": "日が暮れるまで遊んだ子供達ともお別れの時間がやってきた。地元の純粋なファンの声を聴いたさくら達は、改めてI-UNITY優勝への想いを強くする。そして最後の遊びが始まろうとするその時――。",
+    "rewardId": "rd_auto;item;item-ladder_pt_23-0528;30",
+    "advPlayTypes": [
+      1
+    ],
+    "advAssetIds": [
+      "event_2206_01_04"
+    ],
+    "sectionName": "",
+    "additionalDisplayCharacterIds": []
+  },
+  {
     "id": "st-eve-2206-marathon-005",
-    "name": "最後のフレーズ",
+    "name": "最後の\nフレーズ",
     "description": "さくら達は子供達と遊ぶ中でひとつのフレーズにたどり着く。それは、何気ない言葉だが、誰の胸にも届く彼女たちが目指すアイドル像の形。みんなで創り上げた新曲を胸に、ファイナルへと進む。",
     "rewardId": "rd_auto;stone;;30",
+    "advPlayTypes": [
+      1
+    ],
+    "advAssetIds": [
+      "event_2206_01_05"
+    ],
+    "sectionName": "",
+    "additionalDisplayCharacterIds": []
+  },
+  {
+    "id": "st-eve-2206-marathon-005-limited",
+    "name": "最後の\nフレーズ",
+    "description": "さくら達は子供達と遊ぶ中でひとつのフレーズにたどり着く。それは、何気ない言葉だが、誰の胸にも届く彼女たちが目指すアイドル像の形。みんなで創り上げた新曲を胸に、ファイナルへと進む。",
+    "rewardId": "rd_auto;item;item-ladder_pt_23-0528;30",
     "advPlayTypes": [
       1
     ],
@@ -5867,7 +6021,7 @@
   },
   {
     "id": "st-eve-2208-backside-001",
-    "name": "先輩と遊びたくて",
+    "name": "先輩と\n遊びたくて",
     "description": "ライブ翌日のオフにもかかわらずスタジオで汗を流すリズノワ。そのストイックさに呆れる後輩組の二人は、夏らしくみんなで遊びたいと願うが言い出しづらい。そこでこころは、先輩二人にある提案を持ちかける。",
     "rewardId": "rd_auto;stone;;30",
     "advPlayTypes": [
@@ -5880,8 +6034,22 @@
     "additionalDisplayCharacterIds": []
   },
   {
+    "id": "st-eve-2208-backside-001-limited",
+    "name": "先輩と\n遊びたくて",
+    "description": "ライブ翌日のオフにもかかわらずスタジオで汗を流すリズノワ。そのストイックさに呆れる後輩組の二人は、夏らしくみんなで遊びたいと願うが言い出しづらい。そこでこころは、先輩二人にある提案を持ちかける。",
+    "rewardId": "rd_auto;item;item-ladder_pt_23-0528;30",
+    "advPlayTypes": [
+      1
+    ],
+    "advAssetIds": [
+      "event_2208_01_01"
+    ],
+    "sectionName": "",
+    "additionalDisplayCharacterIds": []
+  },
+  {
     "id": "st-eve-2208-backside-002",
-    "name": "夏になんか負けない",
+    "name": "夏になんか\n負けない",
     "description": "こころの提案で、夏の新曲を企画することになった莉央と葵。それは、曲作りの名目で四人で遊びに行くよう仕向ける作戦だった。しかし、ストイックな先輩二人は良い企画が思い浮かばず部屋に籠ってしまう。",
     "rewardId": "rd_auto;stone;;30",
     "advPlayTypes": [
@@ -5894,8 +6062,22 @@
     "additionalDisplayCharacterIds": []
   },
   {
+    "id": "st-eve-2208-backside-002-limited",
+    "name": "夏になんか\n負けない",
+    "description": "こころの提案で、夏の新曲を企画することになった莉央と葵。それは、曲作りの名目で四人で遊びに行くよう仕向ける作戦だった。しかし、ストイックな先輩二人は良い企画が思い浮かばず部屋に籠ってしまう。",
+    "rewardId": "rd_auto;item;item-ladder_pt_23-0528;30",
+    "advPlayTypes": [
+      1
+    ],
+    "advAssetIds": [
+      "event_2208_01_02"
+    ],
+    "sectionName": "",
+    "additionalDisplayCharacterIds": []
+  },
+  {
     "id": "st-eve-2208-backside-003",
-    "name": "マリンブルーの憂鬱",
+    "name": "マリンブルー\nの憂鬱",
     "description": "新曲作りに悩む莉央と葵のため。そして、先輩達と遊ぶため。四人で素敵な夏の思い出を作ろうと、こころは無理やり沖縄合宿を計画。豪華なリゾートホテルという響きに心躍らせる莉央だったが……。",
     "rewardId": "rd_auto;stone;;30",
     "advPlayTypes": [
@@ -5908,8 +6090,22 @@
     "additionalDisplayCharacterIds": []
   },
   {
+    "id": "st-eve-2208-backside-003-limited",
+    "name": "マリンブルー\nの憂鬱",
+    "description": "新曲作りに悩む莉央と葵のため。そして、先輩達と遊ぶため。四人で素敵な夏の思い出を作ろうと、こころは無理やり沖縄合宿を計画。豪華なリゾートホテルという響きに心躍らせる莉央だったが……。",
+    "rewardId": "rd_auto;item;item-ladder_pt_23-0528;30",
+    "advPlayTypes": [
+      1
+    ],
+    "advAssetIds": [
+      "event_2208_01_03"
+    ],
+    "sectionName": "",
+    "additionalDisplayCharacterIds": []
+  },
+  {
     "id": "st-eve-2208-backside-004",
-    "name": "ナンパのあしらい方",
+    "name": "ナンパの\nあしらい方",
     "description": "沖縄の海にテンションが上がるリズノワ達。ナンパ男をあしらいつつ、夏のアクティビティを満喫する。しかし、肝心の新曲アイデアは全く浮かばず、帰りにはハプニングが起こってしまい……。",
     "rewardId": "rd_auto;stone;;30",
     "advPlayTypes": [
@@ -5922,10 +6118,38 @@
     "additionalDisplayCharacterIds": []
   },
   {
+    "id": "st-eve-2208-backside-004-limited",
+    "name": "ナンパの\nあしらい方",
+    "description": "沖縄の海にテンションが上がるリズノワ達。ナンパ男をあしらいつつ、夏のアクティビティを満喫する。しかし、肝心の新曲アイデアは全く浮かばず、帰りにはハプニングが起こってしまい……。",
+    "rewardId": "rd_auto;item;item-ladder_pt_23-0528;30",
+    "advPlayTypes": [
+      1
+    ],
+    "advAssetIds": [
+      "event_2208_01_04"
+    ],
+    "sectionName": "",
+    "additionalDisplayCharacterIds": []
+  },
+  {
     "id": "st-eve-2208-backside-005",
-    "name": "恋より熱い夏の体験",
+    "name": "恋より熱い\n夏の体験",
     "description": "こころがロッカーの鍵を失くし、ホテルに戻れなくなった一同。仕方なくキャンプ場で一夜を明かすことに。莉央の作ったカレーを食べながら、自分達なりの夏について考える。果たして新曲は出来上がるのか。",
     "rewardId": "rd_auto;stone;;30",
+    "advPlayTypes": [
+      1
+    ],
+    "advAssetIds": [
+      "event_2208_01_05"
+    ],
+    "sectionName": "",
+    "additionalDisplayCharacterIds": []
+  },
+  {
+    "id": "st-eve-2208-backside-005-limited",
+    "name": "恋より熱い\n夏の体験",
+    "description": "こころがロッカーの鍵を失くし、ホテルに戻れなくなった一同。仕方なくキャンプ場で一夜を明かすことに。莉央の作ったカレーを食べながら、自分達なりの夏について考える。果たして新曲は出来上がるのか。",
+    "rewardId": "rd_auto;item;item-ladder_pt_23-0528;30",
     "advPlayTypes": [
       1
     ],
@@ -6022,8 +6246,22 @@
     "additionalDisplayCharacterIds": []
   },
   {
+    "id": "st-eve-2210-race-001-limited",
+    "name": "追想の空",
+    "description": "星見プロ入所直後のリズノワは、ツアーで大阪を訪れていた。街で流れる『星の海の記憶』を聞き、莉央と葵は麻奈が亡くなって三年経ったことを実感。次のツアー先が星見市なこともあり二人は麻奈に思いを馳せる。",
+    "rewardId": "rd_auto;item;item-ladder_pt_23-0528;30",
+    "advPlayTypes": [
+      1
+    ],
+    "advAssetIds": [
+      "event_2210_01_01"
+    ],
+    "sectionName": "",
+    "additionalDisplayCharacterIds": []
+  },
+  {
     "id": "st-eve-2210-race-002",
-    "name": "琴乃からのお願い",
+    "name": "琴乃からの\nお願い",
     "description": "星見市の初ライブでサプライズをしたいと提案するこころ。すると、リズノワの楽屋に琴乃が現れ、月ストが出すアルバムで一緒に麻奈の曲をカバーしてほしいと頼み込んでくる。喜ぶこころと愛だったが……",
     "rewardId": "rd_auto;stone;;30",
     "advPlayTypes": [
@@ -6036,8 +6274,22 @@
     "additionalDisplayCharacterIds": []
   },
   {
+    "id": "st-eve-2210-race-002-limited",
+    "name": "琴乃からの\nお願い",
+    "description": "星見市の初ライブでサプライズをしたいと提案するこころ。すると、リズノワの楽屋に琴乃が現れ、月ストが出すアルバムで一緒に麻奈の曲をカバーしてほしいと頼み込んでくる。喜ぶこころと愛だったが……",
+    "rewardId": "rd_auto;item;item-ladder_pt_23-0528;30",
+    "advPlayTypes": [
+      1
+    ],
+    "advAssetIds": [
+      "event_2210_01_02"
+    ],
+    "sectionName": "",
+    "additionalDisplayCharacterIds": []
+  },
+  {
     "id": "st-eve-2210-race-003",
-    "name": "星見サプライズ",
+    "name": "星見\nサプライズ",
     "description": "明後日に迫った星見市での初ライブ。決まらないサプライズの内容を話しあっていると、再び琴乃が現れる。アルバムの歌唱が叶わなくとも、ライブで麻奈の曲を歌ってほしいと懇願するが、莉央は首を縦に振らず……",
     "rewardId": "rd_auto;stone;;30",
     "advPlayTypes": [
@@ -6050,10 +6302,38 @@
     "additionalDisplayCharacterIds": []
   },
   {
+    "id": "st-eve-2210-race-003-limited",
+    "name": "星見\nサプライズ",
+    "description": "明後日に迫った星見市での初ライブ。決まらないサプライズの内容を話しあっていると、再び琴乃が現れる。アルバムの歌唱が叶わなくとも、ライブで麻奈の曲を歌ってほしいと懇願するが、莉央は首を縦に振らず……",
+    "rewardId": "rd_auto;item;item-ladder_pt_23-0528;30",
+    "advPlayTypes": [
+      1
+    ],
+    "advAssetIds": [
+      "event_2210_01_03"
+    ],
+    "sectionName": "",
+    "additionalDisplayCharacterIds": []
+  },
+  {
     "id": "st-eve-2210-race-004",
-    "name": "交差した運命",
+    "name": "交差した\n運命",
     "description": "夜の海に向かって一人、『星の海の記憶』を口ずさむ莉央。うろ覚えだと言った歌詞は完璧だった。背後から重なる琴乃の歌声に振り向き、二人は微笑みあう。莉央は琴乃に何度も麻奈の歌に励まされていたことを話す。",
     "rewardId": "rd_auto;stone;;30",
+    "advPlayTypes": [
+      1
+    ],
+    "advAssetIds": [
+      "event_2210_01_04"
+    ],
+    "sectionName": "",
+    "additionalDisplayCharacterIds": []
+  },
+  {
+    "id": "st-eve-2210-race-004-limited",
+    "name": "交差した\n運命",
+    "description": "夜の海に向かって一人、『星の海の記憶』を口ずさむ莉央。うろ覚えだと言った歌詞は完璧だった。背後から重なる琴乃の歌声に振り向き、二人は微笑みあう。莉央は琴乃に何度も麻奈の歌に励まされていたことを話す。",
+    "rewardId": "rd_auto;item;item-ladder_pt_23-0528;30",
     "advPlayTypes": [
       1
     ],
@@ -6082,10 +6362,42 @@
     "additionalDisplayCharacterIds": []
   },
   {
+    "id": "st-eve-2210-race-005-limited",
+    "name": "星の海の記憶",
+    "description": "莉央は琴乃の想いを受け、ライブのサプライズとして二人で『星の海の記憶』を歌うことを承諾。また、アルバムへの参加も決める。彼女は麻奈を心に歩み続けることを決意。いつかアイドルの頂点に立つその日まで――",
+    "rewardId": "rd_auto;item;item-ladder_pt_23-0528;30",
+    "advPlayTypes": [
+      1,
+      2,
+      1
+    ],
+    "advAssetIds": [
+      "event_2210_01_05_01",
+      "adv-live-eve-2210-race-005",
+      "event_2210_01_05_02"
+    ],
+    "sectionName": "",
+    "additionalDisplayCharacterIds": []
+  },
+  {
     "id": "st-eve-2211-marathon-raid-001",
     "name": "幽霊旅館？",
     "description": "ライブツアーで各地を回るⅢX。kanaの要望で温泉付きの宿に泊まることになったが、そこはまさかの幽霊旅館！？怯えるfranに呼びつけられたあなた。翌朝目撃するのは、仲良く抱き合って眠るⅢXの姿で……？",
     "rewardId": "rd_auto;stone;;30",
+    "advPlayTypes": [
+      1
+    ],
+    "advAssetIds": [
+      "event_2211_01_01"
+    ],
+    "sectionName": "",
+    "additionalDisplayCharacterIds": []
+  },
+  {
+    "id": "st-eve-2211-marathon-raid-001-limited",
+    "name": "幽霊旅館？",
+    "description": "ライブツアーで各地を回るⅢX。kanaの要望で温泉付きの宿に泊まることになったが、そこはまさかの幽霊旅館！？怯えるfranに呼びつけられたあなた。翌朝目撃するのは、仲良く抱き合って眠るⅢXの姿で……？",
+    "rewardId": "rd_auto;item;item-ladder_pt_23-0528;30",
     "advPlayTypes": [
       1
     ],
@@ -6110,10 +6422,38 @@
     "additionalDisplayCharacterIds": []
   },
   {
+    "id": "st-eve-2211-marathon-raid-002-limited",
+    "name": "今夜だけは\n仲良しⅢX",
+    "description": "franに呼び出され幽霊旅館にやってきたあなた、遙子、芽衣。いつも通り喧嘩するⅢXを横に、芽衣は幽霊を発見！幽霊を怒らせないため、渋々今夜だけは仲良くすることを決めたⅢX。どうなるⅢX！",
+    "rewardId": "rd_auto;item;item-ladder_pt_23-0528;30",
+    "advPlayTypes": [
+      1
+    ],
+    "advAssetIds": [
+      "event_2211_01_02"
+    ],
+    "sectionName": "",
+    "additionalDisplayCharacterIds": []
+  },
+  {
     "id": "st-eve-2211-marathon-raid-003",
     "name": "勃発？\n褒め合い\nバトル",
     "description": "口を開けば喧嘩のⅢXは、仲良くする方法が分からない。そんな中、芽衣の提案により褒め合いバトルが勃発！面白がってfranとmihoを褒めるkana、気味悪がる二人。果たして三人は仲良くできるのか！？",
     "rewardId": "rd_auto;stone;;30",
+    "advPlayTypes": [
+      1
+    ],
+    "advAssetIds": [
+      "event_2211_01_03"
+    ],
+    "sectionName": "",
+    "additionalDisplayCharacterIds": []
+  },
+  {
+    "id": "st-eve-2211-marathon-raid-003-limited",
+    "name": "勃発？\n褒め合い\nバトル",
+    "description": "口を開けば喧嘩のⅢXは、仲良くする方法が分からない。そんな中、芽衣の提案により褒め合いバトルが勃発！面白がってfranとmihoを褒めるkana、気味悪がる二人。果たして三人は仲良くできるのか！？",
+    "rewardId": "rd_auto;item;item-ladder_pt_23-0528;30",
     "advPlayTypes": [
       1
     ],
@@ -6138,10 +6478,38 @@
     "additionalDisplayCharacterIds": []
   },
   {
+    "id": "st-eve-2211-marathon-raid-004-limited",
+    "name": "酔いどれ\nパーティー",
+    "description": "遙子の提案で親睦を深めるため飲み会が開催！翌日のライブに備えて早めに眠りたいというmihoも誘いを断れず付き合うことに。酒の入った成人組は、大盛り上がり！酔って飛び交う枕とそれぞれの自己主張！",
+    "rewardId": "rd_auto;item;item-ladder_pt_23-0528;30",
+    "advPlayTypes": [
+      1
+    ],
+    "advAssetIds": [
+      "event_2211_01_04"
+    ],
+    "sectionName": "",
+    "additionalDisplayCharacterIds": []
+  },
+  {
     "id": "st-eve-2211-marathon-raid-005",
     "name": "喧嘩するほど\n仲がいい",
     "description": "酔い潰れて同じ部屋で寝てしまった五人。翌朝、慌ただしくライブ会場に向かっていくⅢXを見て遙子は、喧嘩するほど仲がいいのだと理解。ⅢXに二日酔いなど関係ない。最強を証明するため、今日もステージに上がる。",
     "rewardId": "rd_auto;stone;;30",
+    "advPlayTypes": [
+      1
+    ],
+    "advAssetIds": [
+      "event_2211_01_05"
+    ],
+    "sectionName": "",
+    "additionalDisplayCharacterIds": []
+  },
+  {
+    "id": "st-eve-2211-marathon-raid-005-limited",
+    "name": "喧嘩するほど\n仲がいい",
+    "description": "酔い潰れて同じ部屋で寝てしまった五人。翌朝、慌ただしくライブ会場に向かっていくⅢXを見て遙子は、喧嘩するほど仲がいいのだと理解。ⅢXに二日酔いなど関係ない。最強を証明するため、今日もステージに上がる。",
+    "rewardId": "rd_auto;item;item-ladder_pt_23-0528;30",
     "advPlayTypes": [
       1
     ],
@@ -6166,6 +6534,20 @@
     "additionalDisplayCharacterIds": []
   },
   {
+    "id": "st-eve-2212-race-001-limited",
+    "name": "月スト\n冬の新曲会議",
+    "description": "クリスマスの単独ライブに向け、新曲制作に励む月スト。だが、様々な意見が飛び交うも上手く纏まらない。そこで、ライブ当日に誕生日を迎える琴乃を一緒に祝う曲を作ることに。その裏で密かにある計画が動き出す。",
+    "rewardId": "rd_auto;item;item-ladder_pt_23-0528;30",
+    "advPlayTypes": [
+      1
+    ],
+    "advAssetIds": [
+      "event_2212_01_01"
+    ],
+    "sectionName": "",
+    "additionalDisplayCharacterIds": []
+  },
+  {
     "id": "st-eve-2212-race-002",
     "name": "隠し通して\nみせる",
     "description": "琴乃への誕生日サプライズを企む月スト四人。しかし、不自然な言動で琴乃から疑いの目を向けられる。そんな中、すずが五人のメッセにサプライズの内容を誤爆。秘密を暴きたい琴乃VS隠したい四人の行方は――",
@@ -6180,10 +6562,38 @@
     "additionalDisplayCharacterIds": []
   },
   {
+    "id": "st-eve-2212-race-002-limited",
+    "name": "隠し通して\nみせる",
+    "description": "琴乃への誕生日サプライズを企む月スト四人。しかし、不自然な言動で琴乃から疑いの目を向けられる。そんな中、すずが五人のメッセにサプライズの内容を誤爆。秘密を暴きたい琴乃VS隠したい四人の行方は――",
+    "rewardId": "rd_auto;item;item-ladder_pt_23-0528;30",
+    "advPlayTypes": [
+      1
+    ],
+    "advAssetIds": [
+      "event_2212_01_02"
+    ],
+    "sectionName": "",
+    "additionalDisplayCharacterIds": []
+  },
+  {
     "id": "st-eve-2212-race-003",
     "name": "暴いてみせる",
     "description": "隠し事をされて拗ねだす琴乃。そんな彼女の可愛さに悶えながらも、渚は罪悪感を抱き始める。琴乃の意識を逸らすため、『恋と花火』を作った時のことを思い出しながら、恋について語る。そこで標的にされたのは渚で……。",
     "rewardId": "rd_auto;stone;;30",
+    "advPlayTypes": [
+      1
+    ],
+    "advAssetIds": [
+      "event_2212_01_03"
+    ],
+    "sectionName": "",
+    "additionalDisplayCharacterIds": []
+  },
+  {
+    "id": "st-eve-2212-race-003-limited",
+    "name": "暴いてみせる",
+    "description": "隠し事をされて拗ねだす琴乃。そんな彼女の可愛さに悶えながらも、渚は罪悪感を抱き始める。琴乃の意識を逸らすため、『恋と花火』を作った時のことを思い出しながら、恋について語る。そこで標的にされたのは渚で……。",
+    "rewardId": "rd_auto;item;item-ladder_pt_23-0528;30",
     "advPlayTypes": [
       1
     ],
@@ -6210,10 +6620,40 @@
     "additionalDisplayCharacterIds": []
   },
   {
+    "id": "st-eve-2212-race-004-limited",
+    "name": "クリスマス\nには君と",
+    "description": "ライブ当日、月スト四人から琴乃へのサプライズは大成功。観客も巻き込み、会場全体で琴乃の誕生日を祝う。喜ぶ琴乃の姿を見て胸がいっぱいになる渚。アンコールには、五人で作った新曲を披露する。",
+    "rewardId": "rd_auto;item;item-ladder_pt_23-0528;30",
+    "advPlayTypes": [
+      1,
+      2
+    ],
+    "advAssetIds": [
+      "event_2212_01_04",
+      "adv-live-eve-2212-race-004"
+    ],
+    "sectionName": "",
+    "additionalDisplayCharacterIds": []
+  },
+  {
     "id": "st-eve-2212-race-005",
     "name": "生まれて\nきてくれて\nありがとう",
     "description": "ライブ後に、クリスマスパーティーを行う月スト。パーティー中、あなたの協力も得て作ったアルバムやアカペラ歌唱などサプライズを次々と仕掛ける。そして最後のサプライズ、渚はそっと手紙を取り出して……。",
     "rewardId": "rd_auto;stone;;30",
+    "advPlayTypes": [
+      1
+    ],
+    "advAssetIds": [
+      "event_2212_01_05"
+    ],
+    "sectionName": "",
+    "additionalDisplayCharacterIds": []
+  },
+  {
+    "id": "st-eve-2212-race-005-limited",
+    "name": "生まれて\nきてくれて\nありがとう",
+    "description": "ライブ後に、クリスマスパーティーを行う月スト。パーティー中、あなたの協力も得て作ったアルバムやアカペラ歌唱などサプライズを次々と仕掛ける。そして最後のサプライズ、渚はそっと手紙を取り出して……。",
+    "rewardId": "rd_auto;item;item-ladder_pt_23-0528;30",
     "advPlayTypes": [
       1
     ],
@@ -6299,7 +6739,7 @@
   },
   {
     "id": "st-eve-2302-marathon-raid-001",
-    "name": "レッツ・XXX・チャレンジ",
+    "name": "レッツ・\nXXX・\nチャレンジ",
     "description": "有名お菓子メーカーから、バレンタインCMの仕事が舞い込んだトリエル。学園生活を舞台に同級生を演じるという内容に三人は心躍らせる。しかし、そのCMには優が発狂するほどの過激シーンが瑠依に用意されていた。",
     "rewardId": "rd_auto;stone;;30",
     "advPlayTypes": [
@@ -6312,8 +6752,22 @@
     "additionalDisplayCharacterIds": []
   },
   {
+    "id": "st-eve-2302-marathon-raid-001-limited",
+    "name": "レッツ・\nXXX・\nチャレンジ",
+    "description": "有名お菓子メーカーから、バレンタインCMの仕事が舞い込んだトリエル。学園生活を舞台に同級生を演じるという内容に三人は心躍らせる。しかし、そのCMには優が発狂するほどの過激シーンが瑠依に用意されていた。",
+    "rewardId": "rd_auto;item;item-ladder_pt_23-0528;30",
+    "advPlayTypes": [
+      1
+    ],
+    "advAssetIds": [
+      "event_2302_01_01"
+    ],
+    "sectionName": "",
+    "additionalDisplayCharacterIds": []
+  },
+  {
     "id": "st-eve-2302-marathon-raid-002",
-    "name": "あなたと練習キッス",
+    "name": "あなたと\n練習キッス",
     "description": "鏡の前でキスの練習に励む瑠依だが、一人での練習に苦戦中。そこで練習相手になってもらおうとあなたにキスを迫る。そんな二人をレッスンルームの扉越しに見て動揺した優とすみれが乗り込んでくる。",
     "rewardId": "rd_auto;stone;;30",
     "advPlayTypes": [
@@ -6326,8 +6780,22 @@
     "additionalDisplayCharacterIds": []
   },
   {
+    "id": "st-eve-2302-marathon-raid-002-limited",
+    "name": "あなたと\n練習キッス",
+    "description": "鏡の前でキスの練習に励む瑠依だが、一人での練習に苦戦中。そこで練習相手になってもらおうとあなたにキスを迫る。そんな二人をレッスンルームの扉越しに見て動揺した優とすみれが乗り込んでくる。",
+    "rewardId": "rd_auto;item;item-ladder_pt_23-0528;30",
+    "advPlayTypes": [
+      1
+    ],
+    "advAssetIds": [
+      "event_2302_01_02"
+    ],
+    "sectionName": "",
+    "additionalDisplayCharacterIds": []
+  },
+  {
     "id": "st-eve-2302-marathon-raid-003",
-    "name": "瑠依ちゃんの唇守り隊",
+    "name": "瑠依ちゃんの\n唇守り隊",
     "description": "優は瑠依のキスの練習相手を引き受けることになり上機嫌。だが、キスがなくなるわけではないことに気づき『瑠依ちゃんの唇守り隊』を一人で結成。そして、あの手この手でキス相手を抹消しようと画策しだす。",
     "rewardId": "rd_auto;stone;;30",
     "advPlayTypes": [
@@ -6340,8 +6808,22 @@
     "additionalDisplayCharacterIds": []
   },
   {
+    "id": "st-eve-2302-marathon-raid-003-limited",
+    "name": "瑠依ちゃんの\n唇守り隊",
+    "description": "優は瑠依のキスの練習相手を引き受けることになり上機嫌。だが、キスがなくなるわけではないことに気づき『瑠依ちゃんの唇守り隊』を一人で結成。そして、あの手この手でキス相手を抹消しようと画策しだす。",
+    "rewardId": "rd_auto;item;item-ladder_pt_23-0528;30",
+    "advPlayTypes": [
+      1
+    ],
+    "advAssetIds": [
+      "event_2302_01_03"
+    ],
+    "sectionName": "",
+    "additionalDisplayCharacterIds": []
+  },
+  {
     "id": "st-eve-2302-marathon-raid-004",
-    "name": "相思相愛チョコレート",
+    "name": "相思相愛\nチョコレート",
     "description": "練習生時代に起きた瑠依とのバレンタインの大切な思い出を回顧する優。その話を聞いたすみれは心打たれ、とうとう『瑠依ちゃんの唇守り隊』に入隊を決意。果たして二人は瑠依の唇を守り切ることができるのか！？",
     "rewardId": "rd_auto;stone;;30",
     "advPlayTypes": [
@@ -6354,10 +6836,38 @@
     "additionalDisplayCharacterIds": []
   },
   {
+    "id": "st-eve-2302-marathon-raid-004-limited",
+    "name": "相思相愛\nチョコレート",
+    "description": "練習生時代に起きた瑠依とのバレンタインの大切な思い出を回顧する優。その話を聞いたすみれは心打たれ、とうとう『瑠依ちゃんの唇守り隊』に入隊を決意。果たして二人は瑠依の唇を守り切ることができるのか！？",
+    "rewardId": "rd_auto;item;item-ladder_pt_23-0528;30",
+    "advPlayTypes": [
+      1
+    ],
+    "advAssetIds": [
+      "event_2302_01_04"
+    ],
+    "sectionName": "",
+    "additionalDisplayCharacterIds": []
+  },
+  {
     "id": "st-eve-2302-marathon-raid-005",
-    "name": "グッバイ・キスシーン",
+    "name": "グッバイ・\nキスシーン",
     "description": "いよいよ始まるCM撮影。『瑠依ちゃんの唇守り隊』の活動が功を奏し、急遽台本は変更に。しかし、俳優とのキスはなくなったものの全国のお茶の間に瑠依のキス顔が流れることになり……。",
     "rewardId": "rd_auto;stone;;30",
+    "advPlayTypes": [
+      1
+    ],
+    "advAssetIds": [
+      "event_2302_01_05"
+    ],
+    "sectionName": "",
+    "additionalDisplayCharacterIds": []
+  },
+  {
+    "id": "st-eve-2302-marathon-raid-005-limited",
+    "name": "グッバイ・\nキスシーン",
+    "description": "いよいよ始まるCM撮影。『瑠依ちゃんの唇守り隊』の活動が功を奏し、急遽台本は変更に。しかし、俳優とのキスはなくなったものの全国のお茶の間に瑠依のキス顔が流れることになり……。",
+    "rewardId": "rd_auto;item;item-ladder_pt_23-0528;30",
     "advPlayTypes": [
       1
     ],
@@ -6454,10 +6964,38 @@
     "additionalDisplayCharacterIds": []
   },
   {
+    "id": "st-eve-2304-marathon-raid-001-limited",
+    "name": "祭典への参加",
+    "description": "サニピの、特にさくらの活躍と自分を比べて浮かない様子の琴乃。そんな中、サニピと月ストの十人は、あなたからNEXT VENUSグランプリ歴代優勝者が集まる祭典に出演が決まったことを告げられる。",
+    "rewardId": "rd_auto;item;item-ladder_pt_23-0528;30",
+    "advPlayTypes": [
+      1
+    ],
+    "advAssetIds": [
+      "event_2304_01_01"
+    ],
+    "sectionName": "",
+    "additionalDisplayCharacterIds": []
+  },
+  {
     "id": "st-eve-2304-marathon-raid-002",
     "name": "近すぎて\n話せない",
     "description": "遙子の提案から、祭典で歌う曲は長瀬麻奈がライブの締めくくりによく歌っていた曲に決定。早速練習が始まるが、琴乃はどこか様子がおかしい。心配して話しかけるも、何も話してもらえず落ち込むさくらに、遙子は優しく声をかける。",
     "rewardId": "rd_auto;stone;;30",
+    "advPlayTypes": [
+      1
+    ],
+    "advAssetIds": [
+      "event_2304_01_02"
+    ],
+    "sectionName": "",
+    "additionalDisplayCharacterIds": []
+  },
+  {
+    "id": "st-eve-2304-marathon-raid-002-limited",
+    "name": "近すぎて\n話せない",
+    "description": "遙子の提案から、祭典で歌う曲は長瀬麻奈がライブの締めくくりによく歌っていた曲に決定。早速練習が始まるが、琴乃はどこか様子がおかしい。心配して話しかけるも、何も話してもらえず落ち込むさくらに、遙子は優しく声をかける。",
+    "rewardId": "rd_auto;item;item-ladder_pt_23-0528;30",
     "advPlayTypes": [
       1
     ],
@@ -6482,6 +7020,20 @@
     "additionalDisplayCharacterIds": []
   },
   {
+    "id": "st-eve-2304-marathon-raid-003-limited",
+    "name": "デートの\nお誘い",
+    "description": "遙子と麻奈の軋轢を解決した過去の話からヒントを得たさくらは、再度琴乃との対話を決心。しかし琴乃は、アンチの動画にショックを受け部屋に閉じこもってしまっていた。そんな琴乃を、さくらは強引にデートに誘う。",
+    "rewardId": "rd_auto;item;item-ladder_pt_23-0528;30",
+    "advPlayTypes": [
+      1
+    ],
+    "advAssetIds": [
+      "event_2304_01_03"
+    ],
+    "sectionName": "",
+    "additionalDisplayCharacterIds": []
+  },
+  {
     "id": "st-eve-2304-marathon-raid-004",
     "name": "かんぜん\nふっかつ！",
     "description": "とんかつデートの後、琴乃はさくらへの嫉妬心から練習に集中できず、自己嫌悪に陥っていたことを告げる。さくらはそれを受け止め、自分達の焦りや、月ストをライバルとして信じていることを正直に伝えるのだった。",
@@ -6496,10 +7048,38 @@
     "additionalDisplayCharacterIds": []
   },
   {
+    "id": "st-eve-2304-marathon-raid-004-limited",
+    "name": "かんぜん\nふっかつ！",
+    "description": "とんかつデートの後、琴乃はさくらへの嫉妬心から練習に集中できず、自己嫌悪に陥っていたことを告げる。さくらはそれを受け止め、自分達の焦りや、月ストをライバルとして信じていることを正直に伝えるのだった。",
+    "rewardId": "rd_auto;item;item-ladder_pt_23-0528;30",
+    "advPlayTypes": [
+      1
+    ],
+    "advAssetIds": [
+      "event_2304_01_04"
+    ],
+    "sectionName": "",
+    "additionalDisplayCharacterIds": []
+  },
+  {
     "id": "st-eve-2304-marathon-raid-005",
     "name": "ずっと\nライバル",
     "description": "琴乃も立ち直り、良きライバルとして高め合おうと情熱を燃やすサニピと月ストの十人。和やかな空気の中、二組は本番に向けて練習を重ね、ついに祭典のステージに挑む。",
     "rewardId": "rd_auto;stone;;30",
+    "advPlayTypes": [
+      1
+    ],
+    "advAssetIds": [
+      "event_2304_01_05"
+    ],
+    "sectionName": "",
+    "additionalDisplayCharacterIds": []
+  },
+  {
+    "id": "st-eve-2304-marathon-raid-005-limited",
+    "name": "ずっと\nライバル",
+    "description": "琴乃も立ち直り、良きライバルとして高め合おうと情熱を燃やすサニピと月ストの十人。和やかな空気の中、二組は本番に向けて練習を重ね、ついに祭典のステージに挑む。",
+    "rewardId": "rd_auto;item;item-ladder_pt_23-0528;30",
     "advPlayTypes": [
       1
     ],
@@ -11593,6 +12173,76 @@
       "main_03_04_05"
     ],
     "rewardId": "",
+    "additionalDisplayCharacterIds": []
+  },
+  {
+    "id": "st-main-cmn-02-01-21",
+    "sectionName": "Goodbye To The Moon",
+    "name": "揺るがない\n決意",
+    "description": "琴乃はあなたを呼び出し、月ストを脱退させてほしいと切り出す。その場はひとまず時間を置くことになるも、その決意は固い。そんな琴乃の変化に、渚も気が付き――",
+    "rewardId": "rd_auto;stone;;30",
+    "advPlayTypes": [
+      1
+    ],
+    "advAssetIds": [
+      "main_03_05_01"
+    ],
+    "additionalDisplayCharacterIds": []
+  },
+  {
+    "id": "st-main-cmn-02-01-22",
+    "sectionName": "Goodbye To The Moon",
+    "name": "分かれ道",
+    "description": "琴乃は渚に、自身が抱いていた想いを語る。月ストから脱退することを悟った渚は、琴乃を引き止めるが、そんな渚に、琴乃は驚くような提案をする。",
+    "rewardId": "rd_auto;stone;;30",
+    "advPlayTypes": [
+      1
+    ],
+    "advAssetIds": [
+      "main_03_05_02"
+    ],
+    "additionalDisplayCharacterIds": []
+  },
+  {
+    "id": "st-main-cmn-02-01-23",
+    "sectionName": "Goodbye To The Moon",
+    "name": "一人の\nアイドル\nとして",
+    "description": "琴乃と一緒に月ストを抜けるか、月ストに残るか。琴乃のために星見プロに入り、ずっとそばで支えてきた渚は、ひとり思い悩む。星見市を周りながら、今までのことを思い返していた渚。その胸に宿ったものは――",
+    "rewardId": "rd_auto;stone;;30",
+    "advPlayTypes": [
+      1
+    ],
+    "advAssetIds": [
+      "main_03_05_03"
+    ],
+    "additionalDisplayCharacterIds": []
+  },
+  {
+    "id": "st-main-cmn-02-01-24",
+    "sectionName": "Goodbye To The Moon",
+    "name": "さよなら",
+    "description": "渚は意志を決め、琴乃に想いを伝える。それぞれの道を歩み、それぞれ努力することを誓うふたり。いつかまた、一緒にステージに立つ日まで。",
+    "rewardId": "rd_auto;stone;;30",
+    "advPlayTypes": [
+      1
+    ],
+    "advAssetIds": [
+      "main_03_05_04"
+    ],
+    "additionalDisplayCharacterIds": []
+  },
+  {
+    "id": "st-main-cmn-02-01-25",
+    "sectionName": "Goodbye To The Moon",
+    "name": "並んで歩む\n日まで",
+    "description": "それぞれ痛みを抱えながらも、分かれて活動することに決めた琴乃と渚。他のメンバーにも、正式に、琴乃が脱退することが知らされ――",
+    "rewardId": "rd_auto;stone;;30",
+    "advPlayTypes": [
+      1
+    ],
+    "advAssetIds": [
+      "main_03_05_05"
+    ],
     "additionalDisplayCharacterIds": []
   },
   {

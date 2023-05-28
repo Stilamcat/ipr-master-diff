@@ -98,10 +98,30 @@
     "noteText": ""
   },
   {
+    "id": "ex-st-part-limited-08",
+    "assetId": "special-02",
+    "name": "Memory",
+    "order": 1,
+    "type": 1,
+    "viewConditionId": "cd-ex-st-part-limited-01-open-230528",
+    "extraStoryIds": [
+      "ex-st-part-limited-23-0528-01",
+      "ex-st-part-limited-23-0528-02",
+      "ex-st-part-limited-23-0604-03",
+      "ex-st-part-limited-23-0604-04",
+      "ex-st-part-limited-23-0611-05",
+      "ex-st-part-limited-23-0611-06",
+      "ex-st-part-limited-23-0618-07"
+    ],
+    "subTitle": "",
+    "noteText": "",
+    "unlockConditionId": ""
+  },
+  {
     "id": "ex-story-part-birthday-01",
     "assetId": "birthday-01",
     "name": "誕生日",
-    "order": 1,
+    "order": 2,
     "type": 1,
     "viewConditionId": "cd-ex-story-part-birthday-01-open",
     "unlockConditionId": "cd-ex-story-part-birthday-01-open",
@@ -133,7 +153,7 @@
     "id": "ex-story-part-special-01",
     "assetId": "special-01",
     "name": "特別編",
-    "order": 2,
+    "order": 3,
     "type": 1,
     "viewConditionId": "cd-ex-story-part-special-01-open",
     "unlockConditionId": "cd-ex-story-part-special-01-open",

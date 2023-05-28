@@ -514,6 +514,56 @@
     ]
   },
   {
+    "homeTalkId": "home-talk-card-aoi-05-wedd-00-talk-01",
+    "characterId": "char-aoi",
+    "placeType": 1,
+    "conditionId": "cd-st-read-st-card-aoi-05-wedd-00-03",
+    "firstPriority": 9900,
+    "weight": 1,
+    "callPatternId": "call-pattern-card-aoi-05-wedd-00",
+    "choiceText": "SNSでも大好評だったな",
+    "managerText": "SNSでも大好評だったな",
+    "reliability": 5,
+    "characterTalks": [
+      {
+        "text": "昨日はもう、莉央達が騒いじゃって\n三人して僕の部屋に押しかけてきて\nテレビを占拠されてね。",
+        "voiceAssetId": "sud_vo_home_aoi-05-wedd-00_talk-01-01",
+        "motionAssetId": "mot_adv_chr_cmn_think-004_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "こころと愛がうるさくし過ぎて、\nクライマックスシーンに入る前に、\n沙季が注意しに来たよ。",
+        "voiceAssetId": "sud_vo_home_aoi-05-wedd-00_talk-01-02",
+        "motionAssetId": "mot_adv_chr_cmn_sad-001_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "演技じゃなくて、本当に僕が\n結婚する日が来るかどうかは、\nまだ全然分からないけど。",
+        "voiceAssetId": "sud_vo_home_aoi-05-wedd-00_talk-01-03",
+        "motionAssetId": "mot_adv_chr_cmn_talk-023_in",
+        "additionMotionAssetId": "mot_all_chr_cmn_facial-034_in"
+      },
+      {
+        "text": "そうなった時に、結婚式が\nどんな感じになるのか、\nおかげで想像出来た気がするよ。",
+        "voiceAssetId": "sud_vo_home_aoi-05-wedd-00_talk-01-04",
+        "motionAssetId": "mot_adv_chr_cmn_talk-011_in",
+        "additionMotionAssetId": "mot_all_chr_cmn_facial-001_in"
+      },
+      {
+        "text": "楽しそう？　……そうだね、\nドラマ以上に楽しい結婚式になる\nと思うよ。騒がしいくらいにね。",
+        "voiceAssetId": "sud_vo_home_aoi-05-wedd-00_talk-01-05",
+        "motionAssetId": "mot_adv_chr_cmn_pos-017_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "あと、実際の結婚式でも、\n莉央は泣くのを我慢出来なくて、\n途中で一度、席を外すだろうね。",
+        "voiceAssetId": "sud_vo_home_aoi-05-wedd-00_talk-01-06",
+        "motionAssetId": "mot_adv_chr_cmn_pos-002_in",
+        "additionMotionAssetId": ""
+      }
+    ]
+  },
+  {
     "homeTalkId": "home-talk-card-chs-05-chsk-00-talk-01",
     "characterId": "char-chs",
     "placeType": 1,
@@ -2219,6 +2269,56 @@
         "text": "ん？\nどうしてそんなに慌ててるの？\nちゃんと行く前に伝えるよ？",
         "voiceAssetId": "sud_vo_home_mei-05-rock-00_talk-01-06",
         "motionAssetId": "mot_adv_chr_cmn_ask-003_in",
+        "additionMotionAssetId": ""
+      }
+    ]
+  },
+  {
+    "homeTalkId": "home-talk-card-mei-05-wedd-00-talk-01",
+    "characterId": "char-mei",
+    "placeType": 1,
+    "conditionId": "cd-st-read-st-card-mei-05-wedd-00-03",
+    "firstPriority": 9900,
+    "weight": 1,
+    "callPatternId": "call-pattern-card-mei-05-wedd-00",
+    "choiceText": "それはダメだって言っただろう",
+    "managerText": "それはダメだって言っただろう",
+    "reliability": 5,
+    "characterTalks": [
+      {
+        "text": "あはは、ごめんごめん。\n芽衣も最初は待ち受けに\nするつもりはなかったんだよ？",
+        "voiceAssetId": "sud_vo_home_mei-05-wedd-00_talk-01-01",
+        "motionAssetId": "mot_adv_chr_cmn_emb-015_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "だけど、どう映るかだけ見て\nみたいなって思って、試しに\n一回だけ設定してみたら…",
+        "voiceAssetId": "sud_vo_home_mei-05-wedd-00_talk-01-02",
+        "motionAssetId": "mot_adv_chr_cmn_talk-012_in",
+        "additionMotionAssetId": "mot_all_chr_cmn_facial-001_in"
+      },
+      {
+        "text": "{user}さんの顔を\n見て、自然とニコニコ\nしちゃったんだー。",
+        "voiceAssetId": "sud_vo_home_mei-05-wedd-00_talk-01-03",
+        "motionAssetId": "mot_adv_chr_cmn_glad-003_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "なんだか、写真を見るだけで\nよーし、頑張るぞー！\nって思えるんだよね。",
+        "voiceAssetId": "sud_vo_home_mei-05-wedd-00_talk-01-04",
+        "motionAssetId": "mot_adv_chr_cmn_emot-004_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "だからね、\nもうちょっとだけでいいから、\n待ち受けにしててもいい…？",
+        "voiceAssetId": "sud_vo_home_mei-05-wedd-00_talk-01-05",
+        "motionAssetId": "mot_adv_chr_cmn_emb-005_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "…やったー！　ありがとう！\n大丈夫、みんなにバレないように\n気を付けるから！　えへへ。",
+        "voiceAssetId": "sud_vo_home_mei-05-wedd-00_talk-01-06",
+        "motionAssetId": "mot_adv_chr_cmn_pos-006_in",
         "additionMotionAssetId": ""
       }
     ]

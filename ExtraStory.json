@@ -19,6 +19,53 @@
     ]
   },
   {
+    "id": "ex-st-part-limited-23-0528-01",
+    "extraStoryPartId": "ex-st-part-limited-08",
+    "assetId": "img_story_event_banner_event-marathon-22-0526",
+    "name": "導きのファンファーレ",
+    "description": "再生するストーリーを選択してください。",
+    "order": 1,
+    "viewConditionId": "cd-ex-st-part-limited-01-open-230528",
+    "unlockConditionId": "cd-ex-st-part-limited-01-open-230528-01",
+    "episodes": [
+      {
+        "episode": 1,
+        "assetId": "event_2206_01_01",
+        "storyId": "st-eve-2206-marathon-001-limited",
+        "viewConditionId": "cd-ex-st-part-limited-01-open-230528",
+        "unlockConditionId": "cd-ex-st-part-limited-01-open-230528-01"
+      },
+      {
+        "episode": 2,
+        "assetId": "event_2206_01_01",
+        "storyId": "st-eve-2206-marathon-002-limited",
+        "viewConditionId": "cd-ex-st-part-limited-01-open-230528",
+        "unlockConditionId": "cd-ex-st-part-limited-01-open-230528-01"
+      },
+      {
+        "episode": 3,
+        "assetId": "event_2206_01_01",
+        "storyId": "st-eve-2206-marathon-003-limited",
+        "viewConditionId": "cd-ex-st-part-limited-01-open-230528",
+        "unlockConditionId": "cd-ex-st-part-limited-01-open-230528-01"
+      },
+      {
+        "episode": 4,
+        "assetId": "event_2206_01_01",
+        "storyId": "st-eve-2206-marathon-004-limited",
+        "viewConditionId": "cd-ex-st-part-limited-01-open-230528",
+        "unlockConditionId": "cd-ex-st-part-limited-01-open-230528-01"
+      },
+      {
+        "episode": 5,
+        "assetId": "event_2206_01_01",
+        "storyId": "st-eve-2206-marathon-005-limited",
+        "viewConditionId": "cd-ex-st-part-limited-01-open-230528",
+        "unlockConditionId": "cd-ex-st-part-limited-01-open-230528-01"
+      }
+    ]
+  },
+  {
     "id": "ex-story-part-special-01-22-0624-aniv",
     "extraStoryPartId": "ex-story-part-special-01",
     "assetId": "img_banner_l_campaign-22-0624-01",
@@ -45,6 +92,53 @@
     ]
   },
   {
+    "id": "ex-st-part-limited-23-0528-02",
+    "extraStoryPartId": "ex-st-part-limited-08",
+    "assetId": "img_story_event_banner_event-backside-22-0731",
+    "name": "熱中☆ハプニングサマー",
+    "description": "再生するストーリーを選択してください。",
+    "order": 2,
+    "viewConditionId": "cd-ex-st-part-limited-01-open-230528",
+    "unlockConditionId": "cd-ex-st-part-limited-01-open-230528-02",
+    "episodes": [
+      {
+        "episode": 1,
+        "assetId": "event_2208_01_01",
+        "storyId": "st-eve-2208-backside-001-limited",
+        "viewConditionId": "cd-ex-st-part-limited-01-open-230528",
+        "unlockConditionId": "cd-ex-st-part-limited-01-open-230528-02"
+      },
+      {
+        "episode": 2,
+        "assetId": "event_2208_01_01",
+        "storyId": "st-eve-2208-backside-002-limited",
+        "viewConditionId": "cd-ex-st-part-limited-01-open-230528",
+        "unlockConditionId": "cd-ex-st-part-limited-01-open-230528-02"
+      },
+      {
+        "episode": 3,
+        "assetId": "event_2208_01_01",
+        "storyId": "st-eve-2208-backside-003-limited",
+        "viewConditionId": "cd-ex-st-part-limited-01-open-230528",
+        "unlockConditionId": "cd-ex-st-part-limited-01-open-230528-02"
+      },
+      {
+        "episode": 4,
+        "assetId": "event_2208_01_01",
+        "storyId": "st-eve-2208-backside-004-limited",
+        "viewConditionId": "cd-ex-st-part-limited-01-open-230528",
+        "unlockConditionId": "cd-ex-st-part-limited-01-open-230528-02"
+      },
+      {
+        "episode": 5,
+        "assetId": "event_2208_01_01",
+        "storyId": "st-eve-2208-backside-005-limited",
+        "viewConditionId": "cd-ex-st-part-limited-01-open-230528",
+        "unlockConditionId": "cd-ex-st-part-limited-01-open-230528-02"
+      }
+    ]
+  },
+  {
     "id": "ex-story-part-special-01-22-0401-april",
     "extraStoryPartId": "ex-story-part-special-01",
     "assetId": "img_banner_l_campaign-22-0401-01",
@@ -67,6 +161,100 @@
         "storyId": "st-ex-story-part-special-01-22-0401-april-02",
         "viewConditionId": "cd-ex-story-part-special-01-open",
         "unlockConditionId": "cd-ex-story-part-special-01-open"
+      }
+    ]
+  },
+  {
+    "id": "ex-st-part-limited-23-0604-03",
+    "extraStoryPartId": "ex-st-part-limited-08",
+    "assetId": "img_story_event_banner_event-race-22-1003",
+    "name": "運命繋ぐ流星の軌跡",
+    "description": "再生するストーリーを選択してください。",
+    "order": 3,
+    "viewConditionId": "cd-ex-st-part-limited-01-open-230528",
+    "unlockConditionId": "cd-ex-st-part-limited-01-open-230604-03",
+    "episodes": [
+      {
+        "episode": 1,
+        "assetId": "event_2210_01_01",
+        "storyId": "st-eve-2210-race-001-limited",
+        "viewConditionId": "cd-ex-st-part-limited-01-open-230528",
+        "unlockConditionId": "cd-ex-st-part-limited-01-open-230604-03"
+      },
+      {
+        "episode": 2,
+        "assetId": "event_2210_01_01",
+        "storyId": "st-eve-2210-race-002-limited",
+        "viewConditionId": "cd-ex-st-part-limited-01-open-230528",
+        "unlockConditionId": "cd-ex-st-part-limited-01-open-230604-03"
+      },
+      {
+        "episode": 3,
+        "assetId": "event_2210_01_01",
+        "storyId": "st-eve-2210-race-003-limited",
+        "viewConditionId": "cd-ex-st-part-limited-01-open-230528",
+        "unlockConditionId": "cd-ex-st-part-limited-01-open-230604-03"
+      },
+      {
+        "episode": 4,
+        "assetId": "event_2210_01_01",
+        "storyId": "st-eve-2210-race-004-limited",
+        "viewConditionId": "cd-ex-st-part-limited-01-open-230528",
+        "unlockConditionId": "cd-ex-st-part-limited-01-open-230604-03"
+      },
+      {
+        "episode": 5,
+        "assetId": "event_2210_01_01",
+        "storyId": "st-eve-2210-race-005-limited",
+        "viewConditionId": "cd-ex-st-part-limited-01-open-230528",
+        "unlockConditionId": "cd-ex-st-part-limited-01-open-230604-03"
+      }
+    ]
+  },
+  {
+    "id": "ex-st-part-limited-23-0604-04",
+    "extraStoryPartId": "ex-st-part-limited-08",
+    "assetId": "img_story_event_banner_event-marathon-raid-22-1028",
+    "name": "舌戦開幕！賛美の湯",
+    "description": "再生するストーリーを選択してください。",
+    "order": 4,
+    "viewConditionId": "cd-ex-st-part-limited-01-open-230528",
+    "unlockConditionId": "cd-ex-st-part-limited-01-open-230604-04",
+    "episodes": [
+      {
+        "episode": 1,
+        "assetId": "event_2211_01_01",
+        "storyId": "st-eve-2211-marathon-raid-001-limited",
+        "viewConditionId": "cd-ex-st-part-limited-01-open-230528",
+        "unlockConditionId": "cd-ex-st-part-limited-01-open-230604-04"
+      },
+      {
+        "episode": 2,
+        "assetId": "event_2211_01_01",
+        "storyId": "st-eve-2211-marathon-raid-002-limited",
+        "viewConditionId": "cd-ex-st-part-limited-01-open-230528",
+        "unlockConditionId": "cd-ex-st-part-limited-01-open-230604-04"
+      },
+      {
+        "episode": 3,
+        "assetId": "event_2211_01_01",
+        "storyId": "st-eve-2211-marathon-raid-003-limited",
+        "viewConditionId": "cd-ex-st-part-limited-01-open-230528",
+        "unlockConditionId": "cd-ex-st-part-limited-01-open-230604-04"
+      },
+      {
+        "episode": 4,
+        "assetId": "event_2211_01_01",
+        "storyId": "st-eve-2211-marathon-raid-004-limited",
+        "viewConditionId": "cd-ex-st-part-limited-01-open-230528",
+        "unlockConditionId": "cd-ex-st-part-limited-01-open-230604-04"
+      },
+      {
+        "episode": 5,
+        "assetId": "event_2211_01_01",
+        "storyId": "st-eve-2211-marathon-raid-005-limited",
+        "viewConditionId": "cd-ex-st-part-limited-01-open-230528",
+        "unlockConditionId": "cd-ex-st-part-limited-01-open-230604-04"
       }
     ]
   },
@@ -117,6 +305,119 @@
         "episode": 1,
         "assetId": "campaign_2022_0103",
         "storyId": "st-ex-story-part-special-01-22-0103-newyear-01",
+        "viewConditionId": "cd-ex-story-part-special-01-open",
+        "unlockConditionId": "cd-ex-story-part-special-01-open"
+      }
+    ]
+  },
+  {
+    "id": "ex-st-part-limited-23-0611-05",
+    "extraStoryPartId": "ex-st-part-limited-08",
+    "assetId": "img_story_event_banner_event-race-22-1128",
+    "name": "君と願う月灯の祝祭",
+    "description": "再生するストーリーを選択してください。",
+    "order": 5,
+    "viewConditionId": "cd-ex-st-part-limited-01-open-230528",
+    "unlockConditionId": "cd-ex-st-part-limited-01-open-230611-05",
+    "episodes": [
+      {
+        "episode": 1,
+        "assetId": "event_2212_01_01",
+        "storyId": "st-eve-2212-race-001-limited",
+        "viewConditionId": "cd-ex-st-part-limited-01-open-230528",
+        "unlockConditionId": "cd-ex-st-part-limited-01-open-230611-05"
+      },
+      {
+        "episode": 2,
+        "assetId": "event_2212_01_01",
+        "storyId": "st-eve-2212-race-002-limited",
+        "viewConditionId": "cd-ex-st-part-limited-01-open-230528",
+        "unlockConditionId": "cd-ex-st-part-limited-01-open-230611-05"
+      },
+      {
+        "episode": 3,
+        "assetId": "event_2212_01_01",
+        "storyId": "st-eve-2212-race-003-limited",
+        "viewConditionId": "cd-ex-st-part-limited-01-open-230528",
+        "unlockConditionId": "cd-ex-st-part-limited-01-open-230611-05"
+      },
+      {
+        "episode": 4,
+        "assetId": "event_2212_01_01",
+        "storyId": "st-eve-2212-race-004-limited",
+        "viewConditionId": "cd-ex-st-part-limited-01-open-230528",
+        "unlockConditionId": "cd-ex-st-part-limited-01-open-230611-05"
+      },
+      {
+        "episode": 5,
+        "assetId": "event_2212_01_01",
+        "storyId": "st-eve-2212-race-005-limited",
+        "viewConditionId": "cd-ex-st-part-limited-01-open-230528",
+        "unlockConditionId": "cd-ex-st-part-limited-01-open-230611-05"
+      }
+    ]
+  },
+  {
+    "id": "ex-st-part-limited-23-0611-06",
+    "extraStoryPartId": "ex-st-part-limited-08",
+    "assetId": "img_story_event_banner_event-marathon-raid-23-0128",
+    "name": "守れ！純潔のベーゼ～imposition of love～",
+    "description": "再生するストーリーを選択してください。",
+    "order": 6,
+    "viewConditionId": "cd-ex-st-part-limited-01-open-230528",
+    "unlockConditionId": "cd-ex-st-part-limited-01-open-230611-06",
+    "episodes": [
+      {
+        "episode": 1,
+        "assetId": "event_2302_01_01",
+        "storyId": "st-eve-2302-marathon-raid-001-limited",
+        "viewConditionId": "cd-ex-st-part-limited-01-open-230528",
+        "unlockConditionId": "cd-ex-st-part-limited-01-open-230611-06"
+      },
+      {
+        "episode": 2,
+        "assetId": "event_2302_01_01",
+        "storyId": "st-eve-2302-marathon-raid-002-limited",
+        "viewConditionId": "cd-ex-st-part-limited-01-open-230528",
+        "unlockConditionId": "cd-ex-st-part-limited-01-open-230611-06"
+      },
+      {
+        "episode": 3,
+        "assetId": "event_2302_01_01",
+        "storyId": "st-eve-2302-marathon-raid-003-limited",
+        "viewConditionId": "cd-ex-st-part-limited-01-open-230528",
+        "unlockConditionId": "cd-ex-st-part-limited-01-open-230611-06"
+      },
+      {
+        "episode": 4,
+        "assetId": "event_2302_01_01",
+        "storyId": "st-eve-2302-marathon-raid-004-limited",
+        "viewConditionId": "cd-ex-st-part-limited-01-open-230528",
+        "unlockConditionId": "cd-ex-st-part-limited-01-open-230611-06"
+      },
+      {
+        "episode": 5,
+        "assetId": "event_2302_01_01",
+        "storyId": "st-eve-2302-marathon-raid-005-limited",
+        "viewConditionId": "cd-ex-st-part-limited-01-open-230528",
+        "unlockConditionId": "cd-ex-st-part-limited-01-open-230611-06"
+      }
+    ]
+  },
+  {
+    "id": "ex-story-part-special-01-23-0101-newyear",
+    "extraStoryPartId": "ex-story-part-special-01",
+    "assetId": "img_banner_l_campaign-23-0101-01-story",
+    "name": "お正月",
+    "description": "再生するストーリーを選択してください。",
+    "order": 6,
+    "viewConditionId": "cd-ex-story-part-special-01-open",
+    "unlockConditionId": "cd-ex-story-part-special-01-open",
+    "episodes": [
+      {
+        "episode": 1,
+        "assetId": "campaign_2023_0101",
+        "storyId": "st-ex-story-part-special-01-23-0101-newyear-01",
         "viewConditionId": "cd-ex-story-part-special-01-open",
         "unlockConditionId": "cd-ex-story-part-special-01-open"
       }
@@ -331,21 +632,49 @@
     ]
   },
   {
-    "id": "ex-story-part-special-01-23-0101-newyear",
-    "extraStoryPartId": "ex-story-part-special-01",
-    "assetId": "img_banner_l_campaign-23-0101-01-story",
-    "name": "お正月",
+    "id": "ex-st-part-limited-23-0618-07",
+    "extraStoryPartId": "ex-st-part-limited-08",
+    "assetId": "img_story_event_banner_event-marathon-raid-23-0328",
+    "name": "音色の輝石が紡ぐ未来",
     "description": "再生するストーリーを選択してください。",
-    "order": 6,
-    "viewConditionId": "cd-ex-story-part-special-01-open",
-    "unlockConditionId": "cd-ex-story-part-special-01-open",
+    "order": 7,
+    "viewConditionId": "cd-ex-st-part-limited-01-open-230528",
+    "unlockConditionId": "cd-ex-st-part-limited-01-open-230618-07",
     "episodes": [
       {
         "episode": 1,
-        "assetId": "campaign_2023_0101",
-        "storyId": "st-ex-story-part-special-01-23-0101-newyear-01",
-        "viewConditionId": "cd-ex-story-part-special-01-open",
-        "unlockConditionId": "cd-ex-story-part-special-01-open"
+        "assetId": "event_2304_01_01",
+        "storyId": "st-eve-2304-marathon-raid-001-limited",
+        "viewConditionId": "cd-ex-st-part-limited-01-open-230528",
+        "unlockConditionId": "cd-ex-st-part-limited-01-open-230618-07"
+      },
+      {
+        "episode": 2,
+        "assetId": "event_2304_01_01",
+        "storyId": "st-eve-2304-marathon-raid-002-limited",
+        "viewConditionId": "cd-ex-st-part-limited-01-open-230528",
+        "unlockConditionId": "cd-ex-st-part-limited-01-open-230618-07"
+      },
+      {
+        "episode": 3,
+        "assetId": "event_2304_01_01",
+        "storyId": "st-eve-2304-marathon-raid-003-limited",
+        "viewConditionId": "cd-ex-st-part-limited-01-open-230528",
+        "unlockConditionId": "cd-ex-st-part-limited-01-open-230618-07"
+      },
+      {
+        "episode": 4,
+        "assetId": "event_2304_01_01",
+        "storyId": "st-eve-2304-marathon-raid-004-limited",
+        "viewConditionId": "cd-ex-st-part-limited-01-open-230528",
+        "unlockConditionId": "cd-ex-st-part-limited-01-open-230618-07"
+      },
+      {
+        "episode": 5,
+        "assetId": "event_2304_01_01",
+        "storyId": "st-eve-2304-marathon-raid-005-limited",
+        "viewConditionId": "cd-ex-st-part-limited-01-open-230528",
+        "unlockConditionId": "cd-ex-st-part-limited-01-open-230618-07"
       }
     ]
   },
