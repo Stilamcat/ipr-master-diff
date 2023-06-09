@@ -2226,6 +2226,25 @@
     ]
   },
   {
+    "id": "ex-story-part-birthday-01-kor-0611",
+    "extraStoryPartId": "ex-story-part-birthday-01",
+    "assetId": "img_banner_l_birthday-23-0611-kor",
+    "name": "fran",
+    "description": "再生するストーリーを選択してください。",
+    "order": 210611,
+    "viewConditionId": "cd-ex-story-part-birthday-01-open",
+    "unlockConditionId": "cd-ex-story-part-birthday-01-open",
+    "episodes": [
+      {
+        "episode": 1,
+        "assetId": "hbd_2023",
+        "storyId": "st-ex-story-part-birthday-01-kor-01",
+        "viewConditionId": "cd-ex-story-part-birthday-kor-23-0611-open",
+        "unlockConditionId": "cd-ex-story-part-birthday-kor-23-0611-open"
+      }
+    ]
+  },
+  {
     "id": "ex-story-part-birthday-01-aoi-0619",
     "extraStoryPartId": "ex-story-part-birthday-01",
     "assetId": "img_banner_l_birthday-22-0619-aoi",

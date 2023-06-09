@@ -13500,6 +13500,26 @@
     "shortDescription": ""
   },
   {
+    "id": "ef-dance_boost-4-target-dance-2-20",
+    "name": "ダンスタイプ2人にダンスブースト効果",
+    "type": 57,
+    "description": "ダンスタイプ2人に4段階ダンスブースト効果[20ビート]",
+    "grade": 4,
+    "maxGrade": 20,
+    "skillTargetId": "target-dance-2",
+    "shortDescription": ""
+  },
+  {
+    "id": "ef-dance_boost-4-target-dance-2-23",
+    "name": "ダンスタイプ2人にダンスブースト効果",
+    "type": 57,
+    "description": "ダンスタイプ2人に4段階ダンスブースト効果[23ビート]",
+    "grade": 4,
+    "maxGrade": 20,
+    "skillTargetId": "target-dance-2",
+    "shortDescription": ""
+  },
+  {
     "id": "ef-dance_boost-4-target-self-34",
     "name": "自身にダンスブースト効果",
     "type": 57,
@@ -13530,6 +13550,26 @@
     "shortDescription": ""
   },
   {
+    "id": "ef-dance_boost-5-target-dance-2-23",
+    "name": "ダンスタイプ2人にダンスブースト効果",
+    "type": 57,
+    "description": "ダンスタイプ2人に5段階ダンスブースト効果[23ビート]",
+    "grade": 5,
+    "maxGrade": 20,
+    "skillTargetId": "target-dance-2",
+    "shortDescription": ""
+  },
+  {
+    "id": "ef-dance_boost-5-target-dance-2-27",
+    "name": "ダンスタイプ2人にダンスブースト効果",
+    "type": 57,
+    "description": "ダンスタイプ2人に5段階ダンスブースト効果[27ビート]",
+    "grade": 5,
+    "maxGrade": 20,
+    "skillTargetId": "target-dance-2",
+    "shortDescription": ""
+  },
+  {
     "id": "ef-dance_boost-5-target-self-37",
     "name": "自身にダンスブースト効果",
     "type": 57,
@@ -13557,6 +13597,26 @@
     "grade": 6,
     "maxGrade": 20,
     "skillTargetId": "target-center",
+    "shortDescription": ""
+  },
+  {
+    "id": "ef-dance_boost-6-target-dance-2-27",
+    "name": "ダンスタイプ2人にダンスブースト効果",
+    "type": 57,
+    "description": "ダンスタイプ2人に6段階ダンスブースト効果[27ビート]",
+    "grade": 6,
+    "maxGrade": 20,
+    "skillTargetId": "target-dance-2",
+    "shortDescription": ""
+  },
+  {
+    "id": "ef-dance_boost-6-target-dance-2-31",
+    "name": "ダンスタイプ2人にダンスブースト効果",
+    "type": 57,
+    "description": "ダンスタイプ2人に6段階ダンスブースト効果[31ビート]",
+    "grade": 6,
+    "maxGrade": 20,
+    "skillTargetId": "target-dance-2",
     "shortDescription": ""
   },
   {
@@ -14890,6 +14950,16 @@
     "shortDescription": ""
   },
   {
+    "id": "ef-dance_up-4-target-all-33",
+    "name": "全員にダンス上昇効果",
+    "type": 13,
+    "description": "全員に4段階ダンス上昇効果[33ビート]",
+    "grade": 4,
+    "maxGrade": 20,
+    "skillTargetId": "target-all",
+    "shortDescription": ""
+  },
+  {
     "id": "ef-dance_up-4-target-all-34",
     "name": "全員にダンス上昇効果",
     "type": 13,
@@ -15334,6 +15404,16 @@
     "name": "全員にダンス上昇効果",
     "type": 13,
     "description": "全員に5段階ダンス上昇効果[25ビート]",
+    "grade": 5,
+    "maxGrade": 20,
+    "skillTargetId": "target-all",
+    "shortDescription": ""
+  },
+  {
+    "id": "ef-dance_up-5-target-all-33",
+    "name": "全員にダンス上昇効果",
+    "type": 13,
+    "description": "全員に5段階ダンス上昇効果[33ビート]",
     "grade": 5,
     "maxGrade": 20,
     "skillTargetId": "target-all",
@@ -16014,6 +16094,16 @@
     "name": "全員にダンス上昇効果",
     "type": 13,
     "description": "全員に6段階ダンス上昇効果[46ビート]",
+    "grade": 6,
+    "maxGrade": 20,
+    "skillTargetId": "target-all",
+    "shortDescription": ""
+  },
+  {
+    "id": "ef-dance_up-6-target-all-51",
+    "name": "全員にダンス上昇効果",
+    "type": 13,
+    "description": "全員に6段階ダンス上昇効果[51ビート]",
     "grade": 6,
     "maxGrade": 20,
     "skillTargetId": "target-all",
@@ -16734,6 +16824,16 @@
     "name": "全員にダンス上昇効果",
     "type": 13,
     "description": "全員に7段階ダンス上昇効果[41ビート]",
+    "grade": 7,
+    "maxGrade": 20,
+    "skillTargetId": "target-all",
+    "shortDescription": ""
+  },
+  {
+    "id": "ef-dance_up-7-target-all-51",
+    "name": "全員にダンス上昇効果",
+    "type": 13,
+    "description": "全員に7段階ダンス上昇効果[51ビート]",
     "grade": 7,
     "maxGrade": 20,
     "skillTargetId": "target-all",
@@ -35921,7 +36021,7 @@
   },
   {
     "id": "ef-strength_effect_assignment-active_skill_score_up-target-trigger",
-    "name": "対象をAスキルチャンス譲渡状態",
+    "name": "対象へAスキルスコア上昇効果譲渡",
     "type": 52,
     "description": "対象1人へAスキルスコア上昇効果譲渡",
     "skillTargetId": "target-trigger",

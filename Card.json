@@ -6267,6 +6267,66 @@
     "homeTalks": []
   },
   {
+    "id": "card-rio-05-wedd-00",
+    "assetId": "rio-05-wedd-00",
+    "name": "ベールに隠した本音",
+    "description": "待って！　やっぱりまだ心の準備が──\r\nまだ開けないでって言ったのに……\r\nこれは……違うのよ\r\nまだ完成じゃないんだから……",
+    "type": 2,
+    "characterId": "char-rio",
+    "initialRarity": 5,
+    "cardParameterId": "card-param-01",
+    "vocalRatioPermil": 276,
+    "danceRatioPermil": 404,
+    "visualRatioPermil": 320,
+    "staminaRatioPermil": 1000,
+    "cardLevelReleaseId": "card_level_release_1",
+    "skillId1": "sk-rio-05-wedd-00-1",
+    "skillId2": "sk-rio-05-wedd-00-2",
+    "skillId3": "sk-rio-05-wedd-00-3",
+    "liveAbilityId": "lba-dance_multiply",
+    "order": 286,
+    "releaseDate": "1686279600000",
+    "rewardCostumeId": "cos-rio-wedd-00",
+    "imageType1": 3,
+    "displayPositionX1": 0.057,
+    "displayScale1": 1.0,
+    "highlightDisplayPositionX1": -0.014,
+    "highlightDisplayPositionY1": 0.241,
+    "highlightDisplayScale1": 0.8,
+    "imageType2": 3,
+    "displayPositionX2": 0.057,
+    "displayScale2": 1.0,
+    "highlightDisplayPositionX2": -0.014,
+    "highlightDisplayPositionY2": 0.241,
+    "highlightDisplayScale2": 0.8,
+    "obtainMessage": "どうして黙ってるのよ。\nやっぱり……\n私には似合わない、かしら……",
+    "stories": [
+      {
+        "storyId": "st-card-rio-05-wedd-00-01"
+      },
+      {
+        "storyId": "st-card-rio-05-wedd-00-02"
+      },
+      {
+        "storyId": "st-card-rio-05-wedd-00-03"
+      }
+    ],
+    "messages": [
+      {
+        "messageId": "message-card-rio-05-wedd-00",
+        "telephoneId": ""
+      },
+      {
+        "telephoneId": "tel-card-rio-05-wedd-00",
+        "messageId": ""
+      }
+    ],
+    "activityAbilityId": "",
+    "displayPositionY1": 0.0,
+    "displayPositionY2": 0.0,
+    "homeTalks": []
+  },
+  {
     "id": "card-rui-01-casl-00",
     "assetId": "rui-01-eve-00",
     "name": "夕暮れのホームで",

@@ -9468,8 +9468,8 @@
   },
   {
     "id": "live-bonus-group-081",
-    "name": "月のテンペストメンバーの編成数毎に全体に2段階スキル成功率上昇効果[40ビート]\nCT:50",
-    "description": "月のテンペストメンバーの編成数毎に全体に2段階スキル成功率上昇効果[40ビート]\nCT:50",
+    "name": "月のテンペストメンバーの編成数毎に全体に2段階スキル成功率上昇効果[40ビート] CT:50",
+    "description": "月のテンペストメンバーの編成数毎に全体に2段階スキル成功率上昇効果[40ビート] CT:50",
     "levels": [
       {
         "level": 1,
@@ -17912,6 +17912,85 @@
         "requiredCardLevel": 5,
         "value": 6,
         "skillId": "sk-live-lba-passive_skill-108",
+        "shortDescription": "",
+        "moodType": 0,
+        "backgroundRankType": 0
+      }
+    ],
+    "description": ""
+  },
+  {
+    "id": "live-lba-passive_skill-109",
+    "name": "誰かがビートスコア上昇状態の時\n全体にスキル成功率UP",
+    "levels": [
+      {
+        "level": 1,
+        "description": "パッシブスキル発動",
+        "type": 13,
+        "value": 1,
+        "skillId": "sk-live-lba-passive_skill-109",
+        "shortDescription": "",
+        "requiredItemAmount": 0,
+        "requiredCardLevel": 0,
+        "moodType": 0,
+        "backgroundRankType": 0
+      },
+      {
+        "level": 2,
+        "description": "パッシブスキル発動",
+        "type": 13,
+        "requiredItemAmount": 1,
+        "requiredCardLevel": 1,
+        "value": 2,
+        "skillId": "sk-live-lba-passive_skill-109",
+        "shortDescription": "",
+        "moodType": 0,
+        "backgroundRankType": 0
+      },
+      {
+        "level": 3,
+        "description": "パッシブスキル発動",
+        "type": 13,
+        "requiredItemAmount": 1,
+        "requiredCardLevel": 2,
+        "value": 3,
+        "skillId": "sk-live-lba-passive_skill-109",
+        "shortDescription": "",
+        "moodType": 0,
+        "backgroundRankType": 0
+      },
+      {
+        "level": 4,
+        "description": "パッシブスキル発動",
+        "type": 13,
+        "requiredItemAmount": 1,
+        "requiredCardLevel": 3,
+        "value": 4,
+        "skillId": "sk-live-lba-passive_skill-109",
+        "shortDescription": "",
+        "moodType": 0,
+        "backgroundRankType": 0
+      },
+      {
+        "level": 5,
+        "description": "パッシブスキル発動",
+        "type": 13,
+        "requiredItemAmount": 1,
+        "requiredCardLevel": 4,
+        "value": 5,
+        "skillId": "sk-live-lba-passive_skill-109",
+        "shortDescription": "",
+        "moodType": 0,
+        "backgroundRankType": 0
+      },
+      {
+        "level": 6,
+        "description": "パッシブスキル発動",
+        "type": 13,
+        "requiredItemAmount": 1,
+        "requiredCardLevel": 5,
+        "value": 6,
+        "skillId": "sk-live-lba-passive_skill-109",
         "shortDescription": "",
         "moodType": 0,
         "backgroundRankType": 0

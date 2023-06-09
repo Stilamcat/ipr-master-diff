@@ -34438,7 +34438,7 @@
     "levels": [
       {
         "level": 1,
-        "description": "月のテンペストメンバーの編成数毎に全体に2段階スキル成功率上昇効果[40ビート]\nCT:50",
+        "description": "月のテンペストメンバーの編成数毎に全体に2段階スキル成功率上昇効果[40ビート] CT:50",
         "shortDescription": "\n\n \n \n \n \nCT:50",
         "triggerId": "tg-more_than_character_count-moon-1",
         "probabilityPermil": 1000,
@@ -34473,7 +34473,7 @@
       },
       {
         "level": 2,
-        "description": "月のテンペストメンバーの編成数毎に全体に2段階スキル成功率上昇効果[40ビート]\nCT:50",
+        "description": "月のテンペストメンバーの編成数毎に全体に2段階スキル成功率上昇効果[40ビート] CT:50",
         "shortDescription": "\n\n \n \n \n \nCT:50",
         "requiredItemAmount": 1,
         "requiredCardLevel": 1,
@@ -34508,7 +34508,7 @@
       },
       {
         "level": 3,
-        "description": "月のテンペストメンバーの編成数毎に全体に2段階スキル成功率上昇効果[40ビート]\nCT:50",
+        "description": "月のテンペストメンバーの編成数毎に全体に2段階スキル成功率上昇効果[40ビート] CT:50",
         "shortDescription": "\n\n \n \n \n \nCT:50",
         "requiredItemAmount": 1,
         "requiredCardLevel": 2,
@@ -34543,7 +34543,7 @@
       },
       {
         "level": 4,
-        "description": "月のテンペストメンバーの編成数毎に全体に2段階スキル成功率上昇効果[40ビート]\nCT:50",
+        "description": "月のテンペストメンバーの編成数毎に全体に2段階スキル成功率上昇効果[40ビート] CT:50",
         "shortDescription": "\n\n \n \n \n \nCT:50",
         "requiredItemAmount": 1,
         "requiredCardLevel": 3,
@@ -34578,7 +34578,7 @@
       },
       {
         "level": 5,
-        "description": "月のテンペストメンバーの編成数毎に全体に2段階スキル成功率上昇効果[40ビート]\nCT:50",
+        "description": "月のテンペストメンバーの編成数毎に全体に2段階スキル成功率上昇効果[40ビート] CT:50",
         "shortDescription": "\n\n \n \n \n \nCT:50",
         "requiredItemAmount": 1,
         "requiredCardLevel": 4,
@@ -34613,7 +34613,7 @@
       },
       {
         "level": 6,
-        "description": "月のテンペストメンバーの編成数毎に全体に2段階スキル成功率上昇効果[40ビート]\nCT:50",
+        "description": "月のテンペストメンバーの編成数毎に全体に2段階スキル成功率上昇効果[40ビート] CT:50",
         "shortDescription": "\n\n \n \n \n \nCT:50",
         "requiredItemAmount": 1,
         "requiredCardLevel": 5,
@@ -48296,6 +48296,128 @@
         ],
         "stamina": 0,
         "coolTime": 0,
+        "staminaPermil": 0
+      }
+    ],
+    "assetId": ""
+  },
+  {
+    "id": "sk-live-lba-passive_skill-109",
+    "name": "ライブボーナス",
+    "categoryType": 3,
+    "levels": [
+      {
+        "level": 1,
+        "description": "誰かがビートスコア上昇状態の時\n全員に5段階スキル成功率上昇効果[26ビート]\nCT:50",
+        "shortDescription": "\n\nCT:50",
+        "triggerId": "tg-someone_status-beat_score_up",
+        "probabilityPermil": 1000,
+        "coolTime": 50,
+        "skillDetails": [
+          {
+            "efficacyId": "ef-skill_success_rate_up-5-target-all-26",
+            "triggerId": ""
+          }
+        ],
+        "requiredItemAmount": 0,
+        "requiredCardLevel": 0,
+        "stamina": 0,
+        "limitCount": 0,
+        "staminaPermil": 0
+      },
+      {
+        "level": 2,
+        "description": "誰かがビートスコア上昇状態の時\n全員に5段階スキル成功率上昇効果[28ビート]\nCT:50",
+        "shortDescription": "\n\nCT:50",
+        "requiredItemAmount": 1,
+        "requiredCardLevel": 1,
+        "triggerId": "tg-someone_status-beat_score_up",
+        "probabilityPermil": 1000,
+        "coolTime": 50,
+        "skillDetails": [
+          {
+            "efficacyId": "ef-skill_success_rate_up-5-target-all-28",
+            "triggerId": ""
+          }
+        ],
+        "stamina": 0,
+        "limitCount": 0,
+        "staminaPermil": 0
+      },
+      {
+        "level": 3,
+        "description": "誰かがビートスコア上昇状態の時\n全員に5段階スキル成功率上昇効果[30ビート]\nCT:50",
+        "shortDescription": "\n\nCT:50",
+        "requiredItemAmount": 1,
+        "requiredCardLevel": 2,
+        "triggerId": "tg-someone_status-beat_score_up",
+        "probabilityPermil": 1000,
+        "coolTime": 50,
+        "skillDetails": [
+          {
+            "efficacyId": "ef-skill_success_rate_up-5-target-all-30",
+            "triggerId": ""
+          }
+        ],
+        "stamina": 0,
+        "limitCount": 0,
+        "staminaPermil": 0
+      },
+      {
+        "level": 4,
+        "description": "誰かがビートスコア上昇状態の時\n全員に6段階スキル成功率上昇効果[30ビート]\nCT:50",
+        "shortDescription": "\n\nCT:50",
+        "requiredItemAmount": 1,
+        "requiredCardLevel": 3,
+        "triggerId": "tg-someone_status-beat_score_up",
+        "probabilityPermil": 1000,
+        "coolTime": 50,
+        "skillDetails": [
+          {
+            "efficacyId": "ef-skill_success_rate_up-6-target-all-30",
+            "triggerId": ""
+          }
+        ],
+        "stamina": 0,
+        "limitCount": 0,
+        "staminaPermil": 0
+      },
+      {
+        "level": 5,
+        "description": "誰かがビートスコア上昇状態の時\n全員に6段階スキル成功率上昇効果[35ビート]\nCT:50",
+        "shortDescription": "\n\nCT:50",
+        "requiredItemAmount": 1,
+        "requiredCardLevel": 4,
+        "triggerId": "tg-someone_status-beat_score_up",
+        "probabilityPermil": 1000,
+        "coolTime": 50,
+        "skillDetails": [
+          {
+            "efficacyId": "ef-skill_success_rate_up-6-target-all-35",
+            "triggerId": ""
+          }
+        ],
+        "stamina": 0,
+        "limitCount": 0,
+        "staminaPermil": 0
+      },
+      {
+        "level": 6,
+        "description": "誰かがビートスコア上昇状態の時\n全員に6段階スキル成功率上昇効果[40ビート]\nCT:50",
+        "shortDescription": "\n\nCT:50",
+        "requiredItemAmount": 1,
+        "requiredCardLevel": 5,
+        "triggerId": "tg-someone_status-beat_score_up",
+        "probabilityPermil": 1000,
+        "coolTime": 50,
+        "skillDetails": [
+          {
+            "efficacyId": "ef-skill_success_rate_up-6-target-all-40",
+            "triggerId": ""
+          }
+        ],
+        "stamina": 0,
+        "limitCount": 0,
         "staminaPermil": 0
       }
     ],
@@ -88834,6 +88956,420 @@
         ],
         "triggerId": "",
         "limitCount": 0,
+        "staminaPermil": 0
+      }
+    ],
+    "assetId": ""
+  },
+  {
+    "id": "sk-rio-05-wedd-00-1",
+    "name": "私が考えた最強の花嫁",
+    "categoryType": 2,
+    "levels": [
+      {
+        "level": 1,
+        "description": "360%のスコア獲得\nダンスタイプ2人に4段階ダンスブースト効果[20ビート]\nスタミナ112消費 CT:30",
+        "shortDescription": "\n\nスタミナ112消費 CT:30",
+        "stamina": 112,
+        "probabilityPermil": 1000,
+        "coolTime": 30,
+        "skillDetails": [
+          {
+            "efficacyId": "ef-score_get-3600-chart_dependence",
+            "triggerId": ""
+          },
+          {
+            "efficacyId": "ef-dance_boost-4-target-dance-2-20",
+            "triggerId": ""
+          }
+        ],
+        "requiredItemAmount": 0,
+        "requiredCardLevel": 0,
+        "triggerId": "",
+        "limitCount": 0,
+        "staminaPermil": 0
+      },
+      {
+        "level": 2,
+        "description": "380%のスコア獲得\nダンスタイプ2人に4段階ダンスブースト効果[23ビート]\nスタミナ119消費 CT:30",
+        "shortDescription": "\n\nスタミナ119消費 CT:30",
+        "requiredItemAmount": 500,
+        "requiredCardLevel": 40,
+        "stamina": 119,
+        "probabilityPermil": 1000,
+        "coolTime": 30,
+        "skillDetails": [
+          {
+            "efficacyId": "ef-score_get-3800-chart_dependence",
+            "triggerId": ""
+          },
+          {
+            "efficacyId": "ef-dance_boost-4-target-dance-2-23",
+            "triggerId": ""
+          }
+        ],
+        "triggerId": "",
+        "limitCount": 0,
+        "staminaPermil": 0
+      },
+      {
+        "level": 3,
+        "description": "400%のスコア獲得\nダンスタイプ2人に5段階ダンスブースト効果[23ビート]\nスタミナ128消費 CT:30",
+        "shortDescription": "\n\nスタミナ128消費 CT:30",
+        "requiredItemAmount": 2000,
+        "requiredCardLevel": 60,
+        "stamina": 128,
+        "probabilityPermil": 1000,
+        "coolTime": 30,
+        "skillDetails": [
+          {
+            "efficacyId": "ef-score_get-4000-chart_dependence",
+            "triggerId": ""
+          },
+          {
+            "efficacyId": "ef-dance_boost-5-target-dance-2-23",
+            "triggerId": ""
+          }
+        ],
+        "triggerId": "",
+        "limitCount": 0,
+        "staminaPermil": 0
+      },
+      {
+        "level": 4,
+        "description": "420%のスコア獲得\nダンスタイプ2人に5段階ダンスブースト効果[27ビート]\nスタミナ136消費 CT:30",
+        "shortDescription": "\n\nスタミナ136消費 CT:30",
+        "requiredItemAmount": 15000,
+        "requiredCardLevel": 90,
+        "stamina": 136,
+        "probabilityPermil": 1000,
+        "coolTime": 30,
+        "skillDetails": [
+          {
+            "efficacyId": "ef-score_get-4200-chart_dependence",
+            "triggerId": ""
+          },
+          {
+            "efficacyId": "ef-dance_boost-5-target-dance-2-27",
+            "triggerId": ""
+          }
+        ],
+        "triggerId": "",
+        "limitCount": 0,
+        "staminaPermil": 0
+      },
+      {
+        "level": 5,
+        "description": "440%のスコア獲得\nダンスタイプ2人に6段階ダンスブースト効果[27ビート]\nスタミナ146消費 CT:30",
+        "shortDescription": "\n\nスタミナ146消費 CT:30",
+        "requiredItemAmount": 100000,
+        "requiredCardLevel": 150,
+        "stamina": 146,
+        "probabilityPermil": 1000,
+        "coolTime": 30,
+        "skillDetails": [
+          {
+            "efficacyId": "ef-score_get-4400-chart_dependence",
+            "triggerId": ""
+          },
+          {
+            "efficacyId": "ef-dance_boost-6-target-dance-2-27",
+            "triggerId": ""
+          }
+        ],
+        "triggerId": "",
+        "limitCount": 0,
+        "staminaPermil": 0
+      },
+      {
+        "level": 6,
+        "description": "470%のスコア獲得\nダンスタイプ2人に6段階ダンスブースト効果[31ビート]\nスタミナ157消費 CT:30",
+        "shortDescription": "\n\nスタミナ157消費 CT:30",
+        "requiredItemAmount": 230000,
+        "requiredCardLevel": 180,
+        "stamina": 157,
+        "probabilityPermil": 1000,
+        "coolTime": 30,
+        "skillDetails": [
+          {
+            "efficacyId": "ef-score_get-4700-chart_dependence",
+            "triggerId": ""
+          },
+          {
+            "efficacyId": "ef-dance_boost-6-target-dance-2-31",
+            "triggerId": ""
+          }
+        ],
+        "triggerId": "",
+        "limitCount": 0,
+        "staminaPermil": 0
+      }
+    ],
+    "assetId": ""
+  },
+  {
+    "id": "sk-rio-05-wedd-00-2",
+    "name": "お嫁さんランキング急上昇",
+    "categoryType": 3,
+    "levels": [
+      {
+        "level": 1,
+        "description": "自身に4段階ダンス上昇効果[41ビート]\nスタミナ135消費 CT:50",
+        "shortDescription": "\nスタミナ135消費 CT:50",
+        "stamina": 135,
+        "probabilityPermil": 1000,
+        "coolTime": 50,
+        "skillDetails": [
+          {
+            "efficacyId": "ef-dance_up-4-target-self-41",
+            "triggerId": ""
+          }
+        ],
+        "requiredItemAmount": 0,
+        "requiredCardLevel": 0,
+        "triggerId": "",
+        "limitCount": 0,
+        "staminaPermil": 0
+      },
+      {
+        "level": 2,
+        "description": "自身に5段階ダンス上昇効果[41ビート]\nスタミナ168消費 CT:50",
+        "shortDescription": "\nスタミナ168消費 CT:50",
+        "requiredItemAmount": 1000,
+        "requiredCardLevel": 50,
+        "stamina": 168,
+        "probabilityPermil": 1000,
+        "coolTime": 50,
+        "skillDetails": [
+          {
+            "efficacyId": "ef-dance_up-5-target-self-41",
+            "triggerId": ""
+          }
+        ],
+        "triggerId": "",
+        "limitCount": 0,
+        "staminaPermil": 0
+      },
+      {
+        "level": 3,
+        "description": "自身に5段階ダンス上昇効果[45ビート]\nスタミナ184消費 CT:50",
+        "shortDescription": "\nスタミナ184消費 CT:50",
+        "requiredItemAmount": 4000,
+        "requiredCardLevel": 70,
+        "stamina": 184,
+        "probabilityPermil": 1000,
+        "coolTime": 50,
+        "skillDetails": [
+          {
+            "efficacyId": "ef-dance_up-5-target-self-45",
+            "triggerId": ""
+          }
+        ],
+        "triggerId": "",
+        "limitCount": 0,
+        "staminaPermil": 0
+      },
+      {
+        "level": 4,
+        "description": "自身に6段階ダンス上昇効果[45ビート]\nスタミナ221消費 CT:50",
+        "shortDescription": "\nスタミナ221消費 CT:50",
+        "requiredItemAmount": 30000,
+        "requiredCardLevel": 110,
+        "stamina": 221,
+        "probabilityPermil": 1000,
+        "coolTime": 50,
+        "skillDetails": [
+          {
+            "efficacyId": "ef-dance_up-6-target-self-45",
+            "triggerId": ""
+          }
+        ],
+        "triggerId": "",
+        "limitCount": 0,
+        "staminaPermil": 0
+      },
+      {
+        "level": 5,
+        "description": "自身に6段階ダンス上昇効果[49ビート]\nスタミナ241消費 CT:50",
+        "shortDescription": "\nスタミナ241消費 CT:50",
+        "requiredItemAmount": 140000,
+        "requiredCardLevel": 160,
+        "stamina": 241,
+        "probabilityPermil": 1000,
+        "coolTime": 50,
+        "skillDetails": [
+          {
+            "efficacyId": "ef-dance_up-6-target-self-49",
+            "triggerId": ""
+          }
+        ],
+        "triggerId": "",
+        "limitCount": 0,
+        "staminaPermil": 0
+      },
+      {
+        "level": 6,
+        "description": "自身に7段階ダンス上昇効果[49ビート]\nスタミナ281消費 CT:50",
+        "shortDescription": "\nスタミナ281消費 CT:50",
+        "requiredItemAmount": 280000,
+        "requiredCardLevel": 200,
+        "stamina": 281,
+        "probabilityPermil": 1000,
+        "coolTime": 50,
+        "skillDetails": [
+          {
+            "efficacyId": "ef-dance_up-7-target-self-49",
+            "triggerId": ""
+          }
+        ],
+        "triggerId": "",
+        "limitCount": 0,
+        "staminaPermil": 0
+      }
+    ],
+    "assetId": ""
+  },
+  {
+    "id": "sk-rio-05-wedd-00-3",
+    "name": "恥ずかしブライダル",
+    "categoryType": 3,
+    "levels": [
+      {
+        "level": 1,
+        "description": "50コンボ以上時\n全員に4段階ダンス上昇効果[33ビート]\n全員の強化効果を1段階増強\nスタミナ154消費 ライブ中1回のみ ",
+        "shortDescription": "\n\n\nスタミナ154消費 ライブ中1回のみ ",
+        "stamina": 154,
+        "triggerId": "tg-combo-50",
+        "probabilityPermil": 1000,
+        "limitCount": 1,
+        "skillDetails": [
+          {
+            "efficacyId": "ef-dance_up-4-target-all-33",
+            "triggerId": ""
+          },
+          {
+            "efficacyId": "ef-strength_effect_value_increase-1-target-all",
+            "triggerId": ""
+          }
+        ],
+        "requiredItemAmount": 0,
+        "requiredCardLevel": 0,
+        "coolTime": 0,
+        "staminaPermil": 0
+      },
+      {
+        "level": 2,
+        "description": "50コンボ以上時\n全員に5段階ダンス上昇効果[33ビート]\n全員の強化効果を1段階増強\nスタミナ193消費 ライブ中1回のみ ",
+        "shortDescription": "\n\n\nスタミナ193消費 ライブ中1回のみ ",
+        "requiredItemAmount": 15000,
+        "requiredCardLevel": 100,
+        "stamina": 193,
+        "triggerId": "tg-combo-50",
+        "probabilityPermil": 1000,
+        "limitCount": 1,
+        "skillDetails": [
+          {
+            "efficacyId": "ef-dance_up-5-target-all-33",
+            "triggerId": ""
+          },
+          {
+            "efficacyId": "ef-strength_effect_value_increase-1-target-all",
+            "triggerId": ""
+          }
+        ],
+        "coolTime": 0,
+        "staminaPermil": 0
+      },
+      {
+        "level": 3,
+        "description": "50コンボ以上時\n全員に5段階ダンス上昇効果[42ビート]\n全員の強化効果を1段階増強\nスタミナ246消費 ライブ中1回のみ ",
+        "shortDescription": "\n\n\nスタミナ246消費 ライブ中1回のみ ",
+        "requiredItemAmount": 60000,
+        "requiredCardLevel": 130,
+        "stamina": 246,
+        "triggerId": "tg-combo-50",
+        "probabilityPermil": 1000,
+        "limitCount": 1,
+        "skillDetails": [
+          {
+            "efficacyId": "ef-dance_up-5-target-all-42",
+            "triggerId": ""
+          },
+          {
+            "efficacyId": "ef-strength_effect_value_increase-1-target-all",
+            "triggerId": ""
+          }
+        ],
+        "coolTime": 0,
+        "staminaPermil": 0
+      },
+      {
+        "level": 4,
+        "description": "50コンボ以上時\n全員に6段階ダンス上昇効果[42ビート]\n全員の強化効果を1段階増強\nスタミナ295消費 ライブ中1回のみ ",
+        "shortDescription": "\n\n\nスタミナ295消費 ライブ中1回のみ ",
+        "requiredItemAmount": 180000,
+        "requiredCardLevel": 170,
+        "stamina": 295,
+        "triggerId": "tg-combo-50",
+        "probabilityPermil": 1000,
+        "limitCount": 1,
+        "skillDetails": [
+          {
+            "efficacyId": "ef-dance_up-6-target-all-42",
+            "triggerId": ""
+          },
+          {
+            "efficacyId": "ef-strength_effect_value_increase-1-target-all",
+            "triggerId": ""
+          }
+        ],
+        "coolTime": 0,
+        "staminaPermil": 0
+      },
+      {
+        "level": 5,
+        "description": "50コンボ以上時\n全員に6段階ダンス上昇効果[51ビート]\n全員の強化効果を1段階増強\nスタミナ358消費 ライブ中1回のみ ",
+        "shortDescription": "\n\n\nスタミナ358消費 ライブ中1回のみ ",
+        "requiredItemAmount": 330000,
+        "requiredCardLevel": 210,
+        "stamina": 358,
+        "triggerId": "tg-combo-50",
+        "probabilityPermil": 1000,
+        "limitCount": 1,
+        "skillDetails": [
+          {
+            "efficacyId": "ef-dance_up-6-target-all-51",
+            "triggerId": ""
+          },
+          {
+            "efficacyId": "ef-strength_effect_value_increase-1-target-all",
+            "triggerId": ""
+          }
+        ],
+        "coolTime": 0,
+        "staminaPermil": 0
+      },
+      {
+        "level": 6,
+        "description": "50コンボ以上時\n全員に7段階ダンス上昇効果[51ビート]\n全員の強化効果を1段階増強\nスタミナ418消費 ライブ中1回のみ ",
+        "shortDescription": "\n\n\nスタミナ418消費 ライブ中1回のみ ",
+        "requiredItemAmount": 380000,
+        "requiredCardLevel": 230,
+        "stamina": 418,
+        "triggerId": "tg-combo-50",
+        "probabilityPermil": 1000,
+        "limitCount": 1,
+        "skillDetails": [
+          {
+            "efficacyId": "ef-dance_up-7-target-all-51",
+            "triggerId": ""
+          },
+          {
+            "efficacyId": "ef-strength_effect_value_increase-1-target-all",
+            "triggerId": ""
+          }
+        ],
+        "coolTime": 0,
         "staminaPermil": 0
       }
     ],

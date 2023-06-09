@@ -3570,6 +3570,56 @@
     ]
   },
   {
+    "homeTalkId": "home-talk-card-rio-05-wedd-00-talk-01",
+    "characterId": "char-rio",
+    "placeType": 1,
+    "conditionId": "cd-st-read-st-card-rio-05-wedd-00-03",
+    "firstPriority": 9900,
+    "weight": 1,
+    "callPatternId": "call-pattern-card-rio-05-wedd-00",
+    "choiceText": "二位、おめでとうございます。",
+    "managerText": "二位、おめでとうございます。",
+    "reliability": 5,
+    "characterTalks": [
+      {
+        "text": "ありがとう。\nでも、一位はまた遙子だったわね。",
+        "voiceAssetId": "sud_vo_home_rio-05-wedd-00_talk-01-01",
+        "motionAssetId": "mot_adv_chr_cmn_talk-004_in",
+        "additionMotionAssetId": "mot_all_chr_cmn_facial-001_in"
+      },
+      {
+        "text": "あの子、強過ぎるんじゃない？\n料理が上手だし、\n優しくて面倒見も良くて。",
+        "voiceAssetId": "sud_vo_home_rio-05-wedd-00_talk-01-02",
+        "motionAssetId": "mot_adv_chr_cmn_talk-021_in",
+        "additionMotionAssetId": "mot_all_chr_cmn_facial-034_in"
+      },
+      {
+        "text": "もちろん私だって、\n遙子は素敵なお嫁さんになると\n思うけど…。",
+        "voiceAssetId": "sud_vo_home_rio-05-wedd-00_talk-01-03",
+        "motionAssetId": "mot_adv_chr_cmn_talk-008_in",
+        "additionMotionAssetId": "mot_all_chr_cmn_facial-034_in"
+      },
+      {
+        "text": "でも、負けっぱなしは悔しいわ。\n私にだって、プライドが\nあるんだから。",
+        "voiceAssetId": "sud_vo_home_rio-05-wedd-00_talk-01-04",
+        "motionAssetId": "mot_adv_chr_cmn_pos-023_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "え？　私だって案外家庭的だから\nいいお嫁さんになりそうですって？",
+        "voiceAssetId": "sud_vo_home_rio-05-wedd-00_talk-01-05",
+        "motionAssetId": "mot_adv_chr_cmn_talk-022_in",
+        "additionMotionAssetId": "mot_all_chr_cmn_facial-004_in"
+      },
+      {
+        "text": "だから、そういうことを\nさらっと言わないの！\nもう……バカ！！",
+        "voiceAssetId": "sud_vo_home_rio-05-wedd-00_talk-01-06",
+        "motionAssetId": "mot_adv_chr_cmn_emb-012_in",
+        "additionMotionAssetId": ""
+      }
+    ]
+  },
+  {
     "homeTalkId": "home-talk-card-rui-05-date-00-talk-01",
     "characterId": "char-rui",
     "placeType": 1,

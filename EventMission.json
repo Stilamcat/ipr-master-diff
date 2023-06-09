@@ -1525,6 +1525,25 @@
     "unlockConditionId": ""
   },
   {
+    "id": "event_pvp-mission-23-0612",
+    "eventMissionType": 2,
+    "assetId": "img_banner_l_sp-pvp",
+    "name": "スペシャルVENUSバトル特別ミッション",
+    "order": 2,
+    "viewConditionId": "cd-time-pvp-23-0612-0614_l-banner",
+    "missionIds": [
+      "event-ms-pvp-23-0612-quest_pvp_play_count-05",
+      "event-ms-pvp-23-0612-quest_pvp_play_count-10",
+      "event-ms-pvp-23-0612-quest_pvp_play_count-15",
+      "event-ms-pvp-23-0612-quest_pvp_play_count-20",
+      "event-ms-pvp-23-0612-quest_pvp_play_count-25",
+      "event-ms-pvp-23-0612-quest_pvp_play_count-30",
+      "event-ms-pvp-23-0612-quest_pvp_play_count-35",
+      "event-ms-pvp-23-0612-quest_pvp_play_count-40"
+    ],
+    "unlockConditionId": ""
+  },
+  {
     "id": "event_spr-mission-22-0314",
     "eventMissionType": 2,
     "assetId": "img_banner_l_event-spr-mission-22-0314",

@@ -4660,6 +4660,17 @@
     ]
   },
   {
+    "id": "cd-birthday_emblem_kor-23-0611",
+    "settings": [
+      {
+        "term": {
+          "nowAfter": "1686409200000",
+          "nowBefore": "1686496199000"
+        }
+      }
+    ]
+  },
+  {
     "id": "cd-birthday_emblem_ktn-22-1225",
     "settings": [
       {
@@ -4950,6 +4961,17 @@
         "term": {
           "nowAfter": "1670252400000",
           "nowBefore": "1670338799000"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-birthday_kor-23-0611",
+    "settings": [
+      {
+        "term": {
+          "nowAfter": "1686409200000",
+          "nowBefore": "1686495599000"
         }
       }
     ]
@@ -18327,6 +18349,17 @@
       {
         "term": {
           "nowAfter": "1681052400000",
+          "nowBefore": "0"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-ex-story-part-birthday-kor-23-0611-open",
+    "settings": [
+      {
+        "term": {
+          "nowAfter": "1686409200000",
           "nowBefore": "0"
         }
       }
@@ -43936,6 +43969,16 @@
     ]
   },
   {
+    "id": "cd-ms-read-message-card-rio-05-wedd-00",
+    "settings": [
+      {
+        "finishedMessage": {
+          "messageId": "message-card-rio-05-wedd-00"
+        }
+      }
+    ]
+  },
+  {
     "id": "cd-ms-read-message-card-rui-05-date-00",
     "settings": [
       {
@@ -45996,10 +46039,6 @@
       {
         "obtainCard": {
           "cardId": "card-aoi-02-eve-01"
-        },
-        "term": {
-          "nowAfter": "1685242800000",
-          "nowBefore": "0"
         }
       }
     ]
@@ -46010,10 +46049,6 @@
       {
         "notSatisfyCondition": {
           "conditionId": "cd-possession-card-aoi-02-eve-01"
-        },
-        "term": {
-          "nowAfter": "1685242800000",
-          "nowBefore": "0"
         }
       }
     ]
@@ -46264,10 +46299,6 @@
       {
         "obtainCard": {
           "cardId": "card-ktn-02-eve-02"
-        },
-        "term": {
-          "nowAfter": "1685242800000",
-          "nowBefore": "0"
         }
       }
     ]
@@ -46278,10 +46309,6 @@
       {
         "notSatisfyCondition": {
           "conditionId": "cd-possession-card-ktn-02-eve-02"
-        },
-        "term": {
-          "nowAfter": "1685242800000",
-          "nowBefore": "0"
         }
       }
     ]
@@ -46337,10 +46364,6 @@
       {
         "obtainCard": {
           "cardId": "card-mei-02-eve-01"
-        },
-        "term": {
-          "nowAfter": "1685242800000",
-          "nowBefore": "0"
         }
       }
     ]
@@ -46351,10 +46374,6 @@
       {
         "notSatisfyCondition": {
           "conditionId": "cd-possession-card-mei-02-eve-01"
-        },
-        "term": {
-          "nowAfter": "1685242800000",
-          "nowBefore": "0"
         }
       }
     ]
@@ -46670,10 +46689,6 @@
       {
         "obtainCard": {
           "cardId": "card-rio-02-eve-03"
-        },
-        "term": {
-          "nowAfter": "1685242800000",
-          "nowBefore": "0"
         }
       }
     ]
@@ -46684,10 +46699,6 @@
       {
         "notSatisfyCondition": {
           "conditionId": "cd-possession-card-rio-02-eve-03"
-        },
-        "term": {
-          "nowAfter": "1685242800000",
-          "nowBefore": "0"
         }
       }
     ]
@@ -46918,10 +46929,6 @@
       {
         "obtainCard": {
           "cardId": "card-skr-02-eve-01"
-        },
-        "term": {
-          "nowAfter": "1685242800000",
-          "nowBefore": "0"
         }
       }
     ]
@@ -46932,10 +46939,6 @@
       {
         "notSatisfyCondition": {
           "conditionId": "cd-possession-card-skr-02-eve-01"
-        },
-        "term": {
-          "nowAfter": "1685242800000",
-          "nowBefore": "0"
         }
       }
     ]
@@ -47101,10 +47104,6 @@
       {
         "obtainCard": {
           "cardId": "card-szk-02-eve-01"
-        },
-        "term": {
-          "nowAfter": "1685242800000",
-          "nowBefore": "0"
         }
       }
     ]
@@ -47115,10 +47114,6 @@
       {
         "notSatisfyCondition": {
           "conditionId": "cd-possession-card-szk-02-eve-01"
-        },
-        "term": {
-          "nowAfter": "1685242800000",
-          "nowBefore": "0"
         }
       }
     ]
@@ -63761,6 +63756,17 @@
     ]
   },
   {
+    "id": "cd-shop_special-shop-23-0528-0620-dokan-dokan",
+    "settings": [
+      {
+        "term": {
+          "nowAfter": "1685242800000",
+          "nowBefore": "1686279599000"
+        }
+      }
+    ]
+  },
+  {
     "id": "cd-shop_special-shop-23-0528-0620-mlv-120",
     "settings": [
       {
@@ -63770,6 +63776,53 @@
         "term": {
           "nowAfter": "1685242800000",
           "nowBefore": "1687229999000"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-shop_special-shop-23-0609",
+    "settings": [
+      {
+        "term": {
+          "nowAfter": "1686279600000",
+          "nowBefore": "0"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-shop_special-shop-23-0609-0624",
+    "settings": [
+      {
+        "term": {
+          "nowAfter": "1686279600000",
+          "nowBefore": "1687575599000"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-shop_special-shop-23-0609-0624-dokan",
+    "settings": [
+      {
+        "term": {
+          "nowAfter": "1686279600000",
+          "nowBefore": "1687575599000"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-shop_special-shop-23-0609-0624-mlv-120",
+    "settings": [
+      {
+        "satisfyCondition": {
+          "conditionId": "cd-manager_level_gte-120"
+        },
+        "term": {
+          "nowAfter": "1686279600000",
+          "nowBefore": "1687575599000"
         }
       }
     ]
@@ -67276,6 +67329,16 @@
       {
         "readStory": {
           "storyId": "st-card-rio-05-newy-00-03"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-st-read-st-card-rio-05-wedd-00-03",
+    "settings": [
+      {
+        "readStory": {
+          "storyId": "st-card-rio-05-wedd-00-03"
         }
       }
     ]
@@ -72123,6 +72186,43 @@
     ]
   },
   {
+    "id": "cd-time-gacha-fixed-23-0609",
+    "settings": [
+      {
+        "term": {
+          "nowAfter": "1686279600000",
+          "nowBefore": "1688093999000"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-time-gacha-fixed-23-0609-banner",
+    "settings": [
+      {
+        "notSatisfyCondition": {
+          "conditionId": "cd-time-gacha-fixed-23-0609-banner-end"
+        },
+        "term": {
+          "nowAfter": "1686279600000",
+          "nowBefore": "1688093999000"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-time-gacha-fixed-23-0609-banner-end",
+    "settings": [
+      {
+        "drawGacha": {
+          "gachaButtonIds": [
+            "btn-10-gacha-fixed-23-0609-total"
+          ]
+        }
+      }
+    ]
+  },
+  {
     "id": "cd-time-gacha-fixed-selection-23-0328",
     "settings": [
       {
@@ -74852,6 +74952,17 @@
     ]
   },
   {
+    "id": "cd-time-gacha-normal-23-0609",
+    "settings": [
+      {
+        "term": {
+          "nowAfter": "1686279600000",
+          "nowBefore": "1688094000000"
+        }
+      }
+    ]
+  },
+  {
     "id": "cd-time-gacha-pick-set-bloom-21-1112",
     "settings": [
       {
@@ -75264,6 +75375,31 @@
         "term": {
           "nowAfter": "1684724400000",
           "nowBefore": "1685501999000"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-time-gacha-pick-set-bloom-23-0609",
+    "settings": [
+      {
+        "term": {
+          "nowAfter": "1686279600000",
+          "nowBefore": "1688093999000"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-time-gacha-pick-set-bloom-23-0609-banner",
+    "settings": [
+      {
+        "satisfyCondition": {
+          "conditionId": "cd-time-gacha-fixed-23-0609-banner-end"
+        },
+        "term": {
+          "nowAfter": "1686279600000",
+          "nowBefore": "1688093999000"
         }
       }
     ]
@@ -76155,6 +76291,17 @@
         "term": {
           "nowAfter": "1685242800000",
           "nowBefore": "1687229999000"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-time-gacha-rev-limited-23-0528-dokan",
+    "settings": [
+      {
+        "term": {
+          "nowAfter": "1685242800000",
+          "nowBefore": "1686279599000"
         }
       }
     ]
@@ -82165,6 +82312,34 @@
     ]
   },
   {
+    "id": "cd-time-pvp-23-0612-0614_l-banner",
+    "settings": [
+      {
+        "satisfyCondition": {
+          "conditionId": "cd-clear-area-main-011"
+        },
+        "term": {
+          "nowAfter": "1686495600000",
+          "nowBefore": "1687273199000"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-time-pvp-23-0612-0614_s-banner",
+    "settings": [
+      {
+        "satisfyCondition": {
+          "conditionId": "cd-clear-area-main-011"
+        },
+        "term": {
+          "nowAfter": "1686495600000",
+          "nowBefore": "1686754799000"
+        }
+      }
+    ]
+  },
+  {
     "id": "cd-time-questionnaire-21-0702-0709_s-banner",
     "settings": [
       {
@@ -83356,6 +83531,16 @@
       {
         "wearCostume": {
           "costumeId": "cos-rio-newy-00"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-wear-costume-cos-rio-wedd-00",
+    "settings": [
+      {
+        "wearCostume": {
+          "costumeId": "cos-rio-wedd-00"
         }
       }
     ]

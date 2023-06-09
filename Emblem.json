@@ -4108,7 +4108,7 @@
     "name": "【誕生日】miho",
     "assetId": "birthday_mhk-03",
     "autoProvideConditionId": "cd-birthday_emblem_mhk-23-0125",
-    "order": 601180,
+    "order": 601200,
     "description": "mihoの誕生日を迎える",
     "isViewableInInactive": false
   },
@@ -4626,6 +4626,15 @@
     "isViewableInInactive": false
   },
   {
+    "id": "emb-birthday_kor-01",
+    "name": "【誕生日】fran",
+    "assetId": "birthday_kor-03",
+    "autoProvideConditionId": "cd-birthday_emblem_kor-23-0611",
+    "order": 601180,
+    "description": "franの誕生日を迎える",
+    "isViewableInInactive": false
+  },
+  {
     "id": "emb-birthday_smr-02",
     "name": "【誕生日】奥山すみれ",
     "assetId": "birthday_smr-02",
@@ -4802,6 +4811,33 @@
     "assetId": "sp-pvp-season-001-top100",
     "order": 350130,
     "description": "スペシャルVENUSバトルシーズン1で100位以内獲得",
+    "autoProvideConditionId": "",
+    "isViewableInInactive": false
+  },
+  {
+    "id": "emb-sp-pvp-season-002-top001",
+    "name": "SPVENUS-2 No.1",
+    "assetId": "sp-pvp-season-002-top1",
+    "order": 350210,
+    "description": "スペシャルVENUSバトルシーズン2で1位獲得",
+    "autoProvideConditionId": "",
+    "isViewableInInactive": false
+  },
+  {
+    "id": "emb-sp-pvp-season-002-top010",
+    "name": "SPVENUS-2 TOP10",
+    "assetId": "sp-pvp-season-002-top10",
+    "order": 350220,
+    "description": "スペシャルVENUSバトルシーズン2で10位以内獲得",
+    "autoProvideConditionId": "",
+    "isViewableInInactive": false
+  },
+  {
+    "id": "emb-sp-pvp-season-002-top100",
+    "name": "SPVENUS-2 TOP100",
+    "assetId": "sp-pvp-season-002-top100",
+    "order": 350230,
+    "description": "スペシャルVENUSバトルシーズン2で100位以内獲得",
     "autoProvideConditionId": "",
     "isViewableInInactive": false
   }
