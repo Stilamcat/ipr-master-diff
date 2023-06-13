@@ -4626,6 +4626,15 @@
     "isViewableInInactive": false
   },
   {
+    "id": "emb-birthday_aoi-02",
+    "name": "【誕生日】井川葵",
+    "assetId": "birthday_aoi-02",
+    "autoProvideConditionId": "cd-birthday_emblem_aoi-23-0619",
+    "order": 602150,
+    "description": "葵の誕生日を迎える",
+    "isViewableInInactive": false
+  },
+  {
     "id": "emb-birthday_kor-01",
     "name": "【誕生日】fran",
     "assetId": "birthday_kor-03",
@@ -4707,6 +4716,24 @@
     "isViewableInInactive": false
   },
   {
+    "id": "emb-gvg-season-024-top001",
+    "name": "ユニオンシーズン24 No.1",
+    "assetId": "gvg-season-024-top001",
+    "order": 402410,
+    "description": "ユニオンライブシーズン24 で1位獲得",
+    "autoProvideConditionId": "",
+    "isViewableInInactive": false
+  },
+  {
+    "id": "emb-gvg-season-024-top010",
+    "name": "ユニオンシーズン24 TOP10",
+    "assetId": "gvg-season-024-top010",
+    "order": 402420,
+    "description": "ユニオンライブシーズン24 で10位以内獲得",
+    "autoProvideConditionId": "",
+    "isViewableInInactive": false
+  },
+  {
     "id": "emb-highscore-eve-2304",
     "name": "Don't say \"lazy\" （HoshiMi Ambassador ver） Sランク達成",
     "assetId": "area_clb_2304",
@@ -4784,6 +4811,33 @@
     "assetId": "pvp-season-069-top100",
     "order": 306930,
     "description": "VENUSバトルシーズン69で100位以内獲得",
+    "autoProvideConditionId": "",
+    "isViewableInInactive": false
+  },
+  {
+    "id": "emb-pvp-season-070-top001",
+    "name": "VENUSシーズン70 No.1",
+    "assetId": "pvp-season-070-top001",
+    "order": 307010,
+    "description": "VENUSバトルシーズン70で1位獲得",
+    "autoProvideConditionId": "",
+    "isViewableInInactive": false
+  },
+  {
+    "id": "emb-pvp-season-070-top010",
+    "name": "VENUSシーズン70 TOP10",
+    "assetId": "pvp-season-070-top010",
+    "order": 307020,
+    "description": "VENUSバトルシーズン70で10位以内獲得",
+    "autoProvideConditionId": "",
+    "isViewableInInactive": false
+  },
+  {
+    "id": "emb-pvp-season-070-top100",
+    "name": "VENUSシーズン70 TOP100",
+    "assetId": "pvp-season-070-top100",
+    "order": 307030,
+    "description": "VENUSバトルシーズン70で100位以内獲得",
     "autoProvideConditionId": "",
     "isViewableInInactive": false
   },

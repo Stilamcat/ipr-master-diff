@@ -528,6 +528,17 @@
     "salePrice": 0
   },
   {
+    "id": "item-exchange-dress-medal-23-0613",
+    "name": "復刻衣装メダル",
+    "assetId": "medal-dress",
+    "description": "復刻衣装メダル交換所で様々なアイテムと交換できる\n交換所終了後はコインに変換されます",
+    "howToGet": "ショップなど",
+    "type": 10,
+    "value": 1,
+    "order": 140,
+    "salePrice": 0
+  },
+  {
     "id": "item-exchange-thanks-medal-23-0328",
     "name": "感謝祭メダル",
     "assetId": "medal-thanks",
@@ -610,6 +621,17 @@
     "assetId": "card-exchange-05",
     "description": "★5アイドル交換所で好きな\nメンバーと交換できるチケット",
     "howToGet": "スタートダッシュ\nドリームギフトガチャ",
+    "type": 10,
+    "value": 1,
+    "order": 140,
+    "salePrice": 0
+  },
+  {
+    "id": "item-exchange-ticket-23-0613",
+    "name": "★5限定契約書",
+    "assetId": "card-exchange-05-22-1224",
+    "description": "★5限定アイドル交換所で好きな\nメンバーと交換できるチケット",
+    "howToGet": "もうすぐ2周年記念特別ショップ第2弾",
     "type": 10,
     "value": 1,
     "order": 140,
@@ -2004,6 +2026,17 @@
   {
     "id": "item-gacha_point-select-01-23-0516",
     "name": "選べる★5スコアラーガチャPt",
+    "assetId": "gacha-point",
+    "description": "該当するガチャページの「ガチャPt」から\nガチャPtを消費してアイドルを獲得できる",
+    "type": 9,
+    "value": 1,
+    "order": 140,
+    "howToGet": "",
+    "salePrice": 0
+  },
+  {
+    "id": "item-gacha_point-select-01-23-0615",
+    "name": "選べる★5ダンスガチャPt",
     "assetId": "gacha-point",
     "description": "該当するガチャページの「ガチャPt」から\nガチャPtを消費してアイドルを獲得できる",
     "type": 9,
