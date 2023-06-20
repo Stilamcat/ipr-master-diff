@@ -13994,7 +13994,43 @@
     "shortDescription": "「デイリーミッションを規定数クリア」をクリア",
     "longDescription": "「デイリーミッションを規定数クリア」を\nクリアしましょう。",
     "order": 1,
-    "viewConditionId": "cd-event-mission-0529-0623",
+    "viewConditionId": "cd-event-mission-23-0528-mission_clear_count-1",
+    "linkType": 18,
+    "linkDetail": "daily",
+    "progresses": [
+      {
+        "threshold": "1",
+        "rewardSetId": "rd_auto;item;item-ladder_pt_23-0528;300"
+      }
+    ],
+    "eventMissionId": "event-ladder-23-0528"
+  },
+  {
+    "id": "event-ms-normal-23-0528-mission_clear_count-2",
+    "categoryType": 1,
+    "missionType": 3,
+    "targetIds": [
+      "ms-daily-phase-003-game-st-pt-remove_mission_clear_count-1",
+      "ms-daily-phase-003-game-st-pt-remove_mission_clear_count-100",
+      "ms-daily-phase-003-game-st-pt-remove_mission_clear_count-110",
+      "ms-daily-phase-003-game-st-pt-remove_mission_clear_count-120",
+      "ms-daily-phase-003-game-st-pt-remove_mission_clear_count-130",
+      "ms-daily-phase-003-game-st-pt-remove_mission_clear_count-140",
+      "ms-daily-phase-003-game-st-pt-remove_mission_clear_count-150",
+      "ms-daily-phase-003-game-st-pt-remove_mission_clear_count-160",
+      "ms-daily-phase-003-game-st-pt-remove_mission_clear_count-20",
+      "ms-daily-phase-003-game-st-pt-remove_mission_clear_count-40",
+      "ms-daily-phase-003-game-st-pt-remove_mission_clear_count-50",
+      "ms-daily-phase-003-game-st-pt-remove_mission_clear_count-60",
+      "ms-daily-phase-003-game-st-pt-remove_mission_clear_count-70",
+      "ms-daily-phase-003-game-st-pt-remove_mission_clear_count-80",
+      "ms-daily-phase-003-game-st-pt-remove_mission_clear_count-90"
+    ],
+    "name": "「デイリーミッションを規定数クリア」をクリア",
+    "shortDescription": "「デイリーミッションを規定数クリア」をクリア",
+    "longDescription": "「デイリーミッションを規定数クリア」を\nクリアしましょう。",
+    "order": 1,
+    "viewConditionId": "cd-event-mission-23-0528-mission_clear_count-2",
     "linkType": 18,
     "linkDetail": "daily",
     "progresses": [
