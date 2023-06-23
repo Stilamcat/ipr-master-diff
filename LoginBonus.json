@@ -1043,6 +1043,23 @@
     "receiveConditionId": "cd-time-login-23-0605-0618"
   },
   {
+    "id": "login_bonus-campaign-23-0624-01",
+    "name": "カムバック\nログイン",
+    "description": "3日間の特別なログインボーナス",
+    "type": 2,
+    "assetId": "login-comeback-23-0624-01",
+    "topColorCode": "00CEFF",
+    "bottomColorCode": "D0FFA0",
+    "priority": 8,
+    "rewardIds": [
+      "rd_auto;item;item-card_enhance;10000000",
+      "rd_auto;item;item-act_promotion_shorten-sp;5",
+      "rd_auto;item;item-gacha_ticket-r5-22-0624;1"
+    ],
+    "openConditionId": "cd-time-login-21-0624-0402",
+    "receiveConditionId": "cd-time-login-21-0624-0110"
+  },
+  {
     "id": "login_bonus-normal-01",
     "name": "デイリー",
     "description": "毎日もらえるログインボーナス",

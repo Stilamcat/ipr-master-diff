@@ -3732,7 +3732,7 @@
   {
     "id": "pab-affect_strength_effect_count_increase-beat_score_up_recipe_distribution-5",
     "name": "与・ビートスコア延長",
-    "description": "付与するビートスコアアップ効果を8延長します",
+    "description": "付与するビートスコア上昇効果を8延長します",
     "abilityType": 30,
     "photoAbilityLevels": [
       {
@@ -3846,7 +3846,7 @@
   {
     "id": "pab-affect_strength_effect_count_increase-dance_up_recipe-001",
     "name": "与・Da延長",
-    "description": "付与するダンスアップ効果を6延長します",
+    "description": "付与するダンス上昇効果を6延長します",
     "abilityType": 30,
     "photoAbilityLevels": [
       {
@@ -3924,7 +3924,7 @@
   {
     "id": "pab-affect_strength_effect_count_increase-skill_success_rate_up_recipe_distribution-5",
     "name": "被・成功率延長",
-    "description": "受けるスキル成功率アップ効果を11延長します",
+    "description": "受けるスキル成功率上昇効果を11延長します",
     "abilityType": 28,
     "photoAbilityLevels": [
       {
@@ -4038,7 +4038,7 @@
   {
     "id": "pab-affect_strength_effect_count_increase-visual_up_recipe-001",
     "name": "与・Vi延長",
-    "description": "付与するビジュアルアップ効果を6延長します",
+    "description": "付与するビジュアル上昇効果を6延長します",
     "abilityType": 30,
     "photoAbilityLevels": [
       {
@@ -4116,7 +4116,7 @@
   {
     "id": "pab-affect_strength_effect_count_increase-visual_up_recipe_distribution-5",
     "name": "与・Vi延長",
-    "description": "付与するビジュアルアップ効果を5延長します",
+    "description": "付与するビジュアル上昇効果を5延長します",
     "abilityType": 30,
     "photoAbilityLevels": [
       {
@@ -4230,7 +4230,7 @@
   {
     "id": "pab-affect_strength_effect_count_increase-vocal_up_recipe-001",
     "name": "与・Vo延長",
-    "description": "付与するボーカルアップ効果を6延長します",
+    "description": "付与するボーカル上昇効果を6延長します",
     "abilityType": 30,
     "photoAbilityLevels": [
       {
@@ -4308,7 +4308,7 @@
   {
     "id": "pab-affect_strength_effect_count_increase-vocal_up_recipe_distribution-5",
     "name": "与・Vo延長",
-    "description": "付与するボーカルアップ効果を5延長します",
+    "description": "付与するボーカル上昇効果を5延長します",
     "abilityType": 30,
     "photoAbilityLevels": [
       {
@@ -17760,7 +17760,7 @@
   {
     "id": "pab-passive-skill_sk-phot-ai-idol-00",
     "name": "AスキルUPスキル",
-    "description": "自身がダンスup状態の場合、Aスキルスコアアップ",
+    "description": "ダンス上昇状態の時、自身にAスキルスコア上昇効果",
     "abilityType": 13,
     "skillId": "sk-phot-ai-idol-00",
     "photoAbilityLevels": [
@@ -17898,7 +17898,7 @@
   {
     "id": "pab-passive-skill_sk-phot-ai-idol-01",
     "name": "クリティカルスキル",
-    "description": "誰かがクリティカル率up状態の場合、クリティカル率up状態1人のクリティカル係数アップ",
+    "description": "誰かがクリティカル率上昇状態の時、対象1人にクリティカル係数上昇効果",
     "abilityType": 13,
     "skillId": "sk-phot-ai-idol-01",
     "photoAbilityLevels": [
@@ -18036,7 +18036,7 @@
   {
     "id": "pab-passive-skill_sk-phot-ai-idol-02",
     "name": "スコアUPスキル",
-    "description": "スコアラータイプ(1人)にスコアup",
+    "description": "スコアラータイプ1人にスコア上昇効果",
     "abilityType": 13,
     "skillId": "sk-phot-ai-idol-02",
     "photoAbilityLevels": [
@@ -18174,7 +18174,7 @@
   {
     "id": "pab-passive-skill_sk-phot-aoi-idol-00",
     "name": "スコアUPスキル",
-    "description": "スコアラータイプ(2人)にスコアup",
+    "description": "スコアラータイプ2人にスコア上昇効果",
     "abilityType": 13,
     "skillId": "sk-phot-aoi-idol-00",
     "photoAbilityLevels": [
@@ -18312,7 +18312,7 @@
   {
     "id": "pab-passive-skill_sk-phot-aoi-idol-01",
     "name": "AスキルUPスキル",
-    "description": "50コンボ到達時、自身にAスキルスコアup",
+    "description": "50コンボ以上時、自身にAスキルスコア上昇効果",
     "abilityType": 13,
     "skillId": "sk-phot-aoi-idol-01",
     "photoAbilityLevels": [
@@ -18450,7 +18450,7 @@
   {
     "id": "pab-passive-skill_sk-phot-aoi-idol-02",
     "name": "ビートUPスキル",
-    "description": "ダンスの高い1人にビートスコアup",
+    "description": "ダンスが高い1人にビートスコア上昇効果",
     "abilityType": 13,
     "skillId": "sk-phot-aoi-idol-02",
     "photoAbilityLevels": [
@@ -18588,7 +18588,7 @@
   {
     "id": "pab-passive-skill_sk-phot-bd-5-01",
     "name": "ボーカルUPスキル",
-    "description": "スタミナ60%以上の場合、自身にボーカルアップ",
+    "description": "スタミナ60%以上の時、自身にボーカル上昇効果",
     "abilityType": 13,
     "skillId": "sk-phot-bd-5-1",
     "photoAbilityLevels": [
@@ -18766,7 +18766,7 @@
   {
     "id": "pab-passive-skill_sk-phot-bd-5-02",
     "name": "ダンスUPスキル",
-    "description": "スタミナ60%以上の場合、自身にダンスアップ",
+    "description": "スタミナ60%以上の時、自身にダンス上昇効果",
     "abilityType": 13,
     "skillId": "sk-phot-bd-5-2",
     "photoAbilityLevels": [
@@ -18944,7 +18944,7 @@
   {
     "id": "pab-passive-skill_sk-phot-bd-5-03",
     "name": "ビジュアルUPスキル",
-    "description": "スタミナ60%以上の場合、自身にビジュアルアップ",
+    "description": "スタミナ60%以上の時、自身にビジュアル上昇効果",
     "abilityType": 13,
     "skillId": "sk-phot-bd-5-3",
     "photoAbilityLevels": [
@@ -19122,7 +19122,7 @@
   {
     "id": "pab-passive-skill_sk-phot-chs-idol-00",
     "name": "ビジュアルUPスキル",
-    "description": "集目効果時、ビジュアルアップ",
+    "description": "誰かが集目状態の時、対象1人にビジュアル上昇効果",
     "abilityType": 13,
     "skillId": "sk-phot-chs-idol-00",
     "photoAbilityLevels": [
@@ -19260,7 +19260,7 @@
   {
     "id": "pab-passive-skill_sk-phot-chs-idol-01",
     "name": "ボーカルUPスキル",
-    "description": "自身のスタミナ50％以下の時に、センターにボーカルアップ",
+    "description": "スタミナ50%以下の時、センターにボーカル上昇効果",
     "abilityType": 13,
     "skillId": "sk-phot-chs-idol-01",
     "photoAbilityLevels": [
@@ -19398,7 +19398,7 @@
   {
     "id": "pab-passive-skill_sk-phot-chs-idol-02",
     "name": "ビジュアルUPスキル",
-    "description": "ビート時、確率でスコアラータイプにビジュアルアップ",
+    "description": "ビート時、確率でスコアラータイプ2人にビジュアル上昇効果",
     "abilityType": 13,
     "skillId": "sk-phot-chs-idol-02",
     "photoAbilityLevels": [
@@ -20626,7 +20626,7 @@
   {
     "id": "pab-passive-skill_sk-phot-exchange-5-01",
     "name": "AスキルスコアUP",
-    "description": "スタミナ60%以上の場合、自身にAスキルスコアアップ",
+    "description": "スタミナ60%以上の時、自身にAスキルスコア上昇効果",
     "abilityType": 13,
     "skillId": "sk-phot-exchange-5-1",
     "photoAbilityLevels": [
@@ -20804,7 +20804,7 @@
   {
     "id": "pab-passive-skill_sk-phot-exchange-5-02",
     "name": "スコアUPスキル",
-    "description": "100コンボ到達時、自身にスコアup",
+    "description": "100コンボ以上時、自身にスコア上昇効果(1回)",
     "abilityType": 13,
     "skillId": "sk-phot-exchange-5-2",
     "photoAbilityLevels": [
@@ -21160,7 +21160,7 @@
   {
     "id": "pab-passive-skill_sk-phot-exchange-5-04",
     "name": "AスキルスコアUP",
-    "description": "<スコアラータイプのみ>\n自身にAスキルスコアアップ",
+    "description": "<スコアラータイプのみ>\n自身にAスキルスコア上昇効果",
     "abilityType": 13,
     "skillId": "sk-phot-exchange-5-4",
     "photoAbilityLevels": [
@@ -22050,7 +22050,7 @@
   {
     "id": "pab-passive-skill_sk-phot-exchange-5-09",
     "name": "スコアUPスキル",
-    "description": "自身がAスキルスコアアップ状態の時、自身にスコア上昇効果(1回)",
+    "description": "自身がAスキルスコア上昇状態の時、自身にスコア上昇効果(1回)",
     "abilityType": 13,
     "skillId": "sk-phot-exchange-5-9",
     "photoAbilityLevels": [
@@ -22226,6 +22226,184 @@
     "statusEffectType": 0
   },
   {
+    "id": "pab-passive-skill_sk-phot-exchange-5-10",
+    "name": "強化効果増強スキル",
+    "description": "100コンボ以上時、スコア獲得&自身の強化効果増強(1回)",
+    "abilityType": 13,
+    "skillId": "sk-phot-exchange-5-10",
+    "photoAbilityLevels": [
+      {
+        "level": 10,
+        "value": 1
+      },
+      {
+        "level": 15,
+        "value": 1
+      },
+      {
+        "level": 20,
+        "value": 1
+      },
+      {
+        "level": 25,
+        "value": 1
+      },
+      {
+        "level": 30,
+        "value": 1
+      },
+      {
+        "level": 35,
+        "value": 1
+      },
+      {
+        "level": 40,
+        "value": 1
+      },
+      {
+        "level": 45,
+        "value": 1
+      },
+      {
+        "level": 50,
+        "value": 1
+      },
+      {
+        "level": 55,
+        "value": 1
+      },
+      {
+        "level": 60,
+        "value": 1
+      },
+      {
+        "level": 65,
+        "value": 1
+      },
+      {
+        "level": 70,
+        "value": 1
+      },
+      {
+        "level": 75,
+        "value": 1
+      },
+      {
+        "level": 80,
+        "value": 1
+      },
+      {
+        "level": 85,
+        "value": 1
+      },
+      {
+        "level": 90,
+        "value": 1
+      },
+      {
+        "level": 95,
+        "value": 1
+      },
+      {
+        "level": 100,
+        "value": 1
+      },
+      {
+        "level": 105,
+        "value": 1
+      },
+      {
+        "level": 110,
+        "value": 2
+      },
+      {
+        "level": 115,
+        "value": 2
+      },
+      {
+        "level": 120,
+        "value": 2
+      },
+      {
+        "level": 125,
+        "value": 2
+      },
+      {
+        "level": 130,
+        "value": 2
+      },
+      {
+        "level": 135,
+        "value": 3
+      },
+      {
+        "level": 140,
+        "value": 3
+      },
+      {
+        "level": 145,
+        "value": 3
+      },
+      {
+        "level": 150,
+        "value": 3
+      },
+      {
+        "level": 155,
+        "value": 4
+      },
+      {
+        "level": 160,
+        "value": 4
+      },
+      {
+        "level": 165,
+        "value": 4
+      },
+      {
+        "level": 170,
+        "value": 4
+      },
+      {
+        "level": 175,
+        "value": 4
+      },
+      {
+        "level": 180,
+        "value": 4
+      },
+      {
+        "level": 185,
+        "value": 4
+      },
+      {
+        "level": 190,
+        "value": 4
+      },
+      {
+        "level": 195,
+        "value": 4
+      },
+      {
+        "level": 200,
+        "value": 4
+      }
+    ],
+    "photoAbilityGrades": [
+      {
+        "grade": 1,
+        "bonusPermil": 1000,
+        "type": 3,
+        "bonusValue": 0
+      }
+    ],
+    "moodType": 0,
+    "abilityTargetId": "",
+    "conditionCardType": 0,
+    "conditionLiveType": 0,
+    "statusEffectType": 0
+  },
+  {
     "id": "pab-passive-skill_sk-phot-exchange-pvp-5-01",
     "name": "スコア獲得スキル",
     "description": "スコア獲得",
@@ -22366,7 +22544,7 @@
   {
     "id": "pab-passive-skill_sk-phot-hrk-idol-00",
     "name": "スタミナ回復スキル",
-    "description": "自身がボーカルアップ時、スタミナを回復",
+    "description": "自身がボーカル上昇時、スタミナを回復",
     "abilityType": 13,
     "skillId": "sk-phot-hrk-idol-00",
     "photoAbilityLevels": [
@@ -22504,7 +22682,7 @@
   {
     "id": "pab-passive-skill_sk-phot-hrk-idol-01",
     "name": "クリティカル率スキル",
-    "description": "誰かのSP発動前に、発動者にクリティカル確率アップ",
+    "description": "誰かがSPスキル発動前、対象1人にクリティカル率上昇効果(2回)",
     "abilityType": 13,
     "skillId": "sk-phot-hrk-idol-01",
     "photoAbilityLevels": [
@@ -22642,7 +22820,7 @@
   {
     "id": "pab-passive-skill_sk-phot-hrk-idol-02",
     "name": "スコアUPスキル",
-    "description": "ダンスアップ時、スコアアップ効果",
+    "description": "ダンス上昇時、スコア上昇効果",
     "abilityType": 13,
     "skillId": "sk-phot-hrk-idol-02",
     "photoAbilityLevels": [
@@ -22780,7 +22958,7 @@
   {
     "id": "pab-passive-skill_sk-phot-kkr-idol-00",
     "name": "ビジュアルUPスキル",
-    "description": "自身にビジュアルup(低長効果)",
+    "description": "自身にビジュアル上昇効果",
     "abilityType": 13,
     "skillId": "sk-phot-kkr-idol-00",
     "photoAbilityLevels": [
@@ -23056,7 +23234,7 @@
   {
     "id": "pab-passive-skill_sk-phot-kkr-idol-02",
     "name": "クリティカルスキル",
-    "description": "センターに、クリティカル係数up",
+    "description": "センターにクリティカル係数上昇効果",
     "abilityType": 13,
     "skillId": "sk-phot-kkr-idol-02",
     "photoAbilityLevels": [
@@ -23332,7 +23510,7 @@
   {
     "id": "pab-passive-skill_sk-phot-ktn-idol-01",
     "name": "ビジュアルスキル",
-    "description": "クリティカル率上昇時、ビジュアルアップ",
+    "description": "クリティカル率上昇状態の時、自身にビジュアル上昇効果(2回)",
     "abilityType": 13,
     "skillId": "sk-phot-ktn-idol-01",
     "photoAbilityLevels": [
@@ -23470,7 +23648,7 @@
   {
     "id": "pab-passive-skill_sk-phot-ktn-idol-02",
     "name": "スコアUPスキル",
-    "description": "集目効果時、確率でスコアアップ",
+    "description": "集目状態の時、自身にスコア上昇効果(2回)",
     "abilityType": 13,
     "skillId": "sk-phot-ktn-idol-02",
     "photoAbilityLevels": [
@@ -23608,7 +23786,7 @@
   {
     "id": "pab-passive-skill_sk-phot-mei-idol-00",
     "name": "スコア獲得スキル",
-    "description": "スコアアップ状態時、スコア獲得",
+    "description": "スコア上昇状態の時、スコア獲得",
     "abilityType": 13,
     "skillId": "sk-phot-mei-idol-00",
     "photoAbilityLevels": [
@@ -23884,7 +24062,7 @@
   {
     "id": "pab-passive-skill_sk-phot-mei-idol-02",
     "name": "スコア獲得スキル",
-    "description": "50コンボ到達時、スコア獲得 更に自身のビートスコアアップ",
+    "description": "50コンボ以上時、スコア獲得 更に自身にビートスコア上昇効果",
     "abilityType": 13,
     "skillId": "sk-phot-mei-idol-02",
     "photoAbilityLevels": [
@@ -24298,7 +24476,7 @@
   {
     "id": "pab-passive-skill_sk-phot-ngs-idol-02",
     "name": "ボーカルUPスキル",
-    "description": "クリティカル時、ボーカルアップ",
+    "description": "クリティカル発動時、自身にボーカル上昇効果",
     "abilityType": 13,
     "skillId": "sk-phot-ngs-idol-02",
     "photoAbilityLevels": [
@@ -24436,7 +24614,7 @@
   {
     "id": "pab-passive-skill_sk-phot-rei-idol-00",
     "name": "クリティカル率スキル",
-    "description": "ビート時、自身のクリティカル率アップ",
+    "description": "ビート時、確率で自身にクリティカル率上昇効果(2回)",
     "abilityType": 13,
     "skillId": "sk-phot-rei-idol-00",
     "photoAbilityLevels": [
@@ -24574,7 +24752,7 @@
   {
     "id": "pab-passive-skill_sk-phot-rei-idol-01",
     "name": "スコアUPスキル",
-    "description": "自身がダンスステータスアップ時、スコアアップ",
+    "description": "自身がダンス上昇時、スコア上昇効果",
     "abilityType": 13,
     "skillId": "sk-phot-rei-idol-01",
     "photoAbilityLevels": [
@@ -24712,7 +24890,7 @@
   {
     "id": "pab-passive-skill_sk-phot-rei-idol-02",
     "name": "ダンスUPスキル",
-    "description": "スタミナが最も低いものにダンスアップ",
+    "description": "スタミナが低い1人にダンス上昇効果",
     "abilityType": 13,
     "skillId": "sk-phot-rei-idol-02",
     "photoAbilityLevels": [
@@ -25166,7 +25344,7 @@
   {
     "id": "pab-passive-skill_sk-phot-rio-idol-01",
     "name": "クリティカル率スキル",
-    "description": "ダンスの高い3人にクリティカル率up",
+    "description": "ダンスが高い3人にクリティカル率上昇効果",
     "abilityType": 13,
     "skillId": "sk-phot-rio-idol-01",
     "photoAbilityLevels": [
@@ -25304,7 +25482,7 @@
   {
     "id": "pab-passive-skill_sk-phot-rio-idol-02",
     "name": "ボーカルUPスキル",
-    "description": "センターにボーカルアップ",
+    "description": "センターにボーカル上昇効果",
     "abilityType": 13,
     "skillId": "sk-phot-rio-idol-02",
     "photoAbilityLevels": [
@@ -25442,7 +25620,7 @@
   {
     "id": "pab-passive-skill_sk-phot-rui-idol-00",
     "name": "クリティカル率スキル",
-    "description": "センターにクリティカル率up",
+    "description": "センターにクリティカル率上昇効果",
     "abilityType": 13,
     "skillId": "sk-phot-rui-idol-00",
     "photoAbilityLevels": [
@@ -25718,7 +25896,7 @@
   {
     "id": "pab-passive-skill_sk-phot-rui-idol-02",
     "name": "ダンスUPスキル",
-    "description": "集目効果時、自身のダンスアップ",
+    "description": "集目状態の時、自身にダンス上昇効果",
     "abilityType": 13,
     "skillId": "sk-phot-rui-idol-02",
     "photoAbilityLevels": [
@@ -26034,7 +26212,7 @@
   {
     "id": "pab-passive-skill_sk-phot-ski-idol-00",
     "name": "ダンスUPスキル",
-    "description": "誰かのSP発動前に、発動者にダンスアップ",
+    "description": "誰かがSPスキル発動前、対象1人にダンス上昇効果",
     "abilityType": 13,
     "skillId": "sk-phot-ski-idol-00",
     "photoAbilityLevels": [
@@ -26448,7 +26626,7 @@
   {
     "id": "pab-passive-skill_sk-phot-skr-idol-00",
     "name": "AスキルUPスキル",
-    "description": "ボーカルアップ時、Aスキルスコアアップ",
+    "description": "ボーカル上昇時、Aスキルスコア上昇効果",
     "abilityType": 13,
     "skillId": "sk-phot-skr-idol-00",
     "photoAbilityLevels": [
@@ -26724,7 +26902,7 @@
   {
     "id": "pab-passive-skill_sk-phot-skr-idol-02",
     "name": "ダンスUPスキル",
-    "description": "クリティカル確率アップ中、ダンスアップ",
+    "description": "クリティカル率上昇状態の時、自身にダンス上昇効果",
     "abilityType": 13,
     "skillId": "sk-phot-skr-idol-02",
     "photoAbilityLevels": [
@@ -26862,7 +27040,7 @@
   {
     "id": "pab-passive-skill_sk-phot-smr-idol-00",
     "name": "AスキルUPスキル",
-    "description": "スタミナ80％以上の場合、Aスキルスコアアップ",
+    "description": "スタミナ80%以上の時、Aスキルスコア上昇効果",
     "abilityType": 13,
     "skillId": "sk-phot-smr-idol-00",
     "photoAbilityLevels": [
@@ -27138,7 +27316,7 @@
   {
     "id": "pab-passive-skill_sk-phot-smr-idol-02",
     "name": "ダンスUPスキル",
-    "description": "自身にダンスアップ",
+    "description": "自身にダンス上昇効果",
     "abilityType": 13,
     "skillId": "sk-phot-smr-idol-02",
     "photoAbilityLevels": [
@@ -27276,7 +27454,7 @@
   {
     "id": "pab-passive-skill_sk-phot-suz-idol-00",
     "name": "クリティカル率スキル",
-    "description": "50コンボ到達時、自身のクリティカル率アップ",
+    "description": "50コンボ以上時、自身にクリティカル率上昇効果",
     "abilityType": 13,
     "skillId": "sk-phot-suz-idol-00",
     "photoAbilityLevels": [
@@ -27552,7 +27730,7 @@
   {
     "id": "pab-passive-skill_sk-phot-suz-idol-02",
     "name": "ビジュアルUPスキル",
-    "description": "ビート時、確率でビジュアルアップ",
+    "description": "ビート時、確率で自身にビジュアル上昇効果",
     "abilityType": 13,
     "skillId": "sk-phot-suz-idol-02",
     "photoAbilityLevels": [
@@ -27690,7 +27868,7 @@
   {
     "id": "pab-passive-skill_sk-phot-szk-idol-00",
     "name": "ボーカルUPスキル",
-    "description": "自身がステルス時、全体にボーカルアップ",
+    "description": "ステルス状態の時、全員にボーカル上昇効果",
     "abilityType": 13,
     "skillId": "sk-phot-szk-idol-00",
     "photoAbilityLevels": [
@@ -27828,7 +28006,7 @@
   {
     "id": "pab-passive-skill_sk-phot-szk-idol-01",
     "name": "クリティカルスキル",
-    "description": "クリティカル確率アップ時、センターのクリティカル係数アップ",
+    "description": "クリティカル率上昇時、センターのクリティカル係数上昇効果",
     "abilityType": 13,
     "skillId": "sk-phot-szk-idol-01",
     "photoAbilityLevels": [
@@ -27966,7 +28144,7 @@
   {
     "id": "pab-passive-skill_sk-phot-szk-idol-02",
     "name": "ボーカルUPスキル",
-    "description": "スタミナが多いものに、ボーカルアップ",
+    "description": "スタミナが高い1人にボーカル上昇効果",
     "abilityType": 13,
     "skillId": "sk-phot-szk-idol-02",
     "photoAbilityLevels": [
@@ -28104,7 +28282,7 @@
   {
     "id": "pab-passive-skill_sk-phot-yu-idol-00",
     "name": "ビジュアルUPスキル",
-    "description": "誰かがスタミナ消費低下中の場合、対象者1人にビジュアルアップ",
+    "description": "誰かが消費スタミナ低下状態の時、対象1人にビジュアル上昇効果",
     "abilityType": 13,
     "skillId": "sk-phot-yu-idol-00",
     "photoAbilityLevels": [
@@ -28242,7 +28420,7 @@
   {
     "id": "pab-passive-skill_sk-phot-yu-idol-01",
     "name": "クリティカルスキル",
-    "description": "スタミナ80％以上の場合、クリティカル係数アップ",
+    "description": "スタミナ80%以上の時、クリティカル係数上昇効果",
     "abilityType": 13,
     "skillId": "sk-phot-yu-idol-01",
     "photoAbilityLevels": [
@@ -28380,7 +28558,7 @@
   {
     "id": "pab-passive-skill_sk-phot-yu-idol-02",
     "name": "ビジュアルUPスキル",
-    "description": "自身にビジュアルアップ",
+    "description": "自身にビジュアル上昇効果",
     "abilityType": 13,
     "skillId": "sk-phot-yu-idol-02",
     "photoAbilityLevels": [
@@ -29430,7 +29608,7 @@
   {
     "id": "pab-passive_skill-sk-phot_recipe-cmn-001-cd-appeal",
     "name": "テンションUP",
-    "description": "<スコアラータイプのみ>\n自身がボーカルレーンの時 自身にテンションUP効果",
+    "description": "<スコアラータイプのみ> 自身がボーカルレーンの時 自身にテンションUP効果",
     "abilityType": 13,
     "skillId": "sk-phot_recipe-cmn-001",
     "photoAbilityLevels": [
@@ -29508,7 +29686,7 @@
   {
     "id": "pab-passive_skill-sk-phot_recipe-cmn-002-cd-appeal",
     "name": "クリスコアUP",
-    "description": "<スコアラータイプのみ>\n自身がダンスレーンの時 自身にクリティカル係数上昇効果",
+    "description": "<スコアラータイプのみ> 自身がダンスレーンの時 自身にクリティカル係数上昇効果",
     "abilityType": 13,
     "skillId": "sk-phot_recipe-cmn-002",
     "photoAbilityLevels": [
@@ -29586,7 +29764,7 @@
   {
     "id": "pab-passive_skill-sk-phot_recipe-cmn-003-cd-appeal",
     "name": "コンボスコアUP",
-    "description": "<スコアラータイプのみ>\n自身がビジュアルレーンの時 自身にコンボスコア上昇効果",
+    "description": "<スコアラータイプのみ> 自身がビジュアルレーンの時 自身にコンボスコア上昇効果",
     "abilityType": 13,
     "skillId": "sk-phot_recipe-cmn-003",
     "photoAbilityLevels": [
@@ -30288,7 +30466,7 @@
   {
     "id": "pab-passive_skill-sk-phot_recipe-cmn-012",
     "name": "獲得-VoUP",
-    "description": "スコア獲得、ボーカルアップ状態の段階数が多い程効果上昇",
+    "description": "スコア獲得、ボーカル上昇状態の段階数が多い程効果上昇",
     "abilityType": 13,
     "skillId": "sk-phot_recipe-cmn-012",
     "photoAbilityLevels": [
@@ -30366,7 +30544,7 @@
   {
     "id": "pab-passive_skill-sk-phot_recipe-cmn-013",
     "name": "獲得-DaUP",
-    "description": "スコア獲得、ダンスアップ状態の段階数が多い程効果上昇",
+    "description": "スコア獲得、ダンス上昇状態の段階数が多い程効果上昇",
     "abilityType": 13,
     "skillId": "sk-phot_recipe-cmn-013",
     "photoAbilityLevels": [
@@ -30444,7 +30622,7 @@
   {
     "id": "pab-passive_skill-sk-phot_recipe-cmn-014",
     "name": "獲得-ViUP",
-    "description": "スコア獲得、ビジュアルアップ状態の段階数が多い程効果上昇",
+    "description": "スコア獲得、ビジュアル上昇状態の段階数が多い程効果上昇",
     "abilityType": 13,
     "skillId": "sk-phot_recipe-cmn-014",
     "photoAbilityLevels": [
@@ -30636,7 +30814,7 @@
   {
     "id": "pab-received_strength_effect_count_increase-active_skill_score_up_recipe_distribution-5",
     "name": "被・Aスコア延長",
-    "description": "受けるAスコアアップ効果を13延長します",
+    "description": "受けるAスキルスコア上昇効果を13延長します",
     "abilityType": 28,
     "photoAbilityLevels": [
       {
@@ -30750,7 +30928,7 @@
   {
     "id": "pab-received_strength_effect_count_increase-active_skill_score_up_recipe_distribution-5-cd-appeal",
     "name": "被・Aスコア延長",
-    "description": "<スコアラータイプのみ>受けるAスコアアップ効果を14延長します",
+    "description": "<スコアラータイプのみ>受けるAスキルスコア上昇効果を14延長します",
     "abilityType": 28,
     "photoAbilityLevels": [
       {
@@ -30864,7 +31042,7 @@
   {
     "id": "pab-received_strength_effect_count_increase-dance_up_recipe_distribution-5",
     "name": "被・Da延長",
-    "description": "受けるダンスアップ効果を4延長します",
+    "description": "受けるダンス上昇効果を4延長します",
     "abilityType": 28,
     "photoAbilityLevels": [
       {
@@ -31196,7 +31374,7 @@
   {
     "id": "pab-received_strength_effect_value_increase-dance_up_recipe-001",
     "name": "被・Da増強",
-    "description": "受けるダンスアップ効果を2段階増強します",
+    "description": "受けるダンス上昇効果を2段階増強します",
     "abilityType": 27,
     "photoAbilityLevels": [
       {
@@ -31274,7 +31452,7 @@
   {
     "id": "pab-received_strength_effect_value_increase-dance_up_recipe_distribution-5",
     "name": "被・Da増強",
-    "description": "受けるダンスアップ効果を1段階増強します",
+    "description": "受けるダンス上昇効果を1段階増強します",
     "abilityType": 27,
     "photoAbilityLevels": [
       {
@@ -31388,7 +31566,7 @@
   {
     "id": "pab-received_strength_effect_value_increase-visual_up_recipe-001",
     "name": "被・Vi増強",
-    "description": "受けるビジュアルアップ効果を2段階増強します",
+    "description": "受けるビジュアル上昇効果を2段階増強します",
     "abilityType": 27,
     "photoAbilityLevels": [
       {
@@ -31466,7 +31644,7 @@
   {
     "id": "pab-received_strength_effect_value_increase-visual_up_recipe_distribution-5",
     "name": "被・Vi増強",
-    "description": "受けるビジュアルアップ効果を1段階増強します",
+    "description": "受けるビジュアル上昇効果を1段階増強します",
     "abilityType": 27,
     "photoAbilityLevels": [
       {
@@ -31580,7 +31758,7 @@
   {
     "id": "pab-received_strength_effect_value_increase-vocal_up_recipe-001",
     "name": "被・Vo増強",
-    "description": "受けるボーカルアップ効果を2段階増強します",
+    "description": "受けるボーカル上昇効果を2段階増強します",
     "abilityType": 27,
     "photoAbilityLevels": [
       {
@@ -31658,7 +31836,7 @@
   {
     "id": "pab-received_strength_effect_value_increase-vocal_up_recipe_distribution-5",
     "name": "被・Vo増強",
-    "description": "受けるボーカルアップ効果を1段階増強します",
+    "description": "受けるボーカル上昇効果を1段階増強します",
     "abilityType": 27,
     "photoAbilityLevels": [
       {
@@ -31772,7 +31950,7 @@
   {
     "id": "pab-sk-phot-ai-idol-03",
     "name": "ビジュアルUPスキル",
-    "description": "誰かがビジュアルアップ時、自身のビジュアルアップ",
+    "description": "誰かがビジュアル上昇時、自身のビジュアル上昇効果",
     "abilityType": 13,
     "skillId": "sk-phot-ai-idol-03",
     "photoAbilityLevels": [
@@ -31990,7 +32168,7 @@
   {
     "id": "pab-sk-phot-aoi-idol-03",
     "name": "ボーカルUPスキル",
-    "description": "50コンボ時自身にボーカルアップ(1回)",
+    "description": "50コンボ以上時、自身にボーカル上昇効果(1回)",
     "abilityType": 13,
     "skillId": "sk-phot-aoi-idol-03",
     "photoAbilityLevels": [
@@ -32208,7 +32386,7 @@
   {
     "id": "pab-sk-phot-chs-idol-03",
     "name": "成功率UPスキル",
-    "description": "自身がスタミナ低減時、自身のスキル成功率アップ",
+    "description": "消費スタミナ低下状態の時、自身にスキル成功率上昇効果",
     "abilityType": 13,
     "skillId": "sk-phot-chs-idol-03",
     "photoAbilityLevels": [
@@ -32426,7 +32604,7 @@
   {
     "id": "pab-sk-phot-hrk-idol-03",
     "name": "与・Aスコア延長",
-    "description": "付与するAスコアアップを6延長",
+    "description": "付与するAスキルスコア上昇効果を6延長します",
     "abilityType": 30,
     "photoAbilityLevels": [
       {
@@ -32644,7 +32822,7 @@
   {
     "id": "pab-sk-phot-kan-idol-00",
     "name": "スコアUPスキル",
-    "description": "誰かが集目状態時、自身のスコアアップ",
+    "description": "誰かが集目状態の時、自身にスコア上昇効果",
     "abilityType": 13,
     "skillId": "sk-phot-kan-idol-00",
     "photoAbilityLevels": [
@@ -32862,7 +33040,7 @@
   {
     "id": "pab-sk-phot-kkr-idol-03",
     "name": "スコア獲得スキル",
-    "description": "自身がボーカルアップ時、スコア獲得&自身の低下効果回復",
+    "description": "自身がボーカル上昇時、スコア獲得&自身の低下効果を回復",
     "abilityType": 13,
     "skillId": "sk-phot-kkr-idol-03",
     "photoAbilityLevels": [
@@ -33080,7 +33258,7 @@
   {
     "id": "pab-sk-phot-kor-idol-00",
     "name": "被・コンボスコア延長",
-    "description": "受けるコンボスコアアップ効果を9延長",
+    "description": "受けるコンボスコア上昇効果を9延長します",
     "abilityType": 28,
     "photoAbilityLevels": [
       {
@@ -33298,7 +33476,7 @@
   {
     "id": "pab-sk-phot-ktn-idol-03",
     "name": "被・Da延長",
-    "description": "受けるダンスアップ効果を3延長します",
+    "description": "受けるダンス上昇効果を3延長します",
     "abilityType": 28,
     "photoAbilityLevels": [
       {
@@ -33516,7 +33694,7 @@
   {
     "id": "pab-sk-phot-mei-idol-03",
     "name": "強化効果延長スキル",
-    "description": "自身がビジュアルアップ時、自身の強化効果延長",
+    "description": "自身がビジュアル上昇時、自身の強化効果を延長",
     "abilityType": 13,
     "skillId": "sk-phot-mei-idol-03",
     "photoAbilityLevels": [
@@ -33734,7 +33912,7 @@
   {
     "id": "pab-sk-phot-mhk-idol-00",
     "name": "強化効果延長スキル",
-    "description": "誰かがビートスコアアップ時、自身の強化効果延長",
+    "description": "誰かがビートスコア上昇時、自身の強化効果を延長",
     "abilityType": 13,
     "skillId": "sk-phot-mhk-idol-00",
     "photoAbilityLevels": [
@@ -33952,7 +34130,7 @@
   {
     "id": "pab-sk-phot-mna-idol-00",
     "name": "成功率UPスキル",
-    "description": "自身がクリティカル率アップ時、自身のスキル成功率アップ",
+    "description": "自身がクリティカル率上昇時、自身のスキル成功率上昇効果",
     "abilityType": 13,
     "skillId": "sk-phot-mna-idol-00",
     "photoAbilityLevels": [
@@ -34388,7 +34566,7 @@
   {
     "id": "pab-sk-phot-rei-idol-03",
     "name": "与・Vo延長",
-    "description": "付与するボーカルアップを3延長",
+    "description": "付与するボーカル上昇効果を3延長します",
     "abilityType": 30,
     "photoAbilityLevels": [
       {
@@ -35042,7 +35220,7 @@
   {
     "id": "pab-sk-phot-ski-idol-03",
     "name": "ビジュアルUPスキル",
-    "description": "自身がスコアアップ時、自身のビジュアルアップ",
+    "description": "自身がスコア上昇時、自身のビジュアル上昇効果",
     "abilityType": 13,
     "skillId": "sk-phot-ski-idol-03",
     "photoAbilityLevels": [
@@ -35260,7 +35438,7 @@
   {
     "id": "pab-sk-phot-skr-idol-03",
     "name": "強化効果延長スキル",
-    "description": "自身がダンスアップ時、自身の強化効果延長",
+    "description": "自身がダンス上昇時、自身の強化効果を延長",
     "abilityType": 13,
     "skillId": "sk-phot-skr-idol-03",
     "photoAbilityLevels": [
@@ -35478,7 +35656,7 @@
   {
     "id": "pab-sk-phot-smr-idol-03",
     "name": "与・クリティカル率延長",
-    "description": "付与するクリティカル率アップ効果を10延長",
+    "description": "付与するクリティカル率上昇効果を10延長します",
     "abilityType": 30,
     "photoAbilityLevels": [
       {
@@ -35696,7 +35874,7 @@
   {
     "id": "pab-sk-phot-suz-idol-03",
     "name": "AスキルUPスキル",
-    "description": "自身がボーカルアップ時、自身のAスキルスコア上昇効果",
+    "description": "自身がボーカル上昇時、自身のAスキルスコア上昇効果",
     "abilityType": 13,
     "skillId": "sk-phot-suz-idol-03",
     "photoAbilityLevels": [
@@ -35914,7 +36092,7 @@
   {
     "id": "pab-sk-phot-szk-idol-03",
     "name": "与・Aスコア延長",
-    "description": "付与するAスコアアップを6延長",
+    "description": "付与するAスキルスコア上昇効果を6延長します",
     "abilityType": 30,
     "photoAbilityLevels": [
       {
@@ -36132,7 +36310,7 @@
   {
     "id": "pab-sk-phot-yu-idol-03",
     "name": "スコアUPスキル",
-    "description": "100コンボ時、自身にスコアアップ",
+    "description": "100コンボ以上時、自身にスコア上昇効果",
     "abilityType": 13,
     "skillId": "sk-phot-yu-idol-03",
     "photoAbilityLevels": [
