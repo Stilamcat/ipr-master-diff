@@ -2773,6 +2773,38 @@
     ]
   },
   {
+    "id": "cd-banner-tower-005-sp-23-0625",
+    "settings": [
+      {
+        "satisfyCondition": {
+          "conditionId": "cd-clear-ms-limited-login-ex-tower-005-sp-23-0625-001"
+        },
+        "term": {
+          "nowAfter": "1687662000000",
+          "nowBefore": "1689821999000"
+        }
+      },
+      {
+        "satisfyCondition": {
+          "conditionId": "cd-clear-ms-limited-login-ex-tower-005-sp-23-0625-002"
+        },
+        "term": {
+          "nowAfter": "1687662000000",
+          "nowBefore": "1689821999000"
+        }
+      },
+      {
+        "satisfyCondition": {
+          "conditionId": "cd-clear-ms-limited-login-ex-tower-005-sp-23-0625-003"
+        },
+        "term": {
+          "nowAfter": "1687662000000",
+          "nowBefore": "1689821999000"
+        }
+      }
+    ]
+  },
+  {
     "id": "cd-banner_s-delete-22-0624-0715",
     "settings": [
       {
@@ -6266,6 +6298,17 @@
     ]
   },
   {
+    "id": "cd-campaign-gift_bonus-23-0625",
+    "settings": [
+      {
+        "term": {
+          "nowAfter": "1687618800000",
+          "nowBefore": "1690815599000"
+        }
+      }
+    ]
+  },
+  {
     "id": "cd-card-ai-05-idol-00",
     "settings": [
       {
@@ -8685,6 +8728,39 @@
     ]
   },
   {
+    "id": "cd-clear-ms-limited-login-ex-tower-005-sp-23-0625-001",
+    "settings": [
+      {
+        "clearMission": {
+          "missionId": "ms-limited-login-ex-tower-005-sp-23-0625-001",
+          "threshold": "1"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-clear-ms-limited-login-ex-tower-005-sp-23-0625-002",
+    "settings": [
+      {
+        "clearMission": {
+          "missionId": "ms-limited-login-ex-tower-005-sp-23-0625-002",
+          "threshold": "1"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-clear-ms-limited-login-ex-tower-005-sp-23-0625-003",
+    "settings": [
+      {
+        "clearMission": {
+          "missionId": "ms-limited-login-ex-tower-005-sp-23-0625-003",
+          "threshold": "1"
+        }
+      }
+    ]
+  },
+  {
     "id": "cd-clear-qt-area-1-001",
     "settings": [
       {
@@ -10696,6 +10772,142 @@
   },
   {
     "id": "cd-contest-22-1227-total_submit_count_gte-35",
+    "settings": [
+      {}
+    ]
+  },
+  {
+    "id": "cd-contest-23-0626",
+    "settings": [
+      {
+        "satisfyCondition": {
+          "conditionId": "cd-clear-area-main-004"
+        },
+        "term": {
+          "nowAfter": "1687770000000",
+          "nowBefore": "1688612399000"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-contest-23-0626-exchange",
+    "settings": [
+      {
+        "term": {
+          "nowAfter": "1687770000000",
+          "nowBefore": "1689173999000"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-contest-23-0626-open",
+    "settings": [
+      {
+        "satisfyCondition": {
+          "conditionId": "cd-clear-area-main-004"
+        },
+        "term": {
+          "nowAfter": "1687770000000",
+          "nowBefore": "0"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-contest-23-0626-open-23-0630",
+    "settings": [
+      {
+        "satisfyCondition": {
+          "conditionId": "cd-clear-area-main-004"
+        },
+        "term": {
+          "nowAfter": "1688094000000",
+          "nowBefore": "0"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-contest-23-0626-open-23-0630-23-0706",
+    "settings": [
+      {
+        "satisfyCondition": {
+          "conditionId": "cd-clear-area-main-004"
+        },
+        "term": {
+          "nowAfter": "1688094000000",
+          "nowBefore": "1688612399000"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-contest-23-0626-open-23-0703",
+    "settings": [
+      {
+        "satisfyCondition": {
+          "conditionId": "cd-clear-area-main-004"
+        },
+        "term": {
+          "nowAfter": "1688353200000",
+          "nowBefore": "0"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-contest-23-0626-open-23-0703-23-0706",
+    "settings": [
+      {
+        "satisfyCondition": {
+          "conditionId": "cd-clear-area-main-004"
+        },
+        "term": {
+          "nowAfter": "1688353200000",
+          "nowBefore": "1688612399000"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-contest-23-0626-story",
+    "settings": [
+      {
+        "term": {
+          "nowAfter": "1687770000000",
+          "nowBefore": "0"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-contest-23-0626-total_submit_count_gte-",
+    "settings": [
+      {}
+    ]
+  },
+  {
+    "id": "cd-contest-23-0626-total_submit_count_gte-10",
+    "settings": [
+      {}
+    ]
+  },
+  {
+    "id": "cd-contest-23-0626-total_submit_count_gte-20",
+    "settings": [
+      {}
+    ]
+  },
+  {
+    "id": "cd-contest-23-0626-total_submit_count_gte-3",
+    "settings": [
+      {}
+    ]
+  },
+  {
+    "id": "cd-contest-23-0626-total_submit_count_gte-35",
     "settings": [
       {}
     ]
@@ -20687,6 +20899,16 @@
     ]
   },
   {
+    "id": "cd-event-story-read-001-contest-23-0626",
+    "settings": [
+      {
+        "satisfyCondition": {
+          "conditionId": "cd-clear-area-main-004"
+        }
+      }
+    ]
+  },
+  {
     "id": "cd-event_beginner-mission-22-1224_not-recieved",
     "settings": [
       {
@@ -22046,6 +22268,68 @@
     ]
   },
   {
+    "id": "cd-ex-tower-005-sp-23-0625-001-unlock",
+    "settings": [
+      {}
+    ]
+  },
+  {
+    "id": "cd-ex-tower-005-sp-23-0625-001-view",
+    "settings": [
+      {
+        "term": {
+          "nowAfter": "1687662000000",
+          "nowBefore": "1689821999000"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-ex-tower-005-sp-23-0625-002-unlock",
+    "settings": [
+      {}
+    ]
+  },
+  {
+    "id": "cd-ex-tower-005-sp-23-0625-002-view",
+    "settings": [
+      {
+        "term": {
+          "nowAfter": "1687662000000",
+          "nowBefore": "1689821999000"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-ex-tower-005-sp-23-0625-003-unlock",
+    "settings": [
+      {}
+    ]
+  },
+  {
+    "id": "cd-ex-tower-005-sp-23-0625-003-view",
+    "settings": [
+      {
+        "term": {
+          "nowAfter": "1687662000000",
+          "nowBefore": "1689821999000"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-ex-tower-005-sp-23-0625-open",
+    "settings": [
+      {
+        "term": {
+          "nowAfter": "1687662000000",
+          "nowBefore": "1689821999000"
+        }
+      }
+    ]
+  },
+  {
     "id": "cd-exchange-2nd-anniversary-medal-23-0528",
     "settings": [
       {
@@ -22701,6 +22985,17 @@
         "term": {
           "nowAfter": "1686625200000",
           "nowBefore": "1688439599000"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-exchange-medal-dress-23-0625",
+    "settings": [
+      {
+        "term": {
+          "nowAfter": "1687618800000",
+          "nowBefore": "1688914799000"
         }
       }
     ]
@@ -26758,7 +27053,7 @@
     "settings": [
       {
         "term": {
-          "nowAfter": "2532351600000",
+          "nowAfter": "1687834800000",
           "nowBefore": "0"
         }
       }
@@ -26830,6 +27125,25 @@
         "term": {
           "nowAfter": "2524618800000",
           "nowBefore": "0"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-function_lock-quest-sub-tower",
+    "settings": [
+      {
+        "satisfyCondition": {
+          "conditionId": "cd-clear-qt-tower-300"
+        }
+      },
+      {
+        "satisfyCondition": {
+          "conditionId": "cd-ex-tower-005-sp-23-0625-open"
+        },
+        "managerLevel": {
+          "levelGte": 80,
+          "levelLte": 0
         }
       }
     ]
@@ -47367,6 +47681,45 @@
     ]
   },
   {
+    "id": "cd-ms-limited-login-ex-tower-005-sp-23-0625-001-view",
+    "settings": [
+      {
+        "managerLevel": {
+          "levelLte": 129,
+          "levelGte": 0
+        }
+      },
+      {
+        "managerLevel": {
+          "levelLte": 129,
+          "levelGte": 80
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-ms-limited-login-ex-tower-005-sp-23-0625-002-view",
+    "settings": [
+      {
+        "managerLevel": {
+          "levelLte": 189,
+          "levelGte": 130
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-ms-limited-login-ex-tower-005-sp-23-0625-003-view",
+    "settings": [
+      {
+        "managerLevel": {
+          "levelGte": 190,
+          "levelLte": 0
+        }
+      }
+    ]
+  },
+  {
     "id": "cd-ms-manager-level-40-0618-0623",
     "settings": [
       {}
@@ -47653,6 +48006,16 @@
       {
         "finishedMessage": {
           "messageId": "message-card-hrk-05-chna-00"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-ms-read-message-card-hrk-05-fest-00",
+    "settings": [
+      {
+        "finishedMessage": {
+          "messageId": "message-card-hrk-05-fest-00"
         }
       }
     ]
@@ -49389,6 +49752,19 @@
       {
         "obtainCard": {
           "cardId": "card-skr-02-eve-01"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-obtain_card-skr-02-eve-02",
+    "settings": [
+      {
+        "satisfyCondition": {
+          "conditionId": "cd-contest-23-0626-exchange"
+        },
+        "obtainCard": {
+          "cardId": "card-skr-02-eve-02"
         }
       }
     ]
@@ -65736,6 +66112,17 @@
     ]
   },
   {
+    "id": "cd-shop_dress-shop-23-0625-0703",
+    "settings": [
+      {
+        "term": {
+          "nowAfter": "1687618800000",
+          "nowBefore": "1688353199000"
+        }
+      }
+    ]
+  },
+  {
     "id": "cd-shop_ever-clear",
     "settings": [
       {
@@ -66220,6 +66607,28 @@
         "term": {
           "nowAfter": "1685242800000",
           "nowBefore": "1685761199000"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-shop_special-shop-01-23-0625-0630",
+    "settings": [
+      {
+        "term": {
+          "nowAfter": "1687618800000",
+          "nowBefore": "1688137199000"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-shop_special-shop-01-23-0625-0630-dokan",
+    "settings": [
+      {
+        "term": {
+          "nowAfter": "1687618800000",
+          "nowBefore": "1688137199000"
         }
       }
     ]
@@ -68806,6 +69215,53 @@
         "term": {
           "nowAfter": "1686279600000",
           "nowBefore": "1687575599000"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-shop_special-shop-23-0626",
+    "settings": [
+      {
+        "term": {
+          "nowAfter": "1687748400000",
+          "nowBefore": "0"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-shop_special-shop-23-0626-0703",
+    "settings": [
+      {
+        "term": {
+          "nowAfter": "1687748400000",
+          "nowBefore": "1688353199000"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-shop_special-shop-23-0626-0703-dokan",
+    "settings": [
+      {
+        "term": {
+          "nowAfter": "1687748400000",
+          "nowBefore": "1688353199000"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-shop_special-shop-23-0626-0703-mlv-120",
+    "settings": [
+      {
+        "satisfyCondition": {
+          "conditionId": "cd-manager_level_gte-120"
+        },
+        "term": {
+          "nowAfter": "1687748400000",
+          "nowBefore": "1688353199000"
         }
       }
     ]
@@ -77595,6 +78051,16 @@
     ]
   },
   {
+    "id": "cd-st-read-st-card-hrk-05-fest-00-03",
+    "settings": [
+      {
+        "readStory": {
+          "storyId": "st-card-hrk-05-fest-00-03"
+        }
+      }
+    ]
+  },
+  {
     "id": "cd-st-read-st-card-hrk-05-idol-00-01",
     "settings": [
       {
@@ -77940,6 +78406,16 @@
       {
         "readStory": {
           "storyId": "st-card-mna-05-fest-00-03"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-st-read-st-card-mna-05-fest-01-03",
+    "settings": [
+      {
+        "readStory": {
+          "storyId": "st-card-mna-05-fest-01-03"
         }
       }
     ]
@@ -83502,6 +83978,43 @@
     ]
   },
   {
+    "id": "cd-time-gacha-fixed-selection-23-0626",
+    "settings": [
+      {
+        "term": {
+          "nowAfter": "1687748400000",
+          "nowBefore": "1688353199000"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-time-gacha-fixed-selection-23-0626-banner",
+    "settings": [
+      {
+        "notSatisfyCondition": {
+          "conditionId": "cd-time-gacha-fixed-selection-23-0626-banner-end"
+        },
+        "term": {
+          "nowAfter": "1687748400000",
+          "nowBefore": "1688353199000"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-time-gacha-fixed-selection-23-0626-banner-end",
+    "settings": [
+      {
+        "drawGacha": {
+          "gachaButtonIds": [
+            "btn-10-gacha-fixed-selection-23-0626-total"
+          ]
+        }
+      }
+    ]
+  },
+  {
     "id": "cd-time-gacha-free-21-1130",
     "settings": [
       {
@@ -84471,6 +84984,33 @@
     ]
   },
   {
+    "id": "cd-time-gacha-fs-select-23-0626",
+    "settings": [
+      {
+        "term": {
+          "nowAfter": "1687748400000",
+          "nowBefore": "1688353199000"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-time-gacha-fs-select-23-0626-banner",
+    "settings": [
+      {
+        "term": {
+          "nowAfter": "1687748400000",
+          "nowBefore": "1688353199000"
+        },
+        "drawGacha": {
+          "gachaButtonIds": [
+            "btn-10-gacha-fixed-selection-23-0626-total"
+          ]
+        }
+      }
+    ]
+  },
+  {
     "id": "cd-time-gacha-fs-set-bloom-21-1228",
     "settings": [
       {
@@ -84565,6 +85105,17 @@
         "term": {
           "nowAfter": "1679972400000",
           "nowBefore": "1680577199000"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-time-gacha-fs-set-bloom-23-0626",
+    "settings": [
+      {
+        "term": {
+          "nowAfter": "1687748400000",
+          "nowBefore": "1688353199000"
         }
       }
     ]
@@ -86085,7 +86636,18 @@
       {
         "term": {
           "nowAfter": "1686279600000",
-          "nowBefore": "1688094000000"
+          "nowBefore": "1687748400000"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-time-gacha-normal-23-0626",
+    "settings": [
+      {
+        "term": {
+          "nowAfter": "1687748400000",
+          "nowBefore": "1688353200000"
         }
       }
     ]
@@ -91599,6 +92161,28 @@
     ]
   },
   {
+    "id": "cd-time-login-23-0625-0701",
+    "settings": [
+      {
+        "term": {
+          "nowAfter": "1687618800000",
+          "nowBefore": "1688223599000"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-time-login-23-0625-0708",
+    "settings": [
+      {
+        "term": {
+          "nowAfter": "1687618800000",
+          "nowBefore": "1688828399000"
+        }
+      }
+    ]
+  },
+  {
     "id": "cd-time-market-phase-001-close",
     "settings": [
       {
@@ -92741,6 +93325,17 @@
       {
         "term": {
           "nowAfter": "1679972400000",
+          "nowBefore": "0"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-time-photo-garden-02-01",
+    "settings": [
+      {
+        "term": {
+          "nowAfter": "1687748400000",
           "nowBefore": "0"
         }
       }
@@ -94514,6 +95109,16 @@
     ]
   },
   {
+    "id": "cd-wear-costume-cos-hrk-anni-00",
+    "settings": [
+      {
+        "wearCostume": {
+          "costumeId": "cos-hrk-anni-00"
+        }
+      }
+    ]
+  },
+  {
     "id": "cd-wear-costume-cos-hrk-chna-00",
     "settings": [
       {
@@ -96095,6 +96700,36 @@
         },
         "startHours": {
           "hoursLte": 144
+        }
+      }
+    ]
+  },
+  {
+    "id": "ms-limited-login-ex-tower-005-sp-23-0625-001-login",
+    "settings": [
+      {
+        "accumulationLoginDays": {
+          "daysGte": 1
+        }
+      }
+    ]
+  },
+  {
+    "id": "ms-limited-login-ex-tower-005-sp-23-0625-002-login",
+    "settings": [
+      {
+        "accumulationLoginDays": {
+          "daysGte": 1
+        }
+      }
+    ]
+  },
+  {
+    "id": "ms-limited-login-ex-tower-005-sp-23-0625-003-login",
+    "settings": [
+      {
+        "accumulationLoginDays": {
+          "daysGte": 1
         }
       }
     ]

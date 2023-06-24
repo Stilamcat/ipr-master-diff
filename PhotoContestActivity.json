@@ -376,5 +376,89 @@
     "viewConditionId": "",
     "unlockConditionId": "",
     "impossibleShootingCharacterIds": []
+  },
+  {
+    "id": "photo_activity-23-0626-bedrock-00",
+    "name": "岩盤浴",
+    "type": 2,
+    "thumbAssetId": "bedrock-00",
+    "stageId": "stage-photo-bedrock-00",
+    "costumeTypeIds": [
+      "mizg"
+    ],
+    "forceCostumeTypeId": "mizg",
+    "photoShootingMotionSetId": "bedrock-00",
+    "isDeleteCharacter": true,
+    "order": 3,
+    "impossibleShootingCharacterIds": [
+      "char-mku"
+    ],
+    "viewConditionId": "",
+    "unlockConditionId": ""
+  },
+  {
+    "id": "photo_activity-23-0626-garden-02",
+    "name": "ガーデンテラス",
+    "type": 1,
+    "thumbAssetId": "garden-02",
+    "stageId": "stage-photo-garden-02",
+    "costumeTypeIds": [
+      "idol",
+      "casl",
+      "schl",
+      "gene",
+      "idol-miku",
+      "kion"
+    ],
+    "forceCostumeTypeId": "casl",
+    "photoShootingMotionSetId": "garden-02",
+    "isDeleteCharacter": true,
+    "order": 1,
+    "viewConditionId": "",
+    "unlockConditionId": "",
+    "impossibleShootingCharacterIds": []
+  },
+  {
+    "id": "photo_activity-23-0626-pool-00",
+    "name": "水着グラビア撮影",
+    "type": 2,
+    "thumbAssetId": "pool-00",
+    "stageId": "stage-photo-pool-00",
+    "costumeTypeIds": [
+      "mizg",
+      "mizg-water-ng"
+    ],
+    "forceCostumeTypeId": "mizg",
+    "photoShootingMotionSetId": "pool-00",
+    "isDeleteCharacter": true,
+    "order": 4,
+    "impossibleShootingCharacterIds": [
+      "char-mku"
+    ],
+    "viewConditionId": "",
+    "unlockConditionId": ""
+  },
+  {
+    "id": "photo_activity-23-0626-themepark-00",
+    "name": "テーマパーク",
+    "type": 2,
+    "thumbAssetId": "themepark-00",
+    "stageId": "stage-photo-themepark-00",
+    "costumeTypeIds": [
+      "casl",
+      "schl",
+      "trng",
+      "gene",
+      "idol-miku",
+      "kion",
+      "idol"
+    ],
+    "forceCostumeTypeId": "casl",
+    "photoShootingMotionSetId": "themepark-00",
+    "isDeleteCharacter": true,
+    "order": 2,
+    "viewConditionId": "",
+    "unlockConditionId": "",
+    "impossibleShootingCharacterIds": []
   }
 ]

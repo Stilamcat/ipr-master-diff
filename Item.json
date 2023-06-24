@@ -264,6 +264,17 @@
     "salePrice": 0
   },
   {
+    "id": "item-contest_medal-23-0626",
+    "name": "フォトメダル",
+    "assetId": "medal-contest",
+    "description": "フォトメダル交換所で様々なアイテムと交換できる\nイベント終了後はコインに変換されます",
+    "howToGet": "フォトオーディション",
+    "type": 3001,
+    "value": 1,
+    "order": 99,
+    "salePrice": 0
+  },
+  {
     "id": "item-contest_submitting-21-1228",
     "name": "イベントフィルム",
     "assetId": "photo-shooting-contest",
@@ -309,6 +320,17 @@
   },
   {
     "id": "item-contest_submitting-22-1227",
+    "name": "イベント撮影パス",
+    "assetId": "photo-shooting-contest-ticket",
+    "description": "フォトオーディションに写真を提出できる\nイベント終了後はコインに変換されます",
+    "howToGet": "フォトオーディション、プロモーション、ファンイベントなど",
+    "type": 6001,
+    "value": 1,
+    "order": 1,
+    "salePrice": 0
+  },
+  {
+    "id": "item-contest_submitting-23-0626",
     "name": "イベント撮影パス",
     "assetId": "photo-shooting-contest-ticket",
     "description": "フォトオーディションに写真を提出できる\nイベント終了後はコインに変換されます",
@@ -544,6 +566,17 @@
     "assetId": "medal-dress",
     "description": "復刻衣装メダル交換所で様々なアイテムと交換できる\n交換所終了後はコインに変換されます",
     "howToGet": "ショップなど",
+    "type": 10,
+    "value": 1,
+    "order": 140,
+    "salePrice": 0
+  },
+  {
+    "id": "item-exchange-medal-dress-23-0625",
+    "name": "2周年記念衣装メダル",
+    "assetId": "medal-dress-23-0625",
+    "description": "2周年記念衣装メダル交換所で2周年記念衣装と交換できる",
+    "howToGet": "2周年記念特別ログインボーナス",
     "type": 10,
     "value": 1,
     "order": 140,
@@ -891,6 +924,17 @@
     "salePrice": 0
   },
   {
+    "id": "item-gacha_point-fs-select-23-0626",
+    "name": "選べるアイプラフェスガチャPt",
+    "assetId": "gacha-point",
+    "description": "該当するガチャページの「ガチャPt」から\nガチャPtを消費してアイドルを獲得できる",
+    "type": 9,
+    "value": 1,
+    "order": 140,
+    "howToGet": "",
+    "salePrice": 0
+  },
+  {
     "id": "item-gacha_point-fs-set-bloom-21-1228",
     "name": "アイプラフェスガチャPt",
     "assetId": "gacha-point",
@@ -980,6 +1024,17 @@
   },
   {
     "id": "item-gacha_point-fs-set-bloom-23-0328",
+    "name": "アイプラフェスガチャPt",
+    "assetId": "gacha-point",
+    "description": "該当するガチャページの「ガチャPt」から\nガチャPtを消費してアイドルを獲得できる",
+    "type": 9,
+    "value": 1,
+    "order": 140,
+    "howToGet": "",
+    "salePrice": 0
+  },
+  {
+    "id": "item-gacha_point-fs-set-bloom-23-0626",
     "name": "アイプラフェスガチャPt",
     "assetId": "gacha-point",
     "description": "該当するガチャページの「ガチャPt」から\nガチャPtを消費してアイドルを獲得できる",
@@ -3014,6 +3069,17 @@
     "salePrice": 0
   },
   {
+    "id": "item-photo_contest_create-23-0626",
+    "name": "イベント現像フィルム",
+    "assetId": "photo-shooting-contest",
+    "description": "フォトオーディションの写真を現像できる\nイベント終了後はコインに変換されます",
+    "howToGet": "フォトオーディション",
+    "type": 6002,
+    "value": 1,
+    "order": 99,
+    "salePrice": 0
+  },
+  {
     "id": "item-photo_enhance",
     "name": "アドバンスフィルム",
     "assetId": "photo-enhance",
@@ -3220,6 +3286,17 @@
     "type": 11,
     "value": 8,
     "order": 24,
+    "salePrice": 0
+  },
+  {
+    "id": "item-photo_shooting-08-character_only-01",
+    "name": "専用フォト確定フィルムLv.8",
+    "assetId": "photo-shooting-only",
+    "description": "撮影を行うことができる\nアイドル専用★5確定で品質150のフォトを獲得できる",
+    "howToGet": "ショップなど",
+    "type": 11,
+    "value": 8,
+    "order": 241,
     "salePrice": 0
   },
   {

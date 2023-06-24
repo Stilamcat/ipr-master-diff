@@ -896,6 +896,56 @@
     ]
   },
   {
+    "homeTalkId": "home-talk-card-hrk-05-fest-00-talk-01",
+    "characterId": "char-hrk",
+    "placeType": 1,
+    "conditionId": "cd-st-read-st-card-hrk-05-fest-00-03",
+    "firstPriority": 9900,
+    "weight": 1,
+    "callPatternId": "call-pattern-card-hrk-05-fest-00",
+    "choiceText": "昔の遙子さんを知る人ですか…\n何か言われましたか？",
+    "managerText": "昔の遙子さんを知る人ですか…\n何か言われましたか？",
+    "reliability": 5,
+    "characterTalks": [
+      {
+        "text": "「遙子ちゃんは\n昔と変わってないね」って\n言われちゃった。",
+        "voiceAssetId": "sud_vo_home_hrk-05-fest-00_talk-01-01",
+        "motionAssetId": "mot_adv_chr_cmn_talk-012_in",
+        "additionMotionAssetId": "mot_all_chr_cmn_facial-034_in"
+      },
+      {
+        "text": "それは垢抜けないってことかしら？\nそれとも、成長してないって\nことなのかしら。",
+        "voiceAssetId": "sud_vo_home_hrk-05-fest-00_talk-01-02",
+        "motionAssetId": "mot_adv_chr_cmn_trouble-001_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "気になったから\n「どういうことですか？」\nって聞き返したら…",
+        "voiceAssetId": "sud_vo_home_hrk-05-fest-00_talk-01-03",
+        "motionAssetId": "mot_adv_chr_cmn_talk-008_in",
+        "additionMotionAssetId": "mot_all_chr_cmn_facial-034_in"
+      },
+      {
+        "text": "「どんな仕事も一生懸命\n取り組んで、いつも笑顔で\n周囲への気遣いを忘れない」",
+        "voiceAssetId": "sud_vo_home_hrk-05-fest-00_talk-01-04",
+        "motionAssetId": "mot_adv_chr_cmn_talk-017_in",
+        "additionMotionAssetId": "mot_all_chr_cmn_facial-001_in"
+      },
+      {
+        "text": "「だから遙子ちゃんは昔から\nスタッフの評判が凄くいいんだ」\nって言われちゃった。",
+        "voiceAssetId": "sud_vo_home_hrk-05-fest-00_talk-01-05",
+        "motionAssetId": "mot_adv_chr_cmn_glad-012_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "そんな風に思われてたなんて知らな\nかったから、ずっと変わらずにいて\n良かったって嬉しくなっちゃった。",
+        "voiceAssetId": "sud_vo_home_hrk-05-fest-00_talk-01-06",
+        "motionAssetId": "mot_adv_chr_cmn_glad-011_in",
+        "additionMotionAssetId": ""
+      }
+    ]
+  },
+  {
     "homeTalkId": "home-talk-card-hrk-05-idol-00-talk-01",
     "characterId": "char-hrk",
     "placeType": 1,
@@ -2563,6 +2613,56 @@
         "text": "{user}くんは\nもう少し女の子のこと\n学んだ方がいいかもね！",
         "voiceAssetId": "sud_vo_home_mna-05-fest-00_talk-01-05",
         "motionAssetId": "mot_adv_chr_cmn_angry-019_in",
+        "additionMotionAssetId": ""
+      }
+    ]
+  },
+  {
+    "homeTalkId": "home-talk-card-mna-05-fest-01-talk-01",
+    "characterId": "char-mna",
+    "placeType": 1,
+    "conditionId": "cd-st-read-st-card-mna-05-fest-01-03",
+    "firstPriority": 9900,
+    "weight": 1,
+    "callPatternId": "call-pattern-card-mna-05-fest-01",
+    "choiceText": "どんなライブのこと？",
+    "managerText": "どんなライブのこと？",
+    "reliability": 5,
+    "characterTalks": [
+      {
+        "text": "例えばカフェでギター一本で歌っ\nたりとか！　曲もジャズアレンジに\nしてみたり…とっても楽しそう！",
+        "voiceAssetId": "sud_vo_home_mna-05-fest-01_talk-01-01",
+        "motionAssetId": "mot_adv_chr_cmn_pos-009_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "……あ、いけないいけない。\nついつい妄想がはかどって\n話が脱線しちゃった。",
+        "voiceAssetId": "sud_vo_home_mna-05-fest-01_talk-01-02",
+        "motionAssetId": "mot_adv_chr_cmn_think-009_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "こういう、こじんまりしてるけど、\nとーってもあったかいライブって\nどう思う？",
+        "voiceAssetId": "sud_vo_home_mna-05-fest-01_talk-01-03",
+        "motionAssetId": "mot_adv_chr_cmn_ask-006_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "……よし、いい反応！\nそっか、そういうライブも好き\nなんだね。いいこと聞いたな～。",
+        "voiceAssetId": "sud_vo_home_mna-05-fest-01_talk-01-04",
+        "motionAssetId": "mot_adv_chr_cmn_pos-006_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "ん？　なんでそんな質問を\nするのかって？",
+        "voiceAssetId": "sud_vo_home_mna-05-fest-01_talk-01-05",
+        "motionAssetId": "mot_adv_chr_cmn_surp-001_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "さあ、なんでだろうねー？\n当日までの秘密でーす。\n楽しみに待っててね！",
+        "voiceAssetId": "sud_vo_home_mna-05-fest-01_talk-01-06",
+        "motionAssetId": "mot_adv_chr_cmn_pos-003_in",
         "additionMotionAssetId": ""
       }
     ]

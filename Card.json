@@ -1738,6 +1738,66 @@
     "homeTalks": []
   },
   {
+    "id": "card-hrk-05-fest-00",
+    "assetId": "hrk-05-fest-00",
+    "name": "共に繋いだ約束の音",
+    "description": "あの時伝えられなかった感謝の気持ちを……\r\n麻奈ちゃんと二人で重ねた想いを\r\n今日、私達が届けるから",
+    "type": 1,
+    "characterId": "char-hrk",
+    "initialRarity": 5,
+    "cardParameterId": "card-param-01",
+    "vocalRatioPermil": 276,
+    "danceRatioPermil": 435,
+    "visualRatioPermil": 319,
+    "staminaRatioPermil": 900,
+    "cardLevelReleaseId": "card_level_release_1",
+    "skillId1": "sk-hrk-05-fest-00-1",
+    "skillId2": "sk-hrk-05-fest-00-2",
+    "skillId3": "sk-hrk-05-fest-00-3",
+    "activityAbilityId": "aab-lesson_manager_exp_up",
+    "order": 291,
+    "releaseDate": "1687748400000",
+    "rewardCostumeId": "cos-hrk-anni-00",
+    "imageType1": 3,
+    "displayPositionX1": -0.095,
+    "displayScale1": 1.0,
+    "highlightDisplayPositionX1": 0.823,
+    "highlightDisplayPositionY1": 0.265,
+    "highlightDisplayScale1": 0.7,
+    "imageType2": 3,
+    "displayPositionX2": -0.095,
+    "displayScale2": 1.0,
+    "highlightDisplayPositionX2": 0.823,
+    "highlightDisplayPositionY2": 0.265,
+    "highlightDisplayScale2": 0.7,
+    "obtainMessage": "これは星見プロの過去と未来をつなぐ歌",
+    "stories": [
+      {
+        "storyId": "st-card-hrk-05-fest-00-01"
+      },
+      {
+        "storyId": "st-card-hrk-05-fest-00-02"
+      },
+      {
+        "storyId": "st-card-hrk-05-fest-00-03"
+      }
+    ],
+    "messages": [
+      {
+        "messageId": "message-card-hrk-05-fest-00",
+        "telephoneId": ""
+      },
+      {
+        "telephoneId": "tel-card-hrk-05-fest-00",
+        "messageId": ""
+      }
+    ],
+    "liveAbilityId": "",
+    "displayPositionY1": 0.0,
+    "displayPositionY2": 0.0,
+    "homeTalks": []
+  },
+  {
     "id": "card-hrk-05-idol-00",
     "assetId": "hrk-05-idol-00",
     "name": "とても頼れるお姉さん",
@@ -4441,6 +4501,62 @@
     "messages": [
       {
         "messageId": "message-card-mna-05-fest-00",
+        "telephoneId": ""
+      }
+    ],
+    "activityAbilityId": "",
+    "displayPositionY1": 0.0,
+    "displayPositionY2": 0.0,
+    "homeTalks": []
+  },
+  {
+    "id": "card-mna-05-fest-01",
+    "assetId": "mna-05-fest-01",
+    "name": "友と集めた音の欠片",
+    "description": "私、遙子ちゃんがいる星見プロに入れて良かった\nあんな素敵な子、絶対にこの事務所から\n逃がしちゃダメだよ？",
+    "type": 3,
+    "characterId": "char-mna",
+    "initialRarity": 5,
+    "cardParameterId": "card-param-01",
+    "vocalRatioPermil": 417,
+    "danceRatioPermil": 311,
+    "visualRatioPermil": 272,
+    "staminaRatioPermil": 1000,
+    "cardLevelReleaseId": "card_level_release_1",
+    "skillId1": "sk-mna-05-fest-01-1",
+    "skillId2": "sk-mna-05-fest-01-2",
+    "skillId3": "sk-mna-05-fest-01-3",
+    "liveAbilityId": "lba-technique_add",
+    "order": 290,
+    "releaseDate": "1687748400000",
+    "rewardCostumeId": "cos-mna-anni-00",
+    "imageType1": 3,
+    "displayPositionX1": 0.134,
+    "displayScale1": 1.0,
+    "highlightDisplayPositionX1": -0.248,
+    "highlightDisplayPositionY1": 0.269,
+    "highlightDisplayScale1": 0.8,
+    "imageType2": 3,
+    "displayPositionX2": 0.134,
+    "displayScale2": 1.0,
+    "highlightDisplayPositionX2": -0.248,
+    "highlightDisplayPositionY2": 0.269,
+    "highlightDisplayScale2": 0.8,
+    "obtainMessage": "いっっっぱい想いを込めて歌うから\n楽しみにしててね",
+    "stories": [
+      {
+        "storyId": "st-card-mna-05-fest-01-01"
+      },
+      {
+        "storyId": "st-card-mna-05-fest-01-02"
+      },
+      {
+        "storyId": "st-card-mna-05-fest-01-03"
+      }
+    ],
+    "messages": [
+      {
+        "messageId": "message-card-mna-05-fest-01",
         "telephoneId": ""
       }
     ],
@@ -7519,6 +7635,47 @@
     "highlightDisplayPositionX2": -0.045,
     "highlightDisplayPositionY2": 0.004,
     "highlightDisplayScale2": 0.8,
+    "liveAbilityId": "",
+    "activityAbilityId": "",
+    "rewardCostumeId": "",
+    "displayPositionY2": 0.0,
+    "obtainMessage": "",
+    "stories": [],
+    "messages": [],
+    "homeTalks": []
+  },
+  {
+    "id": "card-skr-02-eve-02",
+    "assetId": "skr-02-eve-02",
+    "name": "あなたに贈る感謝の花束",
+    "description": "いつもありがとうございます\nこれは、みんなの感謝の気持ちを込めた花束です\nこれからもずーっと私達のマネージャーでいてくださいね！",
+    "type": 2,
+    "characterId": "char-skr",
+    "initialRarity": 2,
+    "cardParameterId": "card-param-01",
+    "vocalRatioPermil": 278,
+    "danceRatioPermil": 402,
+    "visualRatioPermil": 320,
+    "staminaRatioPermil": 1000,
+    "cardLevelReleaseId": "card_level_release_1",
+    "skillId1": "sk-skr-02-eve-02-1",
+    "skillId2": "sk-skr-02-eve-02-2",
+    "skillId3": "sk-skr-02-eve-02-3",
+    "order": 292,
+    "releaseDate": "1687770000000",
+    "imageType1": 1,
+    "displayPositionX1": 0.015,
+    "displayPositionY1": 0.216,
+    "displayScale1": 1.0,
+    "highlightDisplayPositionX1": 0.018,
+    "highlightDisplayPositionY1": 0.288,
+    "highlightDisplayScale1": 1.0,
+    "imageType2": 2,
+    "displayPositionX2": -0.026,
+    "displayScale2": 1.0,
+    "highlightDisplayPositionX2": -0.047,
+    "highlightDisplayPositionY2": 0.204,
+    "highlightDisplayScale2": 0.7,
     "liveAbilityId": "",
     "activityAbilityId": "",
     "rewardCostumeId": "",

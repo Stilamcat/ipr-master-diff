@@ -11,7 +11,7 @@
     "forceCostumeTypeId": "mizg",
     "photoShootingMotionSetId": "bedrock-00",
     "isDeleteCharacter": true,
-    "order": 80,
+    "order": 9955,
     "impossibleShootingCharacterIds": [
       "char-mku"
     ],
@@ -29,12 +29,13 @@
       "casl",
       "gene",
       "idol-miku",
-      "kion"
+      "kion",
+      "waso"
     ],
     "forceCostumeTypeId": "casl",
     "photoShootingMotionSetId": "aj-00",
     "isDeleteCharacter": true,
-    "order": 1,
+    "order": 9915,
     "viewConditionId": "",
     "unlockConditionId": "",
     "impossibleShootingCharacterIds": []
@@ -56,7 +57,7 @@
     "forceCostumeTypeId": "casl",
     "photoShootingMotionSetId": "cafe-00",
     "isDeleteCharacter": true,
-    "order": 110,
+    "order": 9970,
     "unlockConditionId": "cd-manager_level_gte-20",
     "viewConditionId": "",
     "impossibleShootingCharacterIds": []
@@ -74,12 +75,13 @@
       "trng",
       "gene",
       "idol-miku",
-      "kion"
+      "kion",
+      "waso"
     ],
     "forceCostumeTypeId": "casl",
     "photoShootingMotionSetId": "catstreet-01",
     "isDeleteCharacter": true,
-    "order": 20,
+    "order": 9920,
     "viewConditionId": "cd-time-photo-shopping-01-close-22-1128",
     "unlockConditionId": "",
     "impossibleShootingCharacterIds": []
@@ -95,12 +97,13 @@
       "casl",
       "gene",
       "idol-miku",
-      "kion"
+      "kion",
+      "waso"
     ],
     "forceCostumeTypeId": "casl",
     "photoShootingMotionSetId": "ministage-00",
     "isDeleteCharacter": true,
-    "order": 150,
+    "order": 9990,
     "viewConditionId": "cd-manager_level_gte-45",
     "unlockConditionId": "cd-manager_level_gte-80",
     "impossibleShootingCharacterIds": []
@@ -115,12 +118,14 @@
       "idol",
       "casl",
       "gene",
-      "kion"
+      "kion",
+      "schl",
+      "waso"
     ],
     "forceCostumeTypeId": "casl",
     "photoShootingMotionSetId": "house-00",
     "isDeleteCharacter": true,
-    "order": 160,
+    "order": 9995,
     "viewConditionId": "cd-manager_level_gte-45",
     "unlockConditionId": "cd-manager_level_gte-90",
     "impossibleShootingCharacterIds": [
@@ -139,13 +144,36 @@
       "schl",
       "gene",
       "idol-miku",
-      "kion"
+      "kion",
+      "waso"
     ],
     "forceCostumeTypeId": "casl",
     "photoShootingMotionSetId": "square-00",
     "isDeleteCharacter": true,
-    "order": 100,
+    "order": 9965,
     "viewConditionId": "",
+    "unlockConditionId": "",
+    "impossibleShootingCharacterIds": []
+  },
+  {
+    "id": "photo_activity-garden",
+    "name": "ガーデンテラス",
+    "type": 1,
+    "thumbAssetId": "garden-02",
+    "stageId": "stage-photo-garden-02",
+    "costumeTypeIds": [
+      "idol",
+      "casl",
+      "schl",
+      "gene",
+      "idol-miku",
+      "kion"
+    ],
+    "forceCostumeTypeId": "casl",
+    "photoShootingMotionSetId": "garden-02",
+    "isDeleteCharacter": true,
+    "order": 9910,
+    "viewConditionId": "cd-time-photo-garden-02-01",
     "unlockConditionId": "",
     "impossibleShootingCharacterIds": []
   },
@@ -160,12 +188,14 @@
       "schl",
       "gene",
       "idol-miku",
-      "kion"
+      "kion",
+      "idol",
+      "waso"
     ],
     "forceCostumeTypeId": "casl",
     "photoShootingMotionSetId": "hillpark-00",
     "isDeleteCharacter": true,
-    "order": 40,
+    "order": 9930,
     "viewConditionId": "",
     "unlockConditionId": "",
     "impossibleShootingCharacterIds": []
@@ -182,7 +212,7 @@
     "forceCostumeTypeId": "mizg",
     "photoShootingMotionSetId": "spa-00",
     "isDeleteCharacter": true,
-    "order": 170,
+    "order": 10000,
     "viewConditionId": "cd-manager_level_gte-45",
     "unlockConditionId": "cd-manager_level_gte-115",
     "impossibleShootingCharacterIds": [
@@ -205,7 +235,7 @@
     "forceCostumeTypeId": "casl",
     "photoShootingMotionSetId": "living-01",
     "isDeleteCharacter": true,
-    "order": 50,
+    "order": 9935,
     "viewConditionId": "",
     "unlockConditionId": "",
     "impossibleShootingCharacterIds": []
@@ -224,12 +254,13 @@
       "mizg-water-ng",
       "gene",
       "idol-miku",
-      "kion"
+      "kion",
+      "waso"
     ],
     "forceCostumeTypeId": "casl",
     "photoShootingMotionSetId": "ministage-01",
     "isDeleteCharacter": true,
-    "order": 75,
+    "order": 9950,
     "viewConditionId": "cd-time-photo-ministage-01-close",
     "unlockConditionId": "",
     "impossibleShootingCharacterIds": []
@@ -247,7 +278,7 @@
     "forceCostumeTypeId": "mizg",
     "photoShootingMotionSetId": "pool-00",
     "isDeleteCharacter": true,
-    "order": 90,
+    "order": 9960,
     "impossibleShootingCharacterIds": [
       "char-mku"
     ],
@@ -264,12 +295,15 @@
       "idol",
       "casl",
       "gene",
-      "idol-miku"
+      "idol-miku",
+      "schl",
+      "waso",
+      "kion"
     ],
     "forceCostumeTypeId": "casl",
     "photoShootingMotionSetId": "quiz-00",
     "isDeleteCharacter": true,
-    "order": 30,
+    "order": 9925,
     "viewConditionId": "",
     "unlockConditionId": "",
     "impossibleShootingCharacterIds": []
@@ -286,12 +320,13 @@
       "schl",
       "gene",
       "idol-miku",
-      "kion"
+      "kion",
+      "waso"
     ],
     "forceCostumeTypeId": "casl",
     "photoShootingMotionSetId": "recording-00",
     "isDeleteCharacter": true,
-    "order": 140,
+    "order": 9985,
     "viewConditionId": "cd-manager_level_gte-45",
     "unlockConditionId": "cd-manager_level_gte-60",
     "impossibleShootingCharacterIds": []
@@ -308,12 +343,13 @@
       "trng",
       "gene",
       "idol-miku",
-      "kion"
+      "kion",
+      "idol"
     ],
     "forceCostumeTypeId": "casl",
     "photoShootingMotionSetId": "catstreet-00",
     "isDeleteCharacter": true,
-    "order": 130,
+    "order": 9980,
     "unlockConditionId": "cd-manager_level_gte-45",
     "viewConditionId": "",
     "impossibleShootingCharacterIds": []
@@ -332,12 +368,13 @@
       "idol",
       "trng",
       "schl",
-      "kion"
+      "kion",
+      "waso"
     ],
     "forceCostumeTypeId": "casl",
     "photoShootingMotionSetId": "studio-00",
     "isDeleteCharacter": true,
-    "order": 60,
+    "order": 9940,
     "viewConditionId": "",
     "unlockConditionId": "",
     "impossibleShootingCharacterIds": []
@@ -354,12 +391,13 @@
       "trng",
       "gene",
       "idol-miku",
-      "kion"
+      "kion",
+      "idol"
     ],
     "forceCostumeTypeId": "casl",
     "photoShootingMotionSetId": "themepark-00",
     "isDeleteCharacter": true,
-    "order": 70,
+    "order": 9945,
     "viewConditionId": "",
     "unlockConditionId": "",
     "impossibleShootingCharacterIds": []
@@ -374,12 +412,14 @@
       "casl",
       "gene",
       "idol-miku",
-      "kion"
+      "kion",
+      "idol",
+      "schl"
     ],
     "forceCostumeTypeId": "casl",
     "photoShootingMotionSetId": "cooking-00",
     "isDeleteCharacter": true,
-    "order": 120,
+    "order": 9975,
     "unlockConditionId": "cd-manager_level_gte-30",
     "viewConditionId": "",
     "impossibleShootingCharacterIds": []
