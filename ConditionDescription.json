@@ -3640,6 +3640,14 @@
     "description": "イベント期間(交換期間含む)"
   },
   {
+    "id": "cd-date-event-race-23-0703",
+    "description": "イベント期間(交換期間含まず)"
+  },
+  {
+    "id": "cd-date-event-race-23-0703-exchange",
+    "description": "イベント期間(交換期間含む)"
+  },
+  {
     "id": "cd-date-marathon-21-0930",
     "description": "イベント期間"
   },
@@ -6428,6 +6436,10 @@
     "description": "開始3日"
   },
   {
+    "id": "cd-event-23-0703-banner",
+    "description": "開始3日"
+  },
+  {
     "id": "cd-event-banner-marathon-raid-0128-0206",
     "description": "イベントバナー"
   },
@@ -6744,6 +6756,18 @@
     "description": "イベント期間(交換期間含む)&参加可能"
   },
   {
+    "id": "cd-event-race-23-0703",
+    "description": "イベント期間(交換期間含まず)&参加可能"
+  },
+  {
+    "id": "cd-event-race-23-0703-close",
+    "description": "マスの進行"
+  },
+  {
+    "id": "cd-event-race-23-0703-exchange",
+    "description": "イベント期間(交換期間含む)&参加可能"
+  },
+  {
     "id": "cd-event-story-01-23-0328",
     "description": "イベントストーリー\n「音色の輝石が紡ぐ未来」1話読了"
   },
@@ -6838,6 +6862,10 @@
   {
     "id": "cd-event-story-23-0528",
     "description": "イベントストーリー"
+  },
+  {
+    "id": "cd-event-story-23-0703",
+    "description": "イベントストーリー視聴可能"
   },
   {
     "id": "cd-event-story-read-001",
@@ -20728,6 +20756,430 @@
     "description": "Lv54クリア"
   },
   {
+    "id": "cd-race-qt-23-0703-medal-003",
+    "description": "MLv35またはLv2クリア"
+  },
+  {
+    "id": "cd-race-qt-23-0703-medal-004",
+    "description": "MLv35またはLv3クリア"
+  },
+  {
+    "id": "cd-race-qt-23-0703-medal-005",
+    "description": "MLv35またはLv4クリア"
+  },
+  {
+    "id": "cd-race-qt-23-0703-medal-006",
+    "description": "MLv35またはLv5クリア"
+  },
+  {
+    "id": "cd-race-qt-23-0703-medal-007",
+    "description": "MLv35またはLv6クリア"
+  },
+  {
+    "id": "cd-race-qt-23-0703-medal-008",
+    "description": "MLv35またはLv7クリア"
+  },
+  {
+    "id": "cd-race-qt-23-0703-medal-009",
+    "description": "MLv35またはLv8クリア"
+  },
+  {
+    "id": "cd-race-qt-23-0703-medal-010",
+    "description": "MLv100またはLv9クリア"
+  },
+  {
+    "id": "cd-race-qt-23-0703-medal-011",
+    "description": "MLv100またはLv10クリア"
+  },
+  {
+    "id": "cd-race-qt-23-0703-medal-012",
+    "description": "MLv100またはLv11クリア"
+  },
+  {
+    "id": "cd-race-qt-23-0703-medal-013",
+    "description": "MLv100またはLv12クリア"
+  },
+  {
+    "id": "cd-race-qt-23-0703-medal-014",
+    "description": "MLv100またはLv13クリア"
+  },
+  {
+    "id": "cd-race-qt-23-0703-medal-015",
+    "description": "MLv125またはLv14クリア"
+  },
+  {
+    "id": "cd-race-qt-23-0703-medal-016",
+    "description": "MLv125またはLv15クリア"
+  },
+  {
+    "id": "cd-race-qt-23-0703-medal-017",
+    "description": "MLv125またはLv16クリア"
+  },
+  {
+    "id": "cd-race-qt-23-0703-medal-018",
+    "description": "MLv125またはLv17クリア"
+  },
+  {
+    "id": "cd-race-qt-23-0703-medal-019",
+    "description": "MLv125またはLv18クリア"
+  },
+  {
+    "id": "cd-race-qt-23-0703-medal-020",
+    "description": "MLv155またはLv19クリア"
+  },
+  {
+    "id": "cd-race-qt-23-0703-medal-021",
+    "description": "MLv155またはLv20クリア"
+  },
+  {
+    "id": "cd-race-qt-23-0703-medal-022",
+    "description": "MLv155またはLv21クリア"
+  },
+  {
+    "id": "cd-race-qt-23-0703-medal-023",
+    "description": "MLv155またはLv22クリア"
+  },
+  {
+    "id": "cd-race-qt-23-0703-medal-024",
+    "description": "MLv155またはLv23クリア"
+  },
+  {
+    "id": "cd-race-qt-23-0703-medal-025",
+    "description": "MLv180またはLv24クリア"
+  },
+  {
+    "id": "cd-race-qt-23-0703-medal-026",
+    "description": "MLv180またはLv25クリア"
+  },
+  {
+    "id": "cd-race-qt-23-0703-medal-027",
+    "description": "MLv180またはLv26クリア"
+  },
+  {
+    "id": "cd-race-qt-23-0703-medal-028",
+    "description": "MLv180またはLv27クリア"
+  },
+  {
+    "id": "cd-race-qt-23-0703-medal-029",
+    "description": "MLv180またはLv28クリア"
+  },
+  {
+    "id": "cd-race-qt-23-0703-medal-030",
+    "description": "Lv29クリア"
+  },
+  {
+    "id": "cd-race-qt-23-0703-medal-031",
+    "description": "Lv30クリア"
+  },
+  {
+    "id": "cd-race-qt-23-0703-medal-032",
+    "description": "Lv31クリア"
+  },
+  {
+    "id": "cd-race-qt-23-0703-medal-033",
+    "description": "Lv32クリア"
+  },
+  {
+    "id": "cd-race-qt-23-0703-medal-034",
+    "description": "Lv33クリア"
+  },
+  {
+    "id": "cd-race-qt-23-0703-medal-035",
+    "description": "Lv34クリア"
+  },
+  {
+    "id": "cd-race-qt-23-0703-medal-036",
+    "description": "Lv35クリア"
+  },
+  {
+    "id": "cd-race-qt-23-0703-medal-037",
+    "description": "Lv36クリア"
+  },
+  {
+    "id": "cd-race-qt-23-0703-medal-038",
+    "description": "Lv37クリア"
+  },
+  {
+    "id": "cd-race-qt-23-0703-medal-039",
+    "description": "Lv38クリア"
+  },
+  {
+    "id": "cd-race-qt-23-0703-medal-040",
+    "description": "Lv39クリア"
+  },
+  {
+    "id": "cd-race-qt-23-0703-medal-041",
+    "description": "Lv40クリア"
+  },
+  {
+    "id": "cd-race-qt-23-0703-medal-042",
+    "description": "Lv41クリア"
+  },
+  {
+    "id": "cd-race-qt-23-0703-medal-043",
+    "description": "Lv42クリア"
+  },
+  {
+    "id": "cd-race-qt-23-0703-medal-044",
+    "description": "Lv43クリア"
+  },
+  {
+    "id": "cd-race-qt-23-0703-medal-045",
+    "description": "Lv44クリア"
+  },
+  {
+    "id": "cd-race-qt-23-0703-medal-046",
+    "description": "Lv45クリア"
+  },
+  {
+    "id": "cd-race-qt-23-0703-medal-047",
+    "description": "Lv46クリア"
+  },
+  {
+    "id": "cd-race-qt-23-0703-medal-048",
+    "description": "Lv47クリア"
+  },
+  {
+    "id": "cd-race-qt-23-0703-medal-049",
+    "description": "Lv48クリア"
+  },
+  {
+    "id": "cd-race-qt-23-0703-medal-050",
+    "description": "Lv49クリア"
+  },
+  {
+    "id": "cd-race-qt-23-0703-medal-051",
+    "description": "Lv50クリア"
+  },
+  {
+    "id": "cd-race-qt-23-0703-medal-052",
+    "description": "Lv51クリア"
+  },
+  {
+    "id": "cd-race-qt-23-0703-medal-053",
+    "description": "Lv52クリア"
+  },
+  {
+    "id": "cd-race-qt-23-0703-medal-054",
+    "description": "Lv53クリア"
+  },
+  {
+    "id": "cd-race-qt-23-0703-medal-055",
+    "description": "Lv54クリア"
+  },
+  {
+    "id": "cd-race-qt-23-0703-pt-003",
+    "description": "MLv35またはLv2クリア"
+  },
+  {
+    "id": "cd-race-qt-23-0703-pt-004",
+    "description": "MLv35またはLv3クリア"
+  },
+  {
+    "id": "cd-race-qt-23-0703-pt-005",
+    "description": "MLv35またはLv4クリア"
+  },
+  {
+    "id": "cd-race-qt-23-0703-pt-006",
+    "description": "MLv35またはLv5クリア"
+  },
+  {
+    "id": "cd-race-qt-23-0703-pt-007",
+    "description": "MLv35またはLv6クリア"
+  },
+  {
+    "id": "cd-race-qt-23-0703-pt-008",
+    "description": "MLv35またはLv7クリア"
+  },
+  {
+    "id": "cd-race-qt-23-0703-pt-009",
+    "description": "MLv35またはLv8クリア"
+  },
+  {
+    "id": "cd-race-qt-23-0703-pt-010",
+    "description": "MLv100またはLv9クリア"
+  },
+  {
+    "id": "cd-race-qt-23-0703-pt-011",
+    "description": "MLv100またはLv10クリア"
+  },
+  {
+    "id": "cd-race-qt-23-0703-pt-012",
+    "description": "MLv100またはLv11クリア"
+  },
+  {
+    "id": "cd-race-qt-23-0703-pt-013",
+    "description": "MLv100またはLv12クリア"
+  },
+  {
+    "id": "cd-race-qt-23-0703-pt-014",
+    "description": "MLv100またはLv13クリア"
+  },
+  {
+    "id": "cd-race-qt-23-0703-pt-015",
+    "description": "MLv125またはLv14クリア"
+  },
+  {
+    "id": "cd-race-qt-23-0703-pt-016",
+    "description": "MLv125またはLv15クリア"
+  },
+  {
+    "id": "cd-race-qt-23-0703-pt-017",
+    "description": "MLv125またはLv16クリア"
+  },
+  {
+    "id": "cd-race-qt-23-0703-pt-018",
+    "description": "MLv125またはLv17クリア"
+  },
+  {
+    "id": "cd-race-qt-23-0703-pt-019",
+    "description": "MLv125またはLv18クリア"
+  },
+  {
+    "id": "cd-race-qt-23-0703-pt-020",
+    "description": "MLv155またはLv19クリア"
+  },
+  {
+    "id": "cd-race-qt-23-0703-pt-021",
+    "description": "MLv155またはLv20クリア"
+  },
+  {
+    "id": "cd-race-qt-23-0703-pt-022",
+    "description": "MLv155またはLv21クリア"
+  },
+  {
+    "id": "cd-race-qt-23-0703-pt-023",
+    "description": "MLv155またはLv22クリア"
+  },
+  {
+    "id": "cd-race-qt-23-0703-pt-024",
+    "description": "MLv155またはLv23クリア"
+  },
+  {
+    "id": "cd-race-qt-23-0703-pt-025",
+    "description": "MLv180またはLv24クリア"
+  },
+  {
+    "id": "cd-race-qt-23-0703-pt-026",
+    "description": "MLv180またはLv25クリア"
+  },
+  {
+    "id": "cd-race-qt-23-0703-pt-027",
+    "description": "MLv180またはLv26クリア"
+  },
+  {
+    "id": "cd-race-qt-23-0703-pt-028",
+    "description": "MLv180またはLv27クリア"
+  },
+  {
+    "id": "cd-race-qt-23-0703-pt-029",
+    "description": "MLv180またはLv28クリア"
+  },
+  {
+    "id": "cd-race-qt-23-0703-pt-030",
+    "description": "Lv29クリア"
+  },
+  {
+    "id": "cd-race-qt-23-0703-pt-031",
+    "description": "Lv30クリア"
+  },
+  {
+    "id": "cd-race-qt-23-0703-pt-032",
+    "description": "Lv31クリア"
+  },
+  {
+    "id": "cd-race-qt-23-0703-pt-033",
+    "description": "Lv32クリア"
+  },
+  {
+    "id": "cd-race-qt-23-0703-pt-034",
+    "description": "Lv33クリア"
+  },
+  {
+    "id": "cd-race-qt-23-0703-pt-035",
+    "description": "Lv34クリア"
+  },
+  {
+    "id": "cd-race-qt-23-0703-pt-036",
+    "description": "Lv35クリア"
+  },
+  {
+    "id": "cd-race-qt-23-0703-pt-037",
+    "description": "Lv36クリア"
+  },
+  {
+    "id": "cd-race-qt-23-0703-pt-038",
+    "description": "Lv37クリア"
+  },
+  {
+    "id": "cd-race-qt-23-0703-pt-039",
+    "description": "Lv38クリア"
+  },
+  {
+    "id": "cd-race-qt-23-0703-pt-040",
+    "description": "Lv39クリア"
+  },
+  {
+    "id": "cd-race-qt-23-0703-pt-041",
+    "description": "Lv40クリア"
+  },
+  {
+    "id": "cd-race-qt-23-0703-pt-042",
+    "description": "Lv41クリア"
+  },
+  {
+    "id": "cd-race-qt-23-0703-pt-043",
+    "description": "Lv42クリア"
+  },
+  {
+    "id": "cd-race-qt-23-0703-pt-044",
+    "description": "Lv43クリア"
+  },
+  {
+    "id": "cd-race-qt-23-0703-pt-045",
+    "description": "Lv44クリア"
+  },
+  {
+    "id": "cd-race-qt-23-0703-pt-046",
+    "description": "Lv45クリア"
+  },
+  {
+    "id": "cd-race-qt-23-0703-pt-047",
+    "description": "Lv46クリア"
+  },
+  {
+    "id": "cd-race-qt-23-0703-pt-048",
+    "description": "Lv47クリア"
+  },
+  {
+    "id": "cd-race-qt-23-0703-pt-049",
+    "description": "Lv48クリア"
+  },
+  {
+    "id": "cd-race-qt-23-0703-pt-050",
+    "description": "Lv49クリア"
+  },
+  {
+    "id": "cd-race-qt-23-0703-pt-051",
+    "description": "Lv50クリア"
+  },
+  {
+    "id": "cd-race-qt-23-0703-pt-052",
+    "description": "Lv51クリア"
+  },
+  {
+    "id": "cd-race-qt-23-0703-pt-053",
+    "description": "Lv52クリア"
+  },
+  {
+    "id": "cd-race-qt-23-0703-pt-054",
+    "description": "Lv53クリア"
+  },
+  {
+    "id": "cd-race-qt-23-0703-pt-055",
+    "description": "Lv54クリア"
+  },
+  {
     "id": "cd-refresh_total_count_gte-50",
     "description": "リフレッシュを50回行う"
   },
@@ -20820,7 +21272,19 @@
     "description": ""
   },
   {
+    "id": "cd-reliability-ai-310",
+    "description": ""
+  },
+  {
+    "id": "cd-reliability-ai-345",
+    "description": ""
+  },
+  {
     "id": "cd-reliability-ai-35",
+    "description": ""
+  },
+  {
+    "id": "cd-reliability-ai-380",
     "description": ""
   },
   {
@@ -20828,11 +21292,31 @@
     "description": ""
   },
   {
+    "id": "cd-reliability-ai-415",
+    "description": ""
+  },
+  {
+    "id": "cd-reliability-ai-460",
+    "description": ""
+  },
+  {
     "id": "cd-reliability-ai-50",
     "description": ""
   },
   {
+    "id": "cd-reliability-ai-505",
+    "description": ""
+  },
+  {
     "id": "cd-reliability-ai-55",
+    "description": ""
+  },
+  {
+    "id": "cd-reliability-ai-550",
+    "description": ""
+  },
+  {
+    "id": "cd-reliability-ai-595",
     "description": ""
   },
   {
@@ -20940,7 +21424,19 @@
     "description": ""
   },
   {
+    "id": "cd-reliability-aoi-310",
+    "description": ""
+  },
+  {
+    "id": "cd-reliability-aoi-345",
+    "description": ""
+  },
+  {
     "id": "cd-reliability-aoi-35",
+    "description": ""
+  },
+  {
+    "id": "cd-reliability-aoi-380",
     "description": ""
   },
   {
@@ -20948,11 +21444,31 @@
     "description": ""
   },
   {
+    "id": "cd-reliability-aoi-415",
+    "description": ""
+  },
+  {
+    "id": "cd-reliability-aoi-460",
+    "description": ""
+  },
+  {
     "id": "cd-reliability-aoi-50",
     "description": ""
   },
   {
+    "id": "cd-reliability-aoi-505",
+    "description": ""
+  },
+  {
     "id": "cd-reliability-aoi-55",
+    "description": ""
+  },
+  {
+    "id": "cd-reliability-aoi-550",
+    "description": ""
+  },
+  {
+    "id": "cd-reliability-aoi-595",
     "description": ""
   },
   {
@@ -21060,7 +21576,19 @@
     "description": ""
   },
   {
+    "id": "cd-reliability-chs-310",
+    "description": ""
+  },
+  {
+    "id": "cd-reliability-chs-345",
+    "description": ""
+  },
+  {
     "id": "cd-reliability-chs-35",
+    "description": ""
+  },
+  {
+    "id": "cd-reliability-chs-380",
     "description": ""
   },
   {
@@ -21068,11 +21596,31 @@
     "description": ""
   },
   {
+    "id": "cd-reliability-chs-415",
+    "description": ""
+  },
+  {
+    "id": "cd-reliability-chs-460",
+    "description": ""
+  },
+  {
     "id": "cd-reliability-chs-50",
     "description": ""
   },
   {
+    "id": "cd-reliability-chs-505",
+    "description": ""
+  },
+  {
     "id": "cd-reliability-chs-55",
+    "description": ""
+  },
+  {
+    "id": "cd-reliability-chs-550",
+    "description": ""
+  },
+  {
+    "id": "cd-reliability-chs-595",
     "description": ""
   },
   {
@@ -21180,7 +21728,19 @@
     "description": ""
   },
   {
+    "id": "cd-reliability-hrk-310",
+    "description": ""
+  },
+  {
+    "id": "cd-reliability-hrk-345",
+    "description": ""
+  },
+  {
     "id": "cd-reliability-hrk-35",
+    "description": ""
+  },
+  {
+    "id": "cd-reliability-hrk-380",
     "description": ""
   },
   {
@@ -21188,11 +21748,31 @@
     "description": ""
   },
   {
+    "id": "cd-reliability-hrk-415",
+    "description": ""
+  },
+  {
+    "id": "cd-reliability-hrk-460",
+    "description": ""
+  },
+  {
     "id": "cd-reliability-hrk-50",
     "description": ""
   },
   {
+    "id": "cd-reliability-hrk-505",
+    "description": ""
+  },
+  {
     "id": "cd-reliability-hrk-55",
+    "description": ""
+  },
+  {
+    "id": "cd-reliability-hrk-550",
+    "description": ""
+  },
+  {
+    "id": "cd-reliability-hrk-595",
     "description": ""
   },
   {
@@ -21280,7 +21860,19 @@
     "description": ""
   },
   {
+    "id": "cd-reliability-kan-310",
+    "description": ""
+  },
+  {
+    "id": "cd-reliability-kan-345",
+    "description": ""
+  },
+  {
     "id": "cd-reliability-kan-35",
+    "description": ""
+  },
+  {
+    "id": "cd-reliability-kan-380",
     "description": ""
   },
   {
@@ -21288,11 +21880,31 @@
     "description": ""
   },
   {
+    "id": "cd-reliability-kan-415",
+    "description": ""
+  },
+  {
+    "id": "cd-reliability-kan-460",
+    "description": ""
+  },
+  {
     "id": "cd-reliability-kan-50",
     "description": ""
   },
   {
+    "id": "cd-reliability-kan-505",
+    "description": ""
+  },
+  {
     "id": "cd-reliability-kan-55",
+    "description": ""
+  },
+  {
+    "id": "cd-reliability-kan-550",
+    "description": ""
+  },
+  {
+    "id": "cd-reliability-kan-595",
     "description": ""
   },
   {
@@ -21392,7 +22004,19 @@
     "description": ""
   },
   {
+    "id": "cd-reliability-kkr-310",
+    "description": ""
+  },
+  {
+    "id": "cd-reliability-kkr-345",
+    "description": ""
+  },
+  {
     "id": "cd-reliability-kkr-35",
+    "description": ""
+  },
+  {
+    "id": "cd-reliability-kkr-380",
     "description": ""
   },
   {
@@ -21400,11 +22024,31 @@
     "description": ""
   },
   {
+    "id": "cd-reliability-kkr-415",
+    "description": ""
+  },
+  {
+    "id": "cd-reliability-kkr-460",
+    "description": ""
+  },
+  {
     "id": "cd-reliability-kkr-50",
     "description": ""
   },
   {
+    "id": "cd-reliability-kkr-505",
+    "description": ""
+  },
+  {
     "id": "cd-reliability-kkr-55",
+    "description": ""
+  },
+  {
+    "id": "cd-reliability-kkr-550",
+    "description": ""
+  },
+  {
+    "id": "cd-reliability-kkr-595",
     "description": ""
   },
   {
@@ -21492,7 +22136,19 @@
     "description": ""
   },
   {
+    "id": "cd-reliability-kor-310",
+    "description": ""
+  },
+  {
+    "id": "cd-reliability-kor-345",
+    "description": ""
+  },
+  {
     "id": "cd-reliability-kor-35",
+    "description": ""
+  },
+  {
+    "id": "cd-reliability-kor-380",
     "description": ""
   },
   {
@@ -21500,11 +22156,31 @@
     "description": ""
   },
   {
+    "id": "cd-reliability-kor-415",
+    "description": ""
+  },
+  {
+    "id": "cd-reliability-kor-460",
+    "description": ""
+  },
+  {
     "id": "cd-reliability-kor-50",
     "description": ""
   },
   {
+    "id": "cd-reliability-kor-505",
+    "description": ""
+  },
+  {
     "id": "cd-reliability-kor-55",
+    "description": ""
+  },
+  {
+    "id": "cd-reliability-kor-550",
+    "description": ""
+  },
+  {
+    "id": "cd-reliability-kor-595",
     "description": ""
   },
   {
@@ -21604,7 +22280,19 @@
     "description": ""
   },
   {
+    "id": "cd-reliability-ktn-310",
+    "description": ""
+  },
+  {
+    "id": "cd-reliability-ktn-345",
+    "description": ""
+  },
+  {
     "id": "cd-reliability-ktn-35",
+    "description": ""
+  },
+  {
+    "id": "cd-reliability-ktn-380",
     "description": ""
   },
   {
@@ -21612,11 +22300,31 @@
     "description": ""
   },
   {
+    "id": "cd-reliability-ktn-415",
+    "description": ""
+  },
+  {
+    "id": "cd-reliability-ktn-460",
+    "description": ""
+  },
+  {
     "id": "cd-reliability-ktn-50",
     "description": ""
   },
   {
+    "id": "cd-reliability-ktn-505",
+    "description": ""
+  },
+  {
     "id": "cd-reliability-ktn-55",
+    "description": ""
+  },
+  {
+    "id": "cd-reliability-ktn-550",
+    "description": ""
+  },
+  {
+    "id": "cd-reliability-ktn-595",
     "description": ""
   },
   {
@@ -21724,7 +22432,19 @@
     "description": ""
   },
   {
+    "id": "cd-reliability-mei-310",
+    "description": ""
+  },
+  {
+    "id": "cd-reliability-mei-345",
+    "description": ""
+  },
+  {
     "id": "cd-reliability-mei-35",
+    "description": ""
+  },
+  {
+    "id": "cd-reliability-mei-380",
     "description": ""
   },
   {
@@ -21732,11 +22452,31 @@
     "description": ""
   },
   {
+    "id": "cd-reliability-mei-415",
+    "description": ""
+  },
+  {
+    "id": "cd-reliability-mei-460",
+    "description": ""
+  },
+  {
     "id": "cd-reliability-mei-50",
     "description": ""
   },
   {
+    "id": "cd-reliability-mei-505",
+    "description": ""
+  },
+  {
     "id": "cd-reliability-mei-55",
+    "description": ""
+  },
+  {
+    "id": "cd-reliability-mei-550",
+    "description": ""
+  },
+  {
+    "id": "cd-reliability-mei-595",
     "description": ""
   },
   {
@@ -21824,7 +22564,19 @@
     "description": ""
   },
   {
+    "id": "cd-reliability-mhk-310",
+    "description": ""
+  },
+  {
+    "id": "cd-reliability-mhk-345",
+    "description": ""
+  },
+  {
     "id": "cd-reliability-mhk-35",
+    "description": ""
+  },
+  {
+    "id": "cd-reliability-mhk-380",
     "description": ""
   },
   {
@@ -21832,11 +22584,31 @@
     "description": ""
   },
   {
+    "id": "cd-reliability-mhk-415",
+    "description": ""
+  },
+  {
+    "id": "cd-reliability-mhk-460",
+    "description": ""
+  },
+  {
     "id": "cd-reliability-mhk-50",
     "description": ""
   },
   {
+    "id": "cd-reliability-mhk-505",
+    "description": ""
+  },
+  {
     "id": "cd-reliability-mhk-55",
+    "description": ""
+  },
+  {
+    "id": "cd-reliability-mhk-550",
+    "description": ""
+  },
+  {
+    "id": "cd-reliability-mhk-595",
     "description": ""
   },
   {
@@ -21920,7 +22692,19 @@
     "description": ""
   },
   {
+    "id": "cd-reliability-mna-310",
+    "description": ""
+  },
+  {
+    "id": "cd-reliability-mna-345",
+    "description": ""
+  },
+  {
     "id": "cd-reliability-mna-35",
+    "description": ""
+  },
+  {
+    "id": "cd-reliability-mna-380",
     "description": ""
   },
   {
@@ -21928,11 +22712,31 @@
     "description": ""
   },
   {
+    "id": "cd-reliability-mna-415",
+    "description": ""
+  },
+  {
+    "id": "cd-reliability-mna-460",
+    "description": ""
+  },
+  {
     "id": "cd-reliability-mna-50",
     "description": ""
   },
   {
+    "id": "cd-reliability-mna-505",
+    "description": ""
+  },
+  {
     "id": "cd-reliability-mna-55",
+    "description": ""
+  },
+  {
+    "id": "cd-reliability-mna-550",
+    "description": ""
+  },
+  {
+    "id": "cd-reliability-mna-595",
     "description": ""
   },
   {
@@ -22032,7 +22836,19 @@
     "description": ""
   },
   {
+    "id": "cd-reliability-ngs-310",
+    "description": ""
+  },
+  {
+    "id": "cd-reliability-ngs-345",
+    "description": ""
+  },
+  {
     "id": "cd-reliability-ngs-35",
+    "description": ""
+  },
+  {
+    "id": "cd-reliability-ngs-380",
     "description": ""
   },
   {
@@ -22040,11 +22856,31 @@
     "description": ""
   },
   {
+    "id": "cd-reliability-ngs-415",
+    "description": ""
+  },
+  {
+    "id": "cd-reliability-ngs-460",
+    "description": ""
+  },
+  {
     "id": "cd-reliability-ngs-50",
     "description": ""
   },
   {
+    "id": "cd-reliability-ngs-505",
+    "description": ""
+  },
+  {
     "id": "cd-reliability-ngs-55",
+    "description": ""
+  },
+  {
+    "id": "cd-reliability-ngs-550",
+    "description": ""
+  },
+  {
+    "id": "cd-reliability-ngs-595",
     "description": ""
   },
   {
@@ -22152,7 +22988,19 @@
     "description": ""
   },
   {
+    "id": "cd-reliability-rei-310",
+    "description": ""
+  },
+  {
+    "id": "cd-reliability-rei-345",
+    "description": ""
+  },
+  {
     "id": "cd-reliability-rei-35",
+    "description": ""
+  },
+  {
+    "id": "cd-reliability-rei-380",
     "description": ""
   },
   {
@@ -22160,11 +23008,31 @@
     "description": ""
   },
   {
+    "id": "cd-reliability-rei-415",
+    "description": ""
+  },
+  {
+    "id": "cd-reliability-rei-460",
+    "description": ""
+  },
+  {
     "id": "cd-reliability-rei-50",
     "description": ""
   },
   {
+    "id": "cd-reliability-rei-505",
+    "description": ""
+  },
+  {
     "id": "cd-reliability-rei-55",
+    "description": ""
+  },
+  {
+    "id": "cd-reliability-rei-550",
+    "description": ""
+  },
+  {
+    "id": "cd-reliability-rei-595",
     "description": ""
   },
   {
@@ -22272,7 +23140,19 @@
     "description": ""
   },
   {
+    "id": "cd-reliability-rio-310",
+    "description": ""
+  },
+  {
+    "id": "cd-reliability-rio-345",
+    "description": ""
+  },
+  {
     "id": "cd-reliability-rio-35",
+    "description": ""
+  },
+  {
+    "id": "cd-reliability-rio-380",
     "description": ""
   },
   {
@@ -22280,11 +23160,31 @@
     "description": ""
   },
   {
+    "id": "cd-reliability-rio-415",
+    "description": ""
+  },
+  {
+    "id": "cd-reliability-rio-460",
+    "description": ""
+  },
+  {
     "id": "cd-reliability-rio-50",
     "description": ""
   },
   {
+    "id": "cd-reliability-rio-505",
+    "description": ""
+  },
+  {
     "id": "cd-reliability-rio-55",
+    "description": ""
+  },
+  {
+    "id": "cd-reliability-rio-550",
+    "description": ""
+  },
+  {
+    "id": "cd-reliability-rio-595",
     "description": ""
   },
   {
@@ -22392,7 +23292,19 @@
     "description": ""
   },
   {
+    "id": "cd-reliability-rui-310",
+    "description": ""
+  },
+  {
+    "id": "cd-reliability-rui-345",
+    "description": ""
+  },
+  {
     "id": "cd-reliability-rui-35",
+    "description": ""
+  },
+  {
+    "id": "cd-reliability-rui-380",
     "description": ""
   },
   {
@@ -22400,11 +23312,31 @@
     "description": ""
   },
   {
+    "id": "cd-reliability-rui-415",
+    "description": ""
+  },
+  {
+    "id": "cd-reliability-rui-460",
+    "description": ""
+  },
+  {
     "id": "cd-reliability-rui-50",
     "description": ""
   },
   {
+    "id": "cd-reliability-rui-505",
+    "description": ""
+  },
+  {
     "id": "cd-reliability-rui-55",
+    "description": ""
+  },
+  {
+    "id": "cd-reliability-rui-550",
+    "description": ""
+  },
+  {
+    "id": "cd-reliability-rui-595",
     "description": ""
   },
   {
@@ -22512,7 +23444,19 @@
     "description": ""
   },
   {
+    "id": "cd-reliability-ski-310",
+    "description": ""
+  },
+  {
+    "id": "cd-reliability-ski-345",
+    "description": ""
+  },
+  {
     "id": "cd-reliability-ski-35",
+    "description": ""
+  },
+  {
+    "id": "cd-reliability-ski-380",
     "description": ""
   },
   {
@@ -22520,11 +23464,31 @@
     "description": ""
   },
   {
+    "id": "cd-reliability-ski-415",
+    "description": ""
+  },
+  {
+    "id": "cd-reliability-ski-460",
+    "description": ""
+  },
+  {
     "id": "cd-reliability-ski-50",
     "description": ""
   },
   {
+    "id": "cd-reliability-ski-505",
+    "description": ""
+  },
+  {
     "id": "cd-reliability-ski-55",
+    "description": ""
+  },
+  {
+    "id": "cd-reliability-ski-550",
+    "description": ""
+  },
+  {
+    "id": "cd-reliability-ski-595",
     "description": ""
   },
   {
@@ -22632,7 +23596,19 @@
     "description": ""
   },
   {
+    "id": "cd-reliability-skr-310",
+    "description": ""
+  },
+  {
+    "id": "cd-reliability-skr-345",
+    "description": ""
+  },
+  {
     "id": "cd-reliability-skr-35",
+    "description": ""
+  },
+  {
+    "id": "cd-reliability-skr-380",
     "description": ""
   },
   {
@@ -22640,11 +23616,31 @@
     "description": ""
   },
   {
+    "id": "cd-reliability-skr-415",
+    "description": ""
+  },
+  {
+    "id": "cd-reliability-skr-460",
+    "description": ""
+  },
+  {
     "id": "cd-reliability-skr-50",
     "description": ""
   },
   {
+    "id": "cd-reliability-skr-505",
+    "description": ""
+  },
+  {
     "id": "cd-reliability-skr-55",
+    "description": ""
+  },
+  {
+    "id": "cd-reliability-skr-550",
+    "description": ""
+  },
+  {
+    "id": "cd-reliability-skr-595",
     "description": ""
   },
   {
@@ -22752,7 +23748,19 @@
     "description": ""
   },
   {
+    "id": "cd-reliability-smr-310",
+    "description": ""
+  },
+  {
+    "id": "cd-reliability-smr-345",
+    "description": ""
+  },
+  {
     "id": "cd-reliability-smr-35",
+    "description": ""
+  },
+  {
+    "id": "cd-reliability-smr-380",
     "description": ""
   },
   {
@@ -22760,11 +23768,31 @@
     "description": ""
   },
   {
+    "id": "cd-reliability-smr-415",
+    "description": ""
+  },
+  {
+    "id": "cd-reliability-smr-460",
+    "description": ""
+  },
+  {
     "id": "cd-reliability-smr-50",
     "description": ""
   },
   {
+    "id": "cd-reliability-smr-505",
+    "description": ""
+  },
+  {
     "id": "cd-reliability-smr-55",
+    "description": ""
+  },
+  {
+    "id": "cd-reliability-smr-550",
+    "description": ""
+  },
+  {
+    "id": "cd-reliability-smr-595",
     "description": ""
   },
   {
@@ -22872,7 +23900,19 @@
     "description": ""
   },
   {
+    "id": "cd-reliability-suz-310",
+    "description": ""
+  },
+  {
+    "id": "cd-reliability-suz-345",
+    "description": ""
+  },
+  {
     "id": "cd-reliability-suz-35",
+    "description": ""
+  },
+  {
+    "id": "cd-reliability-suz-380",
     "description": ""
   },
   {
@@ -22880,11 +23920,31 @@
     "description": ""
   },
   {
+    "id": "cd-reliability-suz-415",
+    "description": ""
+  },
+  {
+    "id": "cd-reliability-suz-460",
+    "description": ""
+  },
+  {
     "id": "cd-reliability-suz-50",
     "description": ""
   },
   {
+    "id": "cd-reliability-suz-505",
+    "description": ""
+  },
+  {
     "id": "cd-reliability-suz-55",
+    "description": ""
+  },
+  {
+    "id": "cd-reliability-suz-550",
+    "description": ""
+  },
+  {
+    "id": "cd-reliability-suz-595",
     "description": ""
   },
   {
@@ -22992,7 +24052,19 @@
     "description": ""
   },
   {
+    "id": "cd-reliability-szk-310",
+    "description": ""
+  },
+  {
+    "id": "cd-reliability-szk-345",
+    "description": ""
+  },
+  {
     "id": "cd-reliability-szk-35",
+    "description": ""
+  },
+  {
+    "id": "cd-reliability-szk-380",
     "description": ""
   },
   {
@@ -23000,11 +24072,31 @@
     "description": ""
   },
   {
+    "id": "cd-reliability-szk-415",
+    "description": ""
+  },
+  {
+    "id": "cd-reliability-szk-460",
+    "description": ""
+  },
+  {
     "id": "cd-reliability-szk-50",
     "description": ""
   },
   {
+    "id": "cd-reliability-szk-505",
+    "description": ""
+  },
+  {
     "id": "cd-reliability-szk-55",
+    "description": ""
+  },
+  {
+    "id": "cd-reliability-szk-550",
+    "description": ""
+  },
+  {
+    "id": "cd-reliability-szk-595",
     "description": ""
   },
   {
@@ -23112,7 +24204,19 @@
     "description": ""
   },
   {
+    "id": "cd-reliability-yu-310",
+    "description": ""
+  },
+  {
+    "id": "cd-reliability-yu-345",
+    "description": ""
+  },
+  {
     "id": "cd-reliability-yu-35",
+    "description": ""
+  },
+  {
+    "id": "cd-reliability-yu-380",
     "description": ""
   },
   {
@@ -23120,11 +24224,31 @@
     "description": ""
   },
   {
+    "id": "cd-reliability-yu-415",
+    "description": ""
+  },
+  {
+    "id": "cd-reliability-yu-460",
+    "description": ""
+  },
+  {
     "id": "cd-reliability-yu-50",
     "description": ""
   },
   {
+    "id": "cd-reliability-yu-505",
+    "description": ""
+  },
+  {
     "id": "cd-reliability-yu-55",
+    "description": ""
+  },
+  {
+    "id": "cd-reliability-yu-550",
+    "description": ""
+  },
+  {
+    "id": "cd-reliability-yu-595",
     "description": ""
   },
   {
@@ -24454,6 +25578,18 @@
   {
     "id": "cd-shop_special-shop-23-0626-0703-mlv-120",
     "description": "2周年記念ショップ第2弾Mlv120制御"
+  },
+  {
+    "id": "cd-shop_special-shop-23-0701",
+    "description": "【お知らせ】2周年記念特別ショップ第2弾"
+  },
+  {
+    "id": "cd-shop_special-shop-23-0701-0706",
+    "description": "2周年記念特別ショップ第2弾"
+  },
+  {
+    "id": "cd-shop_special-shop-23-0701-0706-dokan",
+    "description": "【ドカン】2周年記念特別ショップ第2弾"
   },
   {
     "id": "cd-shop_special-shop-banner-21-1125",
@@ -29636,6 +30772,34 @@
     "description": "1日1回無料/恒常ガチャ"
   },
   {
+    "id": "cd-time-gacha-free-23-0701-01-banner",
+    "description": "10回無料/恒常ガチャ/バナー"
+  },
+  {
+    "id": "cd-time-gacha-free-23-0701-01-check",
+    "description": "該当のガチャを引いてるか判定/1回目 07/01"
+  },
+  {
+    "id": "cd-time-gacha-free-23-0701-01-open",
+    "description": "10回無料/恒常ガチャ/1回目 07/01"
+  },
+  {
+    "id": "cd-time-gacha-free-23-0701-02-check",
+    "description": "該当のガチャを引いてるか判定/2回目 07/02"
+  },
+  {
+    "id": "cd-time-gacha-free-23-0701-02-open",
+    "description": "10回無料/恒常ガチャ/2回目 07/02"
+  },
+  {
+    "id": "cd-time-gacha-free-23-0701-03-check",
+    "description": "該当のガチャを引いてるか判定/3回目 07/03"
+  },
+  {
+    "id": "cd-time-gacha-free-23-0701-03-open",
+    "description": "10回無料/恒常ガチャ/3回目 07/03"
+  },
+  {
     "id": "cd-time-gacha-free-ticket-1s-23-0131",
     "description": "無料ガチャチケット"
   },
@@ -32624,6 +33788,10 @@
     "description": "PVP_Sバナー 開始から3日間"
   },
   {
+    "id": "cd-time-pvp-23-0702-0704_s-banner",
+    "description": "PVP_Sバナー 開始から3日間"
+  },
+  {
     "id": "cd-time-questionnaire-21-0702-0709_s-banner",
     "description": "アンケート期間"
   },
@@ -32665,6 +33833,10 @@
   },
   {
     "id": "cd-time-questionnaire-23-0219-0226_s-banner",
+    "description": "アンケート期間"
+  },
+  {
+    "id": "cd-time-questionnaire-23-0701-0708_s-banner",
     "description": "アンケート期間"
   },
   {
@@ -32752,6 +33924,10 @@
     "description": "実装直前"
   },
   {
+    "id": "cd-time-user-birthday-before",
+    "description": "誕生日一週間前"
+  },
+  {
     "id": "cd-tour-area_clear-01-21-0630",
     "description": "エリア1クリア"
   },
@@ -32794,6 +33970,10 @@
   {
     "id": "cd-unlock-staff-level-23-0113",
     "description": "1/13 12:00~"
+  },
+  {
+    "id": "cd-user-birthday",
+    "description": "ユーザーバースデー当日"
   },
   {
     "id": "cd-wear-costume-cos-ai-idol-00",

@@ -11884,6 +11884,28 @@
     ]
   },
   {
+    "id": "cd-date-event-race-23-0703",
+    "settings": [
+      {
+        "term": {
+          "nowAfter": "1688353200000",
+          "nowBefore": "1689217199000"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-date-event-race-23-0703-exchange",
+    "settings": [
+      {
+        "term": {
+          "nowAfter": "1688353200000",
+          "nowBefore": "1689735599000"
+        }
+      }
+    ]
+  },
+  {
     "id": "cd-date-marathon-21-0930",
     "settings": [
       {
@@ -19254,6 +19276,29 @@
     ]
   },
   {
+    "id": "cd-event-23-0703-banner",
+    "settings": [
+      {
+        "satisfyCondition": {
+          "conditionId": "cd-clear-area-main-005"
+        },
+        "term": {
+          "nowAfter": "1688353200000",
+          "nowBefore": "1688612400000"
+        }
+      },
+      {
+        "satisfyCondition": {
+          "conditionId": "cd-clear-area-main-005"
+        },
+        "term": {
+          "nowAfter": "1688957999000",
+          "nowBefore": "1689217199000"
+        }
+      }
+    ]
+  },
+  {
     "id": "cd-event-banner-marathon-raid-0128-0206",
     "settings": [
       {
@@ -20305,6 +20350,45 @@
     ]
   },
   {
+    "id": "cd-event-race-23-0703",
+    "settings": [
+      {
+        "satisfyCondition": {
+          "conditionId": "cd-clear-area-main-005"
+        },
+        "term": {
+          "nowAfter": "1688353200000",
+          "nowBefore": "1689217199000"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-event-race-23-0703-close",
+    "settings": [
+      {
+        "term": {
+          "nowAfter": "1689735600000",
+          "nowBefore": "0"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-event-race-23-0703-exchange",
+    "settings": [
+      {
+        "satisfyCondition": {
+          "conditionId": "cd-clear-area-main-005"
+        },
+        "term": {
+          "nowAfter": "1688353200000",
+          "nowBefore": "1689735599000"
+        }
+      }
+    ]
+  },
+  {
     "id": "cd-event-story-01-23-0328",
     "settings": [
       {
@@ -20563,6 +20647,17 @@
       {
         "term": {
           "nowAfter": "1685242800000",
+          "nowBefore": "0"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-event-story-23-0703",
+    "settings": [
+      {
+        "term": {
+          "nowAfter": "1688353200000",
           "nowBefore": "0"
         }
       }
@@ -26949,7 +27044,7 @@
     "settings": [
       {
         "term": {
-          "nowAfter": "2532351600000",
+          "nowAfter": "1688137200000",
           "nowBefore": "0"
         }
       }
@@ -58709,6 +58804,966 @@
     ]
   },
   {
+    "id": "cd-race-qt-23-0703-medal-003",
+    "settings": [
+      {},
+      {
+        "managerLevel": {
+          "levelGte": 35,
+          "levelLte": 0
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-race-qt-23-0703-medal-004",
+    "settings": [
+      {},
+      {
+        "managerLevel": {
+          "levelGte": 35,
+          "levelLte": 0
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-race-qt-23-0703-medal-005",
+    "settings": [
+      {},
+      {
+        "managerLevel": {
+          "levelGte": 35,
+          "levelLte": 0
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-race-qt-23-0703-medal-006",
+    "settings": [
+      {},
+      {
+        "managerLevel": {
+          "levelGte": 35,
+          "levelLte": 0
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-race-qt-23-0703-medal-007",
+    "settings": [
+      {},
+      {
+        "managerLevel": {
+          "levelGte": 35,
+          "levelLte": 0
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-race-qt-23-0703-medal-008",
+    "settings": [
+      {},
+      {
+        "managerLevel": {
+          "levelGte": 35,
+          "levelLte": 0
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-race-qt-23-0703-medal-009",
+    "settings": [
+      {},
+      {
+        "managerLevel": {
+          "levelGte": 35,
+          "levelLte": 0
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-race-qt-23-0703-medal-010",
+    "settings": [
+      {},
+      {
+        "managerLevel": {
+          "levelGte": 100,
+          "levelLte": 0
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-race-qt-23-0703-medal-011",
+    "settings": [
+      {},
+      {
+        "managerLevel": {
+          "levelGte": 100,
+          "levelLte": 0
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-race-qt-23-0703-medal-012",
+    "settings": [
+      {},
+      {
+        "managerLevel": {
+          "levelGte": 100,
+          "levelLte": 0
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-race-qt-23-0703-medal-013",
+    "settings": [
+      {},
+      {
+        "managerLevel": {
+          "levelGte": 100,
+          "levelLte": 0
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-race-qt-23-0703-medal-014",
+    "settings": [
+      {},
+      {
+        "managerLevel": {
+          "levelGte": 100,
+          "levelLte": 0
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-race-qt-23-0703-medal-015",
+    "settings": [
+      {},
+      {
+        "managerLevel": {
+          "levelGte": 125,
+          "levelLte": 0
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-race-qt-23-0703-medal-016",
+    "settings": [
+      {},
+      {
+        "managerLevel": {
+          "levelGte": 125,
+          "levelLte": 0
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-race-qt-23-0703-medal-017",
+    "settings": [
+      {},
+      {
+        "managerLevel": {
+          "levelGte": 125,
+          "levelLte": 0
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-race-qt-23-0703-medal-018",
+    "settings": [
+      {},
+      {
+        "managerLevel": {
+          "levelGte": 125,
+          "levelLte": 0
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-race-qt-23-0703-medal-019",
+    "settings": [
+      {},
+      {
+        "managerLevel": {
+          "levelGte": 125,
+          "levelLte": 0
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-race-qt-23-0703-medal-020",
+    "settings": [
+      {},
+      {
+        "managerLevel": {
+          "levelGte": 155,
+          "levelLte": 0
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-race-qt-23-0703-medal-021",
+    "settings": [
+      {},
+      {
+        "managerLevel": {
+          "levelGte": 155,
+          "levelLte": 0
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-race-qt-23-0703-medal-022",
+    "settings": [
+      {},
+      {
+        "managerLevel": {
+          "levelGte": 155,
+          "levelLte": 0
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-race-qt-23-0703-medal-023",
+    "settings": [
+      {},
+      {
+        "managerLevel": {
+          "levelGte": 155,
+          "levelLte": 0
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-race-qt-23-0703-medal-024",
+    "settings": [
+      {},
+      {
+        "managerLevel": {
+          "levelGte": 155,
+          "levelLte": 0
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-race-qt-23-0703-medal-025",
+    "settings": [
+      {},
+      {
+        "managerLevel": {
+          "levelGte": 180,
+          "levelLte": 0
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-race-qt-23-0703-medal-026",
+    "settings": [
+      {},
+      {
+        "managerLevel": {
+          "levelGte": 180,
+          "levelLte": 0
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-race-qt-23-0703-medal-027",
+    "settings": [
+      {},
+      {
+        "managerLevel": {
+          "levelGte": 180,
+          "levelLte": 0
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-race-qt-23-0703-medal-028",
+    "settings": [
+      {},
+      {
+        "managerLevel": {
+          "levelGte": 180,
+          "levelLte": 0
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-race-qt-23-0703-medal-029",
+    "settings": [
+      {},
+      {
+        "managerLevel": {
+          "levelGte": 180,
+          "levelLte": 0
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-race-qt-23-0703-medal-030",
+    "settings": [
+      {}
+    ]
+  },
+  {
+    "id": "cd-race-qt-23-0703-medal-031",
+    "settings": [
+      {}
+    ]
+  },
+  {
+    "id": "cd-race-qt-23-0703-medal-032",
+    "settings": [
+      {}
+    ]
+  },
+  {
+    "id": "cd-race-qt-23-0703-medal-033",
+    "settings": [
+      {}
+    ]
+  },
+  {
+    "id": "cd-race-qt-23-0703-medal-034",
+    "settings": [
+      {}
+    ]
+  },
+  {
+    "id": "cd-race-qt-23-0703-medal-035",
+    "settings": [
+      {}
+    ]
+  },
+  {
+    "id": "cd-race-qt-23-0703-medal-036",
+    "settings": [
+      {}
+    ]
+  },
+  {
+    "id": "cd-race-qt-23-0703-medal-037",
+    "settings": [
+      {}
+    ]
+  },
+  {
+    "id": "cd-race-qt-23-0703-medal-038",
+    "settings": [
+      {}
+    ]
+  },
+  {
+    "id": "cd-race-qt-23-0703-medal-039",
+    "settings": [
+      {}
+    ]
+  },
+  {
+    "id": "cd-race-qt-23-0703-medal-040",
+    "settings": [
+      {}
+    ]
+  },
+  {
+    "id": "cd-race-qt-23-0703-medal-041",
+    "settings": [
+      {}
+    ]
+  },
+  {
+    "id": "cd-race-qt-23-0703-medal-042",
+    "settings": [
+      {}
+    ]
+  },
+  {
+    "id": "cd-race-qt-23-0703-medal-043",
+    "settings": [
+      {}
+    ]
+  },
+  {
+    "id": "cd-race-qt-23-0703-medal-044",
+    "settings": [
+      {}
+    ]
+  },
+  {
+    "id": "cd-race-qt-23-0703-medal-045",
+    "settings": [
+      {}
+    ]
+  },
+  {
+    "id": "cd-race-qt-23-0703-medal-046",
+    "settings": [
+      {}
+    ]
+  },
+  {
+    "id": "cd-race-qt-23-0703-medal-047",
+    "settings": [
+      {}
+    ]
+  },
+  {
+    "id": "cd-race-qt-23-0703-medal-048",
+    "settings": [
+      {}
+    ]
+  },
+  {
+    "id": "cd-race-qt-23-0703-medal-049",
+    "settings": [
+      {}
+    ]
+  },
+  {
+    "id": "cd-race-qt-23-0703-medal-050",
+    "settings": [
+      {}
+    ]
+  },
+  {
+    "id": "cd-race-qt-23-0703-medal-051",
+    "settings": [
+      {}
+    ]
+  },
+  {
+    "id": "cd-race-qt-23-0703-medal-052",
+    "settings": [
+      {}
+    ]
+  },
+  {
+    "id": "cd-race-qt-23-0703-medal-053",
+    "settings": [
+      {}
+    ]
+  },
+  {
+    "id": "cd-race-qt-23-0703-medal-054",
+    "settings": [
+      {}
+    ]
+  },
+  {
+    "id": "cd-race-qt-23-0703-medal-055",
+    "settings": [
+      {}
+    ]
+  },
+  {
+    "id": "cd-race-qt-23-0703-pt-003",
+    "settings": [
+      {},
+      {
+        "managerLevel": {
+          "levelGte": 35,
+          "levelLte": 0
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-race-qt-23-0703-pt-004",
+    "settings": [
+      {},
+      {
+        "managerLevel": {
+          "levelGte": 35,
+          "levelLte": 0
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-race-qt-23-0703-pt-005",
+    "settings": [
+      {},
+      {
+        "managerLevel": {
+          "levelGte": 35,
+          "levelLte": 0
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-race-qt-23-0703-pt-006",
+    "settings": [
+      {},
+      {
+        "managerLevel": {
+          "levelGte": 35,
+          "levelLte": 0
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-race-qt-23-0703-pt-007",
+    "settings": [
+      {},
+      {
+        "managerLevel": {
+          "levelGte": 35,
+          "levelLte": 0
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-race-qt-23-0703-pt-008",
+    "settings": [
+      {},
+      {
+        "managerLevel": {
+          "levelGte": 35,
+          "levelLte": 0
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-race-qt-23-0703-pt-009",
+    "settings": [
+      {},
+      {
+        "managerLevel": {
+          "levelGte": 35,
+          "levelLte": 0
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-race-qt-23-0703-pt-010",
+    "settings": [
+      {},
+      {
+        "managerLevel": {
+          "levelGte": 100,
+          "levelLte": 0
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-race-qt-23-0703-pt-011",
+    "settings": [
+      {},
+      {
+        "managerLevel": {
+          "levelGte": 100,
+          "levelLte": 0
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-race-qt-23-0703-pt-012",
+    "settings": [
+      {},
+      {
+        "managerLevel": {
+          "levelGte": 100,
+          "levelLte": 0
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-race-qt-23-0703-pt-013",
+    "settings": [
+      {},
+      {
+        "managerLevel": {
+          "levelGte": 100,
+          "levelLte": 0
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-race-qt-23-0703-pt-014",
+    "settings": [
+      {},
+      {
+        "managerLevel": {
+          "levelGte": 100,
+          "levelLte": 0
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-race-qt-23-0703-pt-015",
+    "settings": [
+      {},
+      {
+        "managerLevel": {
+          "levelGte": 125,
+          "levelLte": 0
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-race-qt-23-0703-pt-016",
+    "settings": [
+      {},
+      {
+        "managerLevel": {
+          "levelGte": 125,
+          "levelLte": 0
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-race-qt-23-0703-pt-017",
+    "settings": [
+      {},
+      {
+        "managerLevel": {
+          "levelGte": 125,
+          "levelLte": 0
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-race-qt-23-0703-pt-018",
+    "settings": [
+      {},
+      {
+        "managerLevel": {
+          "levelGte": 125,
+          "levelLte": 0
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-race-qt-23-0703-pt-019",
+    "settings": [
+      {},
+      {
+        "managerLevel": {
+          "levelGte": 125,
+          "levelLte": 0
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-race-qt-23-0703-pt-020",
+    "settings": [
+      {},
+      {
+        "managerLevel": {
+          "levelGte": 155,
+          "levelLte": 0
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-race-qt-23-0703-pt-021",
+    "settings": [
+      {},
+      {
+        "managerLevel": {
+          "levelGte": 155,
+          "levelLte": 0
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-race-qt-23-0703-pt-022",
+    "settings": [
+      {},
+      {
+        "managerLevel": {
+          "levelGte": 155,
+          "levelLte": 0
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-race-qt-23-0703-pt-023",
+    "settings": [
+      {},
+      {
+        "managerLevel": {
+          "levelGte": 155,
+          "levelLte": 0
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-race-qt-23-0703-pt-024",
+    "settings": [
+      {},
+      {
+        "managerLevel": {
+          "levelGte": 155,
+          "levelLte": 0
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-race-qt-23-0703-pt-025",
+    "settings": [
+      {},
+      {
+        "managerLevel": {
+          "levelGte": 180,
+          "levelLte": 0
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-race-qt-23-0703-pt-026",
+    "settings": [
+      {},
+      {
+        "managerLevel": {
+          "levelGte": 180,
+          "levelLte": 0
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-race-qt-23-0703-pt-027",
+    "settings": [
+      {},
+      {
+        "managerLevel": {
+          "levelGte": 180,
+          "levelLte": 0
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-race-qt-23-0703-pt-028",
+    "settings": [
+      {},
+      {
+        "managerLevel": {
+          "levelGte": 180,
+          "levelLte": 0
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-race-qt-23-0703-pt-029",
+    "settings": [
+      {},
+      {
+        "managerLevel": {
+          "levelGte": 180,
+          "levelLte": 0
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-race-qt-23-0703-pt-030",
+    "settings": [
+      {}
+    ]
+  },
+  {
+    "id": "cd-race-qt-23-0703-pt-031",
+    "settings": [
+      {}
+    ]
+  },
+  {
+    "id": "cd-race-qt-23-0703-pt-032",
+    "settings": [
+      {}
+    ]
+  },
+  {
+    "id": "cd-race-qt-23-0703-pt-033",
+    "settings": [
+      {}
+    ]
+  },
+  {
+    "id": "cd-race-qt-23-0703-pt-034",
+    "settings": [
+      {}
+    ]
+  },
+  {
+    "id": "cd-race-qt-23-0703-pt-035",
+    "settings": [
+      {}
+    ]
+  },
+  {
+    "id": "cd-race-qt-23-0703-pt-036",
+    "settings": [
+      {}
+    ]
+  },
+  {
+    "id": "cd-race-qt-23-0703-pt-037",
+    "settings": [
+      {}
+    ]
+  },
+  {
+    "id": "cd-race-qt-23-0703-pt-038",
+    "settings": [
+      {}
+    ]
+  },
+  {
+    "id": "cd-race-qt-23-0703-pt-039",
+    "settings": [
+      {}
+    ]
+  },
+  {
+    "id": "cd-race-qt-23-0703-pt-040",
+    "settings": [
+      {}
+    ]
+  },
+  {
+    "id": "cd-race-qt-23-0703-pt-041",
+    "settings": [
+      {}
+    ]
+  },
+  {
+    "id": "cd-race-qt-23-0703-pt-042",
+    "settings": [
+      {}
+    ]
+  },
+  {
+    "id": "cd-race-qt-23-0703-pt-043",
+    "settings": [
+      {}
+    ]
+  },
+  {
+    "id": "cd-race-qt-23-0703-pt-044",
+    "settings": [
+      {}
+    ]
+  },
+  {
+    "id": "cd-race-qt-23-0703-pt-045",
+    "settings": [
+      {}
+    ]
+  },
+  {
+    "id": "cd-race-qt-23-0703-pt-046",
+    "settings": [
+      {}
+    ]
+  },
+  {
+    "id": "cd-race-qt-23-0703-pt-047",
+    "settings": [
+      {}
+    ]
+  },
+  {
+    "id": "cd-race-qt-23-0703-pt-048",
+    "settings": [
+      {}
+    ]
+  },
+  {
+    "id": "cd-race-qt-23-0703-pt-049",
+    "settings": [
+      {}
+    ]
+  },
+  {
+    "id": "cd-race-qt-23-0703-pt-050",
+    "settings": [
+      {}
+    ]
+  },
+  {
+    "id": "cd-race-qt-23-0703-pt-051",
+    "settings": [
+      {}
+    ]
+  },
+  {
+    "id": "cd-race-qt-23-0703-pt-052",
+    "settings": [
+      {}
+    ]
+  },
+  {
+    "id": "cd-race-qt-23-0703-pt-053",
+    "settings": [
+      {}
+    ]
+  },
+  {
+    "id": "cd-race-qt-23-0703-pt-054",
+    "settings": [
+      {}
+    ]
+  },
+  {
+    "id": "cd-race-qt-23-0703-pt-055",
+    "settings": [
+      {}
+    ]
+  },
+  {
     "id": "cd-refresh_total_count_gte-50",
     "settings": [
       {
@@ -58961,12 +60016,57 @@
     ]
   },
   {
+    "id": "cd-reliability-ai-310",
+    "settings": [
+      {
+        "term": {
+          "nowAfter": "1688137200000",
+          "nowBefore": "0"
+        },
+        "reliability": {
+          "characterId": "char-ai",
+          "reliabilityGte": 310
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-reliability-ai-345",
+    "settings": [
+      {
+        "term": {
+          "nowAfter": "1688137200000",
+          "nowBefore": "0"
+        },
+        "reliability": {
+          "characterId": "char-ai",
+          "reliabilityGte": 345
+        }
+      }
+    ]
+  },
+  {
     "id": "cd-reliability-ai-35",
     "settings": [
       {
         "reliability": {
           "characterId": "char-ai",
           "reliabilityGte": 35
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-reliability-ai-380",
+    "settings": [
+      {
+        "term": {
+          "nowAfter": "1688137200000",
+          "nowBefore": "0"
+        },
+        "reliability": {
+          "characterId": "char-ai",
+          "reliabilityGte": 380
         }
       }
     ]
@@ -58983,6 +60083,36 @@
     ]
   },
   {
+    "id": "cd-reliability-ai-415",
+    "settings": [
+      {
+        "term": {
+          "nowAfter": "1688137200000",
+          "nowBefore": "0"
+        },
+        "reliability": {
+          "characterId": "char-ai",
+          "reliabilityGte": 415
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-reliability-ai-460",
+    "settings": [
+      {
+        "term": {
+          "nowAfter": "1688137200000",
+          "nowBefore": "0"
+        },
+        "reliability": {
+          "characterId": "char-ai",
+          "reliabilityGte": 460
+        }
+      }
+    ]
+  },
+  {
     "id": "cd-reliability-ai-50",
     "settings": [
       {
@@ -58994,12 +60124,57 @@
     ]
   },
   {
+    "id": "cd-reliability-ai-505",
+    "settings": [
+      {
+        "term": {
+          "nowAfter": "1688137200000",
+          "nowBefore": "0"
+        },
+        "reliability": {
+          "characterId": "char-ai",
+          "reliabilityGte": 505
+        }
+      }
+    ]
+  },
+  {
     "id": "cd-reliability-ai-55",
     "settings": [
       {
         "reliability": {
           "characterId": "char-ai",
           "reliabilityGte": 55
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-reliability-ai-550",
+    "settings": [
+      {
+        "term": {
+          "nowAfter": "1688137200000",
+          "nowBefore": "0"
+        },
+        "reliability": {
+          "characterId": "char-ai",
+          "reliabilityGte": 550
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-reliability-ai-595",
+    "settings": [
+      {
+        "term": {
+          "nowAfter": "1688137200000",
+          "nowBefore": "0"
+        },
+        "reliability": {
+          "characterId": "char-ai",
+          "reliabilityGte": 595
         }
       }
     ]
@@ -59291,12 +60466,57 @@
     ]
   },
   {
+    "id": "cd-reliability-aoi-310",
+    "settings": [
+      {
+        "term": {
+          "nowAfter": "1688137200000",
+          "nowBefore": "0"
+        },
+        "reliability": {
+          "characterId": "char-aoi",
+          "reliabilityGte": 310
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-reliability-aoi-345",
+    "settings": [
+      {
+        "term": {
+          "nowAfter": "1688137200000",
+          "nowBefore": "0"
+        },
+        "reliability": {
+          "characterId": "char-aoi",
+          "reliabilityGte": 345
+        }
+      }
+    ]
+  },
+  {
     "id": "cd-reliability-aoi-35",
     "settings": [
       {
         "reliability": {
           "characterId": "char-aoi",
           "reliabilityGte": 35
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-reliability-aoi-380",
+    "settings": [
+      {
+        "term": {
+          "nowAfter": "1688137200000",
+          "nowBefore": "0"
+        },
+        "reliability": {
+          "characterId": "char-aoi",
+          "reliabilityGte": 380
         }
       }
     ]
@@ -59313,6 +60533,36 @@
     ]
   },
   {
+    "id": "cd-reliability-aoi-415",
+    "settings": [
+      {
+        "term": {
+          "nowAfter": "1688137200000",
+          "nowBefore": "0"
+        },
+        "reliability": {
+          "characterId": "char-aoi",
+          "reliabilityGte": 415
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-reliability-aoi-460",
+    "settings": [
+      {
+        "term": {
+          "nowAfter": "1688137200000",
+          "nowBefore": "0"
+        },
+        "reliability": {
+          "characterId": "char-aoi",
+          "reliabilityGte": 460
+        }
+      }
+    ]
+  },
+  {
     "id": "cd-reliability-aoi-50",
     "settings": [
       {
@@ -59324,12 +60574,57 @@
     ]
   },
   {
+    "id": "cd-reliability-aoi-505",
+    "settings": [
+      {
+        "term": {
+          "nowAfter": "1688137200000",
+          "nowBefore": "0"
+        },
+        "reliability": {
+          "characterId": "char-aoi",
+          "reliabilityGte": 505
+        }
+      }
+    ]
+  },
+  {
     "id": "cd-reliability-aoi-55",
     "settings": [
       {
         "reliability": {
           "characterId": "char-aoi",
           "reliabilityGte": 55
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-reliability-aoi-550",
+    "settings": [
+      {
+        "term": {
+          "nowAfter": "1688137200000",
+          "nowBefore": "0"
+        },
+        "reliability": {
+          "characterId": "char-aoi",
+          "reliabilityGte": 550
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-reliability-aoi-595",
+    "settings": [
+      {
+        "term": {
+          "nowAfter": "1688137200000",
+          "nowBefore": "0"
+        },
+        "reliability": {
+          "characterId": "char-aoi",
+          "reliabilityGte": 595
         }
       }
     ]
@@ -59621,12 +60916,57 @@
     ]
   },
   {
+    "id": "cd-reliability-chs-310",
+    "settings": [
+      {
+        "term": {
+          "nowAfter": "1688137200000",
+          "nowBefore": "0"
+        },
+        "reliability": {
+          "characterId": "char-chs",
+          "reliabilityGte": 310
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-reliability-chs-345",
+    "settings": [
+      {
+        "term": {
+          "nowAfter": "1688137200000",
+          "nowBefore": "0"
+        },
+        "reliability": {
+          "characterId": "char-chs",
+          "reliabilityGte": 345
+        }
+      }
+    ]
+  },
+  {
     "id": "cd-reliability-chs-35",
     "settings": [
       {
         "reliability": {
           "characterId": "char-chs",
           "reliabilityGte": 35
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-reliability-chs-380",
+    "settings": [
+      {
+        "term": {
+          "nowAfter": "1688137200000",
+          "nowBefore": "0"
+        },
+        "reliability": {
+          "characterId": "char-chs",
+          "reliabilityGte": 380
         }
       }
     ]
@@ -59643,6 +60983,36 @@
     ]
   },
   {
+    "id": "cd-reliability-chs-415",
+    "settings": [
+      {
+        "term": {
+          "nowAfter": "1688137200000",
+          "nowBefore": "0"
+        },
+        "reliability": {
+          "characterId": "char-chs",
+          "reliabilityGte": 415
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-reliability-chs-460",
+    "settings": [
+      {
+        "term": {
+          "nowAfter": "1688137200000",
+          "nowBefore": "0"
+        },
+        "reliability": {
+          "characterId": "char-chs",
+          "reliabilityGte": 460
+        }
+      }
+    ]
+  },
+  {
     "id": "cd-reliability-chs-50",
     "settings": [
       {
@@ -59654,12 +61024,57 @@
     ]
   },
   {
+    "id": "cd-reliability-chs-505",
+    "settings": [
+      {
+        "term": {
+          "nowAfter": "1688137200000",
+          "nowBefore": "0"
+        },
+        "reliability": {
+          "characterId": "char-chs",
+          "reliabilityGte": 505
+        }
+      }
+    ]
+  },
+  {
     "id": "cd-reliability-chs-55",
     "settings": [
       {
         "reliability": {
           "characterId": "char-chs",
           "reliabilityGte": 55
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-reliability-chs-550",
+    "settings": [
+      {
+        "term": {
+          "nowAfter": "1688137200000",
+          "nowBefore": "0"
+        },
+        "reliability": {
+          "characterId": "char-chs",
+          "reliabilityGte": 550
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-reliability-chs-595",
+    "settings": [
+      {
+        "term": {
+          "nowAfter": "1688137200000",
+          "nowBefore": "0"
+        },
+        "reliability": {
+          "characterId": "char-chs",
+          "reliabilityGte": 595
         }
       }
     ]
@@ -59951,12 +61366,57 @@
     ]
   },
   {
+    "id": "cd-reliability-hrk-310",
+    "settings": [
+      {
+        "term": {
+          "nowAfter": "1688137200000",
+          "nowBefore": "0"
+        },
+        "reliability": {
+          "characterId": "char-hrk",
+          "reliabilityGte": 310
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-reliability-hrk-345",
+    "settings": [
+      {
+        "term": {
+          "nowAfter": "1688137200000",
+          "nowBefore": "0"
+        },
+        "reliability": {
+          "characterId": "char-hrk",
+          "reliabilityGte": 345
+        }
+      }
+    ]
+  },
+  {
     "id": "cd-reliability-hrk-35",
     "settings": [
       {
         "reliability": {
           "characterId": "char-hrk",
           "reliabilityGte": 35
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-reliability-hrk-380",
+    "settings": [
+      {
+        "term": {
+          "nowAfter": "1688137200000",
+          "nowBefore": "0"
+        },
+        "reliability": {
+          "characterId": "char-hrk",
+          "reliabilityGte": 380
         }
       }
     ]
@@ -59973,6 +61433,36 @@
     ]
   },
   {
+    "id": "cd-reliability-hrk-415",
+    "settings": [
+      {
+        "term": {
+          "nowAfter": "1688137200000",
+          "nowBefore": "0"
+        },
+        "reliability": {
+          "characterId": "char-hrk",
+          "reliabilityGte": 415
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-reliability-hrk-460",
+    "settings": [
+      {
+        "term": {
+          "nowAfter": "1688137200000",
+          "nowBefore": "0"
+        },
+        "reliability": {
+          "characterId": "char-hrk",
+          "reliabilityGte": 460
+        }
+      }
+    ]
+  },
+  {
     "id": "cd-reliability-hrk-50",
     "settings": [
       {
@@ -59984,12 +61474,57 @@
     ]
   },
   {
+    "id": "cd-reliability-hrk-505",
+    "settings": [
+      {
+        "term": {
+          "nowAfter": "1688137200000",
+          "nowBefore": "0"
+        },
+        "reliability": {
+          "characterId": "char-hrk",
+          "reliabilityGte": 505
+        }
+      }
+    ]
+  },
+  {
     "id": "cd-reliability-hrk-55",
     "settings": [
       {
         "reliability": {
           "characterId": "char-hrk",
           "reliabilityGte": 55
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-reliability-hrk-550",
+    "settings": [
+      {
+        "term": {
+          "nowAfter": "1688137200000",
+          "nowBefore": "0"
+        },
+        "reliability": {
+          "characterId": "char-hrk",
+          "reliabilityGte": 550
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-reliability-hrk-595",
+    "settings": [
+      {
+        "term": {
+          "nowAfter": "1688137200000",
+          "nowBefore": "0"
+        },
+        "reliability": {
+          "characterId": "char-hrk",
+          "reliabilityGte": 595
         }
       }
     ]
@@ -60226,12 +61761,57 @@
     ]
   },
   {
+    "id": "cd-reliability-kan-310",
+    "settings": [
+      {
+        "term": {
+          "nowAfter": "1688137200000",
+          "nowBefore": "0"
+        },
+        "reliability": {
+          "characterId": "char-kan",
+          "reliabilityGte": 310
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-reliability-kan-345",
+    "settings": [
+      {
+        "term": {
+          "nowAfter": "1688137200000",
+          "nowBefore": "0"
+        },
+        "reliability": {
+          "characterId": "char-kan",
+          "reliabilityGte": 345
+        }
+      }
+    ]
+  },
+  {
     "id": "cd-reliability-kan-35",
     "settings": [
       {
         "reliability": {
           "characterId": "char-kan",
           "reliabilityGte": 35
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-reliability-kan-380",
+    "settings": [
+      {
+        "term": {
+          "nowAfter": "1688137200000",
+          "nowBefore": "0"
+        },
+        "reliability": {
+          "characterId": "char-kan",
+          "reliabilityGte": 380
         }
       }
     ]
@@ -60248,6 +61828,36 @@
     ]
   },
   {
+    "id": "cd-reliability-kan-415",
+    "settings": [
+      {
+        "term": {
+          "nowAfter": "1688137200000",
+          "nowBefore": "0"
+        },
+        "reliability": {
+          "characterId": "char-kan",
+          "reliabilityGte": 415
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-reliability-kan-460",
+    "settings": [
+      {
+        "term": {
+          "nowAfter": "1688137200000",
+          "nowBefore": "0"
+        },
+        "reliability": {
+          "characterId": "char-kan",
+          "reliabilityGte": 460
+        }
+      }
+    ]
+  },
+  {
     "id": "cd-reliability-kan-50",
     "settings": [
       {
@@ -60259,12 +61869,57 @@
     ]
   },
   {
+    "id": "cd-reliability-kan-505",
+    "settings": [
+      {
+        "term": {
+          "nowAfter": "1688137200000",
+          "nowBefore": "0"
+        },
+        "reliability": {
+          "characterId": "char-kan",
+          "reliabilityGte": 505
+        }
+      }
+    ]
+  },
+  {
     "id": "cd-reliability-kan-55",
     "settings": [
       {
         "reliability": {
           "characterId": "char-kan",
           "reliabilityGte": 55
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-reliability-kan-550",
+    "settings": [
+      {
+        "term": {
+          "nowAfter": "1688137200000",
+          "nowBefore": "0"
+        },
+        "reliability": {
+          "characterId": "char-kan",
+          "reliabilityGte": 550
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-reliability-kan-595",
+    "settings": [
+      {
+        "term": {
+          "nowAfter": "1688137200000",
+          "nowBefore": "0"
+        },
+        "reliability": {
+          "characterId": "char-kan",
+          "reliabilityGte": 595
         }
       }
     ]
@@ -60534,12 +62189,57 @@
     ]
   },
   {
+    "id": "cd-reliability-kkr-310",
+    "settings": [
+      {
+        "term": {
+          "nowAfter": "1688137200000",
+          "nowBefore": "0"
+        },
+        "reliability": {
+          "characterId": "char-kkr",
+          "reliabilityGte": 310
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-reliability-kkr-345",
+    "settings": [
+      {
+        "term": {
+          "nowAfter": "1688137200000",
+          "nowBefore": "0"
+        },
+        "reliability": {
+          "characterId": "char-kkr",
+          "reliabilityGte": 345
+        }
+      }
+    ]
+  },
+  {
     "id": "cd-reliability-kkr-35",
     "settings": [
       {
         "reliability": {
           "characterId": "char-kkr",
           "reliabilityGte": 35
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-reliability-kkr-380",
+    "settings": [
+      {
+        "term": {
+          "nowAfter": "1688137200000",
+          "nowBefore": "0"
+        },
+        "reliability": {
+          "characterId": "char-kkr",
+          "reliabilityGte": 380
         }
       }
     ]
@@ -60556,6 +62256,36 @@
     ]
   },
   {
+    "id": "cd-reliability-kkr-415",
+    "settings": [
+      {
+        "term": {
+          "nowAfter": "1688137200000",
+          "nowBefore": "0"
+        },
+        "reliability": {
+          "characterId": "char-kkr",
+          "reliabilityGte": 415
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-reliability-kkr-460",
+    "settings": [
+      {
+        "term": {
+          "nowAfter": "1688137200000",
+          "nowBefore": "0"
+        },
+        "reliability": {
+          "characterId": "char-kkr",
+          "reliabilityGte": 460
+        }
+      }
+    ]
+  },
+  {
     "id": "cd-reliability-kkr-50",
     "settings": [
       {
@@ -60567,12 +62297,57 @@
     ]
   },
   {
+    "id": "cd-reliability-kkr-505",
+    "settings": [
+      {
+        "term": {
+          "nowAfter": "1688137200000",
+          "nowBefore": "0"
+        },
+        "reliability": {
+          "characterId": "char-kkr",
+          "reliabilityGte": 505
+        }
+      }
+    ]
+  },
+  {
     "id": "cd-reliability-kkr-55",
     "settings": [
       {
         "reliability": {
           "characterId": "char-kkr",
           "reliabilityGte": 55
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-reliability-kkr-550",
+    "settings": [
+      {
+        "term": {
+          "nowAfter": "1688137200000",
+          "nowBefore": "0"
+        },
+        "reliability": {
+          "characterId": "char-kkr",
+          "reliabilityGte": 550
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-reliability-kkr-595",
+    "settings": [
+      {
+        "term": {
+          "nowAfter": "1688137200000",
+          "nowBefore": "0"
+        },
+        "reliability": {
+          "characterId": "char-kkr",
+          "reliabilityGte": 595
         }
       }
     ]
@@ -60809,12 +62584,57 @@
     ]
   },
   {
+    "id": "cd-reliability-kor-310",
+    "settings": [
+      {
+        "term": {
+          "nowAfter": "1688137200000",
+          "nowBefore": "0"
+        },
+        "reliability": {
+          "characterId": "char-kor",
+          "reliabilityGte": 310
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-reliability-kor-345",
+    "settings": [
+      {
+        "term": {
+          "nowAfter": "1688137200000",
+          "nowBefore": "0"
+        },
+        "reliability": {
+          "characterId": "char-kor",
+          "reliabilityGte": 345
+        }
+      }
+    ]
+  },
+  {
     "id": "cd-reliability-kor-35",
     "settings": [
       {
         "reliability": {
           "characterId": "char-kor",
           "reliabilityGte": 35
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-reliability-kor-380",
+    "settings": [
+      {
+        "term": {
+          "nowAfter": "1688137200000",
+          "nowBefore": "0"
+        },
+        "reliability": {
+          "characterId": "char-kor",
+          "reliabilityGte": 380
         }
       }
     ]
@@ -60831,6 +62651,36 @@
     ]
   },
   {
+    "id": "cd-reliability-kor-415",
+    "settings": [
+      {
+        "term": {
+          "nowAfter": "1688137200000",
+          "nowBefore": "0"
+        },
+        "reliability": {
+          "characterId": "char-kor",
+          "reliabilityGte": 415
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-reliability-kor-460",
+    "settings": [
+      {
+        "term": {
+          "nowAfter": "1688137200000",
+          "nowBefore": "0"
+        },
+        "reliability": {
+          "characterId": "char-kor",
+          "reliabilityGte": 460
+        }
+      }
+    ]
+  },
+  {
     "id": "cd-reliability-kor-50",
     "settings": [
       {
@@ -60842,12 +62692,57 @@
     ]
   },
   {
+    "id": "cd-reliability-kor-505",
+    "settings": [
+      {
+        "term": {
+          "nowAfter": "1688137200000",
+          "nowBefore": "0"
+        },
+        "reliability": {
+          "characterId": "char-kor",
+          "reliabilityGte": 505
+        }
+      }
+    ]
+  },
+  {
     "id": "cd-reliability-kor-55",
     "settings": [
       {
         "reliability": {
           "characterId": "char-kor",
           "reliabilityGte": 55
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-reliability-kor-550",
+    "settings": [
+      {
+        "term": {
+          "nowAfter": "1688137200000",
+          "nowBefore": "0"
+        },
+        "reliability": {
+          "characterId": "char-kor",
+          "reliabilityGte": 550
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-reliability-kor-595",
+    "settings": [
+      {
+        "term": {
+          "nowAfter": "1688137200000",
+          "nowBefore": "0"
+        },
+        "reliability": {
+          "characterId": "char-kor",
+          "reliabilityGte": 595
         }
       }
     ]
@@ -61117,12 +63012,57 @@
     ]
   },
   {
+    "id": "cd-reliability-ktn-310",
+    "settings": [
+      {
+        "term": {
+          "nowAfter": "1688137200000",
+          "nowBefore": "0"
+        },
+        "reliability": {
+          "characterId": "char-ktn",
+          "reliabilityGte": 310
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-reliability-ktn-345",
+    "settings": [
+      {
+        "term": {
+          "nowAfter": "1688137200000",
+          "nowBefore": "0"
+        },
+        "reliability": {
+          "characterId": "char-ktn",
+          "reliabilityGte": 345
+        }
+      }
+    ]
+  },
+  {
     "id": "cd-reliability-ktn-35",
     "settings": [
       {
         "reliability": {
           "characterId": "char-ktn",
           "reliabilityGte": 35
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-reliability-ktn-380",
+    "settings": [
+      {
+        "term": {
+          "nowAfter": "1688137200000",
+          "nowBefore": "0"
+        },
+        "reliability": {
+          "characterId": "char-ktn",
+          "reliabilityGte": 380
         }
       }
     ]
@@ -61139,6 +63079,36 @@
     ]
   },
   {
+    "id": "cd-reliability-ktn-415",
+    "settings": [
+      {
+        "term": {
+          "nowAfter": "1688137200000",
+          "nowBefore": "0"
+        },
+        "reliability": {
+          "characterId": "char-ktn",
+          "reliabilityGte": 415
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-reliability-ktn-460",
+    "settings": [
+      {
+        "term": {
+          "nowAfter": "1688137200000",
+          "nowBefore": "0"
+        },
+        "reliability": {
+          "characterId": "char-ktn",
+          "reliabilityGte": 460
+        }
+      }
+    ]
+  },
+  {
     "id": "cd-reliability-ktn-50",
     "settings": [
       {
@@ -61150,12 +63120,57 @@
     ]
   },
   {
+    "id": "cd-reliability-ktn-505",
+    "settings": [
+      {
+        "term": {
+          "nowAfter": "1688137200000",
+          "nowBefore": "0"
+        },
+        "reliability": {
+          "characterId": "char-ktn",
+          "reliabilityGte": 505
+        }
+      }
+    ]
+  },
+  {
     "id": "cd-reliability-ktn-55",
     "settings": [
       {
         "reliability": {
           "characterId": "char-ktn",
           "reliabilityGte": 55
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-reliability-ktn-550",
+    "settings": [
+      {
+        "term": {
+          "nowAfter": "1688137200000",
+          "nowBefore": "0"
+        },
+        "reliability": {
+          "characterId": "char-ktn",
+          "reliabilityGte": 550
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-reliability-ktn-595",
+    "settings": [
+      {
+        "term": {
+          "nowAfter": "1688137200000",
+          "nowBefore": "0"
+        },
+        "reliability": {
+          "characterId": "char-ktn",
+          "reliabilityGte": 595
         }
       }
     ]
@@ -61447,12 +63462,57 @@
     ]
   },
   {
+    "id": "cd-reliability-mei-310",
+    "settings": [
+      {
+        "term": {
+          "nowAfter": "1688137200000",
+          "nowBefore": "0"
+        },
+        "reliability": {
+          "characterId": "char-mei",
+          "reliabilityGte": 310
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-reliability-mei-345",
+    "settings": [
+      {
+        "term": {
+          "nowAfter": "1688137200000",
+          "nowBefore": "0"
+        },
+        "reliability": {
+          "characterId": "char-mei",
+          "reliabilityGte": 345
+        }
+      }
+    ]
+  },
+  {
     "id": "cd-reliability-mei-35",
     "settings": [
       {
         "reliability": {
           "characterId": "char-mei",
           "reliabilityGte": 35
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-reliability-mei-380",
+    "settings": [
+      {
+        "term": {
+          "nowAfter": "1688137200000",
+          "nowBefore": "0"
+        },
+        "reliability": {
+          "characterId": "char-mei",
+          "reliabilityGte": 380
         }
       }
     ]
@@ -61469,6 +63529,36 @@
     ]
   },
   {
+    "id": "cd-reliability-mei-415",
+    "settings": [
+      {
+        "term": {
+          "nowAfter": "1688137200000",
+          "nowBefore": "0"
+        },
+        "reliability": {
+          "characterId": "char-mei",
+          "reliabilityGte": 415
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-reliability-mei-460",
+    "settings": [
+      {
+        "term": {
+          "nowAfter": "1688137200000",
+          "nowBefore": "0"
+        },
+        "reliability": {
+          "characterId": "char-mei",
+          "reliabilityGte": 460
+        }
+      }
+    ]
+  },
+  {
     "id": "cd-reliability-mei-50",
     "settings": [
       {
@@ -61480,12 +63570,57 @@
     ]
   },
   {
+    "id": "cd-reliability-mei-505",
+    "settings": [
+      {
+        "term": {
+          "nowAfter": "1688137200000",
+          "nowBefore": "0"
+        },
+        "reliability": {
+          "characterId": "char-mei",
+          "reliabilityGte": 505
+        }
+      }
+    ]
+  },
+  {
     "id": "cd-reliability-mei-55",
     "settings": [
       {
         "reliability": {
           "characterId": "char-mei",
           "reliabilityGte": 55
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-reliability-mei-550",
+    "settings": [
+      {
+        "term": {
+          "nowAfter": "1688137200000",
+          "nowBefore": "0"
+        },
+        "reliability": {
+          "characterId": "char-mei",
+          "reliabilityGte": 550
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-reliability-mei-595",
+    "settings": [
+      {
+        "term": {
+          "nowAfter": "1688137200000",
+          "nowBefore": "0"
+        },
+        "reliability": {
+          "characterId": "char-mei",
+          "reliabilityGte": 595
         }
       }
     ]
@@ -61722,12 +63857,57 @@
     ]
   },
   {
+    "id": "cd-reliability-mhk-310",
+    "settings": [
+      {
+        "term": {
+          "nowAfter": "1688137200000",
+          "nowBefore": "0"
+        },
+        "reliability": {
+          "characterId": "char-mhk",
+          "reliabilityGte": 310
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-reliability-mhk-345",
+    "settings": [
+      {
+        "term": {
+          "nowAfter": "1688137200000",
+          "nowBefore": "0"
+        },
+        "reliability": {
+          "characterId": "char-mhk",
+          "reliabilityGte": 345
+        }
+      }
+    ]
+  },
+  {
     "id": "cd-reliability-mhk-35",
     "settings": [
       {
         "reliability": {
           "characterId": "char-mhk",
           "reliabilityGte": 35
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-reliability-mhk-380",
+    "settings": [
+      {
+        "term": {
+          "nowAfter": "1688137200000",
+          "nowBefore": "0"
+        },
+        "reliability": {
+          "characterId": "char-mhk",
+          "reliabilityGte": 380
         }
       }
     ]
@@ -61744,6 +63924,36 @@
     ]
   },
   {
+    "id": "cd-reliability-mhk-415",
+    "settings": [
+      {
+        "term": {
+          "nowAfter": "1688137200000",
+          "nowBefore": "0"
+        },
+        "reliability": {
+          "characterId": "char-mhk",
+          "reliabilityGte": 415
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-reliability-mhk-460",
+    "settings": [
+      {
+        "term": {
+          "nowAfter": "1688137200000",
+          "nowBefore": "0"
+        },
+        "reliability": {
+          "characterId": "char-mhk",
+          "reliabilityGte": 460
+        }
+      }
+    ]
+  },
+  {
     "id": "cd-reliability-mhk-50",
     "settings": [
       {
@@ -61755,12 +63965,57 @@
     ]
   },
   {
+    "id": "cd-reliability-mhk-505",
+    "settings": [
+      {
+        "term": {
+          "nowAfter": "1688137200000",
+          "nowBefore": "0"
+        },
+        "reliability": {
+          "characterId": "char-mhk",
+          "reliabilityGte": 505
+        }
+      }
+    ]
+  },
+  {
     "id": "cd-reliability-mhk-55",
     "settings": [
       {
         "reliability": {
           "characterId": "char-mhk",
           "reliabilityGte": 55
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-reliability-mhk-550",
+    "settings": [
+      {
+        "term": {
+          "nowAfter": "1688137200000",
+          "nowBefore": "0"
+        },
+        "reliability": {
+          "characterId": "char-mhk",
+          "reliabilityGte": 550
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-reliability-mhk-595",
+    "settings": [
+      {
+        "term": {
+          "nowAfter": "1688137200000",
+          "nowBefore": "0"
+        },
+        "reliability": {
+          "characterId": "char-mhk",
+          "reliabilityGte": 595
         }
       }
     ]
@@ -61986,12 +64241,57 @@
     ]
   },
   {
+    "id": "cd-reliability-mna-310",
+    "settings": [
+      {
+        "term": {
+          "nowAfter": "1688137200000",
+          "nowBefore": "0"
+        },
+        "reliability": {
+          "characterId": "char-mna",
+          "reliabilityGte": 310
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-reliability-mna-345",
+    "settings": [
+      {
+        "term": {
+          "nowAfter": "1688137200000",
+          "nowBefore": "0"
+        },
+        "reliability": {
+          "characterId": "char-mna",
+          "reliabilityGte": 345
+        }
+      }
+    ]
+  },
+  {
     "id": "cd-reliability-mna-35",
     "settings": [
       {
         "reliability": {
           "characterId": "char-mna",
           "reliabilityGte": 35
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-reliability-mna-380",
+    "settings": [
+      {
+        "term": {
+          "nowAfter": "1688137200000",
+          "nowBefore": "0"
+        },
+        "reliability": {
+          "characterId": "char-mna",
+          "reliabilityGte": 380
         }
       }
     ]
@@ -62008,6 +64308,36 @@
     ]
   },
   {
+    "id": "cd-reliability-mna-415",
+    "settings": [
+      {
+        "term": {
+          "nowAfter": "1688137200000",
+          "nowBefore": "0"
+        },
+        "reliability": {
+          "characterId": "char-mna",
+          "reliabilityGte": 415
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-reliability-mna-460",
+    "settings": [
+      {
+        "term": {
+          "nowAfter": "1688137200000",
+          "nowBefore": "0"
+        },
+        "reliability": {
+          "characterId": "char-mna",
+          "reliabilityGte": 460
+        }
+      }
+    ]
+  },
+  {
     "id": "cd-reliability-mna-50",
     "settings": [
       {
@@ -62019,12 +64349,57 @@
     ]
   },
   {
+    "id": "cd-reliability-mna-505",
+    "settings": [
+      {
+        "term": {
+          "nowAfter": "1688137200000",
+          "nowBefore": "0"
+        },
+        "reliability": {
+          "characterId": "char-mna",
+          "reliabilityGte": 505
+        }
+      }
+    ]
+  },
+  {
     "id": "cd-reliability-mna-55",
     "settings": [
       {
         "reliability": {
           "characterId": "char-mna",
           "reliabilityGte": 55
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-reliability-mna-550",
+    "settings": [
+      {
+        "term": {
+          "nowAfter": "1688137200000",
+          "nowBefore": "0"
+        },
+        "reliability": {
+          "characterId": "char-mna",
+          "reliabilityGte": 550
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-reliability-mna-595",
+    "settings": [
+      {
+        "term": {
+          "nowAfter": "1688137200000",
+          "nowBefore": "0"
+        },
+        "reliability": {
+          "characterId": "char-mna",
+          "reliabilityGte": 595
         }
       }
     ]
@@ -62294,12 +64669,57 @@
     ]
   },
   {
+    "id": "cd-reliability-ngs-310",
+    "settings": [
+      {
+        "term": {
+          "nowAfter": "1688137200000",
+          "nowBefore": "0"
+        },
+        "reliability": {
+          "characterId": "char-ngs",
+          "reliabilityGte": 310
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-reliability-ngs-345",
+    "settings": [
+      {
+        "term": {
+          "nowAfter": "1688137200000",
+          "nowBefore": "0"
+        },
+        "reliability": {
+          "characterId": "char-ngs",
+          "reliabilityGte": 345
+        }
+      }
+    ]
+  },
+  {
     "id": "cd-reliability-ngs-35",
     "settings": [
       {
         "reliability": {
           "characterId": "char-ngs",
           "reliabilityGte": 35
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-reliability-ngs-380",
+    "settings": [
+      {
+        "term": {
+          "nowAfter": "1688137200000",
+          "nowBefore": "0"
+        },
+        "reliability": {
+          "characterId": "char-ngs",
+          "reliabilityGte": 380
         }
       }
     ]
@@ -62316,6 +64736,36 @@
     ]
   },
   {
+    "id": "cd-reliability-ngs-415",
+    "settings": [
+      {
+        "term": {
+          "nowAfter": "1688137200000",
+          "nowBefore": "0"
+        },
+        "reliability": {
+          "characterId": "char-ngs",
+          "reliabilityGte": 415
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-reliability-ngs-460",
+    "settings": [
+      {
+        "term": {
+          "nowAfter": "1688137200000",
+          "nowBefore": "0"
+        },
+        "reliability": {
+          "characterId": "char-ngs",
+          "reliabilityGte": 460
+        }
+      }
+    ]
+  },
+  {
     "id": "cd-reliability-ngs-50",
     "settings": [
       {
@@ -62327,12 +64777,57 @@
     ]
   },
   {
+    "id": "cd-reliability-ngs-505",
+    "settings": [
+      {
+        "term": {
+          "nowAfter": "1688137200000",
+          "nowBefore": "0"
+        },
+        "reliability": {
+          "characterId": "char-ngs",
+          "reliabilityGte": 505
+        }
+      }
+    ]
+  },
+  {
     "id": "cd-reliability-ngs-55",
     "settings": [
       {
         "reliability": {
           "characterId": "char-ngs",
           "reliabilityGte": 55
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-reliability-ngs-550",
+    "settings": [
+      {
+        "term": {
+          "nowAfter": "1688137200000",
+          "nowBefore": "0"
+        },
+        "reliability": {
+          "characterId": "char-ngs",
+          "reliabilityGte": 550
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-reliability-ngs-595",
+    "settings": [
+      {
+        "term": {
+          "nowAfter": "1688137200000",
+          "nowBefore": "0"
+        },
+        "reliability": {
+          "characterId": "char-ngs",
+          "reliabilityGte": 595
         }
       }
     ]
@@ -62624,12 +65119,57 @@
     ]
   },
   {
+    "id": "cd-reliability-rei-310",
+    "settings": [
+      {
+        "term": {
+          "nowAfter": "1688137200000",
+          "nowBefore": "0"
+        },
+        "reliability": {
+          "characterId": "char-rei",
+          "reliabilityGte": 310
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-reliability-rei-345",
+    "settings": [
+      {
+        "term": {
+          "nowAfter": "1688137200000",
+          "nowBefore": "0"
+        },
+        "reliability": {
+          "characterId": "char-rei",
+          "reliabilityGte": 345
+        }
+      }
+    ]
+  },
+  {
     "id": "cd-reliability-rei-35",
     "settings": [
       {
         "reliability": {
           "characterId": "char-rei",
           "reliabilityGte": 35
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-reliability-rei-380",
+    "settings": [
+      {
+        "term": {
+          "nowAfter": "1688137200000",
+          "nowBefore": "0"
+        },
+        "reliability": {
+          "characterId": "char-rei",
+          "reliabilityGte": 380
         }
       }
     ]
@@ -62646,6 +65186,36 @@
     ]
   },
   {
+    "id": "cd-reliability-rei-415",
+    "settings": [
+      {
+        "term": {
+          "nowAfter": "1688137200000",
+          "nowBefore": "0"
+        },
+        "reliability": {
+          "characterId": "char-rei",
+          "reliabilityGte": 415
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-reliability-rei-460",
+    "settings": [
+      {
+        "term": {
+          "nowAfter": "1688137200000",
+          "nowBefore": "0"
+        },
+        "reliability": {
+          "characterId": "char-rei",
+          "reliabilityGte": 460
+        }
+      }
+    ]
+  },
+  {
     "id": "cd-reliability-rei-50",
     "settings": [
       {
@@ -62657,12 +65227,57 @@
     ]
   },
   {
+    "id": "cd-reliability-rei-505",
+    "settings": [
+      {
+        "term": {
+          "nowAfter": "1688137200000",
+          "nowBefore": "0"
+        },
+        "reliability": {
+          "characterId": "char-rei",
+          "reliabilityGte": 505
+        }
+      }
+    ]
+  },
+  {
     "id": "cd-reliability-rei-55",
     "settings": [
       {
         "reliability": {
           "characterId": "char-rei",
           "reliabilityGte": 55
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-reliability-rei-550",
+    "settings": [
+      {
+        "term": {
+          "nowAfter": "1688137200000",
+          "nowBefore": "0"
+        },
+        "reliability": {
+          "characterId": "char-rei",
+          "reliabilityGte": 550
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-reliability-rei-595",
+    "settings": [
+      {
+        "term": {
+          "nowAfter": "1688137200000",
+          "nowBefore": "0"
+        },
+        "reliability": {
+          "characterId": "char-rei",
+          "reliabilityGte": 595
         }
       }
     ]
@@ -62954,12 +65569,57 @@
     ]
   },
   {
+    "id": "cd-reliability-rio-310",
+    "settings": [
+      {
+        "term": {
+          "nowAfter": "1688137200000",
+          "nowBefore": "0"
+        },
+        "reliability": {
+          "characterId": "char-rio",
+          "reliabilityGte": 310
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-reliability-rio-345",
+    "settings": [
+      {
+        "term": {
+          "nowAfter": "1688137200000",
+          "nowBefore": "0"
+        },
+        "reliability": {
+          "characterId": "char-rio",
+          "reliabilityGte": 345
+        }
+      }
+    ]
+  },
+  {
     "id": "cd-reliability-rio-35",
     "settings": [
       {
         "reliability": {
           "characterId": "char-rio",
           "reliabilityGte": 35
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-reliability-rio-380",
+    "settings": [
+      {
+        "term": {
+          "nowAfter": "1688137200000",
+          "nowBefore": "0"
+        },
+        "reliability": {
+          "characterId": "char-rio",
+          "reliabilityGte": 380
         }
       }
     ]
@@ -62976,6 +65636,36 @@
     ]
   },
   {
+    "id": "cd-reliability-rio-415",
+    "settings": [
+      {
+        "term": {
+          "nowAfter": "1688137200000",
+          "nowBefore": "0"
+        },
+        "reliability": {
+          "characterId": "char-rio",
+          "reliabilityGte": 415
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-reliability-rio-460",
+    "settings": [
+      {
+        "term": {
+          "nowAfter": "1688137200000",
+          "nowBefore": "0"
+        },
+        "reliability": {
+          "characterId": "char-rio",
+          "reliabilityGte": 460
+        }
+      }
+    ]
+  },
+  {
     "id": "cd-reliability-rio-50",
     "settings": [
       {
@@ -62987,12 +65677,57 @@
     ]
   },
   {
+    "id": "cd-reliability-rio-505",
+    "settings": [
+      {
+        "term": {
+          "nowAfter": "1688137200000",
+          "nowBefore": "0"
+        },
+        "reliability": {
+          "characterId": "char-rio",
+          "reliabilityGte": 505
+        }
+      }
+    ]
+  },
+  {
     "id": "cd-reliability-rio-55",
     "settings": [
       {
         "reliability": {
           "characterId": "char-rio",
           "reliabilityGte": 55
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-reliability-rio-550",
+    "settings": [
+      {
+        "term": {
+          "nowAfter": "1688137200000",
+          "nowBefore": "0"
+        },
+        "reliability": {
+          "characterId": "char-rio",
+          "reliabilityGte": 550
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-reliability-rio-595",
+    "settings": [
+      {
+        "term": {
+          "nowAfter": "1688137200000",
+          "nowBefore": "0"
+        },
+        "reliability": {
+          "characterId": "char-rio",
+          "reliabilityGte": 595
         }
       }
     ]
@@ -63284,12 +66019,57 @@
     ]
   },
   {
+    "id": "cd-reliability-rui-310",
+    "settings": [
+      {
+        "term": {
+          "nowAfter": "1688137200000",
+          "nowBefore": "0"
+        },
+        "reliability": {
+          "characterId": "char-rui",
+          "reliabilityGte": 310
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-reliability-rui-345",
+    "settings": [
+      {
+        "term": {
+          "nowAfter": "1688137200000",
+          "nowBefore": "0"
+        },
+        "reliability": {
+          "characterId": "char-rui",
+          "reliabilityGte": 345
+        }
+      }
+    ]
+  },
+  {
     "id": "cd-reliability-rui-35",
     "settings": [
       {
         "reliability": {
           "characterId": "char-rui",
           "reliabilityGte": 35
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-reliability-rui-380",
+    "settings": [
+      {
+        "term": {
+          "nowAfter": "1688137200000",
+          "nowBefore": "0"
+        },
+        "reliability": {
+          "characterId": "char-rui",
+          "reliabilityGte": 380
         }
       }
     ]
@@ -63306,6 +66086,36 @@
     ]
   },
   {
+    "id": "cd-reliability-rui-415",
+    "settings": [
+      {
+        "term": {
+          "nowAfter": "1688137200000",
+          "nowBefore": "0"
+        },
+        "reliability": {
+          "characterId": "char-rui",
+          "reliabilityGte": 415
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-reliability-rui-460",
+    "settings": [
+      {
+        "term": {
+          "nowAfter": "1688137200000",
+          "nowBefore": "0"
+        },
+        "reliability": {
+          "characterId": "char-rui",
+          "reliabilityGte": 460
+        }
+      }
+    ]
+  },
+  {
     "id": "cd-reliability-rui-50",
     "settings": [
       {
@@ -63317,12 +66127,57 @@
     ]
   },
   {
+    "id": "cd-reliability-rui-505",
+    "settings": [
+      {
+        "term": {
+          "nowAfter": "1688137200000",
+          "nowBefore": "0"
+        },
+        "reliability": {
+          "characterId": "char-rui",
+          "reliabilityGte": 505
+        }
+      }
+    ]
+  },
+  {
     "id": "cd-reliability-rui-55",
     "settings": [
       {
         "reliability": {
           "characterId": "char-rui",
           "reliabilityGte": 55
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-reliability-rui-550",
+    "settings": [
+      {
+        "term": {
+          "nowAfter": "1688137200000",
+          "nowBefore": "0"
+        },
+        "reliability": {
+          "characterId": "char-rui",
+          "reliabilityGte": 550
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-reliability-rui-595",
+    "settings": [
+      {
+        "term": {
+          "nowAfter": "1688137200000",
+          "nowBefore": "0"
+        },
+        "reliability": {
+          "characterId": "char-rui",
+          "reliabilityGte": 595
         }
       }
     ]
@@ -63614,12 +66469,57 @@
     ]
   },
   {
+    "id": "cd-reliability-ski-310",
+    "settings": [
+      {
+        "term": {
+          "nowAfter": "1688137200000",
+          "nowBefore": "0"
+        },
+        "reliability": {
+          "characterId": "char-ski",
+          "reliabilityGte": 310
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-reliability-ski-345",
+    "settings": [
+      {
+        "term": {
+          "nowAfter": "1688137200000",
+          "nowBefore": "0"
+        },
+        "reliability": {
+          "characterId": "char-ski",
+          "reliabilityGte": 345
+        }
+      }
+    ]
+  },
+  {
     "id": "cd-reliability-ski-35",
     "settings": [
       {
         "reliability": {
           "characterId": "char-ski",
           "reliabilityGte": 35
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-reliability-ski-380",
+    "settings": [
+      {
+        "term": {
+          "nowAfter": "1688137200000",
+          "nowBefore": "0"
+        },
+        "reliability": {
+          "characterId": "char-ski",
+          "reliabilityGte": 380
         }
       }
     ]
@@ -63636,6 +66536,36 @@
     ]
   },
   {
+    "id": "cd-reliability-ski-415",
+    "settings": [
+      {
+        "term": {
+          "nowAfter": "1688137200000",
+          "nowBefore": "0"
+        },
+        "reliability": {
+          "characterId": "char-ski",
+          "reliabilityGte": 415
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-reliability-ski-460",
+    "settings": [
+      {
+        "term": {
+          "nowAfter": "1688137200000",
+          "nowBefore": "0"
+        },
+        "reliability": {
+          "characterId": "char-ski",
+          "reliabilityGte": 460
+        }
+      }
+    ]
+  },
+  {
     "id": "cd-reliability-ski-50",
     "settings": [
       {
@@ -63647,12 +66577,57 @@
     ]
   },
   {
+    "id": "cd-reliability-ski-505",
+    "settings": [
+      {
+        "term": {
+          "nowAfter": "1688137200000",
+          "nowBefore": "0"
+        },
+        "reliability": {
+          "characterId": "char-ski",
+          "reliabilityGte": 505
+        }
+      }
+    ]
+  },
+  {
     "id": "cd-reliability-ski-55",
     "settings": [
       {
         "reliability": {
           "characterId": "char-ski",
           "reliabilityGte": 55
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-reliability-ski-550",
+    "settings": [
+      {
+        "term": {
+          "nowAfter": "1688137200000",
+          "nowBefore": "0"
+        },
+        "reliability": {
+          "characterId": "char-ski",
+          "reliabilityGte": 550
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-reliability-ski-595",
+    "settings": [
+      {
+        "term": {
+          "nowAfter": "1688137200000",
+          "nowBefore": "0"
+        },
+        "reliability": {
+          "characterId": "char-ski",
+          "reliabilityGte": 595
         }
       }
     ]
@@ -63944,12 +66919,57 @@
     ]
   },
   {
+    "id": "cd-reliability-skr-310",
+    "settings": [
+      {
+        "term": {
+          "nowAfter": "1688137200000",
+          "nowBefore": "0"
+        },
+        "reliability": {
+          "characterId": "char-skr",
+          "reliabilityGte": 310
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-reliability-skr-345",
+    "settings": [
+      {
+        "term": {
+          "nowAfter": "1688137200000",
+          "nowBefore": "0"
+        },
+        "reliability": {
+          "characterId": "char-skr",
+          "reliabilityGte": 345
+        }
+      }
+    ]
+  },
+  {
     "id": "cd-reliability-skr-35",
     "settings": [
       {
         "reliability": {
           "characterId": "char-skr",
           "reliabilityGte": 35
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-reliability-skr-380",
+    "settings": [
+      {
+        "term": {
+          "nowAfter": "1688137200000",
+          "nowBefore": "0"
+        },
+        "reliability": {
+          "characterId": "char-skr",
+          "reliabilityGte": 380
         }
       }
     ]
@@ -63966,6 +66986,36 @@
     ]
   },
   {
+    "id": "cd-reliability-skr-415",
+    "settings": [
+      {
+        "term": {
+          "nowAfter": "1688137200000",
+          "nowBefore": "0"
+        },
+        "reliability": {
+          "characterId": "char-skr",
+          "reliabilityGte": 415
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-reliability-skr-460",
+    "settings": [
+      {
+        "term": {
+          "nowAfter": "1688137200000",
+          "nowBefore": "0"
+        },
+        "reliability": {
+          "characterId": "char-skr",
+          "reliabilityGte": 460
+        }
+      }
+    ]
+  },
+  {
     "id": "cd-reliability-skr-50",
     "settings": [
       {
@@ -63977,12 +67027,57 @@
     ]
   },
   {
+    "id": "cd-reliability-skr-505",
+    "settings": [
+      {
+        "term": {
+          "nowAfter": "1688137200000",
+          "nowBefore": "0"
+        },
+        "reliability": {
+          "characterId": "char-skr",
+          "reliabilityGte": 505
+        }
+      }
+    ]
+  },
+  {
     "id": "cd-reliability-skr-55",
     "settings": [
       {
         "reliability": {
           "characterId": "char-skr",
           "reliabilityGte": 55
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-reliability-skr-550",
+    "settings": [
+      {
+        "term": {
+          "nowAfter": "1688137200000",
+          "nowBefore": "0"
+        },
+        "reliability": {
+          "characterId": "char-skr",
+          "reliabilityGte": 550
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-reliability-skr-595",
+    "settings": [
+      {
+        "term": {
+          "nowAfter": "1688137200000",
+          "nowBefore": "0"
+        },
+        "reliability": {
+          "characterId": "char-skr",
+          "reliabilityGte": 595
         }
       }
     ]
@@ -64274,12 +67369,57 @@
     ]
   },
   {
+    "id": "cd-reliability-smr-310",
+    "settings": [
+      {
+        "term": {
+          "nowAfter": "1688137200000",
+          "nowBefore": "0"
+        },
+        "reliability": {
+          "characterId": "char-smr",
+          "reliabilityGte": 310
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-reliability-smr-345",
+    "settings": [
+      {
+        "term": {
+          "nowAfter": "1688137200000",
+          "nowBefore": "0"
+        },
+        "reliability": {
+          "characterId": "char-smr",
+          "reliabilityGte": 345
+        }
+      }
+    ]
+  },
+  {
     "id": "cd-reliability-smr-35",
     "settings": [
       {
         "reliability": {
           "characterId": "char-smr",
           "reliabilityGte": 35
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-reliability-smr-380",
+    "settings": [
+      {
+        "term": {
+          "nowAfter": "1688137200000",
+          "nowBefore": "0"
+        },
+        "reliability": {
+          "characterId": "char-smr",
+          "reliabilityGte": 380
         }
       }
     ]
@@ -64296,6 +67436,36 @@
     ]
   },
   {
+    "id": "cd-reliability-smr-415",
+    "settings": [
+      {
+        "term": {
+          "nowAfter": "1688137200000",
+          "nowBefore": "0"
+        },
+        "reliability": {
+          "characterId": "char-smr",
+          "reliabilityGte": 415
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-reliability-smr-460",
+    "settings": [
+      {
+        "term": {
+          "nowAfter": "1688137200000",
+          "nowBefore": "0"
+        },
+        "reliability": {
+          "characterId": "char-smr",
+          "reliabilityGte": 460
+        }
+      }
+    ]
+  },
+  {
     "id": "cd-reliability-smr-50",
     "settings": [
       {
@@ -64307,12 +67477,57 @@
     ]
   },
   {
+    "id": "cd-reliability-smr-505",
+    "settings": [
+      {
+        "term": {
+          "nowAfter": "1688137200000",
+          "nowBefore": "0"
+        },
+        "reliability": {
+          "characterId": "char-smr",
+          "reliabilityGte": 505
+        }
+      }
+    ]
+  },
+  {
     "id": "cd-reliability-smr-55",
     "settings": [
       {
         "reliability": {
           "characterId": "char-smr",
           "reliabilityGte": 55
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-reliability-smr-550",
+    "settings": [
+      {
+        "term": {
+          "nowAfter": "1688137200000",
+          "nowBefore": "0"
+        },
+        "reliability": {
+          "characterId": "char-smr",
+          "reliabilityGte": 550
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-reliability-smr-595",
+    "settings": [
+      {
+        "term": {
+          "nowAfter": "1688137200000",
+          "nowBefore": "0"
+        },
+        "reliability": {
+          "characterId": "char-smr",
+          "reliabilityGte": 595
         }
       }
     ]
@@ -64604,12 +67819,57 @@
     ]
   },
   {
+    "id": "cd-reliability-suz-310",
+    "settings": [
+      {
+        "term": {
+          "nowAfter": "1688137200000",
+          "nowBefore": "0"
+        },
+        "reliability": {
+          "characterId": "char-suz",
+          "reliabilityGte": 310
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-reliability-suz-345",
+    "settings": [
+      {
+        "term": {
+          "nowAfter": "1688137200000",
+          "nowBefore": "0"
+        },
+        "reliability": {
+          "characterId": "char-suz",
+          "reliabilityGte": 345
+        }
+      }
+    ]
+  },
+  {
     "id": "cd-reliability-suz-35",
     "settings": [
       {
         "reliability": {
           "characterId": "char-suz",
           "reliabilityGte": 35
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-reliability-suz-380",
+    "settings": [
+      {
+        "term": {
+          "nowAfter": "1688137200000",
+          "nowBefore": "0"
+        },
+        "reliability": {
+          "characterId": "char-suz",
+          "reliabilityGte": 380
         }
       }
     ]
@@ -64626,6 +67886,36 @@
     ]
   },
   {
+    "id": "cd-reliability-suz-415",
+    "settings": [
+      {
+        "term": {
+          "nowAfter": "1688137200000",
+          "nowBefore": "0"
+        },
+        "reliability": {
+          "characterId": "char-suz",
+          "reliabilityGte": 415
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-reliability-suz-460",
+    "settings": [
+      {
+        "term": {
+          "nowAfter": "1688137200000",
+          "nowBefore": "0"
+        },
+        "reliability": {
+          "characterId": "char-suz",
+          "reliabilityGte": 460
+        }
+      }
+    ]
+  },
+  {
     "id": "cd-reliability-suz-50",
     "settings": [
       {
@@ -64637,12 +67927,57 @@
     ]
   },
   {
+    "id": "cd-reliability-suz-505",
+    "settings": [
+      {
+        "term": {
+          "nowAfter": "1688137200000",
+          "nowBefore": "0"
+        },
+        "reliability": {
+          "characterId": "char-suz",
+          "reliabilityGte": 505
+        }
+      }
+    ]
+  },
+  {
     "id": "cd-reliability-suz-55",
     "settings": [
       {
         "reliability": {
           "characterId": "char-suz",
           "reliabilityGte": 55
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-reliability-suz-550",
+    "settings": [
+      {
+        "term": {
+          "nowAfter": "1688137200000",
+          "nowBefore": "0"
+        },
+        "reliability": {
+          "characterId": "char-suz",
+          "reliabilityGte": 550
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-reliability-suz-595",
+    "settings": [
+      {
+        "term": {
+          "nowAfter": "1688137200000",
+          "nowBefore": "0"
+        },
+        "reliability": {
+          "characterId": "char-suz",
+          "reliabilityGte": 595
         }
       }
     ]
@@ -64934,12 +68269,57 @@
     ]
   },
   {
+    "id": "cd-reliability-szk-310",
+    "settings": [
+      {
+        "term": {
+          "nowAfter": "1688137200000",
+          "nowBefore": "0"
+        },
+        "reliability": {
+          "characterId": "char-szk",
+          "reliabilityGte": 310
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-reliability-szk-345",
+    "settings": [
+      {
+        "term": {
+          "nowAfter": "1688137200000",
+          "nowBefore": "0"
+        },
+        "reliability": {
+          "characterId": "char-szk",
+          "reliabilityGte": 345
+        }
+      }
+    ]
+  },
+  {
     "id": "cd-reliability-szk-35",
     "settings": [
       {
         "reliability": {
           "characterId": "char-szk",
           "reliabilityGte": 35
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-reliability-szk-380",
+    "settings": [
+      {
+        "term": {
+          "nowAfter": "1688137200000",
+          "nowBefore": "0"
+        },
+        "reliability": {
+          "characterId": "char-szk",
+          "reliabilityGte": 380
         }
       }
     ]
@@ -64956,6 +68336,36 @@
     ]
   },
   {
+    "id": "cd-reliability-szk-415",
+    "settings": [
+      {
+        "term": {
+          "nowAfter": "1688137200000",
+          "nowBefore": "0"
+        },
+        "reliability": {
+          "characterId": "char-szk",
+          "reliabilityGte": 415
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-reliability-szk-460",
+    "settings": [
+      {
+        "term": {
+          "nowAfter": "1688137200000",
+          "nowBefore": "0"
+        },
+        "reliability": {
+          "characterId": "char-szk",
+          "reliabilityGte": 460
+        }
+      }
+    ]
+  },
+  {
     "id": "cd-reliability-szk-50",
     "settings": [
       {
@@ -64967,12 +68377,57 @@
     ]
   },
   {
+    "id": "cd-reliability-szk-505",
+    "settings": [
+      {
+        "term": {
+          "nowAfter": "1688137200000",
+          "nowBefore": "0"
+        },
+        "reliability": {
+          "characterId": "char-szk",
+          "reliabilityGte": 505
+        }
+      }
+    ]
+  },
+  {
     "id": "cd-reliability-szk-55",
     "settings": [
       {
         "reliability": {
           "characterId": "char-szk",
           "reliabilityGte": 55
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-reliability-szk-550",
+    "settings": [
+      {
+        "term": {
+          "nowAfter": "1688137200000",
+          "nowBefore": "0"
+        },
+        "reliability": {
+          "characterId": "char-szk",
+          "reliabilityGte": 550
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-reliability-szk-595",
+    "settings": [
+      {
+        "term": {
+          "nowAfter": "1688137200000",
+          "nowBefore": "0"
+        },
+        "reliability": {
+          "characterId": "char-szk",
+          "reliabilityGte": 595
         }
       }
     ]
@@ -65264,12 +68719,57 @@
     ]
   },
   {
+    "id": "cd-reliability-yu-310",
+    "settings": [
+      {
+        "term": {
+          "nowAfter": "1688137200000",
+          "nowBefore": "0"
+        },
+        "reliability": {
+          "characterId": "char-yu",
+          "reliabilityGte": 310
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-reliability-yu-345",
+    "settings": [
+      {
+        "term": {
+          "nowAfter": "1688137200000",
+          "nowBefore": "0"
+        },
+        "reliability": {
+          "characterId": "char-yu",
+          "reliabilityGte": 345
+        }
+      }
+    ]
+  },
+  {
     "id": "cd-reliability-yu-35",
     "settings": [
       {
         "reliability": {
           "characterId": "char-yu",
           "reliabilityGte": 35
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-reliability-yu-380",
+    "settings": [
+      {
+        "term": {
+          "nowAfter": "1688137200000",
+          "nowBefore": "0"
+        },
+        "reliability": {
+          "characterId": "char-yu",
+          "reliabilityGte": 380
         }
       }
     ]
@@ -65286,6 +68786,36 @@
     ]
   },
   {
+    "id": "cd-reliability-yu-415",
+    "settings": [
+      {
+        "term": {
+          "nowAfter": "1688137200000",
+          "nowBefore": "0"
+        },
+        "reliability": {
+          "characterId": "char-yu",
+          "reliabilityGte": 415
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-reliability-yu-460",
+    "settings": [
+      {
+        "term": {
+          "nowAfter": "1688137200000",
+          "nowBefore": "0"
+        },
+        "reliability": {
+          "characterId": "char-yu",
+          "reliabilityGte": 460
+        }
+      }
+    ]
+  },
+  {
     "id": "cd-reliability-yu-50",
     "settings": [
       {
@@ -65297,12 +68827,57 @@
     ]
   },
   {
+    "id": "cd-reliability-yu-505",
+    "settings": [
+      {
+        "term": {
+          "nowAfter": "1688137200000",
+          "nowBefore": "0"
+        },
+        "reliability": {
+          "characterId": "char-yu",
+          "reliabilityGte": 505
+        }
+      }
+    ]
+  },
+  {
     "id": "cd-reliability-yu-55",
     "settings": [
       {
         "reliability": {
           "characterId": "char-yu",
           "reliabilityGte": 55
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-reliability-yu-550",
+    "settings": [
+      {
+        "term": {
+          "nowAfter": "1688137200000",
+          "nowBefore": "0"
+        },
+        "reliability": {
+          "characterId": "char-yu",
+          "reliabilityGte": 550
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-reliability-yu-595",
+    "settings": [
+      {
+        "term": {
+          "nowAfter": "1688137200000",
+          "nowBefore": "0"
+        },
+        "reliability": {
+          "characterId": "char-yu",
+          "reliabilityGte": 595
         }
       }
     ]
@@ -69262,6 +72837,39 @@
         "term": {
           "nowAfter": "1687748400000",
           "nowBefore": "1688353199000"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-shop_special-shop-23-0701",
+    "settings": [
+      {
+        "term": {
+          "nowAfter": "1688180400000",
+          "nowBefore": "0"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-shop_special-shop-23-0701-0706",
+    "settings": [
+      {
+        "term": {
+          "nowAfter": "1688180400000",
+          "nowBefore": "1688612399000"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-shop_special-shop-23-0701-0706-dokan",
+    "settings": [
+      {
+        "term": {
+          "nowAfter": "1688180400000",
+          "nowBefore": "1688612399000"
         }
       }
     ]
@@ -84913,6 +88521,105 @@
     ]
   },
   {
+    "id": "cd-time-gacha-free-23-0701-01-banner",
+    "settings": [
+      {
+        "term": {
+          "nowAfter": "1688180400000",
+          "nowBefore": "1688914799000"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-time-gacha-free-23-0701-01-check",
+    "settings": [
+      {
+        "drawGacha": {
+          "gachaButtonIds": [
+            "btn-10-gacha-free-23-0701-01"
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-time-gacha-free-23-0701-01-open",
+    "settings": [
+      {
+        "notSatisfyCondition": {
+          "conditionId": "cd-time-gacha-free-23-0701-01-check"
+        },
+        "term": {
+          "nowAfter": "1688180400000",
+          "nowBefore": "1688914799000"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-time-gacha-free-23-0701-02-check",
+    "settings": [
+      {
+        "drawGacha": {
+          "gachaButtonIds": [
+            "btn-10-gacha-free-23-0701-02"
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-time-gacha-free-23-0701-02-open",
+    "settings": [
+      {
+        "notSatisfyCondition": {
+          "conditionId": "cd-time-gacha-free-23-0701-02-check"
+        },
+        "term": {
+          "nowAfter": "1688266800000",
+          "nowBefore": "1688914799000"
+        },
+        "drawGacha": {
+          "gachaButtonIds": [
+            "btn-10-gacha-free-23-0701-01"
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-time-gacha-free-23-0701-03-check",
+    "settings": [
+      {
+        "drawGacha": {
+          "gachaButtonIds": [
+            "btn-10-gacha-free-23-0701-03"
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-time-gacha-free-23-0701-03-open",
+    "settings": [
+      {
+        "notSatisfyCondition": {
+          "conditionId": "cd-time-gacha-free-23-0701-03-check"
+        },
+        "term": {
+          "nowAfter": "1688353200000",
+          "nowBefore": "1688914799000"
+        },
+        "drawGacha": {
+          "gachaButtonIds": [
+            "btn-10-gacha-free-23-0701-02"
+          ]
+        }
+      }
+    ]
+  },
+  {
     "id": "cd-time-gacha-free-ticket-1s-23-0131",
     "settings": [
       {
@@ -94461,6 +98168,20 @@
     ]
   },
   {
+    "id": "cd-time-pvp-23-0702-0704_s-banner",
+    "settings": [
+      {
+        "satisfyCondition": {
+          "conditionId": "cd-clear-area-main-011"
+        },
+        "term": {
+          "nowAfter": "1688223600000",
+          "nowBefore": "1688482799000"
+        }
+      }
+    ]
+  },
+  {
     "id": "cd-time-questionnaire-21-0702-0709_s-banner",
     "settings": [
       {
@@ -94577,6 +98298,17 @@
         "term": {
           "nowAfter": "1676775600000",
           "nowBefore": "1677423599000"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-time-questionnaire-23-0701-0708_s-banner",
+    "settings": [
+      {
+        "term": {
+          "nowAfter": "1688180400000",
+          "nowBefore": "1688828399000"
         }
       }
     ]
@@ -94817,6 +98549,12 @@
     ]
   },
   {
+    "id": "cd-time-user-birthday-before",
+    "settings": [
+      {}
+    ]
+  },
+  {
     "id": "cd-tour-area_clear-01-21-0630",
     "settings": [
       {
@@ -94934,6 +98672,16 @@
         "term": {
           "nowAfter": "1673578800000",
           "nowBefore": "0"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-user-birthday",
+    "settings": [
+      {
+        "birthday": {
+          "isBirthDay": true
         }
       }
     ]

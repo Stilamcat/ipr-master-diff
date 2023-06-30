@@ -660,6 +660,18 @@
     "actionType": 0
   },
   {
+    "homeActionId": "home-action-ai-birthday-user-01",
+    "characterId": "char-ai",
+    "motionAssetId": "mot_adv_chr_cmn_pos-013_in",
+    "voiceAssetId": "sud_vo_home_ai_birthday-user-01",
+    "text": "おめでとうございます！",
+    "conditionId": "cd-user-birthday",
+    "weight": 1000,
+    "additionMotionAssetId": "",
+    "positionType": 0,
+    "actionType": 0
+  },
+  {
     "homeActionId": "home-action-ai-birthday-yu-01",
     "characterId": "char-ai",
     "motionAssetId": "mot_adv_chr_cmn_glad-003_in",
@@ -1543,6 +1555,18 @@
     "voiceAssetId": "sud_vo_home_aoi_birthday-szk-01",
     "text": "雫の誕生日か。昔聞いたアイドル\n業界の裏話とか教えてあげよう\nかな、って、もう忘れたけど。",
     "conditionId": "cd-birthday_szk-1015",
+    "weight": 1000,
+    "positionType": 0,
+    "actionType": 0
+  },
+  {
+    "homeActionId": "home-action-aoi-birthday-user-01",
+    "characterId": "char-aoi",
+    "motionAssetId": "mot_adv_chr_cmn_talk-016_in",
+    "additionMotionAssetId": "mot_all_chr_cmn_facial-032_in",
+    "voiceAssetId": "sud_vo_home_aoi_birthday-user-01",
+    "text": "あ……忘れないうちに、お誕生日おめでとう。",
+    "conditionId": "cd-user-birthday",
     "weight": 1000,
     "positionType": 0,
     "actionType": 0
@@ -2940,6 +2964,18 @@
     "actionType": 0
   },
   {
+    "homeActionId": "home-action-chs-birthday-user-01",
+    "characterId": "char-chs",
+    "motionAssetId": "mot_adv_chr_cmn_glad-010_in",
+    "voiceAssetId": "sud_vo_home_chs_birthday-user-01",
+    "text": "あの……お誕生日おめでとうございます！",
+    "conditionId": "cd-user-birthday",
+    "weight": 1000,
+    "additionMotionAssetId": "",
+    "positionType": 0,
+    "actionType": 0
+  },
+  {
     "homeActionId": "home-action-chs-birthday-yu-01",
     "characterId": "char-chs",
     "motionAssetId": "mot_adv_chr_cmn_pos-005_in",
@@ -3924,6 +3960,18 @@
     "actionType": 0
   },
   {
+    "homeActionId": "home-action-hrk-birthday-user-01",
+    "characterId": "char-hrk",
+    "motionAssetId": "mot_adv_chr_cmn_pos-006_in",
+    "voiceAssetId": "sud_vo_home_hrk_birthday-user-01",
+    "text": "君、今日お誕生日よね、おめでとう……！",
+    "conditionId": "cd-user-birthday",
+    "weight": 1000,
+    "additionMotionAssetId": "",
+    "positionType": 0,
+    "actionType": 0
+  },
+  {
     "homeActionId": "home-action-hrk-birthday-yu-01",
     "characterId": "char-hrk",
     "motionAssetId": "mot_adv_chr_cmn_empa-001_in",
@@ -4674,6 +4722,18 @@
     "voiceAssetId": "sud_vo_home_kan_birthday-szk-01",
     "text": "なんでアイドルグッズが事務所に溢れてるんですか？　雫の誕生日？　\nそれ関係ある？",
     "conditionId": "cd-birthday_szk-1015",
+    "weight": 1000,
+    "additionMotionAssetId": "",
+    "positionType": 0,
+    "actionType": 0
+  },
+  {
+    "homeActionId": "home-action-kan-birthday-user-01",
+    "characterId": "char-kan",
+    "motionAssetId": "mot_adv_chr_cmn_angry-020_in",
+    "voiceAssetId": "sud_vo_home_kan_birthday-user-01",
+    "text": "はいはい、誕生日おめでとー。\n祝ってやったんだから、\nもっと嬉しそうにしろよ。",
+    "conditionId": "cd-user-birthday",
     "weight": 1000,
     "additionMotionAssetId": "",
     "positionType": 0,
@@ -5568,6 +5628,18 @@
     "actionType": 0
   },
   {
+    "homeActionId": "home-action-kkr-birthday-user-01",
+    "characterId": "char-kkr",
+    "motionAssetId": "mot_adv_chr_cmn_pos-007_in",
+    "voiceAssetId": "sud_vo_home_kkr_birthday-user-01",
+    "text": "おめでとうございま～す！",
+    "conditionId": "cd-user-birthday",
+    "weight": 1000,
+    "additionMotionAssetId": "",
+    "positionType": 0,
+    "actionType": 0
+  },
+  {
     "homeActionId": "home-action-kkr-birthday-yu-01",
     "characterId": "char-kkr",
     "motionAssetId": "mot_adv_chr_cmn_pos-005_in",
@@ -6320,6 +6392,18 @@
     "text": "雫にスリクスのグッズあげてほしいってさくらに言われましたよ。\n別にこれぐらいだったらいいです。",
     "conditionId": "cd-birthday_szk-1015",
     "weight": 1000,
+    "positionType": 0,
+    "actionType": 0
+  },
+  {
+    "homeActionId": "home-action-kor-birthday-user-01",
+    "characterId": "char-kor",
+    "motionAssetId": "mot_adv_chr_cmn_pos-005_in",
+    "voiceAssetId": "sud_vo_home_kor_birthday-user-01",
+    "text": "あー、お誕生日なんですね。\nおめでとうございまーす。",
+    "conditionId": "cd-user-birthday",
+    "weight": 1000,
+    "additionMotionAssetId": "",
     "positionType": 0,
     "actionType": 0
   },
@@ -7206,6 +7290,18 @@
     "voiceAssetId": "sud_vo_home_ktn_birthday-szk-01",
     "text": "雫が誕生日だから、何か\nあげようと思うんですが…\nやっぱりアイドルグッズかな。",
     "conditionId": "cd-birthday_szk-1015",
+    "weight": 1000,
+    "additionMotionAssetId": "",
+    "positionType": 0,
+    "actionType": 0
+  },
+  {
+    "homeActionId": "home-action-ktn-birthday-user-01",
+    "characterId": "char-ktn",
+    "motionAssetId": "mot_adv_chr_cmn_emb-010_in",
+    "voiceAssetId": "sud_vo_home_ktn_birthday-user-01",
+    "text": "その……誕生日、おめでとうございます。",
+    "conditionId": "cd-user-birthday",
     "weight": 1000,
     "additionMotionAssetId": "",
     "positionType": 0,
@@ -8148,6 +8244,18 @@
     "actionType": 0
   },
   {
+    "homeActionId": "home-action-mei-birthday-user-01",
+    "characterId": "char-mei",
+    "motionAssetId": "mot_adv_chr_cmn_rep-004_in",
+    "voiceAssetId": "sud_vo_home_mei_birthday-user-01",
+    "text": "マネージャー！　お誕生日、おっめでと～っ！",
+    "conditionId": "cd-user-birthday",
+    "weight": 1000,
+    "additionMotionAssetId": "",
+    "positionType": 0,
+    "actionType": 0
+  },
+  {
     "homeActionId": "home-action-mei-birthday-yu-01",
     "characterId": "char-mei",
     "motionAssetId": "mot_adv_chr_cmn_pos-009_in",
@@ -8899,6 +9007,18 @@
     "voiceAssetId": "sud_vo_home_mhk_birthday-szk-01",
     "text": "雫の誕生日だから、橋本さんにⅢXの過去のグッズを頼まれました。どうやらオタクらしいですね。",
     "conditionId": "cd-birthday_szk-1015",
+    "weight": 1000,
+    "positionType": 0,
+    "actionType": 0
+  },
+  {
+    "homeActionId": "home-action-mhk-birthday-user-01",
+    "characterId": "char-mhk",
+    "motionAssetId": "mot_adv_chr_cmn_talk-017_in",
+    "additionMotionAssetId": "mot_all_chr_cmn_facial-032_in",
+    "voiceAssetId": "sud_vo_home_mhk_birthday-user-01",
+    "text": "お誕生日おめでとうございます。\n一応伝えるべきかと思いまして。",
+    "conditionId": "cd-user-birthday",
     "weight": 1000,
     "positionType": 0,
     "actionType": 0
@@ -10260,6 +10380,18 @@
     "actionType": 0
   },
   {
+    "homeActionId": "home-action-ngs-birthday-user-01",
+    "characterId": "char-ngs",
+    "motionAssetId": "mot_adv_chr_cmn_glad-011_in",
+    "voiceAssetId": "sud_vo_home_ngs_birthday-user-01",
+    "text": "マネージャー、お誕生日おめでとうございます。",
+    "conditionId": "cd-user-birthday",
+    "weight": 1000,
+    "additionMotionAssetId": "",
+    "positionType": 0,
+    "actionType": 0
+  },
+  {
     "homeActionId": "home-action-ngs-birthday-yu-01",
     "characterId": "char-ngs",
     "motionAssetId": "mot_adv_chr_cmn_emb-002_in",
@@ -11190,6 +11322,18 @@
     "voiceAssetId": "sud_vo_home_rei_birthday-szk-01",
     "text": "雫の誕生日ですね。同じサニピの\n仲間ですし、全力で祝って\nみせます！",
     "conditionId": "cd-birthday_szk-1015",
+    "weight": 1000,
+    "additionMotionAssetId": "",
+    "positionType": 0,
+    "actionType": 0
+  },
+  {
+    "homeActionId": "home-action-rei-birthday-user-01",
+    "characterId": "char-rei",
+    "motionAssetId": "mot_adv_chr_cmn_pos-020_in",
+    "voiceAssetId": "sud_vo_home_rei_birthday-user-01",
+    "text": "マネージャー、お誕生日おめでとうございます。",
+    "conditionId": "cd-user-birthday",
     "weight": 1000,
     "additionMotionAssetId": "",
     "positionType": 0,
@@ -12168,6 +12312,18 @@
     "actionType": 0
   },
   {
+    "homeActionId": "home-action-rio-birthday-user-01",
+    "characterId": "char-rio",
+    "motionAssetId": "mot_adv_chr_cmn_pos-004_in",
+    "voiceAssetId": "sud_vo_home_rio_birthday-user-01",
+    "text": "ふふ、お誕生日おめでとう……一応ね。",
+    "conditionId": "cd-user-birthday",
+    "weight": 1000,
+    "additionMotionAssetId": "",
+    "positionType": 0,
+    "actionType": 0
+  },
+  {
     "homeActionId": "home-action-rio-birthday-yu-01",
     "characterId": "char-rio",
     "motionAssetId": "mot_adv_chr_cmn_pos-002_in",
@@ -13050,6 +13206,18 @@
     "voiceAssetId": "sud_vo_home_rui_birthday-szk-01",
     "text": "雫の誕生日ですよね、今日\nアイドルの歴史についてじっくり\n語り合ってみたいですね。",
     "conditionId": "cd-birthday_szk-1015",
+    "weight": 1000,
+    "additionMotionAssetId": "",
+    "positionType": 0,
+    "actionType": 0
+  },
+  {
+    "homeActionId": "home-action-rui-birthday-user-01",
+    "characterId": "char-rui",
+    "motionAssetId": "mot_adv_chr_cmn_glad-009_in",
+    "voiceAssetId": "sud_vo_home_rui_birthday-user-01",
+    "text": "お誕生日ですよね。おめでとうございます。",
+    "conditionId": "cd-user-birthday",
     "weight": 1000,
     "additionMotionAssetId": "",
     "positionType": 0,
@@ -13992,6 +14160,18 @@
     "actionType": 0
   },
   {
+    "homeActionId": "home-action-ski-birthday-user-01",
+    "characterId": "char-ski",
+    "motionAssetId": "mot_adv_chr_cmn_pos-009_in",
+    "voiceAssetId": "sud_vo_home_ski_birthday-user-01",
+    "text": "マネージャー、お誕生日おめでとうございます。",
+    "conditionId": "cd-user-birthday",
+    "weight": 1000,
+    "additionMotionAssetId": "",
+    "positionType": 0,
+    "actionType": 0
+  },
+  {
     "homeActionId": "home-action-ski-birthday-yu-01",
     "characterId": "char-ski",
     "motionAssetId": "mot_adv_chr_cmn_glad-002_in",
@@ -14874,6 +15054,18 @@
     "voiceAssetId": "sud_vo_home_skr_birthday-szk-01",
     "text": "今日は！　雫ちゃんの誕生日です！\nお祝いする用意は万全、あとは\nやり切るだけです！！",
     "conditionId": "cd-birthday_szk-1015",
+    "weight": 1000,
+    "additionMotionAssetId": "",
+    "positionType": 0,
+    "actionType": 0
+  },
+  {
+    "homeActionId": "home-action-skr-birthday-user-01",
+    "characterId": "char-skr",
+    "motionAssetId": "mot_adv_chr_cmn_glad-012_in",
+    "voiceAssetId": "sud_vo_home_skr_birthday-user-01",
+    "text": "お誕生日ですよね！　おめでとうございます！",
+    "conditionId": "cd-user-birthday",
     "weight": 1000,
     "additionMotionAssetId": "",
     "positionType": 0,
@@ -15768,6 +15960,18 @@
     "actionType": 0
   },
   {
+    "homeActionId": "home-action-smr-birthday-user-01",
+    "characterId": "char-smr",
+    "motionAssetId": "mot_adv_chr_cmn_empa-001_in",
+    "voiceAssetId": "sud_vo_home_smr_birthday-user-01",
+    "text": "あ、お誕生日ですよね！　おめでとうございまーす！",
+    "conditionId": "cd-user-birthday",
+    "weight": 1000,
+    "additionMotionAssetId": "",
+    "positionType": 0,
+    "actionType": 0
+  },
+  {
     "homeActionId": "home-action-smr-birthday-yu-01",
     "characterId": "char-smr",
     "motionAssetId": "mot_adv_chr_cmn_pos-013_in",
@@ -16017,6 +16221,18 @@
     "weight": 10000,
     "additionMotionAssetId": "",
     "positionType": 0,
+    "actionType": 0
+  },
+  {
+    "homeActionId": "home-action-stm-birthday-user-01",
+    "characterId": "char-stm",
+    "motionAssetId": "mot_adv_chr_stm_react-005_in",
+    "voiceAssetId": "sud_vo_home_stm_birthday-user-01",
+    "text": "あ、先輩なにしてるんですかー！\n今日お誕生日ですよね！？\nおめでとうございまっす！",
+    "positionType": 4,
+    "conditionId": "cd-user-birthday",
+    "weight": 10000,
+    "additionMotionAssetId": "",
     "actionType": 0
   },
   {
@@ -16722,6 +16938,18 @@
     "voiceAssetId": "sud_vo_home_suz_birthday-szk-01",
     "text": "雫の誕生日ですの。今日だけは\nアイドル知識ナンバーワンの称号を\n譲りますわ！　今日だ・け・は！",
     "conditionId": "cd-birthday_szk-1015",
+    "weight": 1000,
+    "additionMotionAssetId": "",
+    "positionType": 0,
+    "actionType": 0
+  },
+  {
+    "homeActionId": "home-action-suz-birthday-user-01",
+    "characterId": "char-suz",
+    "motionAssetId": "mot_adv_chr_cmn_glad-002_in",
+    "voiceAssetId": "sud_vo_home_suz_birthday-user-01",
+    "text": "ふふ、お誕生日でしたのね。マネージャー。",
+    "conditionId": "cd-user-birthday",
     "weight": 1000,
     "additionMotionAssetId": "",
     "positionType": 0,
@@ -17563,6 +17791,18 @@
     "voiceAssetId": "sud_vo_home_szk_birthday-szk-01",
     "text": "すっごく、嬉しい…です。\n今からワクワク、してる。",
     "conditionId": "cd-birthday_szk-1015",
+    "weight": 1000,
+    "positionType": 0,
+    "actionType": 0
+  },
+  {
+    "homeActionId": "home-action-szk-birthday-user-01",
+    "characterId": "char-szk",
+    "motionAssetId": "mot_adv_chr_cmn_talk-019_in",
+    "additionMotionAssetId": "mot_all_chr_cmn_facial-048_in",
+    "voiceAssetId": "sud_vo_home_szk_birthday-user-01",
+    "text": "お誕生日……おめでとうございます……",
+    "conditionId": "cd-user-birthday",
     "weight": 1000,
     "positionType": 0,
     "actionType": 0
@@ -18452,6 +18692,18 @@
     "text": "お、今日雫ちゃんの誕生日やなぁ。\n秘蔵のトリエルグッズ\n進呈したらなな〜",
     "conditionId": "cd-birthday_szk-1015",
     "weight": 1000,
+    "positionType": 0,
+    "actionType": 0
+  },
+  {
+    "homeActionId": "home-action-yu-birthday-user-01",
+    "characterId": "char-yu",
+    "motionAssetId": "mot_adv_chr_cmn_glad-003_in",
+    "voiceAssetId": "sud_vo_home_yu_birthday-user-01",
+    "text": "マネージャーさん、お誕生日やって？　おめでとうさん～。",
+    "conditionId": "cd-user-birthday",
+    "weight": 1000,
+    "additionMotionAssetId": "",
     "positionType": 0,
     "actionType": 0
   },
