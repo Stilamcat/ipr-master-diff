@@ -31040,6 +31040,120 @@
     "conditionLiveType": 0
   },
   {
+    "id": "pab-received_strength_effect_count_increase-critical_rate_up_recipe_distribution-5",
+    "name": "被・クリティカル率延長",
+    "description": "受けるクリティカル率アップ効果を14延長",
+    "abilityType": 28,
+    "photoAbilityLevels": [
+      {
+        "level": 140,
+        "value": 14
+      },
+      {
+        "level": 145,
+        "value": 14
+      },
+      {
+        "level": 150,
+        "value": 14
+      },
+      {
+        "level": 155,
+        "value": 14
+      },
+      {
+        "level": 160,
+        "value": 14
+      },
+      {
+        "level": 165,
+        "value": 14
+      },
+      {
+        "level": 170,
+        "value": 14
+      },
+      {
+        "level": 175,
+        "value": 14
+      },
+      {
+        "level": 180,
+        "value": 14
+      },
+      {
+        "level": 185,
+        "value": 14
+      },
+      {
+        "level": 190,
+        "value": 14
+      },
+      {
+        "level": 195,
+        "value": 14
+      },
+      {
+        "level": 200,
+        "value": 14
+      },
+      {
+        "level": 205,
+        "value": 14
+      },
+      {
+        "level": 210,
+        "value": 14
+      },
+      {
+        "level": 215,
+        "value": 14
+      },
+      {
+        "level": 220,
+        "value": 14
+      },
+      {
+        "level": 225,
+        "value": 14
+      },
+      {
+        "level": 230,
+        "value": 14
+      },
+      {
+        "level": 235,
+        "value": 14
+      },
+      {
+        "level": 240,
+        "value": 14
+      },
+      {
+        "level": 245,
+        "value": 14
+      },
+      {
+        "level": 250,
+        "value": 14
+      }
+    ],
+    "photoAbilityGrades": [
+      {
+        "grade": 1,
+        "bonusPermil": 1000,
+        "type": 3,
+        "bonusValue": 0
+      }
+    ],
+    "statusEffectType": 7,
+    "moodType": 0,
+    "skillId": "",
+    "abilityTargetId": "",
+    "conditionCardType": 0,
+    "conditionLiveType": 0
+  },
+  {
     "id": "pab-received_strength_effect_count_increase-dance_up_recipe_distribution-5",
     "name": "被・Da延長",
     "description": "受けるダンス上昇効果を4延長します",

@@ -2166,6 +2166,47 @@
     "homeTalks": []
   },
   {
+    "id": "card-kan-02-eve-01",
+    "assetId": "kan-02-eve-01",
+    "name": "kanaちゃんジャッジメント",
+    "description": "それじゃ、行っきま～す！！\r\n……くたばれ",
+    "type": 2,
+    "characterId": "char-kan",
+    "initialRarity": 2,
+    "cardParameterId": "card-param-01",
+    "vocalRatioPermil": 318,
+    "danceRatioPermil": 279,
+    "visualRatioPermil": 403,
+    "staminaRatioPermil": 1000,
+    "cardLevelReleaseId": "card_level_release_1",
+    "skillId1": "sk-kan-02-eve-01-1",
+    "skillId2": "sk-kan-02-eve-01-2",
+    "skillId3": "sk-kan-02-eve-01-3",
+    "order": 295,
+    "releaseDate": "1688353200000",
+    "imageType1": 1,
+    "displayPositionX1": -0.018,
+    "displayPositionY1": 0.278,
+    "displayScale1": 1.0,
+    "highlightDisplayPositionX1": 0.021,
+    "highlightDisplayPositionY1": 0.343,
+    "highlightDisplayScale1": 1.0,
+    "imageType2": 2,
+    "displayPositionX2": 0.014,
+    "displayScale2": 1.0,
+    "highlightDisplayPositionX2": -0.089,
+    "highlightDisplayPositionY2": 0.666,
+    "highlightDisplayScale2": 0.6,
+    "liveAbilityId": "",
+    "activityAbilityId": "",
+    "rewardCostumeId": "",
+    "displayPositionY2": 0.0,
+    "obtainMessage": "",
+    "stories": [],
+    "messages": [],
+    "homeTalks": []
+  },
+  {
     "id": "card-kan-05-idol-00",
     "assetId": "kan-05-idol-00",
     "name": "a piece of cake",
@@ -2948,6 +2989,66 @@
       },
       {
         "telephoneId": "tel-card-kor-05-idol-03",
+        "messageId": ""
+      }
+    ],
+    "activityAbilityId": "",
+    "displayPositionY1": 0.0,
+    "displayPositionY2": 0.0,
+    "homeTalks": []
+  },
+  {
+    "id": "card-kor-05-mizg-01",
+    "assetId": "kor-05-mizg-01",
+    "name": "真夏のレーベン",
+    "description": "はぁぁ～……海風が気持ちいい～\r\n仕事とサバイバルで疲れた体に染みるぅ～",
+    "type": 2,
+    "characterId": "char-kor",
+    "initialRarity": 5,
+    "cardParameterId": "card-param-01",
+    "vocalRatioPermil": 279,
+    "danceRatioPermil": 403,
+    "visualRatioPermil": 318,
+    "staminaRatioPermil": 1000,
+    "cardLevelReleaseId": "card_level_release_1",
+    "skillId1": "sk-kor-05-mizg-01-1",
+    "skillId2": "sk-kor-05-mizg-01-2",
+    "skillId3": "sk-kor-05-mizg-01-3",
+    "liveAbilityId": "lba-special_skill_score_multiply",
+    "order": 293,
+    "releaseDate": "1688353200000",
+    "rewardCostumeId": "cos-kor-mizg-01",
+    "imageType1": 3,
+    "displayPositionX1": 0.233,
+    "displayScale1": 1.0,
+    "highlightDisplayPositionX1": -0.204,
+    "highlightDisplayPositionY1": 0.589,
+    "highlightDisplayScale1": 0.7,
+    "imageType2": 3,
+    "displayPositionX2": 0.233,
+    "displayScale2": 1.0,
+    "highlightDisplayPositionX2": -0.204,
+    "highlightDisplayPositionY2": 0.589,
+    "highlightDisplayScale2": 0.7,
+    "obtainMessage": "はぁぁ～……\n海風が気持ちいい～",
+    "stories": [
+      {
+        "storyId": "st-card-kor-05-mizg-01-01"
+      },
+      {
+        "storyId": "st-card-kor-05-mizg-01-02"
+      },
+      {
+        "storyId": "st-card-kor-05-mizg-01-03"
+      }
+    ],
+    "messages": [
+      {
+        "messageId": "message-card-kor-05-mizg-01",
+        "telephoneId": ""
+      },
+      {
+        "telephoneId": "tel-card-kor-05-mizg-01",
         "messageId": ""
       }
     ],
@@ -4340,6 +4441,66 @@
       }
     ],
     "activityAbilityId": "",
+    "homeTalks": []
+  },
+  {
+    "id": "card-mhk-05-mizg-01",
+    "assetId": "mhk-05-mizg-01",
+    "name": "波間に揺れるノスタルジー",
+    "description": "海に来たいと思うことはあまりなかったのですが\nもうすぐお別れと思うと、少し寂しいですね\n海辺を散策するのも気持ちが良かったですし\n……昔のことも、少し思い出しましたし",
+    "type": 1,
+    "characterId": "char-mhk",
+    "initialRarity": 5,
+    "cardParameterId": "card-param-01",
+    "vocalRatioPermil": 319,
+    "danceRatioPermil": 276,
+    "visualRatioPermil": 435,
+    "staminaRatioPermil": 900,
+    "cardLevelReleaseId": "card_level_release_1",
+    "skillId1": "sk-mhk-05-mizg-01-1",
+    "skillId2": "sk-mhk-05-mizg-01-2",
+    "skillId3": "sk-mhk-05-mizg-01-3",
+    "liveAbilityId": "lba-active_skill_score_multiply",
+    "order": 294,
+    "releaseDate": "1688353200000",
+    "rewardCostumeId": "cos-mhk-mizg-01",
+    "imageType1": 3,
+    "displayPositionX1": 0.233,
+    "displayScale1": 1.0,
+    "highlightDisplayPositionX1": -0.2,
+    "highlightDisplayPositionY1": 0.268,
+    "highlightDisplayScale1": 0.6,
+    "imageType2": 3,
+    "displayPositionX2": 0.233,
+    "displayScale2": 1.0,
+    "highlightDisplayPositionX2": -0.2,
+    "highlightDisplayPositionY2": 0.268,
+    "highlightDisplayScale2": 0.6,
+    "obtainMessage": "海辺を散策するのも気持ちがいいですね",
+    "stories": [
+      {
+        "storyId": "st-card-mhk-05-mizg-01-01"
+      },
+      {
+        "storyId": "st-card-mhk-05-mizg-01-02"
+      },
+      {
+        "storyId": "st-card-mhk-05-mizg-01-03"
+      }
+    ],
+    "messages": [
+      {
+        "messageId": "message-card-mhk-05-mizg-01",
+        "telephoneId": ""
+      },
+      {
+        "telephoneId": "tel-card-mhk-05-mizg-01",
+        "messageId": ""
+      }
+    ],
+    "activityAbilityId": "",
+    "displayPositionY1": 0.0,
+    "displayPositionY2": 0.0,
     "homeTalks": []
   },
   {

@@ -1212,8 +1212,49 @@
     "assetId": "event-race-23-0703",
     "name": "イベントストーリー",
     "description": "灼熱のBEACH ～イライラMAX ⅢX～",
-    "order": 230703,
+    "order": 230713,
     "viewConditionId": "cd-event-story-23-0703",
-    "episodes": []
+    "episodes": [
+      {
+        "episode": 1,
+        "assetId": "event_2307_01_01",
+        "storyId": "st-eve-2307-race-001",
+        "unlockConditionId": "cd-event-race-23-0703-close",
+        "viewConditionId": "",
+        "isAppeal": false
+      },
+      {
+        "episode": 2,
+        "assetId": "event_2307_01_02",
+        "storyId": "st-eve-2307-race-002",
+        "unlockConditionId": "cd-event-race-23-0703-close",
+        "viewConditionId": "",
+        "isAppeal": false
+      },
+      {
+        "episode": 3,
+        "assetId": "event_2307_01_03",
+        "storyId": "st-eve-2307-race-003",
+        "unlockConditionId": "cd-event-race-23-0703-close",
+        "viewConditionId": "",
+        "isAppeal": false
+      },
+      {
+        "episode": 4,
+        "assetId": "event_2307_01_04",
+        "storyId": "st-eve-2307-race-004",
+        "unlockConditionId": "cd-event-race-23-0703-close",
+        "viewConditionId": "",
+        "isAppeal": false
+      },
+      {
+        "episode": 5,
+        "assetId": "event_2307_01_05",
+        "storyId": "st-eve-2307-race-005",
+        "unlockConditionId": "cd-event-race-23-0703-close",
+        "viewConditionId": "",
+        "isAppeal": false
+      }
+    ]
   }
 ]

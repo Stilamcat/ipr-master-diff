@@ -1766,6 +1766,56 @@
     ]
   },
   {
+    "homeTalkId": "home-talk-card-kor-05-mizg-01-talk-01",
+    "characterId": "char-kor",
+    "placeType": 1,
+    "conditionId": "cd-st-read-st-card-kor-05-mizg-01-03",
+    "firstPriority": 9900,
+    "weight": 1,
+    "callPatternId": "call-pattern-card-kor-05-mizg-01",
+    "choiceText": "何か迷惑を掛けてしまいましたか？",
+    "managerText": "何か迷惑を掛けてしまいましたか？",
+    "reliability": 5,
+    "characterTalks": [
+      {
+        "text": "遭難した話が事務所内に\n広がってから、質問攻めに\nあってるんですよ。",
+        "voiceAssetId": "sud_vo_home_kor-05-mizg-01_talk-01-01",
+        "motionAssetId": "mot_adv_chr_cmn_sad-005_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "しかも質問の八割は「で、その時\n{user}さんと\nどんな雰囲気に！？」とかで…",
+        "voiceAssetId": "sud_vo_home_kor-05-mizg-01_talk-01-02",
+        "motionAssetId": "mot_adv_chr_cmn_talk-001_in",
+        "additionMotionAssetId": "mot_all_chr_cmn_facial-003_in"
+      },
+      {
+        "text": "興味津々な年頃なのは\n分かりますけど、付き合って\nられないですよ、もう…",
+        "voiceAssetId": "sud_vo_home_kor-05-mizg-01_talk-01-03",
+        "motionAssetId": "mot_adv_chr_cmn_deny-005_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "ああ、残りの二割ですか？　食べら\nれる野草の種類とか、何が釣れたか\nみたいなことを聞かれましたね。",
+        "voiceAssetId": "sud_vo_home_kor-05-mizg-01_talk-01-04",
+        "motionAssetId": "mot_adv_chr_cmn_talk-005_in",
+        "additionMotionAssetId": "mot_all_chr_cmn_facial-032_in"
+      },
+      {
+        "text": "なんていうか星見プロは変わった子\nが多いですよね。最初は分かりやす\nいくらい私達にビビってたのに。",
+        "voiceAssetId": "sud_vo_home_kor-05-mizg-01_talk-01-05",
+        "motionAssetId": "mot_adv_chr_cmn_talk-011_in",
+        "additionMotionAssetId": "mot_all_chr_cmn_facial-034_in"
+      },
+      {
+        "text": "あ、見つかった。\nこれ以上質問に答えるのは面倒\nなので逃げますね。それじゃあ！",
+        "voiceAssetId": "sud_vo_home_kor-05-mizg-01_talk-01-06",
+        "motionAssetId": "mot_adv_chr_cmn_surp-005_in",
+        "additionMotionAssetId": ""
+      }
+    ]
+  },
+  {
     "homeTalkId": "home-talk-card-kor-05-poli-00-talk-01",
     "characterId": "char-kor",
     "placeType": 1,
@@ -2519,6 +2569,56 @@
         "text": "{user}さんも、\nあの二人には言わないで下さいよ！",
         "voiceAssetId": "sud_vo_home_mhk-05-idol-03_talk-01-06",
         "motionAssetId": "mot_adv_chr_cmn_angry-008_in",
+        "additionMotionAssetId": ""
+      }
+    ]
+  },
+  {
+    "homeTalkId": "home-talk-card-mhk-05-mizg-01-talk-01",
+    "characterId": "char-mhk",
+    "placeType": 1,
+    "conditionId": "cd-st-read-st-card-mhk-05-mizg-01-03",
+    "firstPriority": 9900,
+    "weight": 1,
+    "callPatternId": "call-pattern-card-mhk-05-mizg-01",
+    "choiceText": "な、なんですか、いきなり？",
+    "managerText": "な、なんですか、いきなり？",
+    "reliability": 5,
+    "characterTalks": [
+      {
+        "text": "海上保安庁に通報したい場合は、\n何番に電話すれば良いでしょう？",
+        "voiceAssetId": "sud_vo_home_mhk-05-mizg-01_talk-01-01",
+        "motionAssetId": "mot_adv_chr_cmn_ask-011_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "ちなみに、答えは118番です。\n海で事件、事故に巻き込まれた際に\nお役立て下さい。",
+        "voiceAssetId": "sud_vo_home_mhk-05-mizg-01_talk-01-02",
+        "motionAssetId": "mot_adv_chr_cmn_talk-015_in",
+        "additionMotionAssetId": "mot_all_chr_cmn_facial-032_in"
+      },
+      {
+        "text": "しばらく早押しクイズの勉強ばかり\nしていたせいで、思考の癖が\n抜けなくて…",
+        "voiceAssetId": "sud_vo_home_mhk-05-mizg-01_talk-01-03",
+        "motionAssetId": "mot_adv_chr_cmn_think-004_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "夜、眠っていても、早押しボタンの\n音がどこかから聞こえるんです。\nおかげで最近、寝不足で。",
+        "voiceAssetId": "sud_vo_home_mhk-05-mizg-01_talk-01-04",
+        "motionAssetId": "mot_adv_chr_cmn_sad-005_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "ちなみに海藻類にはマグネシウムが\n含まれていて、睡眠の質を高める\n効果があるそうですよ。",
+        "voiceAssetId": "sud_vo_home_mhk-05-mizg-01_talk-01-05",
+        "motionAssetId": "mot_adv_chr_cmn_talk-016_in",
+        "additionMotionAssetId": "mot_all_chr_cmn_facial-032_in"
+      },
+      {
+        "text": "あぁ、またクイズ形式で物事を\n考えていました。いっそ、クイズ\n番組に出たらいいのかしら…",
+        "voiceAssetId": "sud_vo_home_mhk-05-mizg-01_talk-01-06",
+        "motionAssetId": "mot_adv_chr_cmn_deny-004_in",
         "additionMotionAssetId": ""
       }
     ]
