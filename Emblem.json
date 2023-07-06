@@ -4644,6 +4644,15 @@
     "isViewableInInactive": false
   },
   {
+    "id": "emb-birthday_mei-03",
+    "name": "【誕生日】早坂芽衣",
+    "assetId": "birthday_mei-03",
+    "autoProvideConditionId": "cd-birthday_emblem_mei-23-0707",
+    "order": 603030,
+    "description": "芽衣の誕生日を迎える",
+    "isViewableInInactive": false
+  },
+  {
     "id": "emb-birthday_smr-02",
     "name": "【誕生日】奥山すみれ",
     "assetId": "birthday_smr-02",
@@ -4748,6 +4757,24 @@
     "assetId": "gvg-season-024-top010",
     "order": 402420,
     "description": "ユニオンライブシーズン24 で10位以内獲得",
+    "autoProvideConditionId": "",
+    "isViewableInInactive": false
+  },
+  {
+    "id": "emb-gvg-season-025-top001",
+    "name": "ユニオンシーズン25 No.1",
+    "assetId": "gvg-season-025-top001",
+    "order": 402510,
+    "description": "ユニオンライブシーズン25 で1位獲得",
+    "autoProvideConditionId": "",
+    "isViewableInInactive": false
+  },
+  {
+    "id": "emb-gvg-season-025-top010",
+    "name": "ユニオンシーズン25 TOP10",
+    "assetId": "gvg-season-025-top010",
+    "order": 402520,
+    "description": "ユニオンライブシーズン25 で10位以内獲得",
     "autoProvideConditionId": "",
     "isViewableInInactive": false
   },
@@ -4883,6 +4910,33 @@
     "assetId": "pvp-season-071-top100",
     "order": 307130,
     "description": "VENUSバトルシーズン71で100位以内獲得",
+    "autoProvideConditionId": "",
+    "isViewableInInactive": false
+  },
+  {
+    "id": "emb-pvp-season-072-top001",
+    "name": "VENUSシーズン72 No.1",
+    "assetId": "pvp-season-072-top001",
+    "order": 307210,
+    "description": "VENUSバトルシーズン72で1位獲得",
+    "autoProvideConditionId": "",
+    "isViewableInInactive": false
+  },
+  {
+    "id": "emb-pvp-season-072-top010",
+    "name": "VENUSシーズン72 TOP10",
+    "assetId": "pvp-season-072-top010",
+    "order": 307220,
+    "description": "VENUSバトルシーズン72で10位以内獲得",
+    "autoProvideConditionId": "",
+    "isViewableInInactive": false
+  },
+  {
+    "id": "emb-pvp-season-072-top100",
+    "name": "VENUSシーズン72 TOP100",
+    "assetId": "pvp-season-072-top100",
+    "order": 307230,
+    "description": "VENUSバトルシーズン72で100位以内獲得",
     "autoProvideConditionId": "",
     "isViewableInInactive": false
   },

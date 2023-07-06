@@ -14763,6 +14763,506 @@
     "linkDetail": ""
   },
   {
+    "id": "event-ms-normal-23-0713-mission_card_level_up_count",
+    "categoryType": 3,
+    "missionType": 12,
+    "name": "アイドルのLvUp{threshold}回",
+    "shortDescription": "アイドルのLvUp{threshold}回",
+    "longDescription": "アイドルのLvUpを{threshold}回しましょう。",
+    "order": 8,
+    "linkType": 11,
+    "progresses": [
+      {
+        "threshold": "5",
+        "rewardSetId": "rd_auto;item;item-ladder_pt_23-0713;200"
+      },
+      {
+        "threshold": "10",
+        "rewardSetId": "rd_auto;item;item-ladder_pt_23-0713;200"
+      },
+      {
+        "threshold": "15",
+        "rewardSetId": "rd_auto;item;item-ladder_pt_23-0713;300"
+      },
+      {
+        "threshold": "20",
+        "rewardSetId": "rd_auto;item;item-ladder_pt_23-0713;300"
+      },
+      {
+        "threshold": "25",
+        "rewardSetId": "rd_auto;item;item-ladder_pt_23-0713;400"
+      }
+    ],
+    "eventMissionId": "event-ladder-23-0713",
+    "targetIds": [],
+    "viewConditionId": "",
+    "linkDetail": ""
+  },
+  {
+    "id": "event-ms-normal-23-0713-mission_card_skill_level_up_count",
+    "categoryType": 3,
+    "missionType": 14,
+    "name": "スキル強化{threshold}回",
+    "shortDescription": "スキル強化{threshold}回",
+    "longDescription": "アイドルのスキル強化を{threshold}回しましょう。",
+    "order": 9,
+    "linkType": 11,
+    "progresses": [
+      {
+        "threshold": "1",
+        "rewardSetId": "rd_auto;item;item-ladder_pt_23-0713;300"
+      },
+      {
+        "threshold": "2",
+        "rewardSetId": "rd_auto;item;item-ladder_pt_23-0713;300"
+      },
+      {
+        "threshold": "3",
+        "rewardSetId": "rd_auto;item;item-ladder_pt_23-0713;600"
+      }
+    ],
+    "eventMissionId": "event-ladder-23-0713",
+    "targetIds": [],
+    "viewConditionId": "",
+    "linkDetail": ""
+  },
+  {
+    "id": "event-ms-normal-23-0713-mission_login_count",
+    "categoryType": 3,
+    "missionType": 1,
+    "name": "ログイン{threshold}回",
+    "shortDescription": "ログイン{threshold}回",
+    "longDescription": "ログインを{threshold}回しましょう。",
+    "order": 3,
+    "progresses": [
+      {
+        "threshold": "1",
+        "rewardSetId": "rd_auto;item;item-ladder_pt_23-0713;200"
+      },
+      {
+        "threshold": "2",
+        "rewardSetId": "rd_auto;item;item-ladder_pt_23-0713;200"
+      },
+      {
+        "threshold": "3",
+        "rewardSetId": "rd_auto;item;item-ladder_pt_23-0713;300"
+      },
+      {
+        "threshold": "4",
+        "rewardSetId": "rd_auto;item;item-ladder_pt_23-0713;300"
+      },
+      {
+        "threshold": "5",
+        "rewardSetId": "rd_auto;item;item-ladder_pt_23-0713;400"
+      }
+    ],
+    "eventMissionId": "event-ladder-23-0713",
+    "targetIds": [],
+    "viewConditionId": "",
+    "linkType": 0,
+    "linkDetail": ""
+  },
+  {
+    "id": "event-ms-normal-23-0713-mission_market_exchange_count",
+    "categoryType": 3,
+    "missionType": 31,
+    "name": "マーケットで{threshold}回アイテム購入",
+    "shortDescription": "マーケットで{threshold}回アイテム購入",
+    "longDescription": "マーケットで{threshold}回アイテムを購入しましょう。",
+    "order": 10,
+    "linkType": 36,
+    "progresses": [
+      {
+        "threshold": "3",
+        "rewardSetId": "rd_auto;item;item-ladder_pt_23-0713;200"
+      },
+      {
+        "threshold": "6",
+        "rewardSetId": "rd_auto;item;item-ladder_pt_23-0713;300"
+      },
+      {
+        "threshold": "9",
+        "rewardSetId": "rd_auto;item;item-ladder_pt_23-0713;300"
+      },
+      {
+        "threshold": "12",
+        "rewardSetId": "rd_auto;item;item-ladder_pt_23-0713;300"
+      },
+      {
+        "threshold": "15",
+        "rewardSetId": "rd_auto;item;item-ladder_pt_23-0713;500"
+      }
+    ],
+    "eventMissionId": "event-ladder-23-0713",
+    "targetIds": [],
+    "viewConditionId": "",
+    "linkDetail": ""
+  },
+  {
+    "id": "event-ms-normal-23-0713-mission_open_message-01",
+    "categoryType": 3,
+    "missionType": 4,
+    "targetIds": [
+      "cd-date-event-ladder-23-0713-panel-message-01"
+    ],
+    "name": "メッセージ①解放",
+    "shortDescription": "メッセージ①解放",
+    "longDescription": "メッセージ①を解放しましょう。",
+    "order": 12,
+    "progresses": [
+      {
+        "threshold": "1",
+        "rewardSetId": "rd_auto;item;item-ladder_pt_23-0713;300"
+      }
+    ],
+    "eventMissionId": "event-ladder-23-0713",
+    "viewConditionId": "",
+    "linkType": 0,
+    "linkDetail": ""
+  },
+  {
+    "id": "event-ms-normal-23-0713-mission_open_message-02",
+    "categoryType": 3,
+    "missionType": 4,
+    "targetIds": [
+      "cd-date-event-ladder-23-0713-panel-message-02"
+    ],
+    "name": "メッセージ②解放",
+    "shortDescription": "メッセージ②解放",
+    "longDescription": "メッセージ②を解放しましょう。",
+    "order": 13,
+    "progresses": [
+      {
+        "threshold": "1",
+        "rewardSetId": "rd_auto;item;item-ladder_pt_23-0713;300"
+      }
+    ],
+    "eventMissionId": "event-ladder-23-0713",
+    "viewConditionId": "",
+    "linkType": 0,
+    "linkDetail": ""
+  },
+  {
+    "id": "event-ms-normal-23-0713-mission_open_message-03",
+    "categoryType": 3,
+    "missionType": 4,
+    "targetIds": [
+      "cd-date-event-ladder-23-0713-panel-message-03"
+    ],
+    "name": "メッセージ③解放",
+    "shortDescription": "メッセージ③解放",
+    "longDescription": "メッセージ③を解放しましょう。",
+    "order": 14,
+    "progresses": [
+      {
+        "threshold": "1",
+        "rewardSetId": "rd_auto;item;item-ladder_pt_23-0713;300"
+      }
+    ],
+    "eventMissionId": "event-ladder-23-0713",
+    "viewConditionId": "",
+    "linkType": 0,
+    "linkDetail": ""
+  },
+  {
+    "id": "event-ms-normal-23-0713-mission_open_message-04",
+    "categoryType": 3,
+    "missionType": 4,
+    "targetIds": [
+      "cd-date-event-ladder-23-0713-panel-message-04"
+    ],
+    "name": "メッセージ④解放",
+    "shortDescription": "メッセージ④解放",
+    "longDescription": "メッセージ④を解放しましょう。",
+    "order": 15,
+    "progresses": [
+      {
+        "threshold": "1",
+        "rewardSetId": "rd_auto;item;item-ladder_pt_23-0713;500"
+      }
+    ],
+    "eventMissionId": "event-ladder-23-0713",
+    "viewConditionId": "",
+    "linkType": 0,
+    "linkDetail": ""
+  },
+  {
+    "id": "event-ms-normal-23-0713-mission_open_panel_count",
+    "categoryType": 3,
+    "missionType": 1401,
+    "targetIds": [
+      "ladder-23-0713"
+    ],
+    "name": "パネルを{threshold}個解放",
+    "shortDescription": "パネルを{threshold}個解放",
+    "longDescription": "パネルを{threshold}個解放しましょう。",
+    "order": 13,
+    "progresses": [
+      {
+        "threshold": "5",
+        "rewardSetId": "rd_auto;item;item-ladder_pt_23-0713;300"
+      },
+      {
+        "threshold": "10",
+        "rewardSetId": "rd_auto;item;item-ladder_pt_23-0713;300"
+      },
+      {
+        "threshold": "15",
+        "rewardSetId": "rd_auto;item;item-ladder_pt_23-0713;300"
+      },
+      {
+        "threshold": "20",
+        "rewardSetId": "rd_auto;item;item-ladder_pt_23-0713;300"
+      },
+      {
+        "threshold": "25",
+        "rewardSetId": "rd_auto;item;item-ladder_pt_23-0713;300"
+      },
+      {
+        "threshold": "30",
+        "rewardSetId": "rd_auto;item;item-ladder_pt_23-0713;300"
+      },
+      {
+        "threshold": "35",
+        "rewardSetId": "rd_auto;item;item-ladder_pt_23-0713;300"
+      },
+      {
+        "threshold": "45",
+        "rewardSetId": "rd_auto;item;item-ladder_pt_23-0713;300"
+      },
+      {
+        "threshold": "55",
+        "rewardSetId": "rd_auto;item;item-ladder_pt_23-0713;500"
+      }
+    ],
+    "eventMissionId": "event-ladder-23-0713",
+    "viewConditionId": "",
+    "linkType": 0,
+    "linkDetail": ""
+  },
+  {
+    "id": "event-ms-normal-23-0713-mission_photo_shoot_total_count",
+    "categoryType": 3,
+    "missionType": 33,
+    "name": "フォト撮影{threshold}回",
+    "shortDescription": "フォト撮影{threshold}回",
+    "longDescription": "フォト撮影を{threshold}回しましょう。",
+    "order": 11,
+    "linkType": 32,
+    "progresses": [
+      {
+        "threshold": "3",
+        "rewardSetId": "rd_auto;item;item-ladder_pt_23-0713;200"
+      },
+      {
+        "threshold": "6",
+        "rewardSetId": "rd_auto;item;item-ladder_pt_23-0713;200"
+      },
+      {
+        "threshold": "9",
+        "rewardSetId": "rd_auto;item;item-ladder_pt_23-0713;300"
+      },
+      {
+        "threshold": "12",
+        "rewardSetId": "rd_auto;item;item-ladder_pt_23-0713;300"
+      },
+      {
+        "threshold": "15",
+        "rewardSetId": "rd_auto;item;item-ladder_pt_23-0713;400"
+      }
+    ],
+    "eventMissionId": "event-ladder-23-0713",
+    "targetIds": [],
+    "viewConditionId": "",
+    "linkDetail": ""
+  },
+  {
+    "id": "event-ms-normal-23-0713-mission_quest_all_clear_count",
+    "categoryType": 3,
+    "missionType": 11,
+    "name": "ライブクリア{threshold}回",
+    "shortDescription": "ライブクリア{threshold}回",
+    "longDescription": "ライブを{threshold}回クリアしましょう。",
+    "order": 7,
+    "linkType": 2,
+    "progresses": [
+      {
+        "threshold": "10",
+        "rewardSetId": "rd_auto;item;item-ladder_pt_23-0713;200"
+      },
+      {
+        "threshold": "20",
+        "rewardSetId": "rd_auto;item;item-ladder_pt_23-0713;200"
+      },
+      {
+        "threshold": "30",
+        "rewardSetId": "rd_auto;item;item-ladder_pt_23-0713;300"
+      },
+      {
+        "threshold": "40",
+        "rewardSetId": "rd_auto;item;item-ladder_pt_23-0713;300"
+      },
+      {
+        "threshold": "50",
+        "rewardSetId": "rd_auto;item;item-ladder_pt_23-0713;400"
+      }
+    ],
+    "eventMissionId": "event-ladder-23-0713",
+    "targetIds": [],
+    "viewConditionId": "",
+    "linkDetail": ""
+  },
+  {
+    "id": "event-ms-normal-23-0713-mission_quest_contest_clear_count",
+    "categoryType": 3,
+    "missionType": 6,
+    "name": "ハイスコアライブ{threshold}回クリア",
+    "shortDescription": "ハイスコアライブ{threshold}回クリア",
+    "longDescription": "ハイスコアライブを{threshold}回クリアしましょう。",
+    "order": 5,
+    "linkType": 6,
+    "progresses": [
+      {
+        "threshold": "2",
+        "rewardSetId": "rd_auto;item;item-ladder_pt_23-0713;200"
+      },
+      {
+        "threshold": "4",
+        "rewardSetId": "rd_auto;item;item-ladder_pt_23-0713;300"
+      },
+      {
+        "threshold": "6",
+        "rewardSetId": "rd_auto;item;item-ladder_pt_23-0713;300"
+      },
+      {
+        "threshold": "10",
+        "rewardSetId": "rd_auto;item;item-ladder_pt_23-0713;300"
+      },
+      {
+        "threshold": "15",
+        "rewardSetId": "rd_auto;item;item-ladder_pt_23-0713;500"
+      }
+    ],
+    "eventMissionId": "event-ladder-23-0713",
+    "targetIds": [],
+    "viewConditionId": "",
+    "linkDetail": ""
+  },
+  {
+    "id": "event-ms-normal-23-0713-mission_quest_daily_clear_count",
+    "categoryType": 3,
+    "missionType": 7,
+    "name": "デイリーライブ{threshold}回クリア",
+    "shortDescription": "デイリーライブ{threshold}回クリア",
+    "longDescription": "デイリーライブを{threshold}回クリアしましょう。",
+    "order": 4,
+    "linkType": 7,
+    "progresses": [
+      {
+        "threshold": "6",
+        "rewardSetId": "rd_auto;item;item-ladder_pt_23-0713;200"
+      },
+      {
+        "threshold": "12",
+        "rewardSetId": "rd_auto;item;item-ladder_pt_23-0713;300"
+      },
+      {
+        "threshold": "18",
+        "rewardSetId": "rd_auto;item;item-ladder_pt_23-0713;300"
+      },
+      {
+        "threshold": "24",
+        "rewardSetId": "rd_auto;item;item-ladder_pt_23-0713;300"
+      },
+      {
+        "threshold": "36",
+        "rewardSetId": "rd_auto;item;item-ladder_pt_23-0713;500"
+      }
+    ],
+    "eventMissionId": "event-ladder-23-0713",
+    "targetIds": [],
+    "viewConditionId": "",
+    "linkDetail": ""
+  },
+  {
+    "id": "event-ms-normal-23-0713-mission_quest_pvp_play_count",
+    "categoryType": 3,
+    "missionType": 45,
+    "name": "VENUSバトルに挑戦{threshold}回",
+    "shortDescription": "VENUSバトルに挑戦{threshold}回",
+    "longDescription": "VENUSバトルに挑戦を{threshold}回しましょう。",
+    "order": 6,
+    "linkType": 2,
+    "progresses": [
+      {
+        "threshold": "5",
+        "rewardSetId": "rd_auto;item;item-ladder_pt_23-0713;300"
+      },
+      {
+        "threshold": "10",
+        "rewardSetId": "rd_auto;item;item-ladder_pt_23-0713;300"
+      },
+      {
+        "threshold": "15",
+        "rewardSetId": "rd_auto;item;item-ladder_pt_23-0713;300"
+      },
+      {
+        "threshold": "20",
+        "rewardSetId": "rd_auto;item;item-ladder_pt_23-0713;300"
+      },
+      {
+        "threshold": "30",
+        "rewardSetId": "rd_auto;item;item-ladder_pt_23-0713;500"
+      }
+    ],
+    "eventMissionId": "event-ladder-23-0713",
+    "targetIds": [],
+    "viewConditionId": "",
+    "linkDetail": ""
+  },
+  {
+    "id": "event-ms-normal-23-0713-mission_use_point_amount_count",
+    "categoryType": 3,
+    "missionType": 1402,
+    "targetIds": [
+      "ladder-23-0713"
+    ],
+    "name": "メッセPtを{threshold}消費",
+    "shortDescription": "メッセPtを{threshold}消費",
+    "longDescription": "メッセPtを{threshold}消費しましょう。",
+    "order": 12,
+    "progresses": [
+      {
+        "threshold": "5000",
+        "rewardSetId": "rd_auto;item;item-ladder_pt_23-0713;300"
+      },
+      {
+        "threshold": "10000",
+        "rewardSetId": "rd_auto;item;item-ladder_pt_23-0713;300"
+      },
+      {
+        "threshold": "15000",
+        "rewardSetId": "rd_auto;item;item-ladder_pt_23-0713;500"
+      },
+      {
+        "threshold": "20000",
+        "rewardSetId": "rd_auto;item;item-ladder_pt_23-0713;500"
+      },
+      {
+        "threshold": "30000",
+        "rewardSetId": "rd_auto;item;item-ladder_pt_23-0713;500"
+      },
+      {
+        "threshold": "40000",
+        "rewardSetId": "rd_auto;item;item-ladder_pt_23-0713;500"
+      }
+    ],
+    "eventMissionId": "event-ladder-23-0713",
+    "viewConditionId": "",
+    "linkType": 0,
+    "linkDetail": ""
+  },
+  {
     "id": "event-ms-photo-23-0430-00-costume_exchange_count",
     "categoryType": 3,
     "missionType": 4,

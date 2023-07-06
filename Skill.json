@@ -53026,6 +53026,444 @@
     "assetId": ""
   },
   {
+    "id": "sk-mei-05-birt-00-1",
+    "name": "にゃんこドーナツ",
+    "categoryType": 2,
+    "levels": [
+      {
+        "level": 1,
+        "description": "380%のスコア獲得\nビジュアルタイプ2人に3段階クリティカル率上昇効果[26ビート]\nスタミナ112消費 CT:30",
+        "shortDescription": "\n\nスタミナ112消費 CT:30",
+        "stamina": 112,
+        "probabilityPermil": 1000,
+        "coolTime": 30,
+        "skillDetails": [
+          {
+            "efficacyId": "ef-score_get-3800-chart_dependence",
+            "triggerId": ""
+          },
+          {
+            "efficacyId": "ef-critical_rate_up-3-target-visual-2-26",
+            "triggerId": ""
+          }
+        ],
+        "requiredItemAmount": 0,
+        "requiredCardLevel": 0,
+        "triggerId": "",
+        "limitCount": 0,
+        "staminaPermil": 0
+      },
+      {
+        "level": 2,
+        "description": "400%のスコア獲得\nビジュアルタイプ2人に3段階クリティカル率上昇効果[30ビート]\nスタミナ119消費 CT:30",
+        "shortDescription": "\n\nスタミナ119消費 CT:30",
+        "requiredItemAmount": 500,
+        "requiredCardLevel": 40,
+        "stamina": 119,
+        "probabilityPermil": 1000,
+        "coolTime": 30,
+        "skillDetails": [
+          {
+            "efficacyId": "ef-score_get-4000-chart_dependence",
+            "triggerId": ""
+          },
+          {
+            "efficacyId": "ef-critical_rate_up-3-target-visual-2-30",
+            "triggerId": ""
+          }
+        ],
+        "triggerId": "",
+        "limitCount": 0,
+        "staminaPermil": 0
+      },
+      {
+        "level": 3,
+        "description": "420%のスコア獲得\nビジュアルタイプ2人に4段階クリティカル率上昇効果[30ビート]\nスタミナ127消費 CT:30",
+        "shortDescription": "\n\nスタミナ127消費 CT:30",
+        "requiredItemAmount": 2000,
+        "requiredCardLevel": 60,
+        "stamina": 127,
+        "probabilityPermil": 1000,
+        "coolTime": 30,
+        "skillDetails": [
+          {
+            "efficacyId": "ef-score_get-4200-chart_dependence",
+            "triggerId": ""
+          },
+          {
+            "efficacyId": "ef-critical_rate_up-4-target-visual-2-30",
+            "triggerId": ""
+          }
+        ],
+        "triggerId": "",
+        "limitCount": 0,
+        "staminaPermil": 0
+      },
+      {
+        "level": 4,
+        "description": "450%のスコア獲得\nビジュアルタイプ2人に4段階クリティカル率上昇効果[34ビート]\nスタミナ136消費 CT:30",
+        "shortDescription": "\n\nスタミナ136消費 CT:30",
+        "requiredItemAmount": 15000,
+        "requiredCardLevel": 90,
+        "stamina": 136,
+        "probabilityPermil": 1000,
+        "coolTime": 30,
+        "skillDetails": [
+          {
+            "efficacyId": "ef-score_get-4500-chart_dependence",
+            "triggerId": ""
+          },
+          {
+            "efficacyId": "ef-critical_rate_up-4-target-visual-2-34",
+            "triggerId": ""
+          }
+        ],
+        "triggerId": "",
+        "limitCount": 0,
+        "staminaPermil": 0
+      },
+      {
+        "level": 5,
+        "description": "480%のスコア獲得\nビジュアルタイプ2人に5段階クリティカル率上昇効果[34ビート]\nスタミナ147消費 CT:30",
+        "shortDescription": "\n\nスタミナ147消費 CT:30",
+        "requiredItemAmount": 100000,
+        "requiredCardLevel": 150,
+        "stamina": 147,
+        "probabilityPermil": 1000,
+        "coolTime": 30,
+        "skillDetails": [
+          {
+            "efficacyId": "ef-score_get-4800-chart_dependence",
+            "triggerId": ""
+          },
+          {
+            "efficacyId": "ef-critical_rate_up-5-target-visual-2-34",
+            "triggerId": ""
+          }
+        ],
+        "triggerId": "",
+        "limitCount": 0,
+        "staminaPermil": 0
+      },
+      {
+        "level": 6,
+        "description": "510%のスコア獲得\nビジュアルタイプ2人に5段階クリティカル率上昇効果[38ビート]\nスタミナ157消費 CT:30",
+        "shortDescription": "\n\nスタミナ157消費 CT:30",
+        "requiredItemAmount": 230000,
+        "requiredCardLevel": 180,
+        "stamina": 157,
+        "probabilityPermil": 1000,
+        "coolTime": 30,
+        "skillDetails": [
+          {
+            "efficacyId": "ef-score_get-5100-chart_dependence",
+            "triggerId": ""
+          },
+          {
+            "efficacyId": "ef-critical_rate_up-5-target-visual-2-38",
+            "triggerId": ""
+          }
+        ],
+        "triggerId": "",
+        "limitCount": 0,
+        "staminaPermil": 0
+      }
+    ],
+    "assetId": ""
+  },
+  {
+    "id": "sk-mei-05-birt-00-2",
+    "name": "ドーナツのお渡し会",
+    "categoryType": 3,
+    "levels": [
+      {
+        "level": 1,
+        "description": "誰かがSPスキル発動前\n対象1人に5段階クリティカル率上昇効果[42ビート]\n対象1人に3段階ビジュアル上昇効果[42ビート]\nスタミナ218消費 CT:70",
+        "shortDescription": "\n\n\nスタミナ218消費 CT:70",
+        "stamina": 218,
+        "triggerId": "tg-before_special_skill_by_someone",
+        "probabilityPermil": 1000,
+        "coolTime": 70,
+        "skillDetails": [
+          {
+            "efficacyId": "ef-critical_rate_up-5-target-trigger-42",
+            "triggerId": ""
+          },
+          {
+            "efficacyId": "ef-visual_up-3-target-trigger-42",
+            "triggerId": ""
+          }
+        ],
+        "requiredItemAmount": 0,
+        "requiredCardLevel": 0,
+        "limitCount": 0,
+        "staminaPermil": 0
+      },
+      {
+        "level": 2,
+        "description": "誰かがSPスキル発動前\n対象1人に6段階クリティカル率上昇効果[42ビート]\n対象1人に4段階ビジュアル上昇効果[42ビート]\nスタミナ275消費 CT:70",
+        "shortDescription": "\n\n\nスタミナ275消費 CT:70",
+        "requiredItemAmount": 1000,
+        "requiredCardLevel": 50,
+        "stamina": 275,
+        "triggerId": "tg-before_special_skill_by_someone",
+        "probabilityPermil": 1000,
+        "coolTime": 70,
+        "skillDetails": [
+          {
+            "efficacyId": "ef-critical_rate_up-6-target-trigger-42",
+            "triggerId": ""
+          },
+          {
+            "efficacyId": "ef-visual_up-4-target-trigger-42",
+            "triggerId": ""
+          }
+        ],
+        "limitCount": 0,
+        "staminaPermil": 0
+      },
+      {
+        "level": 3,
+        "description": "誰かがSPスキル発動前\n対象1人に6段階クリティカル率上昇効果[42ビート]\n対象1人に4段階ビジュアル上昇効果[42ビート]\nスタミナ275消費 CT:60",
+        "shortDescription": "\n\n\nスタミナ275消費 CT:60",
+        "requiredItemAmount": 4000,
+        "requiredCardLevel": 70,
+        "stamina": 275,
+        "triggerId": "tg-before_special_skill_by_someone",
+        "probabilityPermil": 1000,
+        "coolTime": 60,
+        "skillDetails": [
+          {
+            "efficacyId": "ef-critical_rate_up-6-target-trigger-42",
+            "triggerId": ""
+          },
+          {
+            "efficacyId": "ef-visual_up-4-target-trigger-42",
+            "triggerId": ""
+          }
+        ],
+        "limitCount": 0,
+        "staminaPermil": 0
+      },
+      {
+        "level": 4,
+        "description": "誰かがSPスキル発動前\n対象1人に7段階クリティカル率上昇効果[42ビート]\n対象1人に5段階ビジュアル上昇効果[42ビート]\nスタミナ332消費 CT:60",
+        "shortDescription": "\n\n\nスタミナ332消費 CT:60",
+        "requiredItemAmount": 30000,
+        "requiredCardLevel": 110,
+        "stamina": 332,
+        "triggerId": "tg-before_special_skill_by_someone",
+        "probabilityPermil": 1000,
+        "coolTime": 60,
+        "skillDetails": [
+          {
+            "efficacyId": "ef-critical_rate_up-7-target-trigger-42",
+            "triggerId": ""
+          },
+          {
+            "efficacyId": "ef-visual_up-5-target-trigger-42",
+            "triggerId": ""
+          }
+        ],
+        "limitCount": 0,
+        "staminaPermil": 0
+      },
+      {
+        "level": 5,
+        "description": "誰かがSPスキル発動前\n対象1人に7段階クリティカル率上昇効果[42ビート]\n対象1人に5段階ビジュアル上昇効果[42ビート]\nスタミナ332消費 CT:50",
+        "shortDescription": "\n\n\nスタミナ332消費 CT:50",
+        "requiredItemAmount": 140000,
+        "requiredCardLevel": 160,
+        "stamina": 332,
+        "triggerId": "tg-before_special_skill_by_someone",
+        "probabilityPermil": 1000,
+        "coolTime": 50,
+        "skillDetails": [
+          {
+            "efficacyId": "ef-critical_rate_up-7-target-trigger-42",
+            "triggerId": ""
+          },
+          {
+            "efficacyId": "ef-visual_up-5-target-trigger-42",
+            "triggerId": ""
+          }
+        ],
+        "limitCount": 0,
+        "staminaPermil": 0
+      },
+      {
+        "level": 6,
+        "description": "誰かがSPスキル発動前\n対象1人に8段階クリティカル率上昇効果[42ビート]\n対象1人に6段階ビジュアル上昇効果[42ビート]\nスタミナ390消費 CT:50",
+        "shortDescription": "\n\n\nスタミナ390消費 CT:50",
+        "requiredItemAmount": 280000,
+        "requiredCardLevel": 200,
+        "stamina": 390,
+        "triggerId": "tg-before_special_skill_by_someone",
+        "probabilityPermil": 1000,
+        "coolTime": 50,
+        "skillDetails": [
+          {
+            "efficacyId": "ef-critical_rate_up-8-target-trigger-42",
+            "triggerId": ""
+          },
+          {
+            "efficacyId": "ef-visual_up-6-target-trigger-42",
+            "triggerId": ""
+          }
+        ],
+        "limitCount": 0,
+        "staminaPermil": 0
+      }
+    ],
+    "assetId": ""
+  },
+  {
+    "id": "sk-mei-05-birt-00-3",
+    "name": "夢はドーナツのお風呂",
+    "categoryType": 3,
+    "levels": [
+      {
+        "level": 1,
+        "description": "80コンボ以上時\nスコアラータイプ2人に2段階SPスキルスコア追加効果\n全員の強化効果を1段階増強\nスタミナ248消費 ライブ中1回のみ ",
+        "shortDescription": "\n\n\nスタミナ248消費 ライブ中1回のみ ",
+        "stamina": 248,
+        "triggerId": "tg-combo-80",
+        "probabilityPermil": 1000,
+        "limitCount": 1,
+        "skillDetails": [
+          {
+            "efficacyId": "ef-special_score_multiplier_add-2-target-character_type-1-2-999",
+            "triggerId": ""
+          },
+          {
+            "efficacyId": "ef-strength_effect_value_increase-1-target-all",
+            "triggerId": ""
+          }
+        ],
+        "requiredItemAmount": 0,
+        "requiredCardLevel": 0,
+        "coolTime": 0,
+        "staminaPermil": 0
+      },
+      {
+        "level": 2,
+        "description": "80コンボ以上時\nスコアラータイプ2人に3段階SPスキルスコア追加効果\n全員の強化効果を1段階増強\nスタミナ301消費 ライブ中1回のみ ",
+        "shortDescription": "\n\n\nスタミナ301消費 ライブ中1回のみ ",
+        "requiredItemAmount": 15000,
+        "requiredCardLevel": 100,
+        "stamina": 301,
+        "triggerId": "tg-combo-80",
+        "probabilityPermil": 1000,
+        "limitCount": 1,
+        "skillDetails": [
+          {
+            "efficacyId": "ef-special_score_multiplier_add-3-target-character_type-1-2-999",
+            "triggerId": ""
+          },
+          {
+            "efficacyId": "ef-strength_effect_value_increase-1-target-all",
+            "triggerId": ""
+          }
+        ],
+        "coolTime": 0,
+        "staminaPermil": 0
+      },
+      {
+        "level": 3,
+        "description": "80コンボ以上時\nスコアラータイプ2人に4段階SPスキルスコア追加効果\n全員の強化効果を1段階増強\nスタミナ355消費 ライブ中1回のみ ",
+        "shortDescription": "\n\n\nスタミナ355消費 ライブ中1回のみ ",
+        "requiredItemAmount": 60000,
+        "requiredCardLevel": 130,
+        "stamina": 355,
+        "triggerId": "tg-combo-80",
+        "probabilityPermil": 1000,
+        "limitCount": 1,
+        "skillDetails": [
+          {
+            "efficacyId": "ef-special_score_multiplier_add-4-target-character_type-1-2-999",
+            "triggerId": ""
+          },
+          {
+            "efficacyId": "ef-strength_effect_value_increase-1-target-all",
+            "triggerId": ""
+          }
+        ],
+        "coolTime": 0,
+        "staminaPermil": 0
+      },
+      {
+        "level": 4,
+        "description": "80コンボ以上時\nスコアラータイプ2人に5段階SPスキルスコア追加効果\n全員の強化効果を1段階増強\nスタミナ408消費 ライブ中1回のみ ",
+        "shortDescription": "\n\n\nスタミナ408消費 ライブ中1回のみ ",
+        "requiredItemAmount": 180000,
+        "requiredCardLevel": 170,
+        "stamina": 408,
+        "triggerId": "tg-combo-80",
+        "probabilityPermil": 1000,
+        "limitCount": 1,
+        "skillDetails": [
+          {
+            "efficacyId": "ef-special_score_multiplier_add-5-target-character_type-1-2-999",
+            "triggerId": ""
+          },
+          {
+            "efficacyId": "ef-strength_effect_value_increase-1-target-all",
+            "triggerId": ""
+          }
+        ],
+        "coolTime": 0,
+        "staminaPermil": 0
+      },
+      {
+        "level": 5,
+        "description": "80コンボ以上時\nスコアラータイプ2人に6段階SPスキルスコア追加効果\n全員の強化効果を1段階増強\nスタミナ461消費 ライブ中1回のみ ",
+        "shortDescription": "\n\n\nスタミナ461消費 ライブ中1回のみ ",
+        "requiredItemAmount": 330000,
+        "requiredCardLevel": 210,
+        "stamina": 461,
+        "triggerId": "tg-combo-80",
+        "probabilityPermil": 1000,
+        "limitCount": 1,
+        "skillDetails": [
+          {
+            "efficacyId": "ef-special_score_multiplier_add-6-target-character_type-1-2-999",
+            "triggerId": ""
+          },
+          {
+            "efficacyId": "ef-strength_effect_value_increase-1-target-all",
+            "triggerId": ""
+          }
+        ],
+        "coolTime": 0,
+        "staminaPermil": 0
+      },
+      {
+        "level": 6,
+        "description": "80コンボ以上時\nスコアラータイプ2人に7段階SPスキルスコア追加効果\n全員の強化効果を1段階増強\nスタミナ516消費 ライブ中1回のみ ",
+        "shortDescription": "\n\n\nスタミナ516消費 ライブ中1回のみ ",
+        "requiredItemAmount": 380000,
+        "requiredCardLevel": 230,
+        "stamina": 516,
+        "triggerId": "tg-combo-80",
+        "probabilityPermil": 1000,
+        "limitCount": 1,
+        "skillDetails": [
+          {
+            "efficacyId": "ef-special_score_multiplier_add-7-target-character_type-1-2-999",
+            "triggerId": ""
+          },
+          {
+            "efficacyId": "ef-strength_effect_value_increase-1-target-all",
+            "triggerId": ""
+          }
+        ],
+        "coolTime": 0,
+        "staminaPermil": 0
+      }
+    ],
+    "assetId": ""
+  },
+  {
     "id": "sk-mei-05-fest-00-1",
     "name": "だっこして連れてって",
     "categoryType": 2,

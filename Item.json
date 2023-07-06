@@ -880,6 +880,17 @@
     "salePrice": 0
   },
   {
+    "id": "item-gacha_point-birthday-23-0707",
+    "name": "芽衣誕生日ガチャPt",
+    "assetId": "gacha-point",
+    "description": "該当するガチャページの「ガチャPt」から\nガチャPtを消費してアイドルを獲得できる",
+    "type": 9,
+    "value": 1,
+    "order": 140,
+    "howToGet": "",
+    "salePrice": 0
+  },
+  {
     "id": "item-gacha_point-fes-21-0928",
     "name": "アイプラフェスガチャPt",
     "assetId": "gacha-point",
@@ -2403,6 +2414,17 @@
     "assetId": "marathon-raid-pt",
     "description": "ミニマルチリンクスイベントで報酬を獲得することができます\nイベント終了後はコインに変換されます",
     "howToGet": "ミニマルチリンクスイベント",
+    "type": 8001,
+    "value": 1,
+    "order": 100,
+    "salePrice": 0
+  },
+  {
+    "id": "item-ladder_pt_23-0713",
+    "name": "メッセPt",
+    "assetId": "ladder-pt",
+    "description": "メッセージミッションで報酬を獲得することができます\nイベント終了後はコインに変換されます",
+    "howToGet": "メッセージミッション、自主トレ、プロモーション、ファンイベントなど",
     "type": 8001,
     "value": 1,
     "order": 100,
