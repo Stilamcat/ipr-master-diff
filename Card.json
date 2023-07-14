@@ -9839,6 +9839,66 @@
     "homeTalks": []
   },
   {
+    "id": "card-szk-05-yukt-00",
+    "assetId": "szk-05-yukt-00",
+    "name": "大輪彩る夏夜の一瞬",
+    "description": "あれ……なんか、顔、熱い……\r\nでも……嫌じゃ、ない……\r\n浴衣を着るって言った時とは、違う、ドキドキ……",
+    "type": 1,
+    "characterId": "char-szk",
+    "initialRarity": 5,
+    "cardParameterId": "card-param-01",
+    "vocalRatioPermil": 278,
+    "danceRatioPermil": 434,
+    "visualRatioPermil": 318,
+    "staminaRatioPermil": 900,
+    "cardLevelReleaseId": "card_level_release_1",
+    "skillId1": "sk-szk-05-yukt-00-1",
+    "skillId2": "sk-szk-05-yukt-00-2",
+    "skillId3": "sk-szk-05-yukt-00-3",
+    "liveAbilityId": "lba-mental_add",
+    "order": 297,
+    "releaseDate": "1689303600000",
+    "rewardCostumeId": "cos-szk-yukt-00",
+    "imageType1": 3,
+    "displayPositionX1": 0.132,
+    "displayScale1": 1.0,
+    "highlightDisplayPositionX1": -0.182,
+    "highlightDisplayPositionY1": 0.213,
+    "highlightDisplayScale1": 0.7,
+    "imageType2": 3,
+    "displayPositionX2": 0.132,
+    "displayScale2": 1.0,
+    "highlightDisplayPositionX2": -0.182,
+    "highlightDisplayPositionY2": 0.213,
+    "highlightDisplayScale2": 0.7,
+    "obtainMessage": "あれ、なんか、顔、熱い……",
+    "stories": [
+      {
+        "storyId": "st-card-szk-05-yukt-00-01"
+      },
+      {
+        "storyId": "st-card-szk-05-yukt-00-02"
+      },
+      {
+        "storyId": "st-card-szk-05-yukt-00-03"
+      }
+    ],
+    "messages": [
+      {
+        "messageId": "message-card-szk-05-yukt-00",
+        "telephoneId": ""
+      },
+      {
+        "telephoneId": "tel-card-szk-05-yukt-00",
+        "messageId": ""
+      }
+    ],
+    "activityAbilityId": "",
+    "displayPositionY1": 0.0,
+    "displayPositionY2": 0.0,
+    "homeTalks": []
+  },
+  {
     "id": "card-szk-05-yuru-00",
     "assetId": "szk-05-yuru-00",
     "name": "一緒に歌える幸せ",

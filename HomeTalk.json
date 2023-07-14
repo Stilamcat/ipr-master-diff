@@ -5494,6 +5494,50 @@
     ]
   },
   {
+    "homeTalkId": "home-talk-card-szk-05-yukt-00-talk-01",
+    "characterId": "char-szk",
+    "placeType": 1,
+    "conditionId": "cd-st-read-st-card-szk-05-yukt-00-03",
+    "firstPriority": 9900,
+    "weight": 1,
+    "callPatternId": "call-pattern-card-szk-05-yukt-00",
+    "choiceText": "ステージからは見えたのか？",
+    "managerText": "ステージからは見えたのか？",
+    "reliability": 5,
+    "characterTalks": [
+      {
+        "text": "うん…それで、浴衣で…\n帰りに、会いに、行った。",
+        "voiceAssetId": "sud_vo_home_szk-05-yukt-00_talk-01-01",
+        "motionAssetId": "mot_adv_chr_cmn_talk-012_in",
+        "additionMotionAssetId": "mot_all_chr_cmn_facial-001_in"
+      },
+      {
+        "text": "ステージのことも、浴衣のことも\n…褒めてくれた。",
+        "voiceAssetId": "sud_vo_home_szk-05-yukt-00_talk-01-02",
+        "motionAssetId": "mot_adv_chr_cmn_pos-005_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "私…憧れてたアイドルに、なって\n新しいことにも、挑戦して…",
+        "voiceAssetId": "sud_vo_home_szk-05-yukt-00_talk-01-03",
+        "motionAssetId": "mot_adv_chr_cmn_pos-010_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "凄いね、って…\n言われたのが、嬉しい…",
+        "voiceAssetId": "sud_vo_home_szk-05-yukt-00_talk-01-04",
+        "motionAssetId": "mot_adv_chr_cmn_glad-011_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "これからも、応援してくれるって\n…だから、もっと頑張る。",
+        "voiceAssetId": "sud_vo_home_szk-05-yukt-00_talk-01-05",
+        "motionAssetId": "mot_adv_chr_cmn_talk-018_in",
+        "additionMotionAssetId": "mot_all_chr_cmn_facial-048_in"
+      }
+    ]
+  },
+  {
     "homeTalkId": "home-talk-card-szk-05-yuru-00-talk-01",
     "characterId": "char-szk",
     "placeType": 1,
