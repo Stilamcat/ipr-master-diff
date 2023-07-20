@@ -1514,6 +1514,66 @@
     "activityAbilityId": ""
   },
   {
+    "id": "card-chs-05-yukt-00",
+    "assetId": "chs-05-yukt-00",
+    "name": "祭りに光る一番星",
+    "description": "お父さんが金魚すくいが得意で\r\nやり方を教わったことがあるんです\r\n久しぶりだったけど、マネージャーさんに\r\nいいところを見せられて良かった……",
+    "type": 3,
+    "characterId": "char-chs",
+    "initialRarity": 5,
+    "cardParameterId": "card-param-01",
+    "vocalRatioPermil": 326,
+    "danceRatioPermil": 289,
+    "visualRatioPermil": 415,
+    "staminaRatioPermil": 900,
+    "cardLevelReleaseId": "card_level_release_1",
+    "skillId1": "sk-chs-05-yukt-00-1",
+    "skillId2": "sk-chs-05-yukt-00-2",
+    "skillId3": "sk-chs-05-yukt-00-3",
+    "liveAbilityId": "lba-stamina_add",
+    "order": 298,
+    "releaseDate": "1689822000000",
+    "rewardCostumeId": "cos-chs-yukt-00",
+    "imageType1": 3,
+    "displayPositionX1": -0.068,
+    "displayScale1": 1.0,
+    "highlightDisplayPositionX1": 0.638,
+    "highlightDisplayPositionY1": 0.212,
+    "highlightDisplayScale1": 0.6,
+    "imageType2": 3,
+    "displayPositionX2": -0.068,
+    "displayScale2": 1.0,
+    "highlightDisplayPositionX2": 0.638,
+    "highlightDisplayPositionY2": 0.212,
+    "highlightDisplayScale2": 0.6,
+    "obtainMessage": "見て下さい！\nうまく金魚をすくえました！",
+    "stories": [
+      {
+        "storyId": "st-card-chs-05-yukt-00-01"
+      },
+      {
+        "storyId": "st-card-chs-05-yukt-00-02"
+      },
+      {
+        "storyId": "st-card-chs-05-yukt-00-03"
+      }
+    ],
+    "messages": [
+      {
+        "messageId": "message-card-chs-05-yukt-00",
+        "telephoneId": ""
+      },
+      {
+        "telephoneId": "tel-card-chs-05-yukt-00",
+        "messageId": ""
+      }
+    ],
+    "activityAbilityId": "",
+    "displayPositionY1": 0.0,
+    "displayPositionY2": 0.0,
+    "homeTalks": []
+  },
+  {
     "id": "card-hrk-02-eve-01",
     "assetId": "hrk-02-eve-01",
     "name": "図らずもバースデーライブ",

@@ -741,7 +741,7 @@
     "name": "10連ガチャチケ",
     "assetId": "gacha-endless-22-1224",
     "description": "有効期限：入手後7日\n10連ガチャを1回引くことができる",
-    "howToGet": "2周年記念引き放題ガチャ",
+    "howToGet": "引き放題ガチャ",
     "type": 8,
     "value": 1,
     "order": 140,
@@ -1694,6 +1694,17 @@
     "salePrice": 0
   },
   {
+    "id": "item-gacha_point-pick-set-bloom-23-0720",
+    "name": "はしゃぐ君と揺れる金魚ガチャPt",
+    "assetId": "gacha-point",
+    "description": "該当するガチャページの「ガチャPt」から\nガチャPtを消費してアイドルを獲得できる",
+    "type": 9,
+    "value": 1,
+    "order": 140,
+    "howToGet": "",
+    "salePrice": 0
+  },
+  {
     "id": "item-gacha_point-pickup-21-0712",
     "name": "光射す海宴ガチャPt",
     "assetId": "gacha-point",
@@ -2202,6 +2213,17 @@
   {
     "id": "item-gacha_point-select-01-23-0615",
     "name": "選べる★5ダンスガチャPt",
+    "assetId": "gacha-point",
+    "description": "該当するガチャページの「ガチャPt」から\nガチャPtを消費してアイドルを獲得できる",
+    "type": 9,
+    "value": 1,
+    "order": 140,
+    "howToGet": "",
+    "salePrice": 0
+  },
+  {
+    "id": "item-gacha_point-select-01-23-0722",
+    "name": "選べる★5サポーターガチャPt",
     "assetId": "gacha-point",
     "description": "該当するガチャページの「ガチャPt」から\nガチャPtを消費してアイドルを獲得できる",
     "type": 9,

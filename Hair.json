@@ -885,6 +885,21 @@
     "notWearableCostumeIds": []
   },
   {
+    "id": "hair-chs-yukt-00",
+    "hairAssetId": "chs-yukt-00",
+    "faceAssetId": "chs-base-00",
+    "sdHairAssetId": "chs-yukt-00",
+    "characterId": "char-chs",
+    "wearableCostumeIds": [
+      "cos-chs-yukt-00"
+    ],
+    "fittingCostumeId": "cos-chs-yukt-00",
+    "order": 198,
+    "name": "ポワソンルージュ",
+    "releaseTime": "1689822000000",
+    "notWearableCostumeIds": []
+  },
+  {
     "id": "hair-hrk-anni-00",
     "hairAssetId": "hrk-anni-00",
     "faceAssetId": "hrk-base-00",
@@ -6045,6 +6060,22 @@
     "name": "エターナルブリリアンス",
     "releaseTime": "1664247600000",
     "notWearableCostumeIds": []
+  },
+  {
+    "id": "hair-yu-hair-00",
+    "hairAssetId": "yu-hair-00",
+    "faceAssetId": "yu-base-00",
+    "sdHairAssetId": "yu-hair-00",
+    "characterId": "char-yu",
+    "notWearableCostumeIds": [
+      "cos-yu-sdpl-00",
+      "cos-yu-sdam-00"
+    ],
+    "fittingCostumeId": "cos-yu-casl-00",
+    "order": 1001,
+    "name": "ツインテール",
+    "releaseTime": "1690167600000",
+    "wearableCostumeIds": []
   },
   {
     "id": "hair-yu-idol-00",

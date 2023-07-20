@@ -852,6 +852,56 @@
     ]
   },
   {
+    "homeTalkId": "home-talk-card-chs-05-yukt-00-talk-01",
+    "characterId": "char-chs",
+    "placeType": 1,
+    "conditionId": "cd-st-read-st-card-chs-05-yukt-00-03",
+    "firstPriority": 9900,
+    "weight": 1,
+    "callPatternId": "call-pattern-card-chs-05-yukt-00",
+    "choiceText": "あんまり目立つのも\n良くないからな。",
+    "managerText": "あんまり目立つのも\n良くないからな。",
+    "reliability": 5,
+    "characterTalks": [
+      {
+        "text": "でも、帽子とサングラスとマスクは\n浴衣に似合わないですよね。\n逆に不自然で目立ちそうです。",
+        "voiceAssetId": "sud_vo_home_chs-05-yukt-00_talk-01-01",
+        "motionAssetId": "mot_adv_chr_cmn_trouble-001_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "そしたら、さくらちゃんが\n「お祭りの屋台でお面を買って\nつければいいんだよ」って言って",
+        "voiceAssetId": "sud_vo_home_chs-05-yukt-00_talk-01-02",
+        "motionAssetId": "mot_adv_chr_cmn_pos-009_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "お面屋さんで\n魚々っとさんのお面を買って来て\n私達に配り始めたんです。",
+        "voiceAssetId": "sud_vo_home_chs-05-yukt-00_talk-01-03",
+        "motionAssetId": "mot_adv_chr_cmn_glad-007_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "それで、試しに五人とも浴衣姿で\n魚々っとさんのお面をつけてみたら\nすっごく怪しい集団になって…",
+        "voiceAssetId": "sud_vo_home_chs-05-yukt-00_talk-01-04",
+        "motionAssetId": "mot_adv_chr_cmn_trouble-003_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "結局怜ちゃんが「堂々としていれば\nかえって気付かれないものよ」って\n言って、お面は外しました。",
+        "voiceAssetId": "sud_vo_home_chs-05-yukt-00_talk-01-05",
+        "motionAssetId": "mot_adv_chr_cmn_pos-010_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "幸い、私達のことは誰にも気付かれ\nなかったけど…さくらちゃんだけ\nなんだかちょっと残念そうでした。",
+        "voiceAssetId": "sud_vo_home_chs-05-yukt-00_talk-01-06",
+        "motionAssetId": "mot_adv_chr_cmn_talk-019_in",
+        "additionMotionAssetId": "mot_all_chr_cmn_facial-014_in"
+      }
+    ]
+  },
+  {
     "homeTalkId": "home-talk-card-hrk-05-chna-00-talk-01",
     "characterId": "char-hrk",
     "placeType": 1,
