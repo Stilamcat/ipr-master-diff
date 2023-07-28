@@ -6838,6 +6838,47 @@
     "homeTalks": []
   },
   {
+    "id": "card-rui-02-eve-02",
+    "assetId": "rui-02-eve-02",
+    "name": "アシスタントの瑠依さん",
+    "description": "この一体感、いいわね\r\nライブと、どこか通じるものがある気がする",
+    "type": 2,
+    "characterId": "char-rui",
+    "initialRarity": 2,
+    "cardParameterId": "card-param-01",
+    "vocalRatioPermil": 402,
+    "danceRatioPermil": 319,
+    "visualRatioPermil": 279,
+    "staminaRatioPermil": 1000,
+    "cardLevelReleaseId": "card_level_release_1",
+    "skillId1": "sk-rui-02-eve-02-1",
+    "skillId2": "sk-rui-02-eve-02-2",
+    "skillId3": "sk-rui-02-eve-02-3",
+    "order": 301,
+    "releaseDate": "1690513200000",
+    "imageType1": 1,
+    "displayPositionX1": -0.05,
+    "displayPositionY1": 0.268,
+    "displayScale1": 1.0,
+    "highlightDisplayPositionX1": 0.019,
+    "highlightDisplayPositionY1": 0.317,
+    "highlightDisplayScale1": 1.0,
+    "imageType2": 2,
+    "displayPositionX2": -0.043,
+    "displayScale2": 1.0,
+    "highlightDisplayPositionX2": 0.607,
+    "highlightDisplayPositionY2": 0.186,
+    "highlightDisplayScale2": 0.6,
+    "liveAbilityId": "",
+    "activityAbilityId": "",
+    "rewardCostumeId": "",
+    "displayPositionY2": 0.0,
+    "obtainMessage": "",
+    "stories": [],
+    "messages": [],
+    "homeTalks": []
+  },
+  {
     "id": "card-rui-03-schl-00",
     "assetId": "rui-03-schl-00",
     "name": "秘密会議",
@@ -8779,6 +8820,66 @@
     "activityAbilityId": ""
   },
   {
+    "id": "card-smr-05-mizg-02",
+    "assetId": "smr-05-mizg-02",
+    "name": "波打ち際のしろくまサマー",
+    "description": "一緒に遊びませんかーー？\r\n海、ひんやりしてて気持ちいいですよ！",
+    "type": 1,
+    "characterId": "char-smr",
+    "initialRarity": 5,
+    "cardParameterId": "card-param-01",
+    "vocalRatioPermil": 435,
+    "danceRatioPermil": 317,
+    "visualRatioPermil": 278,
+    "staminaRatioPermil": 900,
+    "cardLevelReleaseId": "card_level_release_1",
+    "skillId1": "sk-smr-05-mizg-02-1",
+    "skillId2": "sk-smr-05-mizg-02-2",
+    "skillId3": "sk-smr-05-mizg-02-3",
+    "activityAbilityId": "aab-refresh_stamina_up",
+    "order": 300,
+    "releaseDate": "1690513200000",
+    "rewardCostumeId": "cos-smr-mizg-02",
+    "imageType1": 3,
+    "displayPositionX1": 0.127,
+    "displayPositionY1": 0.07,
+    "displayScale1": 1.7,
+    "highlightDisplayPositionX1": -0.221,
+    "highlightDisplayPositionY1": 0.126,
+    "highlightDisplayScale1": 1.1,
+    "imageType2": 3,
+    "displayPositionX2": 0.127,
+    "displayPositionY2": 0.07,
+    "displayScale2": 1.7,
+    "highlightDisplayPositionX2": -0.221,
+    "highlightDisplayPositionY2": 0.126,
+    "highlightDisplayScale2": 1.1,
+    "obtainMessage": "こっちで一緒に遊びませんかー？",
+    "stories": [
+      {
+        "storyId": "st-card-smr-05-mizg-02-01"
+      },
+      {
+        "storyId": "st-card-smr-05-mizg-02-02"
+      },
+      {
+        "storyId": "st-card-smr-05-mizg-02-03"
+      }
+    ],
+    "messages": [
+      {
+        "messageId": "message-card-smr-05-mizg-02",
+        "telephoneId": ""
+      },
+      {
+        "telephoneId": "tel-card-smr-05-mizg-02",
+        "messageId": ""
+      }
+    ],
+    "liveAbilityId": "",
+    "homeTalks": []
+  },
+  {
     "id": "card-smr-05-pajm-00",
     "assetId": "smr-05-pajm-00",
     "name": "夢の国へ誘う安眠膝枕",
@@ -10328,6 +10429,66 @@
       }
     ],
     "activityAbilityId": ""
+  },
+  {
+    "id": "card-yu-05-mizg-02",
+    "assetId": "yu-05-mizg-02",
+    "name": "陽に溶けるブレークタイム",
+    "description": "気付いてました？\r\nうちの衣装だけ、ほら、ちょ～っと濡れてるんです\r\nテストの時に、偉いカメラマンさんが\r\n少し濡れた方が色っぽいね～なんて言うたから",
+    "type": 2,
+    "characterId": "char-yu",
+    "initialRarity": 5,
+    "cardParameterId": "card-param-01",
+    "vocalRatioPermil": 316,
+    "danceRatioPermil": 280,
+    "visualRatioPermil": 404,
+    "staminaRatioPermil": 1000,
+    "cardLevelReleaseId": "card_level_release_1",
+    "skillId1": "sk-yu-05-mizg-02-1",
+    "skillId2": "sk-yu-05-mizg-02-2",
+    "skillId3": "sk-yu-05-mizg-02-3",
+    "liveAbilityId": "lba-visual_multiply",
+    "order": 299,
+    "releaseDate": "1690513200000",
+    "rewardCostumeId": "cos-yu-mizg-02",
+    "imageType1": 3,
+    "displayPositionX1": 0.089,
+    "displayScale1": 1.0,
+    "highlightDisplayPositionX1": -0.143,
+    "highlightDisplayPositionY1": 0.277,
+    "highlightDisplayScale1": 1.1,
+    "imageType2": 3,
+    "displayPositionX2": 0.089,
+    "displayScale2": 1.0,
+    "highlightDisplayPositionX2": -0.143,
+    "highlightDisplayPositionY2": 0.277,
+    "highlightDisplayScale2": 1.1,
+    "obtainMessage": "うちの衣装だけ、ほら、\nちょ～っと濡れてるんです",
+    "stories": [
+      {
+        "storyId": "st-card-yu-05-mizg-02-01"
+      },
+      {
+        "storyId": "st-card-yu-05-mizg-02-02"
+      },
+      {
+        "storyId": "st-card-yu-05-mizg-02-03"
+      }
+    ],
+    "messages": [
+      {
+        "messageId": "message-card-yu-05-mizg-02",
+        "telephoneId": ""
+      },
+      {
+        "telephoneId": "tel-card-yu-05-mizg-02",
+        "messageId": ""
+      }
+    ],
+    "activityAbilityId": "",
+    "displayPositionY1": 0.0,
+    "displayPositionY2": 0.0,
+    "homeTalks": []
   },
   {
     "id": "card-yu-05-vlnt-00",

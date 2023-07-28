@@ -4936,6 +4936,56 @@
     ]
   },
   {
+    "homeTalkId": "home-talk-card-smr-05-mizg-02-talk-01",
+    "characterId": "char-smr",
+    "placeType": 1,
+    "conditionId": "cd-st-read-st-card-smr-05-mizg-02-03",
+    "firstPriority": 9900,
+    "weight": 1,
+    "callPatternId": "call-pattern-card-smr-05-mizg-02",
+    "choiceText": "どっちも捨てがたいな",
+    "managerText": "どっちも捨てがたいな",
+    "reliability": 5,
+    "characterTalks": [
+      {
+        "text": "ですよねですよね！？",
+        "voiceAssetId": "sud_vo_home_smr-05-mizg-02_talk-01-01",
+        "motionAssetId": "mot_adv_chr_cmn_emot-004_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "私も、どっちかにしろって\n言われたら、プールサイドで\nずーっと悩んじゃいそうで。",
+        "voiceAssetId": "sud_vo_home_smr-05-mizg-02_talk-01-02",
+        "motionAssetId": "mot_adv_chr_cmn_talk-008_in",
+        "additionMotionAssetId": "mot_all_chr_cmn_facial-034_in"
+      },
+      {
+        "text": "あ、でも実際に\nプールに遊びに行ったら\n絶対全部ぜーんぶ遊びつくします！",
+        "voiceAssetId": "sud_vo_home_smr-05-mizg-02_talk-01-03",
+        "motionAssetId": "mot_adv_chr_cmn_pos-014_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "だったら悩む必要\nありませんでしたね。",
+        "voiceAssetId": "sud_vo_home_smr-05-mizg-02_talk-01-04",
+        "motionAssetId": "mot_adv_chr_cmn_pos-020_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "じゃあ、ビート板と浮き輪なら…\nうーん…？",
+        "voiceAssetId": "sud_vo_home_smr-05-mizg-02_talk-01-05",
+        "motionAssetId": "mot_adv_chr_cmn_think-001_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "…どっちも使えばいいですね！\nこの衣装だと、ついつい遊びに\n行くことを考えちゃいますね～。",
+        "voiceAssetId": "sud_vo_home_smr-05-mizg-02_talk-01-06",
+        "motionAssetId": "mot_adv_chr_cmn_glad-003_in",
+        "additionMotionAssetId": ""
+      }
+    ]
+  },
+  {
     "homeTalkId": "home-talk-card-smr-05-pajm-00-talk-01",
     "characterId": "char-smr",
     "placeType": 1,
@@ -5759,6 +5809,50 @@
         "text": "あ、でもマネージャーさんも\n大人やし、「気持ち」が何かくらい\n分かりますよねぇ～？　ふふふふ",
         "voiceAssetId": "sud_vo_home_yu-05-mizg-01_talk-01-04",
         "motionAssetId": "mot_adv_chr_cmn_glad-003_in",
+        "additionMotionAssetId": ""
+      }
+    ]
+  },
+  {
+    "homeTalkId": "home-talk-card-yu-05-mizg-02-talk-01",
+    "characterId": "char-yu",
+    "placeType": 1,
+    "conditionId": "cd-st-read-st-card-yu-05-mizg-02-03",
+    "firstPriority": 9900,
+    "weight": 1,
+    "callPatternId": "call-pattern-card-yu-05-mizg-02",
+    "choiceText": "特になかったが",
+    "managerText": "特になかったが",
+    "reliability": 5,
+    "characterTalks": [
+      {
+        "text": "瑠依ちゃん、あんな可愛いし、\nちょ～っと抜けてるところが\nあるから、うち心配ですわぁ。",
+        "voiceAssetId": "sud_vo_home_yu-05-mizg-02_talk-01-01",
+        "motionAssetId": "mot_adv_chr_cmn_think-006_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "パパ活の意味も、よう知らんかった\nみたいやし。すみれちゃんの方が\nその辺は大人やねぇ。",
+        "voiceAssetId": "sud_vo_home_yu-05-mizg-02_talk-01-02",
+        "motionAssetId": "mot_adv_chr_cmn_pos-010_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "{user}さんが、\nそこんとこ、ちゃ～んとガード\nせんとあかんよ。",
+        "voiceAssetId": "sud_vo_home_yu-05-mizg-02_talk-01-03",
+        "motionAssetId": "mot_adv_chr_cmn_talk-011_in",
+        "additionMotionAssetId": "mot_all_chr_cmn_facial-032_in"
+      },
+      {
+        "text": "……ん？　うちにも変な男が\n寄ってきた時には、\n守ってくれるって？",
+        "voiceAssetId": "sud_vo_home_yu-05-mizg-02_talk-01-04",
+        "motionAssetId": "mot_adv_chr_cmn_ask-001_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "ふふ、ありがとう。\nめっちゃかっこいい登場\n期待して待ってます～。",
+        "voiceAssetId": "sud_vo_home_yu-05-mizg-02_talk-01-05",
+        "motionAssetId": "mot_adv_chr_cmn_glad-011_in",
         "additionMotionAssetId": ""
       }
     ]
