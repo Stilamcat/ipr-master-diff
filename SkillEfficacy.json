@@ -2900,6 +2900,26 @@
     "shortDescription": ""
   },
   {
+    "id": "ef-audience_amount_increase-6-target-character_type-1-1-40",
+    "name": "スコアラータイプ1人に集目効果",
+    "type": 21,
+    "description": "スコアラータイプ1人に6段階の集目効果[40ビート]",
+    "grade": 6,
+    "maxGrade": 10,
+    "skillTargetId": "target-character_type-1-1",
+    "shortDescription": ""
+  },
+  {
+    "id": "ef-audience_amount_increase-6-target-character_type-1-1-45",
+    "name": "スコアラータイプ1人に集目効果",
+    "type": 21,
+    "description": "スコアラータイプ1人に6段階の集目効果[45ビート]",
+    "grade": 6,
+    "maxGrade": 10,
+    "skillTargetId": "target-character_type-1-1",
+    "shortDescription": ""
+  },
+  {
     "id": "ef-audience_amount_increase-6-target-dance-1-28",
     "name": "ダンスタイプ1人に集目効果",
     "type": 21,
@@ -3087,6 +3107,26 @@
     "grade": 7,
     "maxGrade": 10,
     "skillTargetId": "target-center",
+    "shortDescription": ""
+  },
+  {
+    "id": "ef-audience_amount_increase-7-target-character_type-1-1-45",
+    "name": "スコアラータイプ1人に集目効果",
+    "type": 21,
+    "description": "スコアラータイプ1人に7段階の集目効果[45ビート]",
+    "grade": 7,
+    "maxGrade": 10,
+    "skillTargetId": "target-character_type-1-1",
+    "shortDescription": ""
+  },
+  {
+    "id": "ef-audience_amount_increase-7-target-character_type-1-1-50",
+    "name": "スコアラータイプ1人に集目効果",
+    "type": 21,
+    "description": "スコアラータイプ1人に7段階の集目効果[50ビート]",
+    "grade": 7,
+    "maxGrade": 10,
+    "skillTargetId": "target-character_type-1-1",
     "shortDescription": ""
   },
   {
@@ -3317,6 +3357,26 @@
     "grade": 8,
     "maxGrade": 10,
     "skillTargetId": "target-center",
+    "shortDescription": ""
+  },
+  {
+    "id": "ef-audience_amount_increase-8-target-character_type-1-1-50",
+    "name": "スコアラータイプ1人に集目効果",
+    "type": 21,
+    "description": "スコアラータイプ1人に8段階の集目効果[50ビート]",
+    "grade": 8,
+    "maxGrade": 10,
+    "skillTargetId": "target-character_type-1-1",
+    "shortDescription": ""
+  },
+  {
+    "id": "ef-audience_amount_increase-8-target-character_type-1-1-55",
+    "name": "スコアラータイプ1人に集目効果",
+    "type": 21,
+    "description": "スコアラータイプ1人に8段階の集目効果[55ビート]",
+    "grade": 8,
+    "maxGrade": 10,
+    "skillTargetId": "target-character_type-1-1",
     "shortDescription": ""
   },
   {
@@ -7460,6 +7520,16 @@
     "maxGrade": 0
   },
   {
+    "id": "ef-cool_time_reduction-5-target-self",
+    "name": "自身のCTを減少",
+    "type": 27,
+    "description": "自身のCTを5減少",
+    "skillTargetId": "target-self",
+    "shortDescription": "",
+    "grade": 0,
+    "maxGrade": 0
+  },
+  {
     "id": "ef-cool_time_reduction-50-target-character_type-3-2",
     "name": "サポータータイプ2人のCTを減少",
     "type": 27,
@@ -11470,6 +11540,16 @@
     "shortDescription": ""
   },
   {
+    "id": "ef-critical_rate_up-5-target-character_type-1-2-45",
+    "name": "スコアラータイプ2人にクリティカル率上昇効果",
+    "type": 19,
+    "description": "スコアラータイプ2人に5段階クリティカル率上昇効果[45ビート]",
+    "grade": 5,
+    "maxGrade": 20,
+    "skillTargetId": "target-character_type-1-2",
+    "shortDescription": ""
+  },
+  {
     "id": "ef-critical_rate_up-5-target-character_type-1-2-50",
     "name": "スコアラータイプ2人にクリティカル率上昇効果",
     "type": 19,
@@ -12904,6 +12984,16 @@
     "name": "スコアラータイプ2人にクリティカル率上昇効果",
     "type": 19,
     "description": "スコアラータイプ2人に7段階クリティカル率上昇効果[43ビート]",
+    "grade": 7,
+    "maxGrade": 20,
+    "skillTargetId": "target-character_type-1-2",
+    "shortDescription": ""
+  },
+  {
+    "id": "ef-critical_rate_up-7-target-character_type-1-2-45",
+    "name": "スコアラータイプ2人にクリティカル率上昇効果",
+    "type": 19,
+    "description": "スコアラータイプ2人に7段階クリティカル率上昇効果[45ビート]",
     "grade": 7,
     "maxGrade": 20,
     "skillTargetId": "target-character_type-1-2",
@@ -35290,6 +35380,16 @@
     "shortDescription": ""
   },
   {
+    "id": "ef-special_score_multiplier_add-1-target-character_type-1-2-999",
+    "name": "スコアラータイプ2人にSPスキルスコア追加効果",
+    "type": 59,
+    "description": "スコアラータイプ2人に1段階SPスキルスコア追加効果",
+    "grade": 1,
+    "maxGrade": 30,
+    "skillTargetId": "target-character_type-1-2",
+    "shortDescription": ""
+  },
+  {
     "id": "ef-special_score_multiplier_add-2-target-character_type-1-2-999",
     "name": "スコアラータイプ2人にSPスキルスコア追加効果",
     "type": 59,
@@ -46900,6 +47000,16 @@
     "shortDescription": ""
   },
   {
+    "id": "ef-vocal_up-3-target-character_type-1-1-40",
+    "name": "スコアラータイプ1人にボーカル上昇効果",
+    "type": 14,
+    "description": "スコアラータイプ1人に3段階ボーカル上昇効果[40ビート]",
+    "grade": 3,
+    "maxGrade": 20,
+    "skillTargetId": "target-character_type-1-1",
+    "shortDescription": ""
+  },
+  {
     "id": "ef-vocal_up-3-target-character_type-1-1-45",
     "name": "スコアラータイプ1人にボーカル上昇効果",
     "type": 14,
@@ -47367,6 +47477,26 @@
     "grade": 4,
     "maxGrade": 20,
     "skillTargetId": "target-center",
+    "shortDescription": ""
+  },
+  {
+    "id": "ef-vocal_up-4-target-character_type-1-1-45",
+    "name": "スコアラータイプ1人にボーカル上昇効果",
+    "type": 14,
+    "description": "スコアラータイプ1人に4段階ボーカル上昇効果[45ビート]",
+    "grade": 4,
+    "maxGrade": 20,
+    "skillTargetId": "target-character_type-1-1",
+    "shortDescription": ""
+  },
+  {
+    "id": "ef-vocal_up-4-target-character_type-1-1-50",
+    "name": "スコアラータイプ1人にボーカル上昇効果",
+    "type": 14,
+    "description": "スコアラータイプ1人に4段階ボーカル上昇効果[50ビート]",
+    "grade": 4,
+    "maxGrade": 20,
+    "skillTargetId": "target-character_type-1-1",
     "shortDescription": ""
   },
   {
@@ -47847,6 +47977,26 @@
     "grade": 5,
     "maxGrade": 20,
     "skillTargetId": "target-center",
+    "shortDescription": ""
+  },
+  {
+    "id": "ef-vocal_up-5-target-character_type-1-1-50",
+    "name": "スコアラータイプ1人にボーカル上昇効果",
+    "type": 14,
+    "description": "スコアラータイプ1人に5段階ボーカル上昇効果[50ビート]",
+    "grade": 5,
+    "maxGrade": 20,
+    "skillTargetId": "target-character_type-1-1",
+    "shortDescription": ""
+  },
+  {
+    "id": "ef-vocal_up-5-target-character_type-1-1-55",
+    "name": "スコアラータイプ1人にボーカル上昇効果",
+    "type": 14,
+    "description": "スコアラータイプ1人に5段階ボーカル上昇効果[55ビート]",
+    "grade": 5,
+    "maxGrade": 20,
+    "skillTargetId": "target-character_type-1-1",
     "shortDescription": ""
   },
   {
