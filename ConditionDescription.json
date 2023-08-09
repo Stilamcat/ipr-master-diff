@@ -3552,6 +3552,30 @@
     "description": "メッセージ4を解放"
   },
   {
+    "id": "cd-date-event-ladder-23-0810",
+    "description": "イベント期間(交換期間含まず)"
+  },
+  {
+    "id": "cd-date-event-ladder-23-0810-panel-message-01",
+    "description": "メッセージ1を解放"
+  },
+  {
+    "id": "cd-date-event-ladder-23-0810-panel-message-02",
+    "description": "メッセージ2を解放"
+  },
+  {
+    "id": "cd-date-event-ladder-23-0810-panel-message-03",
+    "description": "メッセージ3を解放"
+  },
+  {
+    "id": "cd-date-event-ladder-23-0810-panel-message-04",
+    "description": "メッセージ4を解放"
+  },
+  {
+    "id": "cd-date-event-ladder-23-0810-panel-message-05",
+    "description": "メッセージ5を解放"
+  },
+  {
     "id": "cd-date-event-ladder-marathon-raid-22-1028-panel-story-01",
     "description": ""
   },
@@ -24972,6 +24996,18 @@
     "description": "【ドカン】水着オールスター特別ショップ"
   },
   {
+    "id": "cd-shop-pack1-23-0809",
+    "description": "【お知らせ】リリース777日記念ショップ"
+  },
+  {
+    "id": "cd-shop-pack1-23-0809-0829",
+    "description": "リリース777日記念ショップ"
+  },
+  {
+    "id": "cd-shop-pack1-23-0809-0829-dokan",
+    "description": "【ドカン】リリース777日記念ショップ"
+  },
+  {
     "id": "cd-shop-renewal-23-0101",
     "description": "23年1月ショップ追加"
   },
@@ -24986,6 +25022,18 @@
   {
     "id": "cd-shop-special-pack-23-0715-0720-dokan",
     "description": "【ドカン】単独ライブ開催記念特別ショップ"
+  },
+  {
+    "id": "cd-shop-special-pack-23-0809",
+    "description": "【お知らせ】リリース777日記念特別ショップ"
+  },
+  {
+    "id": "cd-shop-special-pack-23-0809-0816",
+    "description": "リリース777日記念特別ショップ"
+  },
+  {
+    "id": "cd-shop-special-pack-23-0809-0816-dokan",
+    "description": "【ドカン】リリース777日記念特別ショップ"
   },
   {
     "id": "cd-shop_beginner-pack-01",
@@ -26344,6 +26392,10 @@
     "description": "【ドカン】サマーショップ第3弾"
   },
   {
+    "id": "cd-shop_special-shop-23-0728-0813-dokan-2nd",
+    "description": "【ドカン】サマーショップ第3弾"
+  },
+  {
     "id": "cd-shop_special-shop-23-0728-0813-mlv-120",
     "description": "サマーショップ第3弾Mlv120制御"
   },
@@ -26385,6 +26437,10 @@
   },
   {
     "id": "cd-shop_special-shop1-23-0803-0810-dokan",
+    "description": "【ドカン】渚誕生日ショップ"
+  },
+  {
+    "id": "cd-shop_special-shop1-23-0803-0810-dokan-2nd",
     "description": "【ドカン】渚誕生日ショップ"
   },
   {
@@ -31784,6 +31840,66 @@
     "description": "10回無料/恒常ガチャ/3回目 07/03"
   },
   {
+    "id": "cd-time-gacha-free-23-0809-01-banner",
+    "description": "10回無料/恒常ガチャ/バナー"
+  },
+  {
+    "id": "cd-time-gacha-free-23-0809-01-check",
+    "description": "該当のガチャを引いてるか判定/1回目 08/09"
+  },
+  {
+    "id": "cd-time-gacha-free-23-0809-01-open",
+    "description": "10回無料/恒常ガチャ/1回目 08/09"
+  },
+  {
+    "id": "cd-time-gacha-free-23-0809-02-check",
+    "description": "該当のガチャを引いてるか判定/2回目 08/10"
+  },
+  {
+    "id": "cd-time-gacha-free-23-0809-02-open",
+    "description": "10回無料/恒常ガチャ/2回目 08/10"
+  },
+  {
+    "id": "cd-time-gacha-free-23-0809-03-check",
+    "description": "該当のガチャを引いてるか判定/3回目 08/11"
+  },
+  {
+    "id": "cd-time-gacha-free-23-0809-03-open",
+    "description": "10回無料/恒常ガチャ/3回目 08/11"
+  },
+  {
+    "id": "cd-time-gacha-free-23-0809-04-check",
+    "description": "該当のガチャを引いてるか判定/4回目 08/12"
+  },
+  {
+    "id": "cd-time-gacha-free-23-0809-04-open",
+    "description": "10回無料/恒常ガチャ/4回目 08/12"
+  },
+  {
+    "id": "cd-time-gacha-free-23-0809-05-check",
+    "description": "該当のガチャを引いてるか判定/5回目 08/13"
+  },
+  {
+    "id": "cd-time-gacha-free-23-0809-05-open",
+    "description": "10回無料/恒常ガチャ/5回目 08/13"
+  },
+  {
+    "id": "cd-time-gacha-free-23-0809-06-check",
+    "description": "該当のガチャを引いてるか判定/6回目 08/14"
+  },
+  {
+    "id": "cd-time-gacha-free-23-0809-06-open",
+    "description": "10回無料/恒常ガチャ/6回目 08/14"
+  },
+  {
+    "id": "cd-time-gacha-free-23-0809-07-check",
+    "description": "該当のガチャを引いてるか判定/7回目 08/15"
+  },
+  {
+    "id": "cd-time-gacha-free-23-0809-07-open",
+    "description": "10回無料/恒常ガチャ/7回目 08/15"
+  },
+  {
     "id": "cd-time-gacha-free-ticket-1s-23-0131",
     "description": "無料ガチャチケット"
   },
@@ -33116,6 +33232,18 @@
     "description": "バナー期間終了条件：単独ライブ記念ロックオンDAY2"
   },
   {
+    "id": "cd-time-gacha-rev-rockon-01-23-0809",
+    "description": "cd-time-gacha-rev-rockon-01-23-0809"
+  },
+  {
+    "id": "cd-time-gacha-rev-rockon-01-23-0809-banner",
+    "description": "バナー期間：777日記念ロックオン"
+  },
+  {
+    "id": "cd-time-gacha-rev-rockon-01-23-0809-banner-end",
+    "description": "バナー期間終了条件：777日記念ロックオン"
+  },
+  {
     "id": "cd-time-gacha-rev-select-01-22-0324",
     "description": "期間：選べる★5水着オールスターガチャ"
   },
@@ -33182,6 +33310,14 @@
   {
     "id": "cd-time-gacha-rev-select-01-23-0715-free-open",
     "description": "期間：単独ライブ開催記念！選べる★5アイドルガチャ"
+  },
+  {
+    "id": "cd-time-gacha-rev-select-01-23-0809",
+    "description": "期間：リリース777日記念選べる★5アイドルガチャ"
+  },
+  {
+    "id": "cd-time-gacha-rev-select-01-23-0809-banner",
+    "description": "期間：リリース777日記念選べる★5アイドルガチャ"
   },
   {
     "id": "cd-time-gacha-select-01-21-1206",
@@ -34252,6 +34388,14 @@
     "description": "サマーログボ受け取り期間"
   },
   {
+    "id": "cd-time-login-23-0810-0816",
+    "description": "リリース777日記念ログボ期間"
+  },
+  {
+    "id": "cd-time-login-23-0810-0823",
+    "description": "リリース777日記念ログボ受け取り期間"
+  },
+  {
     "id": "cd-time-market-phase-001-close",
     "description": "マーケット閉じ"
   },
@@ -34977,6 +35121,10 @@
   },
   {
     "id": "cd-time-pvp-23-0801-0803_s-banner",
+    "description": "PVP_Sバナー 開始から3日間"
+  },
+  {
+    "id": "cd-time-pvp-23-0811-0813_s-banner",
     "description": "PVP_Sバナー 開始から3日間"
   },
   {

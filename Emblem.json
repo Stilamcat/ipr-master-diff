@@ -4824,6 +4824,15 @@
     "isViewableInInactive": false
   },
   {
+    "id": "emb-mission-ladder-23-0810",
+    "name": "アイドルたちの夏の思い出",
+    "assetId": "mission-ladder-23-0810",
+    "isViewableInInactive": true,
+    "order": 141000,
+    "description": "「夏の思い出メッセージミッション」",
+    "autoProvideConditionId": ""
+  },
+  {
     "id": "emb-pvp-season-068-top001",
     "name": "VENUSシーズン68 No.1",
     "assetId": "pvp-season-068-top001",
@@ -5009,6 +5018,33 @@
     "assetId": "pvp-season-074-top100",
     "order": 307430,
     "description": "VENUSバトルシーズン74で100位以内獲得",
+    "autoProvideConditionId": "",
+    "isViewableInInactive": false
+  },
+  {
+    "id": "emb-pvp-season-075-top001",
+    "name": "VENUSシーズン75 No.1",
+    "assetId": "pvp-season-075-top001",
+    "order": 307510,
+    "description": "VENUSバトルシーズン75で1位獲得",
+    "autoProvideConditionId": "",
+    "isViewableInInactive": false
+  },
+  {
+    "id": "emb-pvp-season-075-top010",
+    "name": "VENUSシーズン75 TOP10",
+    "assetId": "pvp-season-075-top010",
+    "order": 307520,
+    "description": "VENUSバトルシーズン75で10位以内獲得",
+    "autoProvideConditionId": "",
+    "isViewableInInactive": false
+  },
+  {
+    "id": "emb-pvp-season-075-top100",
+    "name": "VENUSシーズン75 TOP100",
+    "assetId": "pvp-season-075-top100",
+    "order": 307530,
+    "description": "VENUSバトルシーズン75で100位以内獲得",
     "autoProvideConditionId": "",
     "isViewableInInactive": false
   },

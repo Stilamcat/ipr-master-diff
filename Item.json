@@ -2057,6 +2057,17 @@
     "salePrice": 0
   },
   {
+    "id": "item-gacha_point-rev-select-01-23-0809",
+    "name": "ﾘﾘｰｽ777日記念選べる★5アイドルガチャPt",
+    "assetId": "gacha-point",
+    "description": "該当するガチャページの「ガチャPt」から\nガチャPtを消費してアイドルを獲得できる",
+    "type": 9,
+    "value": 1,
+    "order": 140,
+    "howToGet": "",
+    "salePrice": 0
+  },
+  {
     "id": "item-gacha_point-select-01-21-1206",
     "name": "選べる★5バッファーガチャPt",
     "assetId": "gacha-point",
@@ -2513,6 +2524,17 @@
     "assetId": "marathon-raid-pt",
     "description": "マルチリンクスイベントで報酬を獲得することができます\nイベント終了後はコインに変換されます",
     "howToGet": "マルチリンクスイベント",
+    "type": 8001,
+    "value": 1,
+    "order": 100,
+    "salePrice": 0
+  },
+  {
+    "id": "item-ladder_pt_23-0810",
+    "name": "思い出Pt",
+    "assetId": "ladder-pt-23-0810",
+    "description": "夏の思い出メッセージミッションで報酬を獲得することができます\nイベント終了後はコインに変換されます",
+    "howToGet": "夏の思い出メッセージミッション、自主トレ、プロモーション、ファンイベントなど",
     "type": 8001,
     "value": 1,
     "order": 100,
