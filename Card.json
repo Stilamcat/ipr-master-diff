@@ -5582,6 +5582,66 @@
     "homeTalks": []
   },
   {
+    "id": "card-ngs-05-yukt-00",
+    "assetId": "ngs-05-yukt-00",
+    "name": "日差しに火照る頬",
+    "description": "この間のイベントで着た衣装が可愛かったから\nお祭りでも浴衣を着てみたいなーって思って\nこの浴衣、人に見せるのは初めてなんです\n……似合ってますか？",
+    "type": 3,
+    "characterId": "char-ngs",
+    "initialRarity": 5,
+    "cardParameterId": "card-param-01",
+    "vocalRatioPermil": 287,
+    "danceRatioPermil": 415,
+    "visualRatioPermil": 328,
+    "staminaRatioPermil": 900,
+    "cardLevelReleaseId": "card_level_release_1",
+    "skillId1": "sk-ngs-05-yukt-00-1",
+    "skillId2": "sk-ngs-05-yukt-00-2",
+    "skillId3": "sk-ngs-05-yukt-00-3",
+    "liveAbilityId": "lba-beat_score_multiply",
+    "order": 303,
+    "releaseDate": "1691722800000",
+    "rewardCostumeId": "cos-ngs-yukt-00",
+    "imageType1": 3,
+    "displayPositionX1": 0.149,
+    "displayPositionY1": 0.046,
+    "displayScale1": 1.2,
+    "highlightDisplayPositionX1": -0.28,
+    "highlightDisplayPositionY1": 0.183,
+    "highlightDisplayScale1": 1.0,
+    "imageType2": 3,
+    "displayPositionX2": 0.149,
+    "displayPositionY2": 0.046,
+    "displayScale2": 1.2,
+    "highlightDisplayPositionX2": -0.28,
+    "highlightDisplayPositionY2": 0.183,
+    "highlightDisplayScale2": 1.0,
+    "obtainMessage": "遅いですよ、もぉ～",
+    "stories": [
+      {
+        "storyId": "st-card-ngs-05-yukt-00-01"
+      },
+      {
+        "storyId": "st-card-ngs-05-yukt-00-02"
+      },
+      {
+        "storyId": "st-card-ngs-05-yukt-00-03"
+      }
+    ],
+    "messages": [
+      {
+        "messageId": "message-card-ngs-05-yukt-00",
+        "telephoneId": ""
+      },
+      {
+        "telephoneId": "tel-card-ngs-05-yukt-00",
+        "messageId": ""
+      }
+    ],
+    "activityAbilityId": "",
+    "homeTalks": []
+  },
+  {
     "id": "card-rei-02-eve-01",
     "assetId": "rei-02-eve-01",
     "name": "ココロ Distance",

@@ -3194,6 +3194,56 @@
     ]
   },
   {
+    "homeTalkId": "home-talk-card-ngs-05-yukt-00-talk-01",
+    "characterId": "char-ngs",
+    "placeType": 1,
+    "conditionId": "cd-st-read-st-card-ngs-05-yukt-00-03",
+    "firstPriority": 9900,
+    "weight": 1,
+    "callPatternId": "call-pattern-card-ngs-05-yukt-00",
+    "choiceText": "琴乃の代役は務まったかな？",
+    "managerText": "琴乃の代役は務まったかな？",
+    "reliability": 5,
+    "characterTalks": [
+      {
+        "text": "もう、そんなこと気にしなくて\nいいですよ。\nなんと言うか…",
+        "voiceAssetId": "sud_vo_home_ngs-05-yukt-00_talk-01-01",
+        "motionAssetId": "mot_adv_chr_cmn_emb-010_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "{user}さんには\n{user}さんの\n良さがありますし…",
+        "voiceAssetId": "sud_vo_home_ngs-05-yukt-00_talk-01-02",
+        "motionAssetId": "mot_adv_chr_cmn_moji-003_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "…って、なんで私が\n照れてるんですか、もう！",
+        "voiceAssetId": "sud_vo_home_ngs-05-yukt-00_talk-01-03",
+        "motionAssetId": "mot_adv_chr_cmn_angry-016_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "でも、ああやってのんびりする\n時間はとっても大切だなって\n改めて思いました。",
+        "voiceAssetId": "sud_vo_home_ngs-05-yukt-00_talk-01-04",
+        "motionAssetId": "mot_adv_chr_cmn_glad-001_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "良かったら、また\nご一緒してくれたら嬉しいです。",
+        "voiceAssetId": "sud_vo_home_ngs-05-yukt-00_talk-01-05",
+        "motionAssetId": "mot_adv_chr_cmn_pos-021_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "とびっきり可愛い服で、また\n{user}さんの\n顔をあか～くしちゃいますから",
+        "voiceAssetId": "sud_vo_home_ngs-05-yukt-00_talk-01-06",
+        "motionAssetId": "mot_adv_chr_cmn_pos-003_in",
+        "additionMotionAssetId": ""
+      }
+    ]
+  },
+  {
     "homeTalkId": "home-talk-card-rei-05-casl-02-talk-01",
     "characterId": "char-rei",
     "placeType": 1,
