@@ -97415,6 +97415,31 @@
     ]
   },
   {
+    "id": "cd-time-gvg-23-0818-0820_s-banner",
+    "settings": [
+      {
+        "satisfyCondition": {
+          "conditionId": "cd-clear-area-main-012"
+        },
+        "term": {
+          "nowAfter": "1692284400000",
+          "nowBefore": "1692543599000"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-time-gvg-23-0818-0824",
+    "settings": [
+      {
+        "term": {
+          "nowAfter": "1692284400000",
+          "nowBefore": "1692889199000"
+        }
+      }
+    ]
+  },
+  {
     "id": "cd-time-home-after-12",
     "settings": [
       {
