@@ -18473,6 +18473,85 @@
     "description": ""
   },
   {
+    "id": "live-lba-passive_skill-116",
+    "name": "サニーピースメンバーの編成数毎に全体に2段階スキル成功率上昇効果[40ビート]\nCT:50",
+    "levels": [
+      {
+        "level": 1,
+        "description": "パッシブスキル発動",
+        "type": 13,
+        "value": 1,
+        "skillId": "sk-live-lba-passive_skill-116",
+        "shortDescription": "",
+        "requiredItemAmount": 0,
+        "requiredCardLevel": 0,
+        "moodType": 0,
+        "backgroundRankType": 0
+      },
+      {
+        "level": 2,
+        "description": "パッシブスキル発動",
+        "type": 13,
+        "requiredItemAmount": 1,
+        "requiredCardLevel": 1,
+        "value": 2,
+        "skillId": "sk-live-lba-passive_skill-116",
+        "shortDescription": "",
+        "moodType": 0,
+        "backgroundRankType": 0
+      },
+      {
+        "level": 3,
+        "description": "パッシブスキル発動",
+        "type": 13,
+        "requiredItemAmount": 1,
+        "requiredCardLevel": 2,
+        "value": 3,
+        "skillId": "sk-live-lba-passive_skill-116",
+        "shortDescription": "",
+        "moodType": 0,
+        "backgroundRankType": 0
+      },
+      {
+        "level": 4,
+        "description": "パッシブスキル発動",
+        "type": 13,
+        "requiredItemAmount": 1,
+        "requiredCardLevel": 3,
+        "value": 4,
+        "skillId": "sk-live-lba-passive_skill-116",
+        "shortDescription": "",
+        "moodType": 0,
+        "backgroundRankType": 0
+      },
+      {
+        "level": 5,
+        "description": "パッシブスキル発動",
+        "type": 13,
+        "requiredItemAmount": 1,
+        "requiredCardLevel": 4,
+        "value": 5,
+        "skillId": "sk-live-lba-passive_skill-116",
+        "shortDescription": "",
+        "moodType": 0,
+        "backgroundRankType": 0
+      },
+      {
+        "level": 6,
+        "description": "パッシブスキル発動",
+        "type": 13,
+        "requiredItemAmount": 1,
+        "requiredCardLevel": 5,
+        "value": 6,
+        "skillId": "sk-live-lba-passive_skill-116",
+        "shortDescription": "",
+        "moodType": 0,
+        "backgroundRankType": 0
+      }
+    ],
+    "description": ""
+  },
+  {
     "id": "marathon-lba-accessory_parameter_up",
     "name": "アクセサリー効果上昇",
     "levels": [

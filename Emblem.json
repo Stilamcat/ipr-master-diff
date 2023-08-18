@@ -4815,6 +4815,24 @@
     "isViewableInInactive": false
   },
   {
+    "id": "emb-highscore-15-0",
+    "name": "lumière",
+    "assetId": "area_15_100",
+    "order": 202500,
+    "description": "ハイスコアライブ「lumière」で100位以内獲得",
+    "autoProvideConditionId": "",
+    "isViewableInInactive": false
+  },
+  {
+    "id": "emb-highscore-15-1",
+    "name": "歌声を響かそう",
+    "assetId": "area_15",
+    "order": 202510,
+    "description": "ハイスコアライブ「lumière」で1位獲得",
+    "autoProvideConditionId": "",
+    "isViewableInInactive": false
+  },
+  {
     "id": "emb-highscore-eve-2304",
     "name": "Don't say \"lazy\" （HoshiMi Ambassador ver） Sランク達成",
     "assetId": "area_clb_2304",
@@ -5063,6 +5081,33 @@
     "assetId": "pvp-season-075-top100",
     "order": 307530,
     "description": "VENUSバトルシーズン75で100位以内獲得",
+    "autoProvideConditionId": "",
+    "isViewableInInactive": false
+  },
+  {
+    "id": "emb-pvp-season-076-top001",
+    "name": "VENUSシーズン76 No.1",
+    "assetId": "pvp-season-076-top001",
+    "order": 307610,
+    "description": "VENUSバトルシーズン76で1位獲得",
+    "autoProvideConditionId": "",
+    "isViewableInInactive": false
+  },
+  {
+    "id": "emb-pvp-season-076-top010",
+    "name": "VENUSシーズン76 TOP10",
+    "assetId": "pvp-season-076-top010",
+    "order": 307620,
+    "description": "VENUSバトルシーズン76で10位以内獲得",
+    "autoProvideConditionId": "",
+    "isViewableInInactive": false
+  },
+  {
+    "id": "emb-pvp-season-076-top100",
+    "name": "VENUSシーズン76 TOP100",
+    "assetId": "pvp-season-076-top100",
+    "order": 307630,
+    "description": "VENUSバトルシーズン76で100位以内獲得",
     "autoProvideConditionId": "",
     "isViewableInInactive": false
   },

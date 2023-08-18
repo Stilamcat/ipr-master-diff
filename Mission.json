@@ -37577,6 +37577,93 @@
     "eventMissionId": ""
   },
   {
+    "id": "ms-normal-quest_main_clear_count-099",
+    "categoryType": 3,
+    "missionType": 5,
+    "targetIds": [
+      "qt-main-1-099-01",
+      "qt-main-1-099-02",
+      "qt-main-1-099-03",
+      "qt-main-1-099-04",
+      "qt-main-1-099-05",
+      "qt-main-1-099-06",
+      "qt-main-1-099-07",
+      "qt-main-1-099-08"
+    ],
+    "name": "メインライブ:#99をクリア",
+    "shortDescription": "メインライブ:#99をクリア",
+    "longDescription": "メインライブ:#99をクリアしましょう。",
+    "order": 1,
+    "viewConditionId": "cd-clear-area-main-098",
+    "linkType": 3,
+    "progresses": [
+      {
+        "threshold": "8",
+        "rewardSetId": "rd-ms-normal-quest_main_clear_count-099"
+      }
+    ],
+    "linkDetail": "",
+    "eventMissionId": ""
+  },
+  {
+    "id": "ms-normal-quest_main_clear_count-100",
+    "categoryType": 3,
+    "missionType": 5,
+    "targetIds": [
+      "qt-main-1-100-01",
+      "qt-main-1-100-02",
+      "qt-main-1-100-03",
+      "qt-main-1-100-04",
+      "qt-main-1-100-05",
+      "qt-main-1-100-06",
+      "qt-main-1-100-07",
+      "qt-main-1-100-08"
+    ],
+    "name": "メインライブ:#100をクリア",
+    "shortDescription": "メインライブ:#100をクリア",
+    "longDescription": "メインライブ:#100をクリアしましょう。",
+    "order": 1,
+    "viewConditionId": "cd-clear-area-main-099",
+    "linkType": 3,
+    "progresses": [
+      {
+        "threshold": "8",
+        "rewardSetId": "rd-ms-normal-quest_main_clear_count-100"
+      }
+    ],
+    "linkDetail": "",
+    "eventMissionId": ""
+  },
+  {
+    "id": "ms-normal-quest_main_clear_count-101",
+    "categoryType": 3,
+    "missionType": 5,
+    "targetIds": [
+      "qt-main-1-101-01",
+      "qt-main-1-101-02",
+      "qt-main-1-101-03",
+      "qt-main-1-101-04",
+      "qt-main-1-101-05",
+      "qt-main-1-101-06",
+      "qt-main-1-101-07",
+      "qt-main-1-101-08"
+    ],
+    "name": "メインライブ:#101をクリア",
+    "shortDescription": "メインライブ:#101をクリア",
+    "longDescription": "メインライブ:#101をクリアしましょう。",
+    "order": 1,
+    "viewConditionId": "cd-clear-area-main-100",
+    "linkType": 3,
+    "progresses": [
+      {
+        "threshold": "8",
+        "rewardSetId": "rd-ms-normal-quest_main_clear_count-101"
+      }
+    ],
+    "linkDetail": "",
+    "eventMissionId": ""
+  },
+  {
     "id": "ms-normal-quest_main_clear_mastar",
     "categoryType": 3,
     "missionType": 4,

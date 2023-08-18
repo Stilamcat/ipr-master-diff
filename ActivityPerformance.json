@@ -553,6 +553,26 @@
     "assistantNpcSpineId": ""
   },
   {
+    "id": "popup",
+    "costumeTypeIds": [
+      "casl",
+      "schl",
+      "gene",
+      "kion"
+    ],
+    "forceCostumeTypeId": "casl",
+    "fieldId": "popup-00",
+    "existBackground": true,
+    "backgroundTopColorCode": "ede2e8",
+    "backgroundBottomColorCode": "bba08c",
+    "fieldSpineNumber": 5,
+    "existProp": true,
+    "existForeground": false,
+    "fieldSpineColorSlotId": "",
+    "fieldSpineColorSlotNumber": 0,
+    "assistantNpcSpineId": ""
+  },
+  {
     "id": "promotion-video",
     "costumeTypeIds": [
       "idol",

@@ -8652,6 +8652,36 @@
     ]
   },
   {
+    "id": "cd-clear-area-main-099",
+    "settings": [
+      {
+        "clearArea": {
+          "areaId": "area-main-099"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-clear-area-main-100",
+    "settings": [
+      {
+        "clearArea": {
+          "areaId": "area-main-100"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-clear-area-main-101",
+    "settings": [
+      {
+        "clearArea": {
+          "areaId": "area-main-101"
+        }
+      }
+    ]
+  },
+  {
     "id": "cd-clear-cd-clear-qt-tower-800-or-event-ms-comeback-23-0428-quest_tower_clear_count-1",
     "settings": [
       {
@@ -8974,6 +9004,16 @@
       {
         "clearQuest": {
           "questId": "qt-area-1-014"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-clear-qt-area-1-015",
+    "settings": [
+      {
+        "clearQuest": {
+          "questId": "qt-area-1-015"
         }
       }
     ]
@@ -33772,6 +33812,20 @@
         "managerLevel": {
           "levelGte": 204,
           "levelLte": 0
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-manager_level_gte-204-230818",
+    "settings": [
+      {
+        "satisfyCondition": {
+          "conditionId": "cd-manager_level_gte-204"
+        },
+        "term": {
+          "nowAfter": "1692327600000",
+          "nowBefore": "0"
         }
       }
     ]
@@ -74985,6 +75039,39 @@
     ]
   },
   {
+    "id": "cd-shop_special-shop-23-0820",
+    "settings": [
+      {
+        "term": {
+          "nowAfter": "1692500400000",
+          "nowBefore": "0"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-shop_special-shop-23-0820-0825",
+    "settings": [
+      {
+        "term": {
+          "nowAfter": "1692500400000",
+          "nowBefore": "1692932399000"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-shop_special-shop-23-0820-0825-dokan",
+    "settings": [
+      {
+        "term": {
+          "nowAfter": "1692500400000",
+          "nowBefore": "1692932399000"
+        }
+      }
+    ]
+  },
+  {
     "id": "cd-shop_special-shop-banner-21-1125",
     "settings": [
       {
@@ -102071,6 +102158,20 @@
         "term": {
           "nowAfter": "1691679600000",
           "nowBefore": "1691938799000"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-time-pvp-23-0821-0823_s-banner",
+    "settings": [
+      {
+        "satisfyCondition": {
+          "conditionId": "cd-clear-area-main-011"
+        },
+        "term": {
+          "nowAfter": "1692543600000",
+          "nowBefore": "1692802799000"
         }
       }
     ]
