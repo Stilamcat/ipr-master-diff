@@ -14490,6 +14490,36 @@
     "shortDescription": ""
   },
   {
+    "id": "ef-dance_down-6-target-dance-1-38",
+    "name": "ダンスタイプ1人にダンス低下効果",
+    "type": 30,
+    "description": "ダンスタイプ1人に6段階ダンス低下効果[38ビート]",
+    "grade": 6,
+    "maxGrade": 20,
+    "skillTargetId": "target-dance-1",
+    "shortDescription": ""
+  },
+  {
+    "id": "ef-dance_down-6-target-dance-1-42",
+    "name": "ダンスタイプ1人にダンス低下効果",
+    "type": 30,
+    "description": "ダンスタイプ1人に6段階ダンス低下効果[42ビート]",
+    "grade": 6,
+    "maxGrade": 20,
+    "skillTargetId": "target-dance-1",
+    "shortDescription": ""
+  },
+  {
+    "id": "ef-dance_down-6-target-dance-1-46",
+    "name": "ダンスタイプ1人にダンス低下効果",
+    "type": 30,
+    "description": "ダンスタイプ1人に6段階ダンス低下効果[46ビート]",
+    "grade": 6,
+    "maxGrade": 20,
+    "skillTargetId": "target-dance-1",
+    "shortDescription": ""
+  },
+  {
     "id": "ef-dance_down-6-target-dance-2-40",
     "name": "ダンスタイプ2人にダンス低下効果",
     "type": 30,
@@ -14660,6 +14690,16 @@
     "shortDescription": ""
   },
   {
+    "id": "ef-dance_down-7-target-dance-1-46",
+    "name": "ダンスタイプ1人にダンス低下効果",
+    "type": 30,
+    "description": "ダンスタイプ1人に7段階ダンス低下効果[46ビート]",
+    "grade": 7,
+    "maxGrade": 20,
+    "skillTargetId": "target-dance-1",
+    "shortDescription": ""
+  },
+  {
     "id": "ef-dance_down-7-target-dance-2-48",
     "name": "ダンスタイプ2人にダンス低下効果",
     "type": 30,
@@ -14800,6 +14840,16 @@
     "shortDescription": ""
   },
   {
+    "id": "ef-dance_down-8-target-dance-1-46",
+    "name": "ダンスタイプ1人にダンス低下効果",
+    "type": 30,
+    "description": "ダンスタイプ1人に8段階ダンス低下効果[46ビート]",
+    "grade": 8,
+    "maxGrade": 20,
+    "skillTargetId": "target-dance-1",
+    "shortDescription": ""
+  },
+  {
     "id": "ef-dance_down-8-target-dance-2-48",
     "name": "ダンスタイプ2人にダンス低下効果",
     "type": 30,
@@ -14927,6 +14977,16 @@
     "grade": 9,
     "maxGrade": 20,
     "skillTargetId": "target-character_type-2-2",
+    "shortDescription": ""
+  },
+  {
+    "id": "ef-dance_down-9-target-dance-1-46",
+    "name": "ダンスタイプ1人にダンス低下効果",
+    "type": 30,
+    "description": "ダンスタイプ1人に9段階ダンス低下効果[46ビート]",
+    "grade": 9,
+    "maxGrade": 20,
+    "skillTargetId": "target-dance-1",
     "shortDescription": ""
   },
   {
@@ -23350,6 +23410,66 @@
     "skillTargetId": ""
   },
   {
+    "id": "ef-score_get_by_character_count-character_group_2-10500-chart_dependence",
+    "name": "スコア獲得-サニーピースメンバーの編成数が多い程効果上昇",
+    "type": 68,
+    "description": "1050%のスコア獲得、【※手動入力※】の編成数が多い程効果上昇",
+    "shortDescription": "",
+    "grade": 0,
+    "maxGrade": 0,
+    "skillTargetId": ""
+  },
+  {
+    "id": "ef-score_get_by_character_count-character_group_2-12500-chart_dependence",
+    "name": "スコア獲得-サニーピースメンバーの編成数が多い程効果上昇",
+    "type": 68,
+    "description": "1250%のスコア獲得、【※手動入力※】の編成数が多い程効果上昇",
+    "shortDescription": "",
+    "grade": 0,
+    "maxGrade": 0,
+    "skillTargetId": ""
+  },
+  {
+    "id": "ef-score_get_by_character_count-character_group_2-14500-chart_dependence",
+    "name": "スコア獲得-サニーピースメンバーの編成数が多い程効果上昇",
+    "type": 68,
+    "description": "1450%のスコア獲得、【※手動入力※】の編成数が多い程効果上昇",
+    "shortDescription": "",
+    "grade": 0,
+    "maxGrade": 0,
+    "skillTargetId": ""
+  },
+  {
+    "id": "ef-score_get_by_character_count-character_group_2-6500-chart_dependence",
+    "name": "スコア獲得-サニーピースメンバーの編成数が多い程効果上昇",
+    "type": 68,
+    "description": "650%のスコア獲得、【※手動入力※】の編成数が多い程効果上昇",
+    "shortDescription": "",
+    "grade": 0,
+    "maxGrade": 0,
+    "skillTargetId": ""
+  },
+  {
+    "id": "ef-score_get_by_character_count-character_group_2-7500-chart_dependence",
+    "name": "スコア獲得-サニーピースメンバーの編成数が多い程効果上昇",
+    "type": 68,
+    "description": "750%のスコア獲得、【※手動入力※】の編成数が多い程効果上昇",
+    "shortDescription": "",
+    "grade": 0,
+    "maxGrade": 0,
+    "skillTargetId": ""
+  },
+  {
+    "id": "ef-score_get_by_character_count-character_group_2-8500-chart_dependence",
+    "name": "スコア獲得-サニーピースメンバーの編成数が多い程効果上昇",
+    "type": 68,
+    "description": "850%のスコア獲得、【※手動入力※】の編成数が多い程効果上昇",
+    "shortDescription": "",
+    "grade": 0,
+    "maxGrade": 0,
+    "skillTargetId": ""
+  },
+  {
     "id": "ef-score_get_by_less_fan_amount-450-chart_dependence",
     "name": "スコア獲得-ファン数割合が少ない程効果上昇",
     "type": 4,
@@ -27410,6 +27530,36 @@
     "shortDescription": ""
   },
   {
+    "id": "ef-score_up-10-target-character_type-1-1-41",
+    "name": "スコアラータイプ1人にスコア上昇効果",
+    "type": 16,
+    "description": "スコアラータイプ1人に10段階スコア上昇効果[41ビート]",
+    "grade": 10,
+    "maxGrade": 20,
+    "skillTargetId": "target-character_type-1-1",
+    "shortDescription": ""
+  },
+  {
+    "id": "ef-score_up-10-target-character_type-1-1-47",
+    "name": "スコアラータイプ1人にスコア上昇効果",
+    "type": 16,
+    "description": "スコアラータイプ1人に10段階スコア上昇効果[47ビート]",
+    "grade": 10,
+    "maxGrade": 20,
+    "skillTargetId": "target-character_type-1-1",
+    "shortDescription": ""
+  },
+  {
+    "id": "ef-score_up-10-target-character_type-1-1-53",
+    "name": "スコアラータイプ1人にスコア上昇効果",
+    "type": 16,
+    "description": "スコアラータイプ1人に10段階スコア上昇効果[53ビート]",
+    "grade": 10,
+    "maxGrade": 20,
+    "skillTargetId": "target-character_type-1-1",
+    "shortDescription": ""
+  },
+  {
     "id": "ef-score_up-10-target-character_type-1-2-27",
     "name": "スコアラータイプ2人にスコア上昇効果",
     "type": 16,
@@ -31224,6 +31374,16 @@
     "name": "スコアラータイプ1人にスコア上昇効果",
     "type": 16,
     "description": "スコアラータイプ1人に9段階スコア上昇効果[40ビート]",
+    "grade": 9,
+    "maxGrade": 20,
+    "skillTargetId": "target-character_type-1-1",
+    "shortDescription": ""
+  },
+  {
+    "id": "ef-score_up-9-target-character_type-1-1-41",
+    "name": "スコアラータイプ1人にスコア上昇効果",
+    "type": 16,
+    "description": "スコアラータイプ1人に9段階スコア上昇効果[41ビート]",
     "grade": 9,
     "maxGrade": 20,
     "skillTargetId": "target-character_type-1-1",
@@ -39380,6 +39540,16 @@
     "maxGrade": 0
   },
   {
+    "id": "ef-strength_effect_erasing-visual_up-target-opponent_same_position",
+    "name": "同じレーンの相手のビジュアル上昇効果消去",
+    "type": 51,
+    "description": "[ライブバトルのみ]同じレーンの相手のビジュアル上昇効果消去",
+    "skillTargetId": "target-opponent_same_position",
+    "shortDescription": "",
+    "grade": 0,
+    "maxGrade": 0
+  },
+  {
     "id": "ef-strength_effect_erasing_all-target-opponent_center",
     "name": "相手のセンターの強化効果消去",
     "type": 65,
@@ -41250,6 +41420,26 @@
     "shortDescription": ""
   },
   {
+    "id": "ef-visual_boost-5-target-self-25",
+    "name": "自身にビジュアルブースト効果",
+    "type": 58,
+    "description": "自身に5段階ビジュアルブースト効果[25ビート]",
+    "grade": 5,
+    "maxGrade": 20,
+    "skillTargetId": "target-self",
+    "shortDescription": ""
+  },
+  {
+    "id": "ef-visual_boost-5-target-self-30",
+    "name": "自身にビジュアルブースト効果",
+    "type": 58,
+    "description": "自身に5段階ビジュアルブースト効果[30ビート]",
+    "grade": 5,
+    "maxGrade": 20,
+    "skillTargetId": "target-self",
+    "shortDescription": ""
+  },
+  {
     "id": "ef-visual_boost-5-target-self-35",
     "name": "自身にビジュアルブースト効果",
     "type": 58,
@@ -41310,6 +41500,26 @@
     "shortDescription": ""
   },
   {
+    "id": "ef-visual_boost-6-target-self-30",
+    "name": "自身にビジュアルブースト効果",
+    "type": 58,
+    "description": "自身に6段階ビジュアルブースト効果[30ビート]",
+    "grade": 6,
+    "maxGrade": 20,
+    "skillTargetId": "target-self",
+    "shortDescription": ""
+  },
+  {
+    "id": "ef-visual_boost-6-target-self-35",
+    "name": "自身にビジュアルブースト効果",
+    "type": 58,
+    "description": "自身に6段階ビジュアルブースト効果[35ビート]",
+    "grade": 6,
+    "maxGrade": 20,
+    "skillTargetId": "target-self",
+    "shortDescription": ""
+  },
+  {
     "id": "ef-visual_boost-6-target-self-40",
     "name": "自身にビジュアルブースト効果",
     "type": 58,
@@ -41337,6 +41547,16 @@
     "grade": 6,
     "maxGrade": 20,
     "skillTargetId": "target-visual-2",
+    "shortDescription": ""
+  },
+  {
+    "id": "ef-visual_boost-7-target-self-35",
+    "name": "自身にビジュアルブースト効果",
+    "type": 58,
+    "description": "自身に7段階ビジュアルブースト効果[35ビート]",
+    "grade": 7,
+    "maxGrade": 20,
+    "skillTargetId": "target-self",
     "shortDescription": ""
   },
   {
@@ -41720,6 +41940,36 @@
     "shortDescription": ""
   },
   {
+    "id": "ef-visual_down-6-target-visual-1-38",
+    "name": "ビジュアルタイプ1人にビジュアル低下効果",
+    "type": 32,
+    "description": "ビジュアルタイプ1人に6段階ビジュアル低下効果[38ビート]",
+    "grade": 6,
+    "maxGrade": 20,
+    "skillTargetId": "target-visual-1",
+    "shortDescription": ""
+  },
+  {
+    "id": "ef-visual_down-6-target-visual-1-42",
+    "name": "ビジュアルタイプ1人にビジュアル低下効果",
+    "type": 32,
+    "description": "ビジュアルタイプ1人に6段階ビジュアル低下効果[42ビート]",
+    "grade": 6,
+    "maxGrade": 20,
+    "skillTargetId": "target-visual-1",
+    "shortDescription": ""
+  },
+  {
+    "id": "ef-visual_down-6-target-visual-1-46",
+    "name": "ビジュアルタイプ1人にビジュアル低下効果",
+    "type": 32,
+    "description": "ビジュアルタイプ1人に6段階ビジュアル低下効果[46ビート]",
+    "grade": 6,
+    "maxGrade": 20,
+    "skillTargetId": "target-visual-1",
+    "shortDescription": ""
+  },
+  {
     "id": "ef-visual_down-7-target-all-48",
     "name": "全員にビジュアル低下効果",
     "type": 32,
@@ -41830,6 +42080,16 @@
     "shortDescription": ""
   },
   {
+    "id": "ef-visual_down-7-target-visual-1-46",
+    "name": "ビジュアルタイプ1人にビジュアル低下効果",
+    "type": 32,
+    "description": "ビジュアルタイプ1人に7段階ビジュアル低下効果[46ビート]",
+    "grade": 7,
+    "maxGrade": 20,
+    "skillTargetId": "target-visual-1",
+    "shortDescription": ""
+  },
+  {
     "id": "ef-visual_down-8-target-all-48",
     "name": "全員にビジュアル低下効果",
     "type": 32,
@@ -41880,6 +42140,16 @@
     "shortDescription": ""
   },
   {
+    "id": "ef-visual_down-8-target-visual-1-46",
+    "name": "ビジュアルタイプ1人にビジュアル低下効果",
+    "type": 32,
+    "description": "ビジュアルタイプ1人に8段階ビジュアル低下効果[46ビート]",
+    "grade": 8,
+    "maxGrade": 20,
+    "skillTargetId": "target-visual-1",
+    "shortDescription": ""
+  },
+  {
     "id": "ef-visual_down-9-target-character_type-1-2-46",
     "name": "スコアラータイプ2人にビジュアル低下効果",
     "type": 32,
@@ -41917,6 +42187,16 @@
     "grade": 9,
     "maxGrade": 20,
     "skillTargetId": "target-opponent_same_position",
+    "shortDescription": ""
+  },
+  {
+    "id": "ef-visual_down-9-target-visual-1-46",
+    "name": "ビジュアルタイプ1人にビジュアル低下効果",
+    "type": 32,
+    "description": "ビジュアルタイプ1人に9段階ビジュアル低下効果[46ビート]",
+    "grade": 9,
+    "maxGrade": 20,
+    "skillTargetId": "target-visual-1",
     "shortDescription": ""
   },
   {
@@ -46400,6 +46680,36 @@
     "shortDescription": ""
   },
   {
+    "id": "ef-vocal_down-6-target-vocal-1-38",
+    "name": "ボーカルタイプ1人にボーカル低下効果",
+    "type": 31,
+    "description": "ボーカルタイプ1人に6段階ボーカル低下効果[38ビート]",
+    "grade": 6,
+    "maxGrade": 20,
+    "skillTargetId": "target-vocal-1",
+    "shortDescription": ""
+  },
+  {
+    "id": "ef-vocal_down-6-target-vocal-1-42",
+    "name": "ボーカルタイプ1人にボーカル低下効果",
+    "type": 31,
+    "description": "ボーカルタイプ1人に6段階ボーカル低下効果[42ビート]",
+    "grade": 6,
+    "maxGrade": 20,
+    "skillTargetId": "target-vocal-1",
+    "shortDescription": ""
+  },
+  {
+    "id": "ef-vocal_down-6-target-vocal-1-46",
+    "name": "ボーカルタイプ1人にボーカル低下効果",
+    "type": 31,
+    "description": "ボーカルタイプ1人に6段階ボーカル低下効果[46ビート]",
+    "grade": 6,
+    "maxGrade": 20,
+    "skillTargetId": "target-vocal-1",
+    "shortDescription": ""
+  },
+  {
     "id": "ef-vocal_down-6-target-vocal-2-38",
     "name": "ボーカルタイプ2人にボーカル低下効果",
     "type": 31,
@@ -46620,6 +46930,16 @@
     "shortDescription": ""
   },
   {
+    "id": "ef-vocal_down-7-target-vocal-1-46",
+    "name": "ボーカルタイプ1人にボーカル低下効果",
+    "type": 31,
+    "description": "ボーカルタイプ1人に7段階ボーカル低下効果[46ビート]",
+    "grade": 7,
+    "maxGrade": 20,
+    "skillTargetId": "target-vocal-1",
+    "shortDescription": ""
+  },
+  {
     "id": "ef-vocal_down-7-target-vocal-2-46",
     "name": "ボーカルタイプ2人にボーカル低下効果",
     "type": 31,
@@ -46790,6 +47110,16 @@
     "shortDescription": ""
   },
   {
+    "id": "ef-vocal_down-8-target-vocal-1-46",
+    "name": "ボーカルタイプ1人にボーカル低下効果",
+    "type": 31,
+    "description": "ボーカルタイプ1人に8段階ボーカル低下効果[46ビート]",
+    "grade": 8,
+    "maxGrade": 20,
+    "skillTargetId": "target-vocal-1",
+    "shortDescription": ""
+  },
+  {
     "id": "ef-vocal_down-8-target-vocal-2-46",
     "name": "ボーカルタイプ2人にボーカル低下効果",
     "type": 31,
@@ -46914,6 +47244,16 @@
     "name": "ボーカルタイプ1人にボーカル低下効果",
     "type": 31,
     "description": "ボーカルタイプ1人に9段階ボーカル低下効果[43ビート]",
+    "grade": 9,
+    "maxGrade": 20,
+    "skillTargetId": "target-vocal-1",
+    "shortDescription": ""
+  },
+  {
+    "id": "ef-vocal_down-9-target-vocal-1-46",
+    "name": "ボーカルタイプ1人にボーカル低下効果",
+    "type": 31,
+    "description": "ボーカルタイプ1人に9段階ボーカル低下効果[46ビート]",
     "grade": 9,
     "maxGrade": 20,
     "skillTargetId": "target-vocal-1",

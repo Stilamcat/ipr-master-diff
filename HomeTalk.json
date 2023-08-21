@@ -4810,6 +4810,44 @@
     ]
   },
   {
+    "homeTalkId": "home-talk-card-skr-05-sail-00-talk-01",
+    "characterId": "char-skr",
+    "placeType": 1,
+    "conditionId": "cd-st-read-st-card-skr-05-sail-00-03",
+    "firstPriority": 9900,
+    "weight": 1,
+    "callPatternId": "call-pattern-card-skr-05-sail-00",
+    "choiceText": "さくら…だよな？",
+    "managerText": "さくら…だよな？",
+    "reliability": 5,
+    "characterTalks": [
+      {
+        "text": "はい、正真正銘、川咲さくらです。\n実は今、星見プロのみんなの\nモノマネを練習してるんです！",
+        "voiceAssetId": "sud_vo_home_skr-05-sail-00_talk-01-01",
+        "motionAssetId": "mot_adv_chr_cmn_pos-014_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "前にフリートークのネタとして\nサニピメンバーのモノマネに\n挑戦したことがありましたよね。",
+        "voiceAssetId": "sud_vo_home_skr-05-sail-00_talk-01-02",
+        "motionAssetId": "mot_adv_chr_cmn_ask-006_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "あの時、モノマネする私を見て\nこころちゃんが\nアドバイスしてくれたんです。",
+        "voiceAssetId": "sud_vo_home_skr-05-sail-00_talk-01-03",
+        "motionAssetId": "mot_adv_chr_cmn_pos-020_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "他のグループのモノマネも練習して\n本人の前で披露したら\n絶対仲良くなれますよって。",
+        "voiceAssetId": "sud_vo_home_skr-05-sail-00_talk-01-04",
+        "motionAssetId": "mot_adv_chr_cmn_pos-010_in",
+        "additionMotionAssetId": ""
+      }
+    ]
+  },
+  {
     "homeTalkId": "home-talk-card-smr-05-fest-00-talk-01",
     "characterId": "char-smr",
     "placeType": 1,
