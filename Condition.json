@@ -24346,6 +24346,17 @@
     ]
   },
   {
+    "id": "cd-exchange-photo-medal-23-0824",
+    "settings": [
+      {
+        "term": {
+          "nowAfter": "1692846000000",
+          "nowBefore": "0"
+        }
+      }
+    ]
+  },
+  {
     "id": "cd-exchange-photo-medal-item-22-0724",
     "settings": [
       {
@@ -87914,6 +87925,24 @@
     ]
   },
   {
+    "id": "cd-time-event_tour-23-0825",
+    "settings": [
+      {
+        "managerLevel": {
+          "levelGte": 40,
+          "levelLte": 0
+        },
+        "term": {
+          "nowAfter": "1692932400000",
+          "nowBefore": "1693191599000"
+        },
+        "clearArea": {
+          "areaId": "area-main-001"
+        }
+      }
+    ]
+  },
+  {
     "id": "cd-time-event_tour-mission-21-0731",
     "settings": [
       {
@@ -95270,6 +95299,39 @@
     ]
   },
   {
+    "id": "cd-time-gacha-premium-23-0824",
+    "settings": [
+      {
+        "term": {
+          "nowAfter": "1692846000000",
+          "nowBefore": "1695524399000"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-time-gacha-premium-23-0824-banner",
+    "settings": [
+      {
+        "term": {
+          "nowAfter": "1692846000000",
+          "nowBefore": "1693148399000"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-time-gacha-premium-23-0824-banner-end",
+    "settings": [
+      {
+        "term": {
+          "nowAfter": "1695222000000",
+          "nowBefore": "1695524399000"
+        }
+      }
+    ]
+  },
+  {
     "id": "cd-time-gacha-premium-shop_top_premium-shop-pack-23-0624-01",
     "settings": [
       {
@@ -96655,6 +96717,43 @@
         "term": {
           "nowAfter": "1692241200000",
           "nowBefore": "1692845999000"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-time-gacha-select-01-23-0826",
+    "settings": [
+      {
+        "term": {
+          "nowAfter": "1693018800000",
+          "nowBefore": "1693450799000"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-time-gacha-select-01-23-0826-banner",
+    "settings": [
+      {
+        "notSatisfyCondition": {
+          "conditionId": "cd-time-gacha-select-01-23-0826-banner-end"
+        },
+        "term": {
+          "nowAfter": "1693018800000",
+          "nowBefore": "1693450799000"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-time-gacha-select-01-23-0826-banner-end",
+    "settings": [
+      {
+        "drawGacha": {
+          "gachaButtonIds": [
+            "btn-10-gacha-select-01-23-0826"
+          ]
         }
       }
     ]
