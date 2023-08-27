@@ -6439,6 +6439,57 @@
     "homeTalks": []
   },
   {
+    "id": "card-rio-05-birt-00",
+    "assetId": "rio-05-birt-00",
+    "name": "真心パンケーキバースデー",
+    "description": "まさか、ここまで大きなサプライズを\n仕掛けてくるなんて\n今までで一番、忘れられない誕生日よ",
+    "type": 3,
+    "characterId": "char-rio",
+    "initialRarity": 5,
+    "cardParameterId": "card-param-01",
+    "vocalRatioPermil": 326,
+    "danceRatioPermil": 290,
+    "visualRatioPermil": 414,
+    "staminaRatioPermil": 900,
+    "cardLevelReleaseId": "card_level_release_1",
+    "skillId1": "sk-rio-05-birt-00-1",
+    "skillId2": "sk-rio-05-birt-00-2",
+    "skillId3": "sk-rio-05-birt-00-3",
+    "liveAbilityId": "lba-beat_score_multiply",
+    "order": 306,
+    "releaseDate": "1693148400000",
+    "imageType1": 3,
+    "displayPositionX1": -0.004,
+    "displayPositionY1": 0.083,
+    "displayScale1": 1.2,
+    "highlightDisplayPositionX1": -0.117,
+    "highlightDisplayPositionY1": 0.181,
+    "highlightDisplayScale1": 0.8,
+    "imageType2": 3,
+    "displayPositionX2": -0.004,
+    "displayPositionY2": 0.083,
+    "displayScale2": 1.2,
+    "highlightDisplayPositionX2": -0.117,
+    "highlightDisplayPositionY2": 0.181,
+    "highlightDisplayScale2": 0.8,
+    "obtainMessage": "こんなパンケーキ、食べたことないわ！",
+    "stories": [
+      {
+        "storyId": "st-card-rio-05-birt-00-01"
+      },
+      {
+        "storyId": "st-card-rio-05-birt-00-02"
+      },
+      {
+        "storyId": "st-card-rio-05-birt-00-03"
+      }
+    ],
+    "activityAbilityId": "",
+    "rewardCostumeId": "",
+    "messages": [],
+    "homeTalks": []
+  },
+  {
     "id": "card-rio-05-fest-00",
     "assetId": "rio-05-fest-00",
     "name": "奇跡より必然",

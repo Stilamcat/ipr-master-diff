@@ -4808,6 +4808,17 @@
     ]
   },
   {
+    "id": "cd-birthday_emblem_rio-23-0828",
+    "settings": [
+      {
+        "term": {
+          "nowAfter": "1693148400000",
+          "nowBefore": "1693235399000"
+        }
+      }
+    ]
+  },
+  {
     "id": "cd-birthday_emblem_rui-22-1111",
     "settings": [
       {
@@ -5626,6 +5637,23 @@
     ]
   },
   {
+    "id": "cd-birthday_rio-0828-close",
+    "settings": [
+      {
+        "term": {
+          "nowAfter": "1630076400000",
+          "nowBefore": "1630162799000"
+        }
+      },
+      {
+        "term": {
+          "nowAfter": "1661612400000",
+          "nowBefore": "1661698799000"
+        }
+      }
+    ]
+  },
+  {
     "id": "cd-birthday_rio-21-0828",
     "settings": [
       {
@@ -5643,6 +5671,17 @@
         "term": {
           "nowAfter": "1661612400000",
           "nowBefore": "1661698799000"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-birthday_rio-23-0828",
+    "settings": [
+      {
+        "term": {
+          "nowAfter": "1693148400000",
+          "nowBefore": "1693234799000"
         }
       }
     ]
@@ -23058,6 +23097,17 @@
       {
         "term": {
           "nowAfter": "1678201200000",
+          "nowBefore": "0"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-ex-story-part-birthday-rio-23-0828-open",
+    "settings": [
+      {
+        "term": {
+          "nowAfter": "1693148400000",
           "nowBefore": "0"
         }
       }
@@ -75093,6 +75143,39 @@
     ]
   },
   {
+    "id": "cd-shop_special-shop-23-0828",
+    "settings": [
+      {
+        "term": {
+          "nowAfter": "1693148400000",
+          "nowBefore": "0"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-shop_special-shop-23-0828-0904",
+    "settings": [
+      {
+        "term": {
+          "nowAfter": "1693148400000",
+          "nowBefore": "1693796399000"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-shop_special-shop-23-0828-0904-dokan",
+    "settings": [
+      {
+        "term": {
+          "nowAfter": "1693148400000",
+          "nowBefore": "1693796399000"
+        }
+      }
+    ]
+  },
+  {
     "id": "cd-shop_special-shop-banner-21-1125",
     "settings": [
       {
@@ -89322,6 +89405,31 @@
     ]
   },
   {
+    "id": "cd-time-gacha-birthday-23-0828",
+    "settings": [
+      {
+        "term": {
+          "nowAfter": "1693148400000",
+          "nowBefore": "1693796399000"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-time-gacha-birthday-23-0828-banner",
+    "settings": [
+      {
+        "satisfyCondition": {
+          "conditionId": "cd-time-gacha-fixed-23-0828-banner-end"
+        },
+        "term": {
+          "nowAfter": "1693148400000",
+          "nowBefore": "1693796399000"
+        }
+      }
+    ]
+  },
+  {
     "id": "cd-time-gacha-birthday-hair-23-0707",
     "settings": [
       {
@@ -89344,6 +89452,20 @@
         },
         "term": {
           "nowAfter": "1690988400000",
+          "nowBefore": "0"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-time-gacha-birthday-hair-23-0828",
+    "settings": [
+      {
+        "obtainCard": {
+          "cardId": "card-rio-05-birt-00"
+        },
+        "term": {
+          "nowAfter": "1693148400000",
           "nowBefore": "0"
         }
       }
@@ -90370,6 +90492,43 @@
         "drawGacha": {
           "gachaButtonIds": [
             "btn-10-gacha-fixed-23-0811-total"
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-time-gacha-fixed-23-0828",
+    "settings": [
+      {
+        "term": {
+          "nowAfter": "1693148400000",
+          "nowBefore": "1693796399000"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-time-gacha-fixed-23-0828-banner",
+    "settings": [
+      {
+        "notSatisfyCondition": {
+          "conditionId": "cd-time-gacha-fixed-23-0828-banner-end"
+        },
+        "term": {
+          "nowAfter": "1693148400000",
+          "nowBefore": "1693796399000"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-time-gacha-fixed-23-0828-banner-end",
+    "settings": [
+      {
+        "drawGacha": {
+          "gachaButtonIds": [
+            "btn-10-gacha-fixed-23-0828-total"
           ]
         }
       }
