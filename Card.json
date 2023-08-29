@@ -2106,6 +2106,66 @@
     "homeTalks": []
   },
   {
+    "id": "card-hrk-05-pair-00",
+    "assetId": "hrk-05-pair-00",
+    "name": "膨らむ頬と未来への期待",
+    "description": "私は気付かない間に、大きく成長していた\r\nそれを自覚して、時にはふさわしい態度も必要なんだわ\r\nそれが分からないでわがままを言ってたら\r\nそれこそ、暴れん坊の怪獣になっちゃうもの",
+    "type": 2,
+    "characterId": "char-hrk",
+    "initialRarity": 5,
+    "cardParameterId": "card-param-01",
+    "vocalRatioPermil": 404,
+    "danceRatioPermil": 316,
+    "visualRatioPermil": 280,
+    "staminaRatioPermil": 1000,
+    "cardLevelReleaseId": "card_level_release_1",
+    "skillId1": "sk-hrk-05-pair-00-1",
+    "skillId2": "sk-hrk-05-pair-00-2",
+    "skillId3": "sk-hrk-05-pair-00-3",
+    "activityAbilityId": "aab-promotion_manager_exp_up",
+    "order": 308,
+    "releaseDate": "1693278000000",
+    "rewardCostumeId": "cos-hrk-pair-00",
+    "imageType1": 3,
+    "displayPositionX1": 0.16,
+    "displayScale1": 1.0,
+    "highlightDisplayPositionX1": -0.256,
+    "highlightDisplayPositionY1": 1.123,
+    "highlightDisplayScale1": 0.6,
+    "imageType2": 3,
+    "displayPositionX2": 0.16,
+    "displayScale2": 1.0,
+    "highlightDisplayPositionX2": -0.256,
+    "highlightDisplayPositionY2": 1.123,
+    "highlightDisplayScale2": 0.6,
+    "obtainMessage": "むちむち怪獣ハルドン、\r\nっていうことなのかしら……",
+    "stories": [
+      {
+        "storyId": "st-card-hrk-05-pair-00-01"
+      },
+      {
+        "storyId": "st-card-hrk-05-pair-00-02"
+      },
+      {
+        "storyId": "st-card-hrk-05-pair-00-03"
+      }
+    ],
+    "messages": [
+      {
+        "messageId": "message-card-hrk-05-pair-00",
+        "telephoneId": ""
+      },
+      {
+        "telephoneId": "tel-card-hrk-05-pair-00",
+        "messageId": ""
+      }
+    ],
+    "liveAbilityId": "",
+    "displayPositionY1": 0.0,
+    "displayPositionY2": 0.0,
+    "homeTalks": []
+  },
+  {
     "id": "card-hrk-05-sail-00",
     "assetId": "hrk-05-sail-00",
     "name": "陽光見守るとなりの青春",
@@ -4435,6 +4495,47 @@
     "homeTalks": []
   },
   {
+    "id": "card-mhk-02-eve-01",
+    "assetId": "mhk-02-eve-01",
+    "name": "孤高の理解者",
+    "description": "この間遙子と飲んだ時に相談されたのよ\r\n何か言わないと解放されそうにないから仕方なく",
+    "type": 3,
+    "characterId": "char-mhk",
+    "initialRarity": 2,
+    "cardParameterId": "card-param-01",
+    "vocalRatioPermil": 290,
+    "danceRatioPermil": 411,
+    "visualRatioPermil": 329,
+    "staminaRatioPermil": 900,
+    "cardLevelReleaseId": "card_level_release_1",
+    "skillId1": "sk-mhk-02-eve-01-1",
+    "skillId2": "sk-mhk-02-eve-01-2",
+    "skillId3": "sk-mhk-02-eve-01-3",
+    "order": 309,
+    "releaseDate": "1693278000000",
+    "imageType1": 1,
+    "displayPositionX1": -0.006,
+    "displayPositionY1": 0.246,
+    "displayScale1": 1.0,
+    "highlightDisplayPositionX1": -0.007,
+    "highlightDisplayPositionY1": 0.309,
+    "highlightDisplayScale1": 1.0,
+    "imageType2": 2,
+    "displayPositionX2": 0.233,
+    "displayScale2": 1.0,
+    "highlightDisplayPositionX2": -1.193,
+    "highlightDisplayPositionY2": 0.231,
+    "highlightDisplayScale2": 0.6,
+    "liveAbilityId": "",
+    "activityAbilityId": "",
+    "rewardCostumeId": "",
+    "displayPositionY2": 0.0,
+    "obtainMessage": "",
+    "stories": [],
+    "messages": [],
+    "homeTalks": []
+  },
+  {
     "id": "card-mhk-05-idol-00",
     "assetId": "mhk-05-idol-00",
     "name": "make a comeback",
@@ -6124,6 +6225,66 @@
       }
     ],
     "liveAbilityId": "",
+    "displayPositionY1": 0.0,
+    "displayPositionY2": 0.0,
+    "homeTalks": []
+  },
+  {
+    "id": "card-rei-05-pair-00",
+    "assetId": "rei-05-pair-00",
+    "name": "ステップアップ・バンビーナ",
+    "description": "寮で時間がある時は\r\n遙子さんからいろんなことを教わってるんです\r\nこれからも沢山のことを教えあって、一歩一歩\r\nみんなと一緒に歩んで行けたらって思ってます",
+    "type": 1,
+    "characterId": "char-rei",
+    "initialRarity": 5,
+    "cardParameterId": "card-param-01",
+    "vocalRatioPermil": 279,
+    "danceRatioPermil": 434,
+    "visualRatioPermil": 317,
+    "staminaRatioPermil": 900,
+    "cardLevelReleaseId": "card_level_release_1",
+    "skillId1": "sk-rei-05-pair-00-1",
+    "skillId2": "sk-rei-05-pair-00-2",
+    "skillId3": "sk-rei-05-pair-00-3",
+    "liveAbilityId": "lba-stamina_add",
+    "order": 307,
+    "releaseDate": "1693278000000",
+    "rewardCostumeId": "cos-rei-pair-00",
+    "imageType1": 3,
+    "displayPositionX1": -0.175,
+    "displayScale1": 1.0,
+    "highlightDisplayPositionX1": -0.133,
+    "highlightDisplayPositionY1": 0.228,
+    "highlightDisplayScale1": 0.7,
+    "imageType2": 3,
+    "displayPositionX2": -0.175,
+    "displayScale2": 1.0,
+    "highlightDisplayPositionX2": -0.133,
+    "highlightDisplayPositionY2": 0.228,
+    "highlightDisplayScale2": 0.7,
+    "obtainMessage": "歩幅は一人で決めるものじゃない。\n一緒に決めるものだったんですね",
+    "stories": [
+      {
+        "storyId": "st-card-rei-05-pair-00-01"
+      },
+      {
+        "storyId": "st-card-rei-05-pair-00-02"
+      },
+      {
+        "storyId": "st-card-rei-05-pair-00-03"
+      }
+    ],
+    "messages": [
+      {
+        "messageId": "message-card-rei-05-pair-00",
+        "telephoneId": ""
+      },
+      {
+        "telephoneId": "tel-card-rei-05-pair-00",
+        "messageId": ""
+      }
+    ],
+    "activityAbilityId": "",
     "displayPositionY1": 0.0,
     "displayPositionY2": 0.0,
     "homeTalks": []

@@ -1306,5 +1306,55 @@
         "viewConditionId": ""
       }
     ]
+  },
+  {
+    "id": "st-eve-2309-backside",
+    "assetId": "event-backside-23-0829",
+    "name": "イベントストーリー",
+    "description": "遥か頂に向かう秀麗",
+    "order": 230829,
+    "viewConditionId": "cd-event-story-230829",
+    "episodes": [
+      {
+        "episode": 1,
+        "assetId": "event_2309_01_01",
+        "storyId": "st-eve-2309-backside-001",
+        "unlockConditionId": "cd-event-story-read-001-230829-230908",
+        "viewConditionId": "",
+        "isAppeal": false
+      },
+      {
+        "episode": 2,
+        "assetId": "event_2309_01_02",
+        "storyId": "st-eve-2309-backside-002",
+        "unlockConditionId": "cd-backside-area_clear-rehearsal-practice-23-0829",
+        "isAppeal": true,
+        "viewConditionId": ""
+      },
+      {
+        "episode": 3,
+        "assetId": "event_2309_01_03",
+        "storyId": "st-eve-2309-backside-003",
+        "unlockConditionId": "cd-backside-area_clear-04-23-0829",
+        "isAppeal": true,
+        "viewConditionId": ""
+      },
+      {
+        "episode": 4,
+        "assetId": "event_2309_01_04",
+        "storyId": "st-eve-2309-backside-004",
+        "unlockConditionId": "cd-backside-area_clear-real-practice-23-0829",
+        "isAppeal": true,
+        "viewConditionId": ""
+      },
+      {
+        "episode": 5,
+        "assetId": "event_2309_01_05",
+        "storyId": "st-eve-2309-backside-005",
+        "unlockConditionId": "cd-backside-area_clear-real-practice-04-23-0829",
+        "isAppeal": true,
+        "viewConditionId": ""
+      }
+    ]
   }
 ]

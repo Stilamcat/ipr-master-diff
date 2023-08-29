@@ -242,7 +242,7 @@
     ],
     "exchangeResourceType": 1,
     "exchangeResourceId": "item-gacha_point-birthday-23-0828",
-    "order": 115,
+    "order": 117,
     "isPeriodDisplay": true,
     "appealText": "ピックアップアイドルは100ガチャPtで交換可能！",
     "bgmAssetId": "birthday-main",
@@ -1460,7 +1460,7 @@
     ],
     "exchangeResourceType": 1,
     "exchangeResourceId": "item-gacha_point-birthday-23-0828",
-    "order": 107,
+    "order": 115,
     "isPeriodDisplay": true,
     "appealText": "★5アイドルが1人確定！",
     "bgmAssetId": "birthday-main",
@@ -6554,6 +6554,54 @@
     "bgmAssetId": ""
   },
   {
+    "id": "gacha-lm-set-bloom-23-0829",
+    "assetId": "lm-set-bloom-23-0829",
+    "bannerAssetId": "gacha-lm-set-bloom-23-0829",
+    "appealAssetId": "lm-set-bloom-23-0829",
+    "movieAssetId": "lm-set-bloom-23-0829",
+    "screenAssetId": "lm-set-bloom-23-0829",
+    "name": "ときめきファンシーポップ",
+    "description": "才能開花Pt付き限定ガチャ",
+    "precaution": "・ブルーダイヤ、レッドダイヤ、およびガチャチケを消費することでアイドルを獲得することができます。\n・一部のアイドルのみ登場します。必ず提供割合をご確認ください。\n・ガチャからはじめて獲得したアイドルは、Lv1の状態となります。\n・一部のアイドルは獲得するとセットで「衣装」を獲得できます。\n・本ガチャから獲得することができるアイドルは、重複する可能性があります。\n・既に獲得済みのアイドルがガチャから登場すると、アイドルは開花Ptとアイドルメダルに自動的に変換されます。\n・開花Ptが必要Ptに到達すると自動で才能開花が行われます。\n・「ガチャPt」は、ガチャ1回につき1Pt獲得できます。\n・「ガチャPt」を消費して獲得することができるアイドルは【ガチャ > ガチャPt > ガチャPt交換】から確認できます。\n・本ガチャで獲得できる「ガチャPt」の有効期限は09/15 (金) 11:59までです。\n・有効期限までに使用しなかった「ガチャPt」は本ガチャ開催期間終了後、【交換所 > ガチャPt交換所】で使用できる「共通ガチャPt」に変換されます。\n・才能開花Pt付きガチャからは、ピックアップ対象のアイドルを獲得した場合のみセットアイテムとして、獲得した対象アイドルの「専用開花Pt」が100Pt提供されます。\n・「専用開花Pt」は対象アイドルの保有できる才能開花Ptの最大値を超える場合、ギフトから受け取った際に「ブルームピース」に変換されます。\n・本ガチャの開催期間は予告なく変更する場合があります。\n　\n■ガチャの仕組みについて\n（1）提供割合に基づき1回ごとの抽選となります。\n（2）複数回ガチャを引く場合は前回の結果を考慮せず、提供割合に基づき毎回抽選を行います。\n・1日1回のみ引けるガチャは、ブルーダイヤでのみ引くことができます。\n・1日1回のみ引けるガチャは、毎日0:00にリセットされます。\n・提供割合はアイドルごとに異なります。\n・それぞれの提供割合は、小数第4位を切り捨てして表示しているため、合計値が100％にならない場合があります。\n・本ガチャの提供割合については、必ずガチャ詳細にて提供割合をご確認ください。\n・サーバーとの通信状況等によっては、ガチャ演出や結果画面が正常に表示されない場合がありますが、アイドルは正常に獲得されております。\n・ガチャ毎の履歴は「ガチャ履歴」から確認することができます。\n※本ガチャで新登場するアイドルは、期間限定アイドルとなっており本ガチャでのみ出現します。\n※本ガチャで新登場するアイドルは、開催期間終了後出現しなくなります。\n※本ガチャで新登場するアイドルは今後、復刻する可能性がございますが復刻の予定については未定です。",
+    "gachaType": 1,
+    "viewConditionId": "cd-time-gacha-lm-set-bloom-23-0829",
+    "pickupCardIds": [
+      "card-rei-05-pair-00",
+      "card-hrk-05-pair-00"
+    ],
+    "exchangeResourceType": 1,
+    "exchangeResourceId": "item-gacha_point-lm-set-bloom-23-0829",
+    "order": 105,
+    "isPeriodDisplay": true,
+    "appealText": "ピックアップ対象アイドルは才能開花Pt付き！",
+    "buttonIds": [
+      "btn-01-gacha-lm-set-bloom-23-0829",
+      "btn-01-gacha-lm-set-bloom-23-0829-daily",
+      "btn-10-gacha-lm-set-bloom-23-0829",
+      "ticket-01-gacha-lm-set-bloom-23-0829"
+    ],
+    "exchangeIds": [
+      "exc-gacha-gacha-lm-set-bloom-23-0829-01",
+      "exc-gacha-gacha-lm-set-bloom-23-0829-02"
+    ],
+    "cardRewards": [
+      {
+        "cardId": "card-hrk-05-pair-00",
+        "rewardId": "rd-bloom-card-hrk-05-pair-00"
+      },
+      {
+        "cardId": "card-rei-05-pair-00",
+        "rewardId": "rd-bloom-card-rei-05-pair-00"
+      }
+    ],
+    "unlockConditionId": "",
+    "exchangeBoothId": "",
+    "selectPickupAmount": 0,
+    "selectCardIds": [],
+    "shopId": "",
+    "bgmAssetId": ""
+  },
+  {
     "id": "gacha-normal-21-0624-01",
     "assetId": "normal-21-0624-01",
     "bannerAssetId": "gacha-normal-21-0624-01",
@@ -9539,6 +9587,45 @@
       "btn-01-gacha-normal-23-0821",
       "btn-10-gacha-normal-23-0821",
       "ticket-01-gacha-normal-23-0821"
+    ],
+    "movieAssetId": "",
+    "unlockConditionId": "",
+    "exchangeResourceType": 0,
+    "exchangeResourceId": "",
+    "exchangeBoothId": "",
+    "isPeriodDisplay": false,
+    "appealText": "",
+    "selectPickupAmount": 0,
+    "selectCardIds": [],
+    "shopId": "",
+    "bgmAssetId": "",
+    "exchangeIds": [],
+    "cardRewards": []
+  },
+  {
+    "id": "gacha-normal-23-0829",
+    "assetId": "normal-21-0624-01",
+    "bannerAssetId": "gacha-normal-21-0624-01",
+    "appealAssetId": "normal-21-0624-01",
+    "screenAssetId": "normal-21-0624-01",
+    "name": "ダイヤガチャ",
+    "description": "ダイヤガチャ",
+    "precaution": "・ブルーダイヤ、レッドダイヤ、およびガチャチケを消費することでアイドルを獲得することができます。\n・一部のアイドルのみ登場します。必ず提供割合をご確認ください。\n・ガチャからはじめて獲得したアイドルは、Lv1の状態となります。\n・一部のアイドルは獲得するとセットで「衣装」を獲得できます。\n・本ガチャから獲得することができるアイドルは、重複する可能性があります。\n・既に獲得済みのアイドルがガチャから登場すると、アイドルは開花Ptとアイドルメダルに自動的に変換されます。\n・開花Ptが必要Ptに到達すると自動で才能開花が行われます。\n・本ガチャの開催期間は予告なく変更する場合があります。\n※本ガチャからは「ガチャPt」を獲得することはできません。\n※本ガチャは「才能開花Pt付きガチャ」ではございません。ピックアップや交換で「専用開花Pt」を獲得することはできません。\n　\n■ガチャの仕組みについて\n（1）提供割合に基づき1回ごとの抽選となります。\n（2）複数回ガチャを引く場合は前回の結果を考慮せず、提供割合に基づき毎回抽選を行います。\n・提供割合はアイドルごとに異なります。\n・それぞれの提供割合は、小数第4位を切り捨てして表示しているため、合計値が100％にならない場合があります。\n・本ガチャの提供割合については、必ずガチャ詳細にて提供割合をご確認ください。\n・サーバーとの通信状況等によっては、ガチャ演出や結果画面が正常に表示されない場合がありますが、アイドルは正常に獲得されております。\n・ガチャ毎の履歴は「ガチャ履歴」から確認することができます。",
+    "gachaType": 1,
+    "viewConditionId": "cd-time-gacha-normal-23-0829",
+    "pickupCardIds": [
+      "card-skr-05-sail-00",
+      "card-ngs-05-yukt-00",
+      "card-chs-05-yukt-00",
+      "card-szk-05-yukt-00",
+      "card-rio-05-wedd-00",
+      "card-ski-05-poli-00"
+    ],
+    "order": 300,
+    "buttonIds": [
+      "btn-01-gacha-normal-23-0829",
+      "btn-10-gacha-normal-23-0829",
+      "ticket-01-gacha-normal-23-0829"
     ],
     "movieAssetId": "",
     "unlockConditionId": "",
@@ -12588,6 +12675,54 @@
       {
         "cardId": "card-kkr-05-vlnt-00",
         "rewardId": "rd-bloom-card-kkr-05-vlnt-00"
+      }
+    ],
+    "unlockConditionId": "",
+    "exchangeBoothId": "",
+    "selectPickupAmount": 0,
+    "selectCardIds": [],
+    "shopId": "",
+    "bgmAssetId": ""
+  },
+  {
+    "id": "gacha-rev-lm-set-bloom-23-0829",
+    "assetId": "rev-lm-set-bloom-23-0829",
+    "bannerAssetId": "gacha-rev-lm-set-bloom-23-0829",
+    "appealAssetId": "rev-lm-set-bloom-23-0829",
+    "movieAssetId": "lm-set-bloom-22-0428",
+    "screenAssetId": "lm-set-bloom-22-0428",
+    "name": "【復刻】隣にいなくても",
+    "description": "【復刻】才能開花Pt付き限定ガチャ",
+    "precaution": "・ブルーダイヤ、レッドダイヤ、およびガチャチケを消費することでアイドルを獲得することができます。\n・一部のアイドルのみ登場します。必ず提供割合をご確認ください。\n・ガチャからはじめて獲得したアイドルは、Lv1の状態となります。\n・一部のアイドルは獲得するとセットで「衣装」を獲得できます。\n・本ガチャから獲得することができるアイドルは、重複する可能性があります。\n・既に獲得済みのアイドルがガチャから登場すると、アイドルは開花Ptとアイドルメダルに自動的に変換されます。\n・開花Ptが必要Ptに到達すると自動で才能開花が行われます。\n・「ガチャPt」は、ガチャ1回につき1Pt獲得できます。\n・「ガチャPt」を消費して獲得することができるアイドルは【ガチャ > ガチャPt > ガチャPt交換】から確認できます。\n・本ガチャで獲得できる「ガチャPt」の有効期限は09/11 (月) 11:59までです。\n・有効期限までに使用しなかった「ガチャPt」は本ガチャ開催期間終了後、【交換所 > ガチャPt交換所】で使用できる「共通ガチャPt」に変換されます。\n・才能開花Pt付きガチャからは、ピックアップ対象のアイドルを獲得した場合のみセットアイテムとして、獲得した対象アイドルの「専用開花Pt」が100Pt提供されます。\n・「専用開花Pt」は対象アイドルの保有できる才能開花Ptの最大値を超える場合、ギフトから受け取った際に「ブルームピース」に変換されます。\n・本ガチャの開催期間は予告なく変更する場合があります。\n　\n■ガチャの仕組みについて\n（1）提供割合に基づき1回ごとの抽選となります。\n（2）複数回ガチャを引く場合は前回の結果を考慮せず、提供割合に基づき毎回抽選を行います。\n・1日1回のみ引けるガチャは、ブルーダイヤでのみ引くことができます。\n・1日1回のみ引けるガチャは、毎日0:00にリセットされます。\n・提供割合はアイドルごとに異なります。\n・それぞれの提供割合は、小数第4位を切り捨てして表示しているため、合計値が100％にならない場合があります。\n・本ガチャの提供割合については、必ずガチャ詳細にて提供割合をご確認ください。\n・サーバーとの通信状況等によっては、ガチャ演出や結果画面が正常に表示されない場合がありますが、アイドルは正常に獲得されております。\n・ガチャ毎の履歴は「ガチャ履歴」から確認することができます。\n※本ガチャで復刻するアイドルは、期間限定アイドルとなっており本ガチャでのみ出現します。\n※本ガチャで復刻するアイドルは、開催期間終了後出現しなくなります。\n※本ガチャで復刻するアイドルは、今後も復刻する可能性がございますが今後の復刻の予定については未定です。",
+    "gachaType": 1,
+    "viewConditionId": "cd-time-gacha-rev-lm-set-bloom-23-0829",
+    "pickupCardIds": [
+      "card-chs-05-chsk-00",
+      "card-ski-05-chsk-00"
+    ],
+    "exchangeResourceType": 1,
+    "exchangeResourceId": "item-gacha_point-rev-lm-set-bloom-23-0829",
+    "order": 113,
+    "isPeriodDisplay": true,
+    "appealText": "ピックアップ対象アイドルは才能開花Pt付き！",
+    "buttonIds": [
+      "btn-01-gacha-rev-lm-set-bloom-23-0829",
+      "btn-01-gacha-rev-lm-set-bloom-23-0829-daily",
+      "btn-10-gacha-rev-lm-set-bloom-23-0829",
+      "ticket-01-gacha-rev-lm-set-bloom-23-0829"
+    ],
+    "exchangeIds": [
+      "exc-gacha-gacha-rev-lm-set-bloom-23-0829-01",
+      "exc-gacha-gacha-rev-lm-set-bloom-23-0829-02"
+    ],
+    "cardRewards": [
+      {
+        "cardId": "card-chs-05-chsk-00",
+        "rewardId": "rd-bloom-card-chs-05-chsk-00"
+      },
+      {
+        "cardId": "card-ski-05-chsk-00",
+        "rewardId": "rd-bloom-card-ski-05-chsk-00"
       }
     ],
     "unlockConditionId": "",
@@ -17055,7 +17190,7 @@
       "card-hrk-05-sail-00",
       "card-chs-05-pajm-00"
     ],
-    "order": 120,
+    "order": 125,
     "isPeriodDisplay": true,
     "selectPickupAmount": 5,
     "selectCardIds": [
@@ -17114,6 +17249,98 @@
     ],
     "buttonIds": [
       "btn-10-gacha-select-01-23-0826"
+    ],
+    "movieAssetId": "",
+    "unlockConditionId": "",
+    "exchangeResourceType": 0,
+    "exchangeResourceId": "",
+    "exchangeBoothId": "",
+    "appealText": "",
+    "shopId": "",
+    "bgmAssetId": "",
+    "exchangeIds": [],
+    "cardRewards": []
+  },
+  {
+    "id": "gacha-select-01-23-0904",
+    "assetId": "gacha-select-01-23-0904",
+    "bannerAssetId": "gacha-select-01-23-0904",
+    "appealAssetId": "select-01-22-0527",
+    "screenAssetId": "select-01-22-0804",
+    "name": "1人★5確定ロックオン",
+    "description": "セレクトガチャ",
+    "precaution": "・ブルーダイヤを消費することでアイドルを入手することができます。\n・一部のアイドルのみ登場します。必ず提供割合をご確認ください。\n・確定枠で獲得できるアイドルは選択した★5アイドルのうち1人が登場します。\n・ガチャからはじめて獲得したアイドルは、Lv1の状態となります。\n・一部のアイドルは獲得するとセットで「衣装」を獲得できます。\n・本ガチャから獲得することができるアイドルは、重複する可能性があります。\n・既に獲得済みのアイドルがガチャから登場すると、アイドルは開花Ptとアイドルメダルに自動的に変換されます。\n・開花Ptが必要Ptに到達すると自動で才能開花が行われます。\n・本ガチャの開催期間は予告なく変更する場合があります。\n※本ガチャからは「ガチャPt」を獲得することはできません。\n※本ガチャは「才能開花Pt付きガチャ」ではございません。ピックアップや交換で「専用開花Pt」を獲得することはできません。\n\n■ガチャの仕組みについて\n（1）提供割合に基づき1回ごとの抽選となります。\n（2）複数回ガチャを引く場合は前回の結果を考慮せず、提供割合に基づき毎回抽選を行います。\n・提供割合はアイドルごとに異なります。\n・それぞれの提供割合は、小数第4位を切り捨てして表示しているため、合計値が100％にならない場合があります。\n・本ガチャの提供割合については、必ずガチャ詳細にて提供割合をご確認ください。\n・サーバーとの通信状況等によっては、ガチャ演出や結果画面が正常に表示されない場合がありますが、アイドルは正常に獲得されております。\n・ガチャ毎の履歴は「ガチャ履歴」から確認することができます。",
+    "gachaType": 1,
+    "viewConditionId": "cd-time-gacha-select-01-23-0904",
+    "pickupCardIds": [
+      "card-chs-05-yukt-00",
+      "card-szk-05-yukt-00",
+      "card-rio-05-wedd-00",
+      "card-ski-05-poli-00",
+      "card-rei-05-casl-02",
+      "card-kor-05-idol-03"
+    ],
+    "order": 107,
+    "isPeriodDisplay": true,
+    "selectPickupAmount": 5,
+    "selectCardIds": [
+      "card-chs-05-yukt-00",
+      "card-szk-05-yukt-00",
+      "card-rio-05-wedd-00",
+      "card-ski-05-poli-00",
+      "card-rei-05-casl-02",
+      "card-kor-05-idol-03",
+      "card-hrk-05-sail-00",
+      "card-chs-05-pajm-00",
+      "card-ai-05-rock-00",
+      "card-yu-05-vlnt-00",
+      "card-skr-05-chna-00",
+      "card-hrk-05-onep-00",
+      "card-mhk-05-poli-00",
+      "card-chs-05-flow-00",
+      "card-szk-05-rock-00",
+      "card-suz-05-seik-00",
+      "card-ski-05-mizg-02",
+      "card-kkr-05-mizg-01",
+      "card-mei-05-mizg-02",
+      "card-yu-05-wedd-01",
+      "card-ai-05-tact-00",
+      "card-rui-05-date-00",
+      "card-rei-05-onep-00",
+      "card-hrk-05-chna-00",
+      "card-smr-05-frut-00",
+      "card-chs-05-rock-00",
+      "card-aoi-05-vlnt-00",
+      "card-ski-05-waso-00",
+      "card-ngs-05-flow-00",
+      "card-szk-05-chna-00",
+      "card-rio-05-halw-00",
+      "card-rei-05-rock-00",
+      "card-ski-05-kifj-00",
+      "card-suz-05-mizg-01",
+      "card-ngs-05-mizg-01",
+      "card-rui-05-mizg-01",
+      "card-smr-05-mizg-01",
+      "card-ktn-05-idol-00",
+      "card-ngs-05-idol-00",
+      "card-mei-05-idol-00",
+      "card-suz-05-idol-00",
+      "card-ski-05-idol-00",
+      "card-skr-05-idol-00",
+      "card-chs-05-idol-00",
+      "card-rei-05-idol-00",
+      "card-szk-05-idol-00",
+      "card-hrk-05-idol-00",
+      "card-rio-05-idol-00",
+      "card-aoi-05-idol-00",
+      "card-ai-05-idol-00",
+      "card-kkr-05-idol-00",
+      "card-rui-05-idol-00",
+      "card-smr-05-idol-00",
+      "card-yu-05-idol-00"
+    ],
+    "buttonIds": [
+      "btn-10-gacha-select-01-23-0904"
     ],
     "movieAssetId": "",
     "unlockConditionId": "",

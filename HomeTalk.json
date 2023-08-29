@@ -1178,6 +1178,56 @@
     ]
   },
   {
+    "homeTalkId": "home-talk-card-hrk-05-pair-00-talk-01",
+    "characterId": "char-hrk",
+    "placeType": 1,
+    "conditionId": "cd-st-read-st-card-hrk-05-pair-00-03",
+    "firstPriority": 9900,
+    "weight": 1,
+    "callPatternId": "call-pattern-card-hrk-05-pair-00",
+    "choiceText": "どうしたんですか、遙子さん",
+    "managerText": "どうしたんですか、遙子さん",
+    "reliability": 5,
+    "characterTalks": [
+      {
+        "text": "私、思い切って\n同じ時期にデビューした子達と\nメッセのグループを作ってみたの。",
+        "voiceAssetId": "sud_vo_home_hrk-05-pair-00_talk-01-01",
+        "motionAssetId": "mot_adv_chr_cmn_talk-011_in",
+        "additionMotionAssetId": "mot_all_chr_cmn_facial-001_in"
+      },
+      {
+        "text": "悩みごととか、練習方法とか\n同期のよしみで相談し合いましょう\n…って。出来る範囲でだけどね。",
+        "voiceAssetId": "sud_vo_home_hrk-05-pair-00_talk-01-02",
+        "motionAssetId": "mot_adv_chr_cmn_pos-008_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "対面だと、かしこまっちゃう\nのかもしれないけど…\n文字ならちゃんと話してくれて。",
+        "voiceAssetId": "sud_vo_home_hrk-05-pair-00_talk-01-03",
+        "motionAssetId": "mot_adv_chr_cmn_talk-019_in",
+        "additionMotionAssetId": "mot_all_chr_cmn_facial-001_in"
+      },
+      {
+        "text": "これまでよりも\nちゃんと思いを伝え合えてる\n感じがするの。",
+        "voiceAssetId": "sud_vo_home_hrk-05-pair-00_talk-01-04",
+        "motionAssetId": "mot_adv_chr_cmn_pos-010_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "もちろん、この間対戦した\n子達も入ってくれてるわよ。",
+        "voiceAssetId": "sud_vo_home_hrk-05-pair-00_talk-01-05",
+        "motionAssetId": "mot_adv_chr_cmn_pos-017_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "仕方ないからって諦めないで\n今の私なりのアプローチ\nこれからも試してみるわね。",
+        "voiceAssetId": "sud_vo_home_hrk-05-pair-00_talk-01-06",
+        "motionAssetId": "mot_adv_chr_cmn_glad-007_in",
+        "additionMotionAssetId": ""
+      }
+    ]
+  },
+  {
     "homeTalkId": "home-talk-card-hrk-05-sail-00-talk-01",
     "characterId": "char-hrk",
     "placeType": 1,
@@ -3527,6 +3577,56 @@
         "text": "笑顔って奥が深いですね。",
         "voiceAssetId": "sud_vo_home_rei-05-onep-00_talk-01-05",
         "motionAssetId": "mot_adv_chr_cmn_pos-010_in",
+        "additionMotionAssetId": ""
+      }
+    ]
+  },
+  {
+    "homeTalkId": "home-talk-card-rei-05-pair-00-talk-01",
+    "characterId": "char-rei",
+    "placeType": 1,
+    "conditionId": "cd-st-read-st-card-rei-05-pair-00-03",
+    "firstPriority": 9900,
+    "weight": 1,
+    "callPatternId": "call-pattern-card-rei-05-pair-00",
+    "choiceText": "初めての組み合わせだったが\n仲良くなれたのなら良かった。",
+    "managerText": "初めての組み合わせだったが\n仲良くなれたのなら良かった。",
+    "reliability": 5,
+    "characterTalks": [
+      {
+        "text": "はい、新鮮で面白かったです。\nおかげで遙子さんの意外な一面を\n知ることも出来ましたし。",
+        "voiceAssetId": "sud_vo_home_rei-05-pair-00_talk-01-01",
+        "motionAssetId": "mot_adv_chr_cmn_pos-020_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "知ってますか？\n私達に突っかかってきた\nアイドルの子達がいたんですが…",
+        "voiceAssetId": "sud_vo_home_rei-05-pair-00_talk-01-02",
+        "motionAssetId": "mot_adv_chr_cmn_ask-006_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "怒った遙子さんに圧倒されて\nかわいそうなくらい\n震え上がってしまったんですよ。",
+        "voiceAssetId": "sud_vo_home_rei-05-pair-00_talk-01-03",
+        "motionAssetId": "mot_adv_chr_cmn_glad-013_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "…あ、こんなこと話してたら\n私も遙子さんに怒られて\nしまいますね。",
+        "voiceAssetId": "sud_vo_home_rei-05-pair-00_talk-01-04",
+        "motionAssetId": "mot_adv_chr_cmn_talk-006_in",
+        "additionMotionAssetId": "mot_all_chr_cmn_facial-034_in"
+      },
+      {
+        "text": "サニピのメンバーとはいつも一緒に\nいますが、きっと私の知らない\n一面がまだまだあるんでしょうね。",
+        "voiceAssetId": "sud_vo_home_rei-05-pair-00_talk-01-05",
+        "motionAssetId": "mot_adv_chr_cmn_pos-010_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "みんなと一緒にいると新たな発見が多くて\nこのまま一緒にいても\n一生飽きることがなさそうです。",
+        "voiceAssetId": "sud_vo_home_rei-05-pair-00_talk-01-06",
+        "motionAssetId": "mot_adv_chr_cmn_glad-010_in",
         "additionMotionAssetId": ""
       }
     ]

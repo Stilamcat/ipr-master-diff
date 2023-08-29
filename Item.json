@@ -143,6 +143,17 @@
     "salePrice": 0
   },
   {
+    "id": "item-backside_medal-23-0829",
+    "name": "合宿メダル",
+    "assetId": "medal-backside",
+    "description": "合宿メダル交換所で様々なアイテムと交換できる\nイベント終了後はコインに変換されます",
+    "howToGet": "合宿イベント",
+    "type": 3001,
+    "value": 1,
+    "order": 99,
+    "salePrice": 0
+  },
+  {
     "id": "item-card_ability",
     "name": "エールパウダー",
     "assetId": "card-ability",
@@ -474,6 +485,17 @@
   },
   {
     "id": "item-daily_quest_ticket_sp-23-0624",
+    "name": "スペシャルパス",
+    "assetId": "quest-daily-special",
+    "description": "デイリーライブ【スペシャル】に挑戦できる\nイベント終了後は消失します",
+    "howToGet": "ショップなど",
+    "type": 2006,
+    "value": 1,
+    "order": 220,
+    "salePrice": 0
+  },
+  {
+    "id": "item-daily_quest_ticket_sp-23-0829",
     "name": "スペシャルパス",
     "assetId": "quest-daily-special",
     "description": "デイリーライブ【スペシャル】に挑戦できる\nイベント終了後は消失します",
@@ -1419,6 +1441,17 @@
     "salePrice": 0
   },
   {
+    "id": "item-gacha_point-lm-set-bloom-23-0829",
+    "name": "ときめきファンシーポップガチャPt",
+    "assetId": "gacha-point",
+    "description": "該当するガチャページの「ガチャPt」から\nガチャPtを消費してアイドルを獲得できる",
+    "type": 9,
+    "value": 1,
+    "order": 140,
+    "howToGet": "",
+    "salePrice": 0
+  },
+  {
     "id": "item-gacha_point-pick-set-bloom-21-1112",
     "name": "福招く獅子舞娘ガチャPt",
     "assetId": "gacha-point",
@@ -1971,6 +2004,17 @@
   {
     "id": "item-gacha_point-rev-lm-set-bloom-23-0528",
     "name": "【復刻】皓月と花束ガチャPt",
+    "assetId": "gacha-point",
+    "description": "該当するガチャページの「ガチャPt」から\nガチャPtを消費してアイドルを獲得できる",
+    "type": 9,
+    "value": 1,
+    "order": 140,
+    "howToGet": "",
+    "salePrice": 0
+  },
+  {
+    "id": "item-gacha_point-rev-lm-set-bloom-23-0829",
+    "name": "【復刻】隣にいなくてもガチャPt",
     "assetId": "gacha-point",
     "description": "該当するガチャページの「ガチャPt」から\nガチャPtを消費してアイドルを獲得できる",
     "type": 9,

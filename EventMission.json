@@ -54,6 +54,24 @@
     "unlockConditionId": ""
   },
   {
+    "id": "event-backside-23-0829",
+    "eventMissionType": 1,
+    "assetId": "img_banner_l_0000-00",
+    "name": "合宿イベント",
+    "order": 99,
+    "viewConditionId": "cd-time-event_backside-mission-23-0829",
+    "missionIds": [
+      "event-backside-23-0829-backside_area_clear_count-1",
+      "event-backside-23-0829-backside_area_clear_count-2",
+      "event-backside-23-0829-backside_final_score_achievement",
+      "event-backside-23-0829-backside_practice_score_achievement",
+      "event-backside-23-0829-backside_surprise_count",
+      "event-backside-23-0829-card_level_up_count",
+      "event-backside-23-0829-mission_clear_count"
+    ],
+    "unlockConditionId": ""
+  },
+  {
     "id": "event-beginner-mission",
     "eventMissionType": 2,
     "assetId": "img_banner_l_event-beginner-mission",
@@ -934,6 +952,29 @@
     "unlockConditionId": ""
   },
   {
+    "id": "event_am-mission-23-0902",
+    "eventMissionType": 2,
+    "assetId": "img_banner_l_event-am-mission-23-0902",
+    "name": "オータムミッション",
+    "order": 1,
+    "viewConditionId": "cd-time-event-ms-am-23-0902-0909",
+    "missionIds": [
+      "event-ms-am-23-0902-00-card_skill_level_up_count",
+      "event-ms-am-23-0902-00-login_count",
+      "event-ms-am-23-0902-00-market_exchange_count",
+      "event-ms-am-23-0902-00-photo_reroll_count",
+      "event-ms-am-23-0902-00-quest_contest_clear_count",
+      "event-ms-am-23-0902-00-quest_daily_clear_count",
+      "event-ms-am-23-0902-00-sun-02_story_read_1",
+      "event-ms-am-23-0902-00-sun-02_story_read_2",
+      "event-ms-am-23-0902-00-sun-02_story_read_3",
+      "event-ms-am-23-0902-01-mission_clear_count",
+      "event-ms-am-23-0902-02-mission_clear_count",
+      "event-ms-am-23-0902-03-mission_clear_count"
+    ],
+    "unlockConditionId": ""
+  },
+  {
     "id": "event_anniversary-mission-22-0630",
     "eventMissionType": 2,
     "assetId": "img_banner_l_event-anniversary-mission-22-0630",
@@ -1670,6 +1711,25 @@
       "event-ms-pvp-23-0612-quest_pvp_play_count-30",
       "event-ms-pvp-23-0612-quest_pvp_play_count-35",
       "event-ms-pvp-23-0612-quest_pvp_play_count-40"
+    ],
+    "unlockConditionId": ""
+  },
+  {
+    "id": "event_pvp-mission-23-0831",
+    "eventMissionType": 2,
+    "assetId": "img_banner_l_sp-pvp",
+    "name": "スペシャルVENUSバトル特別ミッション",
+    "order": 2,
+    "viewConditionId": "cd-time-pvp-23-0831-0902_l-banner",
+    "missionIds": [
+      "event-ms-pvp-23-0831-quest_pvp_play_count-05",
+      "event-ms-pvp-23-0831-quest_pvp_play_count-10",
+      "event-ms-pvp-23-0831-quest_pvp_play_count-15",
+      "event-ms-pvp-23-0831-quest_pvp_play_count-20",
+      "event-ms-pvp-23-0831-quest_pvp_play_count-25",
+      "event-ms-pvp-23-0831-quest_pvp_play_count-30",
+      "event-ms-pvp-23-0831-quest_pvp_play_count-35",
+      "event-ms-pvp-23-0831-quest_pvp_play_count-40"
     ],
     "unlockConditionId": ""
   },
