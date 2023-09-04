@@ -2600,6 +2600,7 @@
     "shortDescription": "イベントミッションを{threshold}個クリア",
     "longDescription": "イベントミッションを{threshold}個クリアしましょう。",
     "order": 1,
+    "viewConditionId": "cd-event-ms-am-23-0902-01-mission_clear_count-close",
     "progresses": [
       {
         "threshold": "15",
@@ -2607,7 +2608,6 @@
       }
     ],
     "eventMissionId": "event_am-mission-23-0902",
-    "viewConditionId": "",
     "linkType": 0,
     "linkDetail": ""
   },
