@@ -1,5 +1,29 @@
 [
   {
+    "key": "accessory.enhance.setting.button.allUserAccessory",
+    "word": "すべて"
+  },
+  {
+    "key": "accessory.enhance.setting.button.ExcludeAllDeck",
+    "word": "標準"
+  },
+  {
+    "key": "accessory.enhance.setting.button.excludeLeagueDeck",
+    "word": "VENUSリーグ以外"
+  },
+  {
+    "key": "accessory.enhance.setting.sheet.allUserAccessory",
+    "word": "すべて(編成中のアクセサリを含む)"
+  },
+  {
+    "key": "accessory.enhance.setting.sheet.ExcludeAllDeck",
+    "word": "標準(編成中のアクセサリを含まない)"
+  },
+  {
+    "key": "accessory.enhance.setting.sheet.excludeLeagueDeck",
+    "word": "VENUSリーグ以外\n(VENUSリーグ編成中のアクセサリは含まない)"
+  },
+  {
     "key": "accessory.limitBreak.sheet.description",
     "word": "以下の素材を消費して上限突破を行います。"
   },
@@ -161,7 +185,7 @@
   },
   {
     "key": "fittingRoom.hair.description.provideOnlyHair",
-    "word": "髪型のみの提供となります。アイドル獲得時は付いてきません"
+    "word": "髪型のみの提供となります。"
   },
   {
     "key": "fittingRoom.hair.description.shop.provideOnlyHair",
