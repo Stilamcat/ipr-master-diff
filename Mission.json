@@ -1020,6 +1020,190 @@
     "linkDetail": ""
   },
   {
+    "id": "event-dream-23-0912-dream_area_generate_count",
+    "categoryType": 3,
+    "missionType": 1601,
+    "targetIds": [
+      "dream-23-0912"
+    ],
+    "name": "今回のイベントで{threshold}回生成",
+    "shortDescription": "今回のイベントで{threshold}回生成",
+    "longDescription": "今回のイベントで{threshold}回生成",
+    "order": 1,
+    "viewConditionId": "cd-time-dream-23-0912-23-0922",
+    "progresses": [
+      {
+        "threshold": "1",
+        "rewardSetId": "rd_auto;stone;;100"
+      }
+    ],
+    "eventMissionId": "event-dream-23-0912",
+    "linkType": 0,
+    "linkDetail": ""
+  },
+  {
+    "id": "event-dream-23-0912-dream_quest_clear_count",
+    "categoryType": 3,
+    "missionType": 1603,
+    "targetIds": [
+      "dream-23-0912"
+    ],
+    "name": "今回のイベントで{threshold}回ライブクリア",
+    "shortDescription": "今回のイベントで{threshold}回ライブクリア",
+    "longDescription": "今回のイベントで{threshold}回ライブクリア",
+    "order": 2,
+    "viewConditionId": "cd-time-dream-23-0912-23-0922",
+    "progresses": [
+      {
+        "threshold": "1",
+        "rewardSetId": "rd_auto;item;item-dream-generate-dream-23-0912;1"
+      },
+      {
+        "threshold": "5",
+        "rewardSetId": "rd_auto;item;item-dream-generate-dream-23-0912;1"
+      },
+      {
+        "threshold": "10",
+        "rewardSetId": "rd_auto;item;item-dream-generate-dream-23-0912;1"
+      },
+      {
+        "threshold": "15",
+        "rewardSetId": "rd_auto;item;item-mini-tour_medal-tour-21-0721;200"
+      },
+      {
+        "threshold": "20",
+        "rewardSetId": "rd_auto;item;item-mini-tour_medal-tour-21-0721;200"
+      },
+      {
+        "threshold": "25",
+        "rewardSetId": "rd_auto;item;item-mini-tour_medal-tour-21-0721;200"
+      },
+      {
+        "threshold": "30",
+        "rewardSetId": "rd_auto;item;item-mini-tour_medal-tour-21-0721;200"
+      },
+      {
+        "threshold": "35",
+        "rewardSetId": "rd_auto;item;item-mini-tour_medal-tour-21-0721;200"
+      },
+      {
+        "threshold": "40",
+        "rewardSetId": "rd_auto;item;item-mini-tour_medal-tour-21-0721;200"
+      },
+      {
+        "threshold": "45",
+        "rewardSetId": "rd_auto;item;item-mini-tour_medal-tour-21-0721;200"
+      },
+      {
+        "threshold": "50",
+        "rewardSetId": "rd_auto;item;item-mini-tour_medal-tour-21-0721;200"
+      }
+    ],
+    "eventMissionId": "event-dream-23-0912",
+    "linkType": 0,
+    "linkDetail": ""
+  },
+  {
+    "id": "event-dream-23-0912-dream_quest_clear_difficulty_level_achievement",
+    "categoryType": 3,
+    "missionType": 1606,
+    "targetIds": [
+      "dream-23-0912"
+    ],
+    "name": "今回のイベントで難易度Lv{threshold}以上をクリア",
+    "shortDescription": "今回のイベントで難易度Lv{threshold}以上をクリア",
+    "longDescription": "今回のイベントで難易度Lv{threshold}以上をクリア",
+    "order": 3,
+    "viewConditionId": "cd-time-dream-23-0912-23-0922",
+    "progresses": [
+      {
+        "threshold": "20",
+        "rewardSetId": "rd_auto;item;item-mini-tour_medal-tour-21-0721;200"
+      },
+      {
+        "threshold": "40",
+        "rewardSetId": "rd_auto;item;item-mini-tour_medal-tour-21-0721;200"
+      },
+      {
+        "threshold": "60",
+        "rewardSetId": "rd_auto;item;item-mini-tour_medal-tour-21-0721;200"
+      },
+      {
+        "threshold": "80",
+        "rewardSetId": "rd_auto;item;item-mini-tour_medal-tour-21-0721;300"
+      },
+      {
+        "threshold": "100",
+        "rewardSetId": "rd_auto;stone;;100"
+      },
+      {
+        "threshold": "120",
+        "rewardSetId": "rd_auto;item;item-mini-tour_medal-tour-21-0721;300"
+      },
+      {
+        "threshold": "140",
+        "rewardSetId": "rd_auto;item;item-mini-tour_medal-tour-21-0721;400"
+      },
+      {
+        "threshold": "160",
+        "rewardSetId": "rd_auto;item;item-mini-tour_medal-tour-21-0721;400"
+      },
+      {
+        "threshold": "180",
+        "rewardSetId": "rd_auto;item;item-mini-tour_medal-tour-21-0721;400"
+      },
+      {
+        "threshold": "200",
+        "rewardSetId": "rd_auto;stone;;100"
+      },
+      {
+        "threshold": "210",
+        "rewardSetId": "rd_auto;item;item-mini-tour_medal-tour-21-0721;400"
+      },
+      {
+        "threshold": "220",
+        "rewardSetId": "rd_auto;item;item-mini-tour_medal-tour-21-0721;400"
+      },
+      {
+        "threshold": "230",
+        "rewardSetId": "rd_auto;item;item-mini-tour_medal-tour-21-0721;500"
+      },
+      {
+        "threshold": "240",
+        "rewardSetId": "rd_auto;item;item-mini-tour_medal-tour-21-0721;500"
+      },
+      {
+        "threshold": "250",
+        "rewardSetId": "rd_auto;item;item-mini-tour_medal-tour-21-0721;500"
+      }
+    ],
+    "eventMissionId": "event-dream-23-0912",
+    "linkType": 0,
+    "linkDetail": ""
+  },
+  {
+    "id": "event-dream-23-0912-dream_season_dream_max_grade_a",
+    "categoryType": 3,
+    "missionType": 4,
+    "targetIds": [
+      "cd-dream-23-0912-season-max-grade-a"
+    ],
+    "name": "今回のイベントでGRADE A以上のステージを生成",
+    "shortDescription": "今回のイベントでGRADE A以上のステージを生成",
+    "longDescription": "今回のイベントでGRADE A以上のステージを生成",
+    "order": 4,
+    "viewConditionId": "cd-time-dream-23-0912-23-0922",
+    "progresses": [
+      {
+        "threshold": "1",
+        "rewardSetId": "rd_auto;item;item-dream-generate-dream-23-0912;1"
+      }
+    ],
+    "eventMissionId": "event-dream-23-0912",
+    "linkType": 0,
+    "linkDetail": ""
+  },
+  {
     "id": "event-love-23-0514-limited-mission_love-end_costume-sp",
     "categoryType": 3,
     "missionType": 4,
@@ -16481,6 +16665,506 @@
       }
     ],
     "eventMissionId": "event-ladder-23-0810",
+    "viewConditionId": "",
+    "linkType": 0,
+    "linkDetail": ""
+  },
+  {
+    "id": "event-ms-normal-23-0912-mission_card_level_up_count",
+    "categoryType": 3,
+    "missionType": 12,
+    "name": "アイドルのLvUp{threshold}回",
+    "shortDescription": "アイドルのLvUp{threshold}回",
+    "longDescription": "アイドルのLvUpを{threshold}回しましょう。",
+    "order": 8,
+    "linkType": 11,
+    "progresses": [
+      {
+        "threshold": "5",
+        "rewardSetId": "rd_auto;item;item-ladder_pt_23-0912;200"
+      },
+      {
+        "threshold": "10",
+        "rewardSetId": "rd_auto;item;item-ladder_pt_23-0912;200"
+      },
+      {
+        "threshold": "15",
+        "rewardSetId": "rd_auto;item;item-ladder_pt_23-0912;300"
+      },
+      {
+        "threshold": "20",
+        "rewardSetId": "rd_auto;item;item-ladder_pt_23-0912;300"
+      },
+      {
+        "threshold": "25",
+        "rewardSetId": "rd_auto;item;item-ladder_pt_23-0912;400"
+      }
+    ],
+    "eventMissionId": "event-ladder-23-0912",
+    "targetIds": [],
+    "viewConditionId": "",
+    "linkDetail": ""
+  },
+  {
+    "id": "event-ms-normal-23-0912-mission_card_skill_level_up_count",
+    "categoryType": 3,
+    "missionType": 14,
+    "name": "スキル強化{threshold}回",
+    "shortDescription": "スキル強化{threshold}回",
+    "longDescription": "アイドルのスキル強化を{threshold}回しましょう。",
+    "order": 9,
+    "linkType": 11,
+    "progresses": [
+      {
+        "threshold": "1",
+        "rewardSetId": "rd_auto;item;item-ladder_pt_23-0912;300"
+      },
+      {
+        "threshold": "2",
+        "rewardSetId": "rd_auto;item;item-ladder_pt_23-0912;300"
+      },
+      {
+        "threshold": "3",
+        "rewardSetId": "rd_auto;item;item-ladder_pt_23-0912;600"
+      }
+    ],
+    "eventMissionId": "event-ladder-23-0912",
+    "targetIds": [],
+    "viewConditionId": "",
+    "linkDetail": ""
+  },
+  {
+    "id": "event-ms-normal-23-0912-mission_login_count",
+    "categoryType": 3,
+    "missionType": 1,
+    "name": "ログイン{threshold}回",
+    "shortDescription": "ログイン{threshold}回",
+    "longDescription": "ログインを{threshold}回しましょう。",
+    "order": 3,
+    "progresses": [
+      {
+        "threshold": "1",
+        "rewardSetId": "rd_auto;item;item-ladder_pt_23-0912;200"
+      },
+      {
+        "threshold": "2",
+        "rewardSetId": "rd_auto;item;item-ladder_pt_23-0912;200"
+      },
+      {
+        "threshold": "3",
+        "rewardSetId": "rd_auto;item;item-ladder_pt_23-0912;300"
+      },
+      {
+        "threshold": "4",
+        "rewardSetId": "rd_auto;item;item-ladder_pt_23-0912;300"
+      },
+      {
+        "threshold": "5",
+        "rewardSetId": "rd_auto;item;item-ladder_pt_23-0912;400"
+      }
+    ],
+    "eventMissionId": "event-ladder-23-0912",
+    "targetIds": [],
+    "viewConditionId": "",
+    "linkType": 0,
+    "linkDetail": ""
+  },
+  {
+    "id": "event-ms-normal-23-0912-mission_market_exchange_count",
+    "categoryType": 3,
+    "missionType": 31,
+    "name": "マーケットで{threshold}回アイテム購入",
+    "shortDescription": "マーケットで{threshold}回アイテム購入",
+    "longDescription": "マーケットで{threshold}回アイテムを購入しましょう。",
+    "order": 10,
+    "linkType": 36,
+    "progresses": [
+      {
+        "threshold": "3",
+        "rewardSetId": "rd_auto;item;item-ladder_pt_23-0912;200"
+      },
+      {
+        "threshold": "6",
+        "rewardSetId": "rd_auto;item;item-ladder_pt_23-0912;300"
+      },
+      {
+        "threshold": "9",
+        "rewardSetId": "rd_auto;item;item-ladder_pt_23-0912;300"
+      },
+      {
+        "threshold": "12",
+        "rewardSetId": "rd_auto;item;item-ladder_pt_23-0912;300"
+      },
+      {
+        "threshold": "15",
+        "rewardSetId": "rd_auto;item;item-ladder_pt_23-0912;500"
+      }
+    ],
+    "eventMissionId": "event-ladder-23-0912",
+    "targetIds": [],
+    "viewConditionId": "",
+    "linkDetail": ""
+  },
+  {
+    "id": "event-ms-normal-23-0912-mission_open_message-01",
+    "categoryType": 3,
+    "missionType": 4,
+    "targetIds": [
+      "cd-date-event-ladder-23-0912-panel-message-01"
+    ],
+    "name": "メッセージ①解放",
+    "shortDescription": "メッセージ①解放",
+    "longDescription": "メッセージ①を解放しましょう。",
+    "order": 12,
+    "progresses": [
+      {
+        "threshold": "1",
+        "rewardSetId": "rd_auto;item;item-ladder_pt_23-0912;300"
+      }
+    ],
+    "eventMissionId": "event-ladder-23-0912",
+    "viewConditionId": "",
+    "linkType": 0,
+    "linkDetail": ""
+  },
+  {
+    "id": "event-ms-normal-23-0912-mission_open_message-02",
+    "categoryType": 3,
+    "missionType": 4,
+    "targetIds": [
+      "cd-date-event-ladder-23-0912-panel-message-02"
+    ],
+    "name": "メッセージ②解放",
+    "shortDescription": "メッセージ②解放",
+    "longDescription": "メッセージ②を解放しましょう。",
+    "order": 13,
+    "progresses": [
+      {
+        "threshold": "1",
+        "rewardSetId": "rd_auto;item;item-ladder_pt_23-0912;300"
+      }
+    ],
+    "eventMissionId": "event-ladder-23-0912",
+    "viewConditionId": "",
+    "linkType": 0,
+    "linkDetail": ""
+  },
+  {
+    "id": "event-ms-normal-23-0912-mission_open_message-03",
+    "categoryType": 3,
+    "missionType": 4,
+    "targetIds": [
+      "cd-date-event-ladder-23-0912-panel-message-03"
+    ],
+    "name": "メッセージ③解放",
+    "shortDescription": "メッセージ③解放",
+    "longDescription": "メッセージ③を解放しましょう。",
+    "order": 14,
+    "progresses": [
+      {
+        "threshold": "1",
+        "rewardSetId": "rd_auto;item;item-ladder_pt_23-0912;300"
+      }
+    ],
+    "eventMissionId": "event-ladder-23-0912",
+    "viewConditionId": "",
+    "linkType": 0,
+    "linkDetail": ""
+  },
+  {
+    "id": "event-ms-normal-23-0912-mission_open_message-04",
+    "categoryType": 3,
+    "missionType": 4,
+    "targetIds": [
+      "cd-date-event-ladder-23-0912-panel-message-04"
+    ],
+    "name": "メッセージ④解放",
+    "shortDescription": "メッセージ④解放",
+    "longDescription": "メッセージ④を解放しましょう。",
+    "order": 15,
+    "progresses": [
+      {
+        "threshold": "1",
+        "rewardSetId": "rd_auto;item;item-ladder_pt_23-0912;500"
+      }
+    ],
+    "eventMissionId": "event-ladder-23-0912",
+    "viewConditionId": "",
+    "linkType": 0,
+    "linkDetail": ""
+  },
+  {
+    "id": "event-ms-normal-23-0912-mission_open_panel_count",
+    "categoryType": 3,
+    "missionType": 1401,
+    "targetIds": [
+      "ladder-23-0912"
+    ],
+    "name": "パネルを{threshold}個解放",
+    "shortDescription": "パネルを{threshold}個解放",
+    "longDescription": "パネルを{threshold}個解放しましょう。",
+    "order": 13,
+    "progresses": [
+      {
+        "threshold": "5",
+        "rewardSetId": "rd_auto;item;item-ladder_pt_23-0912;300"
+      },
+      {
+        "threshold": "10",
+        "rewardSetId": "rd_auto;item;item-ladder_pt_23-0912;300"
+      },
+      {
+        "threshold": "15",
+        "rewardSetId": "rd_auto;item;item-ladder_pt_23-0912;300"
+      },
+      {
+        "threshold": "20",
+        "rewardSetId": "rd_auto;item;item-ladder_pt_23-0912;300"
+      },
+      {
+        "threshold": "25",
+        "rewardSetId": "rd_auto;item;item-ladder_pt_23-0912;300"
+      },
+      {
+        "threshold": "30",
+        "rewardSetId": "rd_auto;item;item-ladder_pt_23-0912;300"
+      },
+      {
+        "threshold": "35",
+        "rewardSetId": "rd_auto;item;item-ladder_pt_23-0912;300"
+      },
+      {
+        "threshold": "45",
+        "rewardSetId": "rd_auto;item;item-ladder_pt_23-0912;300"
+      },
+      {
+        "threshold": "55",
+        "rewardSetId": "rd_auto;item;item-ladder_pt_23-0912;500"
+      }
+    ],
+    "eventMissionId": "event-ladder-23-0912",
+    "viewConditionId": "",
+    "linkType": 0,
+    "linkDetail": ""
+  },
+  {
+    "id": "event-ms-normal-23-0912-mission_photo_shoot_total_count",
+    "categoryType": 3,
+    "missionType": 33,
+    "name": "フォト撮影{threshold}回",
+    "shortDescription": "フォト撮影{threshold}回",
+    "longDescription": "フォト撮影を{threshold}回しましょう。",
+    "order": 11,
+    "linkType": 32,
+    "progresses": [
+      {
+        "threshold": "3",
+        "rewardSetId": "rd_auto;item;item-ladder_pt_23-0912;200"
+      },
+      {
+        "threshold": "6",
+        "rewardSetId": "rd_auto;item;item-ladder_pt_23-0912;200"
+      },
+      {
+        "threshold": "9",
+        "rewardSetId": "rd_auto;item;item-ladder_pt_23-0912;300"
+      },
+      {
+        "threshold": "12",
+        "rewardSetId": "rd_auto;item;item-ladder_pt_23-0912;300"
+      },
+      {
+        "threshold": "15",
+        "rewardSetId": "rd_auto;item;item-ladder_pt_23-0912;400"
+      }
+    ],
+    "eventMissionId": "event-ladder-23-0912",
+    "targetIds": [],
+    "viewConditionId": "",
+    "linkDetail": ""
+  },
+  {
+    "id": "event-ms-normal-23-0912-mission_quest_all_clear_count",
+    "categoryType": 3,
+    "missionType": 11,
+    "name": "ライブクリア{threshold}回",
+    "shortDescription": "ライブクリア{threshold}回",
+    "longDescription": "ライブを{threshold}回クリアしましょう。",
+    "order": 7,
+    "linkType": 2,
+    "progresses": [
+      {
+        "threshold": "10",
+        "rewardSetId": "rd_auto;item;item-ladder_pt_23-0912;200"
+      },
+      {
+        "threshold": "20",
+        "rewardSetId": "rd_auto;item;item-ladder_pt_23-0912;200"
+      },
+      {
+        "threshold": "30",
+        "rewardSetId": "rd_auto;item;item-ladder_pt_23-0912;300"
+      },
+      {
+        "threshold": "40",
+        "rewardSetId": "rd_auto;item;item-ladder_pt_23-0912;300"
+      },
+      {
+        "threshold": "50",
+        "rewardSetId": "rd_auto;item;item-ladder_pt_23-0912;400"
+      }
+    ],
+    "eventMissionId": "event-ladder-23-0912",
+    "targetIds": [],
+    "viewConditionId": "",
+    "linkDetail": ""
+  },
+  {
+    "id": "event-ms-normal-23-0912-mission_quest_contest_clear_count",
+    "categoryType": 3,
+    "missionType": 6,
+    "name": "ハイスコアライブ{threshold}回クリア",
+    "shortDescription": "ハイスコアライブ{threshold}回クリア",
+    "longDescription": "ハイスコアライブを{threshold}回クリアしましょう。",
+    "order": 5,
+    "linkType": 6,
+    "progresses": [
+      {
+        "threshold": "2",
+        "rewardSetId": "rd_auto;item;item-ladder_pt_23-0912;200"
+      },
+      {
+        "threshold": "4",
+        "rewardSetId": "rd_auto;item;item-ladder_pt_23-0912;300"
+      },
+      {
+        "threshold": "6",
+        "rewardSetId": "rd_auto;item;item-ladder_pt_23-0912;300"
+      },
+      {
+        "threshold": "10",
+        "rewardSetId": "rd_auto;item;item-ladder_pt_23-0912;300"
+      },
+      {
+        "threshold": "15",
+        "rewardSetId": "rd_auto;item;item-ladder_pt_23-0912;500"
+      }
+    ],
+    "eventMissionId": "event-ladder-23-0912",
+    "targetIds": [],
+    "viewConditionId": "",
+    "linkDetail": ""
+  },
+  {
+    "id": "event-ms-normal-23-0912-mission_quest_daily_clear_count",
+    "categoryType": 3,
+    "missionType": 7,
+    "name": "デイリーライブ{threshold}回クリア",
+    "shortDescription": "デイリーライブ{threshold}回クリア",
+    "longDescription": "デイリーライブを{threshold}回クリアしましょう。",
+    "order": 4,
+    "linkType": 7,
+    "progresses": [
+      {
+        "threshold": "6",
+        "rewardSetId": "rd_auto;item;item-ladder_pt_23-0912;200"
+      },
+      {
+        "threshold": "12",
+        "rewardSetId": "rd_auto;item;item-ladder_pt_23-0912;300"
+      },
+      {
+        "threshold": "18",
+        "rewardSetId": "rd_auto;item;item-ladder_pt_23-0912;300"
+      },
+      {
+        "threshold": "24",
+        "rewardSetId": "rd_auto;item;item-ladder_pt_23-0912;300"
+      },
+      {
+        "threshold": "36",
+        "rewardSetId": "rd_auto;item;item-ladder_pt_23-0912;500"
+      }
+    ],
+    "eventMissionId": "event-ladder-23-0912",
+    "targetIds": [],
+    "viewConditionId": "",
+    "linkDetail": ""
+  },
+  {
+    "id": "event-ms-normal-23-0912-mission_quest_pvp_play_count",
+    "categoryType": 3,
+    "missionType": 45,
+    "name": "VENUSバトルに挑戦{threshold}回",
+    "shortDescription": "VENUSバトルに挑戦{threshold}回",
+    "longDescription": "VENUSバトルに挑戦を{threshold}回しましょう。",
+    "order": 6,
+    "linkType": 2,
+    "progresses": [
+      {
+        "threshold": "3",
+        "rewardSetId": "rd_auto;item;item-ladder_pt_23-0912;300"
+      },
+      {
+        "threshold": "6",
+        "rewardSetId": "rd_auto;item;item-ladder_pt_23-0912;300"
+      },
+      {
+        "threshold": "9",
+        "rewardSetId": "rd_auto;item;item-ladder_pt_23-0912;300"
+      },
+      {
+        "threshold": "12",
+        "rewardSetId": "rd_auto;item;item-ladder_pt_23-0912;300"
+      },
+      {
+        "threshold": "18",
+        "rewardSetId": "rd_auto;item;item-ladder_pt_23-0912;500"
+      }
+    ],
+    "eventMissionId": "event-ladder-23-0912",
+    "targetIds": [],
+    "viewConditionId": "",
+    "linkDetail": ""
+  },
+  {
+    "id": "event-ms-normal-23-0912-mission_use_point_amount_count",
+    "categoryType": 3,
+    "missionType": 1402,
+    "targetIds": [
+      "ladder-23-0912"
+    ],
+    "name": "メッセPtを{threshold}消費",
+    "shortDescription": "メッセPtを{threshold}消費",
+    "longDescription": "メッセPtを{threshold}消費しましょう。",
+    "order": 12,
+    "progresses": [
+      {
+        "threshold": "5000",
+        "rewardSetId": "rd_auto;item;item-ladder_pt_23-0912;300"
+      },
+      {
+        "threshold": "10000",
+        "rewardSetId": "rd_auto;item;item-ladder_pt_23-0912;300"
+      },
+      {
+        "threshold": "15000",
+        "rewardSetId": "rd_auto;item;item-ladder_pt_23-0912;500"
+      },
+      {
+        "threshold": "20000",
+        "rewardSetId": "rd_auto;item;item-ladder_pt_23-0912;500"
+      },
+      {
+        "threshold": "30000",
+        "rewardSetId": "rd_auto;item;item-ladder_pt_23-0912;500"
+      },
+      {
+        "threshold": "40000",
+        "rewardSetId": "rd_auto;item;item-ladder_pt_23-0912;500"
+      }
+    ],
+    "eventMissionId": "event-ladder-23-0912",
     "viewConditionId": "",
     "linkType": 0,
     "linkDetail": ""
@@ -33813,6 +34497,378 @@
     ],
     "targetIds": [],
     "viewConditionId": "",
+    "linkDetail": "",
+    "eventMissionId": ""
+  },
+  {
+    "id": "ms-normal-dream_clear_difficulty_level",
+    "categoryType": 3,
+    "missionType": 1605,
+    "name": "イメージトレーニングで難易度Lv{threshold}以上をクリア",
+    "shortDescription": "イメージトレーニングで難易度Lv{threshold}以上をクリア",
+    "longDescription": "難易度Lv{threshold}以上をクリア",
+    "order": 10,
+    "viewConditionId": "cd-time-dream-23-0912",
+    "progresses": [
+      {
+        "threshold": "50",
+        "rewardSetId": "rd_auto;item;item-photo_enhance;5"
+      },
+      {
+        "threshold": "100",
+        "rewardSetId": "rd_auto;item;item-photo_enhance;5"
+      },
+      {
+        "threshold": "150",
+        "rewardSetId": "rd_auto;item;item-photo_enhance;5"
+      },
+      {
+        "threshold": "200",
+        "rewardSetId": "rd_auto;item;item-photo_enhance;5"
+      },
+      {
+        "threshold": "220",
+        "rewardSetId": "rd_auto;item;item-photo_enhance;5"
+      },
+      {
+        "threshold": "240",
+        "rewardSetId": "rd_auto;item;item-photo_enhance;10"
+      },
+      {
+        "threshold": "250",
+        "rewardSetId": "rd_auto;item;item-photo_enhance;10"
+      },
+      {
+        "threshold": "260",
+        "rewardSetId": "rd_auto;item;item-photo_enhance;10"
+      },
+      {
+        "threshold": "270",
+        "rewardSetId": "rd_auto;item;item-photo_enhance;15"
+      },
+      {
+        "threshold": "280",
+        "rewardSetId": "rd_auto;item;item-photo_enhance;15"
+      },
+      {
+        "threshold": "290",
+        "rewardSetId": "rd_auto;item;item-photo_enhance;15"
+      },
+      {
+        "threshold": "300",
+        "rewardSetId": "rd_auto;item;item-photo_enhance;20"
+      }
+    ],
+    "targetIds": [],
+    "linkType": 0,
+    "linkDetail": "",
+    "eventMissionId": ""
+  },
+  {
+    "id": "ms-normal-dream_max_grade_a",
+    "categoryType": 3,
+    "missionType": 4,
+    "targetIds": [
+      "cd-dream-max-grade-a"
+    ],
+    "name": "イメージトレーニングでGRADE A以上のステージを生成",
+    "shortDescription": "イメージトレーニングでGRADE A以上のステージを生成",
+    "longDescription": "GRADE A以上のステージを生成",
+    "order": 10,
+    "viewConditionId": "cd-dream-max-grade-b",
+    "progresses": [
+      {
+        "threshold": "1",
+        "rewardSetId": "rd_auto;item;item-photo_enhance;5"
+      }
+    ],
+    "linkType": 0,
+    "linkDetail": "",
+    "eventMissionId": ""
+  },
+  {
+    "id": "ms-normal-dream_max_grade_b",
+    "categoryType": 3,
+    "missionType": 4,
+    "targetIds": [
+      "cd-dream-max-grade-b"
+    ],
+    "name": "イメージトレーニングでGRADE B以上のステージを生成",
+    "shortDescription": "イメージトレーニングでGRADE B以上のステージを生成",
+    "longDescription": "GRADE B以上のステージを生成",
+    "order": 10,
+    "viewConditionId": "cd-dream-max-grade-c",
+    "progresses": [
+      {
+        "threshold": "1",
+        "rewardSetId": "rd_auto;item;item-photo_enhance;5"
+      }
+    ],
+    "linkType": 0,
+    "linkDetail": "",
+    "eventMissionId": ""
+  },
+  {
+    "id": "ms-normal-dream_max_grade_c",
+    "categoryType": 3,
+    "missionType": 4,
+    "targetIds": [
+      "cd-dream-max-grade-c"
+    ],
+    "name": "イメージトレーニングでGRADE C以上のステージを生成",
+    "shortDescription": "イメージトレーニングでGRADE C以上のステージを生成",
+    "longDescription": "GRADE C以上のステージを生成",
+    "order": 10,
+    "viewConditionId": "cd-time-dream-23-0912",
+    "progresses": [
+      {
+        "threshold": "1",
+        "rewardSetId": "rd_auto;item;item-photo_enhance;5"
+      }
+    ],
+    "linkType": 0,
+    "linkDetail": "",
+    "eventMissionId": ""
+  },
+  {
+    "id": "ms-normal-dream_max_grade_s",
+    "categoryType": 3,
+    "missionType": 4,
+    "targetIds": [
+      "cd-dream-max-grade-s"
+    ],
+    "name": "イメージトレーニングでGRADE S以上のステージを生成",
+    "shortDescription": "イメージトレーニングでGRADE S以上のステージを生成",
+    "longDescription": "GRADE S以上のステージを生成",
+    "order": 10,
+    "viewConditionId": "cd-dream-max-grade-a",
+    "progresses": [
+      {
+        "threshold": "1",
+        "rewardSetId": "rd_auto;item;item-photo_enhance;5"
+      }
+    ],
+    "linkType": 0,
+    "linkDetail": "",
+    "eventMissionId": ""
+  },
+  {
+    "id": "ms-normal-dream_max_grade_s1",
+    "categoryType": 3,
+    "missionType": 4,
+    "targetIds": [
+      "cd-dream-max-grade-s1"
+    ],
+    "name": "イメージトレーニングでGRADE S+1以上のステージを生成",
+    "shortDescription": "イメージトレーニングでGRADE S+1以上のステージを生成",
+    "longDescription": "GRADE S+1以上のステージを生成",
+    "order": 10,
+    "viewConditionId": "cd-dream-max-grade-s",
+    "progresses": [
+      {
+        "threshold": "1",
+        "rewardSetId": "rd_auto;item;item-photo_enhance;5"
+      }
+    ],
+    "linkType": 0,
+    "linkDetail": "",
+    "eventMissionId": ""
+  },
+  {
+    "id": "ms-normal-dream_max_grade_s10",
+    "categoryType": 3,
+    "missionType": 4,
+    "targetIds": [
+      "cd-dream-max-grade-s10"
+    ],
+    "name": "イメージトレーニングでGRADE S+10以上のステージを生成",
+    "shortDescription": "イメージトレーニングでGRADE S+10以上のステージを生成",
+    "longDescription": "GRADE S+10以上のステージを生成",
+    "order": 10,
+    "viewConditionId": "cd-dream-max-grade-s9",
+    "progresses": [
+      {
+        "threshold": "1",
+        "rewardSetId": "rd_auto;item;item-photo_enhance;20"
+      }
+    ],
+    "linkType": 0,
+    "linkDetail": "",
+    "eventMissionId": ""
+  },
+  {
+    "id": "ms-normal-dream_max_grade_s2",
+    "categoryType": 3,
+    "missionType": 4,
+    "targetIds": [
+      "cd-dream-max-grade-s2"
+    ],
+    "name": "イメージトレーニングでGRADE S+2以上のステージを生成",
+    "shortDescription": "イメージトレーニングでGRADE S+2以上のステージを生成",
+    "longDescription": "GRADE S+2以上のステージを生成",
+    "order": 10,
+    "viewConditionId": "cd-dream-max-grade-s1",
+    "progresses": [
+      {
+        "threshold": "1",
+        "rewardSetId": "rd_auto;item;item-photo_enhance;10"
+      }
+    ],
+    "linkType": 0,
+    "linkDetail": "",
+    "eventMissionId": ""
+  },
+  {
+    "id": "ms-normal-dream_max_grade_s3",
+    "categoryType": 3,
+    "missionType": 4,
+    "targetIds": [
+      "cd-dream-max-grade-s3"
+    ],
+    "name": "イメージトレーニングでGRADE S+3以上のステージを生成",
+    "shortDescription": "イメージトレーニングでGRADE S+3以上のステージを生成",
+    "longDescription": "GRADE S+3以上のステージを生成",
+    "order": 10,
+    "viewConditionId": "cd-dream-max-grade-s2",
+    "progresses": [
+      {
+        "threshold": "1",
+        "rewardSetId": "rd_auto;item;item-photo_enhance;10"
+      }
+    ],
+    "linkType": 0,
+    "linkDetail": "",
+    "eventMissionId": ""
+  },
+  {
+    "id": "ms-normal-dream_max_grade_s4",
+    "categoryType": 3,
+    "missionType": 4,
+    "targetIds": [
+      "cd-dream-max-grade-s4"
+    ],
+    "name": "イメージトレーニングでGRADE S+4以上のステージを生成",
+    "shortDescription": "イメージトレーニングでGRADE S+4以上のステージを生成",
+    "longDescription": "GRADE S+4以上のステージを生成",
+    "order": 10,
+    "viewConditionId": "cd-dream-max-grade-s3",
+    "progresses": [
+      {
+        "threshold": "1",
+        "rewardSetId": "rd_auto;item;item-photo_enhance;10"
+      }
+    ],
+    "linkType": 0,
+    "linkDetail": "",
+    "eventMissionId": ""
+  },
+  {
+    "id": "ms-normal-dream_max_grade_s5",
+    "categoryType": 3,
+    "missionType": 4,
+    "targetIds": [
+      "cd-dream-max-grade-s5"
+    ],
+    "name": "イメージトレーニングでGRADE S+5以上のステージを生成",
+    "shortDescription": "イメージトレーニングでGRADE S+5以上のステージを生成",
+    "longDescription": "GRADE S+5以上のステージを生成",
+    "order": 10,
+    "viewConditionId": "cd-dream-max-grade-s4",
+    "progresses": [
+      {
+        "threshold": "1",
+        "rewardSetId": "rd_auto;item;item-photo_enhance;15"
+      }
+    ],
+    "linkType": 0,
+    "linkDetail": "",
+    "eventMissionId": ""
+  },
+  {
+    "id": "ms-normal-dream_max_grade_s6",
+    "categoryType": 3,
+    "missionType": 4,
+    "targetIds": [
+      "cd-dream-max-grade-s6"
+    ],
+    "name": "イメージトレーニングでGRADE S+6以上のステージを生成",
+    "shortDescription": "イメージトレーニングでGRADE S+6以上のステージを生成",
+    "longDescription": "GRADE S+6以上のステージを生成",
+    "order": 10,
+    "viewConditionId": "cd-dream-max-grade-s5",
+    "progresses": [
+      {
+        "threshold": "1",
+        "rewardSetId": "rd_auto;item;item-photo_enhance;15"
+      }
+    ],
+    "linkType": 0,
+    "linkDetail": "",
+    "eventMissionId": ""
+  },
+  {
+    "id": "ms-normal-dream_max_grade_s7",
+    "categoryType": 3,
+    "missionType": 4,
+    "targetIds": [
+      "cd-dream-max-grade-s7"
+    ],
+    "name": "イメージトレーニングでGRADE S+7以上のステージを生成",
+    "shortDescription": "イメージトレーニングでGRADE S+7以上のステージを生成",
+    "longDescription": "GRADE S+7以上のステージを生成",
+    "order": 10,
+    "viewConditionId": "cd-dream-max-grade-s6",
+    "progresses": [
+      {
+        "threshold": "1",
+        "rewardSetId": "rd_auto;item;item-photo_enhance;15"
+      }
+    ],
+    "linkType": 0,
+    "linkDetail": "",
+    "eventMissionId": ""
+  },
+  {
+    "id": "ms-normal-dream_max_grade_s8",
+    "categoryType": 3,
+    "missionType": 4,
+    "targetIds": [
+      "cd-dream-max-grade-s8"
+    ],
+    "name": "イメージトレーニングでGRADE S+8以上のステージを生成",
+    "shortDescription": "イメージトレーニングでGRADE S+8以上のステージを生成",
+    "longDescription": "GRADE S+8以上のステージを生成",
+    "order": 10,
+    "viewConditionId": "cd-dream-max-grade-s7",
+    "progresses": [
+      {
+        "threshold": "1",
+        "rewardSetId": "rd_auto;item;item-photo_enhance;15"
+      }
+    ],
+    "linkType": 0,
+    "linkDetail": "",
+    "eventMissionId": ""
+  },
+  {
+    "id": "ms-normal-dream_max_grade_s9",
+    "categoryType": 3,
+    "missionType": 4,
+    "targetIds": [
+      "cd-dream-max-grade-s9"
+    ],
+    "name": "イメージトレーニングでGRADE S+9以上のステージを生成",
+    "shortDescription": "イメージトレーニングでGRADE S+9以上のステージを生成",
+    "longDescription": "GRADE S+9以上のステージを生成",
+    "order": 10,
+    "viewConditionId": "cd-dream-max-grade-s8",
+    "progresses": [
+      {
+        "threshold": "1",
+        "rewardSetId": "rd_auto;item;item-photo_enhance;15"
+      }
+    ],
+    "linkType": 0,
     "linkDetail": "",
     "eventMissionId": ""
   },

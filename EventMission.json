@@ -97,6 +97,21 @@
     "unlockConditionId": ""
   },
   {
+    "id": "event-dream-23-0912",
+    "eventMissionType": 1,
+    "assetId": "img_banner_l_event-dream-defalut",
+    "name": "イベントミッション",
+    "order": 1,
+    "viewConditionId": "cd-time-dream-23-0912-23-0922",
+    "unlockConditionId": "cd-dream-23-0912-play",
+    "missionIds": [
+      "event-dream-23-0912-dream_area_generate_count",
+      "event-dream-23-0912-dream_quest_clear_count",
+      "event-dream-23-0912-dream_quest_clear_difficulty_level_achievement",
+      "event-dream-23-0912-dream_season_dream_max_grade_a"
+    ]
+  },
+  {
     "id": "event-ladder-22-0513",
     "eventMissionType": 1,
     "assetId": "img_banner_l_event-ladder-22-0513",
@@ -379,6 +394,32 @@
       "event-ms-normal-23-0810-mission_quest_daily_clear_count",
       "event-ms-normal-23-0810-mission_quest_pvp_play_count",
       "event-ms-normal-23-0810-mission_use_point_amount_count"
+    ],
+    "unlockConditionId": ""
+  },
+  {
+    "id": "event-ladder-23-0912",
+    "eventMissionType": 1,
+    "assetId": "img_banner_l_event-ladder-default",
+    "name": "メッセージミッション",
+    "order": 1,
+    "viewConditionId": "cd-date-event-ladder-23-0912",
+    "missionIds": [
+      "event-ms-normal-23-0912-mission_card_level_up_count",
+      "event-ms-normal-23-0912-mission_card_skill_level_up_count",
+      "event-ms-normal-23-0912-mission_login_count",
+      "event-ms-normal-23-0912-mission_market_exchange_count",
+      "event-ms-normal-23-0912-mission_open_message-01",
+      "event-ms-normal-23-0912-mission_open_message-02",
+      "event-ms-normal-23-0912-mission_open_message-03",
+      "event-ms-normal-23-0912-mission_open_message-04",
+      "event-ms-normal-23-0912-mission_open_panel_count",
+      "event-ms-normal-23-0912-mission_photo_shoot_total_count",
+      "event-ms-normal-23-0912-mission_quest_all_clear_count",
+      "event-ms-normal-23-0912-mission_quest_contest_clear_count",
+      "event-ms-normal-23-0912-mission_quest_daily_clear_count",
+      "event-ms-normal-23-0912-mission_quest_pvp_play_count",
+      "event-ms-normal-23-0912-mission_use_point_amount_count"
     ],
     "unlockConditionId": ""
   },

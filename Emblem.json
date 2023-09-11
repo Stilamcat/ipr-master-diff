@@ -4698,6 +4698,51 @@
     "isViewableInInactive": false
   },
   {
+    "id": "emb-dream_difficulty_level_100",
+    "name": "イメトレの使い手",
+    "assetId": "dream_difficulty_level_100",
+    "autoProvideConditionId": "cd-clear-ms-normal-dream_clear_difficulty_level-100",
+    "isViewableInInactive": true,
+    "order": 100260,
+    "description": "イメージトレーニングで難易度Lv100以上のステージをクリアする"
+  },
+  {
+    "id": "emb-dream_difficulty_level_200",
+    "name": "イメトレ専門家",
+    "assetId": "dream_difficulty_level_200",
+    "autoProvideConditionId": "cd-clear-ms-normal-dream_clear_difficulty_level-200",
+    "isViewableInInactive": true,
+    "order": 100270,
+    "description": "イメージトレーニングで難易度Lv200以上のステージをクリアする"
+  },
+  {
+    "id": "emb-dream_difficulty_level_300",
+    "name": "イメトレ界の巨匠",
+    "assetId": "dream_difficulty_level_300",
+    "autoProvideConditionId": "cd-clear-ms-normal-dream_clear_difficulty_level-300",
+    "isViewableInInactive": true,
+    "order": 100280,
+    "description": "イメージトレーニングで難易度Lv300以上のステージをクリアする"
+  },
+  {
+    "id": "emb-dream_max-grade-s",
+    "name": "認定クリエイター",
+    "assetId": "dream_max-grade-s",
+    "autoProvideConditionId": "cd-dream-max-grade-s",
+    "isViewableInInactive": true,
+    "order": 100290,
+    "description": "イメージトレーニングでGRADE S以上のステージを生成する"
+  },
+  {
+    "id": "emb-dream_max-grade-s_10",
+    "name": "エグゼクティブCD",
+    "assetId": "dream_max-grade-s_10",
+    "autoProvideConditionId": "cd-dream-max-grade-s10",
+    "isViewableInInactive": true,
+    "order": 100300,
+    "description": "イメージトレーニングでGRADE S+10以上のステージを生成する"
+  },
+  {
     "id": "emb-eve-23-0626",
     "name": "イベント称号",
     "assetId": "contest-23-0626",

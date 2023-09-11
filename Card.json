@@ -3484,6 +3484,66 @@
     "homeTalks": []
   },
   {
+    "id": "card-ktn-05-circ-00",
+    "assetId": "ktn-05-circ-00",
+    "name": "カットバックタンデム",
+    "description": "撮影にはライブと違う緊張感や達成感があるし\r\n私自身、役作りの過程で出来る表現が増えた気がします",
+    "type": 3,
+    "characterId": "char-ktn",
+    "initialRarity": 5,
+    "cardParameterId": "card-param-01",
+    "vocalRatioPermil": 414,
+    "danceRatioPermil": 328,
+    "visualRatioPermil": 288,
+    "staminaRatioPermil": 900,
+    "cardLevelReleaseId": "card_level_release_1",
+    "skillId1": "sk-ktn-05-circ-00-1",
+    "skillId2": "sk-ktn-05-circ-00-2",
+    "skillId3": "sk-ktn-05-circ-00-3",
+    "liveAbilityId": "lba-active_skill_score_multiply",
+    "order": 312,
+    "releaseDate": "1694401200000",
+    "rewardCostumeId": "cos-ktn-circ-00",
+    "imageType1": 3,
+    "displayPositionX1": -0.004,
+    "displayPositionY1": 0.167,
+    "displayScale1": 1.5,
+    "highlightDisplayPositionX1": -0.059,
+    "highlightDisplayPositionY1": 0.3,
+    "highlightDisplayScale1": 0.7,
+    "imageType2": 3,
+    "displayPositionX2": -0.004,
+    "displayPositionY2": 0.167,
+    "displayScale2": 1.5,
+    "highlightDisplayPositionX2": -0.059,
+    "highlightDisplayPositionY2": 0.3,
+    "highlightDisplayScale2": 0.7,
+    "obtainMessage": "映画の原作を読んでから、\n凄くワクワクしてるんです！",
+    "stories": [
+      {
+        "storyId": "st-card-ktn-05-circ-00-01"
+      },
+      {
+        "storyId": "st-card-ktn-05-circ-00-02"
+      },
+      {
+        "storyId": "st-card-ktn-05-circ-00-03"
+      }
+    ],
+    "messages": [
+      {
+        "messageId": "message-card-ktn-05-circ-00",
+        "telephoneId": ""
+      },
+      {
+        "telephoneId": "tel-card-ktn-05-circ-00",
+        "messageId": ""
+      }
+    ],
+    "activityAbilityId": "",
+    "homeTalks": []
+  },
+  {
     "id": "card-ktn-05-fest-00",
     "assetId": "ktn-05-fest-00",
     "name": "光華霜夜",

@@ -2007,5 +2007,41 @@
       }
     ],
     "unlockConditionId": ""
+  },
+  {
+    "type": 36,
+    "stepInfo": [
+      {
+        "step": 1,
+        "subStep": 100,
+        "navigationType": 3,
+        "texts": [
+          "ベースフォトのステージを生成しましょう。\nベースフォトと素材フォトのレアリティや品質、オプションの類似度に応じて、難易度を示すGRADE、ステージ数、上昇値が変動します。"
+        ],
+        "assetIds": [
+          "img_tutorial_tips_tips-022"
+        ],
+        "navigationPositionType": 0
+      }
+    ],
+    "unlockConditionId": ""
+  },
+  {
+    "type": 37,
+    "stepInfo": [
+      {
+        "step": 1,
+        "subStep": 100,
+        "navigationType": 3,
+        "texts": [
+          "ベースフォトの各オプションの効果値は、生成したステージの進捗に応じて上昇します。\nメインライブの進捗に応じた一部ステージのSKIPも可能です。"
+        ],
+        "assetIds": [
+          "img_tutorial_tips_tips-023"
+        ],
+        "navigationPositionType": 0
+      }
+    ],
+    "unlockConditionId": ""
   }
 ]

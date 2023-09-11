@@ -9013,6 +9013,50 @@
     ]
   },
   {
+    "id": "cd-clear-ms-normal-dream_clear_difficulty_level-100",
+    "settings": [
+      {
+        "clearMission": {
+          "missionId": "ms-normal-dream_clear_difficulty_level",
+          "threshold": "100"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-clear-ms-normal-dream_clear_difficulty_level-200",
+    "settings": [
+      {
+        "clearMission": {
+          "missionId": "ms-normal-dream_clear_difficulty_level",
+          "threshold": "200"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-clear-ms-normal-dream_clear_difficulty_level-300",
+    "settings": [
+      {
+        "clearMission": {
+          "missionId": "ms-normal-dream_clear_difficulty_level",
+          "threshold": "300"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-clear-ms-normal-dream_clear_difficulty_level-400",
+    "settings": [
+      {
+        "clearMission": {
+          "missionId": "ms-normal-dream_clear_difficulty_level",
+          "threshold": "400"
+        }
+      }
+    ]
+  },
+  {
     "id": "cd-clear-qt-area-1-001",
     "settings": [
       {
@@ -11899,6 +11943,57 @@
     ]
   },
   {
+    "id": "cd-date-event-ladder-23-0912",
+    "settings": [
+      {
+        "term": {
+          "nowAfter": "1694444400000",
+          "nowBefore": "1695481199000"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-date-event-ladder-23-0912-panel-message-01",
+    "settings": [
+      {
+        "satisfyCondition": {
+          "conditionId": "cd-date-event-ladder-23-0912"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-date-event-ladder-23-0912-panel-message-02",
+    "settings": [
+      {
+        "satisfyCondition": {
+          "conditionId": "cd-date-event-ladder-23-0912"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-date-event-ladder-23-0912-panel-message-03",
+    "settings": [
+      {
+        "satisfyCondition": {
+          "conditionId": "cd-date-event-ladder-23-0912"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-date-event-ladder-23-0912-panel-message-04",
+    "settings": [
+      {
+        "satisfyCondition": {
+          "conditionId": "cd-date-event-ladder-23-0912"
+        }
+      }
+    ]
+  },
+  {
     "id": "cd-date-event-ladder-marathon-raid-22-1028-panel-story-01",
     "settings": [
       {
@@ -13807,6 +13902,110 @@
           "conditionId": "cd-possession-cos-suz-mizg-02-not"
         }
       }
+    ]
+  },
+  {
+    "id": "cd-dream-23-0912-play",
+    "settings": [
+      {
+        "satisfyCondition": {
+          "conditionId": "cd-clear-area-main-016"
+        },
+        "term": {
+          "nowAfter": "1694487600000",
+          "nowBefore": "1695351599000"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-dream-23-0912-season-max-grade-a",
+    "settings": [
+      {}
+    ]
+  },
+  {
+    "id": "cd-dream-max-grade-a",
+    "settings": [
+      {}
+    ]
+  },
+  {
+    "id": "cd-dream-max-grade-b",
+    "settings": [
+      {}
+    ]
+  },
+  {
+    "id": "cd-dream-max-grade-c",
+    "settings": [
+      {}
+    ]
+  },
+  {
+    "id": "cd-dream-max-grade-s",
+    "settings": [
+      {}
+    ]
+  },
+  {
+    "id": "cd-dream-max-grade-s1",
+    "settings": [
+      {}
+    ]
+  },
+  {
+    "id": "cd-dream-max-grade-s10",
+    "settings": [
+      {}
+    ]
+  },
+  {
+    "id": "cd-dream-max-grade-s2",
+    "settings": [
+      {}
+    ]
+  },
+  {
+    "id": "cd-dream-max-grade-s3",
+    "settings": [
+      {}
+    ]
+  },
+  {
+    "id": "cd-dream-max-grade-s4",
+    "settings": [
+      {}
+    ]
+  },
+  {
+    "id": "cd-dream-max-grade-s5",
+    "settings": [
+      {}
+    ]
+  },
+  {
+    "id": "cd-dream-max-grade-s6",
+    "settings": [
+      {}
+    ]
+  },
+  {
+    "id": "cd-dream-max-grade-s7",
+    "settings": [
+      {}
+    ]
+  },
+  {
+    "id": "cd-dream-max-grade-s8",
+    "settings": [
+      {}
+    ]
+  },
+  {
+    "id": "cd-dream-max-grade-s9",
+    "settings": [
+      {}
     ]
   },
   {
@@ -50358,6 +50557,16 @@
     ]
   },
   {
+    "id": "cd-ms-read-message-card-ktn-05-circ-00",
+    "settings": [
+      {
+        "finishedMessage": {
+          "messageId": "message-card-ktn-05-circ-00"
+        }
+      }
+    ]
+  },
+  {
     "id": "cd-ms-read-message-card-ktn-05-fest-00",
     "settings": [
       {
@@ -71222,6 +71431,39 @@
     ]
   },
   {
+    "id": "cd-shop-pack-23-0911",
+    "settings": [
+      {
+        "term": {
+          "nowAfter": "1694401200000",
+          "nowBefore": "0"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-shop-pack-23-0911-0930",
+    "settings": [
+      {
+        "term": {
+          "nowAfter": "1694401200000",
+          "nowBefore": "1696042799000"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-shop-pack-23-0911-0930-dokan",
+    "settings": [
+      {
+        "term": {
+          "nowAfter": "1694401200000",
+          "nowBefore": "1696042799000"
+        }
+      }
+    ]
+  },
+  {
     "id": "cd-shop-pack1-23-0809",
     "settings": [
       {
@@ -84752,6 +84994,16 @@
     ]
   },
   {
+    "id": "cd-st-read-st-card-ktn-05-circ-00-03",
+    "settings": [
+      {
+        "readStory": {
+          "storyId": "st-card-ktn-05-circ-00-03"
+        }
+      }
+    ]
+  },
+  {
     "id": "cd-st-read-st-card-ktn-05-fest-00-03",
     "settings": [
       {
@@ -86679,6 +86931,31 @@
       {
         "readStory": {
           "storyId": "st-ex-story-part-anniversary-01-23-0624-08"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-time-dream-23-0912",
+    "settings": [
+      {
+        "satisfyCondition": {
+          "conditionId": "cd-clear-area-main-016"
+        },
+        "term": {
+          "nowAfter": "1694487600000",
+          "nowBefore": "0"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-time-dream-23-0912-23-0922",
+    "settings": [
+      {
+        "term": {
+          "nowAfter": "1694487600000",
+          "nowBefore": "1695351599000"
         }
       }
     ]
@@ -91002,6 +91279,43 @@
     ]
   },
   {
+    "id": "cd-time-gacha-fixed-23-0911",
+    "settings": [
+      {
+        "term": {
+          "nowAfter": "1694401200000",
+          "nowBefore": "1695265199000"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-time-gacha-fixed-23-0911-banner",
+    "settings": [
+      {
+        "notSatisfyCondition": {
+          "conditionId": "cd-time-gacha-fixed-23-0911-banner-end"
+        },
+        "term": {
+          "nowAfter": "1694401200000",
+          "nowBefore": "1695265199000"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-time-gacha-fixed-23-0911-banner-end",
+    "settings": [
+      {
+        "drawGacha": {
+          "gachaButtonIds": [
+            "btn-10-gacha-fixed-23-0911-total"
+          ]
+        }
+      }
+    ]
+  },
+  {
     "id": "cd-time-gacha-fixed-selection-23-0328",
     "settings": [
       {
@@ -94385,6 +94699,17 @@
     ]
   },
   {
+    "id": "cd-time-gacha-normal-23-0911",
+    "settings": [
+      {
+        "term": {
+          "nowAfter": "1694401200000",
+          "nowBefore": "1695265200000"
+        }
+      }
+    ]
+  },
+  {
     "id": "cd-time-gacha-pick-set-bloom-21-1112",
     "settings": [
       {
@@ -94927,6 +95252,31 @@
         "term": {
           "nowAfter": "1692586800000",
           "nowBefore": "1693277999000"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-time-gacha-pick-set-bloom-23-0911",
+    "settings": [
+      {
+        "term": {
+          "nowAfter": "1694401200000",
+          "nowBefore": "1695265199000"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-time-gacha-pick-set-bloom-23-0911-banner",
+    "settings": [
+      {
+        "satisfyCondition": {
+          "conditionId": "cd-time-gacha-fixed-23-0911-banner-end"
+        },
+        "term": {
+          "nowAfter": "1694401200000",
+          "nowBefore": "1695265199000"
         }
       }
     ]
@@ -104062,6 +104412,16 @@
       {
         "wearCostume": {
           "costumeId": "cos-kor-poli-00"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-wear-costume-cos-ktn-circ-00",
+    "settings": [
+      {
+        "wearCostume": {
+          "costumeId": "cos-ktn-circ-00"
         }
       }
     ]

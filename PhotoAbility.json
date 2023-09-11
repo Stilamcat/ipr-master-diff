@@ -3732,7 +3732,7 @@
   {
     "id": "pab-affect_strength_effect_count_increase-beat_score_up_recipe_distribution-5",
     "name": "与・ビートスコア延長",
-    "description": "付与するビートスコア上昇効果を8延長します",
+    "description": "付与するビートスコア上昇効果を{0}延長します",
     "abilityType": 30,
     "photoAbilityLevels": [
       {
@@ -3846,7 +3846,7 @@
   {
     "id": "pab-affect_strength_effect_count_increase-dance_up_recipe-001",
     "name": "与・Da延長",
-    "description": "付与するダンス上昇効果を6延長します",
+    "description": "付与するダンス上昇効果を{0}延長します",
     "abilityType": 30,
     "photoAbilityLevels": [
       {
@@ -4142,7 +4142,7 @@
   {
     "id": "pab-affect_strength_effect_count_increase-skill_success_rate_up_recipe_distribution-5",
     "name": "被・成功率延長",
-    "description": "受けるスキル成功率上昇効果を11延長します",
+    "description": "受けるスキル成功率上昇効果を{0}延長します",
     "abilityType": 28,
     "photoAbilityLevels": [
       {
@@ -4256,7 +4256,7 @@
   {
     "id": "pab-affect_strength_effect_count_increase-visual_up_recipe-001",
     "name": "与・Vi延長",
-    "description": "付与するビジュアル上昇効果を6延長します",
+    "description": "付与するビジュアル上昇効果を{0}延長します",
     "abilityType": 30,
     "photoAbilityLevels": [
       {
@@ -4334,7 +4334,7 @@
   {
     "id": "pab-affect_strength_effect_count_increase-visual_up_recipe_distribution-5",
     "name": "与・Vi延長",
-    "description": "付与するビジュアル上昇効果を5延長します",
+    "description": "付与するビジュアル上昇効果を{0}延長します",
     "abilityType": 30,
     "photoAbilityLevels": [
       {
@@ -4448,7 +4448,7 @@
   {
     "id": "pab-affect_strength_effect_count_increase-vocal_up_recipe-001",
     "name": "与・Vo延長",
-    "description": "付与するボーカル上昇効果を6延長します",
+    "description": "付与するボーカル上昇効果を{0}延長します",
     "abilityType": 30,
     "photoAbilityLevels": [
       {
@@ -4526,7 +4526,7 @@
   {
     "id": "pab-affect_strength_effect_count_increase-vocal_up_recipe_distribution-5",
     "name": "与・Vo延長",
-    "description": "付与するボーカル上昇効果を5延長します",
+    "description": "付与するボーカル上昇効果を{0}延長します",
     "abilityType": 30,
     "photoAbilityLevels": [
       {
@@ -8152,7 +8152,7 @@
   {
     "id": "pab-cool_time_reduction_skill_1_recipe-001-cd-support",
     "name": "CTカット1st",
-    "description": "<サポータータイプのみ>\nスキル1のCTを5カットします",
+    "description": "<サポータータイプのみ>\nスキル1のCTを{0}カットします",
     "abilityType": 31,
     "photoAbilityLevels": [
       {
@@ -8230,7 +8230,7 @@
   {
     "id": "pab-cool_time_reduction_skill_2_recipe-001-cd-appeal",
     "name": "CTカット2nd",
-    "description": "<スコアラータイプのみ>\nスキル2のCTを5カットします",
+    "description": "<スコアラータイプのみ>\nスキル2のCTを{0}カットします",
     "abilityType": 32,
     "photoAbilityLevels": [
       {
@@ -8308,7 +8308,7 @@
   {
     "id": "pab-cool_time_reduction_skill_3_recipe-001-cd-technique",
     "name": "CTカット3rd",
-    "description": "<バッファータイプのみ>\nスキル3のCTを7カットします",
+    "description": "<バッファータイプのみ>\nスキル3のCTを{0}カットします",
     "abilityType": 33,
     "photoAbilityLevels": [
       {
@@ -31210,7 +31210,7 @@
   {
     "id": "pab-received_strength_effect_count_increase-active_skill_score_up_recipe_distribution-5",
     "name": "被・Aスコア延長",
-    "description": "受けるAスキルスコア上昇効果を13延長します",
+    "description": "受けるAスキルスコア上昇効果を{0}延長します",
     "abilityType": 28,
     "photoAbilityLevels": [
       {
@@ -31324,7 +31324,7 @@
   {
     "id": "pab-received_strength_effect_count_increase-active_skill_score_up_recipe_distribution-5-cd-appeal",
     "name": "被・Aスコア延長",
-    "description": "<スコアラータイプのみ>受けるAスキルスコア上昇効果を14延長します",
+    "description": "<スコアラータイプのみ>受けるAスキルスコア上昇効果を{0}延長します",
     "abilityType": 28,
     "photoAbilityLevels": [
       {
@@ -31438,7 +31438,7 @@
   {
     "id": "pab-received_strength_effect_count_increase-critical_rate_up_recipe_distribution-5",
     "name": "被・クリティカル率延長",
-    "description": "受けるクリティカル率アップ効果を14延長",
+    "description": "受けるクリティカル率アップ効果を{0}延長",
     "abilityType": 28,
     "photoAbilityLevels": [
       {
@@ -31552,7 +31552,7 @@
   {
     "id": "pab-received_strength_effect_count_increase-dance_up_recipe_distribution-5",
     "name": "被・Da延長",
-    "description": "受けるダンス上昇効果を4延長します",
+    "description": "受けるダンス上昇効果を{0}延長します",
     "abilityType": 28,
     "photoAbilityLevels": [
       {
@@ -31666,7 +31666,7 @@
   {
     "id": "pab-received_strength_effect_count_increase-stamina_consumption_reduction_recipe_distribution-5",
     "name": "被・消費スタ減延長",
-    "description": "受ける消費スタミナ低下効果を23延長します",
+    "description": "受ける消費スタミナ低下効果を{0}延長します",
     "abilityType": 28,
     "photoAbilityLevels": [
       {
@@ -31884,7 +31884,7 @@
   {
     "id": "pab-received_strength_effect_count_increase-visual_up_recipe_distribution-5",
     "name": "被・Vi延長",
-    "description": "受けるビジュアルアップ効果を4延長します",
+    "description": "受けるビジュアルアップ効果を{0}延長します",
     "abilityType": 28,
     "photoAbilityLevels": [
       {
@@ -31998,7 +31998,7 @@
   {
     "id": "pab-received_strength_effect_count_increase-vocal_up_recipe_distribution-5",
     "name": "被・Vo延長",
-    "description": "受けるボーカルアップ効果を4延長します",
+    "description": "受けるボーカルアップ効果を{0}延長します",
     "abilityType": 28,
     "photoAbilityLevels": [
       {
@@ -32112,7 +32112,7 @@
   {
     "id": "pab-received_strength_effect_value_increase-dance_up_recipe-001",
     "name": "被・Da増強",
-    "description": "受けるダンス上昇効果を2段階増強します",
+    "description": "受けるダンス上昇効果を{0}段階増強します",
     "abilityType": 27,
     "photoAbilityLevels": [
       {
@@ -32190,7 +32190,7 @@
   {
     "id": "pab-received_strength_effect_value_increase-dance_up_recipe_distribution-5",
     "name": "被・Da増強",
-    "description": "受けるダンス上昇効果を1段階増強します",
+    "description": "受けるダンス上昇効果を{0}段階増強します",
     "abilityType": 27,
     "photoAbilityLevels": [
       {
@@ -32304,7 +32304,7 @@
   {
     "id": "pab-received_strength_effect_value_increase-visual_up_recipe-001",
     "name": "被・Vi増強",
-    "description": "受けるビジュアル上昇効果を2段階増強します",
+    "description": "受けるビジュアル上昇効果を{0}段階増強します",
     "abilityType": 27,
     "photoAbilityLevels": [
       {
@@ -32382,7 +32382,7 @@
   {
     "id": "pab-received_strength_effect_value_increase-visual_up_recipe_distribution-5",
     "name": "被・Vi増強",
-    "description": "受けるビジュアル上昇効果を1段階増強します",
+    "description": "受けるビジュアル上昇効果を{0}段階増強します",
     "abilityType": 27,
     "photoAbilityLevels": [
       {
@@ -32496,7 +32496,7 @@
   {
     "id": "pab-received_strength_effect_value_increase-vocal_up_recipe-001",
     "name": "被・Vo増強",
-    "description": "受けるボーカル上昇効果を2段階増強します",
+    "description": "受けるボーカル上昇効果を{0}段階増強します",
     "abilityType": 27,
     "photoAbilityLevels": [
       {
@@ -32574,7 +32574,7 @@
   {
     "id": "pab-received_strength_effect_value_increase-vocal_up_recipe_distribution-5",
     "name": "被・Vo増強",
-    "description": "受けるボーカル上昇効果を1段階増強します",
+    "description": "受けるボーカル上昇効果を{0}段階増強します",
     "abilityType": 27,
     "photoAbilityLevels": [
       {
@@ -33342,7 +33342,7 @@
   {
     "id": "pab-sk-phot-hrk-idol-03",
     "name": "与・Aスコア延長",
-    "description": "付与するAスキルスコア上昇効果を6延長します",
+    "description": "付与するAスキルスコア上昇効果を{0}延長します",
     "abilityType": 30,
     "photoAbilityLevels": [
       {
@@ -33996,7 +33996,7 @@
   {
     "id": "pab-sk-phot-kor-idol-00",
     "name": "被・コンボスコア延長",
-    "description": "受けるコンボスコア上昇効果を9延長します",
+    "description": "受けるコンボスコア上昇効果を{0}延長します",
     "abilityType": 28,
     "photoAbilityLevels": [
       {
@@ -34214,7 +34214,7 @@
   {
     "id": "pab-sk-phot-ktn-idol-03",
     "name": "被・Da延長",
-    "description": "受けるダンス上昇効果を3延長します",
+    "description": "受けるダンス上昇効果を{0}延長します",
     "abilityType": 28,
     "photoAbilityLevels": [
       {
@@ -34868,7 +34868,7 @@
   {
     "id": "pab-sk-phot-mku-idol-00",
     "name": "被・スコア延長",
-    "description": "受けるスコア上昇効果を7延長します",
+    "description": "受けるスコア上昇効果を{0}延長します",
     "abilityType": 28,
     "photoAbilityLevels": [
       {
@@ -35522,7 +35522,7 @@
   {
     "id": "pab-sk-phot-rei-idol-03",
     "name": "与・Vo延長",
-    "description": "付与するボーカル上昇効果を3延長します",
+    "description": "付与するボーカル上昇効果を{0}延長します",
     "abilityType": 30,
     "photoAbilityLevels": [
       {
@@ -36612,7 +36612,7 @@
   {
     "id": "pab-sk-phot-smr-idol-03",
     "name": "与・クリティカル率延長",
-    "description": "付与するクリティカル率上昇効果を10延長します",
+    "description": "付与するクリティカル率上昇効果を{0}延長します",
     "abilityType": 30,
     "photoAbilityLevels": [
       {
@@ -37048,7 +37048,7 @@
   {
     "id": "pab-sk-phot-szk-idol-03",
     "name": "与・Aスコア延長",
-    "description": "付与するAスキルスコア上昇効果を6延長します",
+    "description": "付与するAスキルスコア上昇効果を{0}延長します",
     "abilityType": 30,
     "photoAbilityLevels": [
       {

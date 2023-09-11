@@ -1966,6 +1966,56 @@
     ]
   },
   {
+    "homeTalkId": "home-talk-card-ktn-05-circ-00-talk-01",
+    "characterId": "char-ktn",
+    "placeType": 1,
+    "conditionId": "cd-st-read-st-card-ktn-05-circ-00-03",
+    "firstPriority": 9900,
+    "weight": 1,
+    "callPatternId": "call-pattern-card-ktn-05-circ-00",
+    "choiceText": "反動？　まさか…怪我でも！？",
+    "managerText": "反動？　まさか…怪我でも！？",
+    "reliability": 5,
+    "characterTalks": [
+      {
+        "text": "あ…そういう訳じゃないんです。\n紛らわしい言い方をしちゃって\nすみません。",
+        "voiceAssetId": "sud_vo_home_ktn-05-circ-00_talk-01-01",
+        "motionAssetId": "mot_adv_chr_cmn_deny-001_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "葵さんとプライベートでもずっと\n一緒だった反動で、渚が今まで以上\nに私にべったりになっちゃって。",
+        "voiceAssetId": "sud_vo_home_ktn-05-circ-00_talk-01-02",
+        "motionAssetId": "mot_adv_chr_cmn_talk-001_in",
+        "additionMotionAssetId": "mot_all_chr_cmn_facial-034_in"
+      },
+      {
+        "text": "寮にいる時、ずっと私に\nくっついてくるんです。",
+        "voiceAssetId": "sud_vo_home_ktn-05-circ-00_talk-01-03",
+        "motionAssetId": "mot_adv_chr_cmn_talk-018_in",
+        "additionMotionAssetId": "mot_all_chr_cmn_facial-003_in"
+      },
+      {
+        "text": "え？　いつも通りじゃないか…\nですか？",
+        "voiceAssetId": "sud_vo_home_ktn-05-circ-00_talk-01-04",
+        "motionAssetId": "mot_adv_chr_cmn_surp-001_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "言われてみればそうかもしれません\nけど…でも、やっぱりいつもより\n距離感が近い気がします。",
+        "voiceAssetId": "sud_vo_home_ktn-05-circ-00_talk-01-05",
+        "motionAssetId": "mot_adv_chr_cmn_talk-014_in",
+        "additionMotionAssetId": "mot_all_chr_cmn_facial-003_in"
+      },
+      {
+        "text": "まぁ、私もちょっと寂しいなって\n思ってたので…ちょうどいいと\n言えばちょうどいいんですけど。",
+        "voiceAssetId": "sud_vo_home_ktn-05-circ-00_talk-01-06",
+        "motionAssetId": "mot_adv_chr_cmn_emb-012_in",
+        "additionMotionAssetId": ""
+      }
+    ]
+  },
+  {
     "homeTalkId": "home-talk-card-ktn-05-fest-00-talk-01",
     "characterId": "char-ktn",
     "placeType": 1,
