@@ -50250,6 +50250,16 @@
     ]
   },
   {
+    "id": "cd-ms-read-message-card-aoi-05-circ-00",
+    "settings": [
+      {
+        "finishedMessage": {
+          "messageId": "message-card-aoi-05-circ-00"
+        }
+      }
+    ]
+  },
+  {
     "id": "cd-ms-read-message-card-aoi-05-fest-00",
     "settings": [
       {
@@ -84723,6 +84733,16 @@
     ]
   },
   {
+    "id": "cd-st-read-st-card-aoi-05-circ-00-03",
+    "settings": [
+      {
+        "readStory": {
+          "storyId": "st-card-aoi-05-circ-00-03"
+        }
+      }
+    ]
+  },
+  {
     "id": "cd-st-read-st-card-aoi-05-fest-00-03",
     "settings": [
       {
@@ -91489,6 +91509,20 @@
     ]
   },
   {
+    "id": "cd-time-gacha-fixed-23-0911-banner-close",
+    "settings": [
+      {
+        "satisfyCondition": {
+          "conditionId": "cd-time-gacha-fixed-23-0911-banner-end"
+        },
+        "term": {
+          "nowAfter": "1694401200000",
+          "nowBefore": "1695092399000"
+        }
+      }
+    ]
+  },
+  {
     "id": "cd-time-gacha-fixed-23-0911-banner-end",
     "settings": [
       {
@@ -91532,6 +91566,43 @@
         "drawGacha": {
           "gachaButtonIds": [
             "btn-10-gacha-fixed-23-0913-total"
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-time-gacha-fixed-23-0919",
+    "settings": [
+      {
+        "term": {
+          "nowAfter": "1695092400000",
+          "nowBefore": "1696042799000"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-time-gacha-fixed-23-0919-banner",
+    "settings": [
+      {
+        "notSatisfyCondition": {
+          "conditionId": "cd-time-gacha-fixed-23-0919-banner-end"
+        },
+        "term": {
+          "nowAfter": "1695092400000",
+          "nowBefore": "1696042799000"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-time-gacha-fixed-23-0919-banner-end",
+    "settings": [
+      {
+        "drawGacha": {
+          "gachaButtonIds": [
+            "btn-10-gacha-fixed-23-0919-total"
           ]
         }
       }
@@ -94963,7 +95034,18 @@
       {
         "term": {
           "nowAfter": "1694401200000",
-          "nowBefore": "1695265200000"
+          "nowBefore": "1695092400000"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-time-gacha-normal-23-0919",
+    "settings": [
+      {
+        "term": {
+          "nowAfter": "1695092400000",
+          "nowBefore": "1696042800000"
         }
       }
     ]
@@ -95536,6 +95618,45 @@
         "term": {
           "nowAfter": "1694401200000",
           "nowBefore": "1695265199000"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-time-gacha-pick-set-bloom-23-0911-banner-close",
+    "settings": [
+      {
+        "satisfyCondition": {
+          "conditionId": "cd-time-gacha-fixed-23-0911-banner-end"
+        },
+        "term": {
+          "nowAfter": "1694401200000",
+          "nowBefore": "1695092399000"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-time-gacha-pick-set-bloom-23-0919",
+    "settings": [
+      {
+        "term": {
+          "nowAfter": "1695092400000",
+          "nowBefore": "1696042799000"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-time-gacha-pick-set-bloom-23-0919-banner",
+    "settings": [
+      {
+        "satisfyCondition": {
+          "conditionId": "cd-time-gacha-fixed-23-0919-banner-end"
+        },
+        "term": {
+          "nowAfter": "1695092400000",
+          "nowBefore": "1696042799000"
         }
       }
     ]
@@ -103795,6 +103916,20 @@
     ]
   },
   {
+    "id": "cd-time-pvp-23-0920-0922_s-banner",
+    "settings": [
+      {
+        "satisfyCondition": {
+          "conditionId": "cd-clear-area-main-011"
+        },
+        "term": {
+          "nowAfter": "1695135600000",
+          "nowBefore": "1695394799000"
+        }
+      }
+    ]
+  },
+  {
     "id": "cd-time-questionnaire-21-0702-0709_s-banner",
     "settings": [
       {
@@ -104388,6 +104523,16 @@
       {
         "wearCostume": {
           "costumeId": "cos-ai-vlnt-00"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-wear-costume-cos-aoi-circ-00",
+    "settings": [
+      {
+        "wearCostume": {
+          "costumeId": "cos-aoi-circ-00"
         }
       }
     ]

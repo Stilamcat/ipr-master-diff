@@ -36580,6 +36580,26 @@
     "shortDescription": ""
   },
   {
+    "id": "ef-skill_success_rate_up-4-target-character_type-1-2-37",
+    "name": "スコアラータイプ2人にスキル成功率上昇効果",
+    "type": 37,
+    "description": "スコアラータイプ2人に4段階スキル成功率上昇効果[37ビート]",
+    "grade": 4,
+    "maxGrade": 10,
+    "skillTargetId": "target-character_type-1-2",
+    "shortDescription": ""
+  },
+  {
+    "id": "ef-skill_success_rate_up-4-target-character_type-1-2-39",
+    "name": "スコアラータイプ2人にスキル成功率上昇効果",
+    "type": 37,
+    "description": "スコアラータイプ2人に4段階スキル成功率上昇効果[39ビート]",
+    "grade": 4,
+    "maxGrade": 10,
+    "skillTargetId": "target-character_type-1-2",
+    "shortDescription": ""
+  },
+  {
     "id": "ef-skill_success_rate_up-4-target-character_type-2-2-30",
     "name": "バッファータイプ2人にスキル成功率上昇効果",
     "type": 37,
@@ -37030,6 +37050,26 @@
     "shortDescription": ""
   },
   {
+    "id": "ef-skill_success_rate_up-5-target-character_type-1-2-39",
+    "name": "スコアラータイプ2人にスキル成功率上昇効果",
+    "type": 37,
+    "description": "スコアラータイプ2人に5段階スキル成功率上昇効果[39ビート]",
+    "grade": 5,
+    "maxGrade": 10,
+    "skillTargetId": "target-character_type-1-2",
+    "shortDescription": ""
+  },
+  {
+    "id": "ef-skill_success_rate_up-5-target-character_type-1-2-42",
+    "name": "スコアラータイプ2人にスキル成功率上昇効果",
+    "type": 37,
+    "description": "スコアラータイプ2人に5段階スキル成功率上昇効果[42ビート]",
+    "grade": 5,
+    "maxGrade": 10,
+    "skillTargetId": "target-character_type-1-2",
+    "shortDescription": ""
+  },
+  {
     "id": "ef-skill_success_rate_up-5-target-character_type-2-2-30",
     "name": "バッファータイプ2人にスキル成功率上昇効果",
     "type": 37,
@@ -37384,6 +37424,26 @@
     "name": "スコアラータイプ2人にスキル成功率上昇効果",
     "type": 37,
     "description": "スコアラータイプ2人に6段階スキル成功率上昇効果[36ビート]",
+    "grade": 6,
+    "maxGrade": 10,
+    "skillTargetId": "target-character_type-1-2",
+    "shortDescription": ""
+  },
+  {
+    "id": "ef-skill_success_rate_up-6-target-character_type-1-2-42",
+    "name": "スコアラータイプ2人にスキル成功率上昇効果",
+    "type": 37,
+    "description": "スコアラータイプ2人に6段階スキル成功率上昇効果[42ビート]",
+    "grade": 6,
+    "maxGrade": 10,
+    "skillTargetId": "target-character_type-1-2",
+    "shortDescription": ""
+  },
+  {
+    "id": "ef-skill_success_rate_up-6-target-character_type-1-2-45",
+    "name": "スコアラータイプ2人にスキル成功率上昇効果",
+    "type": 37,
+    "description": "スコアラータイプ2人に6段階スキル成功率上昇効果[45ビート]",
     "grade": 6,
     "maxGrade": 10,
     "skillTargetId": "target-character_type-1-2",
@@ -40740,6 +40800,16 @@
     "maxGrade": 0
   },
   {
+    "id": "ef-status_effect_change-target-self-visual_down-visual_boost",
+    "name": "自身のビジュアル低下をビジュアルブーストに状態変化",
+    "type": 72,
+    "description": "自身のビジュアル低下をビジュアルブーストに状態変化",
+    "skillTargetId": "target-self",
+    "shortDescription": "",
+    "grade": 0,
+    "maxGrade": 0
+  },
+  {
     "id": "ef-status_effect_change-target-visual-1-visual_up-tension_up",
     "name": "ビジュアルタイプ1人のビジュアル上昇をテンションUPに状態変化",
     "type": 72,
@@ -41005,6 +41075,16 @@
     "type": 25,
     "description": "隣接するアイドルの強化効果を12延長",
     "skillTargetId": "target-neighbor",
+    "shortDescription": "",
+    "grade": 0,
+    "maxGrade": 0
+  },
+  {
+    "id": "ef-strength_effect_count_increase-12-target-self",
+    "name": "自身の強化効果を延長",
+    "type": 25,
+    "description": "自身の強化効果を12延長",
+    "skillTargetId": "target-self",
     "shortDescription": "",
     "grade": 0,
     "maxGrade": 0
@@ -42071,7 +42151,7 @@
   },
   {
     "id": "ef-strength_effect_value_increase-1-target-character_type-1-2",
-    "name": "スコアラータイプ2人の強化効果増強",
+    "name": "スコアラータイプ2人の強化効果を増強",
     "type": 26,
     "description": "スコアラータイプ2人の強化効果を1段階増強",
     "skillTargetId": "target-character_type-1-2",
@@ -42151,7 +42231,7 @@
   },
   {
     "id": "ef-strength_effect_value_increase-2-target-character_type-1-2",
-    "name": "スコアラータイプ2人の強化効果増強",
+    "name": "スコアラータイプ2人の強化効果を増強",
     "type": 26,
     "description": "スコアラータイプ2人の強化効果を2段階増強",
     "skillTargetId": "target-character_type-1-2",
@@ -42251,7 +42331,7 @@
   },
   {
     "id": "ef-strength_effect_value_increase-3-target-character_type-1-2",
-    "name": "スコアラータイプ2人の強化効果増強",
+    "name": "スコアラータイプ2人の強化効果を増強",
     "type": 26,
     "description": "スコアラータイプ2人の強化効果を3段階増強",
     "skillTargetId": "target-character_type-1-2",
@@ -44480,6 +44560,26 @@
     "shortDescription": ""
   },
   {
+    "id": "ef-visual_down-7-target-center-34",
+    "name": "センターにビジュアル低下効果",
+    "type": 32,
+    "description": "センターに7段階ビジュアル低下効果[34ビート]",
+    "grade": 7,
+    "maxGrade": 20,
+    "skillTargetId": "target-center",
+    "shortDescription": ""
+  },
+  {
+    "id": "ef-visual_down-7-target-center-38",
+    "name": "センターにビジュアル低下効果",
+    "type": 32,
+    "description": "センターに7段階ビジュアル低下効果[38ビート]",
+    "grade": 7,
+    "maxGrade": 20,
+    "skillTargetId": "target-center",
+    "shortDescription": ""
+  },
+  {
     "id": "ef-visual_down-7-target-character_type-1-2-46",
     "name": "スコアラータイプ2人にビジュアル低下効果",
     "type": 32,
@@ -44600,6 +44700,26 @@
     "shortDescription": ""
   },
   {
+    "id": "ef-visual_down-8-target-center-38",
+    "name": "センターにビジュアル低下効果",
+    "type": 32,
+    "description": "センターに8段階ビジュアル低下効果[38ビート]",
+    "grade": 8,
+    "maxGrade": 20,
+    "skillTargetId": "target-center",
+    "shortDescription": ""
+  },
+  {
+    "id": "ef-visual_down-8-target-center-43",
+    "name": "センターにビジュアル低下効果",
+    "type": 32,
+    "description": "センターに8段階ビジュアル低下効果[43ビート]",
+    "grade": 8,
+    "maxGrade": 20,
+    "skillTargetId": "target-center",
+    "shortDescription": ""
+  },
+  {
     "id": "ef-visual_down-8-target-character_type-1-2-46",
     "name": "スコアラータイプ2人にビジュアル低下効果",
     "type": 32,
@@ -44667,6 +44787,26 @@
     "grade": 8,
     "maxGrade": 20,
     "skillTargetId": "target-visual-1",
+    "shortDescription": ""
+  },
+  {
+    "id": "ef-visual_down-9-target-center-43",
+    "name": "センターにビジュアル低下効果",
+    "type": 32,
+    "description": "センターに9段階ビジュアル低下効果[43ビート]",
+    "grade": 9,
+    "maxGrade": 20,
+    "skillTargetId": "target-center",
+    "shortDescription": ""
+  },
+  {
+    "id": "ef-visual_down-9-target-center-48",
+    "name": "センターにビジュアル低下効果",
+    "type": 32,
+    "description": "センターに9段階ビジュアル低下効果[48ビート]",
+    "grade": 9,
+    "maxGrade": 20,
+    "skillTargetId": "target-center",
     "shortDescription": ""
   },
   {
@@ -47430,6 +47570,26 @@
     "shortDescription": ""
   },
   {
+    "id": "ef-visual_up-6-target-visual-2-29",
+    "name": "ビジュアルタイプ2人にビジュアル上昇効果",
+    "type": 15,
+    "description": "ビジュアルタイプ2人に6段階ビジュアル上昇効果[29ビート]",
+    "grade": 6,
+    "maxGrade": 20,
+    "skillTargetId": "target-visual-2",
+    "shortDescription": ""
+  },
+  {
+    "id": "ef-visual_up-6-target-visual-2-33",
+    "name": "ビジュアルタイプ2人にビジュアル上昇効果",
+    "type": 15,
+    "description": "ビジュアルタイプ2人に6段階ビジュアル上昇効果[33ビート]",
+    "grade": 6,
+    "maxGrade": 20,
+    "skillTargetId": "target-visual-2",
+    "shortDescription": ""
+  },
+  {
     "id": "ef-visual_up-6-target-visual-3-38",
     "name": "ビジュアルタイプ3人にビジュアル上昇効果",
     "type": 15,
@@ -48060,6 +48220,16 @@
     "shortDescription": ""
   },
   {
+    "id": "ef-visual_up-7-target-visual-2-37",
+    "name": "ビジュアルタイプ2人にビジュアル上昇効果",
+    "type": 15,
+    "description": "ビジュアルタイプ2人に7段階ビジュアル上昇効果[37ビート]",
+    "grade": 7,
+    "maxGrade": 20,
+    "skillTargetId": "target-visual-2",
+    "shortDescription": ""
+  },
+  {
     "id": "ef-visual_up-7-target-visual-2-39",
     "name": "ビジュアルタイプ2人にビジュアル上昇効果",
     "type": 15,
@@ -48480,10 +48650,30 @@
     "shortDescription": ""
   },
   {
+    "id": "ef-visual_up-8-target-visual-2-37",
+    "name": "ビジュアルタイプ2人にビジュアル上昇効果",
+    "type": 15,
+    "description": "ビジュアルタイプ2人に8段階ビジュアル上昇効果[37ビート]",
+    "grade": 8,
+    "maxGrade": 20,
+    "skillTargetId": "target-visual-2",
+    "shortDescription": ""
+  },
+  {
     "id": "ef-visual_up-8-target-visual-2-40",
     "name": "ビジュアルタイプ2人にビジュアル上昇効果",
     "type": 15,
     "description": "ビジュアルタイプ2人に8段階ビジュアル上昇効果[40ビート]",
+    "grade": 8,
+    "maxGrade": 20,
+    "skillTargetId": "target-visual-2",
+    "shortDescription": ""
+  },
+  {
+    "id": "ef-visual_up-8-target-visual-2-41",
+    "name": "ビジュアルタイプ2人にビジュアル上昇効果",
+    "type": 15,
+    "description": "ビジュアルタイプ2人に8段階ビジュアル上昇効果[41ビート]",
     "grade": 8,
     "maxGrade": 20,
     "skillTargetId": "target-visual-2",

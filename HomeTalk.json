@@ -288,6 +288,56 @@
     ]
   },
   {
+    "homeTalkId": "home-talk-card-aoi-05-circ-00-talk-01",
+    "characterId": "char-aoi",
+    "placeType": 1,
+    "conditionId": "cd-st-read-st-card-aoi-05-circ-00-03",
+    "firstPriority": 9900,
+    "weight": 1,
+    "callPatternId": "call-pattern-card-aoi-05-circ-00",
+    "choiceText": "どうした？",
+    "managerText": "どうした？",
+    "reliability": 5,
+    "characterTalks": [
+      {
+        "text": "公開されてから、\n外で声を掛けられることが\n増えたんだ。",
+        "voiceAssetId": "sud_vo_home_aoi-05-circ-00_talk-01-01",
+        "motionAssetId": "mot_adv_chr_cmn_talk-003_in",
+        "additionMotionAssetId": "mot_all_chr_cmn_facial-032_in"
+      },
+      {
+        "text": "前から声は掛けられていたんだけど\n僕より年下の子が増えた感じかな。",
+        "voiceAssetId": "sud_vo_home_aoi-05-circ-00_talk-01-02",
+        "motionAssetId": "mot_adv_chr_cmn_talk-017_in",
+        "additionMotionAssetId": "mot_all_chr_cmn_facial-001_in"
+      },
+      {
+        "text": "あの映画は、大人から子供まで\n楽しめる内容だったから\nその影響かもしれない。",
+        "voiceAssetId": "sud_vo_home_aoi-05-circ-00_talk-01-03",
+        "motionAssetId": "mot_adv_chr_cmn_pos-010_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "この間は、年下の子に\n「葵おねえちゃん」って\n声を掛けられたんだ。",
+        "voiceAssetId": "sud_vo_home_aoi-05-circ-00_talk-01-04",
+        "motionAssetId": "mot_adv_chr_cmn_talk-005_in",
+        "additionMotionAssetId": "mot_all_chr_cmn_facial-001_in"
+      },
+      {
+        "text": "リズノワのファン層に\nあれくらいの歳の子は少ないから\n新鮮だったよ。",
+        "voiceAssetId": "sud_vo_home_aoi-05-circ-00_talk-01-05",
+        "motionAssetId": "mot_adv_chr_cmn_pos-023_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "あの子達がもっと大きくなって\nライブを観に来てくれるまで\nステージに立っていたいな。",
+        "voiceAssetId": "sud_vo_home_aoi-05-circ-00_talk-01-06",
+        "motionAssetId": "mot_adv_chr_cmn_think-009_in",
+        "additionMotionAssetId": ""
+      }
+    ]
+  },
+  {
     "homeTalkId": "home-talk-card-aoi-05-fest-00-talk-01",
     "characterId": "char-aoi",
     "placeType": 1,
