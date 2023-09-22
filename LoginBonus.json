@@ -1205,6 +1205,23 @@
     "receiveConditionId": "cd-time-login-23-0909-0920"
   },
   {
+    "id": "login_bonus-campaign-23-0924-01",
+    "name": "アイプラフェス\nカウントダウン",
+    "description": "3日間の特別なログインボーナス",
+    "type": 2,
+    "assetId": "login-campaign-23-0924-01",
+    "topColorCode": "00CEFF",
+    "bottomColorCode": "D0FFA0",
+    "priority": 10,
+    "rewardIds": [
+      "rd_auto;item;item-act_promotion_shorten-sp;1",
+      "rd_auto;item;item-photo_enhance;20",
+      "rd_auto;item;item-card_limit_break;100"
+    ],
+    "openConditionId": "cd-time-login-23-0924-0926",
+    "receiveConditionId": "cd-time-login-23-0924-1003"
+  },
+  {
     "id": "login_bonus-normal-01",
     "name": "デイリー",
     "description": "毎日もらえるログインボーナス",
