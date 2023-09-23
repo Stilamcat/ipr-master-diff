@@ -13594,6 +13594,28 @@
     ]
   },
   {
+    "id": "cd-dokan-broadcast-23-0925-01",
+    "settings": [
+      {
+        "term": {
+          "nowAfter": "1695549600000",
+          "nowBefore": "1695635999000"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-dokan-broadcast-23-0925-01-pre",
+    "settings": [
+      {
+        "term": {
+          "nowAfter": "1695636000000",
+          "nowBefore": "1695641400000"
+        }
+      }
+    ]
+  },
+  {
     "id": "cd-dokan-campaign-22-0103",
     "settings": [
       {
@@ -24830,6 +24852,17 @@
       {
         "term": {
           "nowAfter": "1692846000000",
+          "nowBefore": "0"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-exchange-photo-medal-23-0924",
+    "settings": [
+      {
+        "term": {
+          "nowAfter": "1695524400000",
           "nowBefore": "0"
         }
       }
@@ -72394,6 +72427,20 @@
     ]
   },
   {
+    "id": "cd-shop_dress-shop-23-0924-1024",
+    "settings": [
+      {
+        "notSatisfyCondition": {
+          "conditionId": "cd-possession-cos-rui-yuru-00"
+        },
+        "term": {
+          "nowAfter": "1695524400000",
+          "nowBefore": "1698116399000"
+        }
+      }
+    ]
+  },
+  {
     "id": "cd-shop_ever-clear",
     "settings": [
       {
@@ -89966,6 +90013,17 @@
     ]
   },
   {
+    "id": "cd-time-exchange-photo-medal-23-0924",
+    "settings": [
+      {
+        "term": {
+          "nowAfter": "1695524400000",
+          "nowBefore": "1703386799000"
+        }
+      }
+    ]
+  },
+  {
     "id": "cd-time-exchange-pvp-open",
     "settings": [
       {
@@ -96900,6 +96958,39 @@
         "term": {
           "nowAfter": "1692846000000",
           "nowBefore": "1694530799000"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-time-gacha-premium-23-0924",
+    "settings": [
+      {
+        "term": {
+          "nowAfter": "1695524400000",
+          "nowBefore": "1698116399000"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-time-gacha-premium-23-0924-01",
+    "settings": [
+      {
+        "term": {
+          "nowAfter": "1695524400000",
+          "nowBefore": "1695826799000"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-time-gacha-premium-23-0924-02",
+    "settings": [
+      {
+        "term": {
+          "nowAfter": "1697813999000",
+          "nowBefore": "1698116399000"
         }
       }
     ]
@@ -104610,6 +104701,17 @@
       {
         "term": {
           "nowAfter": "1692759600000",
+          "nowBefore": "0"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-time-tower-23-0925",
+    "settings": [
+      {
+        "term": {
+          "nowAfter": "1695610800000",
           "nowBefore": "0"
         }
       }
