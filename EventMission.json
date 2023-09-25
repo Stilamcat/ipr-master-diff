@@ -1065,6 +1065,21 @@
     "unlockConditionId": ""
   },
   {
+    "id": "event_comeback-mission-23-0926",
+    "eventMissionType": 2,
+    "assetId": "img_banner_l_event-comeback-mission-23-0926",
+    "name": "カムバックミッション",
+    "order": 80,
+    "viewConditionId": "cd_shop_comeback-shop-limited-23-0926-mission-view",
+    "missionIds": [
+      "event-ms-comeback-23-0926-login_count",
+      "event-ms-comeback-23-0926-mission_clear_count",
+      "event-ms-comeback-23-0926-quest_all_clear_count",
+      "event-ms-comeback-23-0926-quest_all_clear_count-goal"
+    ],
+    "unlockConditionId": ""
+  },
+  {
     "id": "event_fes-mission-22-0929",
     "eventMissionType": 2,
     "assetId": "img_banner_l_event-fes-mission-22-0929",

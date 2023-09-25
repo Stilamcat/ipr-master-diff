@@ -12170,6 +12170,16 @@
     "shortDescription": ""
   },
   {
+    "id": "ef-critical_rate_up-4-target-self-31",
+    "name": "自身にクリティカル率上昇効果",
+    "type": 19,
+    "description": "自身に4段階クリティカル率上昇効果[31ビート]",
+    "grade": 4,
+    "maxGrade": 20,
+    "skillTargetId": "target-self",
+    "shortDescription": ""
+  },
+  {
     "id": "ef-critical_rate_up-4-target-self-32",
     "name": "自身にクリティカル率上昇効果",
     "type": 19,
@@ -12934,6 +12944,16 @@
     "name": "自身にクリティカル率上昇効果",
     "type": 19,
     "description": "自身に5段階クリティカル率上昇効果[36ビート]",
+    "grade": 5,
+    "maxGrade": 20,
+    "skillTargetId": "target-self",
+    "shortDescription": ""
+  },
+  {
+    "id": "ef-critical_rate_up-5-target-self-39",
+    "name": "自身にクリティカル率上昇効果",
+    "type": 19,
+    "description": "自身に5段階クリティカル率上昇効果[39ビート]",
     "grade": 5,
     "maxGrade": 20,
     "skillTargetId": "target-self",
@@ -13724,6 +13744,16 @@
     "name": "自身にクリティカル率上昇効果",
     "type": 19,
     "description": "自身に6段階クリティカル率上昇効果[40ビート]",
+    "grade": 6,
+    "maxGrade": 20,
+    "skillTargetId": "target-self",
+    "shortDescription": ""
+  },
+  {
+    "id": "ef-critical_rate_up-6-target-self-43",
+    "name": "自身にクリティカル率上昇効果",
+    "type": 19,
+    "description": "自身に6段階クリティカル率上昇効果[43ビート]",
     "grade": 6,
     "maxGrade": 20,
     "skillTargetId": "target-self",
@@ -38070,6 +38100,16 @@
     "shortDescription": ""
   },
   {
+    "id": "ef-special_score_multiplier_add-1-target-self-999",
+    "name": "自身にSPスキルスコア追加効果",
+    "type": 59,
+    "description": "自身に1段階SPスキルスコア追加効果",
+    "grade": 1,
+    "maxGrade": 30,
+    "skillTargetId": "target-self",
+    "shortDescription": ""
+  },
+  {
     "id": "ef-special_score_multiplier_add-2-target-character_type-1-2-999",
     "name": "スコアラータイプ2人にSPスキルスコア追加効果",
     "type": 59,
@@ -38080,6 +38120,16 @@
     "shortDescription": ""
   },
   {
+    "id": "ef-special_score_multiplier_add-2-target-self-999",
+    "name": "自身にSPスキルスコア追加効果",
+    "type": 59,
+    "description": "自身に2段階SPスキルスコア追加効果",
+    "grade": 2,
+    "maxGrade": 30,
+    "skillTargetId": "target-self",
+    "shortDescription": ""
+  },
+  {
     "id": "ef-special_score_multiplier_add-3-target-character_type-1-2-999",
     "name": "スコアラータイプ2人にSPスキルスコア追加効果",
     "type": 59,
@@ -38087,6 +38137,16 @@
     "grade": 3,
     "maxGrade": 30,
     "skillTargetId": "target-character_type-1-2",
+    "shortDescription": ""
+  },
+  {
+    "id": "ef-special_score_multiplier_add-3-target-self-999",
+    "name": "自身にSPスキルスコア追加効果",
+    "type": 59,
+    "description": "自身に3段階SPスキルスコア追加効果",
+    "grade": 3,
+    "maxGrade": 30,
+    "skillTargetId": "target-self",
     "shortDescription": ""
   },
   {

@@ -96,6 +96,38 @@
     "additionalDisplayCharacterIds": []
   },
   {
+    "id": "st-birthday-branch-ski-23-0926",
+    "name": "白石沙季 誕生日2023",
+    "advPlayTypes": [
+      6
+    ],
+    "branchFirstText": "今日は沙季の誕生日だな\n何をプレゼントしよう？",
+    "branchCautionText": "後で再度選択可能です",
+    "branchBgmAssetId": "sud_bgm_cmn_home-01",
+    "branchChoices": [
+      {
+        "index": 1,
+        "text": "猫のキャラのぬいぐるみ",
+        "advAssetId": "hbd_03_ski_01"
+      },
+      {
+        "index": 2,
+        "text": "アイドルのグッズ",
+        "advAssetId": "hbd_03_ski_02"
+      },
+      {
+        "index": 3,
+        "text": "電車の一日乗車券",
+        "advAssetId": "hbd_03_ski_03"
+      }
+    ],
+    "sectionName": "",
+    "description": "",
+    "rewardId": "",
+    "advAssetIds": [],
+    "additionalDisplayCharacterIds": []
+  },
+  {
     "id": "st-birthday-branch-suz-23-0913",
     "name": "成宮すず 誕生日2023",
     "advPlayTypes": [
@@ -5302,6 +5334,60 @@
     ],
     "advAssetIds": [
       "card_rui_03_03"
+    ],
+    "sectionName": "",
+    "description": "",
+    "additionalDisplayCharacterIds": [],
+    "branchFirstText": "",
+    "branchCautionText": "",
+    "branchBgmAssetId": "",
+    "branchChoices": []
+  },
+  {
+    "id": "st-card-ski-05-birt-00-01",
+    "name": "千紗からの\nプレゼント",
+    "rewardId": "rd_auto;stone;;30",
+    "advPlayTypes": [
+      1
+    ],
+    "advAssetIds": [
+      "card_ski_51_01"
+    ],
+    "sectionName": "",
+    "description": "",
+    "additionalDisplayCharacterIds": [],
+    "branchFirstText": "",
+    "branchCautionText": "",
+    "branchBgmAssetId": "",
+    "branchChoices": []
+  },
+  {
+    "id": "st-card-ski-05-birt-00-02",
+    "name": "手作り\nスタンプ\nラリー",
+    "rewardId": "rd_auto;stone;;30",
+    "advPlayTypes": [
+      1
+    ],
+    "advAssetIds": [
+      "card_ski_51_02"
+    ],
+    "sectionName": "",
+    "description": "",
+    "additionalDisplayCharacterIds": [],
+    "branchFirstText": "",
+    "branchCautionText": "",
+    "branchBgmAssetId": "",
+    "branchChoices": []
+  },
+  {
+    "id": "st-card-ski-05-birt-00-03",
+    "name": "内緒のお祝い",
+    "rewardId": "rd_auto;stone;;30",
+    "advPlayTypes": [
+      1
+    ],
+    "advAssetIds": [
+      "card_ski_51_03"
     ],
     "sectionName": "",
     "description": "",
@@ -11736,6 +11822,24 @@
     "branchChoices": []
   },
   {
+    "id": "st-group-liz-01-01-01-limited",
+    "sectionName": "a Budding Lily",
+    "name": "莉央の始まり",
+    "description": "実家の喫茶店を守り家計を支えるため、アイドルになることを志し、バンプロの養成所へと入所する莉央。やる気のない先輩達を前に莉央は、入りたてとは思えない言葉を投げ掛けて……。",
+    "advPlayTypes": [
+      1
+    ],
+    "advAssetIds": [
+      "group_liz_01_01"
+    ],
+    "rewardId": "",
+    "additionalDisplayCharacterIds": [],
+    "branchFirstText": "",
+    "branchCautionText": "",
+    "branchBgmAssetId": "",
+    "branchChoices": []
+  },
+  {
     "id": "st-group-liz-01-01-02",
     "sectionName": "a Budding Lily",
     "name": "最後の一人は",
@@ -11747,6 +11851,24 @@
     "advAssetIds": [
       "group_liz_01_02"
     ],
+    "additionalDisplayCharacterIds": [],
+    "branchFirstText": "",
+    "branchCautionText": "",
+    "branchBgmAssetId": "",
+    "branchChoices": []
+  },
+  {
+    "id": "st-group-liz-01-01-02-limited",
+    "sectionName": "a Budding Lily",
+    "name": "最後の一人は",
+    "description": "養成所で努力を重ねる莉央は、順風満帆ではない状況に耐え兼ね、プロデューサーの三枝を問い詰める。返ってきた三枝の答えにショックを隠せない莉央だが、同時に「絶対に認めさせる」と心に誓う。",
+    "advPlayTypes": [
+      1
+    ],
+    "advAssetIds": [
+      "group_liz_01_02"
+    ],
+    "rewardId": "",
     "additionalDisplayCharacterIds": [],
     "branchFirstText": "",
     "branchCautionText": "",
@@ -11772,6 +11894,24 @@
     "branchChoices": []
   },
   {
+    "id": "st-group-liz-01-01-03-limited",
+    "sectionName": "a Budding Lily",
+    "name": "天性の\nダンサー",
+    "description": "母が倒れたとの報に、急ぎ帰郷する莉央。幸い大事なかったものの、焦る彼女は、デビュー出来ない理由を三枝に問い質す。そこに割って入った一人の少女が言うには……。",
+    "advPlayTypes": [
+      1
+    ],
+    "advAssetIds": [
+      "group_liz_01_03"
+    ],
+    "rewardId": "",
+    "additionalDisplayCharacterIds": [],
+    "branchFirstText": "",
+    "branchCautionText": "",
+    "branchBgmAssetId": "",
+    "branchChoices": []
+  },
+  {
     "id": "st-group-liz-01-01-04",
     "sectionName": "a Budding Lily",
     "name": "何もかも\n忘れて",
@@ -11783,6 +11923,24 @@
     "advAssetIds": [
       "group_liz_01_04"
     ],
+    "additionalDisplayCharacterIds": [],
+    "branchFirstText": "",
+    "branchCautionText": "",
+    "branchBgmAssetId": "",
+    "branchChoices": []
+  },
+  {
+    "id": "st-group-liz-01-01-04-limited",
+    "sectionName": "a Budding Lily",
+    "name": "何もかも\n忘れて",
+    "description": "葵に触発され、全てを忘れ自由に踊る莉央。そんな彼女とダンスを合わせた葵は、一緒に組みたいと三枝に申し出る。それに対して、莉央のダンスに成長を見出した三枝が出した答えとは……？",
+    "advPlayTypes": [
+      1
+    ],
+    "advAssetIds": [
+      "group_liz_01_04"
+    ],
+    "rewardId": "",
     "additionalDisplayCharacterIds": [],
     "branchFirstText": "",
     "branchCautionText": "",
@@ -11808,6 +11966,24 @@
     "branchChoices": []
   },
   {
+    "id": "st-group-liz-01-01-05-limited",
+    "sectionName": "a Budding Lily",
+    "name": "三枝の決心",
+    "description": "デビュー間もないリズノワのライブ後、楽屋に三枝がやって来た。葵をスカウトした理由を「莉央のポテンシャルを引き出せるから」と語る三枝に、感銘を受ける莉央。だが三枝は、衝撃の事実を告げる……。",
+    "advPlayTypes": [
+      1
+    ],
+    "advAssetIds": [
+      "group_liz_01_05"
+    ],
+    "rewardId": "",
+    "additionalDisplayCharacterIds": [],
+    "branchFirstText": "",
+    "branchCautionText": "",
+    "branchBgmAssetId": "",
+    "branchChoices": []
+  },
+  {
     "id": "st-group-liz-01-01-06",
     "sectionName": "One more dream",
     "name": "長瀬麻奈の\n登場",
@@ -11819,6 +11995,24 @@
     "advAssetIds": [
       "group_liz_02_01"
     ],
+    "additionalDisplayCharacterIds": [],
+    "branchFirstText": "",
+    "branchCautionText": "",
+    "branchBgmAssetId": "",
+    "branchChoices": []
+  },
+  {
+    "id": "st-group-liz-01-01-06-limited",
+    "sectionName": "One more dream",
+    "name": "長瀬麻奈の\n登場",
+    "description": "姫野のプロデュースのもと、リズノワは順調に活躍を続けていた。だがある日麻奈の存在を知り、その才能に衝撃を受ける。彼女の所属が星見プロと知った莉央が取った行動とは？",
+    "advPlayTypes": [
+      1
+    ],
+    "advAssetIds": [
+      "group_liz_02_01"
+    ],
+    "rewardId": "",
     "additionalDisplayCharacterIds": [],
     "branchFirstText": "",
     "branchCautionText": "",
@@ -11844,6 +12038,24 @@
     "branchChoices": []
   },
   {
+    "id": "st-group-liz-01-01-07-limited",
+    "sectionName": "One more dream",
+    "name": "正々堂々と\n戦う",
+    "description": "グランプリ間近のある日、莉央と葵はバンプロへ呼び出される。二人の前で姫野は、スキャンダルで麻奈を排除するべきと朝倉に申し出た。だが莉央と葵は正々堂々戦うと主張。両者の意見を聞き、朝倉は決断を下した。",
+    "advPlayTypes": [
+      1
+    ],
+    "advAssetIds": [
+      "group_liz_02_02"
+    ],
+    "rewardId": "",
+    "additionalDisplayCharacterIds": [],
+    "branchFirstText": "",
+    "branchCautionText": "",
+    "branchBgmAssetId": "",
+    "branchChoices": []
+  },
+  {
     "id": "st-group-liz-01-01-08",
     "sectionName": "One more dream",
     "name": "初めての\n挫折を",
@@ -11855,6 +12067,24 @@
     "advAssetIds": [
       "group_liz_02_03"
     ],
+    "additionalDisplayCharacterIds": [],
+    "branchFirstText": "",
+    "branchCautionText": "",
+    "branchBgmAssetId": "",
+    "branchChoices": []
+  },
+  {
+    "id": "st-group-liz-01-01-08-limited",
+    "sectionName": "One more dream",
+    "name": "初めての\n挫折を",
+    "description": "決勝進出を決めたそのステージで、麻奈と対峙したリズノワの二人。飄々としながらも自信溢れる姿に、莉央と葵は闘志を燃やす。だが不帰の人となった麻奈と二人の対戦は叶わず――。",
+    "advPlayTypes": [
+      1
+    ],
+    "advAssetIds": [
+      "group_liz_02_03"
+    ],
+    "rewardId": "",
     "additionalDisplayCharacterIds": [],
     "branchFirstText": "",
     "branchCautionText": "",
@@ -11880,6 +12110,24 @@
     "branchChoices": []
   },
   {
+    "id": "st-group-liz-01-01-09-limited",
+    "sectionName": "One more dream",
+    "name": "さよならは\n言わない",
+    "description": "莉央が姿を消して一年。誰ともグループを組むこともなく、葵は一人で莉央を待ち続けていた。そこへ、過去を振り切った莉央が帰ってくる。そして二人はあることを誓い……。",
+    "advPlayTypes": [
+      1
+    ],
+    "advAssetIds": [
+      "group_liz_02_04"
+    ],
+    "rewardId": "",
+    "additionalDisplayCharacterIds": [],
+    "branchFirstText": "",
+    "branchCautionText": "",
+    "branchBgmAssetId": "",
+    "branchChoices": []
+  },
+  {
     "id": "st-group-liz-01-01-10",
     "sectionName": "One more dream",
     "name": "一年振りの\nライブ",
@@ -11891,6 +12139,24 @@
     "advAssetIds": [
       "group_liz_02_05"
     ],
+    "additionalDisplayCharacterIds": [],
+    "branchFirstText": "",
+    "branchCautionText": "",
+    "branchBgmAssetId": "",
+    "branchChoices": []
+  },
+  {
+    "id": "st-group-liz-01-01-10-limited",
+    "sectionName": "One more dream",
+    "name": "一年振りの\nライブ",
+    "description": "復帰後初のライブを前に、莉央は過去を振り返り、改めて麻奈に勝ちたいという意志を葵と共有した。やがて時は流れ――大ステージに立つ機会を得た二人は、もう一度駆け上がっていく。",
+    "advPlayTypes": [
+      1
+    ],
+    "advAssetIds": [
+      "group_liz_02_05"
+    ],
+    "rewardId": "",
     "additionalDisplayCharacterIds": [],
     "branchFirstText": "",
     "branchCautionText": "",
@@ -11916,6 +12182,24 @@
     "branchChoices": []
   },
   {
+    "id": "st-group-liz-01-01-11-limited",
+    "sectionName": "Impatience of Hollyhock ",
+    "name": "BIG4の貫禄",
+    "description": "BIG4の動画を見ていた莉央と葵。いずれも圧倒的な実力のグループということを、二人とも動画から感じ取った。だが二人なら誰にも負けない――その自信を胸に、莉央と葵は決意を新たにする。",
+    "advPlayTypes": [
+      1
+    ],
+    "advAssetIds": [
+      "group_liz_03_01"
+    ],
+    "rewardId": "",
+    "additionalDisplayCharacterIds": [],
+    "branchFirstText": "",
+    "branchCautionText": "",
+    "branchBgmAssetId": "",
+    "branchChoices": []
+  },
+  {
     "id": "st-group-liz-01-01-12",
     "sectionName": "Impatience of Hollyhock ",
     "name": "姫野の方針",
@@ -11927,6 +12211,24 @@
     "advAssetIds": [
       "group_liz_03_02"
     ],
+    "additionalDisplayCharacterIds": [],
+    "branchFirstText": "",
+    "branchCautionText": "",
+    "branchBgmAssetId": "",
+    "branchChoices": []
+  },
+  {
+    "id": "st-group-liz-01-01-12-limited",
+    "sectionName": "Impatience of Hollyhock ",
+    "name": "姫野の方針",
+    "description": "歌とダンスの実力で成功したい。そう考える莉央と葵にとって、姫野の強引な戦略は受け入れがたいものだった。気苦労からつい三枝の名を口にした莉央に、葵が掛けた言葉とは……？",
+    "advPlayTypes": [
+      1
+    ],
+    "advAssetIds": [
+      "group_liz_03_02"
+    ],
+    "rewardId": "",
     "additionalDisplayCharacterIds": [],
     "branchFirstText": "",
     "branchCautionText": "",
@@ -11952,6 +12254,24 @@
     "branchChoices": []
   },
   {
+    "id": "st-group-liz-01-01-13-limited",
+    "sectionName": "Impatience of Hollyhock ",
+    "name": "この世界で\n一番に",
+    "description": "星見プロの新人達に実力差を見せつけたリズノワだが、どこか気分は晴れない。星見の面々が楽しそうでうらやましかったと呟く葵を励まし、グランプリ優勝を語る莉央。莉央の思いを受け止めた葵の反応は……。",
+    "advPlayTypes": [
+      1
+    ],
+    "advAssetIds": [
+      "group_liz_03_03"
+    ],
+    "rewardId": "",
+    "additionalDisplayCharacterIds": [],
+    "branchFirstText": "",
+    "branchCautionText": "",
+    "branchBgmAssetId": "",
+    "branchChoices": []
+  },
+  {
     "id": "st-group-liz-01-01-14",
     "sectionName": "Impatience of Hollyhock ",
     "name": "もし優勝出来\nなかったら",
@@ -11963,6 +12283,24 @@
     "advAssetIds": [
       "group_liz_03_04"
     ],
+    "additionalDisplayCharacterIds": [],
+    "branchFirstText": "",
+    "branchCautionText": "",
+    "branchBgmAssetId": "",
+    "branchChoices": []
+  },
+  {
+    "id": "st-group-liz-01-01-14-limited",
+    "sectionName": "Impatience of Hollyhock ",
+    "name": "もし優勝出来\nなかったら",
+    "description": "格下のはずの琴乃に固執してしまう莉央。そんな彼女を休むように諭し、一人残って練習する葵の所へ姫野が現れる。冷たくあしらう葵に姫野は、ある条件を告げてきて……。",
+    "advPlayTypes": [
+      1
+    ],
+    "advAssetIds": [
+      "group_liz_03_04"
+    ],
+    "rewardId": "",
     "additionalDisplayCharacterIds": [],
     "branchFirstText": "",
     "branchCautionText": "",
@@ -11988,6 +12326,24 @@
     "branchChoices": []
   },
   {
+    "id": "st-group-liz-01-01-15-limited",
+    "sectionName": "Impatience of Hollyhock ",
+    "name": "たまには\n息抜き",
+    "description": "「優勝出来なければ解散」そのことを莉央には告げないよう、姫野に口止めした葵。優勝への固い意志、そして莉央への思いを秘め、葵は莉央と束の間の休息を楽しんだ。",
+    "advPlayTypes": [
+      1
+    ],
+    "advAssetIds": [
+      "group_liz_03_05"
+    ],
+    "rewardId": "",
+    "additionalDisplayCharacterIds": [],
+    "branchFirstText": "",
+    "branchCautionText": "",
+    "branchBgmAssetId": "",
+    "branchChoices": []
+  },
+  {
     "id": "st-group-liz-01-01-16",
     "sectionName": "Love & Heart",
     "name": "廊下を走る\n新人",
@@ -11999,6 +12355,24 @@
     "advAssetIds": [
       "group_liz_04_01"
     ],
+    "additionalDisplayCharacterIds": [],
+    "branchFirstText": "",
+    "branchCautionText": "",
+    "branchBgmAssetId": "",
+    "branchChoices": []
+  },
+  {
+    "id": "st-group-liz-01-01-16-limited",
+    "sectionName": "Love & Heart",
+    "name": "廊下を走る\n新人",
+    "description": "リハに向かおうとバンプロ内を歩いていた莉央に、走ってきたデビュー前の後輩アイドルがぶつかってしまう。咄嗟に莉央をかばった葵。平静を保つものの、葵の体には異変が起きていて――。",
+    "advPlayTypes": [
+      1
+    ],
+    "advAssetIds": [
+      "group_liz_04_01"
+    ],
+    "rewardId": "",
     "additionalDisplayCharacterIds": [],
     "branchFirstText": "",
     "branchCautionText": "",
@@ -12024,6 +12398,24 @@
     "branchChoices": []
   },
   {
+    "id": "st-group-liz-01-01-17-limited",
+    "sectionName": "Love & Heart",
+    "name": "今回だけは\n特別",
+    "description": "グランプリの舞台袖で静かに火花を散らす莉央と瑠依。それをたしなめつつも、葵は自信を見せステージへと上がっていく。その言葉通り、最高のパフォーマンスを披露するのだが……。",
+    "advPlayTypes": [
+      1
+    ],
+    "advAssetIds": [
+      "group_liz_04_02"
+    ],
+    "rewardId": "",
+    "additionalDisplayCharacterIds": [],
+    "branchFirstText": "",
+    "branchCautionText": "",
+    "branchBgmAssetId": "",
+    "branchChoices": []
+  },
+  {
     "id": "st-group-liz-01-01-18",
     "sectionName": "Love & Heart",
     "name": "莉央の手料理",
@@ -12035,6 +12427,24 @@
     "advAssetIds": [
       "group_liz_04_03"
     ],
+    "additionalDisplayCharacterIds": [],
+    "branchFirstText": "",
+    "branchCautionText": "",
+    "branchBgmAssetId": "",
+    "branchChoices": []
+  },
+  {
+    "id": "st-group-liz-01-01-18-limited",
+    "sectionName": "Love & Heart",
+    "name": "莉央の手料理",
+    "description": "葵を自宅に招いた莉央は、手料理を振る舞う。意外な特技に驚きつつも、その美味しさを堪能していた葵。そんな中流れてきたテレビの内容に、莉央が反応する。そんな彼女に葵は……。",
+    "advPlayTypes": [
+      1
+    ],
+    "advAssetIds": [
+      "group_liz_04_03"
+    ],
+    "rewardId": "",
     "additionalDisplayCharacterIds": [],
     "branchFirstText": "",
     "branchCautionText": "",
@@ -12060,6 +12470,24 @@
     "branchChoices": []
   },
   {
+    "id": "st-group-liz-01-01-19-limited",
+    "sectionName": "Love & Heart",
+    "name": "セミファイナ\nル前日",
+    "description": "準決勝前日、莉央は葵が隠していたある事実を知ってしまう。黙っていた理由を問う莉央に、葵が返した答えとは？　そしてそれを受け止めた莉央は……。",
+    "advPlayTypes": [
+      1
+    ],
+    "advAssetIds": [
+      "group_liz_04_04"
+    ],
+    "rewardId": "",
+    "additionalDisplayCharacterIds": [],
+    "branchFirstText": "",
+    "branchCautionText": "",
+    "branchBgmAssetId": "",
+    "branchChoices": []
+  },
+  {
     "id": "st-group-liz-01-01-20",
     "sectionName": "Love & Heart",
     "name": "晴れやかな\n気持ち",
@@ -12071,6 +12499,24 @@
     "advAssetIds": [
       "group_liz_04_05"
     ],
+    "additionalDisplayCharacterIds": [],
+    "branchFirstText": "",
+    "branchCautionText": "",
+    "branchBgmAssetId": "",
+    "branchChoices": []
+  },
+  {
+    "id": "st-group-liz-01-01-20-limited",
+    "sectionName": "Love & Heart",
+    "name": "晴れやかな\n気持ち",
+    "description": "準決勝にて、リズノワは月ストに惜敗した。「莉央を勝たせたかった」と言う葵に、莉央は葵と共に歩めた幸せを語る。そして三日後。二人に通告されたのは、リズノワの解散ではなく――。",
+    "advPlayTypes": [
+      1
+    ],
+    "advAssetIds": [
+      "group_liz_04_05"
+    ],
+    "rewardId": "",
     "additionalDisplayCharacterIds": [],
     "branchFirstText": "",
     "branchCautionText": "",
@@ -12096,6 +12542,24 @@
     "branchChoices": []
   },
   {
+    "id": "st-group-liz-01-01-21-limited",
+    "sectionName": "Smile or Perfect performance",
+    "name": "解散の決断",
+    "description": "朝倉からの新メンバー加入の指示を受けたが、LizNoir解散の意思は変わらないという莉央と葵。しかし朝倉は莉央の心を揺り動かす言葉を投げかける。それに対し莉央はある提案をするのであった――。",
+    "advPlayTypes": [
+      1
+    ],
+    "advAssetIds": [
+      "group_liz_05_01"
+    ],
+    "rewardId": "",
+    "additionalDisplayCharacterIds": [],
+    "branchFirstText": "",
+    "branchCautionText": "",
+    "branchBgmAssetId": "",
+    "branchChoices": []
+  },
+  {
     "id": "st-group-liz-01-01-22",
     "sectionName": "Smile or Perfect performance",
     "name": "迫るタイムリミット",
@@ -12107,6 +12571,24 @@
     "advAssetIds": [
       "group_liz_05_02"
     ],
+    "additionalDisplayCharacterIds": [],
+    "branchFirstText": "",
+    "branchCautionText": "",
+    "branchBgmAssetId": "",
+    "branchChoices": []
+  },
+  {
+    "id": "st-group-liz-01-01-22-limited",
+    "sectionName": "Smile or Perfect performance",
+    "name": "迫るタイムリミット",
+    "description": "ファンの間でリズノワの活動休止や解散の噂が流れていた。そんな中で四人体制を受け入れるか解散かの結論は一週間の猶予が与えられ、小美山愛と赤崎こころは莉央・葵と共にレッスンを続けていた。",
+    "advPlayTypes": [
+      1
+    ],
+    "advAssetIds": [
+      "group_liz_05_02"
+    ],
+    "rewardId": "",
     "additionalDisplayCharacterIds": [],
     "branchFirstText": "",
     "branchCautionText": "",
@@ -12132,6 +12614,24 @@
     "branchChoices": []
   },
   {
+    "id": "st-group-liz-01-01-23-limited",
+    "sectionName": "Smile or Perfect performance",
+    "name": "起爆剤の新メンバー",
+    "description": "愛とこころがリズノワに足りないものを持っている――。それは間違いだと確信した莉央と葵だったが、朝倉から四人体制でのライブが決定したとの唐突な報告を受ける。それに対し莉央はある条件を出す。",
+    "advPlayTypes": [
+      1
+    ],
+    "advAssetIds": [
+      "group_liz_05_03"
+    ],
+    "rewardId": "",
+    "additionalDisplayCharacterIds": [],
+    "branchFirstText": "",
+    "branchCautionText": "",
+    "branchBgmAssetId": "",
+    "branchChoices": []
+  },
+  {
     "id": "st-group-liz-01-01-24",
     "sectionName": "Smile or Perfect performance",
     "name": "笑顔を武器に",
@@ -12143,6 +12643,24 @@
     "advAssetIds": [
       "group_liz_05_04"
     ],
+    "additionalDisplayCharacterIds": [],
+    "branchFirstText": "",
+    "branchCautionText": "",
+    "branchBgmAssetId": "",
+    "branchChoices": []
+  },
+  {
+    "id": "st-group-liz-01-01-24-limited",
+    "sectionName": "Smile or Perfect performance",
+    "name": "笑顔を武器に",
+    "description": "四人での初ライブが失敗したと考える愛は、リズノワ入りの辞退を申し出ようとする。対するこころには、ある想いが。噛み合わない四人、リズノワはこの先どうなってしまうのか――暗雲が立ち込める。",
+    "advPlayTypes": [
+      1
+    ],
+    "advAssetIds": [
+      "group_liz_05_04"
+    ],
+    "rewardId": "",
     "additionalDisplayCharacterIds": [],
     "branchFirstText": "",
     "branchCautionText": "",
@@ -12168,6 +12686,24 @@
     "branchChoices": []
   },
   {
+    "id": "st-group-liz-01-01-25-limited",
+    "sectionName": "Smile or Perfect performance",
+    "name": "最後の特訓",
+    "description": "新体制でのライブに対し好意的な意見も散見されたが、やはりリズノワに入るには愛とこころの力不足は否めなかった。解散の意思を固めた莉央と葵だったが、朝倉から呼び出された四人へまさかの指示が下る――。",
+    "advPlayTypes": [
+      1
+    ],
+    "advAssetIds": [
+      "group_liz_05_05"
+    ],
+    "rewardId": "",
+    "additionalDisplayCharacterIds": [],
+    "branchFirstText": "",
+    "branchCautionText": "",
+    "branchBgmAssetId": "",
+    "branchChoices": []
+  },
+  {
     "id": "st-group-liz-01-01-26",
     "sectionName": "Brand-new LizNoir",
     "name": "いざ新天地へ",
@@ -12179,6 +12715,24 @@
     "advAssetIds": [
       "group_liz_06_01"
     ],
+    "additionalDisplayCharacterIds": [],
+    "branchFirstText": "",
+    "branchCautionText": "",
+    "branchBgmAssetId": "",
+    "branchChoices": []
+  },
+  {
+    "id": "st-group-liz-01-01-26-limited",
+    "sectionName": "Brand-new LizNoir",
+    "name": "いざ新天地へ",
+    "description": "朝倉からの指示を受け、空港でニューヨーク行の便を待つリズノワの四人。さすがの莉央にも不安が見えるが、葵とこころは仮眠をとってくつろぐ余裕を見せる。そんな中、恐縮する愛へ莉央が秘めたる想いを語りかける――。",
+    "advPlayTypes": [
+      1
+    ],
+    "advAssetIds": [
+      "group_liz_06_01"
+    ],
+    "rewardId": "",
     "additionalDisplayCharacterIds": [],
     "branchFirstText": "",
     "branchCautionText": "",
@@ -12204,6 +12758,24 @@
     "branchChoices": []
   },
   {
+    "id": "st-group-liz-01-01-27-limited",
+    "sectionName": "Brand-new LizNoir",
+    "name": "白紙のスケジュール",
+    "description": "アメリカ生活でリズノワへ与えられたのは質素なアパートと生活費のみであった。スケジュールも完全に白紙。莉央はプロとしての誇りに懸けて、リズノワが上がれるステージを探す決意をする。",
+    "advPlayTypes": [
+      1
+    ],
+    "advAssetIds": [
+      "group_liz_06_02"
+    ],
+    "rewardId": "",
+    "additionalDisplayCharacterIds": [],
+    "branchFirstText": "",
+    "branchCautionText": "",
+    "branchBgmAssetId": "",
+    "branchChoices": []
+  },
+  {
     "id": "st-group-liz-01-01-28",
     "sectionName": "Brand-new LizNoir",
     "name": "世界の壁",
@@ -12215,6 +12787,24 @@
     "advAssetIds": [
       "group_liz_06_03"
     ],
+    "additionalDisplayCharacterIds": [],
+    "branchFirstText": "",
+    "branchCautionText": "",
+    "branchBgmAssetId": "",
+    "branchChoices": []
+  },
+  {
+    "id": "st-group-liz-01-01-28-limited",
+    "sectionName": "Brand-new LizNoir",
+    "name": "世界の壁",
+    "description": "ライブハウスへの出演交渉は困難を極めた。一縷の望みを懸け、日本人がオーナーを務めるライブハウスに赴きパフォーマンスを披露するが、そこで掛けられたのは思いもよらない一言であった――。",
+    "advPlayTypes": [
+      1
+    ],
+    "advAssetIds": [
+      "group_liz_06_03"
+    ],
+    "rewardId": "",
     "additionalDisplayCharacterIds": [],
     "branchFirstText": "",
     "branchCautionText": "",
@@ -12240,6 +12830,24 @@
     "branchChoices": []
   },
   {
+    "id": "st-group-liz-01-01-29-limited",
+    "sectionName": "Brand-new LizNoir",
+    "name": "後輩の想い",
+    "description": "莉央と葵の実力を低く評価するライブハウスオーナーの言葉に納得できず、愛とこころはその真意を問いただすためオーナーに詰め寄る。そこには憧れの先輩への強い想いがあった。",
+    "advPlayTypes": [
+      1
+    ],
+    "advAssetIds": [
+      "group_liz_06_04"
+    ],
+    "rewardId": "",
+    "additionalDisplayCharacterIds": [],
+    "branchFirstText": "",
+    "branchCautionText": "",
+    "branchBgmAssetId": "",
+    "branchChoices": []
+  },
+  {
     "id": "st-group-liz-01-01-30",
     "sectionName": "Brand-new LizNoir",
     "name": "快進撃の幕開け",
@@ -12251,6 +12859,24 @@
     "advAssetIds": [
       "group_liz_06_05"
     ],
+    "additionalDisplayCharacterIds": [],
+    "branchFirstText": "",
+    "branchCautionText": "",
+    "branchBgmAssetId": "",
+    "branchChoices": []
+  },
+  {
+    "id": "st-group-liz-01-01-30-limited",
+    "sectionName": "Brand-new LizNoir",
+    "name": "快進撃の幕開け",
+    "description": "過酷な道のりを乗り越えた愛とこころは大きな成長を遂げ、莉央と葵は情熱を取り戻し、新生LizNoirは誕生した。順調にライブを重ねた後、帰国の途につく莉央に衝撃のニュースが飛び込む――。",
+    "advPlayTypes": [
+      1
+    ],
+    "advAssetIds": [
+      "group_liz_06_05"
+    ],
+    "rewardId": "",
     "additionalDisplayCharacterIds": [],
     "branchFirstText": "",
     "branchCautionText": "",
