@@ -1,5 +1,49 @@
 [
   {
+    "homeTalkId": "home-talk-card-ai-05-fest-00-talk-01",
+    "characterId": "char-ai",
+    "placeType": 1,
+    "conditionId": "cd-st-read-st-card-ai-05-fest-00-03",
+    "firstPriority": 9900,
+    "weight": 1,
+    "callPatternId": "call-pattern-card-ai-05-fest-00",
+    "choiceText": "我慢出来るのか？",
+    "managerText": "我慢出来るのか？",
+    "reliability": 5,
+    "characterTalks": [
+      {
+        "text": "うーん…ちょっと難しいかなと\n自分でも思うんですけど…",
+        "voiceAssetId": "sud_vo_home_ai-05-fest-00_talk-01-01",
+        "motionAssetId": "mot_adv_chr_cmn_moji-003_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "でも、リズノワの衣装\n莉央さんのも葵さんのも\nそしてこころのも素敵で",
+        "voiceAssetId": "sud_vo_home_ai-05-fest-00_talk-01-02",
+        "motionAssetId": "mot_adv_chr_cmn_trouble-006_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "ぜーんぶ着てみたいんです…\nで、でも、ほら、体型が…\nうう…",
+        "voiceAssetId": "sud_vo_home_ai-05-fest-00_talk-01-03",
+        "motionAssetId": "mot_adv_chr_cmn_emb-011_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "一ヵ月ラーメンを我慢して、\n脂肪燃焼を目的に有酸素運動を\n増やしてみようかなと！",
+        "voiceAssetId": "sud_vo_home_ai-05-fest-00_talk-01-04",
+        "motionAssetId": "mot_adv_chr_cmn_talk-025_in",
+        "additionMotionAssetId": "mot_all_chr_cmn_facial-048_in"
+      },
+      {
+        "text": "はっ、でもそうすると\n今度は自分の衣装の\nサイズ直し！？　悩む～…",
+        "voiceAssetId": "sud_vo_home_ai-05-fest-00_talk-01-05",
+        "motionAssetId": "mot_adv_chr_cmn_emb-006_in",
+        "additionMotionAssetId": ""
+      }
+    ]
+  },
+  {
     "homeTalkId": "home-talk-card-ai-05-idol-00-talk-01",
     "characterId": "char-ai",
     "placeType": 1,
@@ -1517,6 +1561,56 @@
         "text": "まぁ、その分kanaが\n構ってやるから問題ないっしょ。",
         "voiceAssetId": "sud_vo_home_kan-05-poli-00_talk-01-06",
         "motionAssetId": "mot_adv_chr_cmn_pos-009_in",
+        "additionMotionAssetId": ""
+      }
+    ]
+  },
+  {
+    "homeTalkId": "home-talk-card-kkr-05-fest-00-talk-01",
+    "characterId": "char-kkr",
+    "placeType": 1,
+    "conditionId": "cd-st-read-st-card-kkr-05-fest-00-03",
+    "firstPriority": 9900,
+    "weight": 1,
+    "callPatternId": "call-pattern-card-kkr-05-fest-00",
+    "choiceText": "とても良かったよ。",
+    "managerText": "とても良かったよ。",
+    "reliability": 5,
+    "characterTalks": [
+      {
+        "text": "やっぱりそうですよね～。\nこころも、ファンのみなさんと\nまっっったく同じ意見です。",
+        "voiceAssetId": "sud_vo_home_kkr-05-fest-00_talk-01-01",
+        "motionAssetId": "mot_adv_chr_cmn_pos-014_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "ていうか～\n一回だけじゃ全然足りませんよ～。",
+        "voiceAssetId": "sud_vo_home_kkr-05-fest-00_talk-01-02",
+        "motionAssetId": "mot_adv_chr_cmn_angry-015_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "なんせこころ達リズノワには\n全国あらゆる場所に\n熱烈なファンがいるんですから。",
+        "voiceAssetId": "sud_vo_home_kkr-05-fest-00_talk-01-03",
+        "motionAssetId": "mot_adv_chr_cmn_glad-003_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "1都1道2府43県全て、\n余すことなくやるべきだと\nこころは主張します。",
+        "voiceAssetId": "sud_vo_home_kkr-05-fest-00_talk-01-04",
+        "motionAssetId": "mot_adv_chr_cmn_pos-011_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "こころは地方のファンにも\n優しいアイドルで\nありたいんです。",
+        "voiceAssetId": "sud_vo_home_kkr-05-fest-00_talk-01-05",
+        "motionAssetId": "mot_adv_chr_cmn_glad-011_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "――という訳で\nもっと沢山感謝祭を\n企画して下さいね？",
+        "voiceAssetId": "sud_vo_home_kkr-05-fest-00_talk-01-06",
+        "motionAssetId": "mot_adv_chr_cmn_pos-003_in",
         "additionMotionAssetId": ""
       }
     ]

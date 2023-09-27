@@ -880,6 +880,50 @@
     "shootingTime": "0"
   },
   {
+    "id": "phot-exchange-5-12",
+    "assetId": "phot-exchange-5-0012",
+    "name": "小美山愛&赤崎こころ",
+    "rarity": 5,
+    "placeName": "かけがえのない二人",
+    "eventName": "メモリアルフォト",
+    "level": 150,
+    "abilities": [
+      {
+        "photoAbilityId": "pab-vocal_multiply_distribution-5",
+        "effectValue": 430,
+        "grade": 1,
+        "missionId": ""
+      },
+      {
+        "photoAbilityId": "pab-dance_multiply_distribution-5",
+        "effectValue": 430,
+        "grade": 1,
+        "missionId": ""
+      },
+      {
+        "photoAbilityId": "pab-visual_multiply_distribution-5",
+        "effectValue": 430,
+        "grade": 1,
+        "missionId": ""
+      },
+      {
+        "photoAbilityId": "pab-critical-score-up_multiply_distribution-5",
+        "effectValue": 235,
+        "grade": 1,
+        "missionId": ""
+      },
+      {
+        "photoAbilityId": "pab-passive-skill_sk-phot-exchange-5-12",
+        "effectValue": 3,
+        "grade": 1,
+        "missionId": ""
+      }
+    ],
+    "focusCharacterId": "char-ai",
+    "characterIds": [],
+    "shootingTime": "0"
+  },
+  {
     "id": "phot-exchange-5-2",
     "assetId": "phot-exchange-5-0002",
     "name": "長瀬麻奈",
@@ -3300,6 +3344,50 @@
       }
     ],
     "focusCharacterId": "char-mna",
+    "characterIds": [],
+    "shootingTime": "0"
+  },
+  {
+    "id": "phot-shop-5-19",
+    "assetId": "phot-pack-5-0019",
+    "name": "神崎莉央＆井川葵",
+    "rarity": 5,
+    "placeName": "ホントの願いをかなえるんだ",
+    "eventName": "メモリアルフォト",
+    "level": 60,
+    "abilities": [
+      {
+        "photoAbilityId": "pab-vocal_multiply_distribution-5",
+        "effectValue": 250,
+        "grade": 1,
+        "missionId": ""
+      },
+      {
+        "photoAbilityId": "pab-dance_multiply_distribution-5",
+        "effectValue": 250,
+        "grade": 1,
+        "missionId": ""
+      },
+      {
+        "photoAbilityId": "pab-visual_multiply_distribution-5",
+        "effectValue": 250,
+        "grade": 1,
+        "missionId": ""
+      },
+      {
+        "photoAbilityId": "pab-special-skill-score-up_multiply_distribution-5",
+        "effectValue": 60,
+        "grade": 1,
+        "missionId": ""
+      },
+      {
+        "photoAbilityId": "pab-passive-skill_sk-phot-shop-5-02",
+        "effectValue": 1,
+        "grade": 1,
+        "missionId": ""
+      }
+    ],
+    "focusCharacterId": "char-rio",
     "characterIds": [],
     "shootingTime": "0"
   },

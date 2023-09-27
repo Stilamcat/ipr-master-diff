@@ -92,6 +92,13 @@
   },
   {
     "characterId": "char-ai",
+    "patternId": "call-pattern-card-ai-05-fest-00",
+    "managerCallText": "お疲れさま",
+    "characterArrivalText": "どうしよう…\nラーメンを一ヵ月我慢すれば\nなんとかなる…？",
+    "characterArrivalVoiceAssetId": "sud_vo_home_ai-05-fest-00_talk-01-start"
+  },
+  {
+    "characterId": "char-ai",
     "patternId": "call-pattern-card-ai-05-kait-00",
     "managerCallText": "お疲れさま",
     "characterArrivalText": "The Last Chanceを\n歌ったライブから、私…もっと成長\nしたいって思うようになりました。",
@@ -642,6 +649,13 @@
     "managerCallText": "お疲れさま",
     "characterArrivalText": "{user}、\n今からご飯行きませんか？",
     "characterArrivalVoiceAssetId": "sud_vo_home_kan_talk-12-start"
+  },
+  {
+    "characterId": "char-kkr",
+    "patternId": "call-pattern-card-kkr-05-fest-00",
+    "managerCallText": "お疲れさま",
+    "characterArrivalText": "あの～\nファン感謝祭の評判は\nどうでしたか？",
+    "characterArrivalVoiceAssetId": "sud_vo_home_kkr-05-fest-00_talk-01-start"
   },
   {
     "characterId": "char-kkr",

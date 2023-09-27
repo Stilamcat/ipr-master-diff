@@ -9048,6 +9048,7 @@
     "composer": "Q-MHz",
     "arranger": "Q-MHz",
     "singer": "LizNoir",
+    "is3DAvailable": true,
     "comboAdvantageId": "combo_advantage_1",
     "volumePermyriads": [
       5,
@@ -9660,10 +9661,16 @@
         "loop": false
       }
     ],
-    "is3DAvailable": false,
+    "originalCharacterIds": [
+      "char-rio",
+      "char-ai",
+      "char-aoi",
+      "char-kkr"
+    ],
+    "notSelectableStageTypes": [
+      1
+    ],
     "releaseTime": "0",
-    "originalCharacterIds": [],
-    "notSelectableStageTypes": [],
     "mvAssetId": "",
     "selectableStageIds": []
   },

@@ -2970,6 +2970,26 @@
     "shortDescription": ""
   },
   {
+    "id": "ef-audience_amount_increase-10-target-self-50",
+    "name": "自身に集目効果",
+    "type": 21,
+    "description": "自身に10段階の集目効果[50ビート]",
+    "grade": 10,
+    "maxGrade": 10,
+    "skillTargetId": "target-self",
+    "shortDescription": ""
+  },
+  {
+    "id": "ef-audience_amount_increase-10-target-self-55",
+    "name": "自身に集目効果",
+    "type": 21,
+    "description": "自身に10段階の集目効果[55ビート]",
+    "grade": 10,
+    "maxGrade": 10,
+    "skillTargetId": "target-self",
+    "shortDescription": ""
+  },
+  {
     "id": "ef-audience_amount_increase-10-target-trigger-30",
     "name": "対象に集目効果",
     "type": 21,
@@ -3860,6 +3880,16 @@
     "shortDescription": ""
   },
   {
+    "id": "ef-audience_amount_increase-8-target-self-40",
+    "name": "自身に集目効果",
+    "type": 21,
+    "description": "自身に8段階の集目効果[40ビート]",
+    "grade": 8,
+    "maxGrade": 10,
+    "skillTargetId": "target-self",
+    "shortDescription": ""
+  },
+  {
     "id": "ef-audience_amount_increase-8-target-self-43",
     "name": "自身に集目効果",
     "type": 21,
@@ -4140,6 +4170,26 @@
     "shortDescription": ""
   },
   {
+    "id": "ef-audience_amount_reduction-5-target-character_type-3-1-30",
+    "name": "サポータータイプ1人にステルス効果",
+    "type": 28,
+    "description": "サポータータイプ1人に5段階のステルス効果[30ビート]",
+    "grade": 5,
+    "maxGrade": 10,
+    "skillTargetId": "target-character_type-3-1",
+    "shortDescription": ""
+  },
+  {
+    "id": "ef-audience_amount_reduction-5-target-character_type-3-1-35",
+    "name": "サポータータイプ1人にステルス効果",
+    "type": 28,
+    "description": "サポータータイプ1人に5段階のステルス効果[35ビート]",
+    "grade": 5,
+    "maxGrade": 10,
+    "skillTargetId": "target-character_type-3-1",
+    "shortDescription": ""
+  },
+  {
     "id": "ef-audience_amount_reduction-5-target-self-30",
     "name": "自身にステルス効果",
     "type": 28,
@@ -4167,6 +4217,26 @@
     "grade": 5,
     "maxGrade": 10,
     "skillTargetId": "target-self",
+    "shortDescription": ""
+  },
+  {
+    "id": "ef-audience_amount_reduction-6-target-character_type-3-1-35",
+    "name": "サポータータイプ1人にステルス効果",
+    "type": 28,
+    "description": "サポータータイプ1人に6段階のステルス効果[35ビート]",
+    "grade": 6,
+    "maxGrade": 10,
+    "skillTargetId": "target-character_type-3-1",
+    "shortDescription": ""
+  },
+  {
+    "id": "ef-audience_amount_reduction-6-target-character_type-3-1-40",
+    "name": "サポータータイプ1人にステルス効果",
+    "type": 28,
+    "description": "サポータータイプ1人に6段階のステルス効果[40ビート]",
+    "grade": 6,
+    "maxGrade": 10,
+    "skillTargetId": "target-character_type-3-1",
     "shortDescription": ""
   },
   {
@@ -4207,6 +4277,26 @@
     "grade": 6,
     "maxGrade": 10,
     "skillTargetId": "target-self",
+    "shortDescription": ""
+  },
+  {
+    "id": "ef-audience_amount_reduction-7-target-character_type-3-1-40",
+    "name": "サポータータイプ1人にステルス効果",
+    "type": 28,
+    "description": "サポータータイプ1人に7段階のステルス効果[40ビート]",
+    "grade": 7,
+    "maxGrade": 10,
+    "skillTargetId": "target-character_type-3-1",
+    "shortDescription": ""
+  },
+  {
+    "id": "ef-audience_amount_reduction-7-target-character_type-3-1-45",
+    "name": "サポータータイプ1人にステルス効果",
+    "type": 28,
+    "description": "サポータータイプ1人に7段階のステルス効果[45ビート]",
+    "grade": 7,
+    "maxGrade": 10,
+    "skillTargetId": "target-character_type-3-1",
     "shortDescription": ""
   },
   {
@@ -6800,6 +6890,26 @@
     "shortDescription": ""
   },
   {
+    "id": "ef-combo_score_up-2-target-self-30",
+    "name": "自身にコンボスコア上昇効果",
+    "type": 41,
+    "description": "自身に2段階コンボスコア上昇効果[30ビート]",
+    "grade": 2,
+    "maxGrade": 20,
+    "skillTargetId": "target-self",
+    "shortDescription": ""
+  },
+  {
+    "id": "ef-combo_score_up-2-target-self-35",
+    "name": "自身にコンボスコア上昇効果",
+    "type": 41,
+    "description": "自身に2段階コンボスコア上昇効果[35ビート]",
+    "grade": 2,
+    "maxGrade": 20,
+    "skillTargetId": "target-self",
+    "shortDescription": ""
+  },
+  {
     "id": "ef-combo_score_up-3-target-dance-2-35",
     "name": "ダンスタイプ2人にコンボスコア上昇効果",
     "type": 41,
@@ -6820,6 +6930,26 @@
     "shortDescription": ""
   },
   {
+    "id": "ef-combo_score_up-3-target-self-35",
+    "name": "自身にコンボスコア上昇効果",
+    "type": 41,
+    "description": "自身に3段階コンボスコア上昇効果[35ビート]",
+    "grade": 3,
+    "maxGrade": 20,
+    "skillTargetId": "target-self",
+    "shortDescription": ""
+  },
+  {
+    "id": "ef-combo_score_up-3-target-self-40",
+    "name": "自身にコンボスコア上昇効果",
+    "type": 41,
+    "description": "自身に3段階コンボスコア上昇効果[40ビート]",
+    "grade": 3,
+    "maxGrade": 20,
+    "skillTargetId": "target-self",
+    "shortDescription": ""
+  },
+  {
     "id": "ef-combo_score_up-4-target-dance-2-40",
     "name": "ダンスタイプ2人にコンボスコア上昇効果",
     "type": 41,
@@ -6837,6 +6967,26 @@
     "grade": 4,
     "maxGrade": 20,
     "skillTargetId": "target-dance-2",
+    "shortDescription": ""
+  },
+  {
+    "id": "ef-combo_score_up-4-target-self-40",
+    "name": "自身にコンボスコア上昇効果",
+    "type": 41,
+    "description": "自身に4段階コンボスコア上昇効果[40ビート]",
+    "grade": 4,
+    "maxGrade": 20,
+    "skillTargetId": "target-self",
+    "shortDescription": ""
+  },
+  {
+    "id": "ef-combo_score_up-4-target-self-45",
+    "name": "自身にコンボスコア上昇効果",
+    "type": 41,
+    "description": "自身に4段階コンボスコア上昇効果[45ビート]",
+    "grade": 4,
+    "maxGrade": 20,
+    "skillTargetId": "target-self",
     "shortDescription": ""
   },
   {
@@ -16410,6 +16560,16 @@
     "shortDescription": ""
   },
   {
+    "id": "ef-dance_up-10-target-character_type-2-2-42",
+    "name": "バッファータイプ2人にダンス上昇効果",
+    "type": 13,
+    "description": "バッファータイプ2人に10段階ダンス上昇効果[42ビート]",
+    "grade": 10,
+    "maxGrade": 20,
+    "skillTargetId": "target-character_type-2-2",
+    "shortDescription": ""
+  },
+  {
     "id": "ef-dance_up-10-target-dance-2-33",
     "name": "ダンスタイプ2人にダンス上昇効果",
     "type": 13,
@@ -19450,10 +19610,40 @@
     "shortDescription": ""
   },
   {
+    "id": "ef-dance_up-7-target-character_type-2-2-33",
+    "name": "バッファータイプ2人にダンス上昇効果",
+    "type": 13,
+    "description": "バッファータイプ2人に7段階ダンス上昇効果[33ビート]",
+    "grade": 7,
+    "maxGrade": 20,
+    "skillTargetId": "target-character_type-2-2",
+    "shortDescription": ""
+  },
+  {
+    "id": "ef-dance_up-7-target-character_type-2-2-36",
+    "name": "バッファータイプ2人にダンス上昇効果",
+    "type": 13,
+    "description": "バッファータイプ2人に7段階ダンス上昇効果[36ビート]",
+    "grade": 7,
+    "maxGrade": 20,
+    "skillTargetId": "target-character_type-2-2",
+    "shortDescription": ""
+  },
+  {
     "id": "ef-dance_up-7-target-character_type-2-2-37",
     "name": "バッファータイプ2人にダンス上昇効果",
     "type": 13,
     "description": "バッファータイプ2人に7段階ダンス上昇効果[37ビート]",
+    "grade": 7,
+    "maxGrade": 20,
+    "skillTargetId": "target-character_type-2-2",
+    "shortDescription": ""
+  },
+  {
+    "id": "ef-dance_up-7-target-character_type-2-2-39",
+    "name": "バッファータイプ2人にダンス上昇効果",
+    "type": 13,
+    "description": "バッファータイプ2人に7段階ダンス上昇効果[39ビート]",
     "grade": 7,
     "maxGrade": 20,
     "skillTargetId": "target-character_type-2-2",
@@ -20020,6 +20210,16 @@
     "shortDescription": ""
   },
   {
+    "id": "ef-dance_up-8-target-character_type-2-2-40",
+    "name": "バッファータイプ2人にダンス上昇効果",
+    "type": 13,
+    "description": "バッファータイプ2人に8段階ダンス上昇効果[40ビート]",
+    "grade": 8,
+    "maxGrade": 20,
+    "skillTargetId": "target-character_type-2-2",
+    "shortDescription": ""
+  },
+  {
     "id": "ef-dance_up-8-target-character_type-2-2-41",
     "name": "バッファータイプ2人にダンス上昇効果",
     "type": 13,
@@ -20397,6 +20597,16 @@
     "grade": 9,
     "maxGrade": 20,
     "skillTargetId": "target-character_type-1-2",
+    "shortDescription": ""
+  },
+  {
+    "id": "ef-dance_up-9-target-character_type-2-2-41",
+    "name": "バッファータイプ2人にダンス上昇効果",
+    "type": 13,
+    "description": "バッファータイプ2人に9段階ダンス上昇効果[41ビート]",
+    "grade": 9,
+    "maxGrade": 20,
+    "skillTargetId": "target-character_type-2-2",
     "shortDescription": ""
   },
   {
@@ -23200,6 +23410,66 @@
     "maxGrade": 0
   },
   {
+    "id": "ef-passive_skill_impossible-target-opponent_character_type-1-2-31",
+    "name": "相手のスコアラータイプ2人のPスキルを封印",
+    "type": 74,
+    "description": "[ライブバトルのみ]相手のスコアラータイプ2人のPスキルを封印[31ビート]",
+    "skillTargetId": "target-opponent_character_type-1-2",
+    "shortDescription": "",
+    "grade": 0,
+    "maxGrade": 0
+  },
+  {
+    "id": "ef-passive_skill_impossible-target-opponent_character_type-1-2-33",
+    "name": "相手のスコアラータイプ2人のPスキルを封印",
+    "type": 74,
+    "description": "[ライブバトルのみ]相手のスコアラータイプ2人のPスキルを封印[33ビート]",
+    "skillTargetId": "target-opponent_character_type-1-2",
+    "shortDescription": "",
+    "grade": 0,
+    "maxGrade": 0
+  },
+  {
+    "id": "ef-passive_skill_impossible-target-opponent_character_type-1-2-35",
+    "name": "相手のスコアラータイプ2人のPスキルを封印",
+    "type": 74,
+    "description": "[ライブバトルのみ]相手のスコアラータイプ2人のPスキルを封印[35ビート]",
+    "skillTargetId": "target-opponent_character_type-1-2",
+    "shortDescription": "",
+    "grade": 0,
+    "maxGrade": 0
+  },
+  {
+    "id": "ef-passive_skill_impossible-target-opponent_character_type-1-2-37",
+    "name": "相手のスコアラータイプ2人のPスキルを封印",
+    "type": 74,
+    "description": "[ライブバトルのみ]相手のスコアラータイプ2人のPスキルを封印[37ビート]",
+    "skillTargetId": "target-opponent_character_type-1-2",
+    "shortDescription": "",
+    "grade": 0,
+    "maxGrade": 0
+  },
+  {
+    "id": "ef-passive_skill_impossible-target-opponent_character_type-1-2-39",
+    "name": "相手のスコアラータイプ2人のPスキルを封印",
+    "type": 74,
+    "description": "[ライブバトルのみ]相手のスコアラータイプ2人のPスキルを封印[39ビート]",
+    "skillTargetId": "target-opponent_character_type-1-2",
+    "shortDescription": "",
+    "grade": 0,
+    "maxGrade": 0
+  },
+  {
+    "id": "ef-passive_skill_impossible-target-opponent_character_type-1-2-41",
+    "name": "相手のスコアラータイプ2人のPスキルを封印",
+    "type": 74,
+    "description": "[ライブバトルのみ]相手のスコアラータイプ2人のPスキルを封印[41ビート]",
+    "skillTargetId": "target-opponent_character_type-1-2",
+    "shortDescription": "",
+    "grade": 0,
+    "maxGrade": 0
+  },
+  {
     "id": "ef-passive_skill_score_up-4-target-dance-3-42",
     "name": "ダンスタイプ3人にPスキルスコア上昇効果",
     "type": 42,
@@ -25210,6 +25480,66 @@
     "skillTargetId": ""
   },
   {
+    "id": "ef-score_get_by_less_combo_count-3600-chart_dependence",
+    "name": "スコア獲得-コンボ数が少ない程効果上昇",
+    "type": 67,
+    "description": "360%のスコア獲得、コンボ数が少ない程効果上昇",
+    "shortDescription": "",
+    "grade": 0,
+    "maxGrade": 0,
+    "skillTargetId": ""
+  },
+  {
+    "id": "ef-score_get_by_less_combo_count-3800-chart_dependence",
+    "name": "スコア獲得-コンボ数が少ない程効果上昇",
+    "type": 67,
+    "description": "380%のスコア獲得、コンボ数が少ない程効果上昇",
+    "shortDescription": "",
+    "grade": 0,
+    "maxGrade": 0,
+    "skillTargetId": ""
+  },
+  {
+    "id": "ef-score_get_by_less_combo_count-4100-chart_dependence",
+    "name": "スコア獲得-コンボ数が少ない程効果上昇",
+    "type": 67,
+    "description": "410%のスコア獲得、コンボ数が少ない程効果上昇",
+    "shortDescription": "",
+    "grade": 0,
+    "maxGrade": 0,
+    "skillTargetId": ""
+  },
+  {
+    "id": "ef-score_get_by_less_combo_count-4400-chart_dependence",
+    "name": "スコア獲得-コンボ数が少ない程効果上昇",
+    "type": 67,
+    "description": "440%のスコア獲得、コンボ数が少ない程効果上昇",
+    "shortDescription": "",
+    "grade": 0,
+    "maxGrade": 0,
+    "skillTargetId": ""
+  },
+  {
+    "id": "ef-score_get_by_less_combo_count-4700-chart_dependence",
+    "name": "スコア獲得-コンボ数が少ない程効果上昇",
+    "type": 67,
+    "description": "470%のスコア獲得、コンボ数が少ない程効果上昇",
+    "shortDescription": "",
+    "grade": 0,
+    "maxGrade": 0,
+    "skillTargetId": ""
+  },
+  {
+    "id": "ef-score_get_by_less_combo_count-5000-chart_dependence",
+    "name": "スコア獲得-コンボ数が少ない程効果上昇",
+    "type": 67,
+    "description": "500%のスコア獲得、コンボ数が少ない程効果上昇",
+    "shortDescription": "",
+    "grade": 0,
+    "maxGrade": 0,
+    "skillTargetId": ""
+  },
+  {
     "id": "ef-score_get_by_less_fan_amount-450-chart_dependence",
     "name": "スコア獲得-ファン数割合が少ない程効果上昇",
     "type": 4,
@@ -26670,6 +27000,66 @@
     "skillTargetId": ""
   },
   {
+    "id": "ef-score_get_by_score_ratio-100-target-self",
+    "name": "対象獲得スコアの割合スコア獲得",
+    "type": 70,
+    "description": "自身の獲得スコアの10%のスコア獲得",
+    "skillTargetId": "target-self",
+    "shortDescription": "",
+    "grade": 0,
+    "maxGrade": 0
+  },
+  {
+    "id": "ef-score_get_by_score_ratio-110-target-self",
+    "name": "対象獲得スコアの割合スコア獲得",
+    "type": 70,
+    "description": "自身の獲得スコアの11%のスコア獲得",
+    "skillTargetId": "target-self",
+    "shortDescription": "",
+    "grade": 0,
+    "maxGrade": 0
+  },
+  {
+    "id": "ef-score_get_by_score_ratio-120-target-self",
+    "name": "対象獲得スコアの割合スコア獲得",
+    "type": 70,
+    "description": "自身の獲得スコアの12%のスコア獲得",
+    "skillTargetId": "target-self",
+    "shortDescription": "",
+    "grade": 0,
+    "maxGrade": 0
+  },
+  {
+    "id": "ef-score_get_by_score_ratio-130-target-self",
+    "name": "対象獲得スコアの割合スコア獲得",
+    "type": 70,
+    "description": "自身の獲得スコアの13%のスコア獲得",
+    "skillTargetId": "target-self",
+    "shortDescription": "",
+    "grade": 0,
+    "maxGrade": 0
+  },
+  {
+    "id": "ef-score_get_by_score_ratio-140-target-self",
+    "name": "対象獲得スコアの割合スコア獲得",
+    "type": 70,
+    "description": "自身の獲得スコアの14%のスコア獲得",
+    "skillTargetId": "target-self",
+    "shortDescription": "",
+    "grade": 0,
+    "maxGrade": 0
+  },
+  {
+    "id": "ef-score_get_by_score_ratio-150-target-self",
+    "name": "対象獲得スコアの割合スコア獲得",
+    "type": 70,
+    "description": "自身の獲得スコアの15%のスコア獲得",
+    "skillTargetId": "target-self",
+    "shortDescription": "",
+    "grade": 0,
+    "maxGrade": 0
+  },
+  {
     "id": "ef-score_get_by_skill_activation_count-1000-chart_dependence",
     "name": "スコア獲得-自身の発動したスキル数が多い程効果上昇",
     "type": 39,
@@ -27130,10 +27520,30 @@
     "skillTargetId": ""
   },
   {
+    "id": "ef-score_get_by_status_effect_type_grade-audience_amount_increase-10000-chart_dependence",
+    "name": "スコア獲得-集目状態の段階数が多い程効果上昇",
+    "type": 36,
+    "description": "1000%のスコア獲得、集目状態の段階数が多い程効果上昇",
+    "shortDescription": "",
+    "grade": 0,
+    "maxGrade": 0,
+    "skillTargetId": ""
+  },
+  {
     "id": "ef-score_get_by_status_effect_type_grade-audience_amount_increase-10600-chart_dependence",
     "name": "スコア獲得-集目状態の段階数が多い程効果上昇",
     "type": 36,
     "description": "1060%のスコア獲得、集目状態の段階数が多い程効果上昇",
+    "shortDescription": "",
+    "grade": 0,
+    "maxGrade": 0,
+    "skillTargetId": ""
+  },
+  {
+    "id": "ef-score_get_by_status_effect_type_grade-audience_amount_increase-11300-chart_dependence",
+    "name": "スコア獲得-集目状態の段階数が多い程効果上昇",
+    "type": 36,
+    "description": "1130%のスコア獲得、集目状態の段階数が多い程効果上昇",
     "shortDescription": "",
     "grade": 0,
     "maxGrade": 0,
@@ -27234,6 +27644,46 @@
     "name": "スコア獲得-集目状態の段階数が多い程効果上昇",
     "type": 36,
     "description": "440%のスコア獲得、集目状態の段階数が多い程効果上昇",
+    "shortDescription": "",
+    "grade": 0,
+    "maxGrade": 0,
+    "skillTargetId": ""
+  },
+  {
+    "id": "ef-score_get_by_status_effect_type_grade-audience_amount_increase-6500-chart_dependence",
+    "name": "スコア獲得-集目状態の段階数が多い程効果上昇",
+    "type": 36,
+    "description": "650%のスコア獲得、集目状態の段階数が多い程効果上昇",
+    "shortDescription": "",
+    "grade": 0,
+    "maxGrade": 0,
+    "skillTargetId": ""
+  },
+  {
+    "id": "ef-score_get_by_status_effect_type_grade-audience_amount_increase-7000-chart_dependence",
+    "name": "スコア獲得-集目状態の段階数が多い程効果上昇",
+    "type": 36,
+    "description": "700%のスコア獲得、集目状態の段階数が多い程効果上昇",
+    "shortDescription": "",
+    "grade": 0,
+    "maxGrade": 0,
+    "skillTargetId": ""
+  },
+  {
+    "id": "ef-score_get_by_status_effect_type_grade-audience_amount_increase-7500-chart_dependence",
+    "name": "スコア獲得-集目状態の段階数が多い程効果上昇",
+    "type": 36,
+    "description": "750%のスコア獲得、集目状態の段階数が多い程効果上昇",
+    "shortDescription": "",
+    "grade": 0,
+    "maxGrade": 0,
+    "skillTargetId": ""
+  },
+  {
+    "id": "ef-score_get_by_status_effect_type_grade-audience_amount_increase-8800-chart_dependence",
+    "name": "スコア獲得-集目状態の段階数が多い程効果上昇",
+    "type": 36,
+    "description": "880%のスコア獲得、集目状態の段階数が多い程効果上昇",
     "shortDescription": "",
     "grade": 0,
     "maxGrade": 0,
@@ -29290,6 +29740,26 @@
     "skillTargetId": ""
   },
   {
+    "id": "ef-score_up-10-target-all-43",
+    "name": "全員にスコア上昇効果",
+    "type": 16,
+    "description": "全員に10段階スコア上昇効果[43ビート]",
+    "grade": 10,
+    "maxGrade": 20,
+    "skillTargetId": "target-all",
+    "shortDescription": ""
+  },
+  {
+    "id": "ef-score_up-10-target-all-53",
+    "name": "全員にスコア上昇効果",
+    "type": 16,
+    "description": "全員に10段階スコア上昇効果[53ビート]",
+    "grade": 10,
+    "maxGrade": 20,
+    "skillTargetId": "target-all",
+    "shortDescription": ""
+  },
+  {
     "id": "ef-score_up-10-target-center-29",
     "name": "センターにスコア上昇効果",
     "type": 16,
@@ -29957,6 +30427,26 @@
     "grade": 10,
     "maxGrade": 20,
     "skillTargetId": "target-vocal_higher-2",
+    "shortDescription": ""
+  },
+  {
+    "id": "ef-score_up-11-target-all-53",
+    "name": "全員にスコア上昇効果",
+    "type": 16,
+    "description": "全員に11段階スコア上昇効果[53ビート]",
+    "grade": 11,
+    "maxGrade": 20,
+    "skillTargetId": "target-all",
+    "shortDescription": ""
+  },
+  {
+    "id": "ef-score_up-11-target-all-64",
+    "name": "全員にスコア上昇効果",
+    "type": 16,
+    "description": "全員に11段階スコア上昇効果[64ビート]",
+    "grade": 11,
+    "maxGrade": 20,
+    "skillTargetId": "target-all",
     "shortDescription": ""
   },
   {
@@ -33427,6 +33917,16 @@
     "grade": 8,
     "maxGrade": 20,
     "skillTargetId": "target-vocal_higher-2",
+    "shortDescription": ""
+  },
+  {
+    "id": "ef-score_up-9-target-all-33",
+    "name": "全員にスコア上昇効果",
+    "type": 16,
+    "description": "全員に9段階スコア上昇効果[33ビート]",
+    "grade": 9,
+    "maxGrade": 20,
+    "skillTargetId": "target-all",
     "shortDescription": ""
   },
   {
@@ -41470,6 +41970,16 @@
     "maxGrade": 0
   },
   {
+    "id": "ef-strength_effect_count_increase-2-target-self",
+    "name": "自身の強化効果を延長",
+    "type": 25,
+    "description": "自身の強化効果を2延長",
+    "skillTargetId": "target-self",
+    "shortDescription": "",
+    "grade": 0,
+    "maxGrade": 0
+  },
+  {
     "id": "ef-strength_effect_count_increase-2-target-vocal-2",
     "name": "ボーカルタイプ2人の強化効果を延長",
     "type": 25,
@@ -41595,6 +42105,16 @@
     "type": 25,
     "description": "隣接するアイドルの強化効果を3延長",
     "skillTargetId": "target-neighbor",
+    "shortDescription": "",
+    "grade": 0,
+    "maxGrade": 0
+  },
+  {
+    "id": "ef-strength_effect_count_increase-3-target-self",
+    "name": "自身の強化効果を延長",
+    "type": 25,
+    "description": "自身の強化効果を3延長",
+    "skillTargetId": "target-self",
     "shortDescription": "",
     "grade": 0,
     "maxGrade": 0
@@ -42195,6 +42715,16 @@
     "type": 51,
     "description": "[ライブバトルのみ]同じレーンの相手のビジュアル上昇効果消去",
     "skillTargetId": "target-opponent_same_position",
+    "shortDescription": "",
+    "grade": 0,
+    "maxGrade": 0
+  },
+  {
+    "id": "ef-strength_effect_erasing_all-target-opponent_all",
+    "name": "相手全員の強化効果消去",
+    "type": 65,
+    "description": "[ライブバトルのみ]相手全員の強化効果消去",
+    "skillTargetId": "target-opponent_all",
     "shortDescription": "",
     "grade": 0,
     "maxGrade": 0
@@ -44430,6 +44960,26 @@
     "shortDescription": ""
   },
   {
+    "id": "ef-visual_down-4-target-opponent_same_position-38",
+    "name": "同じレーンの相手にビジュアル低下効果",
+    "type": 32,
+    "description": "[ライブバトルのみ]同じレーンの相手に4段階ビジュアル低下効果[38ビート]",
+    "grade": 4,
+    "maxGrade": 20,
+    "skillTargetId": "target-opponent_same_position",
+    "shortDescription": ""
+  },
+  {
+    "id": "ef-visual_down-4-target-opponent_same_position-40",
+    "name": "同じレーンの相手にビジュアル低下効果",
+    "type": 32,
+    "description": "[ライブバトルのみ]同じレーンの相手に4段階ビジュアル低下効果[40ビート]",
+    "grade": 4,
+    "maxGrade": 20,
+    "skillTargetId": "target-opponent_same_position",
+    "shortDescription": ""
+  },
+  {
     "id": "ef-visual_down-4-target-self-20",
     "name": "自身にビジュアル低下効果",
     "type": 32,
@@ -44550,6 +45100,16 @@
     "shortDescription": ""
   },
   {
+    "id": "ef-visual_down-5-target-opponent_same_position-42",
+    "name": "同じレーンの相手にビジュアル低下効果",
+    "type": 32,
+    "description": "[ライブバトルのみ]同じレーンの相手に5段階ビジュアル低下効果[42ビート]",
+    "grade": 5,
+    "maxGrade": 20,
+    "skillTargetId": "target-opponent_same_position",
+    "shortDescription": ""
+  },
+  {
     "id": "ef-visual_down-6-target-all-48",
     "name": "全員にビジュアル低下効果",
     "type": 32,
@@ -44664,6 +45224,26 @@
     "name": "同じレーンの相手にビジュアル低下効果",
     "type": 32,
     "description": "[ライブバトルのみ]同じレーンの相手に6段階ビジュアル低下効果[40ビート]",
+    "grade": 6,
+    "maxGrade": 20,
+    "skillTargetId": "target-opponent_same_position",
+    "shortDescription": ""
+  },
+  {
+    "id": "ef-visual_down-6-target-opponent_same_position-42",
+    "name": "同じレーンの相手にビジュアル低下効果",
+    "type": 32,
+    "description": "[ライブバトルのみ]同じレーンの相手に6段階ビジュアル低下効果[42ビート]",
+    "grade": 6,
+    "maxGrade": 20,
+    "skillTargetId": "target-opponent_same_position",
+    "shortDescription": ""
+  },
+  {
+    "id": "ef-visual_down-6-target-opponent_same_position-44",
+    "name": "同じレーンの相手にビジュアル低下効果",
+    "type": 32,
+    "description": "[ライブバトルのみ]同じレーンの相手に6段階ビジュアル低下効果[44ビート]",
     "grade": 6,
     "maxGrade": 20,
     "skillTargetId": "target-opponent_same_position",
@@ -50450,6 +51030,16 @@
     "shortDescription": ""
   },
   {
+    "id": "ef-vocal_up-10-target-character_type-2-2-42",
+    "name": "バッファータイプ2人にボーカル上昇効果",
+    "type": 14,
+    "description": "バッファータイプ2人に10段階ボーカル上昇効果[42ビート]",
+    "grade": 10,
+    "maxGrade": 20,
+    "skillTargetId": "target-character_type-2-2",
+    "shortDescription": ""
+  },
+  {
     "id": "ef-vocal_up-10-target-self-36",
     "name": "自身にボーカル上昇効果",
     "type": 14,
@@ -53370,10 +53960,40 @@
     "shortDescription": ""
   },
   {
+    "id": "ef-vocal_up-7-target-character_type-2-2-33",
+    "name": "バッファータイプ2人にボーカル上昇効果",
+    "type": 14,
+    "description": "バッファータイプ2人に7段階ボーカル上昇効果[33ビート]",
+    "grade": 7,
+    "maxGrade": 20,
+    "skillTargetId": "target-character_type-2-2",
+    "shortDescription": ""
+  },
+  {
+    "id": "ef-vocal_up-7-target-character_type-2-2-36",
+    "name": "バッファータイプ2人にボーカル上昇効果",
+    "type": 14,
+    "description": "バッファータイプ2人に7段階ボーカル上昇効果[36ビート]",
+    "grade": 7,
+    "maxGrade": 20,
+    "skillTargetId": "target-character_type-2-2",
+    "shortDescription": ""
+  },
+  {
     "id": "ef-vocal_up-7-target-character_type-2-2-37",
     "name": "バッファータイプ2人にボーカル上昇効果",
     "type": 14,
     "description": "バッファータイプ2人に7段階ボーカル上昇効果[37ビート]",
+    "grade": 7,
+    "maxGrade": 20,
+    "skillTargetId": "target-character_type-2-2",
+    "shortDescription": ""
+  },
+  {
+    "id": "ef-vocal_up-7-target-character_type-2-2-39",
+    "name": "バッファータイプ2人にボーカル上昇効果",
+    "type": 14,
+    "description": "バッファータイプ2人に7段階ボーカル上昇効果[39ビート]",
     "grade": 7,
     "maxGrade": 20,
     "skillTargetId": "target-character_type-2-2",
@@ -53900,6 +54520,16 @@
     "shortDescription": ""
   },
   {
+    "id": "ef-vocal_up-8-target-character_type-2-2-40",
+    "name": "バッファータイプ2人にボーカル上昇効果",
+    "type": 14,
+    "description": "バッファータイプ2人に8段階ボーカル上昇効果[40ビート]",
+    "grade": 8,
+    "maxGrade": 20,
+    "skillTargetId": "target-character_type-2-2",
+    "shortDescription": ""
+  },
+  {
     "id": "ef-vocal_up-8-target-character_type-2-2-41",
     "name": "バッファータイプ2人にボーカル上昇効果",
     "type": 14,
@@ -54177,6 +54807,16 @@
     "grade": 9,
     "maxGrade": 20,
     "skillTargetId": "target-character_type-1-2",
+    "shortDescription": ""
+  },
+  {
+    "id": "ef-vocal_up-9-target-character_type-2-2-41",
+    "name": "バッファータイプ2人にボーカル上昇効果",
+    "type": 14,
+    "description": "バッファータイプ2人に9段階ボーカル上昇効果[41ビート]",
+    "grade": 9,
+    "maxGrade": 20,
+    "skillTargetId": "target-character_type-2-2",
     "shortDescription": ""
   },
   {
