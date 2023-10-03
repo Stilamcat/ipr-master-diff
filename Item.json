@@ -506,6 +506,17 @@
     "salePrice": 0
   },
   {
+    "id": "item-daily_quest_ticket_sp-23-1003",
+    "name": "スペシャルパス",
+    "assetId": "quest-daily-special",
+    "description": "デイリーライブ【スペシャル】に挑戦できる\nイベント終了後は消失します",
+    "howToGet": "ショップなど",
+    "type": 2006,
+    "value": 1,
+    "order": 220,
+    "salePrice": 0
+  },
+  {
     "id": "item-dream-generate-dream-23-0912",
     "name": "イメトレマニュアル",
     "assetId": "dream-generate",
@@ -851,7 +862,7 @@
     "name": "無料ガチャチケ",
     "assetId": "gacha-free-ticket-1s",
     "description": "有効期限：入手後7日\nチケットガチャを1回引くことができる",
-    "howToGet": "LizNoirフェス開催記念特別ログインボーナス",
+    "howToGet": "特別ログインボーナスやギフトなど",
     "type": 8,
     "value": 1,
     "order": 140,
@@ -1531,6 +1542,17 @@
   {
     "id": "item-gacha_point-lm-set-bloom-23-0829",
     "name": "ときめきファンシーポップガチャPt",
+    "assetId": "gacha-point",
+    "description": "該当するガチャページの「ガチャPt」から\nガチャPtを消費してアイドルを獲得できる",
+    "type": 9,
+    "value": 1,
+    "order": 140,
+    "howToGet": "",
+    "salePrice": 0
+  },
+  {
+    "id": "item-gacha_point-lm-set-bloom-23-1003",
+    "name": "Feel so happy!ガチャPt",
     "assetId": "gacha-point",
     "description": "該当するガチャページの「ガチャPt」から\nガチャPtを消費してアイドルを獲得できる",
     "type": 9,

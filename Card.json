@@ -4639,6 +4639,67 @@
     "homeTalks": []
   },
   {
+    "id": "card-mei-05-pair-00",
+    "assetId": "mei-05-pair-00",
+    "name": "ニャンたすてぃっくガール",
+    "description": "芽衣ね、すずにゃんとユニットを組めて\r\nほんとに良かった",
+    "type": 1,
+    "characterId": "char-mei",
+    "initialRarity": 5,
+    "cardParameterId": "card-param-01",
+    "vocalRatioPermil": 277,
+    "danceRatioPermil": 433,
+    "visualRatioPermil": 320,
+    "staminaRatioPermil": 900,
+    "cardLevelReleaseId": "card_level_release_1",
+    "skillId1": "sk-mei-05-pair-00-1",
+    "skillId2": "sk-mei-05-pair-00-2",
+    "skillId3": "sk-mei-05-pair-00-3",
+    "liveAbilityId": "lba-mental_add",
+    "order": 316,
+    "releaseDate": "1696302000000",
+    "rewardCostumeId": "cos-mei-pair-00",
+    "imageType1": 3,
+    "displayPositionX1": 0.18,
+    "displayPositionY1": 0.059,
+    "displayScale1": 1.5,
+    "highlightDisplayPositionX1": -0.278,
+    "highlightDisplayPositionY1": 0.171,
+    "highlightDisplayScale1": 1.1,
+    "imageType2": 3,
+    "displayPositionX2": 0.18,
+    "displayPositionY2": 0.059,
+    "displayScale2": 1.5,
+    "highlightDisplayPositionX2": -0.278,
+    "highlightDisplayPositionY2": 0.171,
+    "highlightDisplayScale2": 1.1,
+    "obtainMessage": "すずにゃん、\n怒んないでよ～、\nごろにゃーん",
+    "stories": [
+      {
+        "storyId": "st-card-mei-05-pair-00-01"
+      },
+      {
+        "storyId": "st-card-mei-05-pair-00-02"
+      },
+      {
+        "storyId": "st-card-mei-05-pair-00-03"
+      }
+    ],
+    "messages": [
+      {
+        "messageId": "message-card-mei-05-pair-00",
+        "telephoneId": ""
+      },
+      {
+        "telephoneId": "tel-card-mei-05-pair-00",
+        "messageId": ""
+      }
+    ],
+    "activityAbilityId": "",
+    "rewardHairId": "",
+    "homeTalks": []
+  },
+  {
     "id": "card-mei-05-rock-00",
     "assetId": "mei-05-rock-00",
     "name": "いつかまた一緒に",
@@ -5156,6 +5217,48 @@
     ],
     "liveAbilityId": "",
     "rewardHairId": "",
+    "messages": [],
+    "homeTalks": []
+  },
+  {
+    "id": "card-mna-02-eve-01",
+    "assetId": "mna-02-eve-01",
+    "name": "remember shiny days",
+    "description": "こう見えて私、昔はまあまあ売れっ子の\r\nアイドルだったんだよねー",
+    "type": 3,
+    "characterId": "char-mna",
+    "initialRarity": 2,
+    "cardParameterId": "card-param-01",
+    "vocalRatioPermil": 412,
+    "danceRatioPermil": 329,
+    "visualRatioPermil": 289,
+    "staminaRatioPermil": 900,
+    "cardLevelReleaseId": "card_level_release_1",
+    "skillId1": "sk-mna-02-eve-01-1",
+    "skillId2": "sk-mna-02-eve-01-2",
+    "skillId3": "sk-mna-02-eve-01-3",
+    "order": 318,
+    "releaseDate": "1696302000000",
+    "imageType1": 1,
+    "displayPositionX1": -0.008,
+    "displayPositionY1": 0.246,
+    "displayScale1": 1.1,
+    "highlightDisplayPositionX1": -0.019,
+    "highlightDisplayPositionY1": 0.298,
+    "highlightDisplayScale1": 1.0,
+    "imageType2": 2,
+    "displayPositionX2": -0.079,
+    "displayPositionY2": 0.188,
+    "displayScale2": 1.6,
+    "highlightDisplayPositionX2": 0.433,
+    "highlightDisplayPositionY2": 1.093,
+    "highlightDisplayScale2": 0.8,
+    "liveAbilityId": "",
+    "activityAbilityId": "",
+    "rewardCostumeId": "",
+    "obtainMessage": "",
+    "rewardHairId": "",
+    "stories": [],
     "messages": [],
     "homeTalks": []
   },
@@ -10382,6 +10485,67 @@
       }
     ],
     "liveAbilityId": "",
+    "rewardHairId": "",
+    "homeTalks": []
+  },
+  {
+    "id": "card-suz-05-pair-00",
+    "assetId": "suz-05-pair-00",
+    "name": "ごきげんワンぱくガール",
+    "description": "芽衣？　どうして私の頭をナデナデしてるんですの！？\n「可愛いな～」って、私は犬ではありませんわ～！",
+    "type": 2,
+    "characterId": "char-suz",
+    "initialRarity": 5,
+    "cardParameterId": "card-param-01",
+    "vocalRatioPermil": 404,
+    "danceRatioPermil": 317,
+    "visualRatioPermil": 279,
+    "staminaRatioPermil": 1000,
+    "cardLevelReleaseId": "card_level_release_1",
+    "skillId1": "sk-suz-05-pair-00-1",
+    "skillId2": "sk-suz-05-pair-00-2",
+    "skillId3": "sk-suz-05-pair-00-3",
+    "liveAbilityId": "lba-vocal_multiply",
+    "order": 317,
+    "releaseDate": "1696302000000",
+    "rewardCostumeId": "cos-suz-pair-00",
+    "imageType1": 3,
+    "displayPositionX1": -0.239,
+    "displayPositionY1": 0.188,
+    "displayScale1": 1.6,
+    "highlightDisplayPositionX1": 0.404,
+    "highlightDisplayPositionY1": 0.252,
+    "highlightDisplayScale1": 1.1,
+    "imageType2": 3,
+    "displayPositionX2": -0.239,
+    "displayPositionY2": 0.188,
+    "displayScale2": 1.6,
+    "highlightDisplayPositionX2": 0.404,
+    "highlightDisplayPositionY2": 0.252,
+    "highlightDisplayScale2": 1.1,
+    "obtainMessage": "本当に、芽衣は世話が焼けますわね",
+    "stories": [
+      {
+        "storyId": "st-card-suz-05-pair-00-01"
+      },
+      {
+        "storyId": "st-card-suz-05-pair-00-02"
+      },
+      {
+        "storyId": "st-card-suz-05-pair-00-03"
+      }
+    ],
+    "messages": [
+      {
+        "messageId": "message-card-suz-05-pair-00",
+        "telephoneId": ""
+      },
+      {
+        "telephoneId": "tel-card-suz-05-pair-00",
+        "messageId": ""
+      }
+    ],
+    "activityAbilityId": "",
     "rewardHairId": "",
     "homeTalks": []
   },

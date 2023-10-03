@@ -2618,6 +2618,56 @@
     ]
   },
   {
+    "homeTalkId": "home-talk-card-mei-05-pair-00-talk-01",
+    "characterId": "char-mei",
+    "placeType": 1,
+    "conditionId": "cd-st-read-st-card-mei-05-pair-00-03",
+    "firstPriority": 9900,
+    "weight": 1,
+    "callPatternId": "call-pattern-card-mei-05-pair-00",
+    "choiceText": "『shiny shiny』の歌\nすっかり気に入ってるな",
+    "managerText": "『shiny shiny』の歌\nすっかり気に入ってるな",
+    "reliability": 5,
+    "characterTalks": [
+      {
+        "text": "えへへ～。楽しいから\nついつい歌っちゃうん\nだよね～。",
+        "voiceAssetId": "sud_vo_home_mei-05-pair-00_talk-01-01",
+        "motionAssetId": "mot_adv_chr_cmn_glad-002_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "すずにゃんもよく歌ってるから、\nみんなも自然と覚えて\n口ずさむようになって…",
+        "voiceAssetId": "sud_vo_home_mei-05-pair-00_talk-01-02",
+        "motionAssetId": "mot_adv_chr_cmn_glad-007_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "今、寮でちょっとした\nブームになってるんだ～！",
+        "voiceAssetId": "sud_vo_home_mei-05-pair-00_talk-01-03",
+        "motionAssetId": "mot_adv_chr_cmn_pos-021_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "月ストとサニピには順調に\n広がってるから…\n後はトリエルとリズノワだね！",
+        "voiceAssetId": "sud_vo_home_mei-05-pair-00_talk-01-04",
+        "motionAssetId": "mot_adv_chr_cmn_pos-010_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "芽衣的には、瑠依ちゃんと\n莉央ちゃんが歌うようになったら\n勝ちかな～って思ってるんだ。",
+        "voiceAssetId": "sud_vo_home_mei-05-pair-00_talk-01-05",
+        "motionAssetId": "mot_adv_chr_cmn_talk-011_in",
+        "additionMotionAssetId": "mot_all_chr_cmn_facial-048_in"
+      },
+      {
+        "text": "いつか{user}さんを\n囲んでラップするから、\n楽しみにしててね！",
+        "voiceAssetId": "sud_vo_home_mei-05-pair-00_talk-01-06",
+        "motionAssetId": "mot_adv_chr_cmn_glad-003_in",
+        "additionMotionAssetId": ""
+      }
+    ]
+  },
+  {
     "homeTalkId": "home-talk-card-mei-05-rock-00-talk-01",
     "characterId": "char-mei",
     "placeType": 1,
@@ -5689,6 +5739,56 @@
         "text": "いえ\n100個くらいほしいですわ！",
         "voiceAssetId": "sud_vo_home_suz-05-onep-00_talk-01-05",
         "motionAssetId": "mot_adv_chr_cmn_angry-016_in",
+        "additionMotionAssetId": ""
+      }
+    ]
+  },
+  {
+    "homeTalkId": "home-talk-card-suz-05-pair-00-talk-01",
+    "characterId": "char-suz",
+    "placeType": 1,
+    "conditionId": "cd-st-read-st-card-suz-05-pair-00-03",
+    "firstPriority": 9900,
+    "weight": 1,
+    "callPatternId": "call-pattern-card-suz-05-pair-00",
+    "choiceText": "作詞は難しいから大変だよな",
+    "managerText": "作詞は難しいから大変だよな",
+    "reliability": 5,
+    "characterTalks": [
+      {
+        "text": "もちろん技術的にも難しくて\n大変だったのですが…",
+        "voiceAssetId": "sud_vo_home_suz-05-pair-00_talk-01-01",
+        "motionAssetId": "mot_adv_chr_cmn_talk-022_in",
+        "additionMotionAssetId": "mot_all_chr_cmn_facial-034_in"
+      },
+      {
+        "text": "それよりも、芽衣が自由過ぎて\n作業が全然進まない方が\n大変でした。",
+        "voiceAssetId": "sud_vo_home_suz-05-pair-00_talk-01-02",
+        "motionAssetId": "mot_adv_chr_cmn_talk-011_in",
+        "additionMotionAssetId": "mot_all_chr_cmn_facial-034_in"
+      },
+      {
+        "text": "直前まで真面目に\n作業をしていたのに\nちょっと目を離すと…",
+        "voiceAssetId": "sud_vo_home_suz-05-pair-00_talk-01-03",
+        "motionAssetId": "mot_adv_chr_cmn_talk-021_in",
+        "additionMotionAssetId": "mot_all_chr_cmn_facial-003_in"
+      },
+      {
+        "text": "いつの間にかドーナツを食べてたり\nお昼寝してたり、私の頭を\nナデナデしてたりするんですのよ。",
+        "voiceAssetId": "sud_vo_home_suz-05-pair-00_talk-01-04",
+        "motionAssetId": "mot_adv_chr_cmn_emb-009_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "まぁ、おかげで\n二人とも肩の力が抜けて\n楽しく作詞出来たのですけれど…",
+        "voiceAssetId": "sud_vo_home_suz-05-pair-00_talk-01-05",
+        "motionAssetId": "mot_adv_chr_cmn_glad-001_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "とにかく、芽衣は自由過ぎて、私が\nそばにいないとダメダメなのですわ\nまったく、世話が焼けますわね。",
+        "voiceAssetId": "sud_vo_home_suz-05-pair-00_talk-01-06",
+        "motionAssetId": "mot_adv_chr_cmn_pos-021_in",
         "additionMotionAssetId": ""
       }
     ]

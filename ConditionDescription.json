@@ -3864,6 +3864,10 @@
     "description": "イベント期間(交換期間含まず)"
   },
   {
+    "id": "cd-date-event-race-23-1003-exchange",
+    "description": "イベント期間(交換期間含む)"
+  },
+  {
     "id": "cd-date-marathon-21-0930",
     "description": "イベント期間"
   },
@@ -6876,6 +6880,10 @@
     "description": "開始3日"
   },
   {
+    "id": "cd-event-23-1003-banner",
+    "description": "開始3日"
+  },
+  {
     "id": "cd-event-banner-marathon-raid-0128-0206",
     "description": "イベントバナー"
   },
@@ -7250,6 +7258,14 @@
   {
     "id": "cd-event-race-23-0703-exchange",
     "description": "イベント期間(交換期間含む)&参加可能"
+  },
+  {
+    "id": "cd-event-race-23-1003",
+    "description": "イベント期間(交換期間含まず)&参加可能"
+  },
+  {
+    "id": "cd-event-race-23-1003-close",
+    "description": "マスの進行"
   },
   {
     "id": "cd-event-race-23-1003-exchange",
@@ -18100,6 +18116,10 @@
     "description": "メッセージ読了で解放"
   },
   {
+    "id": "cd-ms-read-message-card-mei-05-pair-00",
+    "description": "メッセージ読了で解放"
+  },
+  {
     "id": "cd-ms-read-message-card-mei-05-rock-00",
     "description": "メッセージ読了で解放"
   },
@@ -18349,6 +18369,10 @@
   },
   {
     "id": "cd-ms-read-message-card-suz-05-mizg-01",
+    "description": "メッセージ読了で解放"
+  },
+  {
+    "id": "cd-ms-read-message-card-suz-05-pair-00",
     "description": "メッセージ読了で解放"
   },
   {
@@ -18862,6 +18886,14 @@
   {
     "id": "cd-photo-shooting-mv-018-banner",
     "description": "mv-018-banner"
+  },
+  {
+    "id": "cd-photo-shooting-mv-019",
+    "description": "mv-019"
+  },
+  {
+    "id": "cd-photo-shooting-mv-019-banner",
+    "description": "mv-019-banner"
   },
   {
     "id": "cd-photo_section-exchange-add-idol-22-1127",
@@ -26384,6 +26416,22 @@
     "description": "LizNoirフェス開催記念ショップMlv120制御"
   },
   {
+    "id": "cd-shop-pack-23-1003",
+    "description": "【お知らせ】オータムショップ第3弾"
+  },
+  {
+    "id": "cd-shop-pack-23-1003-1031",
+    "description": "オータムショップ第3弾"
+  },
+  {
+    "id": "cd-shop-pack-23-1003-1031-dokan",
+    "description": "【ドカン】オータムショップ第3弾"
+  },
+  {
+    "id": "cd-shop-pack-23-1003-1031-mlv-120",
+    "description": "オータムショップ第3弾Mlv120制御"
+  },
+  {
     "id": "cd-shop-pack1-23-0809",
     "description": "【お知らせ】リリース777日記念ショップ"
   },
@@ -28042,6 +28090,18 @@
   {
     "id": "cd-special-shop-pack-23-0927-1003-dokan",
     "description": "【ドカン】LizNoirフェス開催記念特別ショップ"
+  },
+  {
+    "id": "cd-special-shop-pack-23-1003",
+    "description": "【お知らせ】オータム特別ショップ第2弾"
+  },
+  {
+    "id": "cd-special-shop-pack-23-1003-1009",
+    "description": "オータム特別ショップ第2弾"
+  },
+  {
+    "id": "cd-special-shop-pack-23-1003-1009-dokan",
+    "description": "【ドカン】オータム特別ショップ第2弾"
   },
   {
     "id": "cd-st-eve-2108-marathon-001",
@@ -31172,6 +31232,10 @@
     "description": "#3視聴\nで解放"
   },
   {
+    "id": "cd-st-read-st-card-mei-05-pair-00-03",
+    "description": "#3視聴\nで解放"
+  },
+  {
     "id": "cd-st-read-st-card-mei-05-rock-00-03",
     "description": "#3視聴\nで解放"
   },
@@ -31437,6 +31501,10 @@
   },
   {
     "id": "cd-st-read-st-card-suz-05-onep-00-03",
+    "description": "#3視聴\nで解放"
+  },
+  {
+    "id": "cd-st-read-st-card-suz-05-pair-00-03",
     "description": "#3視聴\nで解放"
   },
   {
@@ -31793,6 +31861,10 @@
   },
   {
     "id": "cd-time-daily-sp-23-0829-23-0913",
+    "description": "スペシャルデイリーライブ開催期間"
+  },
+  {
+    "id": "cd-time-daily-sp-23-1003-23-1020",
     "description": "スペシャルデイリーライブ開催期間"
   },
   {
@@ -32872,6 +32944,10 @@
     "description": "該当のガチャ開催中判定"
   },
   {
+    "id": "cd-time-gacha-beginner-fs-set-bloom-23-1003",
+    "description": "ゲーム開始から72時間限定"
+  },
+  {
     "id": "cd-time-gacha-birthday-23-0707",
     "description": "期間：芽衣誕生日ガチャ"
   },
@@ -33458,6 +33534,18 @@
   {
     "id": "cd-time-gacha-fixed-selection-23-0927-02-banner-end",
     "description": "バナー期間終了条件：期間：LizNoirフェス記念1人★5確定セレクションガチャPart2"
+  },
+  {
+    "id": "cd-time-gacha-fixed-selection-23-1010",
+    "description": "期間：1人★5確定セレクションガチャ"
+  },
+  {
+    "id": "cd-time-gacha-fixed-selection-23-1010-banner",
+    "description": "バナー期間：期間：1人★5確定セレクションガチャ"
+  },
+  {
+    "id": "cd-time-gacha-fixed-selection-23-1010-banner-end",
+    "description": "バナー期間終了条件：期間：1人★5確定セレクションガチャ"
   },
   {
     "id": "cd-time-gacha-free-21-1130",
@@ -34152,6 +34240,22 @@
     "description": "期間：ときめきファンシーポップ"
   },
   {
+    "id": "cd-time-gacha-lm-set-bloom-23-1003",
+    "description": "期間：Feel so happy!"
+  },
+  {
+    "id": "cd-time-gacha-lm-set-bloom-23-1003-dokan",
+    "description": "期間：Feel so happy!"
+  },
+  {
+    "id": "cd-time-gacha-lm-set-bloom-23-1003-free-check",
+    "description": "期間限定ガチャ無料10回の初回分引いたか"
+  },
+  {
+    "id": "cd-time-gacha-lm-set-bloom-23-1003-free-open",
+    "description": "期間限定ガチャ無料10回の初回分"
+  },
+  {
     "id": "cd-time-gacha-lm-set-bloom-dokan-22-1128",
     "description": "期間：君を照らす贈りもの:ドカン"
   },
@@ -34489,6 +34593,10 @@
   },
   {
     "id": "cd-time-gacha-normal-23-0927",
+    "description": "恒常ガチャ"
+  },
+  {
+    "id": "cd-time-gacha-normal-23-1003",
     "description": "恒常ガチャ"
   },
   {
@@ -35964,6 +36072,14 @@
     "description": "9/15 00:00~ 9/21 23:59"
   },
   {
+    "id": "cd-time-gvg-23-1015-1017_s-banner",
+    "description": "GVG_Sバナー 開始から3日間"
+  },
+  {
+    "id": "cd-time-gvg-23-1015-1021",
+    "description": "10/15 00:00~ 10/21 23:59"
+  },
+  {
     "id": "cd-time-home-after-12",
     "description": "12時以降"
   },
@@ -36564,6 +36680,14 @@
     "description": "LizNoirフェス\n開催記念特別ログボ受け取り期間"
   },
   {
+    "id": "cd-time-login-23-1004-1010",
+    "description": "オータム第2弾ログボ期間"
+  },
+  {
+    "id": "cd-time-login-23-1004-1017",
+    "description": "オータム第2弾ログボ受け取り期間"
+  },
+  {
     "id": "cd-time-market-phase-001-close",
     "description": "マーケット閉じ"
   },
@@ -36950,6 +37074,18 @@
   {
     "id": "cd-time-music-unit-004-23-0226-close-shoot",
     "description": "開始：パジャマパーティー楽曲"
+  },
+  {
+    "id": "cd-time-music-unit-005-23-1003",
+    "description": "開始：shiny shiny楽曲"
+  },
+  {
+    "id": "cd-time-music-unit-005-23-1003-close",
+    "description": "期間：shiny shiny楽曲"
+  },
+  {
+    "id": "cd-time-music-unit-005-23-1003-close-shoot",
+    "description": "開始：shiny shiny楽曲"
   },
   {
     "id": "cd-time-music-unit-008-23-0829",
@@ -37341,6 +37477,10 @@
   },
   {
     "id": "cd-time-pvp-23-0930-1002_s-banner",
+    "description": "PVP_Sバナー 開始から3日間"
+  },
+  {
+    "id": "cd-time-pvp-23-1010-1012_s-banner",
     "description": "PVP_Sバナー 開始から3日間"
   },
   {
@@ -37756,6 +37896,10 @@
     "description": ""
   },
   {
+    "id": "cd-wear-costume-cos-mei-pair-00",
+    "description": ""
+  },
+  {
     "id": "cd-wear-costume-cos-mei-rock-00",
     "description": ""
   },
@@ -38013,6 +38157,10 @@
   },
   {
     "id": "cd-wear-costume-cos-suz-onep-00",
+    "description": ""
+  },
+  {
+    "id": "cd-wear-costume-cos-suz-pair-00",
     "description": ""
   },
   {
