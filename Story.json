@@ -160,6 +160,38 @@
     "additionalDisplayCharacterIds": []
   },
   {
+    "id": "st-birthday-branch-szk-23-1015",
+    "name": "兵藤雫 誕生日2023",
+    "advPlayTypes": [
+      6
+    ],
+    "branchFirstText": "今日は雫の誕生日だな\n何をプレゼントしよう？",
+    "branchCautionText": "後で再度選択可能です",
+    "branchBgmAssetId": "sud_bgm_cmn_home-01",
+    "branchChoices": [
+      {
+        "index": 1,
+        "text": "釣り用のクーラーボックス",
+        "advAssetId": "hbd_03_szk_01"
+      },
+      {
+        "index": 2,
+        "text": "アイドルのグッズ",
+        "advAssetId": "hbd_03_szk_02"
+      },
+      {
+        "index": 3,
+        "text": "ライブ用のペンライト",
+        "advAssetId": "hbd_03_szk_03"
+      }
+    ],
+    "sectionName": "",
+    "description": "",
+    "rewardId": "",
+    "advAssetIds": [],
+    "additionalDisplayCharacterIds": []
+  },
+  {
     "id": "st-card-ai-05-fest-00-01",
     "name": "前を向き\n駆け抜けろ\nですよ！",
     "rewardId": "rd_auto;stone;;30",
@@ -7170,6 +7202,60 @@
     ],
     "advAssetIds": [
       "card_suz_06_03"
+    ],
+    "sectionName": "",
+    "description": "",
+    "additionalDisplayCharacterIds": [],
+    "branchFirstText": "",
+    "branchCautionText": "",
+    "branchBgmAssetId": "",
+    "branchChoices": []
+  },
+  {
+    "id": "st-card-szk-05-birt-00-01",
+    "name": "大胆過ぎる\n企画",
+    "rewardId": "rd_auto;stone;;30",
+    "advPlayTypes": [
+      1
+    ],
+    "advAssetIds": [
+      "card_szk_51_01"
+    ],
+    "sectionName": "",
+    "description": "",
+    "additionalDisplayCharacterIds": [],
+    "branchFirstText": "",
+    "branchCautionText": "",
+    "branchBgmAssetId": "",
+    "branchChoices": []
+  },
+  {
+    "id": "st-card-szk-05-birt-00-02",
+    "name": "お願いkanaさん",
+    "rewardId": "rd_auto;stone;;30",
+    "advPlayTypes": [
+      1
+    ],
+    "advAssetIds": [
+      "card_szk_51_02"
+    ],
+    "sectionName": "",
+    "description": "",
+    "additionalDisplayCharacterIds": [],
+    "branchFirstText": "",
+    "branchCautionText": "",
+    "branchBgmAssetId": "",
+    "branchChoices": []
+  },
+  {
+    "id": "st-card-szk-05-birt-00-03",
+    "name": "ファンサが\n手厚い",
+    "rewardId": "rd_auto;stone;;30",
+    "advPlayTypes": [
+      1
+    ],
+    "advAssetIds": [
+      "card_szk_51_03"
     ],
     "sectionName": "",
     "description": "",
