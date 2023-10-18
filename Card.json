@@ -2492,6 +2492,67 @@
     "homeTalks": []
   },
   {
+    "id": "card-kan-05-chna-00",
+    "assetId": "kan-05-chna-00",
+    "name": "主役はkanaかな？",
+    "description": "ま、超可愛いkanaがやるからネタになるんであって\r\n素人にはお勧めしないけど",
+    "type": 1,
+    "characterId": "char-kan",
+    "initialRarity": 5,
+    "cardParameterId": "card-param-01",
+    "vocalRatioPermil": 435,
+    "danceRatioPermil": 318,
+    "visualRatioPermil": 277,
+    "staminaRatioPermil": 900,
+    "cardLevelReleaseId": "card_level_release_1",
+    "skillId1": "sk-kan-05-chna-00-1",
+    "skillId2": "sk-kan-05-chna-00-2",
+    "skillId3": "sk-kan-05-chna-00-3",
+    "liveAbilityId": "lba-vocal_multiply",
+    "order": 320,
+    "releaseDate": "1697598000000",
+    "rewardCostumeId": "cos-kan-chna-00",
+    "imageType1": 3,
+    "displayPositionX1": -0.183,
+    "displayScale1": 1.0,
+    "highlightDisplayPositionX1": -0.05,
+    "highlightDisplayPositionY1": 0.23,
+    "highlightDisplayScale1": 0.7,
+    "imageType2": 3,
+    "displayPositionX2": -0.183,
+    "displayScale2": 1.0,
+    "highlightDisplayPositionX2": -0.05,
+    "highlightDisplayPositionY2": 0.23,
+    "highlightDisplayScale2": 0.7,
+    "obtainMessage": "大事な仕事があるけぇ、\nわくわくして眠れんかったわ",
+    "stories": [
+      {
+        "storyId": "st-card-kan-05-chna-00-01"
+      },
+      {
+        "storyId": "st-card-kan-05-chna-00-02"
+      },
+      {
+        "storyId": "st-card-kan-05-chna-00-03"
+      }
+    ],
+    "messages": [
+      {
+        "messageId": "message-card-kan-05-chna-00",
+        "telephoneId": ""
+      },
+      {
+        "telephoneId": "tel-card-kan-05-chna-00",
+        "messageId": ""
+      }
+    ],
+    "activityAbilityId": "",
+    "displayPositionY1": 0.0,
+    "displayPositionY2": 0.0,
+    "rewardHairId": "",
+    "homeTalks": []
+  },
+  {
     "id": "card-kan-05-idol-00",
     "assetId": "kan-05-idol-00",
     "name": "a piece of cake",

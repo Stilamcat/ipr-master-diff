@@ -3850,6 +3850,30 @@
     "abilityType": 30,
     "photoAbilityLevels": [
       {
+        "level": 70,
+        "value": 6
+      },
+      {
+        "level": 75,
+        "value": 6
+      },
+      {
+        "level": 80,
+        "value": 6
+      },
+      {
+        "level": 85,
+        "value": 6
+      },
+      {
+        "level": 90,
+        "value": 6
+      },
+      {
+        "level": 95,
+        "value": 6
+      },
+      {
         "level": 100,
         "value": 6
       },
@@ -3924,7 +3948,7 @@
   {
     "id": "pab-affect_strength_effect_count_increase-dance_up_recipe_distribution-5",
     "name": "与・Da延長",
-    "description": "付与するダンス上昇効果を5延長します",
+    "description": "付与するダンス上昇効果を{0}延長します",
     "abilityType": 30,
     "photoAbilityLevels": [
       {
@@ -4260,6 +4284,30 @@
     "abilityType": 30,
     "photoAbilityLevels": [
       {
+        "level": 70,
+        "value": 6
+      },
+      {
+        "level": 75,
+        "value": 6
+      },
+      {
+        "level": 80,
+        "value": 6
+      },
+      {
+        "level": 85,
+        "value": 6
+      },
+      {
+        "level": 90,
+        "value": 6
+      },
+      {
+        "level": 95,
+        "value": 6
+      },
+      {
         "level": 100,
         "value": 6
       },
@@ -4451,6 +4499,30 @@
     "description": "付与するボーカル上昇効果を{0}延長します",
     "abilityType": 30,
     "photoAbilityLevels": [
+      {
+        "level": 70,
+        "value": 6
+      },
+      {
+        "level": 75,
+        "value": 6
+      },
+      {
+        "level": 80,
+        "value": 6
+      },
+      {
+        "level": 85,
+        "value": 6
+      },
+      {
+        "level": 90,
+        "value": 6
+      },
+      {
+        "level": 95,
+        "value": 6
+      },
       {
         "level": 100,
         "value": 6
@@ -8156,6 +8228,30 @@
     "abilityType": 31,
     "photoAbilityLevels": [
       {
+        "level": 70,
+        "value": 5
+      },
+      {
+        "level": 75,
+        "value": 5
+      },
+      {
+        "level": 80,
+        "value": 5
+      },
+      {
+        "level": 85,
+        "value": 5
+      },
+      {
+        "level": 90,
+        "value": 5
+      },
+      {
+        "level": 95,
+        "value": 5
+      },
+      {
         "level": 100,
         "value": 5
       },
@@ -8234,6 +8330,30 @@
     "abilityType": 32,
     "photoAbilityLevels": [
       {
+        "level": 70,
+        "value": 5
+      },
+      {
+        "level": 75,
+        "value": 5
+      },
+      {
+        "level": 80,
+        "value": 5
+      },
+      {
+        "level": 85,
+        "value": 5
+      },
+      {
+        "level": 90,
+        "value": 5
+      },
+      {
+        "level": 95,
+        "value": 5
+      },
+      {
         "level": 100,
         "value": 5
       },
@@ -8311,6 +8431,30 @@
     "description": "<バッファータイプのみ>\nスキル3のCTを{0}カットします",
     "abilityType": 33,
     "photoAbilityLevels": [
+      {
+        "level": 70,
+        "value": 7
+      },
+      {
+        "level": 75,
+        "value": 7
+      },
+      {
+        "level": 80,
+        "value": 7
+      },
+      {
+        "level": 85,
+        "value": 7
+      },
+      {
+        "level": 90,
+        "value": 7
+      },
+      {
+        "level": 95,
+        "value": 7
+      },
       {
         "level": 100,
         "value": 7
@@ -20843,7 +20987,7 @@
   },
   {
     "id": "pab-passive-skill_sk-phot-exchange-5-01",
-    "name": "AスキルスコアUP",
+    "name": "AスコアUPスキル",
     "description": "スタミナ60%以上の時、自身にAスキルスコア上昇効果",
     "abilityType": 13,
     "skillId": "sk-phot-exchange-5-1",
@@ -21377,7 +21521,7 @@
   },
   {
     "id": "pab-passive-skill_sk-phot-exchange-5-04",
-    "name": "AスキルスコアUP",
+    "name": "AスコアUPスキル",
     "description": "<スコアラータイプのみ>\n自身にAスキルスコア上昇効果",
     "abilityType": 13,
     "skillId": "sk-phot-exchange-5-4",
@@ -30295,7 +30439,7 @@
   },
   {
     "id": "pab-passive_skill-sk-photo-recipe-exchange_marathon-raid-23-0328-5-rare-001_recipe_distribution-5-cd-support",
-    "name": "AスコアUP",
+    "name": "AスコアUPスキル",
     "description": "<サポータータイプのみ> ボーカルタイプ3人にAスキルスコア上昇効果",
     "abilityType": 13,
     "skillId": "sk-photo-recipe-exchange_marathon-raid-23-0328-5-rare-001",
@@ -30409,7 +30553,7 @@
   },
   {
     "id": "pab-passive_skill-sk-photo-recipe-exchange_race-23-0428-5-rare-001_recipe_distribution-5-cd-support",
-    "name": "AスコアUP",
+    "name": "AスコアUPスキル",
     "description": "<サポータータイプのみ> ダンスタイプ3人にAスキルスコア上昇効果",
     "abilityType": 13,
     "skillId": "sk-photo-recipe-exchange_race-23-0428-5-rare-001",
@@ -30523,7 +30667,7 @@
   },
   {
     "id": "pab-passive_skill-sk-photo-recipe-exchange_race-23-1003-5-rare-001_recipe_distribution-5-cd-support",
-    "name": "AスコアUP",
+    "name": "AスコアUPスキル",
     "description": "<サポータータイプのみ> ビジュアルタイプ3人にAスキルスコア上昇効果",
     "abilityType": 13,
     "skillId": "sk-photo-recipe-exchange_race-23-1003-5-rare-001",
@@ -30637,11 +30781,35 @@
   },
   {
     "id": "pab-passive_skill-sk-phot_recipe-cmn-001-cd-appeal",
-    "name": "テンションUP",
+    "name": "テンションUPスキル",
     "description": "<スコアラータイプのみ> 自身がボーカルレーンの時 自身にテンションUP効果",
     "abilityType": 13,
     "skillId": "sk-phot_recipe-cmn-001",
     "photoAbilityLevels": [
+      {
+        "level": 70,
+        "value": 1
+      },
+      {
+        "level": 75,
+        "value": 1
+      },
+      {
+        "level": 80,
+        "value": 1
+      },
+      {
+        "level": 85,
+        "value": 1
+      },
+      {
+        "level": 90,
+        "value": 1
+      },
+      {
+        "level": 95,
+        "value": 1
+      },
       {
         "level": 100,
         "value": 1
@@ -30721,6 +30889,30 @@
     "skillId": "sk-phot_recipe-cmn-002",
     "photoAbilityLevels": [
       {
+        "level": 70,
+        "value": 1
+      },
+      {
+        "level": 75,
+        "value": 1
+      },
+      {
+        "level": 80,
+        "value": 1
+      },
+      {
+        "level": 85,
+        "value": 1
+      },
+      {
+        "level": 90,
+        "value": 1
+      },
+      {
+        "level": 95,
+        "value": 1
+      },
+      {
         "level": 100,
         "value": 1
       },
@@ -30793,11 +30985,35 @@
   },
   {
     "id": "pab-passive_skill-sk-phot_recipe-cmn-003-cd-appeal",
-    "name": "コンボスコアUP",
+    "name": "コンボスコアUPスキル",
     "description": "<スコアラータイプのみ> 自身がビジュアルレーンの時 自身にコンボスコア上昇効果",
     "abilityType": 13,
     "skillId": "sk-phot_recipe-cmn-003",
     "photoAbilityLevels": [
+      {
+        "level": 70,
+        "value": 1
+      },
+      {
+        "level": 75,
+        "value": 1
+      },
+      {
+        "level": 80,
+        "value": 1
+      },
+      {
+        "level": 85,
+        "value": 1
+      },
+      {
+        "level": 90,
+        "value": 1
+      },
+      {
+        "level": 95,
+        "value": 1
+      },
       {
         "level": 100,
         "value": 1
@@ -30871,11 +31087,35 @@
   },
   {
     "id": "pab-passive_skill-sk-phot_recipe-cmn-004-cd-technique",
-    "name": "Voブースト",
+    "name": "Voブーストスキル",
     "description": "<バッファータイプのみ>\nボーカルタイプ1人にボーカルブースト効果",
     "abilityType": 13,
     "skillId": "sk-phot_recipe-cmn-004",
     "photoAbilityLevels": [
+      {
+        "level": 70,
+        "value": 1
+      },
+      {
+        "level": 75,
+        "value": 1
+      },
+      {
+        "level": 80,
+        "value": 1
+      },
+      {
+        "level": 85,
+        "value": 1
+      },
+      {
+        "level": 90,
+        "value": 1
+      },
+      {
+        "level": 95,
+        "value": 1
+      },
       {
         "level": 100,
         "value": 1
@@ -30949,11 +31189,35 @@
   },
   {
     "id": "pab-passive_skill-sk-phot_recipe-cmn-005-cd-technique",
-    "name": "Daブースト",
+    "name": "Daブーストスキル",
     "description": "<バッファータイプのみ>\nダンスタイプ1人にダンスブースト効果",
     "abilityType": 13,
     "skillId": "sk-phot_recipe-cmn-005",
     "photoAbilityLevels": [
+      {
+        "level": 70,
+        "value": 1
+      },
+      {
+        "level": 75,
+        "value": 1
+      },
+      {
+        "level": 80,
+        "value": 1
+      },
+      {
+        "level": 85,
+        "value": 1
+      },
+      {
+        "level": 90,
+        "value": 1
+      },
+      {
+        "level": 95,
+        "value": 1
+      },
       {
         "level": 100,
         "value": 1
@@ -31027,11 +31291,35 @@
   },
   {
     "id": "pab-passive_skill-sk-phot_recipe-cmn-006-cd-technique",
-    "name": "Viブースト",
+    "name": "Viブーストスキル",
     "description": "<バッファータイプのみ>\nビジュアルタイプ1人にビジュアルブースト効果",
     "abilityType": 13,
     "skillId": "sk-phot_recipe-cmn-006",
     "photoAbilityLevels": [
+      {
+        "level": 70,
+        "value": 1
+      },
+      {
+        "level": 75,
+        "value": 1
+      },
+      {
+        "level": 80,
+        "value": 1
+      },
+      {
+        "level": 85,
+        "value": 1
+      },
+      {
+        "level": 90,
+        "value": 1
+      },
+      {
+        "level": 95,
+        "value": 1
+      },
       {
         "level": 100,
         "value": 1
@@ -31105,11 +31393,35 @@
   },
   {
     "id": "pab-passive_skill-sk-phot_recipe-cmn-007-cd-support",
-    "name": "スコアUP",
+    "name": "スコアUPスキル",
     "description": "<サポータータイプのみ>\nボーカルタイプ2人にスコア上昇効果",
     "abilityType": 13,
     "skillId": "sk-phot_recipe-cmn-007",
     "photoAbilityLevels": [
+      {
+        "level": 70,
+        "value": 1
+      },
+      {
+        "level": 75,
+        "value": 1
+      },
+      {
+        "level": 80,
+        "value": 1
+      },
+      {
+        "level": 85,
+        "value": 1
+      },
+      {
+        "level": 90,
+        "value": 1
+      },
+      {
+        "level": 95,
+        "value": 1
+      },
       {
         "level": 100,
         "value": 1
@@ -31183,11 +31495,35 @@
   },
   {
     "id": "pab-passive_skill-sk-phot_recipe-cmn-008-cd-support",
-    "name": "AスコアUP",
+    "name": "AスコアUPスキル",
     "description": "<サポータータイプのみ>\nダンスタイプ3人にAスキルスコア上昇効果",
     "abilityType": 13,
     "skillId": "sk-phot_recipe-cmn-008",
     "photoAbilityLevels": [
+      {
+        "level": 70,
+        "value": 1
+      },
+      {
+        "level": 75,
+        "value": 1
+      },
+      {
+        "level": 80,
+        "value": 1
+      },
+      {
+        "level": 85,
+        "value": 1
+      },
+      {
+        "level": 90,
+        "value": 1
+      },
+      {
+        "level": 95,
+        "value": 1
+      },
       {
         "level": 100,
         "value": 1
@@ -31261,11 +31597,35 @@
   },
   {
     "id": "pab-passive_skill-sk-phot_recipe-cmn-009-cd-support",
-    "name": "ビートスコアUP",
+    "name": "ビートスコアUPスキル",
     "description": "<サポータータイプのみ>\nビジュアルタイプ5人にビートスコア上昇効果",
     "abilityType": 13,
     "skillId": "sk-phot_recipe-cmn-009",
     "photoAbilityLevels": [
+      {
+        "level": 70,
+        "value": 1
+      },
+      {
+        "level": 75,
+        "value": 1
+      },
+      {
+        "level": 80,
+        "value": 1
+      },
+      {
+        "level": 85,
+        "value": 1
+      },
+      {
+        "level": 90,
+        "value": 1
+      },
+      {
+        "level": 95,
+        "value": 1
+      },
       {
         "level": 100,
         "value": 1
@@ -31339,11 +31699,35 @@
   },
   {
     "id": "pab-passive_skill-sk-phot_recipe-cmn-010",
-    "name": "獲得-スタミナ多",
+    "name": "獲得スキル-スタミナ多",
     "description": "スコア獲得、残スタミナが多い程効果上昇",
     "abilityType": 13,
     "skillId": "sk-phot_recipe-cmn-010",
     "photoAbilityLevels": [
+      {
+        "level": 70,
+        "value": 1
+      },
+      {
+        "level": 75,
+        "value": 1
+      },
+      {
+        "level": 80,
+        "value": 1
+      },
+      {
+        "level": 85,
+        "value": 1
+      },
+      {
+        "level": 90,
+        "value": 1
+      },
+      {
+        "level": 95,
+        "value": 1
+      },
       {
         "level": 100,
         "value": 1
@@ -31417,11 +31801,35 @@
   },
   {
     "id": "pab-passive_skill-sk-phot_recipe-cmn-011",
-    "name": "獲得-コンボ",
+    "name": "獲得スキル-コンボ",
     "description": "スコア獲得、コンボ数が多い程効果上昇",
     "abilityType": 13,
     "skillId": "sk-phot_recipe-cmn-011",
     "photoAbilityLevels": [
+      {
+        "level": 70,
+        "value": 1
+      },
+      {
+        "level": 75,
+        "value": 1
+      },
+      {
+        "level": 80,
+        "value": 1
+      },
+      {
+        "level": 85,
+        "value": 1
+      },
+      {
+        "level": 90,
+        "value": 1
+      },
+      {
+        "level": 95,
+        "value": 1
+      },
       {
         "level": 100,
         "value": 1
@@ -31495,11 +31903,35 @@
   },
   {
     "id": "pab-passive_skill-sk-phot_recipe-cmn-012",
-    "name": "獲得-VoUP",
+    "name": "獲得スキル-VoUP",
     "description": "スコア獲得、ボーカル上昇状態の段階数が多い程効果上昇",
     "abilityType": 13,
     "skillId": "sk-phot_recipe-cmn-012",
     "photoAbilityLevels": [
+      {
+        "level": 70,
+        "value": 1
+      },
+      {
+        "level": 75,
+        "value": 1
+      },
+      {
+        "level": 80,
+        "value": 1
+      },
+      {
+        "level": 85,
+        "value": 1
+      },
+      {
+        "level": 90,
+        "value": 1
+      },
+      {
+        "level": 95,
+        "value": 1
+      },
       {
         "level": 100,
         "value": 1
@@ -31573,11 +32005,35 @@
   },
   {
     "id": "pab-passive_skill-sk-phot_recipe-cmn-013",
-    "name": "獲得-DaUP",
+    "name": "獲得スキル-DaUP",
     "description": "スコア獲得、ダンス上昇状態の段階数が多い程効果上昇",
     "abilityType": 13,
     "skillId": "sk-phot_recipe-cmn-013",
     "photoAbilityLevels": [
+      {
+        "level": 70,
+        "value": 1
+      },
+      {
+        "level": 75,
+        "value": 1
+      },
+      {
+        "level": 80,
+        "value": 1
+      },
+      {
+        "level": 85,
+        "value": 1
+      },
+      {
+        "level": 90,
+        "value": 1
+      },
+      {
+        "level": 95,
+        "value": 1
+      },
       {
         "level": 100,
         "value": 1
@@ -31651,11 +32107,35 @@
   },
   {
     "id": "pab-passive_skill-sk-phot_recipe-cmn-014",
-    "name": "獲得-ViUP",
+    "name": "獲得スキル-ViUP",
     "description": "スコア獲得、ビジュアル上昇状態の段階数が多い程効果上昇",
     "abilityType": 13,
     "skillId": "sk-phot_recipe-cmn-014",
     "photoAbilityLevels": [
+      {
+        "level": 70,
+        "value": 1
+      },
+      {
+        "level": 75,
+        "value": 1
+      },
+      {
+        "level": 80,
+        "value": 1
+      },
+      {
+        "level": 85,
+        "value": 1
+      },
+      {
+        "level": 90,
+        "value": 1
+      },
+      {
+        "level": 95,
+        "value": 1
+      },
       {
         "level": 100,
         "value": 1
@@ -32750,6 +33230,30 @@
     "abilityType": 27,
     "photoAbilityLevels": [
       {
+        "level": 70,
+        "value": 2
+      },
+      {
+        "level": 75,
+        "value": 2
+      },
+      {
+        "level": 80,
+        "value": 2
+      },
+      {
+        "level": 85,
+        "value": 2
+      },
+      {
+        "level": 90,
+        "value": 2
+      },
+      {
+        "level": 95,
+        "value": 2
+      },
+      {
         "level": 100,
         "value": 2
       },
@@ -32942,6 +33446,30 @@
     "abilityType": 27,
     "photoAbilityLevels": [
       {
+        "level": 70,
+        "value": 2
+      },
+      {
+        "level": 75,
+        "value": 2
+      },
+      {
+        "level": 80,
+        "value": 2
+      },
+      {
+        "level": 85,
+        "value": 2
+      },
+      {
+        "level": 90,
+        "value": 2
+      },
+      {
+        "level": 95,
+        "value": 2
+      },
+      {
         "level": 100,
         "value": 2
       },
@@ -33133,6 +33661,30 @@
     "description": "受けるボーカル上昇効果を{0}段階増強します",
     "abilityType": 27,
     "photoAbilityLevels": [
+      {
+        "level": 70,
+        "value": 2
+      },
+      {
+        "level": 75,
+        "value": 2
+      },
+      {
+        "level": 80,
+        "value": 2
+      },
+      {
+        "level": 85,
+        "value": 2
+      },
+      {
+        "level": 90,
+        "value": 2
+      },
+      {
+        "level": 95,
+        "value": 2
+      },
       {
         "level": 100,
         "value": 2

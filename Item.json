@@ -528,6 +528,17 @@
     "salePrice": 0
   },
   {
+    "id": "item-dream-generate-dream-23-1018",
+    "name": "イメトレマニュアル",
+    "assetId": "dream-generate",
+    "description": "イメージトレーニングのステージ生成に使用する",
+    "howToGet": "イメージトレーニング",
+    "type": 10001,
+    "value": 1,
+    "order": 1000,
+    "salePrice": 0
+  },
+  {
     "id": "item-exchange-2nd-anniversary-medal-23-0528",
     "name": "2周年記念メダル",
     "assetId": "medal-2nd-anniversary",
@@ -940,6 +951,17 @@
     "assetId": "fukubiki-ticket",
     "description": "10枚で福引券ガチャを1回引くことができる\n使用期限終了後はコインに変換されます",
     "howToGet": "イベント、ショップなど",
+    "type": 8,
+    "value": 1,
+    "order": 100,
+    "salePrice": 0
+  },
+  {
+    "id": "item-gacha_lottery-ticket-23-1018",
+    "name": "福引券",
+    "assetId": "lottery-ticket",
+    "description": "10枚で福引券ガチャを1回引くことができる\n使用期限終了後はコインに変換されます",
+    "howToGet": "ショップ、ガチャなど",
     "type": 8,
     "value": 1,
     "order": 100,
@@ -1947,6 +1969,17 @@
     "salePrice": 0
   },
   {
+    "id": "item-gacha_point-pick-set-bloom-23-1018",
+    "name": "福招く小利口娘ガチャPt",
+    "assetId": "gacha-point",
+    "description": "該当するガチャページの「ガチャPt」から\nガチャPtを消費してアイドルを獲得できる",
+    "type": 9,
+    "value": 1,
+    "order": 140,
+    "howToGet": "",
+    "salePrice": 0
+  },
+  {
     "id": "item-gacha_point-pickup-21-0712",
     "name": "光射す海宴ガチャPt",
     "assetId": "gacha-point",
@@ -2521,6 +2554,17 @@
   {
     "id": "item-gacha_point-select-01-23-0817",
     "name": "選べる★5ダンスガチャPt",
+    "assetId": "gacha-point",
+    "description": "該当するガチャページの「ガチャPt」から\nガチャPtを消費してアイドルを獲得できる",
+    "type": 9,
+    "value": 1,
+    "order": 140,
+    "howToGet": "",
+    "salePrice": 0
+  },
+  {
+    "id": "item-gacha_point-select-01-23-1019",
+    "name": "選べる★5ボーカルガチャPt",
     "assetId": "gacha-point",
     "description": "該当するガチャページの「ガチャPt」から\nガチャPtを消費してアイドルを獲得できる",
     "type": 9,
@@ -3633,7 +3677,7 @@
     "id": "item-photo_ink-basic-03",
     "name": "虹のレタッチインク",
     "assetId": "ink-a-03",
-    "description": "フォトレタッチとレタッチフォトの品質アップに使用する",
+    "description": "フォトレタッチとレタッチフォトの品質アップや虹のレタッチインク交換所のアイテム交換に使用する",
     "howToGet": "プロモーションなど",
     "type": 15,
     "value": 1,

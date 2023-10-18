@@ -1422,6 +1422,50 @@
     ]
   },
   {
+    "homeTalkId": "home-talk-card-kan-05-chna-00-talk-01",
+    "characterId": "char-kan",
+    "placeType": 1,
+    "conditionId": "cd-st-read-st-card-kan-05-chna-00-03",
+    "firstPriority": 9900,
+    "weight": 1,
+    "callPatternId": "call-pattern-card-kan-05-chna-00",
+    "choiceText": "いつでも営業は全力で\nやってるんですが…",
+    "managerText": "いつでも営業は全力で\nやってるんですが…",
+    "reliability": 5,
+    "characterTalks": [
+      {
+        "text": "もうドッキリとか、ドッキリを観た\n監督のオファーとか、\n絶対イヤだっつってんの！",
+        "voiceAssetId": "sud_vo_home_kan-05-chna-00_talk-01-01",
+        "motionAssetId": "mot_adv_chr_cmn_angry-002_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "kanaにぴったりの、可愛い服を\n着られるファッションショーとか\nそういう仕事はないの！？",
+        "voiceAssetId": "sud_vo_home_kan-05-chna-00_talk-01-02",
+        "motionAssetId": "mot_adv_chr_cmn_ask-010_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "……なになに。ファッション関係の\n依頼はあるけど、franの指名が\n多い？",
+        "voiceAssetId": "sud_vo_home_kan-05-chna-00_talk-01-03",
+        "motionAssetId": "mot_adv_chr_cmn_talk-006_in",
+        "additionMotionAssetId": "mot_all_chr_cmn_facial-032_in"
+      },
+      {
+        "text": "何それ、kanaだってずっと\nモデルやってんのに、酷くない！？",
+        "voiceAssetId": "sud_vo_home_kan-05-chna-00_talk-01-04",
+        "motionAssetId": "mot_adv_chr_cmn_angry-003_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "は～…。山田さんは漫画の実写化\n出たがってたのに、なんで逆の依頼\nしか来ないんだろ…",
+        "voiceAssetId": "sud_vo_home_kan-05-chna-00_talk-01-05",
+        "motionAssetId": "mot_adv_chr_cmn_sad-003_in",
+        "additionMotionAssetId": ""
+      }
+    ]
+  },
+  {
     "homeTalkId": "home-talk-card-kan-05-idol-00-talk-01",
     "characterId": "char-kan",
     "placeType": 1,
