@@ -46714,12 +46714,12 @@
     "id": "cd-marathon-raid-play",
     "settings": [
       {
-        "satisfyCondition": {
-          "conditionId": "cd-clear-area-main-004"
-        },
         "managerLevel": {
           "levelGte": 20,
           "levelLte": 0
+        },
+        "clearArea": {
+          "areaId": "area-main-004"
         }
       }
     ]
@@ -93509,12 +93509,12 @@
     "id": "cd-time-exchange-league_medal-23-1101-1130",
     "settings": [
       {
-        "satisfyCondition": {
-          "conditionId": "cd-time-exchange-league-open"
-        },
         "term": {
           "nowAfter": "1698764400000",
           "nowBefore": "1701356399000"
+        },
+        "clearArea": {
+          "areaId": "area-main-015"
         }
       }
     ]
