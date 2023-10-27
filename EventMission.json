@@ -695,6 +695,25 @@
     "unlockConditionId": ""
   },
   {
+    "id": "event-marathon-raid-23-1027",
+    "eventMissionType": 1,
+    "assetId": "img_banner_l_event-marathon-raid-23-1027",
+    "name": "イベントミッション",
+    "order": 99,
+    "viewConditionId": "cd-date-marathon-raid-23-1027",
+    "missionIds": [
+      "event-ms-normal-23-1027-mission_open_story-02",
+      "event-ms-normal-23-1027-mission_open_story-03",
+      "event-ms-normal-23-1027-mission_open_story-04",
+      "event-ms-normal-23-1027-mission_open_story-05",
+      "ms-daily-event-marathon-raid-23-1027-marathon_raid_host_count",
+      "ms-event-marathon-raid-23-1027-marathon_quest_clear_count",
+      "ms-event-marathon-raid-23-1027-marathon_quest_clear_difficulty-ep4",
+      "ms-normal-event-marathon-raid-23-1027-marathon_raid_clear_count"
+    ],
+    "unlockConditionId": ""
+  },
+  {
     "id": "event-mini-backside-23-0214",
     "eventMissionType": 1,
     "assetId": "img_banner_l_event-mini-backside-23-0214",
@@ -1097,6 +1116,27 @@
       "event-ms-am-23-0902-01-mission_clear_count",
       "event-ms-am-23-0902-02-mission_clear_count",
       "event-ms-am-23-0902-03-mission_clear_count"
+    ],
+    "unlockConditionId": ""
+  },
+  {
+    "id": "event_am-mission-23-1102",
+    "eventMissionType": 2,
+    "assetId": "img_banner_l_event-am-mission-23-1102",
+    "name": "オータムミッション第2弾",
+    "order": 1,
+    "viewConditionId": "cd-time-event-ms-am-23-1102-1109",
+    "missionIds": [
+      "event-ms-am-23-1102-00-card_skill_level_up_count",
+      "event-ms-am-23-1102-00-login_count",
+      "event-ms-am-23-1102-00-market_exchange_count",
+      "event-ms-am-23-1102-00-photo_reroll_count",
+      "event-ms-am-23-1102-00-quest_contest_clear_count",
+      "event-ms-am-23-1102-00-quest_daily_clear_count",
+      "event-ms-am-23-1102-00-quest_pvp_play_count",
+      "event-ms-am-23-1102-01-mission_clear_count",
+      "event-ms-am-23-1102-02-mission_clear_count",
+      "event-ms-am-23-1102-03-mission_clear_count"
     ],
     "unlockConditionId": ""
   },

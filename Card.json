@@ -7954,6 +7954,67 @@
     "rewardHairId": ""
   },
   {
+    "id": "card-rui-05-idol-04",
+    "assetId": "rui-05-idol-04",
+    "name": "湯けむり上る決意の朝",
+    "description": "地面を確認して安心を覚えるのは、もうやめます\nこれからは、遙かな高い空だけを見上げていく",
+    "type": 2,
+    "characterId": "char-rui",
+    "initialRarity": 5,
+    "cardParameterId": "card-param-01",
+    "vocalRatioPermil": 316,
+    "danceRatioPermil": 281,
+    "visualRatioPermil": 403,
+    "staminaRatioPermil": 1000,
+    "cardLevelReleaseId": "card_level_release_1",
+    "skillId1": "sk-rui-05-idol-04-1",
+    "skillId2": "sk-rui-05-idol-04-2",
+    "skillId3": "sk-rui-05-idol-04-3",
+    "liveAbilityId": "lba-visual_multiply",
+    "order": 321,
+    "releaseDate": "1698375600000",
+    "rewardCostumeId": "cos-rui-idol-04",
+    "imageType1": 3,
+    "displayPositionX1": -0.039,
+    "displayPositionY1": 0.116,
+    "displayScale1": 1.4,
+    "highlightDisplayPositionX1": 0.835,
+    "highlightDisplayPositionY1": 0.133,
+    "highlightDisplayScale1": 0.7,
+    "imageType2": 3,
+    "displayPositionX2": -0.039,
+    "displayPositionY2": 0.116,
+    "displayScale2": 1.4,
+    "highlightDisplayPositionX2": 0.835,
+    "highlightDisplayPositionY2": 0.133,
+    "highlightDisplayScale2": 0.7,
+    "obtainMessage": "時間が違うだけで、景色も音も、\n空気の香りすらも違うんだ",
+    "stories": [
+      {
+        "storyId": "st-card-rui-05-idol-04-01"
+      },
+      {
+        "storyId": "st-card-rui-05-idol-04-02"
+      },
+      {
+        "storyId": "st-card-rui-05-idol-04-03"
+      }
+    ],
+    "messages": [
+      {
+        "messageId": "message-card-rui-05-idol-04",
+        "telephoneId": ""
+      },
+      {
+        "telephoneId": "tel-card-rui-05-idol-04",
+        "messageId": ""
+      }
+    ],
+    "activityAbilityId": "",
+    "rewardHairId": "",
+    "homeTalks": []
+  },
+  {
     "id": "card-rui-05-miku-00",
     "assetId": "rui-05-miku-00",
     "name": "歌に乗せて届ける想い",
@@ -9533,6 +9594,48 @@
     "rewardCostumeId": "",
     "displayPositionX1": 0.0,
     "highlightDisplayPositionX1": 0.0,
+    "obtainMessage": "",
+    "rewardHairId": "",
+    "stories": [],
+    "messages": [],
+    "homeTalks": []
+  },
+  {
+    "id": "card-smr-02-eve-02",
+    "assetId": "smr-02-eve-02",
+    "name": "ほっと一息故郷の湯",
+    "description": "……大人になって、お酒が飲める歳になっても\r\nこの三人でずっとトリエルを続けていたいね",
+    "type": 1,
+    "characterId": "char-smr",
+    "initialRarity": 2,
+    "cardParameterId": "card-param-01",
+    "vocalRatioPermil": 319,
+    "danceRatioPermil": 280,
+    "visualRatioPermil": 431,
+    "staminaRatioPermil": 900,
+    "cardLevelReleaseId": "card_level_release_1",
+    "skillId1": "sk-smr-02-eve-02-1",
+    "skillId2": "sk-smr-02-eve-02-2",
+    "skillId3": "sk-smr-02-eve-02-3",
+    "order": 323,
+    "releaseDate": "1698375600000",
+    "imageType1": 1,
+    "displayPositionX1": 0.002,
+    "displayPositionY1": 0.199,
+    "displayScale1": 1.0,
+    "highlightDisplayPositionX1": -0.033,
+    "highlightDisplayPositionY1": 0.249,
+    "highlightDisplayScale1": 1.0,
+    "imageType2": 2,
+    "displayPositionX2": 0.158,
+    "displayScale2": 1.0,
+    "highlightDisplayPositionX2": -0.256,
+    "highlightDisplayPositionY2": 0.272,
+    "highlightDisplayScale2": 1.3,
+    "liveAbilityId": "",
+    "activityAbilityId": "",
+    "rewardCostumeId": "",
+    "displayPositionY2": 0.0,
     "obtainMessage": "",
     "rewardHairId": "",
     "stories": [],
@@ -11615,6 +11718,67 @@
     ],
     "liveAbilityId": "",
     "rewardHairId": ""
+  },
+  {
+    "id": "card-yu-05-idol-04",
+    "assetId": "yu-05-idol-04",
+    "name": "鴨川ロマンス",
+    "description": "ふふ……。うちの入浴シーン、どうですか？\r\n大人っぽいうちの魅力にドキドキしてくれてますか？",
+    "type": 3,
+    "characterId": "char-yu",
+    "initialRarity": 5,
+    "cardParameterId": "card-param-01",
+    "vocalRatioPermil": 416,
+    "danceRatioPermil": 314,
+    "visualRatioPermil": 270,
+    "staminaRatioPermil": 1000,
+    "cardLevelReleaseId": "card_level_release_1",
+    "skillId1": "sk-yu-05-idol-04-1",
+    "skillId2": "sk-yu-05-idol-04-2",
+    "skillId3": "sk-yu-05-idol-04-3",
+    "activityAbilityId": "aab-promotion_gold_up",
+    "order": 322,
+    "releaseDate": "1698375600000",
+    "rewardCostumeId": "cos-yu-idol-04",
+    "imageType1": 3,
+    "displayPositionX1": 0.1,
+    "displayPositionY1": 0.045,
+    "displayScale1": 1.1,
+    "highlightDisplayPositionX1": -0.157,
+    "highlightDisplayPositionY1": 0.062,
+    "highlightDisplayScale1": 0.6,
+    "imageType2": 3,
+    "displayPositionX2": 0.1,
+    "displayPositionY2": 0.045,
+    "displayScale2": 1.1,
+    "highlightDisplayPositionX2": -0.157,
+    "highlightDisplayPositionY2": 0.062,
+    "highlightDisplayScale2": 0.6,
+    "obtainMessage": "お湯の一滴まで、\n綺麗に撮って下さいね",
+    "stories": [
+      {
+        "storyId": "st-card-yu-05-idol-04-01"
+      },
+      {
+        "storyId": "st-card-yu-05-idol-04-02"
+      },
+      {
+        "storyId": "st-card-yu-05-idol-04-03"
+      }
+    ],
+    "messages": [
+      {
+        "messageId": "message-card-yu-05-idol-04",
+        "telephoneId": ""
+      },
+      {
+        "telephoneId": "tel-card-yu-05-idol-04",
+        "messageId": ""
+      }
+    ],
+    "liveAbilityId": "",
+    "rewardHairId": "",
+    "homeTalks": []
   },
   {
     "id": "card-yu-05-mizg-01",

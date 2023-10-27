@@ -4396,6 +4396,56 @@
     ]
   },
   {
+    "homeTalkId": "home-talk-card-rui-05-idol-04-talk-01",
+    "characterId": "char-rui",
+    "placeType": 1,
+    "conditionId": "cd-st-read-st-card-rui-05-idol-04-03",
+    "firstPriority": 9900,
+    "weight": 1,
+    "callPatternId": "call-pattern-card-rui-05-idol-04",
+    "choiceText": "温泉は奥が深いよな",
+    "managerText": "温泉は奥が深いよな",
+    "reliability": 5,
+    "characterTalks": [
+      {
+        "text": "はい。成分や効能、\n温泉地としての歴史や\n温泉そのものの景観…",
+        "voiceAssetId": "sud_vo_home_rui-05-idol-04_talk-01-01",
+        "motionAssetId": "mot_adv_chr_cmn_talk-021_in",
+        "additionMotionAssetId": "mot_all_chr_cmn_facial-001_in"
+      },
+      {
+        "text": "果ては秘湯の存在…\nそういうのには少し\nロマンを感じますね。",
+        "voiceAssetId": "sud_vo_home_rui-05-idol-04_talk-01-02",
+        "motionAssetId": "mot_adv_chr_cmn_pos-010_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "今回は、優やすみれと\n三人での宿泊でしたけど…",
+        "voiceAssetId": "sud_vo_home_rui-05-idol-04_talk-01-03",
+        "motionAssetId": "mot_adv_chr_cmn_talk-022_in",
+        "additionMotionAssetId": "mot_all_chr_cmn_facial-001_in"
+      },
+      {
+        "text": "次は星見プロのみんなと\n温泉宿にお邪魔してみたいですね。\n強化合宿も兼ねて。",
+        "voiceAssetId": "sud_vo_home_rui-05-idol-04_talk-01-04",
+        "motionAssetId": "mot_adv_chr_cmn_glad-009_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "…あ、もちろんオフでもいいな、\nとは思ってますけど…",
+        "voiceAssetId": "sud_vo_home_rui-05-idol-04_talk-01-05",
+        "motionAssetId": "mot_adv_chr_cmn_talk-012_in",
+        "additionMotionAssetId": "mot_all_chr_cmn_facial-034_in"
+      },
+      {
+        "text": "その時はぜひ\n{user}さんも\n一緒に…いかがですか？",
+        "voiceAssetId": "sud_vo_home_rui-05-idol-04_talk-01-06",
+        "motionAssetId": "mot_adv_chr_cmn_pos-020_in",
+        "additionMotionAssetId": ""
+      }
+    ]
+  },
+  {
     "homeTalkId": "home-talk-card-rui-05-miku-00-talk-01",
     "characterId": "char-rui",
     "placeType": 1,
@@ -6297,6 +6347,56 @@
         "text": "さっさと買いに行って、\n2人で感想語り合いましょ！",
         "voiceAssetId": "sud_vo_home_yu-05-idol-00_talk-01-5",
         "motionAssetId": "mot_adv_chr_cmn_pos-006_in",
+        "additionMotionAssetId": ""
+      }
+    ]
+  },
+  {
+    "homeTalkId": "home-talk-card-yu-05-idol-04-talk-01",
+    "characterId": "char-yu",
+    "placeType": 1,
+    "conditionId": "cd-st-read-st-card-yu-05-idol-04-03",
+    "firstPriority": 9900,
+    "weight": 1,
+    "callPatternId": "call-pattern-card-yu-05-idol-04",
+    "choiceText": "いろんなことが\n出来ないといけないから\nアイドルは大変だよな",
+    "managerText": "いろんなことが\n出来ないといけないから\nアイドルは大変だよな",
+    "reliability": 5,
+    "characterTalks": [
+      {
+        "text": "確かに大変やけど…\nそれ以上に、いろんなことに\n挑戦出来るのが今は楽しいわぁ。",
+        "voiceAssetId": "sud_vo_home_yu-05-idol-04_talk-01-01",
+        "motionAssetId": "mot_adv_chr_cmn_pos-008_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "星見プロに移籍してから\n特にそう思うように\nなったんやけど…",
+        "voiceAssetId": "sud_vo_home_yu-05-idol-04_talk-01-02",
+        "motionAssetId": "mot_adv_chr_cmn_talk-001_in",
+        "additionMotionAssetId": "mot_all_chr_cmn_facial-034_in"
+      },
+      {
+        "text": "新しいことに挑戦するのは\n凄くワクワク出来る\n楽しいことなんよね。",
+        "voiceAssetId": "sud_vo_home_yu-05-idol-04_talk-01-03",
+        "motionAssetId": "mot_adv_chr_cmn_pos-006_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "アイドルは挑戦の連続です。\n沢山挑戦するほど成長して\n自分の可能性を広げていける…",
+        "voiceAssetId": "sud_vo_home_yu-05-idol-04_talk-01-04",
+        "motionAssetId": "mot_adv_chr_cmn_pos-010_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "今はいろいろなことに挑戦して\n楽しみたい。それが出来るんも\nアイドルだからこそです。",
+        "voiceAssetId": "sud_vo_home_yu-05-idol-04_talk-01-05",
+        "motionAssetId": "mot_adv_chr_cmn_glad-003_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "だから新しい仕事をどんどん取って\n来て下さい。うちの挑戦は\nまだまだ続くで～！",
+        "voiceAssetId": "sud_vo_home_yu-05-idol-04_talk-01-06",
+        "motionAssetId": "mot_adv_chr_cmn_glad-006_in",
         "additionMotionAssetId": ""
       }
     ]
