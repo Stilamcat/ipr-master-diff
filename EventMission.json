@@ -1124,7 +1124,7 @@
     "eventMissionType": 2,
     "assetId": "img_banner_l_event-am-mission-23-1102",
     "name": "オータムミッション第2弾",
-    "order": 1,
+    "order": 2,
     "viewConditionId": "cd-time-event-ms-am-23-1102-1109",
     "missionIds": [
       "event-ms-am-23-1102-00-card_skill_level_up_count",
@@ -1932,6 +1932,25 @@
       "event-ms-pvp-23-0831-quest_pvp_play_count-30",
       "event-ms-pvp-23-0831-quest_pvp_play_count-35",
       "event-ms-pvp-23-0831-quest_pvp_play_count-40"
+    ],
+    "unlockConditionId": ""
+  },
+  {
+    "id": "event_pvp-mission-23-1109",
+    "eventMissionType": 2,
+    "assetId": "img_banner_l_sp-pvp",
+    "name": "スペシャルVENUSバトル特別ミッション",
+    "order": 1,
+    "viewConditionId": "cd-time-pvp-23-1109-1111_l-banner",
+    "missionIds": [
+      "event-ms-pvp-23-1109-quest_pvp_play_count-03",
+      "event-ms-pvp-23-1109-quest_pvp_play_count-06",
+      "event-ms-pvp-23-1109-quest_pvp_play_count-09",
+      "event-ms-pvp-23-1109-quest_pvp_play_count-12",
+      "event-ms-pvp-23-1109-quest_pvp_play_count-15",
+      "event-ms-pvp-23-1109-quest_pvp_play_count-18",
+      "event-ms-pvp-23-1109-quest_pvp_play_count-21",
+      "event-ms-pvp-23-1109-quest_pvp_play_count-24"
     ],
     "unlockConditionId": ""
   },

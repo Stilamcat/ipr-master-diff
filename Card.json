@@ -9914,6 +9914,67 @@
     "rewardHairId": ""
   },
   {
+    "id": "card-smr-05-idol-04",
+    "assetId": "smr-05-idol-04",
+    "name": "飛び立つための羽休め",
+    "description": "こっちは貸し切り状態ですよ～\r\nすっごく贅沢な気分です！",
+    "type": 3,
+    "characterId": "char-smr",
+    "initialRarity": 5,
+    "cardParameterId": "card-param-01",
+    "vocalRatioPermil": 270,
+    "danceRatioPermil": 416,
+    "visualRatioPermil": 314,
+    "staminaRatioPermil": 1000,
+    "cardLevelReleaseId": "card_level_release_1",
+    "skillId1": "sk-smr-05-idol-04-1",
+    "skillId2": "sk-smr-05-idol-04-2",
+    "skillId3": "sk-smr-05-idol-04-3",
+    "liveAbilityId": "lba-mental_add",
+    "order": 324,
+    "releaseDate": "1699326000000",
+    "rewardCostumeId": "cos-smr-idol-04",
+    "imageType1": 3,
+    "displayPositionX1": -0.147,
+    "displayPositionY1": 0.115,
+    "displayScale1": 1.4,
+    "highlightDisplayPositionX1": 0.117,
+    "highlightDisplayPositionY1": 0.249,
+    "highlightDisplayScale1": 1.1,
+    "imageType2": 3,
+    "displayPositionX2": -0.147,
+    "displayPositionY2": 0.115,
+    "displayScale2": 1.4,
+    "highlightDisplayPositionX2": 0.117,
+    "highlightDisplayPositionY2": 0.249,
+    "highlightDisplayScale2": 1.1,
+    "obtainMessage": "こっちは貸し切り状態ですよ～。\nすっごく贅沢な気分です！",
+    "stories": [
+      {
+        "storyId": "st-card-smr-05-idol-04-01"
+      },
+      {
+        "storyId": "st-card-smr-05-idol-04-02"
+      },
+      {
+        "storyId": "st-card-smr-05-idol-04-03"
+      }
+    ],
+    "messages": [
+      {
+        "messageId": "message-card-smr-05-idol-04",
+        "telephoneId": ""
+      },
+      {
+        "telephoneId": "tel-card-smr-05-idol-04",
+        "messageId": ""
+      }
+    ],
+    "activityAbilityId": "",
+    "rewardHairId": "",
+    "homeTalks": []
+  },
+  {
     "id": "card-smr-05-mizg-01",
     "assetId": "smr-05-mizg-01",
     "name": "常夏ウォーターパーク",

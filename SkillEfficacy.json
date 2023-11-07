@@ -9000,6 +9000,46 @@
     "maxGrade": 0
   },
   {
+    "id": "ef-cover_weakness_effect-target-self-10",
+    "name": "自身にカバー効果",
+    "type": 75,
+    "description": "自身にカバー効果[10ビート]",
+    "skillTargetId": "target-self",
+    "shortDescription": "",
+    "grade": 0,
+    "maxGrade": 0
+  },
+  {
+    "id": "ef-cover_weakness_effect-target-self-11",
+    "name": "自身にカバー効果",
+    "type": 75,
+    "description": "自身にカバー効果[11ビート]",
+    "skillTargetId": "target-self",
+    "shortDescription": "",
+    "grade": 0,
+    "maxGrade": 0
+  },
+  {
+    "id": "ef-cover_weakness_effect-target-self-12",
+    "name": "自身にカバー効果",
+    "type": 75,
+    "description": "自身にカバー効果[12ビート]",
+    "skillTargetId": "target-self",
+    "shortDescription": "",
+    "grade": 0,
+    "maxGrade": 0
+  },
+  {
+    "id": "ef-cover_weakness_effect-target-self-13",
+    "name": "自身にカバー効果",
+    "type": 75,
+    "description": "自身にカバー効果[13ビート]",
+    "skillTargetId": "target-self",
+    "shortDescription": "",
+    "grade": 0,
+    "maxGrade": 0
+  },
+  {
     "id": "ef-cover_weakness_effect-target-self-16",
     "name": "自身にカバー効果",
     "type": 75,
@@ -9114,6 +9154,26 @@
     "name": "自身にカバー効果",
     "type": 75,
     "description": "自身にカバー効果[40ビート]",
+    "skillTargetId": "target-self",
+    "shortDescription": "",
+    "grade": 0,
+    "maxGrade": 0
+  },
+  {
+    "id": "ef-cover_weakness_effect-target-self-8",
+    "name": "自身にカバー効果",
+    "type": 75,
+    "description": "自身にカバー効果[8ビート]",
+    "skillTargetId": "target-self",
+    "shortDescription": "",
+    "grade": 0,
+    "maxGrade": 0
+  },
+  {
+    "id": "ef-cover_weakness_effect-target-self-9",
+    "name": "自身にカバー効果",
+    "type": 75,
+    "description": "自身にカバー効果[9ビート]",
     "skillTargetId": "target-self",
     "shortDescription": "",
     "grade": 0,
@@ -28050,6 +28110,16 @@
     "skillTargetId": ""
   },
   {
+    "id": "ef-score_get_by_skill_success_rate_up-3500-chart_dependence",
+    "name": "スコア獲得-スキル成功率が高い程効果上昇",
+    "type": 54,
+    "description": "350%のスコア獲得、スキル成功率が高い程効果上昇",
+    "shortDescription": "",
+    "grade": 0,
+    "maxGrade": 0,
+    "skillTargetId": ""
+  },
+  {
     "id": "ef-score_get_by_skill_success_rate_up-3600-chart_dependence",
     "name": "スコア獲得-スキル成功率が高い程効果上昇",
     "type": 54,
@@ -28060,10 +28130,30 @@
     "skillTargetId": ""
   },
   {
+    "id": "ef-score_get_by_skill_success_rate_up-3700-chart_dependence",
+    "name": "スコア獲得-スキル成功率が高い程効果上昇",
+    "type": 54,
+    "description": "370%のスコア獲得、スキル成功率が高い程効果上昇",
+    "shortDescription": "",
+    "grade": 0,
+    "maxGrade": 0,
+    "skillTargetId": ""
+  },
+  {
     "id": "ef-score_get_by_skill_success_rate_up-3800-chart_dependence",
     "name": "スコア獲得-スキル成功率が高い程効果上昇",
     "type": 54,
     "description": "380%のスコア獲得、スキル成功率が高い程効果上昇",
+    "shortDescription": "",
+    "grade": 0,
+    "maxGrade": 0,
+    "skillTargetId": ""
+  },
+  {
+    "id": "ef-score_get_by_skill_success_rate_up-3900-chart_dependence",
+    "name": "スコア獲得-スキル成功率が高い程効果上昇",
+    "type": 54,
+    "description": "390%のスコア獲得、スキル成功率が高い程効果上昇",
     "shortDescription": "",
     "grade": 0,
     "maxGrade": 0,
@@ -30730,10 +30820,30 @@
     "shortDescription": ""
   },
   {
+    "id": "ef-score_up-10-target-character_type-1-2-24",
+    "name": "スコアラータイプ2人にスコア上昇効果",
+    "type": 16,
+    "description": "スコアラータイプ2人に10段階スコア上昇効果[24ビート]",
+    "grade": 10,
+    "maxGrade": 20,
+    "skillTargetId": "target-character_type-1-2",
+    "shortDescription": ""
+  },
+  {
     "id": "ef-score_up-10-target-character_type-1-2-27",
     "name": "スコアラータイプ2人にスコア上昇効果",
     "type": 16,
     "description": "スコアラータイプ2人に10段階スコア上昇効果[27ビート]",
+    "grade": 10,
+    "maxGrade": 20,
+    "skillTargetId": "target-character_type-1-2",
+    "shortDescription": ""
+  },
+  {
+    "id": "ef-score_up-10-target-character_type-1-2-30",
+    "name": "スコアラータイプ2人にスコア上昇効果",
+    "type": 16,
+    "description": "スコアラータイプ2人に10段階スコア上昇効果[30ビート]",
     "grade": 10,
     "maxGrade": 20,
     "skillTargetId": "target-character_type-1-2",
@@ -31280,10 +31390,30 @@
     "shortDescription": ""
   },
   {
+    "id": "ef-score_up-11-target-character_type-1-2-30",
+    "name": "スコアラータイプ2人にスコア上昇効果",
+    "type": 16,
+    "description": "スコアラータイプ2人に11段階スコア上昇効果[30ビート]",
+    "grade": 11,
+    "maxGrade": 20,
+    "skillTargetId": "target-character_type-1-2",
+    "shortDescription": ""
+  },
+  {
     "id": "ef-score_up-11-target-character_type-1-2-32",
     "name": "スコアラータイプ2人にスコア上昇効果",
     "type": 16,
     "description": "スコアラータイプ2人に11段階スコア上昇効果[32ビート]",
+    "grade": 11,
+    "maxGrade": 20,
+    "skillTargetId": "target-character_type-1-2",
+    "shortDescription": ""
+  },
+  {
+    "id": "ef-score_up-11-target-character_type-1-2-36",
+    "name": "スコアラータイプ2人にスコア上昇効果",
+    "type": 16,
+    "description": "スコアラータイプ2人に11段階スコア上昇効果[36ビート]",
     "grade": 11,
     "maxGrade": 20,
     "skillTargetId": "target-character_type-1-2",
@@ -31477,6 +31607,16 @@
     "grade": 12,
     "maxGrade": 20,
     "skillTargetId": "target-character_type-1-1",
+    "shortDescription": ""
+  },
+  {
+    "id": "ef-score_up-12-target-character_type-1-2-36",
+    "name": "スコアラータイプ2人にスコア上昇効果",
+    "type": 16,
+    "description": "スコアラータイプ2人に12段階スコア上昇効果[36ビート]",
+    "grade": 12,
+    "maxGrade": 20,
+    "skillTargetId": "target-character_type-1-2",
     "shortDescription": ""
   },
   {
@@ -37230,6 +37370,16 @@
     "shortDescription": ""
   },
   {
+    "id": "ef-skill_success_rate_up-2-target-self-21",
+    "name": "自身にスキル成功率上昇効果",
+    "type": 37,
+    "description": "自身に2段階スキル成功率上昇効果[21ビート]",
+    "grade": 2,
+    "maxGrade": 10,
+    "skillTargetId": "target-self",
+    "shortDescription": ""
+  },
+  {
     "id": "ef-skill_success_rate_up-2-target-self-22",
     "name": "自身にスキル成功率上昇効果",
     "type": 37,
@@ -37690,6 +37840,16 @@
     "shortDescription": ""
   },
   {
+    "id": "ef-skill_success_rate_up-3-target-self-27",
+    "name": "自身にスキル成功率上昇効果",
+    "type": 37,
+    "description": "自身に3段階スキル成功率上昇効果[27ビート]",
+    "grade": 3,
+    "maxGrade": 10,
+    "skillTargetId": "target-self",
+    "shortDescription": ""
+  },
+  {
     "id": "ef-skill_success_rate_up-3-target-self-28",
     "name": "自身にスキル成功率上昇効果",
     "type": 37,
@@ -37977,6 +38137,26 @@
     "grade": 4,
     "maxGrade": 10,
     "skillTargetId": "target-center",
+    "shortDescription": ""
+  },
+  {
+    "id": "ef-skill_success_rate_up-4-target-character_type-1-2-18",
+    "name": "スコアラータイプ2人にスキル成功率上昇効果",
+    "type": 37,
+    "description": "スコアラータイプ2人に4段階スキル成功率上昇効果[18ビート]",
+    "grade": 4,
+    "maxGrade": 10,
+    "skillTargetId": "target-character_type-1-2",
+    "shortDescription": ""
+  },
+  {
+    "id": "ef-skill_success_rate_up-4-target-character_type-1-2-23",
+    "name": "スコアラータイプ2人にスキル成功率上昇効果",
+    "type": 37,
+    "description": "スコアラータイプ2人に4段階スキル成功率上昇効果[23ビート]",
+    "grade": 4,
+    "maxGrade": 10,
+    "skillTargetId": "target-character_type-1-2",
     "shortDescription": ""
   },
   {
@@ -38470,6 +38650,26 @@
     "shortDescription": ""
   },
   {
+    "id": "ef-skill_success_rate_up-5-target-character_type-1-2-23",
+    "name": "スコアラータイプ2人にスキル成功率上昇効果",
+    "type": 37,
+    "description": "スコアラータイプ2人に5段階スキル成功率上昇効果[23ビート]",
+    "grade": 5,
+    "maxGrade": 10,
+    "skillTargetId": "target-character_type-1-2",
+    "shortDescription": ""
+  },
+  {
+    "id": "ef-skill_success_rate_up-5-target-character_type-1-2-28",
+    "name": "スコアラータイプ2人にスキル成功率上昇効果",
+    "type": 37,
+    "description": "スコアラータイプ2人に5段階スキル成功率上昇効果[28ビート]",
+    "grade": 5,
+    "maxGrade": 10,
+    "skillTargetId": "target-character_type-1-2",
+    "shortDescription": ""
+  },
+  {
     "id": "ef-skill_success_rate_up-5-target-character_type-1-2-29",
     "name": "スコアラータイプ2人にスキル成功率上昇効果",
     "type": 37,
@@ -38860,6 +39060,16 @@
     "shortDescription": ""
   },
   {
+    "id": "ef-skill_success_rate_up-6-target-character_type-1-2-28",
+    "name": "スコアラータイプ2人にスキル成功率上昇効果",
+    "type": 37,
+    "description": "スコアラータイプ2人に6段階スキル成功率上昇効果[28ビート]",
+    "grade": 6,
+    "maxGrade": 10,
+    "skillTargetId": "target-character_type-1-2",
+    "shortDescription": ""
+  },
+  {
     "id": "ef-skill_success_rate_up-6-target-character_type-1-2-29",
     "name": "スコアラータイプ2人にスキル成功率上昇効果",
     "type": 37,
@@ -38874,6 +39084,16 @@
     "name": "スコアラータイプ2人にスキル成功率上昇効果",
     "type": 37,
     "description": "スコアラータイプ2人に6段階スキル成功率上昇効果[32ビート]",
+    "grade": 6,
+    "maxGrade": 10,
+    "skillTargetId": "target-character_type-1-2",
+    "shortDescription": ""
+  },
+  {
+    "id": "ef-skill_success_rate_up-6-target-character_type-1-2-34",
+    "name": "スコアラータイプ2人にスキル成功率上昇効果",
+    "type": 37,
+    "description": "スコアラータイプ2人に6段階スキル成功率上昇効果[34ビート]",
     "grade": 6,
     "maxGrade": 10,
     "skillTargetId": "target-character_type-1-2",
@@ -42445,6 +42665,16 @@
     "type": 72,
     "description": "[ライブバトルのみ]同じレーンの相手のボーカル上昇をボーカル低下に状態変化",
     "skillTargetId": "target-opponent_same_position",
+    "shortDescription": "",
+    "grade": 0,
+    "maxGrade": 0
+  },
+  {
+    "id": "ef-status_effect_change-target-self-dance_down-skill_success_rate_up",
+    "name": "自身のダンス低下をスキル成功率上昇に状態変化",
+    "type": 72,
+    "description": "自身のダンス低下をスキル成功率上昇に状態変化",
+    "skillTargetId": "target-self",
     "shortDescription": "",
     "grade": 0,
     "maxGrade": 0

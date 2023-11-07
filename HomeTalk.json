@@ -5424,6 +5424,56 @@
     ]
   },
   {
+    "homeTalkId": "home-talk-card-smr-05-idol-04-talk-01",
+    "characterId": "char-smr",
+    "placeType": 1,
+    "conditionId": "cd-st-read-st-card-smr-05-idol-04-03",
+    "firstPriority": 9900,
+    "weight": 1,
+    "callPatternId": "call-pattern-card-smr-05-idol-04",
+    "choiceText": "何を悩んでるんだ？",
+    "managerText": "何を悩んでるんだ？",
+    "reliability": 5,
+    "characterTalks": [
+      {
+        "text": "お疲れ様です！\nえっと、ちょっと…\n個人的なことなんですけど…",
+        "voiceAssetId": "sud_vo_home_smr-05-idol-04_talk-01-01",
+        "motionAssetId": "mot_adv_chr_cmn_talk-012_in",
+        "additionMotionAssetId": "mot_all_chr_cmn_facial-034_in"
+      },
+      {
+        "text": "今度三人で、\nもつ鍋を食べに行こうと\n計画していて…",
+        "voiceAssetId": "sud_vo_home_smr-05-idol-04_talk-01-02",
+        "motionAssetId": "mot_adv_chr_cmn_pos-008_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "でも、味噌か醤油か決まらなくて。\n瑠依ちゃんは味噌、\n優ちゃんは醤油で割れてるんです。",
+        "voiceAssetId": "sud_vo_home_smr-05-idol-04_talk-01-03",
+        "motionAssetId": "mot_adv_chr_cmn_talk-007_in",
+        "additionMotionAssetId": "mot_all_chr_cmn_facial-034_in"
+      },
+      {
+        "text": "私ですか？　正直、どっちも\n捨てがたいです…！",
+        "voiceAssetId": "sud_vo_home_smr-05-idol-04_talk-01-04",
+        "motionAssetId": "mot_adv_chr_cmn_emot-004_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "…うん、やっぱり二人に甘えて\n二回行きたいなって。\n相談してみます！",
+        "voiceAssetId": "sud_vo_home_smr-05-idol-04_talk-01-05",
+        "motionAssetId": "mot_adv_chr_cmn_glad-003_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "同じお店に二回なんて\nこれもまた新しい挑戦！\nなんて…えへへ",
+        "voiceAssetId": "sud_vo_home_smr-05-idol-04_talk-01-06",
+        "motionAssetId": "mot_adv_chr_cmn_glad-001_in",
+        "additionMotionAssetId": ""
+      }
+    ]
+  },
+  {
     "homeTalkId": "home-talk-card-smr-05-mizg-01-talk-01",
     "characterId": "char-smr",
     "placeType": 1,
