@@ -7828,6 +7828,58 @@
     "homeTalks": []
   },
   {
+    "id": "card-rui-05-birt-00",
+    "assetId": "rui-05-birt-00",
+    "name": "満喫放課後バースデー",
+    "description": "全部が新鮮でびっくりしたわ。今もまだドキドキしてる\nみんなこんなに楽しい誕生日を過ごすのね",
+    "type": 3,
+    "characterId": "char-rui",
+    "initialRarity": 5,
+    "cardParameterId": "card-param-01",
+    "vocalRatioPermil": 310,
+    "danceRatioPermil": 274,
+    "visualRatioPermil": 416,
+    "staminaRatioPermil": 1000,
+    "cardLevelReleaseId": "card_level_release_1",
+    "skillId1": "sk-rui-05-birt-00-1",
+    "skillId2": "sk-rui-05-birt-00-2",
+    "skillId3": "sk-rui-05-birt-00-3",
+    "liveAbilityId": "lba-active_skill_score_multiply",
+    "order": 325,
+    "releaseDate": "1699628400000",
+    "imageType1": 3,
+    "displayPositionX1": 0.094,
+    "displayPositionY1": 0.143,
+    "displayScale1": 1.4,
+    "highlightDisplayPositionX1": -0.229,
+    "highlightDisplayPositionY1": 0.291,
+    "highlightDisplayScale1": 0.8,
+    "imageType2": 3,
+    "displayPositionX2": 0.094,
+    "displayPositionY2": 0.143,
+    "displayScale2": 1.4,
+    "highlightDisplayPositionX2": -0.229,
+    "highlightDisplayPositionY2": 0.291,
+    "highlightDisplayScale2": 0.8,
+    "obtainMessage": "普通の高校生は、こんなに\n楽しい誕生日を過ごすのね",
+    "rewardHairId": "hair-rui-hair-10",
+    "stories": [
+      {
+        "storyId": "st-card-rui-05-birt-00-01"
+      },
+      {
+        "storyId": "st-card-rui-05-birt-00-02"
+      },
+      {
+        "storyId": "st-card-rui-05-birt-00-03"
+      }
+    ],
+    "activityAbilityId": "",
+    "rewardCostumeId": "",
+    "messages": [],
+    "homeTalks": []
+  },
+  {
     "id": "card-rui-05-date-00",
     "assetId": "rui-05-date-00",
     "name": "緑風誘うデートスポット",

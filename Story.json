@@ -96,6 +96,38 @@
     "additionalDisplayCharacterIds": []
   },
   {
+    "id": "st-birthday-branch-rui-23-1111",
+    "name": "天動瑠依 誕生日2023",
+    "advPlayTypes": [
+      6
+    ],
+    "branchFirstText": "今日は瑠依の誕生日だな\n何をプレゼントしよう？",
+    "branchCautionText": "後で再度選択可能です",
+    "branchBgmAssetId": "sud_bgm_cmn_home-01",
+    "branchChoices": [
+      {
+        "index": 1,
+        "text": "ダンスシューズ",
+        "advAssetId": "hbd_03_rui_01"
+      },
+      {
+        "index": 2,
+        "text": "オリジナルグミ",
+        "advAssetId": "hbd_03_rui_02"
+      },
+      {
+        "index": 3,
+        "text": "優が好きな漫画",
+        "advAssetId": "hbd_03_rui_03"
+      }
+    ],
+    "sectionName": "",
+    "description": "",
+    "rewardId": "",
+    "advAssetIds": [],
+    "additionalDisplayCharacterIds": []
+  },
+  {
     "id": "st-birthday-branch-ski-23-0926",
     "name": "白石沙季 誕生日2023",
     "advPlayTypes": [
@@ -5258,6 +5290,60 @@
     ],
     "advAssetIds": [
       "card_rio_07_03"
+    ],
+    "sectionName": "",
+    "description": "",
+    "additionalDisplayCharacterIds": [],
+    "branchFirstText": "",
+    "branchCautionText": "",
+    "branchBgmAssetId": "",
+    "branchChoices": []
+  },
+  {
+    "id": "st-card-rui-05-birt-00-01",
+    "name": "瑠依の疑問",
+    "rewardId": "rd_auto;stone;;30",
+    "advPlayTypes": [
+      1
+    ],
+    "advAssetIds": [
+      "card_rui_51_01"
+    ],
+    "sectionName": "",
+    "description": "",
+    "additionalDisplayCharacterIds": [],
+    "branchFirstText": "",
+    "branchCautionText": "",
+    "branchBgmAssetId": "",
+    "branchChoices": []
+  },
+  {
+    "id": "st-card-rui-05-birt-00-02",
+    "name": "制服＋渋谷＋誕生日＝？",
+    "rewardId": "rd_auto;stone;;30",
+    "advPlayTypes": [
+      1
+    ],
+    "advAssetIds": [
+      "card_rui_51_02"
+    ],
+    "sectionName": "",
+    "description": "",
+    "additionalDisplayCharacterIds": [],
+    "branchFirstText": "",
+    "branchCautionText": "",
+    "branchBgmAssetId": "",
+    "branchChoices": []
+  },
+  {
+    "id": "st-card-rui-05-birt-00-03",
+    "name": "誕生日のシメには",
+    "rewardId": "rd_auto;stone;;30",
+    "advPlayTypes": [
+      1
+    ],
+    "advAssetIds": [
+      "card_rui_51_03"
     ],
     "sectionName": "",
     "description": "",

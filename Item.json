@@ -539,6 +539,17 @@
     "salePrice": 0
   },
   {
+    "id": "item-dream-generate-dream-23-1110",
+    "name": "イメトレマニュアル",
+    "assetId": "dream-generate",
+    "description": "イメージトレーニングのステージ生成に使用する",
+    "howToGet": "イメージトレーニング",
+    "type": 10001,
+    "value": 1,
+    "order": 1000,
+    "salePrice": 0
+  },
+  {
     "id": "item-exchange-2nd-anniversary-medal-23-0528",
     "name": "2周年記念メダル",
     "assetId": "medal-2nd-anniversary",
@@ -1047,6 +1058,17 @@
   {
     "id": "item-gacha_point-birthday-23-1015",
     "name": "雫誕生日ガチャPt",
+    "assetId": "gacha-point",
+    "description": "該当するガチャページの「ガチャPt」から\nガチャPtを消費してアイドルを獲得できる",
+    "type": 9,
+    "value": 1,
+    "order": 140,
+    "howToGet": "",
+    "salePrice": 0
+  },
+  {
+    "id": "item-gacha_point-birthday-23-1111",
+    "name": "瑠依誕生日ガチャPt",
     "assetId": "gacha-point",
     "description": "該当するガチャページの「ガチャPt」から\nガチャPtを消費してアイドルを獲得できる",
     "type": 9,
@@ -2609,6 +2631,17 @@
   {
     "id": "item-gacha_point-select-01-23-1019",
     "name": "選べる★5ボーカルガチャPt",
+    "assetId": "gacha-point",
+    "description": "該当するガチャページの「ガチャPt」から\nガチャPtを消費してアイドルを獲得できる",
+    "type": 9,
+    "value": 1,
+    "order": 140,
+    "howToGet": "",
+    "salePrice": 0
+  },
+  {
+    "id": "item-gacha_point-select-01-23-1110",
+    "name": "選べる★5ダンスガチャPt",
     "assetId": "gacha-point",
     "description": "該当するガチャページの「ガチャPt」から\nガチャPtを消費してアイドルを獲得できる",
     "type": 9,

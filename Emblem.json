@@ -4698,6 +4698,15 @@
     "isViewableInInactive": false
   },
   {
+    "id": "emb-birthday_rui-03",
+    "name": "【誕生日】天動瑠依",
+    "assetId": "birthday_rui-03",
+    "autoProvideConditionId": "cd-birthday_emblem_rui-23-1111",
+    "order": 603110,
+    "description": "瑠依の誕生日を迎える",
+    "isViewableInInactive": false
+  },
+  {
     "id": "emb-birthday_ski-03",
     "name": "【誕生日】白石沙季",
     "assetId": "birthday_ski-03",
@@ -4955,6 +4964,24 @@
     "assetId": "gvg-season-028-top010",
     "order": 402820,
     "description": "ユニオンライブシーズン28 で10位以内獲得",
+    "autoProvideConditionId": "",
+    "isViewableInInactive": false
+  },
+  {
+    "id": "emb-gvg-season-029-top001",
+    "name": "ユニオンシーズン29 No.1",
+    "assetId": "gvg-season-029-top001",
+    "order": 402910,
+    "description": "ユニオンライブシーズン29 で1位獲得",
+    "autoProvideConditionId": "",
+    "isViewableInInactive": false
+  },
+  {
+    "id": "emb-gvg-season-029-top010",
+    "name": "ユニオンシーズン29 TOP10",
+    "assetId": "gvg-season-029-top010",
+    "order": 402920,
+    "description": "ユニオンライブシーズン29 で10位以内獲得",
     "autoProvideConditionId": "",
     "isViewableInInactive": false
   },
