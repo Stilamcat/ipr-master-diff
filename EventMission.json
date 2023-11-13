@@ -537,6 +537,63 @@
     ]
   },
   {
+    "id": "event-love-23-1114-limited",
+    "eventMissionType": 1,
+    "assetId": "img_banner_l_event-mission-21-0624",
+    "name": "もし恋初回限定課題",
+    "order": 1,
+    "viewConditionId": "cd-date-event-mission-love-23-1114-limited",
+    "unlockConditionId": "cd-date-event-mission-love-23-1114-limited",
+    "missionIds": [
+      "event-love-23-1114-limited-mission_love-end_emb-sp",
+      "event-love-23-1114-normal-mission_char-fanevent_daily",
+      "event-love-23-1114-normal-mission_char-live_daily",
+      "event-love-23-1114-normal-mission_char-photo-shooting_daily",
+      "event-love-23-1114-normal-mission_login_count_daily"
+    ]
+  },
+  {
+    "id": "event-love-23-1114-normal",
+    "eventMissionType": 1,
+    "assetId": "img_banner_l_event-mission-21-0712",
+    "name": "もし恋課題",
+    "order": 2,
+    "viewConditionId": "cd-date-event-mission-love-23-1114-normal",
+    "unlockConditionId": "cd-date-event-mission-love-23-1114-normal",
+    "missionIds": [
+      "event-love-23-1114-normal-mission_char-fanevent_count",
+      "event-love-23-1114-normal-mission_char-live_count",
+      "event-love-23-1114-normal-mission_char-photo-shooting_count",
+      "event-love-23-1114-normal-mission_lesson-boost_count",
+      "event-love-23-1114-normal-mission_login_count",
+      "event-love-23-1114-normal-mission_love-end_count",
+      "event-love-23-1114-normal-mission_love-end_emb",
+      "event-love-23-1114-normal-mission_love-level_count",
+      "event-love-23-1114-normal-mission_present_count",
+      "event-love-23-1114-normal-mission_story_count-01",
+      "event-love-23-1114-normal-mission_story_count-02",
+      "event-love-23-1114-normal-mission_story_count-03",
+      "event-love-23-1114-normal-mission_story_count-04",
+      "event-love-23-1114-normal-mission_story_count-05",
+      "event-love-23-1114-normal-mission_story_count-06",
+      "event-love-23-1114-normal-mission_story_count-07",
+      "event-love-23-1114-normal-mission_story_count-08",
+      "event-love-23-1114-normal-mission_story_first-play"
+    ]
+  },
+  {
+    "id": "event-love-23-1114-normal-card",
+    "eventMissionType": 1,
+    "assetId": "img_banner_l_event-mission-21-0624",
+    "name": "もし恋課題",
+    "order": 1,
+    "viewConditionId": "cd-date-event-mission-love-23-1114-normal",
+    "unlockConditionId": "cd-date-event-mission-love-23-1114-normal-card",
+    "missionIds": [
+      "event-love-23-1114-limited-mission_love-end_costume-sp"
+    ]
+  },
+  {
     "id": "event-marathon-21-0930",
     "eventMissionType": 1,
     "assetId": "img_banner_l_event-marathon-21-0930",
@@ -1955,7 +2012,7 @@
     "eventMissionType": 2,
     "assetId": "img_banner_l_sp-pvp",
     "name": "スペシャルVENUSバトル特別ミッション",
-    "order": 2,
+    "order": 3,
     "viewConditionId": "cd-time-pvp-23-1109-1111_l-banner",
     "missionIds": [
       "event-ms-pvp-23-1109-quest_pvp_play_count-03",

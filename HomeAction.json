@@ -10260,6 +10260,54 @@
     "actionType": 0
   },
   {
+    "homeActionId": "home-action-ngs-05-casl-02-01",
+    "characterId": "char-ngs",
+    "motionAssetId": "mot_adv_chr_cmn_emb-002_in",
+    "voiceAssetId": "sud_vo_home_ngs-05-casl-02_01",
+    "text": "お泊まりデートのセリフ\nつい書き過ぎちゃいました\n筆がのるってこういうことですね。",
+    "conditionId": "cd-wear-costume-cos-ngs-casl-02",
+    "weight": 100,
+    "additionMotionAssetId": "",
+    "positionType": 0,
+    "actionType": 0
+  },
+  {
+    "homeActionId": "home-action-ngs-05-casl-02-cos-01",
+    "characterId": "char-ngs",
+    "motionAssetId": "mot_adv_chr_cmn_glad-010_in",
+    "voiceAssetId": "sud_vo_home_ngs-05-casl-02_cos-01",
+    "text": "幼なじみと結婚って、実際は\nなかなかないんでしょうけど…\nとっても素敵ですよね。",
+    "conditionId": "cd-wear-costume-cos-ngs-casl-02",
+    "weight": 100,
+    "additionMotionAssetId": "",
+    "positionType": 0,
+    "actionType": 0
+  },
+  {
+    "homeActionId": "home-action-ngs-05-casl-02-cos-02",
+    "characterId": "char-ngs",
+    "motionAssetId": "mot_adv_chr_cmn_glad-011_in",
+    "voiceAssetId": "sud_vo_home_ngs-05-casl-02_cos-02",
+    "text": "同じお仕事をしたからか\n怜ちゃんと今まで以上に\n仲間意識が強くなりました。",
+    "conditionId": "cd-wear-costume-cos-ngs-casl-02",
+    "weight": 100,
+    "additionMotionAssetId": "",
+    "positionType": 0,
+    "actionType": 0
+  },
+  {
+    "homeActionId": "home-action-ngs-05-casl-02-cos-03",
+    "characterId": "char-ngs",
+    "motionAssetId": "mot_adv_chr_cmn_talk-006_in",
+    "additionMotionAssetId": "mot_all_chr_cmn_facial-034_in",
+    "voiceAssetId": "sud_vo_home_ngs-05-casl-02_cos-03",
+    "text": "寮で莉央さんが私のゲームを真剣な\n顔でプレイしてました…どういう\n気持ちでプレイしてたんでしょう？",
+    "conditionId": "cd-wear-costume-cos-ngs-casl-02",
+    "weight": 100,
+    "positionType": 0,
+    "actionType": 0
+  },
+  {
     "homeActionId": "home-action-ngs-05-flow-00-01",
     "characterId": "char-ngs",
     "motionAssetId": "mot_adv_chr_cmn_glad-002_in",
@@ -10963,6 +11011,42 @@
     "text": "みんなで食べるお菓子を\nいっぱい作りたいですね",
     "conditionId": "cd-day_halloween",
     "weight": 1000,
+    "additionMotionAssetId": "",
+    "positionType": 0,
+    "actionType": 0
+  },
+  {
+    "homeActionId": "home-action-ngs-love-01-true-01",
+    "characterId": "char-ngs",
+    "motionAssetId": "mot_adv_chr_cmn_emot-004_in",
+    "voiceAssetId": "sud_vo_home_ngs_love-01-home-01",
+    "text": "もし恋の私、思った以上にぐいぐい\n行っててびっくりしちゃいました！\n現実の私も、見習わなきゃですね。",
+    "conditionId": "cd-event-love-23-1114_love-end_true",
+    "weight": 100,
+    "additionMotionAssetId": "",
+    "positionType": 0,
+    "actionType": 0
+  },
+  {
+    "homeActionId": "home-action-ngs-love-01-true-02",
+    "characterId": "char-ngs",
+    "motionAssetId": "mot_adv_chr_cmn_glad-002_in",
+    "voiceAssetId": "sud_vo_home_ngs_love-01-home-02",
+    "text": "毎朝{user}さんのこと\n起こしに行きましょうか？\nふふ、冗談です。",
+    "conditionId": "cd-event-love-23-1114_love-end_true",
+    "weight": 100,
+    "additionMotionAssetId": "",
+    "positionType": 0,
+    "actionType": 0
+  },
+  {
+    "homeActionId": "home-action-ngs-love-01-true-03",
+    "characterId": "char-ngs",
+    "motionAssetId": "mot_adv_chr_cmn_pos-015_in",
+    "voiceAssetId": "sud_vo_home_ngs_love-01-home-03",
+    "text": "私も小説を書きたくなりました。\n題材は、アイドルとマネージャーの\n禁断の恋、とか！　きゃーっ！",
+    "conditionId": "cd-event-love-23-1114_love-end_true",
+    "weight": 100,
     "additionMotionAssetId": "",
     "positionType": 0,
     "actionType": 0

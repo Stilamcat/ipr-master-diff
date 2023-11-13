@@ -3300,6 +3300,56 @@
     ]
   },
   {
+    "homeTalkId": "home-talk-card-ngs-05-casl-02-talk-01",
+    "characterId": "char-ngs",
+    "placeType": 1,
+    "conditionId": "cd-st-read-st-card-ngs-05-casl-02-03",
+    "firstPriority": 9900,
+    "weight": 1,
+    "callPatternId": "call-pattern-card-ngs-05-casl-02",
+    "choiceText": "それはまたどうして？",
+    "managerText": "それはまたどうして？",
+    "reliability": 5,
+    "characterTalks": [
+      {
+        "text": "今回のゲームで、主人公の\n妹役として登場して\nもらったじゃないですか。",
+        "voiceAssetId": "sud_vo_home_ngs-05-casl-02_talk-01-01",
+        "motionAssetId": "mot_adv_chr_cmn_pos-008_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "妹として健気に頑張る\nすみれちゃんが可愛過ぎて…\nみんなメロメロなんです！",
+        "voiceAssetId": "sud_vo_home_ngs-05-casl-02_talk-01-02",
+        "motionAssetId": "mot_adv_chr_cmn_pos-015_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "千紗ちゃんは「参考になるなぁ」\nなんて言いながらすみれちゃんの\nセリフをメモしてて…",
+        "voiceAssetId": "sud_vo_home_ngs-05-casl-02_talk-01-03",
+        "motionAssetId": "mot_adv_chr_cmn_talk-006_in",
+        "additionMotionAssetId": "mot_all_chr_cmn_facial-001_in"
+      },
+      {
+        "text": "優ちゃんなんて、すみれちゃんが\n登場する場面だけをスクショして\nアルバムにまとめてるんですよ。",
+        "voiceAssetId": "sud_vo_home_ngs-05-casl-02_talk-01-04",
+        "motionAssetId": "mot_adv_chr_cmn_emot-001_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "この反響はすみれちゃんも予想外\nだったみたいで、照れてるのが\nとっても可愛かったです。",
+        "voiceAssetId": "sud_vo_home_ngs-05-casl-02_talk-01-05",
+        "motionAssetId": "mot_adv_chr_cmn_glad-001_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "それだけすみれちゃんが魅力的\nだったってことですよね。妹役を\nお願いして大正解でした！",
+        "voiceAssetId": "sud_vo_home_ngs-05-casl-02_talk-01-06",
+        "motionAssetId": "mot_adv_chr_cmn_pos-009_in",
+        "additionMotionAssetId": ""
+      }
+    ]
+  },
+  {
     "homeTalkId": "home-talk-card-ngs-05-flow-00-talk-01",
     "characterId": "char-ngs",
     "placeType": 1,

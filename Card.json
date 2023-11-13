@@ -5883,6 +5883,67 @@
     "homeTalks": []
   },
   {
+    "id": "card-ngs-05-casl-02",
+    "assetId": "ngs-05-casl-02",
+    "name": "もしも幼なじみと恋をしたら",
+    "description": "このシーンは主人公の照れ方も\r\n可愛くて好きなんですよね、えへへ",
+    "type": 2,
+    "characterId": "char-ngs",
+    "initialRarity": 5,
+    "cardParameterId": "card-param-01",
+    "vocalRatioPermil": 319,
+    "danceRatioPermil": 276,
+    "visualRatioPermil": 405,
+    "staminaRatioPermil": 1000,
+    "cardLevelReleaseId": "card_level_release_1",
+    "skillId1": "sk-ngs-05-casl-02-1",
+    "skillId2": "sk-ngs-05-casl-02-2",
+    "skillId3": "sk-ngs-05-casl-02-3",
+    "liveAbilityId": "lba-visual_multiply",
+    "order": 326,
+    "releaseDate": "1699930800000",
+    "rewardCostumeId": "cos-ngs-casl-02",
+    "imageType1": 3,
+    "displayPositionX1": 0.155,
+    "displayScale1": 1.0,
+    "highlightDisplayPositionX1": -0.209,
+    "highlightDisplayPositionY1": 0.238,
+    "highlightDisplayScale1": 0.6,
+    "imageType2": 3,
+    "displayPositionX2": 0.155,
+    "displayScale2": 1.0,
+    "highlightDisplayPositionX2": -0.209,
+    "highlightDisplayPositionY2": 0.238,
+    "highlightDisplayScale2": 0.6,
+    "obtainMessage": "ゲームの中とはいえ、\nこんな雰囲気になっちゃうなんて",
+    "stories": [
+      {
+        "storyId": "st-card-ngs-05-casl-02-01"
+      },
+      {
+        "storyId": "st-card-ngs-05-casl-02-02"
+      },
+      {
+        "storyId": "st-card-ngs-05-casl-02-03"
+      }
+    ],
+    "messages": [
+      {
+        "messageId": "message-card-ngs-05-casl-02",
+        "telephoneId": ""
+      },
+      {
+        "telephoneId": "tel-card-ngs-05-casl-02",
+        "messageId": ""
+      }
+    ],
+    "activityAbilityId": "",
+    "displayPositionY1": 0.0,
+    "displayPositionY2": 0.0,
+    "rewardHairId": "",
+    "homeTalks": []
+  },
+  {
     "id": "card-ngs-05-flow-00",
     "assetId": "ngs-05-flow-00",
     "name": "この瞬間の主役",
