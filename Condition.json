@@ -105664,6 +105664,31 @@
     ]
   },
   {
+    "id": "cd-time-gacha-rev-select-01-23-1116",
+    "settings": [
+      {
+        "term": {
+          "nowAfter": "1700103600000",
+          "nowBefore": "1700621999000"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-time-gacha-rev-select-01-23-1116-banner",
+    "settings": [
+      {
+        "satisfyCondition": {
+          "conditionId": "cd-time-gacha-fixed-selection-23-1116-banner-end"
+        },
+        "term": {
+          "nowAfter": "1700103600000",
+          "nowBefore": "1700621999000"
+        }
+      }
+    ]
+  },
+  {
     "id": "cd-time-gacha-select-01-21-1206",
     "settings": [
       {
