@@ -29973,6 +29973,33 @@
     ]
   },
   {
+    "id": "cd-function_lock-roulette",
+    "settings": [
+      {
+        "satisfyCondition": {
+          "conditionId": "cd-clear-area-main-004"
+        },
+        "term": {
+          "nowAfter": "1700449200000",
+          "nowBefore": "0"
+        },
+        "itemAmount": {
+          "itemId": "item-roulette-dev",
+          "amountGte": "1"
+        }
+      },
+      {
+        "satisfyCondition": {
+          "conditionId": "cd-clear-area-main-004"
+        },
+        "term": {
+          "nowAfter": "1700838000000",
+          "nowBefore": "0"
+        }
+      }
+    ]
+  },
+  {
     "id": "cd-function_lock-story-point-display",
     "settings": [
       {
