@@ -14408,6 +14408,28 @@
     ]
   },
   {
+    "id": "cd-dokan_broadcast-23-1123-01",
+    "settings": [
+      {
+        "term": {
+          "nowAfter": "1700733900000",
+          "nowBefore": "1700819999000"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-dokan_broadcast-23-1123-02",
+    "settings": [
+      {
+        "term": {
+          "nowAfter": "1700820000000",
+          "nowBefore": "1700827200000"
+        }
+      }
+    ]
+  },
+  {
     "id": "cd-dream-23-0912-play",
     "settings": [
       {
@@ -99497,6 +99519,43 @@
     ]
   },
   {
+    "id": "cd-time-gacha-fixed-selection-23-1123",
+    "settings": [
+      {
+        "term": {
+          "nowAfter": "1700708400000",
+          "nowBefore": "1701053999000"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-time-gacha-fixed-selection-23-1123-banner",
+    "settings": [
+      {
+        "notSatisfyCondition": {
+          "conditionId": "cd-time-gacha-fixed-selection-23-1123-banner-end"
+        },
+        "term": {
+          "nowAfter": "1700708400000",
+          "nowBefore": "1701053999000"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-time-gacha-fixed-selection-23-1123-banner-end",
+    "settings": [
+      {
+        "drawGacha": {
+          "gachaButtonIds": [
+            "btn-10-gacha-fixed-selection-23-1123-total"
+          ]
+        }
+      }
+    ]
+  },
+  {
     "id": "cd-time-gacha-free-21-1130",
     "settings": [
       {
@@ -104843,12 +104902,56 @@
     ]
   },
   {
+    "id": "cd-time-gacha-premium-23-1124",
+    "settings": [
+      {
+        "term": {
+          "nowAfter": "1700794800000",
+          "nowBefore": "1702090799000"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-time-gacha-premium-23-1124-01",
+    "settings": [
+      {
+        "term": {
+          "nowAfter": "1700794800000",
+          "nowBefore": "1701097199000"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-time-gacha-premium-23-1124-02",
+    "settings": [
+      {
+        "term": {
+          "nowAfter": "1701788399000",
+          "nowBefore": "1702090799000"
+        }
+      }
+    ]
+  },
+  {
     "id": "cd-time-gacha-premium-shop-23-1024",
     "settings": [
       {
         "term": {
           "nowAfter": "1698116400000",
           "nowBefore": "1700794799000"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-time-gacha-premium-shop-23-1124",
+    "settings": [
+      {
+        "term": {
+          "nowAfter": "1700794800000",
+          "nowBefore": "1703386740000"
         }
       }
     ]
