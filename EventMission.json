@@ -1277,6 +1277,21 @@
     "unlockConditionId": ""
   },
   {
+    "id": "event_comeback-mission-23-1125",
+    "eventMissionType": 2,
+    "assetId": "img_banner_l_event-comeback-mission",
+    "name": "カムバックミッション",
+    "order": 80,
+    "viewConditionId": "cd_shop_comeback-shop-limited-23-1125-mission-view",
+    "missionIds": [
+      "event-ms-comeback-23-1125-login_count",
+      "event-ms-comeback-23-1125-mission_clear_count",
+      "event-ms-comeback-23-1125-quest_all_clear_count",
+      "event-ms-comeback-23-1125-quest_all_clear_count-goal"
+    ],
+    "unlockConditionId": ""
+  },
+  {
     "id": "event_fes-mission-22-0929",
     "eventMissionType": 2,
     "assetId": "img_banner_l_event-fes-mission-22-0929",
@@ -2044,6 +2059,20 @@
       "event-ms-sm-23-0731-01-mission_clear_count",
       "event-ms-sm-23-0731-02-mission_clear_count",
       "event-ms-sm-23-0731-03-mission_clear_count"
+    ],
+    "unlockConditionId": ""
+  },
+  {
+    "id": "event_sp-beginner-mission-23-1125",
+    "eventMissionType": 2,
+    "assetId": "img_banner_l_event-sp-beginner-mission",
+    "name": "期間限定！スペシャルビギナーミッション",
+    "order": 1,
+    "viewConditionId": "cd-time-event-ms-sp-beginner-23-1125-1220",
+    "missionIds": [
+      "event-ms-sp-beginner-23-1125-00-clear-area-main-005",
+      "event-ms-sp-beginner-23-1125-00-clear-area-main-010",
+      "event-ms-sp-beginner-23-1125-00-clear-area-main-015"
     ],
     "unlockConditionId": ""
   },

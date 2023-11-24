@@ -5046,6 +5046,166 @@
     "linkDetail": ""
   },
   {
+    "id": "event-ms-comeback-23-1125-login_count",
+    "categoryType": 3,
+    "missionType": 1,
+    "name": "明日もログイン",
+    "shortDescription": "明日もログイン",
+    "longDescription": "明日もログインしましょう。",
+    "order": 1,
+    "progresses": [
+      {
+        "threshold": "1",
+        "rewardSetId": "rd-event-ms-comeback-23-1125-login_count-1"
+      },
+      {
+        "threshold": "2",
+        "rewardSetId": "rd-event-ms-comeback-23-1125-login_count-2"
+      },
+      {
+        "threshold": "3",
+        "rewardSetId": "rd-event-ms-comeback-23-1125-login_count-3"
+      },
+      {
+        "threshold": "4",
+        "rewardSetId": "rd-event-ms-comeback-23-1125-login_count-4"
+      }
+    ],
+    "eventMissionId": "event_comeback-mission-23-1125",
+    "targetIds": [],
+    "viewConditionId": "",
+    "linkType": 0,
+    "linkDetail": ""
+  },
+  {
+    "id": "event-ms-comeback-23-1125-mission_clear_count",
+    "categoryType": 3,
+    "missionType": 3,
+    "targetIds": [
+      "ms-daily-phase-003_card_level_up_count-1",
+      "ms-daily-phase-003_card_level_up_count-20",
+      "ms-daily-phase-003_card_level_up_count-40",
+      "ms-daily-phase-003_card_level_up_count-50",
+      "ms-daily-phase-003_card_level_up_count-60",
+      "ms-daily-phase-003_card_level_up_count-70",
+      "ms-daily-phase-003_card_level_up_count-80",
+      "ms-daily-phase-003_card_level_up_count-90",
+      "ms-daily-phase-003_card_level_up_count-100",
+      "ms-daily-phase-003_card_level_up_count-110",
+      "ms-daily-phase-003_card_level_up_count-120",
+      "ms-daily-phase-003_card_level_up_count-130",
+      "ms-daily-phase-003_card_level_up_count-140",
+      "ms-daily-phase-003_card_level_up_count-150",
+      "ms-daily-phase-003_card_level_up_count-160"
+    ],
+    "name": "デイリーミッション「アイドルのLvUp1回」を{threshold}回クリア",
+    "shortDescription": "デイリーミッション「アイドルのLvUp1回」を{threshold}回クリア",
+    "longDescription": "デイリーミッション「アイドルのLvUp1回」を\n{threshold}回クリアしましょう。",
+    "order": 2,
+    "progresses": [
+      {
+        "threshold": "1",
+        "rewardSetId": "rd-event-ms-comeback-23-1125-mission_clear_count-1"
+      },
+      {
+        "threshold": "2",
+        "rewardSetId": "rd-event-ms-comeback-23-1125-mission_clear_count-2"
+      },
+      {
+        "threshold": "3",
+        "rewardSetId": "rd-event-ms-comeback-23-1125-mission_clear_count-3"
+      },
+      {
+        "threshold": "4",
+        "rewardSetId": "rd-event-ms-comeback-23-1125-mission_clear_count-4"
+      },
+      {
+        "threshold": "5",
+        "rewardSetId": "rd-event-ms-comeback-23-1125-mission_clear_count-5"
+      }
+    ],
+    "eventMissionId": "event_comeback-mission-23-1125",
+    "viewConditionId": "",
+    "linkType": 0,
+    "linkDetail": ""
+  },
+  {
+    "id": "event-ms-comeback-23-1125-quest_all_clear_count",
+    "categoryType": 3,
+    "missionType": 11,
+    "name": "ライブを{threshold}回クリア",
+    "shortDescription": "ライブを{threshold}回クリア",
+    "longDescription": "ライブを{threshold}回クリアしましょう。",
+    "order": 3,
+    "linkType": 2,
+    "progresses": [
+      {
+        "threshold": "5",
+        "rewardSetId": "rd-event-ms-comeback-23-1125-quest_all_clear_count-5"
+      },
+      {
+        "threshold": "10",
+        "rewardSetId": "rd-event-ms-comeback-23-1125-quest_all_clear_count-10"
+      },
+      {
+        "threshold": "20",
+        "rewardSetId": "rd-event-ms-comeback-23-1125-quest_all_clear_count-20"
+      },
+      {
+        "threshold": "30",
+        "rewardSetId": "rd-event-ms-comeback-23-1125-quest_all_clear_count-30"
+      },
+      {
+        "threshold": "40",
+        "rewardSetId": "rd-event-ms-comeback-23-1125-quest_all_clear_count-40"
+      },
+      {
+        "threshold": "50",
+        "rewardSetId": "rd-event-ms-comeback-23-1125-quest_all_clear_count-50"
+      },
+      {
+        "threshold": "60",
+        "rewardSetId": "rd-event-ms-comeback-23-1125-quest_all_clear_count-60"
+      },
+      {
+        "threshold": "70",
+        "rewardSetId": "rd-event-ms-comeback-23-1125-quest_all_clear_count-70"
+      },
+      {
+        "threshold": "80",
+        "rewardSetId": "rd-event-ms-comeback-23-1125-quest_all_clear_count-80"
+      },
+      {
+        "threshold": "90",
+        "rewardSetId": "rd-event-ms-comeback-23-1125-quest_all_clear_count-90"
+      }
+    ],
+    "eventMissionId": "event_comeback-mission-23-1125",
+    "targetIds": [],
+    "viewConditionId": "",
+    "linkDetail": ""
+  },
+  {
+    "id": "event-ms-comeback-23-1125-quest_all_clear_count-goal",
+    "categoryType": 3,
+    "missionType": 11,
+    "name": "ライブを{threshold}回クリア",
+    "shortDescription": "ライブを{threshold}回クリア",
+    "longDescription": "ライブを{threshold}回クリアしましょう。",
+    "order": 4,
+    "linkType": 2,
+    "progresses": [
+      {
+        "threshold": "100",
+        "rewardSetId": "rd-event-ms-comeback-23-1125-quest_all_clear_count-goal-100"
+      }
+    ],
+    "eventMissionId": "event_comeback-mission-23-1125",
+    "targetIds": [],
+    "viewConditionId": "",
+    "linkDetail": ""
+  },
+  {
     "id": "event-ms-fes-22-0929-00-00-accessory_enhance_count",
     "categoryType": 3,
     "missionType": 28,
@@ -20928,6 +21088,72 @@
     "linkDetail": ""
   },
   {
+    "id": "event-ms-sp-beginner-23-1125-00-clear-area-main-005",
+    "categoryType": 3,
+    "missionType": 4,
+    "targetIds": [
+      "cd-clear-area-main-005"
+    ],
+    "name": "メインライブ:#5をクリア",
+    "shortDescription": "メインライブ:#5をクリア",
+    "longDescription": "メインライブ:#5をクリアしましょう。",
+    "order": 1,
+    "linkType": 3,
+    "progresses": [
+      {
+        "threshold": "1",
+        "rewardSetId": "rd-event-ms-sp-beginner-23-1125-00-clear-area-main-005-5"
+      }
+    ],
+    "eventMissionId": "event_sp-beginner-mission-23-1125",
+    "viewConditionId": "",
+    "linkDetail": ""
+  },
+  {
+    "id": "event-ms-sp-beginner-23-1125-00-clear-area-main-010",
+    "categoryType": 3,
+    "missionType": 4,
+    "targetIds": [
+      "cd-clear-area-main-010"
+    ],
+    "name": "メインライブ:#10をクリア",
+    "shortDescription": "メインライブ:#10をクリア",
+    "longDescription": "メインライブ:#10をクリアしましょう。",
+    "order": 2,
+    "linkType": 3,
+    "progresses": [
+      {
+        "threshold": "1",
+        "rewardSetId": "rd-event-ms-sp-beginner-23-1125-00-clear-area-main-010-10"
+      }
+    ],
+    "eventMissionId": "event_sp-beginner-mission-23-1125",
+    "viewConditionId": "",
+    "linkDetail": ""
+  },
+  {
+    "id": "event-ms-sp-beginner-23-1125-00-clear-area-main-015",
+    "categoryType": 3,
+    "missionType": 4,
+    "targetIds": [
+      "cd-clear-area-main-015"
+    ],
+    "name": "メインライブ:#15をクリア",
+    "shortDescription": "メインライブ:#15をクリア",
+    "longDescription": "メインライブ:#15をクリアしましょう。",
+    "order": 3,
+    "linkType": 3,
+    "progresses": [
+      {
+        "threshold": "1",
+        "rewardSetId": "rd-event-ms-sp-beginner-23-1125-00-clear-area-main-015-15"
+      }
+    ],
+    "eventMissionId": "event_sp-beginner-mission-23-1125",
+    "viewConditionId": "",
+    "linkDetail": ""
+  },
+  {
     "id": "event-ms-spr-22-0314-00-00-accessory_enhance_count",
     "categoryType": 3,
     "missionType": 28,
@@ -26948,6 +27174,28 @@
       {
         "threshold": "1",
         "rewardSetId": "rd-event-ms-comeback-23-0926-login_count"
+      }
+    ],
+    "linkType": 0,
+    "linkDetail": "",
+    "eventMissionId": ""
+  },
+  {
+    "id": "ms-comeback-shop-limited-23-1125-check",
+    "categoryType": 3,
+    "missionType": 4,
+    "targetIds": [
+      "cd_shop_comeback-user-23-1125-23-1220"
+    ],
+    "name": "30日以上ぶりのログイン",
+    "shortDescription": "30日以上ぶりのログイン",
+    "longDescription": "30日以上ぶりのログインです。",
+    "order": 1,
+    "viewConditionId": "cd_shop_comeback-shop-limited-23-1125-normal-mission-view",
+    "progresses": [
+      {
+        "threshold": "1",
+        "rewardSetId": "rd-event-ms-comeback-23-1125-login_count"
       }
     ],
     "linkType": 0,
