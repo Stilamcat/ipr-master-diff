@@ -2052,6 +2052,60 @@
     "isViewableInInactive": false
   },
   {
+    "id": "emb-323",
+    "name": "【殿堂入り】高海千歌",
+    "assetId": "score_chk",
+    "autoProvideConditionId": "cd-live_character_highest_score-chk-10000000",
+    "isViewableInInactive": true,
+    "order": 500831,
+    "description": "高海千歌ハイスコア10000000"
+  },
+  {
+    "id": "emb-324",
+    "name": "【殿堂入り】桜内梨子",
+    "assetId": "score_rik",
+    "autoProvideConditionId": "cd-live_character_highest_score-rik-10000000",
+    "isViewableInInactive": true,
+    "order": 500832,
+    "description": "桜内梨子ハイスコア10000000"
+  },
+  {
+    "id": "emb-325",
+    "name": "【殿堂入り】渡辺曜",
+    "assetId": "score_yo",
+    "autoProvideConditionId": "cd-live_character_highest_score-yo-10000000",
+    "isViewableInInactive": true,
+    "order": 500833,
+    "description": "渡辺曜ハイスコア10000000"
+  },
+  {
+    "id": "emb-326",
+    "name": "普通怪獣ちかちー",
+    "assetId": "reliability_chk-30",
+    "autoProvideConditionId": "cd-reliability-chk-30",
+    "order": 501261,
+    "description": "高海千歌信頼度30到達",
+    "isViewableInInactive": false
+  },
+  {
+    "id": "emb-327",
+    "name": "梨子ちゃんビーム",
+    "assetId": "reliability_rik-30",
+    "autoProvideConditionId": "cd-reliability-rik-30",
+    "order": 501262,
+    "description": "桜内梨子信頼度30到達",
+    "isViewableInInactive": false
+  },
+  {
+    "id": "emb-328",
+    "name": "全速前進ヨーソロー",
+    "assetId": "reliability_yo-30",
+    "autoProvideConditionId": "cd-reliability-yo-30",
+    "order": 501263,
+    "description": "渡辺曜信頼度30到達",
+    "isViewableInInactive": false
+  },
+  {
     "id": "emb-400",
     "name": "[奇跡]",
     "assetId": "emb-cd-5-0001-limited",
@@ -4806,6 +4860,15 @@
     "isViewableInInactive": false
   },
   {
+    "id": "emb-eve-23-1128",
+    "name": "イベント称号",
+    "assetId": "contest-23-1128",
+    "order": 123110,
+    "description": "フォトオーディション「君と輝くサンシャイン!!」条件達成",
+    "autoProvideConditionId": "",
+    "isViewableInInactive": false
+  },
+  {
     "id": "emb-eve-230428-1",
     "name": "きょうえん！HTT＆HMA～放課後ティータイム＆星見アンバサダー～",
     "assetId": "race-23-0428",
@@ -5495,6 +5558,33 @@
     "assetId": "pvp-season-083-top100",
     "order": 308330,
     "description": "VENUSバトルシーズン83で100位以内獲得",
+    "autoProvideConditionId": "",
+    "isViewableInInactive": false
+  },
+  {
+    "id": "emb-pvp-season-084-top001",
+    "name": "VENUSシーズン84 No.1",
+    "assetId": "pvp-season-084-top001",
+    "order": 308410,
+    "description": "VENUSバトルシーズン84で1位獲得",
+    "autoProvideConditionId": "",
+    "isViewableInInactive": false
+  },
+  {
+    "id": "emb-pvp-season-084-top010",
+    "name": "VENUSシーズン84 TOP10",
+    "assetId": "pvp-season-084-top010",
+    "order": 308420,
+    "description": "VENUSバトルシーズン84で10位以内獲得",
+    "autoProvideConditionId": "",
+    "isViewableInInactive": false
+  },
+  {
+    "id": "emb-pvp-season-084-top100",
+    "name": "VENUSシーズン84 TOP100",
+    "assetId": "pvp-season-084-top100",
+    "order": 308430,
+    "description": "VENUSバトルシーズン84で100位以内獲得",
     "autoProvideConditionId": "",
     "isViewableInInactive": false
   },

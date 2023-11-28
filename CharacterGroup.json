@@ -210,6 +210,38 @@
     "viewConditionId": ""
   },
   {
+    "id": "character_group_aqo",
+    "assetId": "aqo",
+    "order": 8,
+    "name": "Aqours",
+    "viewConditionId": "cd-date-22-1128",
+    "color": "1A95D4",
+    "mappings": [
+      {
+        "characterId": "char-chk",
+        "description": "浦の星女学院の２年生で、Aqoursの発起人。3人姉妹の末っ子で、実家は旅館をやっている。人懐っこく負けず嫌い。持ち前の明るさと強引さで周囲を次々に巻き込んでいく。",
+        "order": 102,
+        "assetId": ""
+      },
+      {
+        "characterId": "char-rik",
+        "description": "東京の秋葉原から千歌のクラスへと転校してきた2年生。大人っぽく落ち着いて見えるが実は慌て者で、早とちりや勘違いをしてしまうことも。",
+        "order": 103,
+        "assetId": ""
+      },
+      {
+        "characterId": "char-yo",
+        "description": "浦の星女学院の２年生で、千歌のクラスメイト。高飛び込みの選手で実力はナショナルチーム級。考えるよりも先に体が動くタイプ。フェリーの船長を父に持ち、自身も将来は船長になりたいと思っている。",
+        "order": 104,
+        "assetId": ""
+      }
+    ],
+    "backgroundColor": "000000",
+    "textColor": "FFFFFF",
+    "characterType": 4,
+    "nameColor": ""
+  },
+  {
     "id": "character_group_mku",
     "assetId": "mku",
     "order": 7,

@@ -34,6 +34,7 @@
       "cos-ai-schl-00",
       "cos-ai-sdam-00",
       "cos-ai-sdpl-00",
+      "cos-ai-sush-00",
       "cos-ai-tact-00",
       "cos-ai-trng-00",
       "cos-ai-vlnt-00"
@@ -193,6 +194,7 @@
       "cos-aoi-schl-00",
       "cos-aoi-sdam-00",
       "cos-aoi-sdpl-00",
+      "cos-aoi-sush-00",
       "cos-aoi-trng-00",
       "cos-aoi-vlnt-00",
       "cos-aoi-wedd-00"
@@ -317,6 +319,139 @@
     "unlockConditionId": ""
   },
   {
+    "id": "char-chk",
+    "assetId": "chk",
+    "characterGroupId": "character_group_aqo",
+    "order": 1002,
+    "name": "高海千歌",
+    "enName": "CHIKA TAKAMI",
+    "cv": "伊波杏樹",
+    "age": "16歳",
+    "birthday": "8月1日",
+    "height": "157cm",
+    "weight": "ー",
+    "zodiacSign": "しし座",
+    "hometown": "浦の星女学院",
+    "favorite": "みかん",
+    "unfavorite": "コーヒー、しおから",
+    "profile": "浦の星女学院の2年生で、Aqoursの発起人。3人姉妹の末っ子で、実家は旅館をやっている。人懐っこく負けず嫌い。持ち前の明るさと強引さで周囲を次々に巻き込んでいく。",
+    "costumeIds": [
+      "cos-chk-sush-00",
+      "cos-chk-sush-01",
+      "cos-chk-sush-02",
+      "cos-chk-sush-03"
+    ],
+    "altCharacters": [
+      {
+        "characterId": "char-ai",
+        "priority": 1
+      },
+      {
+        "characterId": "char-aoi",
+        "priority": 2
+      },
+      {
+        "characterId": "char-chs",
+        "priority": 16
+      },
+      {
+        "characterId": "char-hrk",
+        "priority": 14
+      },
+      {
+        "characterId": "char-kkr",
+        "priority": 3
+      },
+      {
+        "characterId": "char-ktn",
+        "priority": 10
+      },
+      {
+        "characterId": "char-mei",
+        "priority": 12
+      },
+      {
+        "characterId": "char-ngs",
+        "priority": 11
+      },
+      {
+        "characterId": "char-rei",
+        "priority": 17
+      },
+      {
+        "characterId": "char-rio",
+        "priority": 4
+      },
+      {
+        "characterId": "char-rui",
+        "priority": 7
+      },
+      {
+        "characterId": "char-ski",
+        "priority": 9
+      },
+      {
+        "characterId": "char-skr",
+        "priority": 15
+      },
+      {
+        "characterId": "char-smr",
+        "priority": 6
+      },
+      {
+        "characterId": "char-suz",
+        "priority": 8
+      },
+      {
+        "characterId": "char-szk",
+        "priority": 13
+      },
+      {
+        "characterId": "char-yu",
+        "priority": 5
+      }
+    ],
+    "defaultCostumeId": "cos-chk-sush-00",
+    "heightCorrectionPermil": 153,
+    "color": "FD9550",
+    "talkArrivalMotionAssetId": "mot_adv_chr_chk_appr-001_in",
+    "viewConditionId": "cd-date-22-1128",
+    "personalityType": 1,
+    "simplePersonalityType": 1,
+    "sdPersonalityType": 1,
+    "costumeMotionAssetIds": [
+      "mot_dress_chr_cmn_action-001-a_in",
+      "mot_dress_chr_cmn_action-002-a_in"
+    ],
+    "costumeAdditionMotionAssetIds": [
+      "",
+      ""
+    ],
+    "costumeVoiceAssetIds": [
+      "sud_vo_cmn_chk_dress-01",
+      "sud_vo_cmn_chk_dress-02"
+    ],
+    "psylliumColorType": 6,
+    "shortProfile": "浦の星女学院の2年生で、\nAqoursの発起人",
+    "threeSize": "B82・W59・H83",
+    "catchphrase": "ー",
+    "firstName": "千歌",
+    "defaultLiveCostumeId": "cos-chk-sush-00",
+    "facePositionY": 500.0,
+    "groupPositionX": 0.6,
+    "groupPositionY": 0.75,
+    "catchphraseColor": "FD9550",
+    "unlockConditionId": "cd-chr-obtain-chk",
+    "type": 4,
+    "groupName": "Aqours",
+    "activityFanEventWords": [],
+    "talkArrivalAdditionMotionAssetId": "",
+    "isLeftHanded": false,
+    "idiom": "",
+    "facePositionX": 0.0,
+    "isHomeDanceTarget": false
+  },
+  {
     "id": "char-chs",
     "assetId": "chs",
     "characterGroupId": "character_group_2",
@@ -355,6 +490,7 @@
       "cos-chs-sdam-00",
       "cos-chs-sdpl-00",
       "cos-chs-seik-00",
+      "cos-chs-sush-00",
       "cos-chs-trng-00",
       "cos-chs-yukt-00"
     ],
@@ -515,6 +651,7 @@
       "cos-hrk-schl-00",
       "cos-hrk-sdam-00",
       "cos-hrk-sdpl-00",
+      "cos-hrk-sush-00",
       "cos-hrk-trng-00",
       "cos-hrk-xmas-00"
     ],
@@ -673,6 +810,7 @@
       "cos-kan-poli-00",
       "cos-kan-sdam-00",
       "cos-kan-sdpl-00",
+      "cos-kan-sush-00",
       "cos-kan-trng-00"
     ],
     "altCharacters": [
@@ -843,6 +981,7 @@
       "cos-kkr-sdam-00",
       "cos-kkr-sdpl-00",
       "cos-kkr-seik-00",
+      "cos-kkr-sush-00",
       "cos-kkr-trng-00",
       "cos-kkr-vlnt-00"
     ],
@@ -1374,6 +1513,7 @@
       "cos-kor-poli-00",
       "cos-kor-sdam-00",
       "cos-kor-sdpl-00",
+      "cos-kor-sush-00",
       "cos-kor-trng-00"
     ],
     "altCharacters": [
@@ -1546,6 +1686,7 @@
       "cos-ktn-schl-01",
       "cos-ktn-sdam-00",
       "cos-ktn-sdpl-00",
+      "cos-ktn-sush-00",
       "cos-ktn-trng-00",
       "cos-ktn-wedd-00",
       "cos-ktn-xmas-00"
@@ -1705,6 +1846,7 @@
       "cos-mei-schl-00",
       "cos-mei-sdam-00",
       "cos-mei-sdpl-00",
+      "cos-mei-sush-00",
       "cos-mei-trng-00",
       "cos-mei-wedd-00",
       "cos-mei-xmas-00"
@@ -1856,6 +1998,7 @@
       "cos-mhk-poli-00",
       "cos-mhk-sdam-00",
       "cos-mhk-sdpl-00",
+      "cos-mhk-sush-00",
       "cos-mhk-trng-00"
     ],
     "altCharacters": [
@@ -2159,6 +2302,7 @@
       "cos-mna-miku-00",
       "cos-mna-mizg-00",
       "cos-mna-schl-00",
+      "cos-mna-sush-00",
       "cos-mna-trng-00",
       "cos-mna-vlnt-00"
     ],
@@ -2306,6 +2450,7 @@
       "cos-ngs-schl-01",
       "cos-ngs-sdam-00",
       "cos-ngs-sdpl-00",
+      "cos-ngs-sush-00",
       "cos-ngs-trng-00",
       "cos-ngs-xmas-00",
       "cos-ngs-yukt-00"
@@ -2477,6 +2622,7 @@
       "cos-rei-schl-00",
       "cos-rei-sdam-00",
       "cos-rei-sdpl-00",
+      "cos-rei-sush-00",
       "cos-rei-trng-00"
     ],
     "altCharacters": [
@@ -2606,6 +2752,139 @@
     "unlockConditionId": ""
   },
   {
+    "id": "char-rik",
+    "assetId": "rik",
+    "characterGroupId": "character_group_aqo",
+    "order": 1003,
+    "name": "桜内梨子",
+    "enName": "RIKO SAKURAUCHI",
+    "cv": "逢田梨香子",
+    "age": "16歳",
+    "birthday": "9月19日",
+    "height": "160cm",
+    "weight": "ー",
+    "zodiacSign": "おとめ座",
+    "hometown": "浦の星女学院",
+    "favorite": "ゆでたまご、サンドイッチ",
+    "unfavorite": "ピーマン",
+    "profile": "東京の秋葉原から千歌のクラスへと転校してきた2年生。大人っぽく落ち着いて見えるが実は慌て者で、早とちりや勘違いをしてしまうことも。",
+    "costumeIds": [
+      "cos-rik-sush-00",
+      "cos-rik-sush-01",
+      "cos-rik-sush-02",
+      "cos-rik-sush-03"
+    ],
+    "altCharacters": [
+      {
+        "characterId": "char-ai",
+        "priority": 1
+      },
+      {
+        "characterId": "char-aoi",
+        "priority": 2
+      },
+      {
+        "characterId": "char-chs",
+        "priority": 16
+      },
+      {
+        "characterId": "char-hrk",
+        "priority": 14
+      },
+      {
+        "characterId": "char-kkr",
+        "priority": 3
+      },
+      {
+        "characterId": "char-ktn",
+        "priority": 10
+      },
+      {
+        "characterId": "char-mei",
+        "priority": 12
+      },
+      {
+        "characterId": "char-ngs",
+        "priority": 11
+      },
+      {
+        "characterId": "char-rei",
+        "priority": 17
+      },
+      {
+        "characterId": "char-rio",
+        "priority": 4
+      },
+      {
+        "characterId": "char-rui",
+        "priority": 7
+      },
+      {
+        "characterId": "char-ski",
+        "priority": 9
+      },
+      {
+        "characterId": "char-skr",
+        "priority": 15
+      },
+      {
+        "characterId": "char-smr",
+        "priority": 6
+      },
+      {
+        "characterId": "char-suz",
+        "priority": 8
+      },
+      {
+        "characterId": "char-szk",
+        "priority": 13
+      },
+      {
+        "characterId": "char-yu",
+        "priority": 5
+      }
+    ],
+    "defaultCostumeId": "cos-rik-sush-00",
+    "heightCorrectionPermil": 385,
+    "color": "FD9FAD",
+    "talkArrivalMotionAssetId": "mot_adv_chr_rik_appr-001_in",
+    "viewConditionId": "cd-date-22-1128",
+    "personalityType": 3,
+    "simplePersonalityType": 2,
+    "sdPersonalityType": 3,
+    "costumeMotionAssetIds": [
+      "mot_dress_chr_cmn_action-001-c_in",
+      "mot_dress_chr_cmn_action-002-c_in"
+    ],
+    "costumeAdditionMotionAssetIds": [
+      "",
+      ""
+    ],
+    "costumeVoiceAssetIds": [
+      "sud_vo_cmn_rik_dress-01",
+      "sud_vo_cmn_rik_dress-02"
+    ],
+    "psylliumColorType": 8,
+    "shortProfile": "東京の秋葉原から\n千歌のクラスへと\n転校してきた2年生",
+    "threeSize": "B80・W58・H82",
+    "catchphrase": "ー",
+    "firstName": "梨子",
+    "defaultLiveCostumeId": "cos-rik-sush-00",
+    "facePositionX": -95.0,
+    "facePositionY": 780.0,
+    "groupPositionX": 0.2,
+    "groupPositionY": 0.68,
+    "catchphraseColor": "FD9FAD",
+    "unlockConditionId": "cd-chr-obtain-rik",
+    "type": 4,
+    "groupName": "Aqours",
+    "activityFanEventWords": [],
+    "talkArrivalAdditionMotionAssetId": "",
+    "isLeftHanded": false,
+    "idiom": "",
+    "isHomeDanceTarget": false
+  },
+  {
     "id": "char-rio",
     "assetId": "rio",
     "characterGroupId": "character_group_4",
@@ -2642,6 +2921,7 @@
       "cos-rio-schl-00",
       "cos-rio-sdam-00",
       "cos-rio-sdpl-00",
+      "cos-rio-sush-00",
       "cos-rio-trng-00",
       "cos-rio-vlnt-00",
       "cos-rio-wedd-00"
@@ -2800,6 +3080,7 @@
       "cos-rui-schl-01",
       "cos-rui-sdam-00",
       "cos-rui-sdpl-00",
+      "cos-rui-sush-00",
       "cos-rui-trng-00",
       "cos-rui-vlnt-00",
       "cos-rui-xmas-00",
@@ -2960,6 +3241,7 @@
       "cos-ski-schl-00",
       "cos-ski-sdam-00",
       "cos-ski-sdpl-00",
+      "cos-ski-sush-00",
       "cos-ski-trng-00",
       "cos-ski-waso-00",
       "cos-ski-xmas-00"
@@ -3122,6 +3404,7 @@
       "cos-skr-schl-00",
       "cos-skr-sdam-00",
       "cos-skr-sdpl-00",
+      "cos-skr-sush-00",
       "cos-skr-trng-00"
     ],
     "altCharacters": [
@@ -3279,6 +3562,7 @@
       "cos-smr-schl-00",
       "cos-smr-sdam-00",
       "cos-smr-sdpl-00",
+      "cos-smr-sush-00",
       "cos-smr-trng-00",
       "cos-smr-vlnt-00",
       "cos-smr-xmas-00"
@@ -3833,6 +4117,7 @@
       "cos-suz-sdam-00",
       "cos-suz-sdpl-00",
       "cos-suz-seik-00",
+      "cos-suz-sush-00",
       "cos-suz-trng-00",
       "cos-suz-xmas-00"
     ],
@@ -3993,6 +4278,7 @@
       "cos-szk-schl-00",
       "cos-szk-sdam-00",
       "cos-szk-sdpl-00",
+      "cos-szk-sush-00",
       "cos-szk-trng-00",
       "cos-szk-yukt-00",
       "cos-szk-yuru-00"
@@ -4238,6 +4524,139 @@
     "isHomeDanceTarget": false
   },
   {
+    "id": "char-yo",
+    "assetId": "yo",
+    "characterGroupId": "character_group_aqo",
+    "order": 1004,
+    "name": "渡辺曜",
+    "enName": "YOU WATANABE",
+    "cv": "斉藤朱夏",
+    "age": "16歳",
+    "birthday": "4月17日",
+    "height": "157cm",
+    "weight": "ー",
+    "zodiacSign": "おひつじ座",
+    "hometown": "浦の星女学院",
+    "favorite": "ハンバーグ、みかん",
+    "unfavorite": "刺身、パサパサした食べ物",
+    "profile": "浦の星女学院の2年生で、千歌のクラスメイト。高飛び込みの選手で実力はナショナルチーム級。考えるよりも先に体が動くタイプ。フェリーの船長を父に持ち、自身も将来は船長になりたいと思っている。",
+    "costumeIds": [
+      "cos-yo-sush-00",
+      "cos-yo-sush-01",
+      "cos-yo-sush-02",
+      "cos-yo-sush-03"
+    ],
+    "altCharacters": [
+      {
+        "characterId": "char-ai",
+        "priority": 1
+      },
+      {
+        "characterId": "char-aoi",
+        "priority": 2
+      },
+      {
+        "characterId": "char-chs",
+        "priority": 16
+      },
+      {
+        "characterId": "char-hrk",
+        "priority": 14
+      },
+      {
+        "characterId": "char-kkr",
+        "priority": 3
+      },
+      {
+        "characterId": "char-ktn",
+        "priority": 10
+      },
+      {
+        "characterId": "char-mei",
+        "priority": 12
+      },
+      {
+        "characterId": "char-ngs",
+        "priority": 11
+      },
+      {
+        "characterId": "char-rei",
+        "priority": 17
+      },
+      {
+        "characterId": "char-rio",
+        "priority": 4
+      },
+      {
+        "characterId": "char-rui",
+        "priority": 7
+      },
+      {
+        "characterId": "char-ski",
+        "priority": 9
+      },
+      {
+        "characterId": "char-skr",
+        "priority": 15
+      },
+      {
+        "characterId": "char-smr",
+        "priority": 6
+      },
+      {
+        "characterId": "char-suz",
+        "priority": 8
+      },
+      {
+        "characterId": "char-szk",
+        "priority": 13
+      },
+      {
+        "characterId": "char-yu",
+        "priority": 5
+      }
+    ],
+    "defaultCostumeId": "cos-yo-sush-00",
+    "heightCorrectionPermil": 153,
+    "color": "60BBFC",
+    "talkArrivalMotionAssetId": "mot_adv_chr_yo_appr-001_in",
+    "viewConditionId": "cd-date-22-1128",
+    "personalityType": 1,
+    "simplePersonalityType": 1,
+    "sdPersonalityType": 1,
+    "costumeMotionAssetIds": [
+      "mot_dress_chr_cmn_action-001-a_in",
+      "mot_dress_chr_cmn_action-002-a_in"
+    ],
+    "costumeAdditionMotionAssetIds": [
+      "",
+      ""
+    ],
+    "costumeVoiceAssetIds": [
+      "sud_vo_cmn_yo_dress-01",
+      "sud_vo_cmn_yo_dress-02"
+    ],
+    "psylliumColorType": 9,
+    "shortProfile": "浦の星女学院の2年生で、\n千歌のクラスメイト",
+    "threeSize": "B82・W57・H81",
+    "catchphrase": "ー",
+    "firstName": "曜",
+    "defaultLiveCostumeId": "cos-yo-sush-00",
+    "facePositionY": 500.0,
+    "groupPositionX": 0.8,
+    "groupPositionY": 0.37,
+    "catchphraseColor": "60BBFC",
+    "unlockConditionId": "cd-chr-obtain-yo",
+    "type": 4,
+    "groupName": "Aqours",
+    "activityFanEventWords": [],
+    "talkArrivalAdditionMotionAssetId": "",
+    "isLeftHanded": false,
+    "idiom": "",
+    "facePositionX": 0.0,
+    "isHomeDanceTarget": false
+  },
+  {
     "id": "char-yu",
     "assetId": "yu",
     "characterGroupId": "character_group_3",
@@ -4271,6 +4690,7 @@
       "cos-yu-schl-00",
       "cos-yu-sdam-00",
       "cos-yu-sdpl-00",
+      "cos-yu-sush-00",
       "cos-yu-trng-00",
       "cos-yu-vlnt-00",
       "cos-yu-wedd-01",

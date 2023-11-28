@@ -460,5 +460,95 @@
     "viewConditionId": "",
     "unlockConditionId": "",
     "impossibleShootingCharacterIds": []
+  },
+  {
+    "id": "photo_activity-23-1128-cafe-00",
+    "name": "カフェ",
+    "type": 2,
+    "thumbAssetId": "cafe-00",
+    "stageId": "stage-photo-cafe-00",
+    "costumeTypeIds": [
+      "casl",
+      "schl",
+      "trng",
+      "gene",
+      "idol-miku",
+      "kion"
+    ],
+    "forceCostumeTypeId": "casl",
+    "photoShootingMotionSetId": "cafe-00",
+    "isDeleteCharacter": true,
+    "order": 3,
+    "viewConditionId": "",
+    "unlockConditionId": "",
+    "impossibleShootingCharacterIds": []
+  },
+  {
+    "id": "photo_activity-23-1128-catstreet-01",
+    "name": "クリスマス",
+    "type": 1,
+    "thumbAssetId": "shopping-01",
+    "stageId": "stage-photo-catstreet-01",
+    "costumeTypeIds": [
+      "idol",
+      "casl",
+      "schl",
+      "trng",
+      "gene",
+      "idol-miku",
+      "kion",
+      "waso"
+    ],
+    "forceCostumeTypeId": "casl",
+    "photoShootingMotionSetId": "catstreet-01",
+    "isDeleteCharacter": true,
+    "order": 1,
+    "viewConditionId": "",
+    "unlockConditionId": "",
+    "impossibleShootingCharacterIds": []
+  },
+  {
+    "id": "photo_activity-23-1128-living-01",
+    "name": "東京寮リビング",
+    "type": 1,
+    "thumbAssetId": "living-01",
+    "stageId": "stage-photo-living-01",
+    "costumeTypeIds": [
+      "casl",
+      "schl",
+      "gene",
+      "idol-miku",
+      "kion"
+    ],
+    "forceCostumeTypeId": "casl",
+    "photoShootingMotionSetId": "living-01",
+    "isDeleteCharacter": true,
+    "order": 2,
+    "viewConditionId": "",
+    "unlockConditionId": "",
+    "impossibleShootingCharacterIds": []
+  },
+  {
+    "id": "photo_activity-23-1128-recording-00",
+    "name": "ラジオ収録",
+    "type": 1,
+    "thumbAssetId": "recording-00",
+    "stageId": "stage-photo-recording-00",
+    "costumeTypeIds": [
+      "idol",
+      "casl",
+      "schl",
+      "gene",
+      "idol-miku",
+      "kion",
+      "waso"
+    ],
+    "forceCostumeTypeId": "casl",
+    "photoShootingMotionSetId": "recording-00",
+    "isDeleteCharacter": true,
+    "order": 4,
+    "viewConditionId": "",
+    "unlockConditionId": "",
+    "impossibleShootingCharacterIds": []
   }
 ]

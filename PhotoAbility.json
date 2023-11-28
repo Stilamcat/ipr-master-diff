@@ -3844,6 +3844,120 @@
     "conditionLiveType": 0
   },
   {
+    "id": "pab-affect_strength_effect_count_increase-critical_rate_up-cd-technique",
+    "name": "与・クリティカル率延長",
+    "description": "<バッファータイプのみ>\n付与するクリティカル率上昇効果を{0}延長します",
+    "abilityType": 30,
+    "photoAbilityLevels": [
+      {
+        "level": 140,
+        "value": 15
+      },
+      {
+        "level": 145,
+        "value": 15
+      },
+      {
+        "level": 150,
+        "value": 15
+      },
+      {
+        "level": 155,
+        "value": 15
+      },
+      {
+        "level": 160,
+        "value": 15
+      },
+      {
+        "level": 165,
+        "value": 15
+      },
+      {
+        "level": 170,
+        "value": 15
+      },
+      {
+        "level": 175,
+        "value": 15
+      },
+      {
+        "level": 180,
+        "value": 15
+      },
+      {
+        "level": 185,
+        "value": 15
+      },
+      {
+        "level": 190,
+        "value": 15
+      },
+      {
+        "level": 195,
+        "value": 15
+      },
+      {
+        "level": 200,
+        "value": 15
+      },
+      {
+        "level": 205,
+        "value": 15
+      },
+      {
+        "level": 210,
+        "value": 15
+      },
+      {
+        "level": 215,
+        "value": 15
+      },
+      {
+        "level": 220,
+        "value": 15
+      },
+      {
+        "level": 225,
+        "value": 15
+      },
+      {
+        "level": 230,
+        "value": 15
+      },
+      {
+        "level": 235,
+        "value": 15
+      },
+      {
+        "level": 240,
+        "value": 15
+      },
+      {
+        "level": 245,
+        "value": 15
+      },
+      {
+        "level": 250,
+        "value": 15
+      }
+    ],
+    "photoAbilityGrades": [
+      {
+        "grade": 1,
+        "bonusPermil": 1000,
+        "type": 3,
+        "bonusValue": 0
+      }
+    ],
+    "conditionCardType": 2,
+    "statusEffectType": 7,
+    "moodType": 0,
+    "skillId": "",
+    "abilityTargetId": "",
+    "conditionLiveType": 0
+  },
+  {
     "id": "pab-affect_strength_effect_count_increase-dance_up_recipe-001",
     "name": "与・Da延長",
     "description": "付与するダンス上昇効果を{0}延長します",
@@ -34422,6 +34536,224 @@
     "statusEffectType": 0
   },
   {
+    "id": "pab-sk-phot-chk-idol-00",
+    "name": "スコアUPスキル",
+    "description": "100コンボ以上時、自身にスコア上昇効果",
+    "abilityType": 13,
+    "skillId": "sk-phot-chk-idol-00",
+    "photoAbilityLevels": [
+      {
+        "level": 10,
+        "value": 1
+      },
+      {
+        "level": 15,
+        "value": 1
+      },
+      {
+        "level": 20,
+        "value": 1
+      },
+      {
+        "level": 25,
+        "value": 1
+      },
+      {
+        "level": 30,
+        "value": 1
+      },
+      {
+        "level": 35,
+        "value": 1
+      },
+      {
+        "level": 40,
+        "value": 1
+      },
+      {
+        "level": 45,
+        "value": 1
+      },
+      {
+        "level": 50,
+        "value": 1
+      },
+      {
+        "level": 55,
+        "value": 1
+      },
+      {
+        "level": 60,
+        "value": 1
+      },
+      {
+        "level": 65,
+        "value": 1
+      },
+      {
+        "level": 70,
+        "value": 1
+      },
+      {
+        "level": 75,
+        "value": 1
+      },
+      {
+        "level": 80,
+        "value": 1
+      },
+      {
+        "level": 85,
+        "value": 1
+      },
+      {
+        "level": 90,
+        "value": 1
+      },
+      {
+        "level": 95,
+        "value": 1
+      },
+      {
+        "level": 100,
+        "value": 1
+      },
+      {
+        "level": 105,
+        "value": 1
+      },
+      {
+        "level": 110,
+        "value": 2
+      },
+      {
+        "level": 115,
+        "value": 2
+      },
+      {
+        "level": 120,
+        "value": 2
+      },
+      {
+        "level": 125,
+        "value": 2
+      },
+      {
+        "level": 130,
+        "value": 2
+      },
+      {
+        "level": 135,
+        "value": 3
+      },
+      {
+        "level": 140,
+        "value": 3
+      },
+      {
+        "level": 145,
+        "value": 3
+      },
+      {
+        "level": 150,
+        "value": 3
+      },
+      {
+        "level": 155,
+        "value": 4
+      },
+      {
+        "level": 160,
+        "value": 4
+      },
+      {
+        "level": 165,
+        "value": 4
+      },
+      {
+        "level": 170,
+        "value": 4
+      },
+      {
+        "level": 175,
+        "value": 5
+      },
+      {
+        "level": 180,
+        "value": 5
+      },
+      {
+        "level": 185,
+        "value": 5
+      },
+      {
+        "level": 190,
+        "value": 5
+      },
+      {
+        "level": 195,
+        "value": 5
+      },
+      {
+        "level": 200,
+        "value": 5
+      },
+      {
+        "level": 205,
+        "value": 5
+      },
+      {
+        "level": 210,
+        "value": 5
+      },
+      {
+        "level": 215,
+        "value": 5
+      },
+      {
+        "level": 220,
+        "value": 5
+      },
+      {
+        "level": 225,
+        "value": 5
+      },
+      {
+        "level": 230,
+        "value": 5
+      },
+      {
+        "level": 235,
+        "value": 5
+      },
+      {
+        "level": 240,
+        "value": 5
+      },
+      {
+        "level": 245,
+        "value": 5
+      },
+      {
+        "level": 250,
+        "value": 5
+      }
+    ],
+    "photoAbilityGrades": [
+      {
+        "grade": 1,
+        "bonusPermil": 1000,
+        "type": 3,
+        "bonusValue": 0
+      }
+    ],
+    "moodType": 0,
+    "abilityTargetId": "",
+    "conditionCardType": 0,
+    "conditionLiveType": 0,
+    "statusEffectType": 0
+  },
+  {
     "id": "pab-sk-phot-chs-idol-03",
     "name": "成功率UPスキル",
     "description": "消費スタミナ低下状態の時、自身にスキル成功率上昇効果",
@@ -37038,6 +37370,224 @@
     "conditionLiveType": 0
   },
   {
+    "id": "pab-sk-phot-rik-idol-00",
+    "name": "与・Aスコア延長",
+    "description": "付与するAスキルスコア上昇効果を{0}延長します",
+    "abilityType": 30,
+    "photoAbilityLevels": [
+      {
+        "level": 10,
+        "value": 6
+      },
+      {
+        "level": 15,
+        "value": 6
+      },
+      {
+        "level": 20,
+        "value": 6
+      },
+      {
+        "level": 25,
+        "value": 6
+      },
+      {
+        "level": 30,
+        "value": 6
+      },
+      {
+        "level": 35,
+        "value": 6
+      },
+      {
+        "level": 40,
+        "value": 6
+      },
+      {
+        "level": 45,
+        "value": 6
+      },
+      {
+        "level": 50,
+        "value": 6
+      },
+      {
+        "level": 55,
+        "value": 6
+      },
+      {
+        "level": 60,
+        "value": 6
+      },
+      {
+        "level": 65,
+        "value": 6
+      },
+      {
+        "level": 70,
+        "value": 6
+      },
+      {
+        "level": 75,
+        "value": 6
+      },
+      {
+        "level": 80,
+        "value": 6
+      },
+      {
+        "level": 85,
+        "value": 6
+      },
+      {
+        "level": 90,
+        "value": 6
+      },
+      {
+        "level": 95,
+        "value": 6
+      },
+      {
+        "level": 100,
+        "value": 6
+      },
+      {
+        "level": 105,
+        "value": 6
+      },
+      {
+        "level": 110,
+        "value": 6
+      },
+      {
+        "level": 115,
+        "value": 6
+      },
+      {
+        "level": 120,
+        "value": 6
+      },
+      {
+        "level": 125,
+        "value": 6
+      },
+      {
+        "level": 130,
+        "value": 6
+      },
+      {
+        "level": 135,
+        "value": 6
+      },
+      {
+        "level": 140,
+        "value": 6
+      },
+      {
+        "level": 145,
+        "value": 6
+      },
+      {
+        "level": 150,
+        "value": 6
+      },
+      {
+        "level": 155,
+        "value": 6
+      },
+      {
+        "level": 160,
+        "value": 6
+      },
+      {
+        "level": 165,
+        "value": 6
+      },
+      {
+        "level": 170,
+        "value": 6
+      },
+      {
+        "level": 175,
+        "value": 6
+      },
+      {
+        "level": 180,
+        "value": 6
+      },
+      {
+        "level": 185,
+        "value": 6
+      },
+      {
+        "level": 190,
+        "value": 6
+      },
+      {
+        "level": 195,
+        "value": 6
+      },
+      {
+        "level": 200,
+        "value": 6
+      },
+      {
+        "level": 205,
+        "value": 6
+      },
+      {
+        "level": 210,
+        "value": 6
+      },
+      {
+        "level": 215,
+        "value": 6
+      },
+      {
+        "level": 220,
+        "value": 6
+      },
+      {
+        "level": 225,
+        "value": 6
+      },
+      {
+        "level": 230,
+        "value": 6
+      },
+      {
+        "level": 235,
+        "value": 6
+      },
+      {
+        "level": 240,
+        "value": 6
+      },
+      {
+        "level": 245,
+        "value": 6
+      },
+      {
+        "level": 250,
+        "value": 6
+      }
+    ],
+    "photoAbilityGrades": [
+      {
+        "grade": 1,
+        "bonusPermil": 1000,
+        "type": 3,
+        "bonusValue": 0
+      }
+    ],
+    "statusEffectType": 6,
+    "moodType": 0,
+    "skillId": "",
+    "abilityTargetId": "",
+    "conditionCardType": 0,
+    "conditionLiveType": 0
+  },
+  {
     "id": "pab-sk-phot-rio-idol-03",
     "name": "スタミナ回復スキル",
     "description": "自身のスタミナ回復",
@@ -38562,6 +39112,224 @@
     "abilityTargetId": "",
     "conditionCardType": 0,
     "conditionLiveType": 0
+  },
+  {
+    "id": "pab-sk-phot-yo-idol-00",
+    "name": "強化効果延長スキル",
+    "description": "自身がテンションUP時、隣接するアイドルの強化効果延長",
+    "abilityType": 13,
+    "skillId": "sk-phot-yo-idol-00",
+    "photoAbilityLevels": [
+      {
+        "level": 10,
+        "value": 1
+      },
+      {
+        "level": 15,
+        "value": 1
+      },
+      {
+        "level": 20,
+        "value": 1
+      },
+      {
+        "level": 25,
+        "value": 1
+      },
+      {
+        "level": 30,
+        "value": 1
+      },
+      {
+        "level": 35,
+        "value": 1
+      },
+      {
+        "level": 40,
+        "value": 1
+      },
+      {
+        "level": 45,
+        "value": 1
+      },
+      {
+        "level": 50,
+        "value": 1
+      },
+      {
+        "level": 55,
+        "value": 1
+      },
+      {
+        "level": 60,
+        "value": 1
+      },
+      {
+        "level": 65,
+        "value": 1
+      },
+      {
+        "level": 70,
+        "value": 1
+      },
+      {
+        "level": 75,
+        "value": 1
+      },
+      {
+        "level": 80,
+        "value": 1
+      },
+      {
+        "level": 85,
+        "value": 1
+      },
+      {
+        "level": 90,
+        "value": 1
+      },
+      {
+        "level": 95,
+        "value": 1
+      },
+      {
+        "level": 100,
+        "value": 1
+      },
+      {
+        "level": 105,
+        "value": 1
+      },
+      {
+        "level": 110,
+        "value": 2
+      },
+      {
+        "level": 115,
+        "value": 2
+      },
+      {
+        "level": 120,
+        "value": 2
+      },
+      {
+        "level": 125,
+        "value": 2
+      },
+      {
+        "level": 130,
+        "value": 2
+      },
+      {
+        "level": 135,
+        "value": 3
+      },
+      {
+        "level": 140,
+        "value": 3
+      },
+      {
+        "level": 145,
+        "value": 3
+      },
+      {
+        "level": 150,
+        "value": 3
+      },
+      {
+        "level": 155,
+        "value": 4
+      },
+      {
+        "level": 160,
+        "value": 4
+      },
+      {
+        "level": 165,
+        "value": 4
+      },
+      {
+        "level": 170,
+        "value": 4
+      },
+      {
+        "level": 175,
+        "value": 5
+      },
+      {
+        "level": 180,
+        "value": 5
+      },
+      {
+        "level": 185,
+        "value": 5
+      },
+      {
+        "level": 190,
+        "value": 5
+      },
+      {
+        "level": 195,
+        "value": 5
+      },
+      {
+        "level": 200,
+        "value": 5
+      },
+      {
+        "level": 205,
+        "value": 5
+      },
+      {
+        "level": 210,
+        "value": 5
+      },
+      {
+        "level": 215,
+        "value": 5
+      },
+      {
+        "level": 220,
+        "value": 5
+      },
+      {
+        "level": 225,
+        "value": 5
+      },
+      {
+        "level": 230,
+        "value": 5
+      },
+      {
+        "level": 235,
+        "value": 5
+      },
+      {
+        "level": 240,
+        "value": 5
+      },
+      {
+        "level": 245,
+        "value": 5
+      },
+      {
+        "level": 250,
+        "value": 5
+      }
+    ],
+    "photoAbilityGrades": [
+      {
+        "grade": 1,
+        "bonusPermil": 1000,
+        "type": 3,
+        "bonusValue": 0
+      }
+    ],
+    "moodType": 0,
+    "abilityTargetId": "",
+    "conditionCardType": 0,
+    "conditionLiveType": 0,
+    "statusEffectType": 0
   },
   {
     "id": "pab-sk-phot-yu-idol-03",

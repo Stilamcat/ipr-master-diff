@@ -2043,5 +2043,47 @@
       }
     ],
     "unlockConditionId": ""
+  },
+  {
+    "type": 38,
+    "stepInfo": [
+      {
+        "step": 1,
+        "subStep": 100,
+        "navigationType": 3,
+        "texts": [
+          "フォトアルバムはイベントストーリーを撮影することができるコンテンツです。"
+        ],
+        "assetIds": [
+          "img_tutorial_tips_tips-024"
+        ],
+        "navigationPositionType": 0
+      },
+      {
+        "step": 1,
+        "subStep": 110,
+        "navigationType": 3,
+        "texts": [
+          "撮影したフォトを使用して、自分だけのアルバムを作ることができます。"
+        ],
+        "assetIds": [
+          "img_tutorial_tips_tips-025"
+        ],
+        "navigationPositionType": 0
+      },
+      {
+        "step": 1,
+        "subStep": 120,
+        "navigationType": 3,
+        "texts": [
+          "ストーリーを撮影したフォトやアルバムフォトは、「イベント現像フィルム」を使用して現像することができます。"
+        ],
+        "assetIds": [
+          "img_tutorial_tips_tips-026"
+        ],
+        "navigationPositionType": 0
+      }
+    ],
+    "unlockConditionId": ""
   }
 ]

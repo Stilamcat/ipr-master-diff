@@ -1357,6 +1357,48 @@
     "receiveConditionId": "cd-time-login-23-1125-1227"
   },
   {
+    "id": "login_bonus-campaign-23-1129-01",
+    "name": "コラボ特別",
+    "description": "7日間の特別なログインボーナス",
+    "type": 2,
+    "assetId": "login-campaign-23-1128-01",
+    "topColorCode": "00CEFF",
+    "bottomColorCode": "D0FFA0",
+    "priority": 10,
+    "rewardIds": [
+      "rd_auto;item;item-exchange-collaboration-medal-23-1128;2",
+      "rd_auto;item;item-exchange-collaboration-medal-23-1128;2",
+      "rd_auto;item;item-exchange-collaboration-medal-23-1128;2",
+      "rd_auto;item;item-exchange-collaboration-medal-23-1128;2",
+      "rd_auto;item;item-exchange-collaboration-medal-23-1128;2",
+      "rd_auto;item;item-exchange-collaboration-medal-23-1128;2",
+      "rd_auto;item;item-exchange-collaboration-medal-23-1128;2"
+    ],
+    "openConditionId": "cd-time-login-23-1129-1205",
+    "receiveConditionId": "cd-time-login-23-1129-1219"
+  },
+  {
+    "id": "login_bonus-campaign-23-1207-01",
+    "name": "コラボ開催記念",
+    "description": "7日間の特別なログインボーナス",
+    "type": 2,
+    "assetId": "login-campaign-23-1207-01",
+    "topColorCode": "00CEFF",
+    "bottomColorCode": "D0FFA0",
+    "priority": 10,
+    "rewardIds": [
+      "rd_auto;item;item-daily_quest_ticket_01;3",
+      "rd_auto;item;item-gacha_ticket_piece-r5;10",
+      "rd_auto;item;item-daily_quest_ticket_02;3",
+      "rd_auto;item;item-gacha_ticket_piece-r5;10",
+      "rd_auto;item;item-daily_quest_ticket_03;3",
+      "rd_auto;item;item-gacha_ticket_piece-r5;10",
+      "rd_auto;stone;;500"
+    ],
+    "openConditionId": "cd-time-login-23-1207-1213",
+    "receiveConditionId": "cd-time-login-23-1207-1220"
+  },
+  {
     "id": "login_bonus-normal-01",
     "name": "デイリー",
     "description": "毎日もらえるログインボーナス",
