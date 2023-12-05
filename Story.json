@@ -32,6 +32,38 @@
     "additionalDisplayCharacterIds": []
   },
   {
+    "id": "st-birthday-branch-kkr-23-1206",
+    "name": "赤崎こころ 誕生日2023",
+    "advPlayTypes": [
+      6
+    ],
+    "branchFirstText": "今日はこころの誕生日だな\n何をプレゼントしよう？",
+    "branchCautionText": "後で再度選択可能です",
+    "branchBgmAssetId": "sud_bgm_cmn_home-01",
+    "branchChoices": [
+      {
+        "index": 1,
+        "text": "有名店のプリン",
+        "advAssetId": "hbd_03_kkr_01"
+      },
+      {
+        "index": 2,
+        "text": "書道用の筆",
+        "advAssetId": "hbd_03_kkr_02"
+      },
+      {
+        "index": 3,
+        "text": "撮影で使ったのと同じぬいぐるみ",
+        "advAssetId": "hbd_03_kkr_03"
+      }
+    ],
+    "sectionName": "",
+    "description": "",
+    "rewardId": "",
+    "advAssetIds": [],
+    "additionalDisplayCharacterIds": []
+  },
+  {
     "id": "st-birthday-branch-mei-23-0707",
     "name": "早坂芽衣 誕生日2023",
     "advPlayTypes": [
@@ -2190,6 +2222,60 @@
     ],
     "advAssetIds": [
       "card_kan_02_03"
+    ],
+    "sectionName": "",
+    "description": "",
+    "additionalDisplayCharacterIds": [],
+    "branchFirstText": "",
+    "branchCautionText": "",
+    "branchBgmAssetId": "",
+    "branchChoices": []
+  },
+  {
+    "id": "st-card-kkr-05-birt-00-01",
+    "name": "こころが\n主役の\nこころの\nための日",
+    "rewardId": "rd_auto;stone;;30",
+    "advPlayTypes": [
+      1
+    ],
+    "advAssetIds": [
+      "card_kkr_51_01"
+    ],
+    "sectionName": "",
+    "description": "",
+    "additionalDisplayCharacterIds": [],
+    "branchFirstText": "",
+    "branchCautionText": "",
+    "branchBgmAssetId": "",
+    "branchChoices": []
+  },
+  {
+    "id": "st-card-kkr-05-birt-00-02",
+    "name": "赤崎こころの\nいちばん\nカワイイTV",
+    "rewardId": "rd_auto;stone;;30",
+    "advPlayTypes": [
+      1
+    ],
+    "advAssetIds": [
+      "card_kkr_51_02"
+    ],
+    "sectionName": "",
+    "description": "",
+    "additionalDisplayCharacterIds": [],
+    "branchFirstText": "",
+    "branchCautionText": "",
+    "branchBgmAssetId": "",
+    "branchChoices": []
+  },
+  {
+    "id": "st-card-kkr-05-birt-00-03",
+    "name": "ドタバタ\n生放送",
+    "rewardId": "rd_auto;stone;;30",
+    "advPlayTypes": [
+      1
+    ],
+    "advAssetIds": [
+      "card_kkr_51_03"
     ],
     "sectionName": "",
     "description": "",

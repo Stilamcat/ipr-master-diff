@@ -4725,6 +4725,15 @@
     "isViewableInInactive": false
   },
   {
+    "id": "emb-birthday_kkr-03",
+    "name": "【誕生日】赤崎こころ",
+    "assetId": "birthday_kkr-03",
+    "autoProvideConditionId": "cd-birthday_emblem_kkr-23-1206",
+    "order": 603170,
+    "description": "こころの誕生日を迎える",
+    "isViewableInInactive": false
+  },
+  {
     "id": "emb-birthday_kor-01",
     "name": "【誕生日】fran",
     "assetId": "birthday_kor-03",
@@ -5585,6 +5594,69 @@
     "assetId": "pvp-season-084-top100",
     "order": 308430,
     "description": "VENUSバトルシーズン84で100位以内獲得",
+    "autoProvideConditionId": "",
+    "isViewableInInactive": false
+  },
+  {
+    "id": "emb-pvp-season-085-top001",
+    "name": "VENUSシーズン85 No.1",
+    "assetId": "pvp-season-085-top001",
+    "order": 308510,
+    "description": "VENUSバトルシーズン85で1位獲得",
+    "autoProvideConditionId": "",
+    "isViewableInInactive": false
+  },
+  {
+    "id": "emb-pvp-season-085-top010",
+    "name": "VENUSシーズン85 TOP10",
+    "assetId": "pvp-season-085-top010",
+    "order": 308520,
+    "description": "VENUSバトルシーズン85で10位以内獲得",
+    "autoProvideConditionId": "",
+    "isViewableInInactive": false
+  },
+  {
+    "id": "emb-pvp-season-085-top100",
+    "name": "VENUSシーズン85 TOP100",
+    "assetId": "pvp-season-085-top100",
+    "order": 308530,
+    "description": "VENUSバトルシーズン85で100位以内獲得",
+    "autoProvideConditionId": "",
+    "isViewableInInactive": false
+  },
+  {
+    "id": "emb-serial_cd-23-1206-moon-limited",
+    "name": "Question",
+    "assetId": "emb-cd-5-0006-limited",
+    "order": 101120,
+    "description": "Question 初回生産限定盤特典",
+    "autoProvideConditionId": "",
+    "isViewableInInactive": false
+  },
+  {
+    "id": "emb-serial_cd-23-1206-moon-normal",
+    "name": "Question",
+    "assetId": "emb-cd-5-0006-normal",
+    "order": 101130,
+    "description": "Question 通常盤特典",
+    "autoProvideConditionId": "",
+    "isViewableInInactive": false
+  },
+  {
+    "id": "emb-serial_cd-23-1206-sun-limited",
+    "name": "Let's Go! Let's Go! ピース！ピース！",
+    "assetId": "emb-cd-5-0007-limited",
+    "order": 101140,
+    "description": "Let's Go! Let's Go! ピース！ピース！ 初回生産限定盤特典",
+    "autoProvideConditionId": "",
+    "isViewableInInactive": false
+  },
+  {
+    "id": "emb-serial_cd-23-1206-sun-normal",
+    "name": "Let's Go! Let's Go! ピース！ピース！",
+    "assetId": "emb-cd-5-0007-normal",
+    "order": 101150,
+    "description": "Let's Go! Let's Go! ピース！ピース！ 通常盤特典",
     "autoProvideConditionId": "",
     "isViewableInInactive": false
   },
