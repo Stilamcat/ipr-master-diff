@@ -2154,6 +2154,50 @@
     ]
   },
   {
+    "homeTalkId": "home-talk-card-kor-05-xmas-00-talk-01",
+    "characterId": "char-kor",
+    "placeType": 1,
+    "conditionId": "cd-st-read-st-card-kor-05-xmas-00-03",
+    "firstPriority": 9900,
+    "weight": 1,
+    "callPatternId": "call-pattern-card-kor-05-xmas-00",
+    "choiceText": "掃除してくれたんですか？\nありがとうございます",
+    "managerText": "掃除してくれたんですか？\nありがとうございます",
+    "reliability": 5,
+    "characterTalks": [
+      {
+        "text": "宝くじを買った後、しばらくトイレ\n掃除をしてたでしょ。あれで\n橋本さんに凄い感謝されまして。",
+        "voiceAssetId": "sud_vo_home_kor-05-xmas-00_talk-01-01",
+        "motionAssetId": "mot_adv_chr_cmn_talk-004_in",
+        "additionMotionAssetId": "mot_all_chr_cmn_facial-003_in"
+      },
+      {
+        "text": "で、橋本さんが、他の子達にも\nその話をして回ったらしくて\nやめるにやめられなくなって…",
+        "voiceAssetId": "sud_vo_home_kor-05-xmas-00_talk-01-02",
+        "motionAssetId": "mot_adv_chr_cmn_think-004_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "ま、事務所にいる時に\nたまに掃除するくらいなら、\n別に構わないかなと。",
+        "voiceAssetId": "sud_vo_home_kor-05-xmas-00_talk-01-03",
+        "motionAssetId": "mot_adv_chr_cmn_pos-010_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "こっちの懐が痛む訳ではないし、\n水回りを掃除すると金運が上がる\nって言いますし。",
+        "voiceAssetId": "sud_vo_home_kor-05-xmas-00_talk-01-04",
+        "motionAssetId": "mot_adv_chr_cmn_pos-020_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "…その、キラキラ感謝するような\n目は、やめてくれません？\n逆に居心地が悪くなるんで。",
+        "voiceAssetId": "sud_vo_home_kor-05-xmas-00_talk-01-05",
+        "motionAssetId": "mot_adv_chr_cmn_deny-004_in",
+        "additionMotionAssetId": ""
+      }
+    ]
+  },
+  {
     "homeTalkId": "home-talk-card-ktn-05-circ-00-talk-01",
     "characterId": "char-ktn",
     "placeType": 1,
@@ -3057,6 +3101,50 @@
         "text": "もちろん私は、あの二人みたいに\n子どもっぽいケンカをすることは\nないですけどね。",
         "voiceAssetId": "sud_vo_home_mhk-05-poli-00_talk-01-06",
         "motionAssetId": "mot_adv_chr_cmn_pos-023_in",
+        "additionMotionAssetId": ""
+      }
+    ]
+  },
+  {
+    "homeTalkId": "home-talk-card-mhk-05-xmas-00-talk-01",
+    "characterId": "char-mhk",
+    "placeType": 1,
+    "conditionId": "cd-st-read-st-card-mhk-05-xmas-00-03",
+    "firstPriority": 9900,
+    "weight": 1,
+    "callPatternId": "call-pattern-card-mhk-05-xmas-00",
+    "choiceText": "そうだったんですか！？\n気づかなかった…",
+    "managerText": "そうだったんですか！？\n気づかなかった…",
+    "reliability": 5,
+    "characterTalks": [
+      {
+        "text": "プロダクションの人間にしては\n若過ぎるように見えたので、\n葉ちゃんと首を傾げていたんです。",
+        "voiceAssetId": "sud_vo_home_mhk-05-xmas-00_talk-01-01",
+        "motionAssetId": "mot_adv_chr_cmn_talk-004_in",
+        "additionMotionAssetId": "mot_all_chr_cmn_facial-032_in"
+      },
+      {
+        "text": "ちなみに私は『プロダクションで\nバイトをしている大学生か何か』\nに一票。",
+        "voiceAssetId": "sud_vo_home_mhk-05-xmas-00_talk-01-02",
+        "motionAssetId": "mot_adv_chr_cmn_talk-023_in",
+        "additionMotionAssetId": "mot_all_chr_cmn_facial-032_in"
+      },
+      {
+        "text": "葉ちゃんは『ものすごく童顔な、\n実は三十路のおじさん』説を\n推奨してました。",
+        "voiceAssetId": "sud_vo_home_mhk-05-xmas-00_talk-01-03",
+        "motionAssetId": "mot_adv_chr_cmn_talk-015_in",
+        "additionMotionAssetId": "mot_all_chr_cmn_facial-032_in"
+      },
+      {
+        "text": "もし学ラン姿の貴方も見かけて\nいたら、私がニアピンだったと\n葉ちゃんに言えたのですけどね。",
+        "voiceAssetId": "sud_vo_home_mhk-05-xmas-00_talk-01-04",
+        "motionAssetId": "mot_adv_chr_cmn_talk-001_in",
+        "additionMotionAssetId": "mot_all_chr_cmn_facial-032_in"
+      },
+      {
+        "text": "まぁ…その時は、高校生がなぜ\nマネージャーをしているのかと、\nまた首を傾げたでしょうけど。",
+        "voiceAssetId": "sud_vo_home_mhk-05-xmas-00_talk-01-05",
+        "motionAssetId": "mot_adv_chr_cmn_think-004_in",
         "additionMotionAssetId": ""
       }
     ]

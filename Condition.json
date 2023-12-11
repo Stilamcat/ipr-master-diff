@@ -13331,6 +13331,17 @@
     ]
   },
   {
+    "id": "cd-day-christmas-01-23-1211",
+    "settings": [
+      {
+        "term": {
+          "nowAfter": "1702263600000",
+          "nowBefore": "1703516399000"
+        }
+      }
+    ]
+  },
+  {
     "id": "cd-day-newyear-01",
     "settings": [
       {
@@ -14687,6 +14698,26 @@
   },
   {
     "id": "cd-dream-23-1110-season-max-grade-a",
+    "settings": [
+      {}
+    ]
+  },
+  {
+    "id": "cd-dream-23-1212-play",
+    "settings": [
+      {
+        "satisfyCondition": {
+          "conditionId": "cd-clear-area-main-016"
+        },
+        "term": {
+          "nowAfter": "1702350000000",
+          "nowBefore": "1703213999000"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-dream-23-1212-season-max-grade-a",
     "settings": [
       {}
     ]
@@ -55028,6 +55059,16 @@
     ]
   },
   {
+    "id": "cd-ms-read-message-card-kor-05-xmas-00",
+    "settings": [
+      {
+        "finishedMessage": {
+          "messageId": "message-card-kor-05-xmas-00"
+        }
+      }
+    ]
+  },
+  {
     "id": "cd-ms-read-message-card-ktn-05-circ-00",
     "settings": [
       {
@@ -55223,6 +55264,16 @@
       {
         "finishedMessage": {
           "messageId": "message-card-mhk-05-poli-00"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-ms-read-message-card-mhk-05-xmas-00",
+    "settings": [
+      {
+        "finishedMessage": {
+          "messageId": "message-card-mhk-05-xmas-00"
         }
       }
     ]
@@ -77980,7 +78031,54 @@
       {
         "term": {
           "nowAfter": "1701788400000",
-          "nowBefore": "1702436399000"
+          "nowBefore": "1702263599000"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-shop-pack-23-1211",
+    "settings": [
+      {
+        "term": {
+          "nowAfter": "1702263600000",
+          "nowBefore": "0"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-shop-pack-23-1211-1223",
+    "settings": [
+      {
+        "term": {
+          "nowAfter": "1702263600000",
+          "nowBefore": "1703343599000"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-shop-pack-23-1211-1223-dokan",
+    "settings": [
+      {
+        "term": {
+          "nowAfter": "1702263600000",
+          "nowBefore": "1703343599000"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-shop-pack-23-1211-1223-mlv-120",
+    "settings": [
+      {
+        "satisfyCondition": {
+          "conditionId": "cd-manager_level_gte-120"
+        },
+        "term": {
+          "nowAfter": "1702263600000",
+          "nowBefore": "1703343599000"
         }
       }
     ]
@@ -78910,6 +79008,17 @@
         "term": {
           "nowAfter": "1702738800000",
           "nowBefore": "1703041199000"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-shop_dress-shop-23-1211-1226",
+    "settings": [
+      {
+        "term": {
+          "nowAfter": "1702263600000",
+          "nowBefore": "1703559599000"
         }
       }
     ]
@@ -83462,7 +83571,40 @@
       {
         "term": {
           "nowAfter": "1701140400000",
-          "nowBefore": "1703041199000"
+          "nowBefore": "1702263599000"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-special-shop-pack-23-1211",
+    "settings": [
+      {
+        "term": {
+          "nowAfter": "1702263600000",
+          "nowBefore": "0"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-special-shop-pack-23-1211-1218",
+    "settings": [
+      {
+        "term": {
+          "nowAfter": "1702263600000",
+          "nowBefore": "1702868399000"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-special-shop-pack-23-1211-1218-dokan",
+    "settings": [
+      {
+        "term": {
+          "nowAfter": "1702263600000",
+          "nowBefore": "1702868399000"
         }
       }
     ]
@@ -92815,6 +92957,16 @@
     ]
   },
   {
+    "id": "cd-st-read-st-card-kor-05-xmas-00-03",
+    "settings": [
+      {
+        "readStory": {
+          "storyId": "st-card-kor-05-xmas-00-03"
+        }
+      }
+    ]
+  },
+  {
     "id": "cd-st-read-st-card-ktn-05-circ-00-03",
     "settings": [
       {
@@ -93000,6 +93152,16 @@
       {
         "readStory": {
           "storyId": "st-card-mhk-05-poli-00-03"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-st-read-st-card-mhk-05-xmas-00-03",
+    "settings": [
+      {
+        "readStory": {
+          "storyId": "st-card-mhk-05-xmas-00-03"
         }
       }
     ]
@@ -96350,6 +96512,17 @@
     ]
   },
   {
+    "id": "cd-time-dream-23-1212-23-1222",
+    "settings": [
+      {
+        "term": {
+          "nowAfter": "1702350000000",
+          "nowBefore": "1703213999000"
+        }
+      }
+    ]
+  },
+  {
     "id": "cd-time-event-exchange_mini-tour-21-0721",
     "settings": [
       {
@@ -96666,6 +96839,21 @@
         "term": {
           "nowAfter": "1700838000000",
           "nowBefore": "1703084399000"
+        },
+        "gameStartTerm": {
+          "gameStartDatetimeAfter": "1700838000000",
+          "gameStartDatetimeBefore": "1703084399000"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-time-event-ms-sp-beginner-23-1125-1220-dokan-end",
+    "settings": [
+      {
+        "term": {
+          "nowAfter": "1700838000000",
+          "nowBefore": "1702263599000"
         },
         "gameStartTerm": {
           "gameStartDatetimeAfter": "1700838000000",
@@ -98686,6 +98874,17 @@
     ]
   },
   {
+    "id": "cd-time-exchange-gacha_point-24-0101-0131",
+    "settings": [
+      {
+        "term": {
+          "nowAfter": "1704034800000",
+          "nowBefore": "1706713199000"
+        }
+      }
+    ]
+  },
+  {
     "id": "cd-time-exchange-idle_medal-21-0624-0731",
     "settings": [
       {
@@ -99016,6 +99215,17 @@
     ]
   },
   {
+    "id": "cd-time-exchange-idle_medal-24-0101-0131",
+    "settings": [
+      {
+        "term": {
+          "nowAfter": "1704034800000",
+          "nowBefore": "1706713199000"
+        }
+      }
+    ]
+  },
+  {
     "id": "cd-time-exchange-idol_medal-21-0630-0831",
     "settings": [
       {
@@ -99215,6 +99425,20 @@
         "term": {
           "nowAfter": "1701356400000",
           "nowBefore": "1704034799000"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-time-exchange-league_medal-24-0101-0131",
+    "settings": [
+      {
+        "satisfyCondition": {
+          "conditionId": "cd-clear-area-main-015"
+        },
+        "term": {
+          "nowAfter": "1704034800000",
+          "nowBefore": "1706713199000"
         }
       }
     ]
@@ -99654,6 +99878,17 @@
     ]
   },
   {
+    "id": "cd-time-exchange-pvp_medal-24-0101-0131",
+    "settings": [
+      {
+        "term": {
+          "nowAfter": "1704034800000",
+          "nowBefore": "1706713199000"
+        }
+      }
+    ]
+  },
+  {
     "id": "cd-time-exchange-situation-illust-23-0624",
     "settings": [
       {
@@ -100063,6 +100298,20 @@
         "term": {
           "nowAfter": "1701788400000",
           "nowBefore": "1702436399000"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-time-gacha-birthday-23-1206-banner-close",
+    "settings": [
+      {
+        "satisfyCondition": {
+          "conditionId": "cd-time-gacha-fixed-23-1206-banner-end"
+        },
+        "term": {
+          "nowAfter": "1701788400000",
+          "nowBefore": "1702263599000"
         }
       }
     ]
@@ -101726,12 +101975,63 @@
     ]
   },
   {
+    "id": "cd-time-gacha-fixed-23-1206-banner-close",
+    "settings": [
+      {
+        "notSatisfyCondition": {
+          "conditionId": "cd-time-gacha-fixed-23-1206-banner-end"
+        },
+        "term": {
+          "nowAfter": "1701788400000",
+          "nowBefore": "1702263599000"
+        }
+      }
+    ]
+  },
+  {
     "id": "cd-time-gacha-fixed-23-1206-banner-end",
     "settings": [
       {
         "drawGacha": {
           "gachaButtonIds": [
             "btn-10-gacha-fixed-23-1206-total"
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-time-gacha-fixed-23-1211",
+    "settings": [
+      {
+        "term": {
+          "nowAfter": "1702263600000",
+          "nowBefore": "1703559599000"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-time-gacha-fixed-23-1211-banner",
+    "settings": [
+      {
+        "notSatisfyCondition": {
+          "conditionId": "cd-time-gacha-fixed-23-1211-banner-end"
+        },
+        "term": {
+          "nowAfter": "1702263600000",
+          "nowBefore": "1703559599000"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-time-gacha-fixed-23-1211-banner-end",
+    "settings": [
+      {
+        "drawGacha": {
+          "gachaButtonIds": [
+            "btn-10-gacha-fixed-23-1211-total"
           ]
         }
       }
@@ -103879,6 +104179,17 @@
     ]
   },
   {
+    "id": "cd-time-gacha-free-23-1214",
+    "settings": [
+      {
+        "term": {
+          "nowAfter": "1702522800000",
+          "nowBefore": "1703343599000"
+        }
+      }
+    ]
+  },
+  {
     "id": "cd-time-gacha-free-ticket-1s-23-0131",
     "settings": [
       {
@@ -105075,6 +105386,31 @@
     ]
   },
   {
+    "id": "cd-time-gacha-lm-set-bloom-23-1211",
+    "settings": [
+      {
+        "term": {
+          "nowAfter": "1702263600000",
+          "nowBefore": "1703559599000"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-time-gacha-lm-set-bloom-23-1211-banner",
+    "settings": [
+      {
+        "satisfyCondition": {
+          "conditionId": "cd-time-gacha-fixed-23-1211-banner-end"
+        },
+        "term": {
+          "nowAfter": "1702263600000",
+          "nowBefore": "1703559599000"
+        }
+      }
+    ]
+  },
+  {
     "id": "cd-time-gacha-lm-set-bloom-dokan-22-1128",
     "settings": [
       {
@@ -106070,7 +106406,7 @@
       {
         "term": {
           "nowAfter": "1701140400000",
-          "nowBefore": "1703041199000"
+          "nowBefore": "1705201199000"
         }
       }
     ]
@@ -108052,7 +108388,7 @@
       {
         "term": {
           "nowAfter": "1702090800000",
-          "nowBefore": "1702393199000"
+          "nowBefore": "1702263599000"
         }
       }
     ]
@@ -108064,6 +108400,17 @@
         "term": {
           "nowAfter": "1703084399000",
           "nowBefore": "1703386799000"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-time-gacha-premium-23-1209-dokan-end",
+    "settings": [
+      {
+        "term": {
+          "nowAfter": "1702090800000",
+          "nowBefore": "1702263599000"
         }
       }
     ]
@@ -110022,6 +110369,43 @@
     ]
   },
   {
+    "id": "cd-time-gacha-select-01-23-1212",
+    "settings": [
+      {
+        "term": {
+          "nowAfter": "1702350000000",
+          "nowBefore": "1702695599000"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-time-gacha-select-01-23-1212-banner",
+    "settings": [
+      {
+        "notSatisfyCondition": {
+          "conditionId": "cd-time-gacha-select-01-23-1212-banner-end"
+        },
+        "term": {
+          "nowAfter": "1702350000000",
+          "nowBefore": "1702695599000"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-time-gacha-select-01-23-1212-banner-end",
+    "settings": [
+      {
+        "drawGacha": {
+          "gachaButtonIds": [
+            "btn-10-gacha-select-01-23-1212"
+          ]
+        }
+      }
+    ]
+  },
+  {
     "id": "cd-time-gift-21-0624-0627",
     "settings": [
       {
@@ -111006,6 +111390,31 @@
     ]
   },
   {
+    "id": "cd-time-gvg-23-1215-1217_s-banner",
+    "settings": [
+      {
+        "satisfyCondition": {
+          "conditionId": "cd-clear-area-main-012"
+        },
+        "term": {
+          "nowAfter": "1702566000000",
+          "nowBefore": "1702825199000"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-time-gvg-23-1215-1221",
+    "settings": [
+      {
+        "term": {
+          "nowAfter": "1702566000000",
+          "nowBefore": "1703170799000"
+        }
+      }
+    ]
+  },
+  {
     "id": "cd-time-home-after-12",
     "settings": [
       {
@@ -111780,6 +112189,20 @@
     ]
   },
   {
+    "id": "cd-time-home-winter-evening-23-1211",
+    "settings": [
+      {
+        "satisfyCondition": {
+          "conditionId": "cd-day-christmas-01-23-1211"
+        },
+        "time": {
+          "nowAfter": "54000000",
+          "nowBefore": "61199000"
+        }
+      }
+    ]
+  },
+  {
     "id": "cd-time-home-winter-night",
     "settings": [
       {
@@ -111808,6 +112231,20 @@
     ]
   },
   {
+    "id": "cd-time-home-winter-night-23-1211",
+    "settings": [
+      {
+        "satisfyCondition": {
+          "conditionId": "cd-day-christmas-01-23-1211"
+        },
+        "time": {
+          "nowAfter": "61200000",
+          "nowBefore": "21599000"
+        }
+      }
+    ]
+  },
+  {
     "id": "cd-time-home-winter-noon",
     "settings": [
       {
@@ -111827,6 +112264,20 @@
       {
         "satisfyCondition": {
           "conditionId": "cd-day-christmas-01-22-1128"
+        },
+        "time": {
+          "nowAfter": "21600000",
+          "nowBefore": "53999000"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-time-home-winter-noon-23-1211",
+    "settings": [
+      {
+        "satisfyCondition": {
+          "conditionId": "cd-day-christmas-01-23-1211"
         },
         "time": {
           "nowAfter": "21600000",
@@ -113521,6 +113972,28 @@
         "term": {
           "nowAfter": "1701874800000",
           "nowBefore": "1703084399000"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-time-login-23-1216-1222",
+    "settings": [
+      {
+        "term": {
+          "nowAfter": "1702652400000",
+          "nowBefore": "1703257199000"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-time-login-23-1216-1229",
+    "settings": [
+      {
+        "term": {
+          "nowAfter": "1702652400000",
+          "nowBefore": "1703861999000"
         }
       }
     ]
@@ -117396,6 +117869,16 @@
     ]
   },
   {
+    "id": "cd-wear-costume-cos-kor-xmas-00",
+    "settings": [
+      {
+        "wearCostume": {
+          "costumeId": "cos-kor-xmas-00"
+        }
+      }
+    ]
+  },
+  {
     "id": "cd-wear-costume-cos-ktn-circ-00",
     "settings": [
       {
@@ -117581,6 +118064,16 @@
       {
         "wearCostume": {
           "costumeId": "cos-mhk-poli-00"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-wear-costume-cos-mhk-xmas-00",
+    "settings": [
+      {
+        "wearCostume": {
+          "costumeId": "cos-mhk-xmas-00"
         }
       }
     ]

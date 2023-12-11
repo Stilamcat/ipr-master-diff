@@ -583,6 +583,17 @@
     "salePrice": 0
   },
   {
+    "id": "item-dream-generate-dream-23-1212",
+    "name": "イメトレマニュアル",
+    "assetId": "dream-generate",
+    "description": "イメージトレーニングのステージ生成に使用する",
+    "howToGet": "イメージトレーニング",
+    "type": 10001,
+    "value": 1,
+    "order": 1000,
+    "salePrice": 0
+  },
+  {
     "id": "item-exchange-2nd-anniversary-medal-23-0528",
     "name": "2周年記念メダル",
     "assetId": "medal-2nd-anniversary",
@@ -1718,6 +1729,17 @@
   {
     "id": "item-gacha_point-lm-set-bloom-23-1128",
     "name": "with AqoursガチャPt",
+    "assetId": "gacha-point",
+    "description": "該当するガチャページの「ガチャPt」から\nガチャPtを消費してアイドルを獲得できる",
+    "type": 9,
+    "value": 1,
+    "order": 140,
+    "howToGet": "",
+    "salePrice": 0
+  },
+  {
+    "id": "item-gacha_point-lm-set-bloom-23-1211",
+    "name": "乾杯は聖なる夜にガチャPt",
     "assetId": "gacha-point",
     "description": "該当するガチャページの「ガチャPt」から\nガチャPtを消費してアイドルを獲得できる",
     "type": 9,
