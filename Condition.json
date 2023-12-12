@@ -11592,25 +11592,61 @@
   {
     "id": "cd-contest-23-1128-total_submit_count_gte-10",
     "settings": [
-      {}
+      {},
+      {
+        "satisfyCondition": {
+          "conditionId": "cd-clear-area-main-004"
+        },
+        "term": {
+          "nowAfter": "1702350000000",
+          "nowBefore": "1703084399000"
+        }
+      }
     ]
   },
   {
     "id": "cd-contest-23-1128-total_submit_count_gte-20",
     "settings": [
-      {}
+      {},
+      {
+        "satisfyCondition": {
+          "conditionId": "cd-clear-area-main-004"
+        },
+        "term": {
+          "nowAfter": "1702350000000",
+          "nowBefore": "1703084399000"
+        }
+      }
     ]
   },
   {
     "id": "cd-contest-23-1128-total_submit_count_gte-3",
     "settings": [
-      {}
+      {},
+      {
+        "satisfyCondition": {
+          "conditionId": "cd-clear-area-main-004"
+        },
+        "term": {
+          "nowAfter": "1702350000000",
+          "nowBefore": "1703084399000"
+        }
+      }
     ]
   },
   {
     "id": "cd-contest-23-1128-total_submit_count_gte-35",
     "settings": [
-      {}
+      {},
+      {
+        "satisfyCondition": {
+          "conditionId": "cd-clear-area-main-004"
+        },
+        "term": {
+          "nowAfter": "1702350000000",
+          "nowBefore": "1703084399000"
+        }
+      }
     ]
   },
   {
@@ -23636,6 +23672,15 @@
       {
         "satisfyCondition": {
           "conditionId": "cd-clear-area-main-004"
+        }
+      },
+      {
+        "satisfyCondition": {
+          "conditionId": "cd-clear-area-main-004"
+        },
+        "term": {
+          "nowAfter": "1702350000000",
+          "nowBefore": "1703084399000"
         }
       }
     ]
@@ -57060,6 +57105,15 @@
         "term": {
           "nowAfter": "1675177200000",
           "nowBefore": "1675997999000"
+        }
+      },
+      {
+        "satisfyCondition": {
+          "conditionId": "cd-tutorial-finish-photo-create-shooting"
+        },
+        "term": {
+          "nowAfter": "1702350000000",
+          "nowBefore": "1702522799000"
         }
       }
     ]
