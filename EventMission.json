@@ -495,10 +495,32 @@
     "unlockConditionId": ""
   },
   {
+    "id": "event-ladder-23-1222",
+    "eventMissionType": 1,
+    "assetId": "img_banner_l_campaign-23-1222-01",
+    "name": "全国ツアー開催記念",
+    "order": 1,
+    "viewConditionId": "cd-event-mission-23-1222-24-0127",
+    "missionIds": [
+      "event-ms-normal-23-1222-mission_card_level_up_count",
+      "event-ms-normal-23-1222-mission_card_skill_level_up_count",
+      "event-ms-normal-23-1222-mission_login_count",
+      "event-ms-normal-23-1222-mission_market_exchange_count",
+      "event-ms-normal-23-1222-mission_open_panel_count",
+      "event-ms-normal-23-1222-mission_photo_shoot_total_count",
+      "event-ms-normal-23-1222-mission_quest_all_clear_count",
+      "event-ms-normal-23-1222-mission_quest_contest_clear_count",
+      "event-ms-normal-23-1222-mission_quest_daily_clear_count",
+      "event-ms-normal-23-1222-mission_quest_pvp_play_count",
+      "event-ms-normal-23-1222-mission_use_point_amount_count"
+    ],
+    "unlockConditionId": ""
+  },
+  {
     "id": "event-love-23-0514-limited",
     "eventMissionType": 1,
     "assetId": "img_banner_l_event-mission-21-0624",
-    "name": "もし恋初回限定課題",
+    "name": "もし恋デイリー",
     "order": 1,
     "viewConditionId": "cd-date-event-mission-love-23-0514-limited",
     "unlockConditionId": "cd-date-event-mission-love-23-0514-limited",

@@ -693,6 +693,17 @@
     "salePrice": 0
   },
   {
+    "id": "item-exchange-dress-medal-23-1215",
+    "name": "復刻衣装メダル",
+    "assetId": "medal-dress",
+    "description": "復刻衣装メダル交換所で様々なアイテムと交換できる\n交換所終了後はコインに変換されます",
+    "howToGet": "ショップなど",
+    "type": 10,
+    "value": 1,
+    "order": 140,
+    "salePrice": 0
+  },
+  {
     "id": "item-exchange-fes-medal-23-0927",
     "name": "フェスメダル",
     "assetId": "medal-fes",
@@ -2156,6 +2167,17 @@
     "salePrice": 0
   },
   {
+    "id": "item-gacha_point-pick-set-bloom-23-1215",
+    "name": "【復刻】もし恋~一ノ瀬怜編~ガチャPt",
+    "assetId": "gacha-point",
+    "description": "該当するガチャページの「ガチャPt」から\nガチャPtを消費してアイドルを獲得できる",
+    "type": 9,
+    "value": 1,
+    "order": 140,
+    "howToGet": "",
+    "salePrice": 0
+  },
+  {
     "id": "item-gacha_point-pickup-21-0712",
     "name": "光射す海宴ガチャPt",
     "assetId": "gacha-point",
@@ -2554,6 +2576,17 @@
   {
     "id": "item-gacha_point-rev-select-01-23-1201",
     "name": "選べる★5復刻ガチャPt",
+    "assetId": "gacha-point",
+    "description": "該当するガチャページの「ガチャPt」から\nガチャPtを消費してアイドルを獲得できる",
+    "type": 9,
+    "value": 1,
+    "order": 140,
+    "howToGet": "",
+    "salePrice": 0
+  },
+  {
+    "id": "item-gacha_point-rev-select-01-23-1222",
+    "name": "選べる★5アイドルガチャ サニーピース verPt",
     "assetId": "gacha-point",
     "description": "該当するガチャページの「ガチャPt」から\nガチャPtを消費してアイドルを獲得できる",
     "type": 9,
@@ -3107,6 +3140,17 @@
     "assetId": "marathon-raid-pt",
     "description": "マルチリンクスイベントで報酬を獲得することができます\nイベント終了後はコインに変換されます",
     "howToGet": "マルチリンクスイベント",
+    "type": 8001,
+    "value": 1,
+    "order": 100,
+    "salePrice": 0
+  },
+  {
+    "id": "item-ladder_pt_23-1222",
+    "name": "ツアーペンライト",
+    "assetId": "ladder-pt-23-1222",
+    "description": "全国ツアー開催記念ミッションで報酬を獲得することができます\nイベント終了後はコインに変換されます",
+    "howToGet": "全国ツアー開催記念ミッション、全国ツアー開催記念定例ツアーなど",
     "type": 8001,
     "value": 1,
     "order": 100,
