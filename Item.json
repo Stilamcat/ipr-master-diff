@@ -550,6 +550,17 @@
     "salePrice": 0
   },
   {
+    "id": "item-daily_quest_ticket_sp-23-1224",
+    "name": "スペシャルパス",
+    "assetId": "quest-daily-special",
+    "description": "デイリーライブ【スペシャル】に挑戦できる\nイベント終了後は消失します",
+    "howToGet": "ショップなど",
+    "type": 2006,
+    "value": 1,
+    "order": 220,
+    "salePrice": 0
+  },
+  {
     "id": "item-dream-generate-dream-23-0912",
     "name": "イメトレマニュアル",
     "assetId": "dream-generate",
@@ -891,11 +902,44 @@
     "salePrice": 0
   },
   {
+    "id": "item-exchange-ticket-23-1224",
+    "name": "★5契約書",
+    "assetId": "card-exchange-05",
+    "description": "★5アイドル交換所で好きな\nメンバーと交換できるチケット",
+    "howToGet": "2.5周年記念ドリームギフトガチャ",
+    "type": 10,
+    "value": 1,
+    "order": 140,
+    "salePrice": 0
+  },
+  {
     "id": "item-exchange-ticket-premium-23-0624",
     "name": "★5プレミアム契約書",
     "assetId": "card-exchange-05-situation-illust",
     "description": "★5シチュエーションイラスト交換所で\n好きなメンバーと交換できるチケット",
     "howToGet": "プレミアムガチャ",
+    "type": 10,
+    "value": 1,
+    "order": 140,
+    "salePrice": 0
+  },
+  {
+    "id": "item-exchange-ticket-premium-23-1224",
+    "name": "★5プレミアム契約書",
+    "assetId": "card-exchange-05-situation-illust",
+    "description": "★5シチュエーションイラスト交換所で\n好きなメンバーと交換できるチケット",
+    "howToGet": "プレミアムガチャ",
+    "type": 10,
+    "value": 1,
+    "order": 140,
+    "salePrice": 0
+  },
+  {
+    "id": "item-exchange-ticket-rev-23-1224",
+    "name": "★5限定契約書",
+    "assetId": "card-exchange-05-22-1224",
+    "description": "★5限定アイドル交換所で好きな\nメンバーと交換できるチケット",
+    "howToGet": "2.5周年記念復刻ドリームギフトガチャ",
     "type": 10,
     "value": 1,
     "order": 140,
@@ -929,6 +973,17 @@
     "assetId": "gacha-endless-22-1224",
     "description": "有効期限：入手後7日\n10連ガチャを1回引くことができる",
     "howToGet": "引き放題ガチャ",
+    "type": 8,
+    "value": 1,
+    "order": 140,
+    "salePrice": 0
+  },
+  {
+    "id": "item-gacha-endless-23-1224-m10-ticket",
+    "name": "10連ガチャチケ",
+    "assetId": "gacha-endless-22-1224",
+    "description": "有効期限：入手後7日\n10連ガチャを1回引くことができる",
+    "howToGet": "2.5周年記念引き放題ガチャ",
     "type": 8,
     "value": 1,
     "order": 140,
@@ -2587,6 +2642,17 @@
   {
     "id": "item-gacha_point-rev-select-01-23-1222",
     "name": "選べる★5アイドルガチャ サニーピース verPt",
+    "assetId": "gacha-point",
+    "description": "該当するガチャページの「ガチャPt」から\nガチャPtを消費してアイドルを獲得できる",
+    "type": 9,
+    "value": 1,
+    "order": 140,
+    "howToGet": "",
+    "salePrice": 0
+  },
+  {
+    "id": "item-gacha_point-rev-select-01-23-1224",
+    "name": "選べる★5復刻ガチャPt",
     "assetId": "gacha-point",
     "description": "該当するガチャページの「ガチャPt」から\nガチャPtを消費してアイドルを獲得できる",
     "type": 9,
