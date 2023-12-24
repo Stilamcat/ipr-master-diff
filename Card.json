@@ -4010,6 +4010,58 @@
     "homeTalks": []
   },
   {
+    "id": "card-ktn-05-birt-00",
+    "assetId": "ktn-05-birt-00",
+    "name": "雪よ降れ降れバースデー",
+    "description": "クリスマスって、悲しい思い出もあるけど……\n二人のおかげで、また一つ、楽しい思い出が増えたわ",
+    "type": 2,
+    "characterId": "char-ktn",
+    "initialRarity": 5,
+    "cardParameterId": "card-param-01",
+    "vocalRatioPermil": 318,
+    "danceRatioPermil": 277,
+    "visualRatioPermil": 405,
+    "staminaRatioPermil": 1000,
+    "cardLevelReleaseId": "card_level_release_1",
+    "skillId1": "sk-ktn-05-birt-00-1",
+    "skillId2": "sk-ktn-05-birt-00-2",
+    "skillId3": "sk-ktn-05-birt-00-3",
+    "liveAbilityId": "lba-special_skill_score_multiply",
+    "order": 333,
+    "releaseDate": "1703430000000",
+    "imageType1": 3,
+    "displayPositionX1": 0.23,
+    "displayPositionY1": 0.167,
+    "displayScale1": 1.5,
+    "highlightDisplayPositionX1": -0.32,
+    "highlightDisplayPositionY1": 0.411,
+    "highlightDisplayScale1": 0.7,
+    "imageType2": 3,
+    "displayPositionX2": 0.23,
+    "displayPositionY2": 0.167,
+    "displayScale2": 1.5,
+    "highlightDisplayPositionX2": -0.32,
+    "highlightDisplayPositionY2": 0.411,
+    "highlightDisplayScale2": 0.7,
+    "obtainMessage": "まさか、私の方が\n驚かされちゃうなんて",
+    "rewardHairId": "hair-ktn-hair-10",
+    "stories": [
+      {
+        "storyId": "st-card-ktn-05-birt-00-01"
+      },
+      {
+        "storyId": "st-card-ktn-05-birt-00-02"
+      },
+      {
+        "storyId": "st-card-ktn-05-birt-00-03"
+      }
+    ],
+    "activityAbilityId": "",
+    "rewardCostumeId": "",
+    "messages": [],
+    "homeTalks": []
+  },
+  {
     "id": "card-ktn-05-circ-00",
     "assetId": "ktn-05-circ-00",
     "name": "カットバックタンデム",

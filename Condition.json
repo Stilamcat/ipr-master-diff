@@ -4930,6 +4930,17 @@
     ]
   },
   {
+    "id": "cd-birthday_emblem_ktn-23-1225",
+    "settings": [
+      {
+        "term": {
+          "nowAfter": "1703430000000",
+          "nowBefore": "1703516999000"
+        }
+      }
+    ]
+  },
+  {
     "id": "cd-birthday_emblem_mei-23-0707",
     "settings": [
       {
@@ -5395,6 +5406,17 @@
         "term": {
           "nowAfter": "1671894000000",
           "nowBefore": "1671980399000"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-birthday_ktn-23-1225",
+    "settings": [
+      {
+        "term": {
+          "nowAfter": "1703430000000",
+          "nowBefore": "1703516399000"
         }
       }
     ]
@@ -27843,6 +27865,17 @@
       {
         "term": {
           "nowAfter": "1686409200000",
+          "nowBefore": "0"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-ex-story-part-birthday-ktn-23-1225-open",
+    "settings": [
+      {
+        "term": {
+          "nowAfter": "1703430000000",
           "nowBefore": "0"
         }
       }
@@ -81263,6 +81296,39 @@
     ]
   },
   {
+    "id": "cd-shop-pack-23-1225",
+    "settings": [
+      {
+        "term": {
+          "nowAfter": "1703430000000",
+          "nowBefore": "0"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-shop-pack-23-1225-0101",
+    "settings": [
+      {
+        "term": {
+          "nowAfter": "1703430000000",
+          "nowBefore": "1704077999000"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-shop-pack-23-1225-0101-dokan",
+    "settings": [
+      {
+        "term": {
+          "nowAfter": "1703430000000",
+          "nowBefore": "1704077999000"
+        }
+      }
+    ]
+  },
+  {
     "id": "cd-shop-pack1-23-0809",
     "settings": [
       {
@@ -103670,6 +103736,31 @@
     ]
   },
   {
+    "id": "cd-time-gacha-birthday-23-1225",
+    "settings": [
+      {
+        "term": {
+          "nowAfter": "1703430000000",
+          "nowBefore": "1704077999000"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-time-gacha-birthday-23-1225-banner",
+    "settings": [
+      {
+        "satisfyCondition": {
+          "conditionId": "cd-time-gacha-fixed-23-1225-banner-end"
+        },
+        "term": {
+          "nowAfter": "1703430000000",
+          "nowBefore": "1704077999000"
+        }
+      }
+    ]
+  },
+  {
     "id": "cd-time-gacha-birthday-hair-23-0707",
     "settings": [
       {
@@ -103762,6 +103853,20 @@
         },
         "term": {
           "nowAfter": "1701788400000",
+          "nowBefore": "0"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-time-gacha-birthday-hair-23-1225",
+    "settings": [
+      {
+        "obtainCard": {
+          "cardId": "card-ktn-05-birt-00"
+        },
+        "term": {
+          "nowAfter": "1703430000000",
           "nowBefore": "0"
         }
       }
@@ -105486,6 +105591,43 @@
         "drawGacha": {
           "gachaButtonIds": [
             "btn-10-gacha-fixed-23-1211-total"
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-time-gacha-fixed-23-1225",
+    "settings": [
+      {
+        "term": {
+          "nowAfter": "1703430000000",
+          "nowBefore": "1704077999000"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-time-gacha-fixed-23-1225-banner",
+    "settings": [
+      {
+        "notSatisfyCondition": {
+          "conditionId": "cd-time-gacha-fixed-23-1225-banner-end"
+        },
+        "term": {
+          "nowAfter": "1703430000000",
+          "nowBefore": "1704077999000"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-time-gacha-fixed-23-1225-banner-end",
+    "settings": [
+      {
+        "drawGacha": {
+          "gachaButtonIds": [
+            "btn-10-gacha-fixed-23-1225-total"
           ]
         }
       }
@@ -117880,6 +118022,28 @@
         "term": {
           "nowAfter": "1702652400000",
           "nowBefore": "1703861999000"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-time-login-23-1227-0102",
+    "settings": [
+      {
+        "term": {
+          "nowAfter": "1703602800000",
+          "nowBefore": "1704207599000"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-time-login-23-1227-0109",
+    "settings": [
+      {
+        "term": {
+          "nowAfter": "1703602800000",
+          "nowBefore": "1704812399000"
         }
       }
     ]

@@ -14600,10 +14600,30 @@
     "shortDescription": ""
   },
   {
+    "id": "ef-critical_rate_up-5-target-trigger-39",
+    "name": "対象にクリティカル率上昇効果",
+    "type": 19,
+    "description": "対象1人に5段階クリティカル率上昇効果[39ビート]",
+    "grade": 5,
+    "maxGrade": 20,
+    "skillTargetId": "target-trigger",
+    "shortDescription": ""
+  },
+  {
     "id": "ef-critical_rate_up-5-target-trigger-40",
     "name": "対象にクリティカル率上昇効果",
     "type": 19,
     "description": "対象1人に5段階クリティカル率上昇効果[40ビート]",
+    "grade": 5,
+    "maxGrade": 20,
+    "skillTargetId": "target-trigger",
+    "shortDescription": ""
+  },
+  {
+    "id": "ef-critical_rate_up-5-target-trigger-41",
+    "name": "対象にクリティカル率上昇効果",
+    "type": 19,
+    "description": "対象1人に5段階クリティカル率上昇効果[41ビート]",
     "grade": 5,
     "maxGrade": 20,
     "skillTargetId": "target-trigger",
@@ -15430,6 +15450,16 @@
     "shortDescription": ""
   },
   {
+    "id": "ef-critical_rate_up-6-target-trigger-43",
+    "name": "対象にクリティカル率上昇効果",
+    "type": 19,
+    "description": "対象1人に6段階クリティカル率上昇効果[43ビート]",
+    "grade": 6,
+    "maxGrade": 20,
+    "skillTargetId": "target-trigger",
+    "shortDescription": ""
+  },
+  {
     "id": "ef-critical_rate_up-6-target-trigger-44",
     "name": "対象にクリティカル率上昇効果",
     "type": 19,
@@ -16014,6 +16044,26 @@
     "name": "対象にクリティカル率上昇効果",
     "type": 19,
     "description": "対象1人に7段階クリティカル率上昇効果[42ビート]",
+    "grade": 7,
+    "maxGrade": 20,
+    "skillTargetId": "target-trigger",
+    "shortDescription": ""
+  },
+  {
+    "id": "ef-critical_rate_up-7-target-trigger-43",
+    "name": "対象にクリティカル率上昇効果",
+    "type": 19,
+    "description": "対象1人に7段階クリティカル率上昇効果[43ビート]",
+    "grade": 7,
+    "maxGrade": 20,
+    "skillTargetId": "target-trigger",
+    "shortDescription": ""
+  },
+  {
+    "id": "ef-critical_rate_up-7-target-trigger-45",
+    "name": "対象にクリティカル率上昇効果",
+    "type": 19,
+    "description": "対象1人に7段階クリティカル率上昇効果[45ビート]",
     "grade": 7,
     "maxGrade": 20,
     "skillTargetId": "target-trigger",
@@ -41520,6 +41570,16 @@
     "shortDescription": ""
   },
   {
+    "id": "ef-special_skill_score_up-1-target-trigger-999",
+    "name": "対象にSPスキルスコア上昇効果",
+    "type": 34,
+    "description": "対象1人に1段階SPスキルスコア上昇効果",
+    "grade": 1,
+    "maxGrade": 20,
+    "skillTargetId": "target-trigger",
+    "shortDescription": ""
+  },
+  {
     "id": "ef-special_skill_score_up-2-target-character_type-1-2-999",
     "name": "スコアラータイプ2人にSPスキルスコア上昇効果",
     "type": 34,
@@ -41547,6 +41607,16 @@
     "grade": 2,
     "maxGrade": 20,
     "skillTargetId": "target-self",
+    "shortDescription": ""
+  },
+  {
+    "id": "ef-special_skill_score_up-2-target-trigger-999",
+    "name": "対象にSPスキルスコア上昇効果",
+    "type": 34,
+    "description": "対象1人に2段階SPスキルスコア上昇効果",
+    "grade": 2,
+    "maxGrade": 20,
+    "skillTargetId": "target-trigger",
     "shortDescription": ""
   },
   {
@@ -41581,6 +41651,16 @@
   },
   {
     "id": "ef-special_skill_score_up-3-target-trigger-5",
+    "name": "対象にSPスキルスコア上昇効果",
+    "type": 34,
+    "description": "対象1人に3段階SPスキルスコア上昇効果",
+    "grade": 3,
+    "maxGrade": 20,
+    "skillTargetId": "target-trigger",
+    "shortDescription": ""
+  },
+  {
+    "id": "ef-special_skill_score_up-3-target-trigger-999",
     "name": "対象にSPスキルスコア上昇効果",
     "type": 34,
     "description": "対象1人に3段階SPスキルスコア上昇効果",
@@ -45330,6 +45410,16 @@
     "maxGrade": 0
   },
   {
+    "id": "ef-strength_effect_count_increase-5-target-all",
+    "name": "全員の強化効果を延長",
+    "type": 25,
+    "description": "全員の強化効果を5延長",
+    "skillTargetId": "target-all",
+    "shortDescription": "",
+    "grade": 0,
+    "maxGrade": 0
+  },
+  {
     "id": "ef-strength_effect_count_increase-5-target-center",
     "name": "センターの強化効果を延長",
     "type": 25,
@@ -45425,6 +45515,16 @@
     "type": 25,
     "description": "ビジュアルタイプ3人の強化効果を5延長",
     "skillTargetId": "target-visual-3",
+    "shortDescription": "",
+    "grade": 0,
+    "maxGrade": 0
+  },
+  {
+    "id": "ef-strength_effect_count_increase-6-target-all",
+    "name": "全員の強化効果を延長",
+    "type": 25,
+    "description": "全員の強化効果を6延長",
+    "skillTargetId": "target-all",
     "shortDescription": "",
     "grade": 0,
     "maxGrade": 0
@@ -45965,6 +46065,16 @@
     "type": 26,
     "description": "ビジュアルタイプ2人の強化効果を1段階増強",
     "skillTargetId": "target-visual-2",
+    "shortDescription": "",
+    "grade": 0,
+    "maxGrade": 0
+  },
+  {
+    "id": "ef-strength_effect_value_increase-1-target-visual-3",
+    "name": "ビジュアルタイプ3人の強化効果を増強",
+    "type": 26,
+    "description": "ビジュアルタイプ3人の強化効果を1段階増強",
+    "skillTargetId": "target-visual-3",
     "shortDescription": "",
     "grade": 0,
     "maxGrade": 0
@@ -48200,6 +48310,26 @@
     "shortDescription": ""
   },
   {
+    "id": "ef-visual_boost-5-target-visual-1-31",
+    "name": "ビジュアルタイプ1人にビジュアルブースト効果",
+    "type": 58,
+    "description": "ビジュアルタイプ1人に5段階ビジュアルブースト効果[31ビート]",
+    "grade": 5,
+    "maxGrade": 20,
+    "skillTargetId": "target-visual-1",
+    "shortDescription": ""
+  },
+  {
+    "id": "ef-visual_boost-5-target-visual-1-41",
+    "name": "ビジュアルタイプ1人にビジュアルブースト効果",
+    "type": 58,
+    "description": "ビジュアルタイプ1人に5段階ビジュアルブースト効果[41ビート]",
+    "grade": 5,
+    "maxGrade": 20,
+    "skillTargetId": "target-visual-1",
+    "shortDescription": ""
+  },
+  {
     "id": "ef-visual_boost-5-target-visual-2-23",
     "name": "ビジュアルタイプ2人にビジュアルブースト効果",
     "type": 58,
@@ -48290,6 +48420,26 @@
     "shortDescription": ""
   },
   {
+    "id": "ef-visual_boost-6-target-visual-1-41",
+    "name": "ビジュアルタイプ1人にビジュアルブースト効果",
+    "type": 58,
+    "description": "ビジュアルタイプ1人に6段階ビジュアルブースト効果[41ビート]",
+    "grade": 6,
+    "maxGrade": 20,
+    "skillTargetId": "target-visual-1",
+    "shortDescription": ""
+  },
+  {
+    "id": "ef-visual_boost-6-target-visual-1-51",
+    "name": "ビジュアルタイプ1人にビジュアルブースト効果",
+    "type": 58,
+    "description": "ビジュアルタイプ1人に6段階ビジュアルブースト効果[51ビート]",
+    "grade": 6,
+    "maxGrade": 20,
+    "skillTargetId": "target-visual-1",
+    "shortDescription": ""
+  },
+  {
     "id": "ef-visual_boost-6-target-visual-2-27",
     "name": "ビジュアルタイプ2人にビジュアルブースト効果",
     "type": 58,
@@ -48357,6 +48507,26 @@
     "grade": 7,
     "maxGrade": 20,
     "skillTargetId": "target-self",
+    "shortDescription": ""
+  },
+  {
+    "id": "ef-visual_boost-7-target-visual-1-51",
+    "name": "ビジュアルタイプ1人にビジュアルブースト効果",
+    "type": 58,
+    "description": "ビジュアルタイプ1人に7段階ビジュアルブースト効果[51ビート]",
+    "grade": 7,
+    "maxGrade": 20,
+    "skillTargetId": "target-visual-1",
+    "shortDescription": ""
+  },
+  {
+    "id": "ef-visual_boost-7-target-visual-1-59",
+    "name": "ビジュアルタイプ1人にビジュアルブースト効果",
+    "type": 58,
+    "description": "ビジュアルタイプ1人に7段階ビジュアルブースト効果[59ビート]",
+    "grade": 7,
+    "maxGrade": 20,
+    "skillTargetId": "target-visual-1",
     "shortDescription": ""
   },
   {

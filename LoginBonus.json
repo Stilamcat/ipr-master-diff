@@ -1420,6 +1420,27 @@
     "receiveConditionId": "cd-time-login-23-1216-1229"
   },
   {
+    "id": "login_bonus-campaign-23-1227-01",
+    "name": "2.5周年記念",
+    "description": "7日間の特別なログインボーナス",
+    "type": 2,
+    "assetId": "login-campaign-23-1227-01",
+    "topColorCode": "00CEFF",
+    "bottomColorCode": "D0FFA0",
+    "priority": 10,
+    "rewardIds": [
+      "rd_auto;item;item-card_skill;10000",
+      "rd_auto;item;item-act_promotion_shorten-sp;1",
+      "rd_auto;item;item-act_refresh_shorten;2",
+      "rd_auto;item;item-act_lesson-boost;3",
+      "rd_auto;item;item-act_fan-reward-up;2",
+      "rd_auto;item;item-rarity_exp_medal-21-1228;1",
+      "rd_auto;stone;;500"
+    ],
+    "openConditionId": "cd-time-login-23-1227-0102",
+    "receiveConditionId": "cd-time-login-23-1227-0109"
+  },
+  {
     "id": "login_bonus-normal-01",
     "name": "デイリー",
     "description": "毎日もらえるログインボーナス",
