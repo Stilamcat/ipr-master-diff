@@ -44,6 +44,50 @@
     "focusCharacterId": ""
   },
   {
+    "id": "phot-aniv-23-1226-mna",
+    "assetId": "phot-aniv-23-1226-mna",
+    "name": "長瀬麻奈",
+    "rarity": 5,
+    "placeName": "2.5周年記念",
+    "eventName": "メモリアルフォト",
+    "level": 35,
+    "abilities": [
+      {
+        "photoAbilityId": "pab-vocal_multiply_distribution-5",
+        "effectValue": 200,
+        "grade": 1,
+        "missionId": ""
+      },
+      {
+        "photoAbilityId": "pab-dance_multiply_distribution-5",
+        "effectValue": 200,
+        "grade": 1,
+        "missionId": ""
+      },
+      {
+        "photoAbilityId": "pab-visual_multiply_distribution-5",
+        "effectValue": 200,
+        "grade": 1,
+        "missionId": ""
+      },
+      {
+        "photoAbilityId": "pab-technique_add-5",
+        "effectValue": 77,
+        "grade": 1,
+        "missionId": ""
+      },
+      {
+        "photoAbilityId": "pab-passive-skill_sk-phot-release-login-5-01",
+        "effectValue": 1,
+        "grade": 1,
+        "missionId": ""
+      }
+    ],
+    "focusCharacterId": "char-mna",
+    "characterIds": [],
+    "shootingTime": "0"
+  },
+  {
     "id": "phot-birthday-23-0707-mei",
     "assetId": "phot-birthday-23-0707-mei",
     "name": "早坂芽衣",
@@ -3612,6 +3656,50 @@
     "shootingTime": "0"
   },
   {
+    "id": "phot-prm-5-29",
+    "assetId": "phot-prm-231226-01",
+    "name": "長瀬麻奈&長瀬琴乃",
+    "rarity": 5,
+    "placeName": "ミニマルチリンクス",
+    "eventName": "メモリアルフォト",
+    "level": 35,
+    "abilities": [
+      {
+        "photoAbilityId": "pab-vocal_multiply_distribution-5",
+        "effectValue": 200,
+        "grade": 1,
+        "missionId": ""
+      },
+      {
+        "photoAbilityId": "pab-dance_multiply_distribution-5",
+        "effectValue": 200,
+        "grade": 1,
+        "missionId": ""
+      },
+      {
+        "photoAbilityId": "pab-visual_multiply_distribution-5",
+        "effectValue": 200,
+        "grade": 1,
+        "missionId": ""
+      },
+      {
+        "photoAbilityId": "pab-active-skill-score-up_multiply_distribution-5",
+        "effectValue": 60,
+        "grade": 1,
+        "missionId": ""
+      },
+      {
+        "photoAbilityId": "pab-passive-skill_sk-phot-shop-5-02",
+        "effectValue": 1,
+        "grade": 1,
+        "missionId": ""
+      }
+    ],
+    "focusCharacterId": "char-mna",
+    "characterIds": [],
+    "shootingTime": "0"
+  },
+  {
     "id": "phot-prm-5-3",
     "assetId": "phot-prm-5-0003",
     "name": "IIIX",
@@ -3652,6 +3740,50 @@
       }
     ],
     "focusCharacterId": "char-kor",
+    "characterIds": [],
+    "shootingTime": "0"
+  },
+  {
+    "id": "phot-prm-5-30",
+    "assetId": "phot-prm-231226-02",
+    "name": "神崎莉央",
+    "rarity": 5,
+    "placeName": "ミニマルチリンクス",
+    "eventName": "メモリアルフォト",
+    "level": 35,
+    "abilities": [
+      {
+        "photoAbilityId": "pab-vocal_multiply_distribution-5",
+        "effectValue": 200,
+        "grade": 1,
+        "missionId": ""
+      },
+      {
+        "photoAbilityId": "pab-dance_multiply_distribution-5",
+        "effectValue": 200,
+        "grade": 1,
+        "missionId": ""
+      },
+      {
+        "photoAbilityId": "pab-visual_multiply_distribution-5",
+        "effectValue": 200,
+        "grade": 1,
+        "missionId": ""
+      },
+      {
+        "photoAbilityId": "pab-beat-score-up_multiply_distribution-5",
+        "effectValue": 100,
+        "grade": 1,
+        "missionId": ""
+      },
+      {
+        "photoAbilityId": "pab-passive-skill_sk-phot-release-login-5-01",
+        "effectValue": 1,
+        "grade": 1,
+        "missionId": ""
+      }
+    ],
+    "focusCharacterId": "char-rio",
     "characterIds": [],
     "shootingTime": "0"
   },

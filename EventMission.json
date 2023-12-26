@@ -499,7 +499,7 @@
     "eventMissionType": 1,
     "assetId": "img_banner_l_campaign-23-1222-01",
     "name": "全国ツアー開催記念",
-    "order": 1,
+    "order": 99,
     "viewConditionId": "cd-event-mission-23-1222-24-0127",
     "missionIds": [
       "event-ms-normal-23-1222-mission_card_level_up_count",
@@ -906,6 +906,21 @@
     "unlockConditionId": ""
   },
   {
+    "id": "event-mini-marathon-raid-23-1226",
+    "eventMissionType": 1,
+    "assetId": "img_banner_l_event-mini-marathon-raid-23-1226",
+    "name": "イベントミッション",
+    "order": 1,
+    "viewConditionId": "cd-date-mini-marathon-raid-23-1226",
+    "missionIds": [
+      "ms-daily-event-mini-marathon-raid-23-1226-marathon_raid_host_count",
+      "ms-event-mini-marathon-raid-23-1226-marathon_quest_clear_count",
+      "ms-event-mini-marathon-raid-23-1226-marathon_quest_clear_difficulty-ep4",
+      "ms-normal-event-mini-marathon-raid-23-1226-marathon_raid_clear_count"
+    ],
+    "unlockConditionId": ""
+  },
+  {
     "id": "event-race-22-0228",
     "eventMissionType": 1,
     "assetId": "img_banner_l_event-race-22-0228",
@@ -1136,6 +1151,16 @@
       "event-race-23-1003-9"
     ],
     "unlockConditionId": ""
+  },
+  {
+    "id": "event-race-24-0103",
+    "eventMissionType": 1,
+    "assetId": "img_banner_l_event-race-24-0103",
+    "name": "イベントミッション",
+    "order": 99,
+    "viewConditionId": "cd-event-race-24-0103-exchange",
+    "unlockConditionId": "",
+    "missionIds": []
   },
   {
     "id": "event-shelf-23-1128",
@@ -1472,6 +1497,27 @@
       "event-ms-lovelive-23-1202-06-mission_clear_count",
       "event-ms-lovelive-23-1202-07-mission_clear_count",
       "event-ms-lovelive-23-1202-08-mission_clear_count"
+    ],
+    "unlockConditionId": ""
+  },
+  {
+    "id": "event_medley-mission-23-1228",
+    "eventMissionType": 2,
+    "assetId": "img_banner_l_event-medley-mission-23-1228",
+    "name": "2.5周年メドレーミッション",
+    "order": 2,
+    "viewConditionId": "cd-time-event-ms-medley-23-1228-0108",
+    "missionIds": [
+      "event-ms-medley-23-1228-00-card_skill_level_up_count-05",
+      "event-ms-medley-23-1228-00-condition_clear",
+      "event-ms-medley-23-1228-00-login_count-01",
+      "event-ms-medley-23-1228-00-market_exchange_count-04",
+      "event-ms-medley-23-1228-00-quest_contest_clear_count",
+      "event-ms-medley-23-1228-00-quest_daily_clear_count-03",
+      "event-ms-medley-23-1228-00-quest_pvp_play_count-02",
+      "event-ms-medley-23-1228-01-mission_clear_count-01",
+      "event-ms-medley-23-1228-02-mission_clear_count",
+      "event-ms-medley-23-1228-03-mission_clear_count"
     ],
     "unlockConditionId": ""
   },

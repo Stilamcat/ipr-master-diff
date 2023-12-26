@@ -5810,6 +5810,63 @@
     "homeTalks": []
   },
   {
+    "id": "card-mna-05-fest-02",
+    "assetId": "mna-05-fest-02",
+    "name": "未来願う真紅の花",
+    "description": "昔から観ていた舞台に立てて、夢みたい\r\nこれも、みんなが応援してくれたおかげだよ",
+    "type": 3,
+    "characterId": "char-mna",
+    "initialRarity": 5,
+    "cardParameterId": "card-param-01",
+    "vocalRatioPermil": 270,
+    "danceRatioPermil": 417,
+    "visualRatioPermil": 313,
+    "staminaRatioPermil": 1000,
+    "cardLevelReleaseId": "card_level_release_1",
+    "skillId1": "sk-mna-05-fest-02-1",
+    "skillId2": "sk-mna-05-fest-02-2",
+    "skillId3": "sk-mna-05-fest-02-3",
+    "activityAbilityId": "aab-lesson_card_enhance_item_up",
+    "order": 347,
+    "releaseDate": "1703559600000",
+    "rewardCostumeId": "cos-mna-fest-01",
+    "imageType1": 3,
+    "displayPositionX1": 0.255,
+    "displayPositionY1": 0.115,
+    "displayScale1": 1.3,
+    "highlightDisplayPositionX1": -0.253,
+    "highlightDisplayPositionY1": 0.294,
+    "highlightDisplayScale1": 0.8,
+    "imageType2": 3,
+    "displayPositionX2": 0.255,
+    "displayPositionY2": 0.115,
+    "displayScale2": 1.3,
+    "highlightDisplayPositionX2": -0.253,
+    "highlightDisplayPositionY2": 0.294,
+    "highlightDisplayScale2": 0.8,
+    "obtainMessage": "大晦日に一緒に過ごせるなんて、\n本当に嬉しい",
+    "stories": [
+      {
+        "storyId": "st-card-mna-05-fest-02-01"
+      },
+      {
+        "storyId": "st-card-mna-05-fest-02-02"
+      },
+      {
+        "storyId": "st-card-mna-05-fest-02-03"
+      }
+    ],
+    "messages": [
+      {
+        "messageId": "message-card-mna-05-fest-02",
+        "telephoneId": ""
+      }
+    ],
+    "liveAbilityId": "",
+    "rewardHairId": "",
+    "homeTalks": []
+  },
+  {
     "id": "card-mna-05-idol-00",
     "assetId": "mna-05-idol-00",
     "name": "You're my everything",
@@ -7763,6 +7820,67 @@
       },
       {
         "telephoneId": "tel-card-rio-05-fest-00",
+        "messageId": ""
+      }
+    ],
+    "activityAbilityId": "",
+    "rewardHairId": "",
+    "homeTalks": []
+  },
+  {
+    "id": "card-rio-05-fest-01",
+    "assetId": "rio-05-fest-01",
+    "name": "過去超えし真白の花",
+    "description": "私が憧れた沢山のアイドル、アーティストが立った\nこのステージに相応しいパフォーマンスを……",
+    "type": 2,
+    "characterId": "char-rio",
+    "initialRarity": 5,
+    "cardParameterId": "card-param-01",
+    "vocalRatioPermil": 405,
+    "danceRatioPermil": 318,
+    "visualRatioPermil": 277,
+    "staminaRatioPermil": 1000,
+    "cardLevelReleaseId": "card_level_release_1",
+    "skillId1": "sk-rio-05-fest-01-1",
+    "skillId2": "sk-rio-05-fest-01-2",
+    "skillId3": "sk-rio-05-fest-01-3",
+    "liveAbilityId": "lba-technique_add",
+    "order": 348,
+    "releaseDate": "1703559600000",
+    "rewardCostumeId": "cos-rio-fest-01",
+    "imageType1": 3,
+    "displayPositionX1": -0.198,
+    "displayPositionY1": 0.083,
+    "displayScale1": 1.3,
+    "highlightDisplayPositionX1": 0.206,
+    "highlightDisplayPositionY1": 0.225,
+    "highlightDisplayScale1": 1.1,
+    "imageType2": 3,
+    "displayPositionX2": -0.198,
+    "displayPositionY2": 0.083,
+    "displayScale2": 1.3,
+    "highlightDisplayPositionX2": 0.206,
+    "highlightDisplayPositionY2": 0.225,
+    "highlightDisplayScale2": 1.1,
+    "obtainMessage": "長瀬麻奈が出演した番組に、\nついに出られる",
+    "stories": [
+      {
+        "storyId": "st-card-rio-05-fest-01-01"
+      },
+      {
+        "storyId": "st-card-rio-05-fest-01-02"
+      },
+      {
+        "storyId": "st-card-rio-05-fest-01-03"
+      }
+    ],
+    "messages": [
+      {
+        "messageId": "message-card-rio-05-fest-01",
+        "telephoneId": ""
+      },
+      {
+        "telephoneId": "tel-card-rio-05-fest-01",
         "messageId": ""
       }
     ],

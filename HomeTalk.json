@@ -3244,6 +3244,56 @@
     ]
   },
   {
+    "homeTalkId": "home-talk-card-mna-05-fest-02-talk-01",
+    "characterId": "char-mna",
+    "placeType": 1,
+    "conditionId": "cd-st-read-st-card-mna-05-fest-02-03",
+    "firstPriority": 9900,
+    "weight": 1,
+    "callPatternId": "call-pattern-card-mna-05-fest-02",
+    "choiceText": "麻奈、何やってるんだ？",
+    "managerText": "麻奈、何やってるんだ？",
+    "reliability": 5,
+    "characterTalks": [
+      {
+        "text": "袖の大きな衣装って慣れなくて、\n腕をどう動かしたらいいのか\n確認してるの！",
+        "voiceAssetId": "sud_vo_home_mna-05-fest-02_talk-01-01",
+        "motionAssetId": "mot_adv_chr_cmn_pos-010_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "ダンスもするし、歌うし、\nパフォーマンスの時に\n綺麗に見えた方が良いでしょ？",
+        "voiceAssetId": "sud_vo_home_mna-05-fest-02_talk-01-02",
+        "motionAssetId": "mot_adv_chr_cmn_ask-006_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "せっかく華やかな衣装だし、\nこの姿を見て喜んでもらえ\nたら、私も嬉しいから。",
+        "voiceAssetId": "sud_vo_home_mna-05-fest-02_talk-01-03",
+        "motionAssetId": "mot_adv_chr_cmn_pos-006_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "という訳で、\n目下練習中なの！",
+        "voiceAssetId": "sud_vo_home_mna-05-fest-02_talk-01-04",
+        "motionAssetId": "mot_adv_chr_cmn_pos-012_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "あ、どうせなら\n{user}くん！\n綺麗に動けてるか、動画撮って！",
+        "voiceAssetId": "sud_vo_home_mna-05-fest-02_talk-01-05",
+        "motionAssetId": "mot_adv_chr_cmn_pos-009_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "今度は年始のバラエティで\n本物の振袖も着たいです\nマネージャー！",
+        "voiceAssetId": "sud_vo_home_mna-05-fest-02_talk-01-06",
+        "motionAssetId": "mot_adv_chr_cmn_pos-007_in",
+        "additionMotionAssetId": ""
+      }
+    ]
+  },
+  {
     "homeTalkId": "home-talk-card-mna-05-idol-00-talk-01",
     "characterId": "char-mna",
     "placeType": 1,
@@ -4153,6 +4203,56 @@
         "text": "まぁいいわ。私と特訓したければ\nいつでも言って。\n付き合ってあげるから。",
         "voiceAssetId": "sud_vo_home_rio-05-fest-00_talk-01-06",
         "motionAssetId": "mot_adv_chr_cmn_pos-008_in",
+        "additionMotionAssetId": ""
+      }
+    ]
+  },
+  {
+    "homeTalkId": "home-talk-card-rio-05-fest-01-talk-01",
+    "characterId": "char-rio",
+    "placeType": 1,
+    "conditionId": "cd-st-read-st-card-rio-05-fest-01-03",
+    "firstPriority": 9900,
+    "weight": 1,
+    "callPatternId": "call-pattern-card-rio-05-fest-01",
+    "choiceText": "とても良かったです。\n莉央さんのファンが\nまた増えました。",
+    "managerText": "とても良かったです。\n莉央さんのファンが\nまた増えました。",
+    "reliability": 5,
+    "characterTalks": [
+      {
+        "text": "そう。大変だったけど、\n受けて良かったわ。",
+        "voiceAssetId": "sud_vo_home_rio-05-fest-01_talk-01-01",
+        "motionAssetId": "mot_adv_chr_cmn_pos-020_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "貴方にも沢山無理をさせたわね。\nお礼をしないと。",
+        "voiceAssetId": "sud_vo_home_rio-05-fest-01_talk-01-02",
+        "motionAssetId": "mot_adv_chr_cmn_pos-010_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "え？　仕事だから別にいい？\nそうもいかないわ。",
+        "voiceAssetId": "sud_vo_home_rio-05-fest-01_talk-01-03",
+        "motionAssetId": "mot_adv_chr_cmn_talk-006_in",
+        "additionMotionAssetId": "mot_all_chr_cmn_facial-032_in"
+      },
+      {
+        "text": "一方的に借りを作るのは嫌だもの。\n何かほしいものがあったら\n言いなさい。",
+        "voiceAssetId": "sud_vo_home_rio-05-fest-01_talk-01-04",
+        "motionAssetId": "mot_adv_chr_cmn_talk-004_in",
+        "additionMotionAssetId": "mot_all_chr_cmn_facial-001_in"
+      },
+      {
+        "text": "私にしてほしいことでもいいわよ。\nほら、遠慮なんてしないで\n言いなさい。",
+        "voiceAssetId": "sud_vo_home_rio-05-fest-01_talk-01-05",
+        "motionAssetId": "mot_adv_chr_cmn_glad-009_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "またドキュメンタリーに\n出てほしい？　却下よ！\n…恥ずかしかったんだから。",
+        "voiceAssetId": "sud_vo_home_rio-05-fest-01_talk-01-06",
+        "motionAssetId": "mot_adv_chr_cmn_angry-019_in",
         "additionMotionAssetId": ""
       }
     ]
