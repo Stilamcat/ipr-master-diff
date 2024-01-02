@@ -2480,6 +2480,56 @@
     ]
   },
   {
+    "homeTalkId": "home-talk-card-ktn-05-newy-00-talk-01",
+    "characterId": "char-ktn",
+    "placeType": 1,
+    "conditionId": "cd-st-read-st-card-ktn-05-newy-00-03",
+    "firstPriority": 9900,
+    "weight": 1,
+    "callPatternId": "call-pattern-card-ktn-05-newy-00",
+    "choiceText": "それはいい心がけだな。\n何かで勉強したのか？",
+    "managerText": "それはいい心がけだな。\n何かで勉強したのか？",
+    "reliability": 5,
+    "characterTalks": [
+      {
+        "text": "沙季に生活費を管理する\nコツを聞いたんです。",
+        "voiceAssetId": "sud_vo_home_ktn-05-newy-00_talk-01-01",
+        "motionAssetId": "mot_adv_chr_cmn_pos-018_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "そしたら、途中で\n渚も加わって沙季の\n話を聞き始めて…",
+        "voiceAssetId": "sud_vo_home_ktn-05-newy-00_talk-01-02",
+        "motionAssetId": "mot_adv_chr_cmn_glad-009_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "気付いたら、私と渚、それに\nすずと芽衣が沙季の講義を\n受けていました。",
+        "voiceAssetId": "sud_vo_home_ktn-05-newy-00_talk-01-03",
+        "motionAssetId": "mot_adv_chr_cmn_pos-008_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "渚がしっかりしてるのは\n元々知ってたんですけど…",
+        "voiceAssetId": "sud_vo_home_ktn-05-newy-00_talk-01-04",
+        "motionAssetId": "mot_adv_chr_cmn_talk-003_in",
+        "additionMotionAssetId": "mot_all_chr_cmn_facial-001_in"
+      },
+      {
+        "text": "意外と、と言ったら失礼ですけど、\n芽衣もそういうところが\n凄くしっかりしてて驚きました。",
+        "voiceAssetId": "sud_vo_home_ktn-05-newy-00_talk-01-05",
+        "motionAssetId": "mot_adv_chr_cmn_talk-017_in",
+        "additionMotionAssetId": "mot_all_chr_cmn_facial-034_in"
+      },
+      {
+        "text": "すずが私に仲間意識を持ち始めた\nので…早めに改善します。必ず！",
+        "voiceAssetId": "sud_vo_home_ktn-05-newy-00_talk-01-06",
+        "motionAssetId": "mot_adv_chr_cmn_pos-011_in",
+        "additionMotionAssetId": ""
+      }
+    ]
+  },
+  {
     "homeTalkId": "home-talk-card-ktn-05-wedd-00-talk-01",
     "characterId": "char-ktn",
     "placeType": 1,
@@ -5055,6 +5105,50 @@
         "text": "い、言えないです。\nそんなこと……！\nそれでは失礼します!",
         "voiceAssetId": "sud_vo_home_ski-05-mizg-02_talk-01-06",
         "motionAssetId": "mot_adv_chr_cmn_angry-016_in",
+        "additionMotionAssetId": ""
+      }
+    ]
+  },
+  {
+    "homeTalkId": "home-talk-card-ski-05-newy-00-talk-01",
+    "characterId": "char-ski",
+    "placeType": 1,
+    "conditionId": "cd-st-read-st-card-ski-05-newy-00-03",
+    "firstPriority": 9900,
+    "weight": 1,
+    "callPatternId": "call-pattern-card-ski-05-newy-00",
+    "choiceText": "自分の部屋でゆっくり過ごす\n日本のお正月って感じだな。",
+    "managerText": "自分の部屋でゆっくり過ごす\n日本のお正月って感じだな。",
+    "reliability": 5,
+    "characterTalks": [
+      {
+        "text": "それからしばらく、子供の頃の\nお正月の話で盛り上がりました。",
+        "voiceAssetId": "sud_vo_home_ski-05-newy-00_talk-01-01",
+        "motionAssetId": "mot_adv_chr_cmn_talk-012_in",
+        "additionMotionAssetId": "mot_all_chr_cmn_facial-001_in"
+      },
+      {
+        "text": "昔、初詣に行った時\n千紗が参道の屋台で売っていた\nわたあめを食べたがりまして。",
+        "voiceAssetId": "sud_vo_home_ski-05-newy-00_talk-01-02",
+        "motionAssetId": "mot_adv_chr_cmn_think-009_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "父が買ってくれたんですけど\nあれ子供には持ちづらいので、\n地面に落としてしまったんですよ。",
+        "voiceAssetId": "sud_vo_home_ski-05-newy-00_talk-01-03",
+        "motionAssetId": "mot_adv_chr_cmn_talk-004_in",
+        "additionMotionAssetId": "mot_all_chr_cmn_facial-034_in"
+      },
+      {
+        "text": "わあわあ大泣きして…\n結局、私が買ってもらった分を\n千紗と半分こして食べましたっけ。",
+        "voiceAssetId": "sud_vo_home_ski-05-newy-00_talk-01-04",
+        "motionAssetId": "mot_adv_chr_cmn_glad-007_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "今はもう、千紗もそのくらいで\n泣くことはありませんけど。\n姉としてはちょっと寂しいですね。",
+        "voiceAssetId": "sud_vo_home_ski-05-newy-00_talk-01-05",
+        "motionAssetId": "mot_adv_chr_cmn_pos-020_in",
         "additionMotionAssetId": ""
       }
     ]

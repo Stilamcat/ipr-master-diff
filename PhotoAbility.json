@@ -4278,6 +4278,120 @@
     "conditionLiveType": 0
   },
   {
+    "id": "pab-affect_strength_effect_count_increase-score_up_recipe_distribution-5-cd-support",
+    "name": "与・スコア延長",
+    "description": "<サポータータイプのみ> 付与するスコア上昇効果を{0}延長します",
+    "abilityType": 30,
+    "photoAbilityLevels": [
+      {
+        "level": 140,
+        "value": 15
+      },
+      {
+        "level": 145,
+        "value": 15
+      },
+      {
+        "level": 150,
+        "value": 15
+      },
+      {
+        "level": 155,
+        "value": 15
+      },
+      {
+        "level": 160,
+        "value": 15
+      },
+      {
+        "level": 165,
+        "value": 15
+      },
+      {
+        "level": 170,
+        "value": 15
+      },
+      {
+        "level": 175,
+        "value": 15
+      },
+      {
+        "level": 180,
+        "value": 15
+      },
+      {
+        "level": 185,
+        "value": 15
+      },
+      {
+        "level": 190,
+        "value": 15
+      },
+      {
+        "level": 195,
+        "value": 15
+      },
+      {
+        "level": 200,
+        "value": 15
+      },
+      {
+        "level": 205,
+        "value": 15
+      },
+      {
+        "level": 210,
+        "value": 15
+      },
+      {
+        "level": 215,
+        "value": 15
+      },
+      {
+        "level": 220,
+        "value": 15
+      },
+      {
+        "level": 225,
+        "value": 15
+      },
+      {
+        "level": 230,
+        "value": 15
+      },
+      {
+        "level": 235,
+        "value": 15
+      },
+      {
+        "level": 240,
+        "value": 15
+      },
+      {
+        "level": 245,
+        "value": 15
+      },
+      {
+        "level": 250,
+        "value": 15
+      }
+    ],
+    "photoAbilityGrades": [
+      {
+        "grade": 1,
+        "bonusPermil": 1000,
+        "type": 3,
+        "bonusValue": 0
+      }
+    ],
+    "conditionCardType": 3,
+    "statusEffectType": 4,
+    "moodType": 0,
+    "skillId": "",
+    "abilityTargetId": "",
+    "conditionLiveType": 0
+  },
+  {
     "id": "pab-affect_strength_effect_count_increase-skill_success_rate_up_recipe_distribution-5",
     "name": "被・成功率延長",
     "description": "受けるスキル成功率上昇効果を{0}延長します",

@@ -528,6 +528,50 @@
     "shootingTime": "0"
   },
   {
+    "id": "phot-birthday-24-0103-hrk",
+    "assetId": "phot-birthday-24-0103-hrk",
+    "name": "佐伯遙子",
+    "rarity": 5,
+    "placeName": "HAPPY BIRTHDAY",
+    "eventName": "メモリアルフォト",
+    "level": 35,
+    "abilities": [
+      {
+        "photoAbilityId": "pab-vocal_multiply_distribution-5",
+        "effectValue": 200,
+        "grade": 1,
+        "missionId": ""
+      },
+      {
+        "photoAbilityId": "pab-dance_multiply_distribution-5",
+        "effectValue": 200,
+        "grade": 1,
+        "missionId": ""
+      },
+      {
+        "photoAbilityId": "pab-visual_multiply_distribution-5",
+        "effectValue": 200,
+        "grade": 1,
+        "missionId": ""
+      },
+      {
+        "photoAbilityId": "pab-special-skill-score-up_multiply_distribution-5",
+        "effectValue": 50,
+        "grade": 1,
+        "missionId": ""
+      },
+      {
+        "photoAbilityId": "pab-passive-skill_sk-phot-shop-5-02",
+        "effectValue": 1,
+        "grade": 1,
+        "missionId": ""
+      }
+    ],
+    "focusCharacterId": "char-hrk",
+    "characterIds": [],
+    "shootingTime": "0"
+  },
+  {
     "id": "phot-clb-2304-1",
     "assetId": "phot-clb-2304-1",
     "name": "けいおん！コラボフォト①",
@@ -3784,6 +3828,50 @@
       }
     ],
     "focusCharacterId": "char-rio",
+    "characterIds": [],
+    "shootingTime": "0"
+  },
+  {
+    "id": "phot-prm-5-33",
+    "assetId": "phot-prm-5-0033",
+    "name": "白石沙季&一ノ瀬怜",
+    "rarity": 5,
+    "placeName": "お正月",
+    "eventName": "メモリアルフォト",
+    "level": 35,
+    "abilities": [
+      {
+        "photoAbilityId": "pab-vocal_multiply_distribution-5",
+        "effectValue": 200,
+        "grade": 1,
+        "missionId": ""
+      },
+      {
+        "photoAbilityId": "pab-dance_multiply_distribution-5",
+        "effectValue": 200,
+        "grade": 1,
+        "missionId": ""
+      },
+      {
+        "photoAbilityId": "pab-visual_multiply_distribution-5",
+        "effectValue": 200,
+        "grade": 1,
+        "missionId": ""
+      },
+      {
+        "photoAbilityId": "pab-technique_add-5",
+        "effectValue": 77,
+        "grade": 1,
+        "missionId": ""
+      },
+      {
+        "photoAbilityId": "pab-passive-skill_sk-phot-release-login-5-01",
+        "effectValue": 1,
+        "grade": 1,
+        "missionId": ""
+      }
+    ],
+    "focusCharacterId": "char-ski",
     "characterIds": [],
     "shootingTime": "0"
   },

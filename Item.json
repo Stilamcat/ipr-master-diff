@@ -1276,6 +1276,17 @@
     "salePrice": 0
   },
   {
+    "id": "item-gacha_point-birthday-24-0103",
+    "name": "遙子誕生日ガチャPt",
+    "assetId": "gacha-point",
+    "description": "該当するガチャページの「ガチャPt」から\nガチャPtを消費してアイドルを獲得できる",
+    "type": 9,
+    "value": 1,
+    "order": 140,
+    "howToGet": "",
+    "salePrice": 0
+  },
+  {
     "id": "item-gacha_point-fes-21-0928",
     "name": "アイプラフェスガチャPt",
     "assetId": "gacha-point",
@@ -1861,6 +1872,17 @@
   {
     "id": "item-gacha_point-lm-set-bloom-23-1211",
     "name": "乾杯は聖なる夜にガチャPt",
+    "assetId": "gacha-point",
+    "description": "該当するガチャページの「ガチャPt」から\nガチャPtを消費してアイドルを獲得できる",
+    "type": 9,
+    "value": 1,
+    "order": 140,
+    "howToGet": "",
+    "salePrice": 0
+  },
+  {
+    "id": "item-gacha_point-lm-set-bloom-24-0103",
+    "name": "白息溶ける月の華ガチャPt",
     "assetId": "gacha-point",
     "description": "該当するガチャページの「ガチャPt」から\nガチャPtを消費してアイドルを獲得できる",
     "type": 9,
@@ -4196,6 +4218,17 @@
     "assetId": "photo-shooting-contest",
     "description": "フォトオーディションの写真やフォトアルバムの写真を現像できる\nイベント終了後はコインに変換されます",
     "howToGet": "フォトオーディション、フォトアルバム",
+    "type": 12001,
+    "value": 1,
+    "order": 99,
+    "salePrice": 0
+  },
+  {
+    "id": "item-photo_contest_create-24-0103",
+    "name": "イベント現像フィルム",
+    "assetId": "photo-shooting-contest",
+    "description": "フォトオーディションの写真やフォトアルバムの写真を現像できる\nイベント終了後はコインに変換されます",
+    "howToGet": "フォトアルバム、ショップ",
     "type": 12001,
     "value": 1,
     "order": 99,

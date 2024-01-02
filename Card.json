@@ -1997,6 +1997,58 @@
     "homeTalks": []
   },
   {
+    "id": "card-hrk-05-birt-00",
+    "assetId": "hrk-05-birt-00",
+    "name": "大人のキャンプバースデー",
+    "description": "私達、来る前よりも仲良しになった気がする！\r\n秘密の大人の話も沢山したし",
+    "type": 2,
+    "characterId": "char-hrk",
+    "initialRarity": 5,
+    "cardParameterId": "card-param-01",
+    "vocalRatioPermil": 278,
+    "danceRatioPermil": 405,
+    "visualRatioPermil": 317,
+    "staminaRatioPermil": 1000,
+    "cardLevelReleaseId": "card_level_release_1",
+    "skillId1": "sk-hrk-05-birt-00-1",
+    "skillId2": "sk-hrk-05-birt-00-2",
+    "skillId3": "sk-hrk-05-birt-00-3",
+    "liveAbilityId": "lba-dance_multiply",
+    "order": 334,
+    "releaseDate": "1704207600000",
+    "imageType1": 3,
+    "displayPositionX1": 0.024,
+    "displayScale1": 1.1,
+    "highlightDisplayPositionX1": -0.124,
+    "highlightDisplayPositionY1": 0.287,
+    "highlightDisplayScale1": 0.7,
+    "imageType2": 3,
+    "displayPositionX2": 0.024,
+    "displayScale2": 1.1,
+    "highlightDisplayPositionX2": -0.124,
+    "highlightDisplayPositionY2": 0.287,
+    "highlightDisplayScale2": 0.7,
+    "obtainMessage": "佐伯遙子の\nミラクル☆アイドルバースデー！",
+    "rewardHairId": "hair-hrk-hair-10",
+    "stories": [
+      {
+        "storyId": "st-card-hrk-05-birt-00-01"
+      },
+      {
+        "storyId": "st-card-hrk-05-birt-00-02"
+      },
+      {
+        "storyId": "st-card-hrk-05-birt-00-03"
+      }
+    ],
+    "activityAbilityId": "",
+    "rewardCostumeId": "",
+    "displayPositionY1": 0.0,
+    "displayPositionY2": 0.0,
+    "messages": [],
+    "homeTalks": []
+  },
+  {
     "id": "card-hrk-05-chna-00",
     "assetId": "hrk-05-chna-00",
     "name": "解き放たれる十七歳",
@@ -4434,6 +4486,67 @@
     ],
     "liveAbilityId": "",
     "rewardHairId": ""
+  },
+  {
+    "id": "card-ktn-05-newy-00",
+    "assetId": "ktn-05-newy-00",
+    "name": "新年祝う雪月花",
+    "description": "月ストのみんなと一緒に、ライブにお仕事に\r\n充実したいい一年にしていきたいと思います",
+    "type": 3,
+    "characterId": "char-ktn",
+    "initialRarity": 5,
+    "cardParameterId": "card-param-01",
+    "vocalRatioPermil": 309,
+    "danceRatioPermil": 275,
+    "visualRatioPermil": 416,
+    "staminaRatioPermil": 1000,
+    "cardLevelReleaseId": "card_level_release_1",
+    "skillId1": "sk-ktn-05-newy-00-1",
+    "skillId2": "sk-ktn-05-newy-00-2",
+    "skillId3": "sk-ktn-05-newy-00-3",
+    "liveAbilityId": "lba-active_skill_score_multiply",
+    "order": 349,
+    "releaseDate": "1704250800000",
+    "rewardCostumeId": "cos-ktn-newy-00",
+    "imageType1": 3,
+    "displayPositionX1": -0.119,
+    "displayPositionY1": 0.083,
+    "displayScale1": 1.2,
+    "highlightDisplayPositionX1": 0.546,
+    "highlightDisplayPositionY1": 0.267,
+    "highlightDisplayScale1": 1.0,
+    "imageType2": 3,
+    "displayPositionX2": -0.119,
+    "displayPositionY2": 0.083,
+    "displayScale2": 1.2,
+    "highlightDisplayPositionX2": 0.546,
+    "highlightDisplayPositionY2": 0.267,
+    "highlightDisplayScale2": 1.0,
+    "obtainMessage": "この衣装を着ると、\nとても懐かしい気持ちになります",
+    "stories": [
+      {
+        "storyId": "st-card-ktn-05-newy-00-01"
+      },
+      {
+        "storyId": "st-card-ktn-05-newy-00-02"
+      },
+      {
+        "storyId": "st-card-ktn-05-newy-00-03"
+      }
+    ],
+    "messages": [
+      {
+        "messageId": "message-card-ktn-05-newy-00",
+        "telephoneId": ""
+      },
+      {
+        "telephoneId": "tel-card-ktn-05-newy-00",
+        "messageId": ""
+      }
+    ],
+    "activityAbilityId": "",
+    "rewardHairId": "",
+    "homeTalks": []
   },
   {
     "id": "card-ktn-05-prem-00",
@@ -9428,6 +9541,67 @@
     "homeTalks": []
   },
   {
+    "id": "card-ski-05-newy-00",
+    "assetId": "ski-05-newy-00",
+    "name": "飛躍を願う新春",
+    "description": "今年も御朱印ちゃんともらって来ましたよ\r\nこれは事務所に戻ったら、御朱印帳に貼っておきますね",
+    "type": 1,
+    "characterId": "char-ski",
+    "initialRarity": 5,
+    "cardParameterId": "card-param-01",
+    "vocalRatioPermil": 279,
+    "danceRatioPermil": 435,
+    "visualRatioPermil": 316,
+    "staminaRatioPermil": 900,
+    "cardLevelReleaseId": "card_level_release_1",
+    "skillId1": "sk-ski-05-newy-00-1",
+    "skillId2": "sk-ski-05-newy-00-2",
+    "skillId3": "sk-ski-05-newy-00-3",
+    "activityAbilityId": "aab-lesson_manager_exp_up",
+    "order": 350,
+    "releaseDate": "1704250800000",
+    "rewardCostumeId": "cos-ski-newy-00",
+    "imageType1": 3,
+    "displayPositionX1": 0.217,
+    "displayPositionY1": 0.083,
+    "displayScale1": 1.2,
+    "highlightDisplayPositionX1": -0.29,
+    "highlightDisplayPositionY1": 0.208,
+    "highlightDisplayScale1": 0.7,
+    "imageType2": 3,
+    "displayPositionX2": 0.217,
+    "displayPositionY2": 0.083,
+    "displayScale2": 1.2,
+    "highlightDisplayPositionX2": -0.29,
+    "highlightDisplayPositionY2": 0.208,
+    "highlightDisplayScale2": 0.7,
+    "obtainMessage": "月ストのみんなと、\nもっともっと飛躍出来ますように",
+    "stories": [
+      {
+        "storyId": "st-card-ski-05-newy-00-01"
+      },
+      {
+        "storyId": "st-card-ski-05-newy-00-02"
+      },
+      {
+        "storyId": "st-card-ski-05-newy-00-03"
+      }
+    ],
+    "messages": [
+      {
+        "messageId": "message-card-ski-05-newy-00",
+        "telephoneId": ""
+      },
+      {
+        "telephoneId": "tel-card-ski-05-newy-00",
+        "messageId": ""
+      }
+    ],
+    "liveAbilityId": "",
+    "rewardHairId": "",
+    "homeTalks": []
+  },
+  {
     "id": "card-ski-05-poli-00",
     "assetId": "ski-05-poli-00",
     "name": "厳然たるプライド",
@@ -10952,6 +11126,48 @@
     "highlightDisplayPositionX2": 0.41,
     "highlightDisplayPositionY2": -0.041,
     "highlightDisplayScale2": 0.6,
+    "liveAbilityId": "",
+    "activityAbilityId": "",
+    "rewardCostumeId": "",
+    "obtainMessage": "",
+    "rewardHairId": "",
+    "stories": [],
+    "messages": [],
+    "homeTalks": []
+  },
+  {
+    "id": "card-suz-02-eve-02",
+    "assetId": "suz-02-eve-02",
+    "name": "おせちにもスパイスを！",
+    "description": "これを食べてみなさんがどんな表情になるか\r\n楽しみですわね。ふふふ……",
+    "type": 2,
+    "characterId": "char-suz",
+    "initialRarity": 2,
+    "cardParameterId": "card-param-01",
+    "vocalRatioPermil": 280,
+    "danceRatioPermil": 403,
+    "visualRatioPermil": 317,
+    "staminaRatioPermil": 1000,
+    "cardLevelReleaseId": "card_level_release_1",
+    "skillId1": "sk-suz-02-eve-02-1",
+    "skillId2": "sk-suz-02-eve-02-2",
+    "skillId3": "sk-suz-02-eve-02-3",
+    "order": 351,
+    "releaseDate": "1704250800000",
+    "imageType1": 1,
+    "displayPositionX1": 0.013,
+    "displayPositionY1": 0.167,
+    "displayScale1": 1.0,
+    "highlightDisplayPositionX1": -0.018,
+    "highlightDisplayPositionY1": 0.233,
+    "highlightDisplayScale1": 1.0,
+    "imageType2": 2,
+    "displayPositionX2": -0.233,
+    "displayPositionY2": 0.002,
+    "displayScale2": 1.1,
+    "highlightDisplayPositionX2": 0.708,
+    "highlightDisplayPositionY2": 0.138,
+    "highlightDisplayScale2": 1.1,
     "liveAbilityId": "",
     "activityAbilityId": "",
     "rewardCostumeId": "",

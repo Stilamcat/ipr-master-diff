@@ -910,7 +910,7 @@
     "eventMissionType": 1,
     "assetId": "img_banner_l_event-mini-marathon-raid-23-1226",
     "name": "イベントミッション",
-    "order": 1,
+    "order": 3,
     "viewConditionId": "cd-date-mini-marathon-raid-23-1226",
     "missionIds": [
       "ms-daily-event-mini-marathon-raid-23-1226-marathon_raid_host_count",
@@ -1157,10 +1157,29 @@
     "eventMissionType": 1,
     "assetId": "img_banner_l_event-race-24-0103",
     "name": "イベントミッション",
-    "order": 99,
+    "order": 1,
     "viewConditionId": "cd-event-race-24-0103-exchange",
-    "unlockConditionId": "",
-    "missionIds": []
+    "missionIds": [
+      "event-race-24-0103-1",
+      "event-race-24-0103-10",
+      "event-race-24-0103-11",
+      "event-race-24-0103-12",
+      "event-race-24-0103-13",
+      "event-race-24-0103-14",
+      "event-race-24-0103-15",
+      "event-race-24-0103-16",
+      "event-race-24-0103-17",
+      "event-race-24-0103-18",
+      "event-race-24-0103-2",
+      "event-race-24-0103-3",
+      "event-race-24-0103-4",
+      "event-race-24-0103-5",
+      "event-race-24-0103-6",
+      "event-race-24-0103-7",
+      "event-race-24-0103-8",
+      "event-race-24-0103-9"
+    ],
+    "unlockConditionId": ""
   },
   {
     "id": "event-shelf-23-1128",
@@ -1180,6 +1199,26 @@
       "event-shelf-23-1128-story-003",
       "event-shelf-23-1128-story-004",
       "event-shelf-23-1128-story-005"
+    ]
+  },
+  {
+    "id": "event-shelf-24-0103",
+    "eventMissionType": 1,
+    "assetId": "img_banner_l_event-shelf-defalut",
+    "name": "フォトアルバム",
+    "order": 2,
+    "viewConditionId": "cd-shelf-24-0103",
+    "unlockConditionId": "cd-shelf-24-0103-play",
+    "missionIds": [
+      "event-shelf-24-0103-photo-album-complete",
+      "event-shelf-24-0103-photo-album-creating",
+      "event-shelf-24-0103-photo-creating",
+      "event-shelf-24-0103-photo-save",
+      "event-shelf-24-0103-story-001",
+      "event-shelf-24-0103-story-002",
+      "event-shelf-24-0103-story-003",
+      "event-shelf-24-0103-story-004",
+      "event-shelf-24-0103-story-005"
     ]
   },
   {

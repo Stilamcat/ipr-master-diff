@@ -32,6 +32,38 @@
     "additionalDisplayCharacterIds": []
   },
   {
+    "id": "st-birthday-branch-hrk-24-0103",
+    "name": "佐伯遙子 誕生日2024",
+    "advPlayTypes": [
+      6
+    ],
+    "branchFirstText": "今日は遙子さんの誕生日だな\n何をプレゼントしよう？",
+    "branchCautionText": "後で再度選択可能です",
+    "branchBgmAssetId": "sud_bgm_cmn_home-01",
+    "branchChoices": [
+      {
+        "index": 1,
+        "text": "スキレット",
+        "advAssetId": "hbd_04_hrk_01"
+      },
+      {
+        "index": 2,
+        "text": "サニピのジグソーパズル",
+        "advAssetId": "hbd_04_hrk_02"
+      },
+      {
+        "index": 3,
+        "text": "生まれた年のワイン",
+        "advAssetId": "hbd_04_hrk_03"
+      }
+    ],
+    "sectionName": "",
+    "description": "",
+    "rewardId": "",
+    "advAssetIds": [],
+    "additionalDisplayCharacterIds": []
+  },
+  {
     "id": "st-birthday-branch-kkr-23-1206",
     "name": "赤崎こころ 誕生日2023",
     "advPlayTypes": [
@@ -1552,6 +1584,60 @@
     ],
     "advAssetIds": [
       "card_chs_07_03"
+    ],
+    "sectionName": "",
+    "description": "",
+    "additionalDisplayCharacterIds": [],
+    "branchFirstText": "",
+    "branchCautionText": "",
+    "branchBgmAssetId": "",
+    "branchChoices": []
+  },
+  {
+    "id": "st-card-hrk-05-birt-00-01",
+    "name": "星見プロの\nお姉さん枠",
+    "rewardId": "rd_auto;stone;;30",
+    "advPlayTypes": [
+      1
+    ],
+    "advAssetIds": [
+      "card_hrk_51_01"
+    ],
+    "sectionName": "",
+    "description": "",
+    "additionalDisplayCharacterIds": [],
+    "branchFirstText": "",
+    "branchCautionText": "",
+    "branchBgmAssetId": "",
+    "branchChoices": []
+  },
+  {
+    "id": "st-card-hrk-05-birt-00-02",
+    "name": "ハプニング・\nキャンプ",
+    "rewardId": "rd_auto;stone;;30",
+    "advPlayTypes": [
+      1
+    ],
+    "advAssetIds": [
+      "card_hrk_51_02"
+    ],
+    "sectionName": "",
+    "description": "",
+    "additionalDisplayCharacterIds": [],
+    "branchFirstText": "",
+    "branchCautionText": "",
+    "branchBgmAssetId": "",
+    "branchChoices": []
+  },
+  {
+    "id": "st-card-hrk-05-birt-00-03",
+    "name": "二日目の\nボーナス\nタイム",
+    "rewardId": "rd_auto;stone;;30",
+    "advPlayTypes": [
+      1
+    ],
+    "advAssetIds": [
+      "card_hrk_51_03"
     ],
     "sectionName": "",
     "description": "",
@@ -3334,6 +3420,60 @@
     ],
     "advAssetIds": [
       "card_ktn_02_03"
+    ],
+    "sectionName": "",
+    "description": "",
+    "additionalDisplayCharacterIds": [],
+    "branchFirstText": "",
+    "branchCautionText": "",
+    "branchBgmAssetId": "",
+    "branchChoices": []
+  },
+  {
+    "id": "st-card-ktn-05-newy-00-01",
+    "name": "言いそびれ\nちゃった",
+    "rewardId": "rd_auto;stone;;30",
+    "advPlayTypes": [
+      1
+    ],
+    "advAssetIds": [
+      "card_ktn_08_01"
+    ],
+    "sectionName": "",
+    "description": "",
+    "additionalDisplayCharacterIds": [],
+    "branchFirstText": "",
+    "branchCautionText": "",
+    "branchBgmAssetId": "",
+    "branchChoices": []
+  },
+  {
+    "id": "st-card-ktn-05-newy-00-02",
+    "name": "大事に\nしないで\n下さい",
+    "rewardId": "rd_auto;stone;;30",
+    "advPlayTypes": [
+      1
+    ],
+    "advAssetIds": [
+      "card_ktn_08_02"
+    ],
+    "sectionName": "",
+    "description": "",
+    "additionalDisplayCharacterIds": [],
+    "branchFirstText": "",
+    "branchCautionText": "",
+    "branchBgmAssetId": "",
+    "branchChoices": []
+  },
+  {
+    "id": "st-card-ktn-05-newy-00-03",
+    "name": "お年玉の\nお礼も兼ねて",
+    "rewardId": "rd_auto;stone;;30",
+    "advPlayTypes": [
+      1
+    ],
+    "advAssetIds": [
+      "card_ktn_08_03"
     ],
     "sectionName": "",
     "description": "",
@@ -6628,6 +6768,60 @@
     ],
     "advAssetIds": [
       "card_ski_05_03"
+    ],
+    "sectionName": "",
+    "description": "",
+    "additionalDisplayCharacterIds": [],
+    "branchFirstText": "",
+    "branchCautionText": "",
+    "branchBgmAssetId": "",
+    "branchChoices": []
+  },
+  {
+    "id": "st-card-ski-05-newy-00-01",
+    "name": "中身だけ\nなくなってる",
+    "rewardId": "rd_auto;stone;;30",
+    "advPlayTypes": [
+      1
+    ],
+    "advAssetIds": [
+      "card_ski_08_01"
+    ],
+    "sectionName": "",
+    "description": "",
+    "additionalDisplayCharacterIds": [],
+    "branchFirstText": "",
+    "branchCautionText": "",
+    "branchBgmAssetId": "",
+    "branchChoices": []
+  },
+  {
+    "id": "st-card-ski-05-newy-00-02",
+    "name": "御利益が\nないかなって",
+    "rewardId": "rd_auto;stone;;30",
+    "advPlayTypes": [
+      1
+    ],
+    "advAssetIds": [
+      "card_ski_08_02"
+    ],
+    "sectionName": "",
+    "description": "",
+    "additionalDisplayCharacterIds": [],
+    "branchFirstText": "",
+    "branchCautionText": "",
+    "branchBgmAssetId": "",
+    "branchChoices": []
+  },
+  {
+    "id": "st-card-ski-05-newy-00-03",
+    "name": "もっともっと\n飛躍出来ます\nように",
+    "rewardId": "rd_auto;stone;;30",
+    "advPlayTypes": [
+      1
+    ],
+    "advAssetIds": [
+      "card_ski_08_03"
     ],
     "sectionName": "",
     "description": "",
@@ -12362,6 +12556,96 @@
     "branchChoices": []
   },
   {
+    "id": "st-eve-2401-race-001",
+    "name": "沙季の大掃除",
+    "description": "NEXT VENUSグランプリで同時優勝を果たした直後の正月。月ストのメンバーは、実家に戻ったり、親戚と過ごしたり、それぞれ自由に過ごしていた。そんな中、寮に残っていた沙季は、芽衣と大掃除をすることになるが……。",
+    "rewardId": "rd_auto;stone;;30",
+    "advPlayTypes": [
+      1
+    ],
+    "advAssetIds": [
+      "event_2401_01_01"
+    ],
+    "sectionName": "",
+    "additionalDisplayCharacterIds": [],
+    "branchFirstText": "",
+    "branchCautionText": "",
+    "branchBgmAssetId": "",
+    "branchChoices": []
+  },
+  {
+    "id": "st-eve-2401-race-002",
+    "name": "芽衣の猫探し",
+    "description": "芽衣が目を覚ますと、なぜか廊下には猫の入ったカゴが置かれていた。カゴから飛び出した猫を慌てて追いかける芽衣だが、その途中、なぜか気を失っている沙季を発見し……。",
+    "rewardId": "rd_auto;stone;;30",
+    "advPlayTypes": [
+      1
+    ],
+    "advAssetIds": [
+      "event_2401_01_02"
+    ],
+    "sectionName": "",
+    "additionalDisplayCharacterIds": [],
+    "branchFirstText": "",
+    "branchCautionText": "",
+    "branchBgmAssetId": "",
+    "branchChoices": []
+  },
+  {
+    "id": "st-eve-2401-race-003",
+    "name": "渚と\n大事な\nペンダント",
+    "description": "友達に頼まれ、猫を預かることになった渚。だが、必要なものを買いに出掛けている間に、猫がどこかに逃げてしまっていた。捜索のすえ、猫を見つけるも、なぜかその首には琴乃の大切なペンダントが提げられており……。",
+    "rewardId": "rd_auto;stone;;30",
+    "advPlayTypes": [
+      1
+    ],
+    "advAssetIds": [
+      "event_2401_01_03"
+    ],
+    "sectionName": "",
+    "additionalDisplayCharacterIds": [],
+    "branchFirstText": "",
+    "branchCautionText": "",
+    "branchBgmAssetId": "",
+    "branchChoices": []
+  },
+  {
+    "id": "st-eve-2401-race-004",
+    "name": "すずの大暴れ",
+    "description": "成宮家特製の豪華なおせち料理を持って、寮に帰ってきたすず。お皿に盛り付けたり、独自のアレンジを加えたりしていると、首からペンダントを提げた猫を発見。ペンダントがほしいすずは、追いかけることにするが……。",
+    "rewardId": "rd_auto;stone;;30",
+    "advPlayTypes": [
+      1
+    ],
+    "advAssetIds": [
+      "event_2401_01_04"
+    ],
+    "sectionName": "",
+    "additionalDisplayCharacterIds": [],
+    "branchFirstText": "",
+    "branchCautionText": "",
+    "branchBgmAssetId": "",
+    "branchChoices": []
+  },
+  {
+    "id": "st-eve-2401-race-005",
+    "name": "琴乃と\n猫と\n修羅場",
+    "description": "寮に戻ってきた琴乃は、行く先々で驚くべき光景を目の当たりにする。すずの残したメッセージを見て混乱する琴乃。しかもなぜかベランダでは、芽衣と渚がにらみ合っており……。",
+    "rewardId": "rd_auto;stone;;30",
+    "advPlayTypes": [
+      1
+    ],
+    "advAssetIds": [
+      "event_2401_01_05"
+    ],
+    "sectionName": "",
+    "additionalDisplayCharacterIds": [],
+    "branchFirstText": "",
+    "branchCautionText": "",
+    "branchBgmAssetId": "",
+    "branchChoices": []
+  },
+  {
     "id": "st-ex-story-part-anniversary-01-23-0624-01",
     "sectionName": "SPECIAL STAGE",
     "name": "プロローグ",
@@ -13361,6 +13645,24 @@
     ],
     "advAssetIds": [
       "campaign_2023_0401-03"
+    ],
+    "sectionName": "",
+    "description": "",
+    "rewardId": "",
+    "additionalDisplayCharacterIds": [],
+    "branchFirstText": "",
+    "branchCautionText": "",
+    "branchBgmAssetId": "",
+    "branchChoices": []
+  },
+  {
+    "id": "st-ex-story-part-special-01-24-0103-newyear-01",
+    "name": "お正月 2024",
+    "advPlayTypes": [
+      3
+    ],
+    "advAssetIds": [
+      "event_2401_02_01"
     ],
     "sectionName": "",
     "description": "",
@@ -25224,6 +25526,96 @@
     ],
     "advAssetIds": [
       "event_2312_01_05"
+    ],
+    "sectionName": "",
+    "rewardId": "",
+    "additionalDisplayCharacterIds": [],
+    "branchFirstText": "",
+    "branchCautionText": "",
+    "branchBgmAssetId": "",
+    "branchChoices": []
+  },
+  {
+    "id": "st-shelf-24-0103-001-001",
+    "name": "沙季の大掃除",
+    "description": "NEXT VENUSグランプリで同時優勝を果たした直後の正月。月ストのメンバーは、実家に戻ったり、親戚と過ごしたり、それぞれ自由に過ごしていた。そんな中、寮に残っていた沙季は、芽衣と大掃除をすることになるが……。",
+    "advPlayTypes": [
+      1
+    ],
+    "advAssetIds": [
+      "event_2401_01_01"
+    ],
+    "sectionName": "",
+    "rewardId": "",
+    "additionalDisplayCharacterIds": [],
+    "branchFirstText": "",
+    "branchCautionText": "",
+    "branchBgmAssetId": "",
+    "branchChoices": []
+  },
+  {
+    "id": "st-shelf-24-0103-001-002",
+    "name": "芽衣の猫探し",
+    "description": "芽衣が目を覚ますと、なぜか廊下には猫の入ったカゴが置かれていた。カゴから飛び出した猫を慌てて追いかける芽衣だが、その途中、なぜか気を失っている沙季を発見し……。",
+    "advPlayTypes": [
+      1
+    ],
+    "advAssetIds": [
+      "event_2401_01_02"
+    ],
+    "sectionName": "",
+    "rewardId": "",
+    "additionalDisplayCharacterIds": [],
+    "branchFirstText": "",
+    "branchCautionText": "",
+    "branchBgmAssetId": "",
+    "branchChoices": []
+  },
+  {
+    "id": "st-shelf-24-0103-001-003",
+    "name": "渚と\n大事な\nペンダント",
+    "description": "友達に頼まれ、猫を預かることになった渚。だが、必要なものを買いに出掛けている間に、猫がどこかに逃げてしまっていた。捜索のすえ、猫を見つけるも、なぜかその首には琴乃の大切なペンダントが提げられており……。",
+    "advPlayTypes": [
+      1
+    ],
+    "advAssetIds": [
+      "event_2401_01_03"
+    ],
+    "sectionName": "",
+    "rewardId": "",
+    "additionalDisplayCharacterIds": [],
+    "branchFirstText": "",
+    "branchCautionText": "",
+    "branchBgmAssetId": "",
+    "branchChoices": []
+  },
+  {
+    "id": "st-shelf-24-0103-001-004",
+    "name": "すずの大暴れ",
+    "description": "成宮家特製の豪華なおせち料理を持って、寮に帰ってきたすず。お皿に盛り付けたり、独自のアレンジを加えたりしていると、首からペンダントを提げた猫を発見。ペンダントがほしいすずは、追いかけることにするが……。",
+    "advPlayTypes": [
+      1
+    ],
+    "advAssetIds": [
+      "event_2401_01_04"
+    ],
+    "sectionName": "",
+    "rewardId": "",
+    "additionalDisplayCharacterIds": [],
+    "branchFirstText": "",
+    "branchCautionText": "",
+    "branchBgmAssetId": "",
+    "branchChoices": []
+  },
+  {
+    "id": "st-shelf-24-0103-001-005",
+    "name": "琴乃と\n猫と\n修羅場",
+    "description": "寮に戻ってきた琴乃は、行く先々で驚くべき光景を目の当たりにする。すずの残したメッセージを見て混乱する琴乃。しかもなぜかベランダでは、芽衣と渚がにらみ合っており……。",
+    "advPlayTypes": [
+      1
+    ],
+    "advAssetIds": [
+      "event_2401_01_05"
     ],
     "sectionName": "",
     "rewardId": "",
