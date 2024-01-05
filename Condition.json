@@ -103949,6 +103949,32 @@
     ]
   },
   {
+    "id": "cd-time-event-ms-newyear-24-0110-0117",
+    "settings": [
+      {
+        "term": {
+          "nowAfter": "1704812400000",
+          "nowBefore": "1705503599000"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-time-event-ms-newyear-24-0110-0117-mlv20",
+    "settings": [
+      {
+        "managerLevel": {
+          "levelGte": 20,
+          "levelLte": 0
+        },
+        "term": {
+          "nowAfter": "1704812400000",
+          "nowBefore": "1705503599000"
+        }
+      }
+    ]
+  },
+  {
     "id": "cd-time-event-ms-photo-23-0430-0510",
     "settings": [
       {
@@ -117312,6 +117338,43 @@
     ]
   },
   {
+    "id": "cd-time-gacha-rev-rockon-01-24-0108",
+    "settings": [
+      {
+        "term": {
+          "nowAfter": "1704682800000",
+          "nowBefore": "1704941999000"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-time-gacha-rev-rockon-01-24-0108-banner",
+    "settings": [
+      {
+        "notSatisfyCondition": {
+          "conditionId": "cd-time-gacha-rev-rockon-01-24-0108-banner-end"
+        },
+        "term": {
+          "nowAfter": "1704682800000",
+          "nowBefore": "1704941999000"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-time-gacha-rev-rockon-01-24-0108-banner-end",
+    "settings": [
+      {
+        "drawGacha": {
+          "gachaButtonIds": [
+            "btn-10-gacha-rev-rockon-01-24-0108"
+          ]
+        }
+      }
+    ]
+  },
+  {
     "id": "cd-time-gacha-rev-select-01-22-0324",
     "settings": [
       {
@@ -117803,6 +117866,31 @@
         "term": {
           "nowAfter": "1704034800000",
           "nowBefore": "1704250799000"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-time-gacha-rev-select-01-24-0108",
+    "settings": [
+      {
+        "term": {
+          "nowAfter": "1704682800000",
+          "nowBefore": "1705805999000"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-time-gacha-rev-select-01-24-0108-banner",
+    "settings": [
+      {
+        "satisfyCondition": {
+          "conditionId": "cd-time-gacha-rev-rockon-01-24-0108-banner-end"
+        },
+        "term": {
+          "nowAfter": "1704682800000",
+          "nowBefore": "1705805999000"
         }
       }
     ]
@@ -125243,6 +125331,20 @@
         "term": {
           "nowAfter": "1703775600000",
           "nowBefore": "1704034799000"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-time-pvp-24-0108-0110_s-banner",
+    "settings": [
+      {
+        "satisfyCondition": {
+          "conditionId": "cd-clear-area-main-011"
+        },
+        "term": {
+          "nowAfter": "1704639600000",
+          "nowBefore": "1704898799000"
         }
       }
     ]
