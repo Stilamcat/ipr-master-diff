@@ -29558,6 +29558,116 @@
     "eventMissionId": ""
   },
   {
+    "id": "ms-cd-normal-manager_level_achievement-260",
+    "categoryType": 3,
+    "missionType": 4,
+    "targetIds": [
+      "cd-normal-manager_level_achievement-260"
+    ],
+    "name": "マネージャーLv260到達",
+    "shortDescription": "マネージャーLv260到達",
+    "longDescription": "マネージャーLvを260まであげましょう。",
+    "order": 5,
+    "viewConditionId": "cd-normal-manager_level_achievement-260-view",
+    "progresses": [
+      {
+        "threshold": "1",
+        "rewardSetId": "rd-ms-normal-cd-manager_level-27"
+      }
+    ],
+    "linkType": 0,
+    "linkDetail": "",
+    "eventMissionId": ""
+  },
+  {
+    "id": "ms-cd-normal-manager_level_achievement-270",
+    "categoryType": 3,
+    "missionType": 4,
+    "targetIds": [
+      "cd-normal-manager_level_achievement-270"
+    ],
+    "name": "マネージャーLv270到達",
+    "shortDescription": "マネージャーLv270到達",
+    "longDescription": "マネージャーLvを270まであげましょう。",
+    "order": 5,
+    "viewConditionId": "cd-normal-manager_level_achievement-270-view",
+    "progresses": [
+      {
+        "threshold": "1",
+        "rewardSetId": "rd-ms-normal-cd-manager_level-28"
+      }
+    ],
+    "linkType": 0,
+    "linkDetail": "",
+    "eventMissionId": ""
+  },
+  {
+    "id": "ms-cd-normal-manager_level_achievement-280",
+    "categoryType": 3,
+    "missionType": 4,
+    "targetIds": [
+      "cd-normal-manager_level_achievement-280"
+    ],
+    "name": "マネージャーLv280到達",
+    "shortDescription": "マネージャーLv280到達",
+    "longDescription": "マネージャーLvを280まであげましょう。",
+    "order": 5,
+    "viewConditionId": "cd-normal-manager_level_achievement-280-view",
+    "progresses": [
+      {
+        "threshold": "1",
+        "rewardSetId": "rd-ms-normal-cd-manager_level-29"
+      }
+    ],
+    "linkType": 0,
+    "linkDetail": "",
+    "eventMissionId": ""
+  },
+  {
+    "id": "ms-cd-normal-manager_level_achievement-290",
+    "categoryType": 3,
+    "missionType": 4,
+    "targetIds": [
+      "cd-normal-manager_level_achievement-290"
+    ],
+    "name": "マネージャーLv290到達",
+    "shortDescription": "マネージャーLv290到達",
+    "longDescription": "マネージャーLvを290まであげましょう。",
+    "order": 5,
+    "viewConditionId": "cd-normal-manager_level_achievement-290-view",
+    "progresses": [
+      {
+        "threshold": "1",
+        "rewardSetId": "rd-ms-normal-cd-manager_level-30"
+      }
+    ],
+    "linkType": 0,
+    "linkDetail": "",
+    "eventMissionId": ""
+  },
+  {
+    "id": "ms-cd-normal-manager_level_achievement-300",
+    "categoryType": 3,
+    "missionType": 4,
+    "targetIds": [
+      "cd-normal-manager_level_achievement-300"
+    ],
+    "name": "マネージャーLv300到達",
+    "shortDescription": "マネージャーLv300到達",
+    "longDescription": "マネージャーLvを300まであげましょう。",
+    "order": 5,
+    "viewConditionId": "cd-normal-manager_level_achievement-300-view",
+    "progresses": [
+      {
+        "threshold": "1",
+        "rewardSetId": "rd-ms-normal-cd-manager_level-31"
+      }
+    ],
+    "linkType": 0,
+    "linkDetail": "",
+    "eventMissionId": ""
+  },
+  {
     "id": "ms-comeback-shop-limited-22-0328-check",
     "categoryType": 3,
     "missionType": 4,
@@ -38821,6 +38931,108 @@
       }
     ],
     "eventMissionId": "event-mini-marathon-23-0310",
+    "viewConditionId": "",
+    "linkType": 0,
+    "linkDetail": ""
+  },
+  {
+    "id": "ms-event-mini-marathon-24-0113-marathon_quest_clear_count_001",
+    "categoryType": 3,
+    "missionType": 1201,
+    "targetIds": [
+      "mini-marathon-24-0113-quest-1"
+    ],
+    "name": "No.1ステージを{threshold}回クリア",
+    "shortDescription": "No.1ステージを{threshold}回クリア",
+    "longDescription": "No.1ステージを{threshold}回クリアしましょう。",
+    "order": 1,
+    "progresses": [
+      {
+        "threshold": "20",
+        "rewardSetId": "rd_auto;stone;;50"
+      },
+      {
+        "threshold": "40",
+        "rewardSetId": "rd_auto;stone;;50"
+      },
+      {
+        "threshold": "70",
+        "rewardSetId": "rd_auto;stone;;50"
+      },
+      {
+        "threshold": "100",
+        "rewardSetId": "rd_auto;stone;;50"
+      }
+    ],
+    "eventMissionId": "event-mini-marathon-24-0113",
+    "viewConditionId": "",
+    "linkType": 0,
+    "linkDetail": ""
+  },
+  {
+    "id": "ms-event-mini-marathon-24-0113-marathon_quest_clear_count_002",
+    "categoryType": 3,
+    "missionType": 1201,
+    "targetIds": [
+      "mini-marathon-24-0113-quest-2"
+    ],
+    "name": "No.2ステージを{threshold}回クリア",
+    "shortDescription": "No.2ステージを{threshold}回クリア",
+    "longDescription": "No.2ステージを{threshold}回クリアしましょう。",
+    "order": 2,
+    "progresses": [
+      {
+        "threshold": "20",
+        "rewardSetId": "rd_auto;stone;;50"
+      },
+      {
+        "threshold": "40",
+        "rewardSetId": "rd_auto;stone;;50"
+      },
+      {
+        "threshold": "70",
+        "rewardSetId": "rd_auto;stone;;50"
+      },
+      {
+        "threshold": "100",
+        "rewardSetId": "rd_auto;stone;;50"
+      }
+    ],
+    "eventMissionId": "event-mini-marathon-24-0113",
+    "viewConditionId": "",
+    "linkType": 0,
+    "linkDetail": ""
+  },
+  {
+    "id": "ms-event-mini-marathon-24-0113-marathon_quest_clear_count_003",
+    "categoryType": 3,
+    "missionType": 1201,
+    "targetIds": [
+      "mini-marathon-24-0113-quest-3"
+    ],
+    "name": "No.3ステージを{threshold}回クリア",
+    "shortDescription": "No.3ステージを{threshold}回クリア",
+    "longDescription": "No.3ステージを{threshold}回クリアしましょう。",
+    "order": 3,
+    "progresses": [
+      {
+        "threshold": "20",
+        "rewardSetId": "rd_auto;stone;;50"
+      },
+      {
+        "threshold": "40",
+        "rewardSetId": "rd_auto;stone;;50"
+      },
+      {
+        "threshold": "70",
+        "rewardSetId": "rd_auto;stone;;50"
+      },
+      {
+        "threshold": "100",
+        "rewardSetId": "rd_auto;stone;;50"
+      }
+    ],
+    "eventMissionId": "event-mini-marathon-24-0113",
     "viewConditionId": "",
     "linkType": 0,
     "linkDetail": ""
