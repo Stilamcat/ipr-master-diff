@@ -6552,6 +6552,56 @@
     ]
   },
   {
+    "homeTalkId": "home-talk-card-szk-05-sail-00-talk-01",
+    "characterId": "char-szk",
+    "placeType": 1,
+    "conditionId": "cd-st-read-st-card-szk-05-sail-00-03",
+    "firstPriority": 9900,
+    "weight": 1,
+    "callPatternId": "call-pattern-card-szk-05-sail-00",
+    "choiceText": "大変だったって、何があったんだ？",
+    "managerText": "大変だったって、何があったんだ？",
+    "reliability": 5,
+    "characterTalks": [
+      {
+        "text": "星見プロのみんなが心配して…\n部屋までお見舞いに来たり…\n交代で看病したりしてくれて…",
+        "voiceAssetId": "sud_vo_home_szk-05-sail-00_talk-01-01",
+        "motionAssetId": "mot_adv_chr_cmn_pos-020_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "それはありがたかったけど…\nみんな果物とか、アイスとか\n差し入れを置いていって…",
+        "voiceAssetId": "sud_vo_home_szk-05-sail-00_talk-01-02",
+        "motionAssetId": "mot_adv_chr_cmn_talk-001_in",
+        "additionMotionAssetId": "mot_all_chr_cmn_facial-034_in"
+      },
+      {
+        "text": "誰とは言わないけど、ドーナツを\n大量に買い込んだ人もいて…\n差し入れがもの凄い量になった…",
+        "voiceAssetId": "sud_vo_home_szk-05-sail-00_talk-01-03",
+        "motionAssetId": "mot_adv_chr_cmn_talk-005_in",
+        "additionMotionAssetId": "mot_all_chr_cmn_facial-001_in"
+      },
+      {
+        "text": "頑張って食べたけど食べきれなくて\nでも、私のために買ってきて\nくれたのを、捨てたくなくて…",
+        "voiceAssetId": "sud_vo_home_szk-05-sail-00_talk-01-04",
+        "motionAssetId": "mot_adv_chr_cmn_trouble-004_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "結局、風邪が治ってから…\nわいわいお喋りしながら、みんなで\n果物とアイスとドーナツを食べた",
+        "voiceAssetId": "sud_vo_home_szk-05-sail-00_talk-01-05",
+        "motionAssetId": "mot_adv_chr_cmn_think-009_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "快気祝いのパーティだねって…\n夜遅くまで盛り上がって\nいろんな意味で大変だった…",
+        "voiceAssetId": "sud_vo_home_szk-05-sail-00_talk-01-06",
+        "motionAssetId": "mot_adv_chr_cmn_glad-007_in",
+        "additionMotionAssetId": ""
+      }
+    ]
+  },
+  {
     "homeTalkId": "home-talk-card-szk-05-yukt-00-talk-01",
     "characterId": "char-szk",
     "placeType": 1,

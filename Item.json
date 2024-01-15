@@ -994,7 +994,7 @@
     "name": "10連ガチャチケ",
     "assetId": "gacha-endless-22-1224",
     "description": "有効期限：入手後7日\n10連ガチャを1回引くことができる",
-    "howToGet": "2.5周年記念引き放題ガチャ",
+    "howToGet": "引き放題ガチャ",
     "type": 8,
     "value": 1,
     "order": 140,
@@ -2310,6 +2310,17 @@
     "salePrice": 0
   },
   {
+    "id": "item-gacha_point-pick-set-bloom-24-0115",
+    "name": "輝く雫、溢れる想いガチャPt",
+    "assetId": "gacha-point",
+    "description": "該当するガチャページの「ガチャPt」から\nガチャPtを消費してアイドルを獲得できる",
+    "type": 9,
+    "value": 1,
+    "order": 140,
+    "howToGet": "",
+    "salePrice": 0
+  },
+  {
     "id": "item-gacha_point-pickup-21-0712",
     "name": "光射す海宴ガチャPt",
     "assetId": "gacha-point",
@@ -2751,7 +2762,7 @@
   },
   {
     "id": "item-gacha_point-rev-select-01-24-0108",
-    "name": "選べる★5アイドルガチャ 月のテンペスト verPt",
+    "name": "選べる★5アイドルガチャ 月スト verPt",
     "assetId": "gacha-point",
     "description": "該当するガチャページの「ガチャPt」から\nガチャPtを消費してアイドルを獲得できる",
     "type": 9,

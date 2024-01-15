@@ -8490,6 +8490,16 @@
     "maxGrade": 0
   },
   {
+    "id": "ef-cool_time_reduction-1-target-vocal-2",
+    "name": "ボーカルタイプ2人のCTを減少",
+    "type": 27,
+    "description": "ボーカルタイプ2人のCTを1減少",
+    "skillTargetId": "target-vocal-2",
+    "shortDescription": "",
+    "grade": 0,
+    "maxGrade": 0
+  },
+  {
     "id": "ef-cool_time_reduction-10-target-all",
     "name": "全員のCTを減少",
     "type": 27,
@@ -8850,6 +8860,16 @@
     "maxGrade": 0
   },
   {
+    "id": "ef-cool_time_reduction-2-target-vocal-2",
+    "name": "ボーカルタイプ2人のCTを減少",
+    "type": 27,
+    "description": "ボーカルタイプ2人のCTを2減少",
+    "skillTargetId": "target-vocal-2",
+    "shortDescription": "",
+    "grade": 0,
+    "maxGrade": 0
+  },
+  {
     "id": "ef-cool_time_reduction-20-target-all",
     "name": "全員のCTを減少",
     "type": 27,
@@ -9185,6 +9205,16 @@
     "type": 27,
     "description": "自身のCTを3減少",
     "skillTargetId": "target-self",
+    "shortDescription": "",
+    "grade": 0,
+    "maxGrade": 0
+  },
+  {
+    "id": "ef-cool_time_reduction-3-target-vocal-2",
+    "name": "ボーカルタイプ2人のCTを減少",
+    "type": 27,
+    "description": "ボーカルタイプ2人のCTを3減少",
+    "skillTargetId": "target-vocal-2",
     "shortDescription": "",
     "grade": 0,
     "maxGrade": 0
@@ -23620,6 +23650,16 @@
     "maxGrade": 0
   },
   {
+    "id": "ef-fix_stamina_recovery-1400-target-all",
+    "name": "全員のスタミナを回復",
+    "type": 23,
+    "description": "全員のスタミナを1400回復",
+    "skillTargetId": "target-all",
+    "shortDescription": "",
+    "grade": 0,
+    "maxGrade": 0
+  },
+  {
     "id": "ef-fix_stamina_recovery-1400-target-self",
     "name": "自身のスタミナを回復",
     "type": 23,
@@ -24320,6 +24360,16 @@
     "maxGrade": 0
   },
   {
+    "id": "ef-fix_stamina_recovery-3040-target-all",
+    "name": "全員のスタミナを回復",
+    "type": 23,
+    "description": "全員のスタミナを3040回復",
+    "skillTargetId": "target-all",
+    "shortDescription": "",
+    "grade": 0,
+    "maxGrade": 0
+  },
+  {
     "id": "ef-fix_stamina_recovery-3100-target-center",
     "name": "センターのスタミナを回復",
     "type": 23,
@@ -24695,6 +24745,16 @@
     "type": 23,
     "description": "スタミナが低い1人のスタミナを3900回復",
     "skillTargetId": "target-stamina_lower-1",
+    "shortDescription": "",
+    "grade": 0,
+    "maxGrade": 0
+  },
+  {
+    "id": "ef-fix_stamina_recovery-400-target-all",
+    "name": "全員のスタミナを回復",
+    "type": 23,
+    "description": "全員のスタミナを400回復",
+    "skillTargetId": "target-all",
     "shortDescription": "",
     "grade": 0,
     "maxGrade": 0
@@ -26038,6 +26098,66 @@
     "shortDescription": "",
     "grade": 0,
     "maxGrade": 0
+  },
+  {
+    "id": "ef-passive_skill_score_up-10-target-all-54",
+    "name": "全員にPスキルスコア上昇効果",
+    "type": 42,
+    "description": "全員に10段階Pスキルスコア上昇効果[54ビート]",
+    "grade": 10,
+    "maxGrade": 20,
+    "skillTargetId": "target-all",
+    "shortDescription": ""
+  },
+  {
+    "id": "ef-passive_skill_score_up-10-target-all-66",
+    "name": "全員にPスキルスコア上昇効果",
+    "type": 42,
+    "description": "全員に10段階Pスキルスコア上昇効果[66ビート]",
+    "grade": 10,
+    "maxGrade": 20,
+    "skillTargetId": "target-all",
+    "shortDescription": ""
+  },
+  {
+    "id": "ef-passive_skill_score_up-11-target-all-66",
+    "name": "全員にPスキルスコア上昇効果",
+    "type": 42,
+    "description": "全員に11段階Pスキルスコア上昇効果[66ビート]",
+    "grade": 11,
+    "maxGrade": 20,
+    "skillTargetId": "target-all",
+    "shortDescription": ""
+  },
+  {
+    "id": "ef-passive_skill_score_up-11-target-all-78",
+    "name": "全員にPスキルスコア上昇効果",
+    "type": 42,
+    "description": "全員に11段階Pスキルスコア上昇効果[78ビート]",
+    "grade": 11,
+    "maxGrade": 20,
+    "skillTargetId": "target-all",
+    "shortDescription": ""
+  },
+  {
+    "id": "ef-passive_skill_score_up-12-target-all-78",
+    "name": "全員にPスキルスコア上昇効果",
+    "type": 42,
+    "description": "全員に12段階Pスキルスコア上昇効果[78ビート]",
+    "grade": 12,
+    "maxGrade": 20,
+    "skillTargetId": "target-all",
+    "shortDescription": ""
+  },
+  {
+    "id": "ef-passive_skill_score_up-12-target-all-90",
+    "name": "全員にPスキルスコア上昇効果",
+    "type": 42,
+    "description": "全員に12段階Pスキルスコア上昇効果[90ビート]",
+    "grade": 12,
+    "maxGrade": 20,
+    "skillTargetId": "target-all",
+    "shortDescription": ""
   },
   {
     "id": "ef-passive_skill_score_up-4-target-dance-3-42",
@@ -41480,6 +41600,16 @@
     "shortDescription": ""
   },
   {
+    "id": "ef-skill_success_rate_up-5-target-self-32",
+    "name": "自身にスキル成功率上昇効果",
+    "type": 37,
+    "description": "自身に5段階スキル成功率上昇効果[32ビート]",
+    "grade": 5,
+    "maxGrade": 10,
+    "skillTargetId": "target-self",
+    "shortDescription": ""
+  },
+  {
     "id": "ef-skill_success_rate_up-5-target-self-38",
     "name": "自身にスキル成功率上昇効果",
     "type": 37,
@@ -43760,6 +43890,66 @@
     "shortDescription": ""
   },
   {
+    "id": "ef-stamina_consumption_reduction-18-target-all-54",
+    "name": "全員に消費スタミナ低下効果",
+    "type": 11,
+    "description": "全員に18段階消費スタミナ低下効果[54ビート]",
+    "grade": 18,
+    "maxGrade": 20,
+    "skillTargetId": "target-all",
+    "shortDescription": ""
+  },
+  {
+    "id": "ef-stamina_consumption_reduction-18-target-all-66",
+    "name": "全員に消費スタミナ低下効果",
+    "type": 11,
+    "description": "全員に18段階消費スタミナ低下効果[66ビート]",
+    "grade": 18,
+    "maxGrade": 20,
+    "skillTargetId": "target-all",
+    "shortDescription": ""
+  },
+  {
+    "id": "ef-stamina_consumption_reduction-19-target-all-66",
+    "name": "全員に消費スタミナ低下効果",
+    "type": 11,
+    "description": "全員に19段階消費スタミナ低下効果[66ビート]",
+    "grade": 19,
+    "maxGrade": 20,
+    "skillTargetId": "target-all",
+    "shortDescription": ""
+  },
+  {
+    "id": "ef-stamina_consumption_reduction-19-target-all-78",
+    "name": "全員に消費スタミナ低下効果",
+    "type": 11,
+    "description": "全員に19段階消費スタミナ低下効果[78ビート]",
+    "grade": 19,
+    "maxGrade": 20,
+    "skillTargetId": "target-all",
+    "shortDescription": ""
+  },
+  {
+    "id": "ef-stamina_consumption_reduction-20-target-all-78",
+    "name": "全員に消費スタミナ低下効果",
+    "type": 11,
+    "description": "全員に20段階消費スタミナ低下効果[78ビート]",
+    "grade": 20,
+    "maxGrade": 20,
+    "skillTargetId": "target-all",
+    "shortDescription": ""
+  },
+  {
+    "id": "ef-stamina_consumption_reduction-20-target-all-90",
+    "name": "全員に消費スタミナ低下効果",
+    "type": 11,
+    "description": "全員に20段階消費スタミナ低下効果[90ビート]",
+    "grade": 20,
+    "maxGrade": 20,
+    "skillTargetId": "target-all",
+    "shortDescription": ""
+  },
+  {
     "id": "ef-stamina_consumption_reduction-3-target-self-20",
     "name": "自身に消費スタミナ低下効果",
     "type": 11,
@@ -44790,6 +44980,26 @@
     "shortDescription": ""
   },
   {
+    "id": "ef-stamina_continuous_consumption-6-target-opponent_character_type-1-2-54",
+    "name": "相手のスコアラータイプ2人にスタミナ継続消費効果",
+    "type": 63,
+    "description": "[ライブバトルのみ]相手のスコアラータイプ2人に6段階スタミナ継続消費効果[54ビート]",
+    "grade": 6,
+    "maxGrade": 20,
+    "skillTargetId": "target-opponent_character_type-1-2",
+    "shortDescription": ""
+  },
+  {
+    "id": "ef-stamina_continuous_consumption-6-target-opponent_character_type-1-2-66",
+    "name": "相手のスコアラータイプ2人にスタミナ継続消費効果",
+    "type": 63,
+    "description": "[ライブバトルのみ]相手のスコアラータイプ2人に6段階スタミナ継続消費効果[66ビート]",
+    "grade": 6,
+    "maxGrade": 20,
+    "skillTargetId": "target-opponent_character_type-1-2",
+    "shortDescription": ""
+  },
+  {
     "id": "ef-stamina_continuous_consumption-6-target-opponent_same_position-35",
     "name": "同じレーンの相手にスタミナ継続消費効果",
     "type": 63,
@@ -44810,6 +45020,26 @@
     "shortDescription": ""
   },
   {
+    "id": "ef-stamina_continuous_consumption-7-target-opponent_character_type-1-2-66",
+    "name": "相手のスコアラータイプ2人にスタミナ継続消費効果",
+    "type": 63,
+    "description": "[ライブバトルのみ]相手のスコアラータイプ2人に7段階スタミナ継続消費効果[66ビート]",
+    "grade": 7,
+    "maxGrade": 20,
+    "skillTargetId": "target-opponent_character_type-1-2",
+    "shortDescription": ""
+  },
+  {
+    "id": "ef-stamina_continuous_consumption-7-target-opponent_character_type-1-2-78",
+    "name": "相手のスコアラータイプ2人にスタミナ継続消費効果",
+    "type": 63,
+    "description": "[ライブバトルのみ]相手のスコアラータイプ2人に7段階スタミナ継続消費効果[78ビート]",
+    "grade": 7,
+    "maxGrade": 20,
+    "skillTargetId": "target-opponent_character_type-1-2",
+    "shortDescription": ""
+  },
+  {
     "id": "ef-stamina_continuous_consumption-7-target-opponent_same_position-40",
     "name": "同じレーンの相手にスタミナ継続消費効果",
     "type": 63,
@@ -44827,6 +45057,26 @@
     "grade": 7,
     "maxGrade": 20,
     "skillTargetId": "target-opponent_same_position",
+    "shortDescription": ""
+  },
+  {
+    "id": "ef-stamina_continuous_consumption-8-target-opponent_character_type-1-2-78",
+    "name": "相手のスコアラータイプ2人にスタミナ継続消費効果",
+    "type": 63,
+    "description": "[ライブバトルのみ]相手のスコアラータイプ2人に8段階スタミナ継続消費効果[78ビート]",
+    "grade": 8,
+    "maxGrade": 20,
+    "skillTargetId": "target-opponent_character_type-1-2",
+    "shortDescription": ""
+  },
+  {
+    "id": "ef-stamina_continuous_consumption-8-target-opponent_character_type-1-2-90",
+    "name": "相手のスコアラータイプ2人にスタミナ継続消費効果",
+    "type": 63,
+    "description": "[ライブバトルのみ]相手のスコアラータイプ2人に8段階スタミナ継続消費効果[90ビート]",
+    "grade": 8,
+    "maxGrade": 20,
+    "skillTargetId": "target-opponent_character_type-1-2",
     "shortDescription": ""
   },
   {
@@ -60955,6 +61205,16 @@
     "type": 24,
     "description": "対象2人の低下効果回復",
     "skillTargetId": "target-trigger-2",
+    "shortDescription": "",
+    "grade": 0,
+    "maxGrade": 0
+  },
+  {
+    "id": "ef-weakness_effect_recovery-target-vocal-3",
+    "name": "ボーカルタイプ3人の低下効果回復",
+    "type": 24,
+    "description": "ボーカルタイプ3人の低下効果回復",
+    "skillTargetId": "target-vocal-3",
     "shortDescription": "",
     "grade": 0,
     "maxGrade": 0

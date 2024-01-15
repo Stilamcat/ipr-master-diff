@@ -12320,6 +12320,67 @@
     "homeTalks": []
   },
   {
+    "id": "card-szk-05-sail-00",
+    "assetId": "szk-05-sail-00",
+    "name": "夢のアングラークイーン",
+    "description": "場所が沖縄で良かった……今日は気温が高くて\n日差しも暖かくて、本当に良かった……",
+    "type": 3,
+    "characterId": "char-szk",
+    "initialRarity": 5,
+    "cardParameterId": "card-param-01",
+    "vocalRatioPermil": 416,
+    "danceRatioPermil": 313,
+    "visualRatioPermil": 271,
+    "staminaRatioPermil": 1000,
+    "cardLevelReleaseId": "card_level_release_1",
+    "skillId1": "sk-szk-05-sail-00-1",
+    "skillId2": "sk-szk-05-sail-00-2",
+    "skillId3": "sk-szk-05-sail-00-3",
+    "liveAbilityId": "lba-stamina_add",
+    "order": 352,
+    "releaseDate": "1705287600000",
+    "rewardCostumeId": "cos-szk-sail-00",
+    "imageType1": 3,
+    "displayPositionX1": 0.233,
+    "displayScale1": 1.0,
+    "highlightDisplayPositionX1": -0.379,
+    "highlightDisplayPositionY1": 0.13,
+    "highlightDisplayScale1": 0.7,
+    "imageType2": 3,
+    "displayPositionX2": 0.233,
+    "displayScale2": 1.0,
+    "highlightDisplayPositionX2": -0.379,
+    "highlightDisplayPositionY2": 0.13,
+    "highlightDisplayScale2": 0.7,
+    "obtainMessage": "歌って踊れるアイドルアングラー、\n兵藤雫です",
+    "stories": [
+      {
+        "storyId": "st-card-szk-05-sail-00-01"
+      },
+      {
+        "storyId": "st-card-szk-05-sail-00-02"
+      },
+      {
+        "storyId": "st-card-szk-05-sail-00-03"
+      }
+    ],
+    "messages": [
+      {
+        "messageId": "message-card-szk-05-sail-00",
+        "telephoneId": ""
+      },
+      {
+        "telephoneId": "tel-card-szk-05-sail-00",
+        "messageId": ""
+      }
+    ],
+    "activityAbilityId": "",
+    "displayPositionY1": 0.0,
+    "displayPositionY2": 0.0,
+    "rewardHairId": "",
+    "homeTalks": []
+  },
+  {
     "id": "card-szk-05-yukt-00",
     "assetId": "szk-05-yukt-00",
     "name": "大輪彩る夏夜の一瞬",
