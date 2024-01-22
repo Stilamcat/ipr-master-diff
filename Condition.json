@@ -34110,6 +34110,20 @@
     ]
   },
   {
+    "id": "cd-function_lock-photo-shooting-story",
+    "settings": [
+      {
+        "satisfyCondition": {
+          "conditionId": "cd-clear-area-main-002"
+        },
+        "term": {
+          "nowAfter": "2524575600000",
+          "nowBefore": "0"
+        }
+      }
+    ]
+  },
+  {
     "id": "cd-function_lock-photo_retouch",
     "settings": [
       {
