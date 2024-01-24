@@ -5410,6 +5410,58 @@
     "homeTalks": []
   },
   {
+    "id": "card-mhk-05-birt-00",
+    "assetId": "mhk-05-birt-00",
+    "name": "浮かぶ追憶バースデー",
+    "description": "……誰かに、作ったものを食べてもらって……\nプレゼントをもらって……お祝いをしてもらって……\nもう、こんなこと、ないと思っていたのに……",
+    "type": 2,
+    "characterId": "char-mhk",
+    "initialRarity": 5,
+    "cardParameterId": "card-param-01",
+    "vocalRatioPermil": 405,
+    "danceRatioPermil": 315,
+    "visualRatioPermil": 280,
+    "staminaRatioPermil": 1000,
+    "cardLevelReleaseId": "card_level_release_1",
+    "skillId1": "sk-mhk-05-birt-00-1",
+    "skillId2": "sk-mhk-05-birt-00-2",
+    "skillId3": "sk-mhk-05-birt-00-3",
+    "activityAbilityId": "aab-lesson_card_enhance_item_up",
+    "order": 352,
+    "releaseDate": "1706108400000",
+    "imageType1": 3,
+    "displayPositionX1": 0.175,
+    "displayPositionY1": 0.143,
+    "displayScale1": 1.4,
+    "highlightDisplayPositionX1": -0.122,
+    "highlightDisplayPositionY1": 1.106,
+    "highlightDisplayScale1": 0.7,
+    "imageType2": 3,
+    "displayPositionX2": 0.175,
+    "displayPositionY2": 0.143,
+    "displayScale2": 1.4,
+    "highlightDisplayPositionX2": -0.122,
+    "highlightDisplayPositionY2": 1.106,
+    "highlightDisplayScale2": 0.7,
+    "obtainMessage": "今日くらいはいいのかしら……\n特別な日だから、今日くらいは……",
+    "rewardHairId": "hair-mhk-hair-10",
+    "stories": [
+      {
+        "storyId": "st-card-mhk-05-birt-00-01"
+      },
+      {
+        "storyId": "st-card-mhk-05-birt-00-02"
+      },
+      {
+        "storyId": "st-card-mhk-05-birt-00-03"
+      }
+    ],
+    "liveAbilityId": "",
+    "rewardCostumeId": "",
+    "messages": [],
+    "homeTalks": []
+  },
+  {
     "id": "card-mhk-05-idol-00",
     "assetId": "mhk-05-idol-00",
     "name": "make a comeback",
@@ -12337,7 +12389,7 @@
     "skillId2": "sk-szk-05-sail-00-2",
     "skillId3": "sk-szk-05-sail-00-3",
     "liveAbilityId": "lba-stamina_add",
-    "order": 352,
+    "order": 335,
     "releaseDate": "1705287600000",
     "rewardCostumeId": "cos-szk-sail-00",
     "imageType1": 3,

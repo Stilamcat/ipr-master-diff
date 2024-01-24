@@ -160,6 +160,38 @@
     "additionalDisplayCharacterIds": []
   },
   {
+    "id": "st-birthday-branch-mhk-24-0125",
+    "name": "miho 誕生日2024",
+    "advPlayTypes": [
+      6
+    ],
+    "branchFirstText": "今日はmihoさんの誕生日だな\n何をプレゼントしよう？",
+    "branchCautionText": "後で再度選択可能です",
+    "branchBgmAssetId": "sud_bgm_cmn_home-01",
+    "branchChoices": [
+      {
+        "index": 1,
+        "text": "ジムの無料券",
+        "advAssetId": "hbd_04_mhk_01"
+      },
+      {
+        "index": 2,
+        "text": "甘酒メーカー",
+        "advAssetId": "hbd_04_mhk_02"
+      },
+      {
+        "index": 3,
+        "text": "三人分の食事券",
+        "advAssetId": "hbd_04_mhk_03"
+      }
+    ],
+    "sectionName": "",
+    "description": "",
+    "rewardId": "",
+    "advAssetIds": [],
+    "additionalDisplayCharacterIds": []
+  },
+  {
     "id": "st-birthday-branch-ngs-23-0803",
     "name": "伊吹渚 誕生日2023",
     "advPlayTypes": [
@@ -4014,6 +4046,60 @@
     ],
     "advAssetIds": [
       "card_mei_06_03"
+    ],
+    "sectionName": "",
+    "description": "",
+    "additionalDisplayCharacterIds": [],
+    "branchFirstText": "",
+    "branchCautionText": "",
+    "branchBgmAssetId": "",
+    "branchChoices": []
+  },
+  {
+    "id": "st-card-mhk-05-birt-00-01",
+    "name": "mihoの\nやってみたい\nこと",
+    "rewardId": "rd_auto;stone;;30",
+    "advPlayTypes": [
+      1
+    ],
+    "advAssetIds": [
+      "card_mhk_51_01"
+    ],
+    "sectionName": "",
+    "description": "",
+    "additionalDisplayCharacterIds": [],
+    "branchFirstText": "",
+    "branchCautionText": "",
+    "branchBgmAssetId": "",
+    "branchChoices": []
+  },
+  {
+    "id": "st-card-mhk-05-birt-00-02",
+    "name": "小料理屋\nmiho",
+    "rewardId": "rd_auto;stone;;30",
+    "advPlayTypes": [
+      1
+    ],
+    "advAssetIds": [
+      "card_mhk_51_02"
+    ],
+    "sectionName": "",
+    "description": "",
+    "additionalDisplayCharacterIds": [],
+    "branchFirstText": "",
+    "branchCautionText": "",
+    "branchBgmAssetId": "",
+    "branchChoices": []
+  },
+  {
+    "id": "st-card-mhk-05-birt-00-03",
+    "name": "調子が狂う\n誕生日",
+    "rewardId": "rd_auto;stone;;30",
+    "advPlayTypes": [
+      1
+    ],
+    "advAssetIds": [
+      "card_mhk_51_03"
     ],
     "sectionName": "",
     "description": "",
