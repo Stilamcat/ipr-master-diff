@@ -1251,6 +1251,21 @@
     ]
   },
   {
+    "id": "event-shelf-24-0128",
+    "eventMissionType": 1,
+    "assetId": "img_banner_l_event-shelf-24-0128",
+    "name": "フォトアルバム",
+    "order": 1,
+    "viewConditionId": "cd-shelf-24-0128",
+    "unlockConditionId": "cd-shelf-24-0128-play",
+    "missionIds": [
+      "event-shelf-24-0128-photo-album-complete",
+      "event-shelf-24-0128-photo-album-creating",
+      "event-shelf-24-0128-photo-creating",
+      "event-shelf-24-0128-photo-save"
+    ]
+  },
+  {
     "id": "event-tour-21-0630",
     "eventMissionType": 1,
     "assetId": "img_banner_l_event-tour-21-0630",
@@ -1438,6 +1453,21 @@
       "event-ms-comeback-23-1125-mission_clear_count",
       "event-ms-comeback-23-1125-quest_all_clear_count",
       "event-ms-comeback-23-1125-quest_all_clear_count-goal"
+    ],
+    "unlockConditionId": ""
+  },
+  {
+    "id": "event_comeback-mission-24-0128",
+    "eventMissionType": 2,
+    "assetId": "img_banner_l_event-comeback-mission-23-0926",
+    "name": "カムバックミッション",
+    "order": 80,
+    "viewConditionId": "cd_shop_comeback-shop-limited-24-0128-mission-view",
+    "missionIds": [
+      "event-ms-comeback-24-0128-login_count",
+      "event-ms-comeback-24-0128-mission_clear_count",
+      "event-ms-comeback-24-0128-quest_all_clear_count",
+      "event-ms-comeback-24-0128-quest_all_clear_count-goal"
     ],
     "unlockConditionId": ""
   },
@@ -2297,6 +2327,20 @@
       "event-ms-sp-beginner-23-1125-00-clear-area-main-005",
       "event-ms-sp-beginner-23-1125-00-clear-area-main-010",
       "event-ms-sp-beginner-23-1125-00-clear-area-main-015"
+    ],
+    "unlockConditionId": ""
+  },
+  {
+    "id": "event_sp-beginner-mission-24-0128",
+    "eventMissionType": 2,
+    "assetId": "img_banner_l_event-sp-beginner-mission",
+    "name": "期間限定！スペシャルビギナーミッション",
+    "order": 1,
+    "viewConditionId": "cd-time-event-ms-sp-beginner-24-0128-0220",
+    "missionIds": [
+      "event-ms-sp-beginner-24-0128-00-clear-area-main-005",
+      "event-ms-sp-beginner-24-0128-00-clear-area-main-010",
+      "event-ms-sp-beginner-24-0128-00-clear-area-main-015"
     ],
     "unlockConditionId": ""
   },

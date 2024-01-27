@@ -704,6 +704,17 @@
     "salePrice": 0
   },
   {
+    "id": "item-exchange-collaboration-medal-24-0128",
+    "name": "コラボメダル",
+    "assetId": "medal_collaboration",
+    "description": "コラボメダル交換所で様々なアイテムと交換できる 期限を過ぎるとメダルは消失します",
+    "howToGet": "ガチャ、ショップなど",
+    "type": 10,
+    "value": 1,
+    "order": 140,
+    "salePrice": 0
+  },
+  {
     "id": "item-exchange-dress-medal-23-0613",
     "name": "復刻衣装メダル",
     "assetId": "medal-dress",
@@ -2574,6 +2585,17 @@
     "salePrice": 0
   },
   {
+    "id": "item-gacha_point-rev-lm-set-bloom-24-0128",
+    "name": "【復刻】with MIKUガチャPt",
+    "assetId": "gacha-point",
+    "description": "該当するガチャページの「ガチャPt」から\nガチャPtを消費してアイドルを獲得できる",
+    "type": 9,
+    "value": 1,
+    "order": 140,
+    "howToGet": "",
+    "salePrice": 0
+  },
+  {
     "id": "item-gacha_point-rev-select-01-22-0324",
     "name": "選べる★5水着ガチャPt",
     "assetId": "gacha-point",
@@ -4317,6 +4339,17 @@
     "assetId": "photo-shooting-contest",
     "description": "フォトオーディションの写真やフォトアルバムの写真を現像できる\nイベント終了後はコインに変換されます",
     "howToGet": "フォトアルバム、ショップ",
+    "type": 12001,
+    "value": 1,
+    "order": 99,
+    "salePrice": 0
+  },
+  {
+    "id": "item-photo_contest_create-24-0129",
+    "name": "イベント現像フィルム",
+    "assetId": "photo-shooting-contest",
+    "description": "フォトオーディションの写真やフォトアルバムの写真を現像できる\nイベント終了後はコインに変換されます",
+    "howToGet": "フォトオーディション、フォトアルバムなど",
     "type": 12001,
     "value": 1,
     "order": 99,
