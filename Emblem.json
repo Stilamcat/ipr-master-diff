@@ -2106,6 +2106,24 @@
     "isViewableInInactive": false
   },
   {
+    "id": "emb-329",
+    "name": "【殿堂入り】雪ミク",
+    "assetId": "score_ymk",
+    "autoProvideConditionId": "cd-live_character_highest_score-ymk-10000000",
+    "isViewableInInactive": true,
+    "order": 500834,
+    "description": "雪ミクハイスコア10000000"
+  },
+  {
+    "id": "emb-330",
+    "name": "雪原の歌姫",
+    "assetId": "reliability_ymk-30",
+    "autoProvideConditionId": "cd-reliability-ymk-30",
+    "order": 501264,
+    "description": "雪ミク信頼度30到達",
+    "isViewableInInactive": false
+  },
+  {
     "id": "emb-400",
     "name": "[奇跡]",
     "assetId": "emb-cd-5-0001-limited",
@@ -4932,6 +4950,15 @@
     "isViewableInInactive": false
   },
   {
+    "id": "emb-eve-24-0129",
+    "name": "イベント称号",
+    "assetId": "event-contest-24-0129",
+    "order": 124020,
+    "description": "フォトオーディション「未来を彩るスノーフェスティバル」条件達成",
+    "autoProvideConditionId": "",
+    "isViewableInInactive": false
+  },
+  {
     "id": "emb-eve-240103-1",
     "name": "にゃんか不思議なお正月！？",
     "assetId": "race-24-0103",
@@ -5990,6 +6017,33 @@
     "assetId": "sp-pvp-season-004-top100",
     "order": 350430,
     "description": "スペシャルVENUSバトルシーズン4で100位以内獲得",
+    "autoProvideConditionId": "",
+    "isViewableInInactive": false
+  },
+  {
+    "id": "emb-sp-pvp-season-005-top001",
+    "name": "SPVENUS-5 No.1",
+    "assetId": "sp-pvp-season-005-top1",
+    "order": 350510,
+    "description": "スペシャルVENUSバトルシーズン5で1位獲得",
+    "autoProvideConditionId": "",
+    "isViewableInInactive": false
+  },
+  {
+    "id": "emb-sp-pvp-season-005-top010",
+    "name": "SPVENUS-5 TOP10",
+    "assetId": "sp-pvp-season-005-top10",
+    "order": 350520,
+    "description": "スペシャルVENUSバトルシーズン5で10位以内獲得",
+    "autoProvideConditionId": "",
+    "isViewableInInactive": false
+  },
+  {
+    "id": "emb-sp-pvp-season-005-top100",
+    "name": "SPVENUS-5 TOP100",
+    "assetId": "sp-pvp-season-005-top100",
+    "order": 350530,
+    "description": "スペシャルVENUSバトルシーズン5で100位以内獲得",
     "autoProvideConditionId": "",
     "isViewableInInactive": false
   },

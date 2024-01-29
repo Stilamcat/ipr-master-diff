@@ -1556,5 +1556,55 @@
         "isAppeal": false
       }
     ]
+  },
+  {
+    "id": "st-eve-2402-contest",
+    "assetId": "event-contest-24-0129",
+    "name": "イベントストーリー",
+    "description": "未来を彩るスノーフェスティバル",
+    "order": 240213,
+    "viewConditionId": "cd-contest-24-0129-story",
+    "episodes": [
+      {
+        "episode": 1,
+        "assetId": "event_2402_01_01",
+        "storyId": "st-eve-2402-contest-001",
+        "unlockConditionId": "cd-event-story-read-001-contest-24-0129",
+        "viewConditionId": "",
+        "isAppeal": false
+      },
+      {
+        "episode": 2,
+        "assetId": "event_2402_01_02",
+        "storyId": "st-eve-2402-contest-002",
+        "unlockConditionId": "cd-contest-24-0129-total_submit_count_gte-3",
+        "isAppeal": true,
+        "viewConditionId": ""
+      },
+      {
+        "episode": 3,
+        "assetId": "event_2402_01_03",
+        "storyId": "st-eve-2402-contest-003",
+        "unlockConditionId": "cd-contest-24-0129-total_submit_count_gte-10",
+        "isAppeal": true,
+        "viewConditionId": ""
+      },
+      {
+        "episode": 4,
+        "assetId": "event_2402_01_04",
+        "storyId": "st-eve-2402-contest-004",
+        "unlockConditionId": "cd-contest-24-0129-total_submit_count_gte-20",
+        "isAppeal": true,
+        "viewConditionId": ""
+      },
+      {
+        "episode": 5,
+        "assetId": "event_2402_01_05",
+        "storyId": "st-eve-2402-contest-005",
+        "unlockConditionId": "cd-contest-24-0129-total_submit_count_gte-35",
+        "isAppeal": true,
+        "viewConditionId": ""
+      }
+    ]
   }
 ]

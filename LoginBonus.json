@@ -1462,6 +1462,26 @@
     "receiveConditionId": "cd-time-login-24-0104-0117"
   },
   {
+    "id": "login_bonus-campaign-24-0130-01",
+    "name": "雪ミク特別",
+    "description": "6日間の特別なログインボーナス",
+    "type": 2,
+    "assetId": "login-campaign-24-0130-01",
+    "topColorCode": "00CEFF",
+    "bottomColorCode": "D0FFA0",
+    "priority": 10,
+    "rewardIds": [
+      "rd_auto;item;item-exchange-collaboration-medal-24-0129;2",
+      "rd_auto;item;item-exchange-collaboration-medal-24-0129;2",
+      "rd_auto;item;item-exchange-collaboration-medal-24-0129;2",
+      "rd_auto;item;item-exchange-collaboration-medal-24-0129;2",
+      "rd_auto;item;item-exchange-collaboration-medal-24-0129;2",
+      "rd_auto;item;item-exchange-collaboration-medal-24-0129;2"
+    ],
+    "openConditionId": "cd-time-login-24-0130-0204",
+    "receiveConditionId": "cd-time-login-24-0130-0211"
+  },
+  {
     "id": "login_bonus-normal-01",
     "name": "デイリー",
     "description": "毎日もらえるログインボーナス",

@@ -550,5 +550,95 @@
     "viewConditionId": "",
     "unlockConditionId": "",
     "impossibleShootingCharacterIds": []
+  },
+  {
+    "id": "photo_activity-24-0129-aj-00",
+    "name": "展示スペース",
+    "type": 1,
+    "thumbAssetId": "aj-00",
+    "stageId": "stage-photo-aj-00",
+    "costumeTypeIds": [
+      "idol",
+      "casl",
+      "gene",
+      "idol-miku",
+      "kion",
+      "waso"
+    ],
+    "forceCostumeTypeId": "casl",
+    "photoShootingMotionSetId": "aj-00",
+    "isDeleteCharacter": true,
+    "order": 3,
+    "viewConditionId": "",
+    "unlockConditionId": "",
+    "impossibleShootingCharacterIds": []
+  },
+  {
+    "id": "photo_activity-24-0129-cafe-00",
+    "name": "カフェ",
+    "type": 2,
+    "thumbAssetId": "cafe-00",
+    "stageId": "stage-photo-cafe-00",
+    "costumeTypeIds": [
+      "casl",
+      "schl",
+      "trng",
+      "gene",
+      "idol-miku",
+      "kion"
+    ],
+    "forceCostumeTypeId": "casl",
+    "photoShootingMotionSetId": "cafe-00",
+    "isDeleteCharacter": true,
+    "order": 4,
+    "viewConditionId": "",
+    "unlockConditionId": "",
+    "impossibleShootingCharacterIds": []
+  },
+  {
+    "id": "photo_activity-24-0129-catstreet-01",
+    "name": "クリスマス",
+    "type": 1,
+    "thumbAssetId": "shopping-01",
+    "stageId": "stage-photo-catstreet-01",
+    "costumeTypeIds": [
+      "idol",
+      "casl",
+      "schl",
+      "trng",
+      "gene",
+      "idol-miku",
+      "kion",
+      "waso"
+    ],
+    "forceCostumeTypeId": "casl",
+    "photoShootingMotionSetId": "catstreet-01",
+    "isDeleteCharacter": true,
+    "order": 2,
+    "viewConditionId": "",
+    "unlockConditionId": "",
+    "impossibleShootingCharacterIds": []
+  },
+  {
+    "id": "photo_activity-24-0129-cooking-00",
+    "name": "番組配信",
+    "type": 1,
+    "thumbAssetId": "video_destribution-00",
+    "stageId": "stage-photo-cooking-00",
+    "costumeTypeIds": [
+      "casl",
+      "gene",
+      "idol-miku",
+      "kion",
+      "idol",
+      "schl"
+    ],
+    "forceCostumeTypeId": "casl",
+    "photoShootingMotionSetId": "cooking-00",
+    "isDeleteCharacter": true,
+    "order": 1,
+    "viewConditionId": "",
+    "unlockConditionId": "",
+    "impossibleShootingCharacterIds": []
   }
 ]

@@ -924,6 +924,50 @@
     "focusCharacterId": ""
   },
   {
+    "id": "phot-clb-2402-2",
+    "assetId": "phot-clb-2402-02",
+    "name": "雪ミク&神崎莉央",
+    "rarity": 5,
+    "placeName": "雪ミクコラボ",
+    "eventName": "メモリアルフォト",
+    "level": 35,
+    "abilities": [
+      {
+        "photoAbilityId": "pab-vocal_multiply_distribution-5",
+        "effectValue": 200,
+        "grade": 1,
+        "missionId": ""
+      },
+      {
+        "photoAbilityId": "pab-dance_multiply_distribution-5",
+        "effectValue": 200,
+        "grade": 1,
+        "missionId": ""
+      },
+      {
+        "photoAbilityId": "pab-visual_multiply_distribution-5",
+        "effectValue": 200,
+        "grade": 1,
+        "missionId": ""
+      },
+      {
+        "photoAbilityId": "pab-mental_add-5",
+        "effectValue": 77,
+        "grade": 1,
+        "missionId": ""
+      },
+      {
+        "photoAbilityId": "pab-passive-skill_sk-phot-shop-5-02",
+        "effectValue": 1,
+        "grade": 1,
+        "missionId": ""
+      }
+    ],
+    "focusCharacterId": "char-ymk",
+    "characterIds": [],
+    "shootingTime": "0"
+  },
+  {
     "id": "phot-clb-mission-2304",
     "assetId": "phot-clb-mission-2304",
     "name": "コラボミッションフォト",
@@ -1228,6 +1272,50 @@
       }
     ],
     "focusCharacterId": "char-chk",
+    "characterIds": [],
+    "shootingTime": "0"
+  },
+  {
+    "id": "phot-clb-shop-2401-1",
+    "assetId": "phot-clb-shop-2401-1",
+    "name": "雪ミク",
+    "rarity": 5,
+    "placeName": "雪ミクコラボ",
+    "eventName": "メモリアルフォト",
+    "level": 60,
+    "abilities": [
+      {
+        "photoAbilityId": "pab-vocal_multiply_distribution-5",
+        "effectValue": 250,
+        "grade": 1,
+        "missionId": ""
+      },
+      {
+        "photoAbilityId": "pab-dance_multiply_distribution-5",
+        "effectValue": 250,
+        "grade": 1,
+        "missionId": ""
+      },
+      {
+        "photoAbilityId": "pab-visual_multiply_distribution-5",
+        "effectValue": 250,
+        "grade": 1,
+        "missionId": ""
+      },
+      {
+        "photoAbilityId": "pab-active-skill-score-up_multiply_distribution-5",
+        "effectValue": 70,
+        "grade": 1,
+        "missionId": ""
+      },
+      {
+        "photoAbilityId": "pab-passive-skill_sk-phot-release-login-5-01",
+        "effectValue": 1,
+        "grade": 1,
+        "missionId": ""
+      }
+    ],
+    "focusCharacterId": "char-ymk",
     "characterIds": [],
     "shootingTime": "0"
   },

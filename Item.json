@@ -297,6 +297,17 @@
     "salePrice": 0
   },
   {
+    "id": "item-contest_medal-24-0129",
+    "name": "フォトメダル",
+    "assetId": "medal-contest",
+    "description": "フォトメダル交換所で様々なアイテムと交換できる\nイベント終了後はコインに変換されます",
+    "howToGet": "フォトオーディション",
+    "type": 3001,
+    "value": 1,
+    "order": 99,
+    "salePrice": 0
+  },
+  {
     "id": "item-contest_submitting-21-1228",
     "name": "イベントフィルム",
     "assetId": "photo-shooting-contest",
@@ -364,6 +375,17 @@
   },
   {
     "id": "item-contest_submitting-23-1128",
+    "name": "イベント撮影パス",
+    "assetId": "photo-shooting-contest-ticket",
+    "description": "フォトオーディションに写真を提出できる\nイベント終了後はコインに変換されます",
+    "howToGet": "フォトオーディション、プロモーション、ファンイベントなど",
+    "type": 6001,
+    "value": 1,
+    "order": 1,
+    "salePrice": 0
+  },
+  {
+    "id": "item-contest_submitting-24-0129",
     "name": "イベント撮影パス",
     "assetId": "photo-shooting-contest-ticket",
     "description": "フォトオーディションに写真を提出できる\nイベント終了後はコインに変換されます",
@@ -561,6 +583,17 @@
     "salePrice": 0
   },
   {
+    "id": "item-daily_quest_ticket_sp-24-0129",
+    "name": "スペシャルパス",
+    "assetId": "quest-daily-special",
+    "description": "デイリーライブ【スペシャル】に挑戦できる\nイベント終了後は消失します",
+    "howToGet": "ショップなど",
+    "type": 2006,
+    "value": 1,
+    "order": 220,
+    "salePrice": 0
+  },
+  {
     "id": "item-dream-generate-dream-23-0912",
     "name": "イメトレマニュアル",
     "assetId": "dream-generate",
@@ -709,6 +742,17 @@
     "assetId": "medal_collaboration",
     "description": "コラボメダル交換所で様々なアイテムと交換できる 期限を過ぎるとメダルは消失します",
     "howToGet": "ガチャ、ショップなど",
+    "type": 10,
+    "value": 1,
+    "order": 140,
+    "salePrice": 0
+  },
+  {
+    "id": "item-exchange-collaboration-medal-24-0129",
+    "name": "雪ミク衣装メダル",
+    "assetId": "medal-dress",
+    "description": "雪ミク衣装メダル交換所で様々なアイテムと交換できる",
+    "howToGet": "コラボ開催記念特別ログインボーナスやギフトなど",
     "type": 10,
     "value": 1,
     "order": 140,
@@ -1925,6 +1969,17 @@
     "salePrice": 0
   },
   {
+    "id": "item-gacha_point-lm-set-bloom-24-0129",
+    "name": "with SNOW MIKUⅠガチャPt",
+    "assetId": "gacha-point",
+    "description": "該当するガチャページの「ガチャPt」から\nガチャPtを消費してアイドルを獲得できる",
+    "type": 9,
+    "value": 1,
+    "order": 140,
+    "howToGet": "",
+    "salePrice": 0
+  },
+  {
     "id": "item-gacha_point-pick-set-bloom-21-1112",
     "name": "福招く獅子舞娘ガチャPt",
     "assetId": "gacha-point",
@@ -2827,6 +2882,17 @@
     "salePrice": 0
   },
   {
+    "id": "item-gacha_point-rev-select-01-24-0131",
+    "name": "選べる★5復刻ガチャPt",
+    "assetId": "gacha-point",
+    "description": "該当するガチャページの「ガチャPt」から\nガチャPtを消費してアイドルを獲得できる",
+    "type": 9,
+    "value": 1,
+    "order": 140,
+    "howToGet": "",
+    "salePrice": 0
+  },
+  {
     "id": "item-gacha_point-select-01-21-1206",
     "name": "選べる★5バッファーガチャPt",
     "assetId": "gacha-point",
@@ -3077,6 +3143,28 @@
     "type": 8,
     "value": 1,
     "order": 150,
+    "salePrice": 0
+  },
+  {
+    "id": "item-gacha_ticket-24-0129-01-r5",
+    "name": "with SNOW MIKU Ⅰ★5確定ガチャチケ",
+    "assetId": "ticket-24-0129-01-r5",
+    "description": "with SNOW MIKUⅠ★5アイドル1人確定チケットガチャを1回引くことができる\n使用期限終了後は消失します",
+    "howToGet": "ショップ",
+    "type": 8,
+    "value": 1,
+    "order": 100,
+    "salePrice": 0
+  },
+  {
+    "id": "item-gacha_ticket-24-0204-01-r5",
+    "name": "with SNOW MIKU Ⅱ★5確定ガチャチケ",
+    "assetId": "ticket-24-0204-01-r5",
+    "description": "with SNOW MIKUⅡ★5アイドル1人確定チケットガチャを1回引くことができる\n使用期限終了後は消失します",
+    "howToGet": "ショップ",
+    "type": 8,
+    "value": 1,
+    "order": 100,
     "salePrice": 0
   },
   {

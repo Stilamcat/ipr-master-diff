@@ -514,6 +514,56 @@
     ]
   },
   {
+    "homeTalkId": "home-talk-card-aoi-05-miku-01-talk-01",
+    "characterId": "char-aoi",
+    "placeType": 1,
+    "conditionId": "cd-st-read-st-card-aoi-05-miku-01-03",
+    "firstPriority": 9900,
+    "weight": 1,
+    "callPatternId": "call-pattern-card-aoi-05-miku-01",
+    "choiceText": "そうなのか？",
+    "managerText": "そうなのか？",
+    "reliability": 5,
+    "characterTalks": [
+      {
+        "text": "スープカレーにラーメン…\nジンギスカンに海の幸…\n北海道グルメを食べ損ねたよ…",
+        "voiceAssetId": "sud_vo_home_aoi-05-miku-01_talk-01-01",
+        "motionAssetId": "mot_adv_chr_cmn_sad-005_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "滞在中はずっと、新曲作りと\n練習に追われてて、食べ歩きをする\n時間はなかったからね。",
+        "voiceAssetId": "sud_vo_home_aoi-05-miku-01_talk-01-02",
+        "motionAssetId": "mot_adv_chr_cmn_talk-001_in",
+        "additionMotionAssetId": "mot_all_chr_cmn_facial-003_in"
+      },
+      {
+        "text": "新曲に集中してる間は\n北海道グルメのことなんか\n思い出しもしなかったし。",
+        "voiceAssetId": "sud_vo_home_aoi-05-miku-01_talk-01-03",
+        "motionAssetId": "mot_adv_chr_cmn_talk-006_in",
+        "additionMotionAssetId": "mot_all_chr_cmn_facial-032_in"
+      },
+      {
+        "text": "それはいいんだけど、東京に戻って\nそれに気づいた途端に無性に\n食べたくなってきてさ。",
+        "voiceAssetId": "sud_vo_home_aoi-05-miku-01_talk-01-04",
+        "motionAssetId": "mot_adv_chr_cmn_pos-001_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "この間、北海道物産展を見かけて\n思わず立ち寄っちゃったよ。\nなんだか凄い敗北感だった。",
+        "voiceAssetId": "sud_vo_home_aoi-05-miku-01_talk-01-05",
+        "motionAssetId": "mot_adv_chr_cmn_sad-001_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "今度は、北海道でゆっくり出来る\n旅番組のロケなんてないかなあ。\n期待してるよ。",
+        "voiceAssetId": "sud_vo_home_aoi-05-miku-01_talk-01-06",
+        "motionAssetId": "mot_adv_chr_cmn_pos-020_in",
+        "additionMotionAssetId": ""
+      }
+    ]
+  },
+  {
     "homeTalkId": "home-talk-card-aoi-05-mizg-01-talk-01",
     "characterId": "char-aoi",
     "placeType": 1,
