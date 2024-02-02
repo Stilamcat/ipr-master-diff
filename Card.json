@@ -359,6 +359,67 @@
     "rewardHairId": ""
   },
   {
+    "id": "card-ai-05-miku-01",
+    "assetId": "ai-05-miku-01",
+    "name": "鳴り止まないアンコール",
+    "description": "さらに身軽になった、軽快なダンスを\nファンのみなさんに観てもらいます！",
+    "type": 2,
+    "characterId": "char-ai",
+    "initialRarity": 5,
+    "cardParameterId": "card-param-01",
+    "vocalRatioPermil": 291,
+    "danceRatioPermil": 406,
+    "visualRatioPermil": 333,
+    "staminaRatioPermil": 900,
+    "cardLevelReleaseId": "card_level_release_1",
+    "skillId1": "sk-ai-05-miku-01-1",
+    "skillId2": "sk-ai-05-miku-01-2",
+    "skillId3": "sk-ai-05-miku-01-3",
+    "liveAbilityId": "lba-special_skill_score_multiply",
+    "order": 348,
+    "releaseDate": "1707015600000",
+    "rewardCostumeId": "cos-ai-miku-03",
+    "imageType1": 3,
+    "displayPositionX1": 0.191,
+    "displayScale1": 1.0,
+    "highlightDisplayPositionX1": -0.317,
+    "highlightDisplayPositionY1": 0.289,
+    "highlightDisplayScale1": 0.8,
+    "imageType2": 3,
+    "displayPositionX2": 0.191,
+    "displayScale2": 1.0,
+    "highlightDisplayPositionX2": -0.317,
+    "highlightDisplayPositionY2": 0.289,
+    "highlightDisplayScale2": 0.8,
+    "obtainMessage": "軽快なダンスを、\nファンのみなさんに\n観てもらいます！",
+    "stories": [
+      {
+        "storyId": "st-card-ai-05-miku-01-01"
+      },
+      {
+        "storyId": "st-card-ai-05-miku-01-02"
+      },
+      {
+        "storyId": "st-card-ai-05-miku-01-03"
+      }
+    ],
+    "messages": [
+      {
+        "messageId": "message-card-ai-05-miku-01",
+        "telephoneId": ""
+      },
+      {
+        "telephoneId": "tel-card-ai-05-miku-01",
+        "messageId": ""
+      }
+    ],
+    "activityAbilityId": "",
+    "displayPositionY1": 0.0,
+    "displayPositionY2": 0.0,
+    "rewardHairId": "",
+    "homeTalks": []
+  },
+  {
     "id": "card-ai-05-mizg-01",
     "assetId": "ai-05-mizg-01",
     "name": "ネオン煌めくナイトプール",
@@ -3314,6 +3375,67 @@
     "activityAbilityId": "",
     "displayPositionY1": 0.0,
     "displayPositionY2": 0.0,
+    "rewardHairId": "",
+    "homeTalks": []
+  },
+  {
+    "id": "card-kkr-05-miku-01",
+    "assetId": "kkr-05-miku-01",
+    "name": "心震える熱き想い",
+    "description": "とっても寒くて温かい、そんな北海道が\nこころは大好きになりました",
+    "type": 1,
+    "characterId": "char-kkr",
+    "initialRarity": 5,
+    "cardParameterId": "card-param-01",
+    "vocalRatioPermil": 316,
+    "danceRatioPermil": 279,
+    "visualRatioPermil": 435,
+    "staminaRatioPermil": 900,
+    "cardLevelReleaseId": "card_level_release_1",
+    "skillId1": "sk-kkr-05-miku-01-1",
+    "skillId2": "sk-kkr-05-miku-01-2",
+    "skillId3": "sk-kkr-05-miku-01-3",
+    "activityAbilityId": "aab-lesson_gold_up",
+    "order": 347,
+    "releaseDate": "1707015600000",
+    "rewardCostumeId": "cos-kkr-miku-03",
+    "imageType1": 3,
+    "displayPositionX1": 0.149,
+    "displayPositionY1": 0.004,
+    "displayScale1": 1.1,
+    "highlightDisplayPositionX1": -0.133,
+    "highlightDisplayPositionY1": 0.228,
+    "highlightDisplayScale1": 0.7,
+    "imageType2": 3,
+    "displayPositionX2": 0.149,
+    "displayPositionY2": 0.004,
+    "displayScale2": 1.1,
+    "highlightDisplayPositionX2": -0.133,
+    "highlightDisplayPositionY2": 0.228,
+    "highlightDisplayScale2": 0.7,
+    "obtainMessage": "北海道のみんな～、\n大好きですよ～！",
+    "stories": [
+      {
+        "storyId": "st-card-kkr-05-miku-01-01"
+      },
+      {
+        "storyId": "st-card-kkr-05-miku-01-02"
+      },
+      {
+        "storyId": "st-card-kkr-05-miku-01-03"
+      }
+    ],
+    "messages": [
+      {
+        "messageId": "message-card-kkr-05-miku-01",
+        "telephoneId": ""
+      },
+      {
+        "telephoneId": "tel-card-kkr-05-miku-01",
+        "messageId": ""
+      }
+    ],
+    "liveAbilityId": "",
     "rewardHairId": "",
     "homeTalks": []
   },

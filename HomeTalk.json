@@ -138,6 +138,56 @@
     ]
   },
   {
+    "homeTalkId": "home-talk-card-ai-05-miku-01-talk-01",
+    "characterId": "char-ai",
+    "placeType": 1,
+    "conditionId": "cd-st-read-st-card-ai-05-miku-01-03",
+    "firstPriority": 9900,
+    "weight": 1,
+    "callPatternId": "call-pattern-card-ai-05-miku-01",
+    "choiceText": "ちょっと太っちゃったけどな",
+    "managerText": "ちょっと太っちゃったけどな",
+    "reliability": 5,
+    "characterTalks": [
+      {
+        "text": "え！？　本当ですか？\nそれはいけません！",
+        "voiceAssetId": "sud_vo_home_ai-05-miku-01_talk-01-01",
+        "motionAssetId": "mot_adv_chr_cmn_deny-001_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "アイドルじゃなくても\n体調管理は大切です！\n大問題ですよ！！",
+        "voiceAssetId": "sud_vo_home_ai-05-miku-01_talk-01-02",
+        "motionAssetId": "mot_adv_chr_cmn_talk-011_in",
+        "additionMotionAssetId": "mot_all_chr_cmn_facial-003_in"
+      },
+      {
+        "text": "{user}さんも\nダイエットしましょう！\n私、協力しますよ。",
+        "voiceAssetId": "sud_vo_home_ai-05-miku-01_talk-01-03",
+        "motionAssetId": "mot_adv_chr_cmn_pos-006_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "まずは、腹筋千回……\nいえ、二千回から\nいきましょう！",
+        "voiceAssetId": "sud_vo_home_ai-05-miku-01_talk-01-04",
+        "motionAssetId": "mot_adv_chr_cmn_pos-002_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "え？　そんなには無理？\nそんなことありませんよ。\n私だって出来るんですから。",
+        "voiceAssetId": "sud_vo_home_ai-05-miku-01_talk-01-05",
+        "motionAssetId": "mot_adv_chr_cmn_glad-007_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "早速、今から始めましょう！\n一緒に頑張りましょうね！",
+        "voiceAssetId": "sud_vo_home_ai-05-miku-01_talk-01-06",
+        "motionAssetId": "mot_adv_chr_cmn_pos-007_in",
+        "additionMotionAssetId": ""
+      }
+    ]
+  },
+  {
     "homeTalkId": "home-talk-card-ai-05-mizg-01-talk-01",
     "characterId": "char-ai",
     "placeType": 1,
@@ -1799,6 +1849,56 @@
         "text": "リズノワが柔軟性を身につける\nためにも…ぜひ合同お茶会を\nセッティングしないとですね！",
         "voiceAssetId": "sud_vo_home_kkr-05-kion-00_talk-01-06",
         "motionAssetId": "mot_adv_chr_cmn_pos-002_in",
+        "additionMotionAssetId": ""
+      }
+    ]
+  },
+  {
+    "homeTalkId": "home-talk-card-kkr-05-miku-01-talk-01",
+    "characterId": "char-kkr",
+    "placeType": 1,
+    "conditionId": "cd-st-read-st-card-kkr-05-miku-01-03",
+    "firstPriority": 9900,
+    "weight": 1,
+    "callPatternId": "call-pattern-card-kkr-05-miku-01",
+    "choiceText": "なんの話だ？",
+    "managerText": "なんの話だ？",
+    "reliability": 5,
+    "characterTalks": [
+      {
+        "text": "こころ、プログラミングを\n習ってみようかな～って\n思ってまして。",
+        "voiceAssetId": "sud_vo_home_kkr-05-miku-01_talk-01-01",
+        "motionAssetId": "mot_adv_chr_cmn_pos-018_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "ミクちゃんの衣装とか\n小物とかを作ったら\n喜んでくれるかな～と。",
+        "voiceAssetId": "sud_vo_home_kkr-05-miku-01_talk-01-02",
+        "motionAssetId": "mot_adv_chr_cmn_glad-010_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "あれ？　そういうのって\nプログラミングじゃなくて\nグラフィックでしょうか？",
+        "voiceAssetId": "sud_vo_home_kkr-05-miku-01_talk-01-03",
+        "motionAssetId": "mot_adv_chr_cmn_trouble-001_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "うーん、よく分かりません…\n周りに詳しい人もいないし…",
+        "voiceAssetId": "sud_vo_home_kkr-05-miku-01_talk-01-04",
+        "motionAssetId": "mot_adv_chr_cmn_sad-006_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "あ、{user}さんが\nまずは勉強してみる\nっていうのはどうですか？",
+        "voiceAssetId": "sud_vo_home_kkr-05-miku-01_talk-01-05",
+        "motionAssetId": "mot_adv_chr_cmn_ask-008_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "いろいろ覚えたら\nこころにも教えてくれたら\n嬉しいな～、なんて。",
+        "voiceAssetId": "sud_vo_home_kkr-05-miku-01_talk-01-06",
+        "motionAssetId": "mot_adv_chr_cmn_pos-006_in",
         "additionMotionAssetId": ""
       }
     ]

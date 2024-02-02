@@ -1482,6 +1482,27 @@
     "receiveConditionId": "cd-time-login-24-0130-0211"
   },
   {
+    "id": "login_bonus-campaign-24-0207-01",
+    "name": "雪ミクコラボ",
+    "description": "7日間の特別なログインボーナス",
+    "type": 2,
+    "assetId": "login-campaign-24-0207-01",
+    "topColorCode": "00CEFF",
+    "bottomColorCode": "D0FFA0",
+    "priority": 10,
+    "rewardIds": [
+      "rd_auto;item;item-daily_quest_ticket_01;3",
+      "rd_auto;item;item-daily_quest_ticket_03;3",
+      "rd_auto;stone;;390",
+      "rd_auto;item;item-card_support_release;3939",
+      "rd_auto;item;item-daily_quest_ticket_02;3",
+      "rd_auto;stone;;390",
+      "rd_auto;item;item-gacha_ticket-r5-23-0624;1"
+    ],
+    "openConditionId": "cd-time-login-24-0207-0213",
+    "receiveConditionId": "cd-time-login-24-0207-0220"
+  },
+  {
     "id": "login_bonus-normal-01",
     "name": "デイリー",
     "description": "毎日もらえるログインボーナス",
