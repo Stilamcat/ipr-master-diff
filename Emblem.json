@@ -4725,6 +4725,15 @@
     "isViewableInInactive": false
   },
   {
+    "id": "emb-birthday_ai-03",
+    "name": "【誕生日】小美山愛",
+    "assetId": "birthday_ai-03",
+    "autoProvideConditionId": "cd-birthday_emblem_ai-24-0209",
+    "order": 603160,
+    "description": "愛の誕生日を迎える",
+    "isViewableInInactive": false
+  },
+  {
     "id": "emb-birthday_aoi-02",
     "name": "【誕生日】井川葵",
     "assetId": "birthday_aoi-02",
@@ -5162,6 +5171,24 @@
     "assetId": "gvg-season-031-top010",
     "order": 403120,
     "description": "ユニオンライブシーズン31 で10位以内獲得",
+    "autoProvideConditionId": "",
+    "isViewableInInactive": false
+  },
+  {
+    "id": "emb-gvg-season-032-top001",
+    "name": "ユニオンシーズン32 No.1",
+    "assetId": "gvg-season-032-top001",
+    "order": 403210,
+    "description": "ユニオンライブシーズン32 で1位獲得",
+    "autoProvideConditionId": "",
+    "isViewableInInactive": false
+  },
+  {
+    "id": "emb-gvg-season-032-top010",
+    "name": "ユニオンシーズン32 TOP10",
+    "assetId": "gvg-season-032-top010",
+    "order": 403220,
+    "description": "ユニオンライブシーズン32 で10位以内獲得",
     "autoProvideConditionId": "",
     "isViewableInInactive": false
   },
@@ -5882,6 +5909,33 @@
     "assetId": "pvp-season-089-top100",
     "order": 308930,
     "description": "VENUSバトルシーズン89で100位以内獲得",
+    "autoProvideConditionId": "",
+    "isViewableInInactive": false
+  },
+  {
+    "id": "emb-pvp-season-090-top001",
+    "name": "VENUSシーズン90 No.1",
+    "assetId": "pvp-season-090-top001",
+    "order": 309010,
+    "description": "VENUSバトルシーズン90で1位獲得",
+    "autoProvideConditionId": "",
+    "isViewableInInactive": false
+  },
+  {
+    "id": "emb-pvp-season-090-top010",
+    "name": "VENUSシーズン90 TOP10",
+    "assetId": "pvp-season-090-top010",
+    "order": 309020,
+    "description": "VENUSバトルシーズン90で10位以内獲得",
+    "autoProvideConditionId": "",
+    "isViewableInInactive": false
+  },
+  {
+    "id": "emb-pvp-season-090-top100",
+    "name": "VENUSシーズン90 TOP100",
+    "assetId": "pvp-season-090-top100",
+    "order": 309030,
+    "description": "VENUSバトルシーズン90で100位以内獲得",
     "autoProvideConditionId": "",
     "isViewableInInactive": false
   },

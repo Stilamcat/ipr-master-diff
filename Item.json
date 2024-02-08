@@ -979,6 +979,17 @@
     "salePrice": 0
   },
   {
+    "id": "item-exchange-ticket-24-0214",
+    "name": "★5契約書",
+    "assetId": "card-exchange-05",
+    "description": "★5アイドル交換所で好きな\nメンバーと交換できるチケット",
+    "howToGet": "バレンタインドリームギフトガチャ",
+    "type": 10,
+    "value": 1,
+    "order": 140,
+    "salePrice": 0
+  },
+  {
     "id": "item-exchange-ticket-fes-dream-23-1226",
     "name": "★5フェス契約書",
     "assetId": "card-exchange-05-23-1226",
@@ -1210,6 +1221,17 @@
     "salePrice": 0
   },
   {
+    "id": "item-gacha_lottery-ticket-24-0214",
+    "name": "チョコ引券",
+    "assetId": "lottery-ticket-valentine",
+    "description": "10枚でチョコ引券ガチャを1回引くことができる\n使用期限終了後はコインに変換されます",
+    "howToGet": "ショップ、ガチャなど",
+    "type": 8,
+    "value": 1,
+    "order": 100,
+    "salePrice": 0
+  },
+  {
     "id": "item-gacha_medal",
     "name": "アイドルメダル",
     "assetId": "idol-medal",
@@ -1355,6 +1377,17 @@
   {
     "id": "item-gacha_point-birthday-24-0125",
     "name": "miho誕生日ガチャPt",
+    "assetId": "gacha-point",
+    "description": "該当するガチャページの「ガチャPt」から\nガチャPtを消費してアイドルを獲得できる",
+    "type": 9,
+    "value": 1,
+    "order": 140,
+    "howToGet": "",
+    "salePrice": 0
+  },
+  {
+    "id": "item-gacha_point-birthday-24-0209",
+    "name": "愛誕生日ガチャPt",
     "assetId": "gacha-point",
     "description": "該当するガチャページの「ガチャPt」から\nガチャPtを消費してアイドルを獲得できる",
     "type": 9,
@@ -2906,6 +2939,17 @@
   {
     "id": "item-gacha_point-rev-select-01-24-0208",
     "name": "選べる★5アイドルガチャ LizNoir verPt",
+    "assetId": "gacha-point",
+    "description": "該当するガチャページの「ガチャPt」から\nガチャPtを消費してアイドルを獲得できる",
+    "type": 9,
+    "value": 1,
+    "order": 140,
+    "howToGet": "",
+    "salePrice": 0
+  },
+  {
+    "id": "item-gacha_point-rev-select-01-24-0214",
+    "name": "バレンタイン選べる★5アイドルガチャPt",
     "assetId": "gacha-point",
     "description": "該当するガチャページの「ガチャPt」から\nガチャPtを消費してアイドルを獲得できる",
     "type": 9,

@@ -1,5 +1,37 @@
 [
   {
+    "id": "st-birthday-branch-ai-24-0209",
+    "name": "小美山愛 誕生日2024",
+    "advPlayTypes": [
+      6
+    ],
+    "branchFirstText": "今日は愛の誕生日だな\n何をプレゼントしよう？",
+    "branchCautionText": "後で再度選択可能です",
+    "branchBgmAssetId": "sud_bgm_cmn_home-01",
+    "branchChoices": [
+      {
+        "index": 1,
+        "text": "FPSのゲームソフト",
+        "advAssetId": "hbd_04_ai_01"
+      },
+      {
+        "index": 2,
+        "text": "最高級プロテイン",
+        "advAssetId": "hbd_04_ai_02"
+      },
+      {
+        "index": 3,
+        "text": "バズるコツが書いてある本",
+        "advAssetId": "hbd_04_ai_03"
+      }
+    ],
+    "sectionName": "",
+    "description": "",
+    "rewardId": "",
+    "advAssetIds": [],
+    "additionalDisplayCharacterIds": []
+  },
+  {
     "id": "st-birthday-branch-chs-23-1122",
     "name": "白石千紗 誕生日2023",
     "advPlayTypes": [
@@ -382,6 +414,60 @@
     "rewardId": "",
     "advAssetIds": [],
     "additionalDisplayCharacterIds": []
+  },
+  {
+    "id": "st-card-ai-05-birt-00-01",
+    "name": "父の力に\nなりたくて",
+    "rewardId": "rd_auto;stone;;30",
+    "advPlayTypes": [
+      1
+    ],
+    "advAssetIds": [
+      "card_ai_51_01"
+    ],
+    "sectionName": "",
+    "description": "",
+    "additionalDisplayCharacterIds": [],
+    "branchFirstText": "",
+    "branchCautionText": "",
+    "branchBgmAssetId": "",
+    "branchChoices": []
+  },
+  {
+    "id": "st-card-ai-05-birt-00-02",
+    "name": "全てのことは\nラーメンに\n通じる",
+    "rewardId": "rd_auto;stone;;30",
+    "advPlayTypes": [
+      1
+    ],
+    "advAssetIds": [
+      "card_ai_51_02"
+    ],
+    "sectionName": "",
+    "description": "",
+    "additionalDisplayCharacterIds": [],
+    "branchFirstText": "",
+    "branchCautionText": "",
+    "branchBgmAssetId": "",
+    "branchChoices": []
+  },
+  {
+    "id": "st-card-ai-05-birt-00-03",
+    "name": "父子愛溢れる\n一杯の\nラーメン",
+    "rewardId": "rd_auto;stone;;30",
+    "advPlayTypes": [
+      1
+    ],
+    "advAssetIds": [
+      "card_ai_51_03"
+    ],
+    "sectionName": "",
+    "description": "",
+    "additionalDisplayCharacterIds": [],
+    "branchFirstText": "",
+    "branchCautionText": "",
+    "branchBgmAssetId": "",
+    "branchChoices": []
   },
   {
     "id": "st-card-ai-05-fest-00-01",

@@ -2522,6 +2522,27 @@
     "unlockConditionId": ""
   },
   {
+    "id": "event_vlnt-mission-24-0214",
+    "eventMissionType": 2,
+    "assetId": "img_banner_l_event-vlnt-mission-24-0214",
+    "name": "バレンタインミッション",
+    "order": 1,
+    "viewConditionId": "cd-time-event-ms-vlnt-24-0214-0221",
+    "missionIds": [
+      "event-ms-vlnt-24-0214-00-card_skill_level_up_count",
+      "event-ms-vlnt-24-0214-00-login_count",
+      "event-ms-vlnt-24-0214-00-market_exchange_count",
+      "event-ms-vlnt-24-0214-00-photo_reroll_count",
+      "event-ms-vlnt-24-0214-00-quest_contest_clear_count",
+      "event-ms-vlnt-24-0214-00-quest_daily_clear_count",
+      "event-ms-vlnt-24-0214-00-quest_pvp_play_count",
+      "event-ms-vlnt-24-0214-01-mission_clear_count",
+      "event-ms-vlnt-24-0214-02-mission_clear_count",
+      "event-ms-vlnt-24-0214-03-mission_clear_count"
+    ],
+    "unlockConditionId": ""
+  },
+  {
     "id": "event_xmas-mission-21-1211",
     "eventMissionType": 2,
     "assetId": "img_banner_l_event-xmas-mission-21-1211",

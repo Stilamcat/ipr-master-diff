@@ -168,6 +168,58 @@
     "homeTalks": []
   },
   {
+    "id": "card-ai-05-birt-00",
+    "assetId": "ai-05-birt-00",
+    "name": "愛されラーメンバースデー",
+    "description": "何よりも、お父さんに笑顔が戻ったことが\n一番の誕生日プレゼントになったかも",
+    "type": 2,
+    "characterId": "char-ai",
+    "initialRarity": 5,
+    "cardParameterId": "card-param-01",
+    "vocalRatioPermil": 317,
+    "danceRatioPermil": 278,
+    "visualRatioPermil": 405,
+    "staminaRatioPermil": 1000,
+    "cardLevelReleaseId": "card_level_release_1",
+    "skillId1": "sk-ai-05-birt-00-1",
+    "skillId2": "sk-ai-05-birt-00-2",
+    "skillId3": "sk-ai-05-birt-00-3",
+    "liveAbilityId": "lba-technique_add",
+    "order": 350,
+    "releaseDate": "1707404400000",
+    "imageType1": 3,
+    "displayPositionX1": -0.09,
+    "displayPositionY1": 0.083,
+    "displayScale1": 1.3,
+    "highlightDisplayPositionX1": 0.062,
+    "highlightDisplayPositionY1": 0.261,
+    "highlightDisplayScale1": 1.0,
+    "imageType2": 3,
+    "displayPositionX2": -0.09,
+    "displayPositionY2": 0.083,
+    "displayScale2": 1.3,
+    "highlightDisplayPositionX2": 0.062,
+    "highlightDisplayPositionY2": 0.261,
+    "highlightDisplayScale2": 1.0,
+    "obtainMessage": "愛マシマシ\nミラクル☆アイドルラーメン一丁！",
+    "rewardHairId": "hair-ai-hair-10",
+    "stories": [
+      {
+        "storyId": "st-card-ai-05-birt-00-01"
+      },
+      {
+        "storyId": "st-card-ai-05-birt-00-02"
+      },
+      {
+        "storyId": "st-card-ai-05-birt-00-03"
+      }
+    ],
+    "activityAbilityId": "",
+    "rewardCostumeId": "",
+    "messages": [],
+    "homeTalks": []
+  },
+  {
     "id": "card-ai-05-fest-00",
     "assetId": "ai-05-fest-00",
     "name": "火花散らす熱いキモチ",
