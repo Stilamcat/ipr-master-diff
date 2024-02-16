@@ -6144,6 +6144,56 @@
     ]
   },
   {
+    "homeTalkId": "home-talk-card-suz-05-angl-00-talk-01",
+    "characterId": "char-suz",
+    "placeType": 1,
+    "conditionId": "cd-st-read-st-card-suz-05-angl-00-03",
+    "firstPriority": 9900,
+    "weight": 1,
+    "callPatternId": "call-pattern-card-suz-05-angl-00",
+    "choiceText": "いいことじゃないか。どうして\nそんな複雑そうな顔をしてるんだ？",
+    "managerText": "いいことじゃないか。どうして\nそんな複雑そうな顔をしてるんだ？",
+    "reliability": 5,
+    "characterTalks": [
+      {
+        "text": "望んでいた反応と違うんですのよ！\n全くと言っていいほどに！",
+        "voiceAssetId": "sud_vo_home_suz-05-angl-00_talk-01-01",
+        "motionAssetId": "mot_adv_chr_cmn_angry-018_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "麻奈様やトリエルのように\n「可愛かった」「さすがはすず」と\n褒め称えられるかと思いきや…",
+        "voiceAssetId": "sud_vo_home_suz-05-angl-00_talk-01-02",
+        "motionAssetId": "mot_adv_chr_cmn_think-003_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "芽衣はことあるごとにCMを\n真似して、なんでもかんでも\n差し出してきますし…",
+        "voiceAssetId": "sud_vo_home_suz-05-angl-00_talk-01-03",
+        "motionAssetId": "mot_adv_chr_cmn_sad-005_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "こころは事務所の廊下をスキップ\nしながら「食べたら羽ばたく～♪」\nと楽しそうに連呼していて…",
+        "voiceAssetId": "sud_vo_home_suz-05-angl-00_talk-01-04",
+        "motionAssetId": "mot_adv_chr_cmn_angry-015_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "そのうえ、アドリブのせいで沙季の\n監視が厳しくなりましたの！\nこんなはずでは…！",
+        "voiceAssetId": "sud_vo_home_suz-05-angl-00_talk-01-05",
+        "motionAssetId": "mot_adv_chr_cmn_angry-016_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "…ハッ！　さ、沙季！？\n今のはなんでもありません、\nなんでもありませんわよ！",
+        "voiceAssetId": "sud_vo_home_suz-05-angl-00_talk-01-06",
+        "motionAssetId": "mot_adv_chr_cmn_emb-009_in",
+        "additionMotionAssetId": ""
+      }
+    ]
+  },
+  {
     "homeTalkId": "home-talk-card-suz-05-anml-00-talk-01",
     "characterId": "char-suz",
     "placeType": 1,

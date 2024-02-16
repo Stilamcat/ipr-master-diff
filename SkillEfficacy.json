@@ -27775,6 +27775,17 @@
     "limitBreakMaxGrade": 0
   },
   {
+    "id": "ef-fix_stamina_recovery-3300-target-all",
+    "name": "全員のスタミナを回復",
+    "type": 23,
+    "description": "全員のスタミナを3300回復",
+    "skillTargetId": "target-all",
+    "shortDescription": "",
+    "grade": 0,
+    "maxGrade": 0,
+    "limitBreakMaxGrade": 0
+  },
+  {
     "id": "ef-fix_stamina_recovery-3300-target-self",
     "name": "自身のスタミナを回復",
     "type": 23,
@@ -46255,6 +46266,17 @@
     "shortDescription": ""
   },
   {
+    "id": "ef-skill_success_rate_up-4-target-self-31",
+    "name": "自身にスキル成功率上昇効果",
+    "type": 37,
+    "description": "自身に4段階スキル成功率上昇効果[31ビート]",
+    "grade": 4,
+    "maxGrade": 10,
+    "skillTargetId": "target-self",
+    "limitBreakMaxGrade": 11,
+    "shortDescription": ""
+  },
+  {
     "id": "ef-skill_success_rate_up-4-target-self-32",
     "name": "自身にスキル成功率上昇効果",
     "type": 37,
@@ -46270,6 +46292,17 @@
     "name": "自身にスキル成功率上昇効果",
     "type": 37,
     "description": "自身に4段階スキル成功率上昇効果[33ビート]",
+    "grade": 4,
+    "maxGrade": 10,
+    "skillTargetId": "target-self",
+    "limitBreakMaxGrade": 11,
+    "shortDescription": ""
+  },
+  {
+    "id": "ef-skill_success_rate_up-4-target-self-34",
+    "name": "自身にスキル成功率上昇効果",
+    "type": 37,
+    "description": "自身に4段階スキル成功率上昇効果[34ビート]",
     "grade": 4,
     "maxGrade": 10,
     "skillTargetId": "target-self",
@@ -47465,6 +47498,28 @@
     "shortDescription": ""
   },
   {
+    "id": "ef-skill_success_rate_up-7-target-all-35",
+    "name": "全員にスキル成功率上昇効果",
+    "type": 37,
+    "description": "全員に7段階スキル成功率上昇効果[35ビート]",
+    "grade": 7,
+    "maxGrade": 10,
+    "skillTargetId": "target-all",
+    "limitBreakMaxGrade": 11,
+    "shortDescription": ""
+  },
+  {
+    "id": "ef-skill_success_rate_up-7-target-all-40",
+    "name": "全員にスキル成功率上昇効果",
+    "type": 37,
+    "description": "全員に7段階スキル成功率上昇効果[40ビート]",
+    "grade": 7,
+    "maxGrade": 10,
+    "skillTargetId": "target-all",
+    "limitBreakMaxGrade": 11,
+    "shortDescription": ""
+  },
+  {
     "id": "ef-skill_success_rate_up-7-target-all-45",
     "name": "全員にスキル成功率上昇効果",
     "type": 37,
@@ -47648,6 +47703,28 @@
     "grade": 7,
     "maxGrade": 10,
     "skillTargetId": "target-vocal-3",
+    "limitBreakMaxGrade": 11,
+    "shortDescription": ""
+  },
+  {
+    "id": "ef-skill_success_rate_up-8-target-all-40",
+    "name": "全員にスキル成功率上昇効果",
+    "type": 37,
+    "description": "全員に8段階スキル成功率上昇効果[40ビート]",
+    "grade": 8,
+    "maxGrade": 10,
+    "skillTargetId": "target-all",
+    "limitBreakMaxGrade": 11,
+    "shortDescription": ""
+  },
+  {
+    "id": "ef-skill_success_rate_up-8-target-all-45",
+    "name": "全員にスキル成功率上昇効果",
+    "type": 37,
+    "description": "全員に8段階スキル成功率上昇効果[45ビート]",
+    "grade": 8,
+    "maxGrade": 10,
+    "skillTargetId": "target-all",
     "limitBreakMaxGrade": 11,
     "shortDescription": ""
   },
@@ -56336,6 +56413,50 @@
     "type": 32,
     "description": "[ライブバトルのみ]同じレーンの相手に10段階ビジュアル低下効果[45ビート]",
     "grade": 10,
+    "maxGrade": 20,
+    "skillTargetId": "target-opponent_same_position",
+    "shortDescription": "",
+    "limitBreakMaxGrade": 0
+  },
+  {
+    "id": "ef-visual_down-12-target-opponent_same_position-24",
+    "name": "同じレーンの相手にビジュアル低下効果",
+    "type": 32,
+    "description": "[ライブバトルのみ]同じレーンの相手に12段階ビジュアル低下効果[24ビート]",
+    "grade": 12,
+    "maxGrade": 20,
+    "skillTargetId": "target-opponent_same_position",
+    "shortDescription": "",
+    "limitBreakMaxGrade": 0
+  },
+  {
+    "id": "ef-visual_down-12-target-opponent_same_position-27",
+    "name": "同じレーンの相手にビジュアル低下効果",
+    "type": 32,
+    "description": "[ライブバトルのみ]同じレーンの相手に12段階ビジュアル低下効果[27ビート]",
+    "grade": 12,
+    "maxGrade": 20,
+    "skillTargetId": "target-opponent_same_position",
+    "shortDescription": "",
+    "limitBreakMaxGrade": 0
+  },
+  {
+    "id": "ef-visual_down-12-target-opponent_same_position-31",
+    "name": "同じレーンの相手にビジュアル低下効果",
+    "type": 32,
+    "description": "[ライブバトルのみ]同じレーンの相手に12段階ビジュアル低下効果[31ビート]",
+    "grade": 12,
+    "maxGrade": 20,
+    "skillTargetId": "target-opponent_same_position",
+    "shortDescription": "",
+    "limitBreakMaxGrade": 0
+  },
+  {
+    "id": "ef-visual_down-12-target-opponent_same_position-34",
+    "name": "同じレーンの相手にビジュアル低下効果",
+    "type": 32,
+    "description": "[ライブバトルのみ]同じレーンの相手に12段階ビジュアル低下効果[34ビート]",
+    "grade": 12,
     "maxGrade": 20,
     "skillTargetId": "target-opponent_same_position",
     "shortDescription": "",

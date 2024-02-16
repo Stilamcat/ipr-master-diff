@@ -11591,6 +11591,67 @@
     "homeTalks": []
   },
   {
+    "id": "card-suz-05-angl-00",
+    "assetId": "suz-05-angl-00",
+    "name": "天使の怠惰な午後",
+    "description": "食べちゃダメと言われるほど\n美味しくなるのは……なぜなんでしょうね？",
+    "type": 3,
+    "characterId": "char-suz",
+    "initialRarity": 5,
+    "cardParameterId": "card-param-01",
+    "vocalRatioPermil": 312,
+    "danceRatioPermil": 272,
+    "visualRatioPermil": 416,
+    "staminaRatioPermil": 1000,
+    "cardLevelReleaseId": "card_level_release_1",
+    "skillId1": "sk-suz-05-angl-00-1",
+    "skillId2": "sk-suz-05-angl-00-2",
+    "skillId3": "sk-suz-05-angl-00-3",
+    "activityAbilityId": "aab-refresh_stamina_up",
+    "order": 351,
+    "releaseDate": "1708052400000",
+    "rewardCostumeId": "cos-suz-angl-00",
+    "imageType1": 3,
+    "displayPositionX1": -0.257,
+    "displayPositionY1": 0.045,
+    "displayScale1": 1.1,
+    "highlightDisplayPositionX1": 0.257,
+    "highlightDisplayPositionY1": 0.032,
+    "highlightDisplayScale1": 1.1,
+    "imageType2": 3,
+    "displayPositionX2": -0.257,
+    "displayPositionY2": 0.045,
+    "displayScale2": 1.1,
+    "highlightDisplayPositionX2": 0.257,
+    "highlightDisplayPositionY2": 0.032,
+    "highlightDisplayScale2": 1.1,
+    "obtainMessage": "食べたら……羽ばたけますわよ？",
+    "stories": [
+      {
+        "storyId": "st-card-suz-05-angl-00-01"
+      },
+      {
+        "storyId": "st-card-suz-05-angl-00-02"
+      },
+      {
+        "storyId": "st-card-suz-05-angl-00-03"
+      }
+    ],
+    "messages": [
+      {
+        "messageId": "message-card-suz-05-angl-00",
+        "telephoneId": ""
+      },
+      {
+        "telephoneId": "tel-card-suz-05-angl-00",
+        "messageId": ""
+      }
+    ],
+    "liveAbilityId": "",
+    "rewardHairId": "",
+    "homeTalks": []
+  },
+  {
     "id": "card-suz-05-anml-00",
     "assetId": "suz-05-anml-00",
     "name": "撮れ高たっぷりショット",
