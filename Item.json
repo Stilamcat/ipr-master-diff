@@ -5580,6 +5580,18 @@
     "isPhotoShootingCharacterOnly": false
   },
   {
+    "id": "item-race_medal-24-0226",
+    "name": "レースメダル",
+    "assetId": "medal-race",
+    "description": "ライブボーナスを習得・強化することができます\nイベント終了後は消失します",
+    "howToGet": "VENUSレース",
+    "type": 3001,
+    "value": 1,
+    "order": 1000,
+    "salePrice": 0,
+    "isPhotoShootingCharacterOnly": false
+  },
+  {
     "id": "item-race_point-22-0228",
     "name": "レースPt",
     "assetId": "race-pt",
@@ -5688,6 +5700,18 @@
     "isPhotoShootingCharacterOnly": false
   },
   {
+    "id": "item-race_point-24-0226",
+    "name": "レースPt",
+    "assetId": "race-pt",
+    "description": "マスを進めたりVENUSステージに挑戦することができます\nイベント終了後は消失します",
+    "howToGet": "VENUSレース",
+    "type": 7001,
+    "value": 1,
+    "order": 1001,
+    "salePrice": 0,
+    "isPhotoShootingCharacterOnly": false
+  },
+  {
     "id": "item-race_reset-live-bonus-22-0228",
     "name": "ボーナスイレイザー",
     "assetId": "race-bonus-reset",
@@ -5785,6 +5809,18 @@
   },
   {
     "id": "item-race_reset-live-bonus-24-0103",
+    "name": "ボーナスイレイザー",
+    "assetId": "race-bonus-reset",
+    "description": "習得・強化したライブボーナスをリセットすることができます\nイベント終了後は消失します",
+    "howToGet": "VENUSレース",
+    "type": 7002,
+    "value": 1,
+    "order": 1002,
+    "salePrice": 0,
+    "isPhotoShootingCharacterOnly": false
+  },
+  {
+    "id": "item-race_reset-live-bonus-24-0226",
     "name": "ボーナスイレイザー",
     "assetId": "race-bonus-reset",
     "description": "習得・強化したライブボーナスをリセットすることができます\nイベント終了後は消失します",
