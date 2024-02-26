@@ -912,6 +912,18 @@
     "isPhotoShootingCharacterOnly": false
   },
   {
+    "id": "item-exchange-thanks-medal-24-0226",
+    "name": "感謝祭メダル",
+    "assetId": "medal-thanks",
+    "description": "感謝祭メダル交換所で様々なアイテムと交換できる\n交換所終了後はコインに変換されます",
+    "howToGet": "ガチャ、ショップなど",
+    "type": 10,
+    "value": 1,
+    "order": 140,
+    "salePrice": 0,
+    "isPhotoShootingCharacterOnly": false
+  },
+  {
     "id": "item-exchange-ticket-21-1224",
     "name": "★5契約書",
     "assetId": "card-exchange-05",
@@ -2210,6 +2222,18 @@
   {
     "id": "item-gacha_point-lm-set-bloom-24-0204",
     "name": "with SNOW MIKUⅡガチャPt",
+    "assetId": "gacha-point",
+    "description": "該当するガチャページの「ガチャPt」から\nガチャPtを消費してアイドルを獲得できる",
+    "type": 9,
+    "value": 1,
+    "order": 140,
+    "howToGet": "",
+    "salePrice": 0,
+    "isPhotoShootingCharacterOnly": false
+  },
+  {
+    "id": "item-gacha_point-lm-set-bloom-24-0226",
+    "name": "繋ぐ、みんなのピースガチャPt",
     "assetId": "gacha-point",
     "description": "該当するガチャページの「ガチャPt」から\nガチャPtを消費してアイドルを獲得できる",
     "type": 9,
@@ -5852,6 +5876,18 @@
     "type": 3001,
     "value": 1,
     "order": 2001,
+    "salePrice": 0,
+    "isPhotoShootingCharacterOnly": false
+  },
+  {
+    "id": "item-shop-gacha-ticket-r5-24-0226",
+    "name": "繋ぐ、みんなのピース★5確定ガチャチケ",
+    "assetId": "shop-gacha-ticket-r5",
+    "description": "繋ぐ、みんなのピース★5アイドル1人確定チケットガチャを1回引くことができる\n使用期限終了後は消失します",
+    "howToGet": "ショップ",
+    "type": 8,
+    "value": 1,
+    "order": 100,
     "salePrice": 0,
     "isPhotoShootingCharacterOnly": false
   },

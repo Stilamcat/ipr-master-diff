@@ -1442,6 +1442,60 @@
     "branchChoices": []
   },
   {
+    "id": "st-card-chs-05-chia-00-01",
+    "name": "物持ちが\nいいんですね",
+    "rewardId": "rd_auto;stone;;30",
+    "advPlayTypes": [
+      1
+    ],
+    "advAssetIds": [
+      "card_chs_08_01"
+    ],
+    "sectionName": "",
+    "description": "",
+    "additionalDisplayCharacterIds": [],
+    "branchFirstText": "",
+    "branchCautionText": "",
+    "branchBgmAssetId": "",
+    "branchChoices": []
+  },
+  {
+    "id": "st-card-chs-05-chia-00-02",
+    "name": "一緒に\n頑張ろうね",
+    "rewardId": "rd_auto;stone;;30",
+    "advPlayTypes": [
+      1
+    ],
+    "advAssetIds": [
+      "card_chs_08_02"
+    ],
+    "sectionName": "",
+    "description": "",
+    "additionalDisplayCharacterIds": [],
+    "branchFirstText": "",
+    "branchCautionText": "",
+    "branchBgmAssetId": "",
+    "branchChoices": []
+  },
+  {
+    "id": "st-card-chs-05-chia-00-03",
+    "name": "誰かの\n心の支えに",
+    "rewardId": "rd_auto;stone;;30",
+    "advPlayTypes": [
+      1
+    ],
+    "advAssetIds": [
+      "card_chs_08_03"
+    ],
+    "sectionName": "",
+    "description": "",
+    "additionalDisplayCharacterIds": [],
+    "branchFirstText": "",
+    "branchCautionText": "",
+    "branchBgmAssetId": "",
+    "branchChoices": []
+  },
+  {
     "id": "st-card-chs-05-chsk-00-01",
     "name": "最高の\n衣装デザイン",
     "rewardId": "rd_auto;stone;;30",
@@ -7318,6 +7372,60 @@
     ],
     "advAssetIds": [
       "card_ski_06_03"
+    ],
+    "sectionName": "",
+    "description": "",
+    "additionalDisplayCharacterIds": [],
+    "branchFirstText": "",
+    "branchCautionText": "",
+    "branchBgmAssetId": "",
+    "branchChoices": []
+  },
+  {
+    "id": "st-card-skr-05-chia-00-01",
+    "name": "頑張ります、\nコーチ！",
+    "rewardId": "rd_auto;stone;;30",
+    "advPlayTypes": [
+      1
+    ],
+    "advAssetIds": [
+      "card_skr_08_01"
+    ],
+    "sectionName": "",
+    "description": "",
+    "additionalDisplayCharacterIds": [],
+    "branchFirstText": "",
+    "branchCautionText": "",
+    "branchBgmAssetId": "",
+    "branchChoices": []
+  },
+  {
+    "id": "st-card-skr-05-chia-00-02",
+    "name": "夢を\n諦めてほしく\nないんです",
+    "rewardId": "rd_auto;stone;;30",
+    "advPlayTypes": [
+      1
+    ],
+    "advAssetIds": [
+      "card_skr_08_02"
+    ],
+    "sectionName": "",
+    "description": "",
+    "additionalDisplayCharacterIds": [],
+    "branchFirstText": "",
+    "branchCautionText": "",
+    "branchBgmAssetId": "",
+    "branchChoices": []
+  },
+  {
+    "id": "st-card-skr-05-chia-00-03",
+    "name": "競争だよ！",
+    "rewardId": "rd_auto;stone;;30",
+    "advPlayTypes": [
+      1
+    ],
+    "advAssetIds": [
+      "card_skr_08_03"
     ],
     "sectionName": "",
     "description": "",
@@ -13225,6 +13333,100 @@
     "advAssetIds": [
       "event_2402_01_05",
       "adv-live-eve-2402-contest-05"
+    ],
+    "sectionName": "",
+    "additionalDisplayCharacterIds": [],
+    "branchFirstText": "",
+    "branchCautionText": "",
+    "branchBgmAssetId": "",
+    "branchChoices": []
+  },
+  {
+    "id": "st-eve-2403-race-001",
+    "name": "サニピ初の\n全国ツアー",
+    "description": "初の全国ツアーをすることが決まった、サニーピース。早速、会議室に集まり、ツアータイトルやDVDの特典映像について考えることに。結果、ツアータイトルは『繋ぐ』に決定。メンバー達は全国を回りながら、ファンレターに書かれていたファンの夢を叶えていくことになるのだった。",
+    "rewardId": "rd_auto;stone;;30",
+    "advPlayTypes": [
+      1
+    ],
+    "advAssetIds": [
+      "event_2403_01_01"
+    ],
+    "sectionName": "",
+    "additionalDisplayCharacterIds": [],
+    "branchFirstText": "",
+    "branchCautionText": "",
+    "branchBgmAssetId": "",
+    "branchChoices": []
+  },
+  {
+    "id": "st-eve-2403-race-002",
+    "name": "沖縄＆福岡",
+    "description": "沖縄と福岡にて。メンバー達は現地で、ファンの夢を叶えることに。一緒に釣りをしたり、スーパーの呼び込みに協力するのだった。",
+    "rewardId": "rd_auto;stone;;30",
+    "advPlayTypes": [
+      1
+    ],
+    "advAssetIds": [
+      "event_2403_01_02"
+    ],
+    "sectionName": "",
+    "additionalDisplayCharacterIds": [],
+    "branchFirstText": "",
+    "branchCautionText": "",
+    "branchBgmAssetId": "",
+    "branchChoices": []
+  },
+  {
+    "id": "st-eve-2403-race-003",
+    "name": "広島＆名古屋",
+    "description": "広島、名古屋にて。ファンと交流し、夢を叶えていくサニーピース。ただ、広島では、怜には酷なことが待っており……",
+    "rewardId": "rd_auto;stone;;30",
+    "advPlayTypes": [
+      1
+    ],
+    "advAssetIds": [
+      "event_2403_01_03"
+    ],
+    "sectionName": "",
+    "additionalDisplayCharacterIds": [],
+    "branchFirstText": "",
+    "branchCautionText": "",
+    "branchBgmAssetId": "",
+    "branchChoices": []
+  },
+  {
+    "id": "st-eve-2403-race-004",
+    "name": "仙台＆札幌",
+    "description": "仙台、札幌でも、メンバーは合間の時間に、ファンの夢を叶えていく。さくら達の温かな想いに、ファンは元気をもらうのだった。",
+    "rewardId": "rd_auto;stone;;30",
+    "advPlayTypes": [
+      1
+    ],
+    "advAssetIds": [
+      "event_2403_01_04"
+    ],
+    "sectionName": "",
+    "additionalDisplayCharacterIds": [],
+    "branchFirstText": "",
+    "branchCautionText": "",
+    "branchBgmAssetId": "",
+    "branchChoices": []
+  },
+  {
+    "id": "st-eve-2403-race-005",
+    "name": "サニーピース\n＆みんな",
+    "description": "全国ツアー終了後。各地で触れ合ったファンから、またファンレターが届いていた。そこに書かれていたのは、サニーピースへの感謝の言葉。手紙を読んだメンバー達は、ツアータイトルの意味を改めて噛みしめる。",
+    "rewardId": "rd_auto;stone;;30",
+    "advPlayTypes": [
+      1,
+      2,
+      1
+    ],
+    "advAssetIds": [
+      "event_2403_01_05_01",
+      "adv-live-eve-2403-race-05",
+      "event_2403_01_05_02"
     ],
     "sectionName": "",
     "additionalDisplayCharacterIds": [],

@@ -758,6 +758,56 @@
     ]
   },
   {
+    "homeTalkId": "home-talk-card-chs-05-chia-00-talk-01",
+    "characterId": "char-chs",
+    "placeType": 1,
+    "conditionId": "cd-st-read-st-card-chs-05-chia-00-03",
+    "firstPriority": 9900,
+    "weight": 1,
+    "callPatternId": "call-pattern-card-chs-05-chia-00",
+    "choiceText": "いろんな願い事が出てきそうだな",
+    "managerText": "いろんな願い事が出てきそうだな",
+    "reliability": 5,
+    "characterTalks": [
+      {
+        "text": "そう思いますよね？\n私も、同じことを考えていました。",
+        "voiceAssetId": "sud_vo_home_chs-05-chia-00_talk-01-01",
+        "motionAssetId": "mot_adv_chr_cmn_talk-012_in",
+        "additionMotionAssetId": "mot_all_chr_cmn_facial-001_in"
+      },
+      {
+        "text": "でも、違いました。\n五人全員が\n同じ答えを言ったんです。",
+        "voiceAssetId": "sud_vo_home_chs-05-chia-00_talk-01-02",
+        "motionAssetId": "mot_adv_chr_cmn_pos-005_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "ファンのみんなに\n喜んでもらいたい、って。",
+        "voiceAssetId": "sud_vo_home_chs-05-chia-00_talk-01-03",
+        "motionAssetId": "mot_adv_chr_cmn_empa-001_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "ふふ……素敵ですよね\nでも、サニピらしいなって\n思っちゃいました。",
+        "voiceAssetId": "sud_vo_home_chs-05-chia-00_talk-01-04",
+        "motionAssetId": "mot_adv_chr_cmn_glad-007_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "サニピの全国ツアーが\n成功したら、もっと\n繋がれる気がするんです。",
+        "voiceAssetId": "sud_vo_home_chs-05-chia-00_talk-01-05",
+        "motionAssetId": "mot_adv_chr_cmn_glad-011_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "だから、もっともっと頑張ります。\nえいえい、おー！",
+        "voiceAssetId": "sud_vo_home_chs-05-chia-00_talk-01-06",
+        "motionAssetId": "mot_adv_chr_cmn_pos-007_in",
+        "additionMotionAssetId": ""
+      }
+    ]
+  },
+  {
     "homeTalkId": "home-talk-card-chs-05-chsk-00-talk-01",
     "characterId": "char-chs",
     "placeType": 1,
@@ -5448,6 +5498,56 @@
       {
         "text": "ふふっ\n皆さんそんなにプレゼントが\n楽しみだったんですね。",
         "voiceAssetId": "sud_vo_home_ski-05-xmas-00_talk-01-06",
+        "motionAssetId": "mot_adv_chr_cmn_glad-001_in",
+        "additionMotionAssetId": ""
+      }
+    ]
+  },
+  {
+    "homeTalkId": "home-talk-card-skr-05-chia-00-talk-01",
+    "characterId": "char-skr",
+    "placeType": 1,
+    "conditionId": "cd-st-read-st-card-skr-05-chia-00-03",
+    "firstPriority": 9900,
+    "weight": 1,
+    "callPatternId": "call-pattern-card-skr-05-chia-00",
+    "choiceText": "あのソフトボール部の子か？\nなんて書いてあったんだ？",
+    "managerText": "あのソフトボール部の子か？\nなんて書いてあったんだ？",
+    "reliability": 5,
+    "characterTalks": [
+      {
+        "text": "公式戦で勝ったそうなんです！",
+        "voiceAssetId": "sud_vo_home_skr-05-chia-00_talk-01-01",
+        "motionAssetId": "mot_adv_chr_cmn_pos-009_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "さくらちゃんの応援のおかげって\n書いてあって…嬉しかったです。",
+        "voiceAssetId": "sud_vo_home_skr-05-chia-00_talk-01-02",
+        "motionAssetId": "mot_adv_chr_cmn_think-003_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "私も負けないよって\nお返事しようと思ってます。",
+        "voiceAssetId": "sud_vo_home_skr-05-chia-00_talk-01-03",
+        "motionAssetId": "mot_adv_chr_cmn_pos-010_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "だから、今日のお仕事は\nいつも以上に燃えてるんです！",
+        "voiceAssetId": "sud_vo_home_skr-05-chia-00_talk-01-04",
+        "motionAssetId": "mot_adv_chr_cmn_glad-006_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "私も、日本一のアイドルに\n近づかないと…！",
+        "voiceAssetId": "sud_vo_home_skr-05-chia-00_talk-01-05",
+        "motionAssetId": "mot_adv_chr_cmn_pos-013_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "{user}さん！\nこれからも、サニピと川咲さくらの\n応援、よろしくお願いします！",
+        "voiceAssetId": "sud_vo_home_skr-05-chia-00_talk-01-06",
         "motionAssetId": "mot_adv_chr_cmn_glad-001_in",
         "additionMotionAssetId": ""
       }

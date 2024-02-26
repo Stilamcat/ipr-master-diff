@@ -1568,6 +1568,67 @@
     "homeTalks": []
   },
   {
+    "id": "card-chs-05-chia-00",
+    "assetId": "chs-05-chia-00",
+    "name": "燃える頬と熱い心",
+    "description": "照れていたらダメだよね。つ、次、いきます！\nフレー、フレー！　頑張れ！　頑張れ！",
+    "type": 1,
+    "characterId": "char-chs",
+    "initialRarity": 5,
+    "cardParameterId": "card-param-01",
+    "vocalRatioPermil": 323,
+    "danceRatioPermil": 271,
+    "visualRatioPermil": 436,
+    "staminaRatioPermil": 900,
+    "cardLevelReleaseId": "card_level_release_1",
+    "skillId1": "sk-chs-05-chia-00-1",
+    "skillId2": "sk-chs-05-chia-00-2",
+    "skillId3": "sk-chs-05-chia-00-3",
+    "activityAbilityId": "aab-promotion_gold_up",
+    "order": 361,
+    "releaseDate": "1708916400000",
+    "rewardCostumeId": "cos-chs-chia-00",
+    "imageType1": 3,
+    "displayPositionX1": -0.161,
+    "displayPositionY1": 0.045,
+    "displayScale1": 1.1,
+    "highlightDisplayPositionX1": 0.757,
+    "highlightDisplayPositionY1": 0.252,
+    "highlightDisplayScale1": 1.0,
+    "imageType2": 3,
+    "displayPositionX2": -0.161,
+    "displayPositionY2": 0.045,
+    "displayScale2": 1.1,
+    "highlightDisplayPositionX2": 0.757,
+    "highlightDisplayPositionY2": 0.252,
+    "highlightDisplayScale2": 1.0,
+    "obtainMessage": "フレー、フレー、\r\n頑張れ！　頑張れ！",
+    "stories": [
+      {
+        "storyId": "st-card-chs-05-chia-00-01"
+      },
+      {
+        "storyId": "st-card-chs-05-chia-00-02"
+      },
+      {
+        "storyId": "st-card-chs-05-chia-00-03"
+      }
+    ],
+    "messages": [
+      {
+        "messageId": "message-card-chs-05-chia-00",
+        "telephoneId": ""
+      },
+      {
+        "telephoneId": "tel-card-chs-05-chia-00",
+        "messageId": ""
+      }
+    ],
+    "liveAbilityId": "",
+    "rewardHairId": "",
+    "homeTalks": []
+  },
+  {
     "id": "card-chs-05-chsk-00",
     "assetId": "chs-05-chsk-00",
     "name": "絆溢れるクリエーション",
@@ -10324,6 +10385,67 @@
     "homeTalks": []
   },
   {
+    "id": "card-skr-05-chia-00",
+    "assetId": "skr-05-chia-00",
+    "name": "スマイル・コネクト！",
+    "description": "今度は私が頑張るから、応援よろしくお願いします！\r\n――どっちが先に日本一になるか、競争だよ！",
+    "type": 2,
+    "characterId": "char-skr",
+    "initialRarity": 5,
+    "cardParameterId": "card-param-01",
+    "vocalRatioPermil": 405,
+    "danceRatioPermil": 320,
+    "visualRatioPermil": 275,
+    "staminaRatioPermil": 1000,
+    "cardLevelReleaseId": "card_level_release_1",
+    "skillId1": "sk-skr-05-chia-00-1",
+    "skillId2": "sk-skr-05-chia-00-2",
+    "skillId3": "sk-skr-05-chia-00-3",
+    "liveAbilityId": "lba-vocal_multiply",
+    "order": 360,
+    "releaseDate": "1708916400000",
+    "rewardCostumeId": "cos-skr-chia-00",
+    "imageType1": 3,
+    "displayPositionX1": -0.034,
+    "displayPositionY1": 0.143,
+    "displayScale1": 1.4,
+    "highlightDisplayPositionX1": 0.049,
+    "highlightDisplayPositionY1": 0.28,
+    "highlightDisplayScale1": 1.0,
+    "imageType2": 3,
+    "displayPositionX2": -0.034,
+    "displayPositionY2": 0.143,
+    "displayScale2": 1.4,
+    "highlightDisplayPositionX2": 0.049,
+    "highlightDisplayPositionY2": 0.28,
+    "highlightDisplayScale2": 1.0,
+    "obtainMessage": "みんなに精一杯の元気を贈るね！",
+    "stories": [
+      {
+        "storyId": "st-card-skr-05-chia-00-01"
+      },
+      {
+        "storyId": "st-card-skr-05-chia-00-02"
+      },
+      {
+        "storyId": "st-card-skr-05-chia-00-03"
+      }
+    ],
+    "messages": [
+      {
+        "messageId": "message-card-skr-05-chia-00",
+        "telephoneId": ""
+      },
+      {
+        "telephoneId": "tel-card-skr-05-chia-00",
+        "messageId": ""
+      }
+    ],
+    "activityAbilityId": "",
+    "rewardHairId": "",
+    "homeTalks": []
+  },
+  {
     "id": "card-skr-05-chna-00",
     "assetId": "skr-05-chna-00",
     "name": "パクパク満腹笑顔",
@@ -12235,6 +12357,48 @@
     "activityAbilityId": "",
     "rewardCostumeId": "",
     "displayPositionY2": 0.0,
+    "obtainMessage": "",
+    "rewardHairId": "",
+    "stories": [],
+    "messages": [],
+    "homeTalks": []
+  },
+  {
+    "id": "card-szk-02-eve-03",
+    "assetId": "szk-02-eve-03",
+    "name": "みんなの願いを叶えるツアー！",
+    "description": "私……アイドルになって、良かった……\r\nみんなと繋がれて、良かった……",
+    "type": 3,
+    "characterId": "char-szk",
+    "initialRarity": 2,
+    "cardParameterId": "card-param-01",
+    "vocalRatioPermil": 330,
+    "danceRatioPermil": 287,
+    "visualRatioPermil": 413,
+    "staminaRatioPermil": 900,
+    "cardLevelReleaseId": "card_level_release_1",
+    "skillId1": "sk-szk-02-eve-03-1",
+    "skillId2": "sk-szk-02-eve-03-2",
+    "skillId3": "sk-szk-02-eve-03-3",
+    "order": 363,
+    "releaseDate": "1708916400000",
+    "imageType1": 1,
+    "displayPositionX1": 0.017,
+    "displayPositionY1": 0.229,
+    "displayScale1": 1.1,
+    "highlightDisplayPositionX1": -0.057,
+    "highlightDisplayPositionY1": 0.264,
+    "highlightDisplayScale1": 1.0,
+    "imageType2": 2,
+    "displayPositionX2": -0.257,
+    "displayPositionY2": 0.045,
+    "displayScale2": 1.1,
+    "highlightDisplayPositionX2": 0.655,
+    "highlightDisplayPositionY2": 0.168,
+    "highlightDisplayScale2": 1.2,
+    "liveAbilityId": "",
+    "activityAbilityId": "",
+    "rewardCostumeId": "",
     "obtainMessage": "",
     "rewardHairId": "",
     "stories": [],
