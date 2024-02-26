@@ -4869,6 +4869,15 @@
     "isViewableInInactive": false
   },
   {
+    "id": "emb-birthday_yu-03",
+    "name": "【誕生日】鈴村優",
+    "assetId": "birthday_yu-03",
+    "autoProvideConditionId": "cd-birthday_emblem_yu-24-0227",
+    "order": 603120,
+    "description": "優の誕生日を迎える",
+    "isViewableInInactive": false
+  },
+  {
     "id": "emb-dream_difficulty_level_100",
     "name": "イメトレの使い手",
     "assetId": "dream_difficulty_level_100",
@@ -5972,6 +5981,33 @@
     "assetId": "pvp-season-091-top100",
     "order": 309130,
     "description": "VENUSバトルシーズン91で100位以内獲得",
+    "autoProvideConditionId": "",
+    "isViewableInInactive": false
+  },
+  {
+    "id": "emb-pvp-season-092-top001",
+    "name": "VENUSシーズン92 No.1",
+    "assetId": "pvp-season-092-top001",
+    "order": 309210,
+    "description": "VENUSバトルシーズン92で1位獲得",
+    "autoProvideConditionId": "",
+    "isViewableInInactive": false
+  },
+  {
+    "id": "emb-pvp-season-092-top010",
+    "name": "VENUSシーズン92 TOP10",
+    "assetId": "pvp-season-092-top010",
+    "order": 309220,
+    "description": "VENUSバトルシーズン92で10位以内獲得",
+    "autoProvideConditionId": "",
+    "isViewableInInactive": false
+  },
+  {
+    "id": "emb-pvp-season-092-top100",
+    "name": "VENUSシーズン92 TOP100",
+    "assetId": "pvp-season-092-top100",
+    "order": 309230,
+    "description": "VENUSバトルシーズン92で100位以内獲得",
     "autoProvideConditionId": "",
     "isViewableInInactive": false
   },

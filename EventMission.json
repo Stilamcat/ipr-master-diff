@@ -2526,6 +2526,28 @@
     "unlockConditionId": ""
   },
   {
+    "id": "event_thanks-mission-24-0302",
+    "eventMissionType": 2,
+    "assetId": "img_banner_l_event-thanks-mission-24-0302",
+    "name": "感謝祭ミッション",
+    "order": 1,
+    "viewConditionId": "cd-time-event-ms-thanks-24-0302-0309",
+    "missionIds": [
+      "event-ms-thanks-24-0302-00-card_skill_level_up_count",
+      "event-ms-thanks-24-0302-00-condition_clear",
+      "event-ms-thanks-24-0302-00-login_count",
+      "event-ms-thanks-24-0302-00-market_exchange_count",
+      "event-ms-thanks-24-0302-00-photo_reroll_count",
+      "event-ms-thanks-24-0302-00-quest_contest_clear_count",
+      "event-ms-thanks-24-0302-00-quest_daily_clear_count",
+      "event-ms-thanks-24-0302-00-quest_pvp_play_count",
+      "event-ms-thanks-24-0302-01-condition_clear",
+      "event-ms-thanks-24-0302-01-mission_clear_count",
+      "event-ms-thanks-24-0302-02-mission_clear_count"
+    ],
+    "unlockConditionId": ""
+  },
+  {
     "id": "event_vlnt-mission-22-0203",
     "eventMissionType": 2,
     "assetId": "img_banner_l_event-vlnt-mission-22-0203",

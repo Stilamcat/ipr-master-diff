@@ -416,6 +416,38 @@
     "additionalDisplayCharacterIds": []
   },
   {
+    "id": "st-birthday-branch-yu-24-0227",
+    "name": "鈴村優 誕生日2024",
+    "advPlayTypes": [
+      6
+    ],
+    "branchFirstText": "今日は優の誕生日だな\n何をプレゼントしよう？",
+    "branchCautionText": "後で再度選択可能です",
+    "branchBgmAssetId": "sud_bgm_cmn_home-01",
+    "branchChoices": [
+      {
+        "index": 1,
+        "text": "高級お鍋出汁",
+        "advAssetId": "hbd_04_yu_01"
+      },
+      {
+        "index": 2,
+        "text": "瑠依の日めくりカレンダー",
+        "advAssetId": "hbd_04_yu_02"
+      },
+      {
+        "index": 3,
+        "text": "絶版になった漫画雑誌",
+        "advAssetId": "hbd_04_yu_03"
+      }
+    ],
+    "sectionName": "",
+    "description": "",
+    "rewardId": "",
+    "advAssetIds": [],
+    "additionalDisplayCharacterIds": []
+  },
+  {
     "id": "st-card-ai-05-birt-00-01",
     "name": "父の力に\nなりたくて",
     "rewardId": "rd_auto;stone;;30",
@@ -9326,6 +9358,60 @@
     "branchChoices": []
   },
   {
+    "id": "st-card-yu-05-birt-00-01",
+    "name": "めんどくさい\nオタク心理",
+    "rewardId": "rd_auto;stone;;30",
+    "advPlayTypes": [
+      1
+    ],
+    "advAssetIds": [
+      "card_yu_51_01"
+    ],
+    "sectionName": "",
+    "description": "",
+    "additionalDisplayCharacterIds": [],
+    "branchFirstText": "",
+    "branchCautionText": "",
+    "branchBgmAssetId": "",
+    "branchChoices": []
+  },
+  {
+    "id": "st-card-yu-05-birt-00-02",
+    "name": "推しグッズで\n運試し",
+    "rewardId": "rd_auto;stone;;30",
+    "advPlayTypes": [
+      1
+    ],
+    "advAssetIds": [
+      "card_yu_51_02"
+    ],
+    "sectionName": "",
+    "description": "",
+    "additionalDisplayCharacterIds": [],
+    "branchFirstText": "",
+    "branchCautionText": "",
+    "branchBgmAssetId": "",
+    "branchChoices": []
+  },
+  {
+    "id": "st-card-yu-05-birt-00-03",
+    "name": "実現、\n夢の誕生日",
+    "rewardId": "rd_auto;stone;;30",
+    "advPlayTypes": [
+      1
+    ],
+    "advAssetIds": [
+      "card_yu_51_03"
+    ],
+    "sectionName": "",
+    "description": "",
+    "additionalDisplayCharacterIds": [],
+    "branchFirstText": "",
+    "branchCautionText": "",
+    "branchBgmAssetId": "",
+    "branchChoices": []
+  },
+  {
     "id": "st-card-yu-05-fest-00-01",
     "name": "風邪\nちゃいます",
     "rewardId": "rd_auto;stone;;30",
@@ -16526,6 +16612,96 @@
     ],
     "advAssetIds": [
       "group_sun_02_05"
+    ],
+    "additionalDisplayCharacterIds": [],
+    "branchFirstText": "",
+    "branchCautionText": "",
+    "branchBgmAssetId": "",
+    "branchChoices": []
+  },
+  {
+    "id": "st-group-sun-01-03-01",
+    "sectionName": "Shizuku's Memories",
+    "name": "兵藤雫の過去",
+    "description": "寮にて、雫が泣いているところを発見した、さくらと遙子。心配して話を聞いてみると、アイドルをしていた従姉妹から、突然引退することを告げられたのだとか。どうやら彼女は、雫にとって大切な存在のようで――",
+    "rewardId": "rd_auto;stone;;30",
+    "advPlayTypes": [
+      1
+    ],
+    "advAssetIds": [
+      "group_sun_03_01"
+    ],
+    "additionalDisplayCharacterIds": [],
+    "branchFirstText": "",
+    "branchCautionText": "",
+    "branchBgmAssetId": "",
+    "branchChoices": []
+  },
+  {
+    "id": "st-group-sun-01-03-02",
+    "sectionName": "Shizuku's Memories",
+    "name": "応援してた\nだけなのに",
+    "description": "従姉妹の影響で、アイドルが大好きになった雫。幼いながらもライブに通い、ネットや現場で知り合った優しいオタク仲間達と楽しい日々を送っていた。だが、そのことを学校の同級生達にからかわれ……。",
+    "rewardId": "rd_auto;stone;;30",
+    "advPlayTypes": [
+      1
+    ],
+    "advAssetIds": [
+      "group_sun_03_02"
+    ],
+    "additionalDisplayCharacterIds": [],
+    "branchFirstText": "",
+    "branchCautionText": "",
+    "branchBgmAssetId": "",
+    "branchChoices": []
+  },
+  {
+    "id": "st-group-sun-01-03-03",
+    "sectionName": "Shizuku's Memories",
+    "name": "私が保証する",
+    "description": "雫の支えとなったのは、推しのアイドルや、大好きな従姉妹の存在だった。立ち直るきっかけをもらった雫は、父の転勤を機に学校にも通えるようになる。さらに引越し先の星見市には、あの長瀬麻奈が所属していた芸能プロダクションがあると知り――",
+    "rewardId": "rd_auto;stone;;30",
+    "advPlayTypes": [
+      1
+    ],
+    "advAssetIds": [
+      "group_sun_03_03"
+    ],
+    "additionalDisplayCharacterIds": [],
+    "branchFirstText": "",
+    "branchCautionText": "",
+    "branchBgmAssetId": "",
+    "branchChoices": []
+  },
+  {
+    "id": "st-group-sun-01-03-04",
+    "sectionName": "Shizuku's Memories",
+    "name": "呪いを\n解いてあげる",
+    "description": "アイドルを目指すことを、どうしてもためらってしまっていた雫。そんな雫を、ずっと変わらずに応援し続けていた従姉妹、秋宮もね。彼女の言葉に背中を押され、チャンスにも恵まれた雫だが……。",
+    "rewardId": "rd_auto;stone;;30",
+    "advPlayTypes": [
+      1
+    ],
+    "advAssetIds": [
+      "group_sun_03_04"
+    ],
+    "additionalDisplayCharacterIds": [],
+    "branchFirstText": "",
+    "branchCautionText": "",
+    "branchBgmAssetId": "",
+    "branchChoices": []
+  },
+  {
+    "id": "st-group-sun-01-03-05",
+    "sectionName": "Shizuku's Memories",
+    "name": "私の青春だよ",
+    "description": "あなたやもねの言葉に心を動かされた雫は、ついにずっとしまっていた気持ちを解き放つ。向いていないと思っていた。でも、それでもアイドルになりたい。そしてアイドルとなった現在。仲間達に背中を押され、雫は引退を決めたもねに想いを伝えることを決める。",
+    "rewardId": "rd_auto;stone;;30",
+    "advPlayTypes": [
+      1
+    ],
+    "advAssetIds": [
+      "group_sun_03_05"
     ],
     "additionalDisplayCharacterIds": [],
     "branchFirstText": "",

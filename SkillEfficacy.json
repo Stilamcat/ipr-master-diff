@@ -319,6 +319,28 @@
     "limitBreakMaxGrade": 0
   },
   {
+    "id": "ef-active_score_multiplier_add-3-target-self-33",
+    "name": "自身にAスキルスコア追加効果",
+    "type": 60,
+    "description": "自身に3段階Aスキルスコア追加効果[33ビート]",
+    "grade": 3,
+    "maxGrade": 30,
+    "skillTargetId": "target-self",
+    "shortDescription": "",
+    "limitBreakMaxGrade": 0
+  },
+  {
+    "id": "ef-active_score_multiplier_add-3-target-self-36",
+    "name": "自身にAスキルスコア追加効果",
+    "type": 60,
+    "description": "自身に3段階Aスキルスコア追加効果[36ビート]",
+    "grade": 3,
+    "maxGrade": 30,
+    "skillTargetId": "target-self",
+    "shortDescription": "",
+    "limitBreakMaxGrade": 0
+  },
+  {
     "id": "ef-active_score_multiplier_add-4-target-all-35",
     "name": "全員にAスキルスコア追加効果",
     "type": 60,
@@ -385,6 +407,28 @@
     "limitBreakMaxGrade": 0
   },
   {
+    "id": "ef-active_score_multiplier_add-4-target-self-36",
+    "name": "自身にAスキルスコア追加効果",
+    "type": 60,
+    "description": "自身に4段階Aスキルスコア追加効果[36ビート]",
+    "grade": 4,
+    "maxGrade": 30,
+    "skillTargetId": "target-self",
+    "shortDescription": "",
+    "limitBreakMaxGrade": 0
+  },
+  {
+    "id": "ef-active_score_multiplier_add-4-target-self-39",
+    "name": "自身にAスキルスコア追加効果",
+    "type": 60,
+    "description": "自身に4段階Aスキルスコア追加効果[39ビート]",
+    "grade": 4,
+    "maxGrade": 30,
+    "skillTargetId": "target-self",
+    "shortDescription": "",
+    "limitBreakMaxGrade": 0
+  },
+  {
     "id": "ef-active_score_multiplier_add-5-target-all-38",
     "name": "全員にAスキルスコア追加効果",
     "type": 60,
@@ -425,6 +469,28 @@
     "grade": 5,
     "maxGrade": 30,
     "skillTargetId": "target-position_attribute_vocal-3",
+    "shortDescription": "",
+    "limitBreakMaxGrade": 0
+  },
+  {
+    "id": "ef-active_score_multiplier_add-5-target-self-39",
+    "name": "自身にAスキルスコア追加効果",
+    "type": 60,
+    "description": "自身に5段階Aスキルスコア追加効果[39ビート]",
+    "grade": 5,
+    "maxGrade": 30,
+    "skillTargetId": "target-self",
+    "shortDescription": "",
+    "limitBreakMaxGrade": 0
+  },
+  {
+    "id": "ef-active_score_multiplier_add-5-target-self-42",
+    "name": "自身にAスキルスコア追加効果",
+    "type": 60,
+    "description": "自身に5段階Aスキルスコア追加効果[42ビート]",
+    "grade": 5,
+    "maxGrade": 30,
+    "skillTargetId": "target-self",
     "shortDescription": "",
     "limitBreakMaxGrade": 0
   },
@@ -8866,6 +8932,17 @@
     "shortDescription": ""
   },
   {
+    "id": "ef-combo_score_up-2-target-self-34",
+    "name": "自身にコンボスコア上昇効果",
+    "type": 41,
+    "description": "自身に2段階コンボスコア上昇効果[34ビート]",
+    "grade": 2,
+    "maxGrade": 20,
+    "skillTargetId": "target-self",
+    "limitBreakMaxGrade": 21,
+    "shortDescription": ""
+  },
+  {
     "id": "ef-combo_score_up-2-target-self-35",
     "name": "自身にコンボスコア上昇効果",
     "type": 41,
@@ -9020,10 +9097,32 @@
     "shortDescription": ""
   },
   {
+    "id": "ef-combo_score_up-3-target-self-34",
+    "name": "自身にコンボスコア上昇効果",
+    "type": 41,
+    "description": "自身に3段階コンボスコア上昇効果[34ビート]",
+    "grade": 3,
+    "maxGrade": 20,
+    "skillTargetId": "target-self",
+    "limitBreakMaxGrade": 21,
+    "shortDescription": ""
+  },
+  {
     "id": "ef-combo_score_up-3-target-self-35",
     "name": "自身にコンボスコア上昇効果",
     "type": 41,
     "description": "自身に3段階コンボスコア上昇効果[35ビート]",
+    "grade": 3,
+    "maxGrade": 20,
+    "skillTargetId": "target-self",
+    "limitBreakMaxGrade": 21,
+    "shortDescription": ""
+  },
+  {
+    "id": "ef-combo_score_up-3-target-self-38",
+    "name": "自身にコンボスコア上昇効果",
+    "type": 41,
+    "description": "自身に3段階コンボスコア上昇効果[38ビート]",
     "grade": 3,
     "maxGrade": 20,
     "skillTargetId": "target-self",
@@ -9130,10 +9229,32 @@
     "shortDescription": ""
   },
   {
+    "id": "ef-combo_score_up-4-target-self-38",
+    "name": "自身にコンボスコア上昇効果",
+    "type": 41,
+    "description": "自身に4段階コンボスコア上昇効果[38ビート]",
+    "grade": 4,
+    "maxGrade": 20,
+    "skillTargetId": "target-self",
+    "limitBreakMaxGrade": 21,
+    "shortDescription": ""
+  },
+  {
     "id": "ef-combo_score_up-4-target-self-40",
     "name": "自身にコンボスコア上昇効果",
     "type": 41,
     "description": "自身に4段階コンボスコア上昇効果[40ビート]",
+    "grade": 4,
+    "maxGrade": 20,
+    "skillTargetId": "target-self",
+    "limitBreakMaxGrade": 21,
+    "shortDescription": ""
+  },
+  {
+    "id": "ef-combo_score_up-4-target-self-42",
+    "name": "自身にコンボスコア上昇効果",
+    "type": 41,
+    "description": "自身に4段階コンボスコア上昇効果[42ビート]",
     "grade": 4,
     "maxGrade": 20,
     "skillTargetId": "target-self",
@@ -20295,6 +20416,17 @@
     "shortDescription": ""
   },
   {
+    "id": "ef-dance_boost-5-target-self-44",
+    "name": "自身にダンスブースト効果",
+    "type": 57,
+    "description": "自身に5段階ダンスブースト効果[44ビート]",
+    "grade": 5,
+    "maxGrade": 20,
+    "skillTargetId": "target-self",
+    "limitBreakMaxGrade": 21,
+    "shortDescription": ""
+  },
+  {
     "id": "ef-dance_boost-5-target-self-46",
     "name": "自身にダンスブースト効果",
     "type": 57,
@@ -20310,6 +20442,17 @@
     "name": "自身にダンスブースト効果",
     "type": 57,
     "description": "自身に5段階ダンスブースト効果[51ビート]",
+    "grade": 5,
+    "maxGrade": 20,
+    "skillTargetId": "target-self",
+    "limitBreakMaxGrade": 21,
+    "shortDescription": ""
+  },
+  {
+    "id": "ef-dance_boost-5-target-self-53",
+    "name": "自身にダンスブースト効果",
+    "type": 57,
+    "description": "自身に5段階ダンスブースト効果[53ビート]",
     "grade": 5,
     "maxGrade": 20,
     "skillTargetId": "target-self",
@@ -20365,6 +20508,28 @@
     "name": "自身にダンスブースト効果",
     "type": 57,
     "description": "自身に6段階ダンスブースト効果[35ビート]",
+    "grade": 6,
+    "maxGrade": 20,
+    "skillTargetId": "target-self",
+    "limitBreakMaxGrade": 21,
+    "shortDescription": ""
+  },
+  {
+    "id": "ef-dance_boost-6-target-self-53",
+    "name": "自身にダンスブースト効果",
+    "type": 57,
+    "description": "自身に6段階ダンスブースト効果[53ビート]",
+    "grade": 6,
+    "maxGrade": 20,
+    "skillTargetId": "target-self",
+    "limitBreakMaxGrade": 21,
+    "shortDescription": ""
+  },
+  {
+    "id": "ef-dance_boost-6-target-self-62",
+    "name": "自身にダンスブースト効果",
+    "type": 57,
+    "description": "自身に6段階ダンスブースト効果[62ビート]",
     "grade": 6,
     "maxGrade": 20,
     "skillTargetId": "target-self",
@@ -20431,6 +20596,28 @@
     "name": "自身にダンスブースト効果",
     "type": 57,
     "description": "自身に7段階ダンスブースト効果[40ビート]",
+    "grade": 7,
+    "maxGrade": 20,
+    "skillTargetId": "target-self",
+    "limitBreakMaxGrade": 21,
+    "shortDescription": ""
+  },
+  {
+    "id": "ef-dance_boost-7-target-self-62",
+    "name": "自身にダンスブースト効果",
+    "type": 57,
+    "description": "自身に7段階ダンスブースト効果[62ビート]",
+    "grade": 7,
+    "maxGrade": 20,
+    "skillTargetId": "target-self",
+    "limitBreakMaxGrade": 21,
+    "shortDescription": ""
+  },
+  {
+    "id": "ef-dance_boost-7-target-self-72",
+    "name": "自身にダンスブースト効果",
+    "type": 57,
+    "description": "自身に7段階ダンスブースト効果[72ビート]",
     "grade": 7,
     "maxGrade": 20,
     "skillTargetId": "target-self",
@@ -30210,6 +30397,17 @@
     "name": "スコア獲得",
     "type": 1,
     "description": "1105%のスコア獲得",
+    "shortDescription": "",
+    "grade": 0,
+    "maxGrade": 0,
+    "skillTargetId": "",
+    "limitBreakMaxGrade": 0
+  },
+  {
+    "id": "ef-score_get-11100-chart_dependence",
+    "name": "スコア獲得",
+    "type": 1,
+    "description": "1110%のスコア獲得",
     "shortDescription": "",
     "grade": 0,
     "maxGrade": 0,
@@ -56067,6 +56265,28 @@
     "shortDescription": ""
   },
   {
+    "id": "ef-tension_up-6-target-self-44",
+    "name": "自身にテンションUP効果",
+    "type": 38,
+    "description": "自身に6段階テンションUP効果[44ビート]",
+    "grade": 6,
+    "maxGrade": 10,
+    "skillTargetId": "target-self",
+    "limitBreakMaxGrade": 11,
+    "shortDescription": ""
+  },
+  {
+    "id": "ef-tension_up-6-target-self-53",
+    "name": "自身にテンションUP効果",
+    "type": 38,
+    "description": "自身に6段階テンションUP効果[53ビート]",
+    "grade": 6,
+    "maxGrade": 10,
+    "skillTargetId": "target-self",
+    "limitBreakMaxGrade": 11,
+    "shortDescription": ""
+  },
+  {
     "id": "ef-tension_up-6-target-self-57",
     "name": "自身にテンションUP効果",
     "type": 38,
@@ -56265,6 +56485,28 @@
     "shortDescription": ""
   },
   {
+    "id": "ef-tension_up-7-target-self-53",
+    "name": "自身にテンションUP効果",
+    "type": 38,
+    "description": "自身に7段階テンションUP効果[53ビート]",
+    "grade": 7,
+    "maxGrade": 10,
+    "skillTargetId": "target-self",
+    "limitBreakMaxGrade": 11,
+    "shortDescription": ""
+  },
+  {
+    "id": "ef-tension_up-7-target-self-62",
+    "name": "自身にテンションUP効果",
+    "type": 38,
+    "description": "自身に7段階テンションUP効果[62ビート]",
+    "grade": 7,
+    "maxGrade": 10,
+    "skillTargetId": "target-self",
+    "limitBreakMaxGrade": 11,
+    "shortDescription": ""
+  },
+  {
     "id": "ef-tension_up-7-target-self-65",
     "name": "自身にテンションUP効果",
     "type": 38,
@@ -56346,6 +56588,28 @@
     "name": "自身にテンションUP効果",
     "type": 38,
     "description": "自身に8段階テンションUP効果[41ビート]",
+    "grade": 8,
+    "maxGrade": 10,
+    "skillTargetId": "target-self",
+    "limitBreakMaxGrade": 11,
+    "shortDescription": ""
+  },
+  {
+    "id": "ef-tension_up-8-target-self-62",
+    "name": "自身にテンションUP効果",
+    "type": 38,
+    "description": "自身に8段階テンションUP効果[62ビート]",
+    "grade": 8,
+    "maxGrade": 10,
+    "skillTargetId": "target-self",
+    "limitBreakMaxGrade": 11,
+    "shortDescription": ""
+  },
+  {
+    "id": "ef-tension_up-8-target-self-72",
+    "name": "自身にテンションUP効果",
+    "type": 38,
+    "description": "自身に8段階テンションUP効果[72ビート]",
     "grade": 8,
     "maxGrade": 10,
     "skillTargetId": "target-self",

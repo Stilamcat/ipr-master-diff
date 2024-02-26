@@ -24973,6 +24973,289 @@
     "linkDetail": ""
   },
   {
+    "id": "event-ms-thanks-24-0302-00-card_skill_level_up_count",
+    "categoryType": 3,
+    "missionType": 14,
+    "name": "スキル強化{threshold}回",
+    "shortDescription": "スキル強化{threshold}回",
+    "longDescription": "アイドルのスキル強化を{threshold}回しましょう。",
+    "order": 9,
+    "linkType": 11,
+    "progresses": [
+      {
+        "threshold": "1",
+        "rewardSetId": "rd-event-ms-thanks-24-0302-00-card_skill_level_up_count-1"
+      },
+      {
+        "threshold": "3",
+        "rewardSetId": "rd-event-ms-thanks-24-0302-00-card_skill_level_up_count-3"
+      }
+    ],
+    "eventMissionId": "event_thanks-mission-24-0302",
+    "targetIds": [],
+    "viewConditionId": "",
+    "linkDetail": ""
+  },
+  {
+    "id": "event-ms-thanks-24-0302-00-condition_clear",
+    "categoryType": 3,
+    "missionType": 4,
+    "targetIds": [
+      "cd-story-read-st-group-sun-01-03-01-03"
+    ],
+    "name": "番外編：サニーピース3章1話～3話を視聴",
+    "shortDescription": "番外編：サニーピース3章1話～3話を視聴",
+    "longDescription": "番外編：サニーピース3章1話～3話を視聴しましょう。",
+    "order": 3,
+    "progresses": [
+      {
+        "threshold": "1",
+        "rewardSetId": "rd-event-ms-thanks-24-0302-00-condition_clear-1"
+      }
+    ],
+    "eventMissionId": "event_thanks-mission-24-0302",
+    "viewConditionId": "",
+    "linkType": 0,
+    "linkDetail": ""
+  },
+  {
+    "id": "event-ms-thanks-24-0302-00-login_count",
+    "categoryType": 3,
+    "missionType": 1,
+    "name": "ログイン{threshold}回",
+    "shortDescription": "ログイン{threshold}回",
+    "longDescription": "ログインを{threshold}回しましょう。",
+    "order": 2,
+    "progresses": [
+      {
+        "threshold": "2",
+        "rewardSetId": "rd-event-ms-thanks-24-0302-00-login_count-2"
+      },
+      {
+        "threshold": "3",
+        "rewardSetId": "rd-event-ms-thanks-24-0302-00-login_count-3"
+      }
+    ],
+    "eventMissionId": "event_thanks-mission-24-0302",
+    "targetIds": [],
+    "viewConditionId": "",
+    "linkType": 0,
+    "linkDetail": ""
+  },
+  {
+    "id": "event-ms-thanks-24-0302-00-market_exchange_count",
+    "categoryType": 3,
+    "missionType": 31,
+    "name": "マーケットで{threshold}回アイテム購入",
+    "shortDescription": "マーケットで{threshold}回アイテム購入",
+    "longDescription": "マーケットで{threshold}回アイテムを購入しましょう。",
+    "order": 7,
+    "linkType": 36,
+    "progresses": [
+      {
+        "threshold": "3",
+        "rewardSetId": "rd-event-ms-thanks-24-0302-00-market_exchange_count-3"
+      },
+      {
+        "threshold": "10",
+        "rewardSetId": "rd-event-ms-thanks-24-0302-00-market_exchange_count-10"
+      }
+    ],
+    "eventMissionId": "event_thanks-mission-24-0302",
+    "targetIds": [],
+    "viewConditionId": "",
+    "linkDetail": ""
+  },
+  {
+    "id": "event-ms-thanks-24-0302-00-photo_reroll_count",
+    "categoryType": 3,
+    "missionType": 25,
+    "name": "フォトの振り直し{threshold}回",
+    "shortDescription": "フォトの振り直し{threshold}回",
+    "longDescription": "フォトの振り直しを{threshold}回しましょう。",
+    "order": 10,
+    "linkType": 14,
+    "progresses": [
+      {
+        "threshold": "2",
+        "rewardSetId": "rd-event-ms-thanks-24-0302-00-photo_reroll_count-2"
+      }
+    ],
+    "eventMissionId": "event_thanks-mission-24-0302",
+    "targetIds": [],
+    "viewConditionId": "",
+    "linkDetail": ""
+  },
+  {
+    "id": "event-ms-thanks-24-0302-00-quest_contest_clear_count",
+    "categoryType": 3,
+    "missionType": 6,
+    "name": "ハイスコアライブ{threshold}回クリア",
+    "shortDescription": "ハイスコアライブ{threshold}回クリア",
+    "longDescription": "ハイスコアライブを{threshold}回クリアしましょう。",
+    "order": 11,
+    "linkType": 6,
+    "progresses": [
+      {
+        "threshold": "3",
+        "rewardSetId": "rd-event-ms-thanks-24-0302-00-quest_contest_clear_count-3"
+      },
+      {
+        "threshold": "6",
+        "rewardSetId": "rd-event-ms-thanks-24-0302-00-quest_contest_clear_count-6"
+      }
+    ],
+    "eventMissionId": "event_thanks-mission-24-0302",
+    "targetIds": [],
+    "viewConditionId": "",
+    "linkDetail": ""
+  },
+  {
+    "id": "event-ms-thanks-24-0302-00-quest_daily_clear_count",
+    "categoryType": 3,
+    "missionType": 7,
+    "name": "デイリーライブ{threshold}回クリア",
+    "shortDescription": "デイリーライブ{threshold}回クリア",
+    "longDescription": "デイリーライブを{threshold}回クリアしましょう。",
+    "order": 6,
+    "linkType": 7,
+    "progresses": [
+      {
+        "threshold": "10",
+        "rewardSetId": "rd-event-ms-thanks-24-0302-00-quest_daily_clear_count-10"
+      },
+      {
+        "threshold": "20",
+        "rewardSetId": "rd-event-ms-thanks-24-0302-00-quest_daily_clear_count-20"
+      }
+    ],
+    "eventMissionId": "event_thanks-mission-24-0302",
+    "targetIds": [],
+    "viewConditionId": "",
+    "linkDetail": ""
+  },
+  {
+    "id": "event-ms-thanks-24-0302-00-quest_pvp_play_count",
+    "categoryType": 3,
+    "missionType": 45,
+    "name": "VENUSバトルに挑戦{threshold}回",
+    "shortDescription": "VENUSバトルに挑戦{threshold}回",
+    "longDescription": "VENUSバトルに挑戦を{threshold}回しましょう。",
+    "order": 5,
+    "linkType": 2,
+    "progresses": [
+      {
+        "threshold": "3",
+        "rewardSetId": "rd-event-ms-thanks-24-0302-00-quest_pvp_play_count-3"
+      },
+      {
+        "threshold": "6",
+        "rewardSetId": "rd-event-ms-thanks-24-0302-00-quest_pvp_play_count-6"
+      },
+      {
+        "threshold": "9",
+        "rewardSetId": "rd-event-ms-thanks-24-0302-00-quest_pvp_play_count-9"
+      }
+    ],
+    "eventMissionId": "event_thanks-mission-24-0302",
+    "targetIds": [],
+    "viewConditionId": "",
+    "linkDetail": ""
+  },
+  {
+    "id": "event-ms-thanks-24-0302-01-condition_clear",
+    "categoryType": 3,
+    "missionType": 4,
+    "targetIds": [
+      "cd-story-read-st-group-sun-01-03-04-05"
+    ],
+    "name": "番外編：サニーピース3章4話と5話を視聴",
+    "shortDescription": "番外編：サニーピース3章4話と5話を視聴",
+    "longDescription": "番外編：サニーピース3章4話と5話を視聴しましょう。",
+    "order": 4,
+    "progresses": [
+      {
+        "threshold": "1",
+        "rewardSetId": "rd-event-ms-thanks-24-0302-01-condition_clear-1"
+      }
+    ],
+    "eventMissionId": "event_thanks-mission-24-0302",
+    "viewConditionId": "",
+    "linkType": 0,
+    "linkDetail": ""
+  },
+  {
+    "id": "event-ms-thanks-24-0302-01-mission_clear_count",
+    "categoryType": 3,
+    "missionType": 3,
+    "targetIds": [
+      "event-ms-thanks-24-0302-00-login_count",
+      "event-ms-thanks-24-0302-00-condition_clear",
+      "event-ms-thanks-24-0302-01-condition_clear",
+      "event-ms-thanks-24-0302-00-quest_pvp_play_count",
+      "event-ms-thanks-24-0302-00-quest_daily_clear_count",
+      "event-ms-thanks-24-0302-00-market_exchange_count",
+      "event-ms-thanks-24-0302-02-mission_clear_count",
+      "event-ms-thanks-24-0302-00-card_skill_level_up_count",
+      "event-ms-thanks-24-0302-00-photo_reroll_count",
+      "event-ms-thanks-24-0302-00-quest_contest_clear_count"
+    ],
+    "name": "イベントミッションを{threshold}個クリア",
+    "shortDescription": "イベントミッションを{threshold}個クリア",
+    "longDescription": "イベントミッションを{threshold}個クリアしましょう。",
+    "order": 1,
+    "progresses": [
+      {
+        "threshold": "15",
+        "rewardSetId": "rd-event-ms-thanks-24-0302-01-mission_clear_count-15"
+      }
+    ],
+    "eventMissionId": "event_thanks-mission-24-0302",
+    "viewConditionId": "",
+    "linkType": 0,
+    "linkDetail": ""
+  },
+  {
+    "id": "event-ms-thanks-24-0302-02-mission_clear_count",
+    "categoryType": 3,
+    "missionType": 3,
+    "targetIds": [
+      "ms-daily-phase-003_photo_shoot_count-1",
+      "ms-daily-phase-003_photo_shoot_count-20",
+      "ms-daily-phase-003_photo_shoot_count-40",
+      "ms-daily-phase-003_photo_shoot_count-50",
+      "ms-daily-phase-003_photo_shoot_count-60",
+      "ms-daily-phase-003_photo_shoot_count-70",
+      "ms-daily-phase-003_photo_shoot_count-80",
+      "ms-daily-phase-003_photo_shoot_count-90",
+      "ms-daily-phase-003_photo_shoot_count-100",
+      "ms-daily-phase-003_photo_shoot_count-110",
+      "ms-daily-phase-003_photo_shoot_count-120",
+      "ms-daily-phase-003_photo_shoot_count-130",
+      "ms-daily-phase-003_photo_shoot_count-140",
+      "ms-daily-phase-003_photo_shoot_count-150",
+      "ms-daily-phase-003_photo_shoot_count-160"
+    ],
+    "name": "デイリーミッション「フォト撮影1回」を{threshold}回クリア",
+    "shortDescription": "デイリーミッション「フォト撮影1回」を{threshold}回クリア",
+    "longDescription": "デイリーミッション「フォト撮影1回」を\n{threshold}回クリアしましょう。",
+    "order": 8,
+    "linkType": 32,
+    "progresses": [
+      {
+        "threshold": "1",
+        "rewardSetId": "rd-event-ms-thanks-24-0302-02-mission_clear_count-1"
+      },
+      {
+        "threshold": "3",
+        "rewardSetId": "rd-event-ms-thanks-24-0302-02-mission_clear_count-3"
+      }
+    ],
+    "eventMissionId": "event_thanks-mission-24-0302",
+    "viewConditionId": "",
+    "linkDetail": ""
+  },
+  {
     "id": "event-ms-vlnt-22-0203-00-00-accessory_enhance_count",
     "categoryType": 3,
     "missionType": 28,
