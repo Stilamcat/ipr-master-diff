@@ -22954,6 +22954,85 @@
     "linkDetail": ""
   },
   {
+    "id": "event-ms-photo-shooting-24-0304-00-photo_activate_shooting_story_ticket_use_count",
+    "categoryType": 3,
+    "missionType": 74,
+    "name": "撮影解放チケットを{threshold}回使用",
+    "shortDescription": "撮影解放チケットを{threshold}回使用",
+    "longDescription": "撮影解放チケットを{threshold}回使用しましょう。",
+    "order": 3,
+    "linkType": 38,
+    "progresses": [
+      {
+        "threshold": "1",
+        "rewardSetId": "rd-event-ms-photo-shooting-24-0304-00-photo_activate_shooting_story_ticket_use_count-1"
+      },
+      {
+        "threshold": "3",
+        "rewardSetId": "rd-event-ms-photo-shooting-24-0304-00-photo_activate_shooting_story_ticket_use_count-3"
+      },
+      {
+        "threshold": "5",
+        "rewardSetId": "rd-event-ms-photo-shooting-24-0304-00-photo_activate_shooting_story_ticket_use_count-5"
+      }
+    ],
+    "eventMissionId": "event_story-shooting-mission-24-0304",
+    "targetIds": [],
+    "viewConditionId": "",
+    "linkDetail": ""
+  },
+  {
+    "id": "event-ms-photo-shooting-24-0304-00-photo_shooting_story_shoot_total_count",
+    "categoryType": 3,
+    "missionType": 72,
+    "name": "撮影可能なストーリーを{threshold}回撮影",
+    "shortDescription": "撮影可能なストーリーを{threshold}回撮影",
+    "longDescription": "撮影可能なストーリーを{threshold}回撮影しましょう。",
+    "order": 2,
+    "linkType": 38,
+    "progresses": [
+      {
+        "threshold": "1",
+        "rewardSetId": "rd-event-ms-photo-shooting-24-0304-00-photo_shooting_story_shoot_total_count-1"
+      },
+      {
+        "threshold": "3",
+        "rewardSetId": "rd-event-ms-photo-shooting-24-0304-00-photo_shooting_story_shoot_total_count-3"
+      },
+      {
+        "threshold": "5",
+        "rewardSetId": "rd-event-ms-photo-shooting-24-0304-00-photo_shooting_story_shoot_total_count-5"
+      }
+    ],
+    "eventMissionId": "event_story-shooting-mission-24-0304",
+    "targetIds": [],
+    "viewConditionId": "",
+    "linkDetail": ""
+  },
+  {
+    "id": "event-ms-photo-shooting-24-0304-01-mission_clear_count",
+    "categoryType": 3,
+    "missionType": 3,
+    "targetIds": [
+      "event-ms-photo-shooting-24-0304-00-photo_shooting_story_shoot_total_count",
+      "event-ms-photo-shooting-24-0304-00-photo_activate_shooting_story_ticket_use_count"
+    ],
+    "name": "イベントミッションを{threshold}個クリア",
+    "shortDescription": "イベントミッションを{threshold}個クリア",
+    "longDescription": "イベントミッションを{threshold}個クリアしましょう。",
+    "order": 1,
+    "progresses": [
+      {
+        "threshold": "6",
+        "rewardSetId": "rd-event-ms-photo-shooting-24-0304-01-mission_clear_count-6"
+      }
+    ],
+    "eventMissionId": "event_story-shooting-mission-24-0304",
+    "viewConditionId": "",
+    "linkType": 0,
+    "linkDetail": ""
+  },
+  {
     "id": "event-ms-pvp-23-0402-quest_pvp_play_count-05",
     "categoryType": 3,
     "missionType": 45,

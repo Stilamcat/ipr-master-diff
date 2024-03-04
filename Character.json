@@ -2432,6 +2432,64 @@
     "isHomeDanceTarget": false
   },
   {
+    "id": "char-mng",
+    "assetId": "mna",
+    "order": 999,
+    "name": "長瀬麻奈",
+    "enName": "MANA NAGASE",
+    "cv": "神田沙也加",
+    "age": "19歳",
+    "birthday": "10月9日",
+    "height": "158cm",
+    "weight": "44kg",
+    "zodiacSign": "てんびん座",
+    "hometown": "私立 星見高校",
+    "favorite": "妹、アイドル、カレー",
+    "unfavorite": "ファンをがっかりさせること",
+    "profile": "『星降る奇跡』と呼ばれる伝説のアイドル。デビューからわずか一年半でこの世を去った。しかし、その短い活動期間で数々の伝説や記録を打ち立て、死後もなお、多くのアイドルに影響を与えている。",
+    "costumeIds": [
+      "cos-mng-casl-00"
+    ],
+    "defaultCostumeId": "cos-mna-trng-00",
+    "heightCorrectionPermil": 231,
+    "color": "F252B0",
+    "talkArrivalMotionAssetId": "mot_adv_chr_mna_appr-001_in",
+    "personalityType": 1,
+    "simplePersonalityType": 1,
+    "sdPersonalityType": 1,
+    "costumeMotionAssetIds": [
+      "mot_dress_chr_cmn_action-001-a_in"
+    ],
+    "costumeAdditionMotionAssetIds": [
+      ""
+    ],
+    "costumeVoiceAssetIds": [
+      "sud_vo_cmn_mna_dress-01"
+    ],
+    "psylliumColorType": 4,
+    "shortProfile": "『星降る奇跡』\nと呼ばれる\n伝説のアイドル",
+    "threeSize": "B82・W55・H80",
+    "catchphrase": "さあ、アイドルの頂点へ！",
+    "firstName": "麻奈",
+    "idiom": "奇跡",
+    "defaultLiveCostumeId": "cos-mna-trng-00",
+    "facePositionY": 620.0,
+    "groupPositionX": 0.45,
+    "groupPositionY": 0.66,
+    "type": 2,
+    "groupName": "長瀬麻奈",
+    "characterGroupId": "",
+    "altCharacters": [],
+    "activityFanEventWords": [],
+    "talkArrivalAdditionMotionAssetId": "",
+    "viewConditionId": "",
+    "isLeftHanded": false,
+    "facePositionX": 0.0,
+    "catchphraseColor": "",
+    "unlockConditionId": "",
+    "isHomeDanceTarget": false
+  },
+  {
     "id": "char-ngs",
     "assetId": "ngs",
     "characterGroupId": "character_group_1",

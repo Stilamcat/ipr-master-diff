@@ -3,7 +3,7 @@
     "id": "st-part-group-01",
     "assetId": "group-01",
     "name": "TRINITYAiLE",
-    "order": 1,
+    "order": 3,
     "type": 2,
     "pointType": 4,
     "storyEpisodeConsumptionId": "story-consumption-group-01",
@@ -265,7 +265,7 @@
     "id": "st-part-group-02",
     "assetId": "group-02",
     "name": "LizNoir",
-    "order": 2,
+    "order": 4,
     "type": 2,
     "pointType": 4,
     "storyEpisodeConsumptionId": "story-consumption-group-02",
@@ -527,7 +527,7 @@
     "id": "st-part-group-03",
     "assetId": "group-03",
     "name": "長瀬麻奈",
-    "order": 3,
+    "order": 5,
     "type": 2,
     "viewConditionId": "cd-time-st-mna-21-0721",
     "pointType": 4,
@@ -669,7 +669,7 @@
     "id": "st-part-group-04",
     "assetId": "group-04",
     "name": "ⅢX",
-    "order": 4,
+    "order": 6,
     "type": 2,
     "pointType": 4,
     "storyEpisodeConsumptionId": "story-consumption-group-04",
@@ -851,7 +851,7 @@
     "id": "st-part-group-05",
     "assetId": "group-05",
     "name": "月のテンペスト",
-    "order": 5,
+    "order": 1,
     "type": 2,
     "pointType": 4,
     "storyEpisodeConsumptionId": "story-consumption-group-05",
@@ -1007,7 +1007,7 @@
     "id": "st-part-group-06",
     "assetId": "group-06",
     "name": "サニーピース",
-    "order": 6,
+    "order": 2,
     "type": 2,
     "pointType": 4,
     "storyEpisodeConsumptionId": "story-consumption-group-06",
@@ -2033,6 +2033,46 @@
             "storyId": "st-main-cmn-02-01-35",
             "viewConditionId": "cd-st-main-cmn-02-01-35-view",
             "unlockConditionId": "cd-st-main-cmn-02-01-35-unlock",
+            "isReleased": true
+          },
+          {
+            "episode": 36,
+            "assetId": "main_03_08_01",
+            "storyId": "st-main-cmn-02-01-36",
+            "viewConditionId": "cd-st-main-cmn-02-01-36-view",
+            "unlockConditionId": "cd-st-main-cmn-02-01-36-unlock",
+            "isReleased": true
+          },
+          {
+            "episode": 37,
+            "assetId": "main_03_08_02",
+            "storyId": "st-main-cmn-02-01-37",
+            "viewConditionId": "cd-st-main-cmn-02-01-37-view",
+            "unlockConditionId": "cd-st-main-cmn-02-01-37-unlock",
+            "isReleased": true
+          },
+          {
+            "episode": 38,
+            "assetId": "main_03_08_03",
+            "storyId": "st-main-cmn-02-01-38",
+            "viewConditionId": "cd-st-main-cmn-02-01-38-view",
+            "unlockConditionId": "cd-st-main-cmn-02-01-38-unlock",
+            "isReleased": true
+          },
+          {
+            "episode": 39,
+            "assetId": "main_03_08_04",
+            "storyId": "st-main-cmn-02-01-39",
+            "viewConditionId": "cd-st-main-cmn-02-01-39-view",
+            "unlockConditionId": "cd-st-main-cmn-02-01-39-unlock",
+            "isReleased": true
+          },
+          {
+            "episode": 40,
+            "assetId": "main_03_08_05",
+            "storyId": "st-main-cmn-02-01-40",
+            "viewConditionId": "cd-st-main-cmn-02-01-40-view",
+            "unlockConditionId": "cd-st-main-cmn-02-01-40-unlock",
             "isReleased": true
           }
         ]

@@ -2505,6 +2505,20 @@
     ]
   },
   {
+    "id": "event_story-shooting-mission-24-0304",
+    "eventMissionType": 2,
+    "assetId": "img_banner_l_event-story-shooting-mission-24-0304",
+    "name": "メインストーリー撮影ミッション",
+    "order": 1,
+    "viewConditionId": "cd-time-event-ms-story-shooting-24-0304-0311-view",
+    "unlockConditionId": "cd-time-event-ms-story-shooting-24-0304-0311-unlock",
+    "missionIds": [
+      "event-ms-photo-shooting-24-0304-00-photo_activate_shooting_story_ticket_use_count",
+      "event-ms-photo-shooting-24-0304-00-photo_shooting_story_shoot_total_count",
+      "event-ms-photo-shooting-24-0304-01-mission_clear_count"
+    ]
+  },
+  {
     "id": "event_thanks-mission-22-0413",
     "eventMissionType": 2,
     "assetId": "img_banner_l_event-thanks-mission-22-0413",
