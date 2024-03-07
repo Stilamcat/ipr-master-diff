@@ -256,6 +256,38 @@
     "additionalDisplayCharacterIds": []
   },
   {
+    "id": "st-birthday-branch-rei-24-0308",
+    "name": "一ノ瀬怜 誕生日2024",
+    "advPlayTypes": [
+      6
+    ],
+    "branchFirstText": "今日は怜の誕生日だな\n何をプレゼントしよう？",
+    "branchCautionText": "後で再度選択可能です",
+    "branchBgmAssetId": "sud_bgm_cmn_home-01",
+    "branchChoices": [
+      {
+        "index": 1,
+        "text": "桜のヘアクリップ",
+        "advAssetId": "hbd_04_rei_01"
+      },
+      {
+        "index": 2,
+        "text": "ポータブルスピーカー",
+        "advAssetId": "hbd_04_rei_02"
+      },
+      {
+        "index": 3,
+        "text": "音に反応して踊る花の人形",
+        "advAssetId": "hbd_04_rei_03"
+      }
+    ],
+    "sectionName": "",
+    "description": "",
+    "rewardId": "",
+    "advAssetIds": [],
+    "additionalDisplayCharacterIds": []
+  },
+  {
     "id": "st-birthday-branch-rio-23-0828",
     "name": "神崎莉央 誕生日2023",
     "advPlayTypes": [
@@ -5514,6 +5546,60 @@
     ],
     "advAssetIds": [
       "card_ngs_07_03"
+    ],
+    "sectionName": "",
+    "description": "",
+    "additionalDisplayCharacterIds": [],
+    "branchFirstText": "",
+    "branchCautionText": "",
+    "branchBgmAssetId": "",
+    "branchChoices": []
+  },
+  {
+    "id": "st-card-rei-05-birt-00-01",
+    "name": "楽しさ三倍の\n誕生日企画",
+    "rewardId": "rd_auto;stone;;30",
+    "advPlayTypes": [
+      1
+    ],
+    "advAssetIds": [
+      "card_rei_51_01"
+    ],
+    "sectionName": "",
+    "description": "",
+    "additionalDisplayCharacterIds": [],
+    "branchFirstText": "",
+    "branchCautionText": "",
+    "branchBgmAssetId": "",
+    "branchChoices": []
+  },
+  {
+    "id": "st-card-rei-05-birt-00-02",
+    "name": "前乗り\nテーマパーク",
+    "rewardId": "rd_auto;stone;;30",
+    "advPlayTypes": [
+      1
+    ],
+    "advAssetIds": [
+      "card_rei_51_02"
+    ],
+    "sectionName": "",
+    "description": "",
+    "additionalDisplayCharacterIds": [],
+    "branchFirstText": "",
+    "branchCautionText": "",
+    "branchBgmAssetId": "",
+    "branchChoices": []
+  },
+  {
+    "id": "st-card-rei-05-birt-00-03",
+    "name": "四六時中、\n夢中",
+    "rewardId": "rd_auto;stone;;30",
+    "advPlayTypes": [
+      1
+    ],
+    "advAssetIds": [
+      "card_rei_51_03"
     ],
     "sectionName": "",
     "description": "",
@@ -22102,6 +22188,96 @@
     ],
     "advAssetIds": [
       "main_03_08_05"
+    ],
+    "additionalDisplayCharacterIds": [],
+    "branchFirstText": "",
+    "branchCautionText": "",
+    "branchBgmAssetId": "",
+    "branchChoices": []
+  },
+  {
+    "id": "st-main-cmn-02-01-41",
+    "sectionName": "Battle again",
+    "name": "追い風を\n受けて",
+    "description": "ライブバトルで連戦連勝、絶好調の月のテンペストのもとに、音楽番組の仕事が舞い込んでくる。四人での初仕事となるが、メンバーは悩む様子もなく出演する旨をあなたに伝える。放送後の反響は凄まじく、沢山の仕事の依頼や応援コメントが月ストのもとに届くのだった。",
+    "rewardId": "rd_auto;stone;;30",
+    "advPlayTypes": [
+      1
+    ],
+    "advAssetIds": [
+      "main_03_09_01"
+    ],
+    "additionalDisplayCharacterIds": [],
+    "branchFirstText": "",
+    "branchCautionText": "",
+    "branchBgmAssetId": "",
+    "branchChoices": []
+  },
+  {
+    "id": "st-main-cmn-02-01-42",
+    "sectionName": "Battle again",
+    "name": "圧倒的な熱量",
+    "description": "四人の月ストがライブバトルで力をつけていた頃。琴乃はどりきゅんのステージを間近で見て圧倒されていた。だが、怯んでいる時間はないと、彼女達と共に練習を重ね、ボロボロになりながらも必死に食らいつく中で、自身の成長を感じていた。",
+    "rewardId": "rd_auto;stone;;30",
+    "advPlayTypes": [
+      1
+    ],
+    "advAssetIds": [
+      "main_03_09_02"
+    ],
+    "additionalDisplayCharacterIds": [],
+    "branchFirstText": "",
+    "branchCautionText": "",
+    "branchBgmAssetId": "",
+    "branchChoices": []
+  },
+  {
+    "id": "st-main-cmn-02-01-43",
+    "sectionName": "Battle again",
+    "name": "戦いと再会",
+    "description": "裏方として、どりきゅんの生配信を手伝っていた琴乃。そんな琴乃の前で、どりきゅんは次の対戦相手として月のテンペストを指名。そして迎えた対戦当日。彼女達に言われるまま、現場までついてきた琴乃は、かつての仲間達と顔を合わせてしまう。",
+    "rewardId": "rd_auto;stone;;30",
+    "advPlayTypes": [
+      1
+    ],
+    "advAssetIds": [
+      "main_03_09_03"
+    ],
+    "additionalDisplayCharacterIds": [],
+    "branchFirstText": "",
+    "branchCautionText": "",
+    "branchBgmAssetId": "",
+    "branchChoices": []
+  },
+  {
+    "id": "st-main-cmn-02-01-44",
+    "sectionName": "Battle again",
+    "name": "超えてみせる",
+    "description": "月ストではどりきゅんに勝てない、と語る琴乃。そんな琴乃の態度に怒りを覚えた渚は、彼女の――ずっと大切に想っていた親友の頬を叩く。そして、月ストとしての誇りと強さを琴乃に示すべく、どりきゅんとの戦いに臨むのだった。",
+    "rewardId": "rd_auto;stone;;30",
+    "advPlayTypes": [
+      1
+    ],
+    "advAssetIds": [
+      "main_03_09_04"
+    ],
+    "additionalDisplayCharacterIds": [],
+    "branchFirstText": "",
+    "branchCautionText": "",
+    "branchBgmAssetId": "",
+    "branchChoices": []
+  },
+  {
+    "id": "st-main-cmn-02-01-45",
+    "sectionName": "Battle again",
+    "name": "月スト\nとしての\n誇り",
+    "description": "月ストのパフォーマンスを観た琴乃は息をのむ。琴乃は自分が歩いてきた道に迷いが生まれ、舞台袖で動揺する。一方でどりきゅんも、凄まじいパフォーマンスを見せる。勝負の行方は――",
+    "rewardId": "rd_auto;stone;;30",
+    "advPlayTypes": [
+      1
+    ],
+    "advAssetIds": [
+      "main_03_09_05"
     ],
     "additionalDisplayCharacterIds": [],
     "branchFirstText": "",

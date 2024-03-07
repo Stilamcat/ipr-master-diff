@@ -7376,6 +7376,58 @@
     "homeTalks": []
   },
   {
+    "id": "card-rei-05-birt-00",
+    "assetId": "rei-05-birt-00",
+    "name": "わくわく遊園地バースデー",
+    "description": "芽衣、すず、今日は思いっきり楽しむわよ！\r\nわ！　見て！　キャストさんがパフォーマンスしてる！",
+    "type": 3,
+    "characterId": "char-rei",
+    "initialRarity": 5,
+    "cardParameterId": "card-param-01",
+    "vocalRatioPermil": 416,
+    "danceRatioPermil": 311,
+    "visualRatioPermil": 273,
+    "staminaRatioPermil": 1000,
+    "cardLevelReleaseId": "card_level_release_1",
+    "skillId1": "sk-rei-05-birt-00-1",
+    "skillId2": "sk-rei-05-birt-00-2",
+    "skillId3": "sk-rei-05-birt-00-3",
+    "liveAbilityId": "lba-critical_score_multiply",
+    "order": 353,
+    "releaseDate": "1709823600000",
+    "imageType1": 3,
+    "displayPositionX1": 0.178,
+    "displayScale1": 1.0,
+    "highlightDisplayPositionX1": -0.218,
+    "highlightDisplayPositionY1": 0.278,
+    "highlightDisplayScale1": 0.8,
+    "imageType2": 3,
+    "displayPositionX2": 0.178,
+    "displayScale2": 1.0,
+    "highlightDisplayPositionX2": -0.218,
+    "highlightDisplayPositionY2": 0.278,
+    "highlightDisplayScale2": 0.8,
+    "obtainMessage": "こんなに素敵な誕生日を\n過ごすのは、初めてだわ",
+    "rewardHairId": "hair-rei-hair-10",
+    "stories": [
+      {
+        "storyId": "st-card-rei-05-birt-00-01"
+      },
+      {
+        "storyId": "st-card-rei-05-birt-00-02"
+      },
+      {
+        "storyId": "st-card-rei-05-birt-00-03"
+      }
+    ],
+    "activityAbilityId": "",
+    "rewardCostumeId": "",
+    "displayPositionY1": 0.0,
+    "displayPositionY2": 0.0,
+    "messages": [],
+    "homeTalks": []
+  },
+  {
     "id": "card-rei-05-casl-02",
     "assetId": "rei-05-casl-02",
     "name": "もしも君の手に触れたら",
