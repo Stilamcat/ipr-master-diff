@@ -7489,6 +7489,67 @@
     "homeTalks": []
   },
   {
+    "id": "card-rei-05-chia-00",
+    "assetId": "rei-05-chia-00",
+    "name": "ダンシングキューピッド",
+    "description": "みんなが辛い時、苦しい時、私は全力で応援する\n頑張るみんなが一歩前へ踏み出せるように！\nみんなが笑顔になれるように！",
+    "type": 3,
+    "characterId": "char-rei",
+    "initialRarity": 5,
+    "cardParameterId": "card-param-01",
+    "vocalRatioPermil": 272,
+    "danceRatioPermil": 417,
+    "visualRatioPermil": 311,
+    "staminaRatioPermil": 1000,
+    "cardLevelReleaseId": "card_level_release_1",
+    "skillId1": "sk-rei-05-chia-00-1",
+    "skillId2": "sk-rei-05-chia-00-2",
+    "skillId3": "sk-rei-05-chia-00-3",
+    "liveAbilityId": "lba-beat_score_multiply",
+    "order": 362,
+    "releaseDate": "1710126000000",
+    "rewardCostumeId": "cos-rei-chia-00",
+    "imageType1": 3,
+    "displayPositionX1": 0.268,
+    "displayPositionY1": 0.083,
+    "displayScale1": 1.2,
+    "highlightDisplayPositionX1": -0.254,
+    "highlightDisplayPositionY1": 0.259,
+    "highlightDisplayScale1": 0.7,
+    "imageType2": 3,
+    "displayPositionX2": 0.268,
+    "displayPositionY2": 0.083,
+    "displayScale2": 1.2,
+    "highlightDisplayPositionX2": -0.254,
+    "highlightDisplayPositionY2": 0.259,
+    "highlightDisplayScale2": 0.7,
+    "obtainMessage": "これからも、頑張るあなたを\n応援するわ",
+    "stories": [
+      {
+        "storyId": "st-card-rei-05-chia-00-01"
+      },
+      {
+        "storyId": "st-card-rei-05-chia-00-02"
+      },
+      {
+        "storyId": "st-card-rei-05-chia-00-03"
+      }
+    ],
+    "messages": [
+      {
+        "messageId": "message-card-rei-05-chia-00",
+        "telephoneId": ""
+      },
+      {
+        "telephoneId": "tel-card-rei-05-chia-00",
+        "messageId": ""
+      }
+    ],
+    "activityAbilityId": "",
+    "rewardHairId": "",
+    "homeTalks": []
+  },
+  {
     "id": "card-rei-05-fest-00",
     "assetId": "rei-05-fest-00",
     "name": "踊る彼女に息をのむ",

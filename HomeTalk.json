@@ -4070,6 +4070,56 @@
     ]
   },
   {
+    "homeTalkId": "home-talk-card-rei-05-chia-00-talk-01",
+    "characterId": "char-rei",
+    "placeType": 1,
+    "conditionId": "cd-st-read-st-card-rei-05-chia-00-03",
+    "firstPriority": 9900,
+    "weight": 1,
+    "callPatternId": "call-pattern-card-rei-05-chia-00",
+    "choiceText": "ライブツアーで感動したファンが\n感想を送らずには\nいられなかったのかもしれないな",
+    "managerText": "ライブツアーで感動したファンが\n感想を送らずには\nいられなかったのかもしれないな",
+    "reliability": 5,
+    "characterTalks": [
+      {
+        "text": "…ファンレターって凄いですよね。\n読んでると胸が熱くなって\nやる気がみなぎってくるんです。",
+        "voiceAssetId": "sud_vo_home_rei-05-chia-00_talk-01-01",
+        "motionAssetId": "mot_adv_chr_cmn_pos-020_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "自分の想いを手紙に込めて\n相手に送るのは、凄く勇気がいる\nことだと思うんです。",
+        "voiceAssetId": "sud_vo_home_rei-05-chia-00_talk-01-02",
+        "motionAssetId": "mot_adv_chr_cmn_talk-012_in",
+        "additionMotionAssetId": "mot_all_chr_cmn_facial-001_in"
+      },
+      {
+        "text": "もらったファンレターの一通一通に\n想いを込めて、勇気を出して\n送ってくれた人がいる…",
+        "voiceAssetId": "sud_vo_home_rei-05-chia-00_talk-01-03",
+        "motionAssetId": "mot_adv_chr_cmn_think-003_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "きっと全てのファンレターは\nこの世に二つとない\nかけがえのない宝物なんですよね。",
+        "voiceAssetId": "sud_vo_home_rei-05-chia-00_talk-01-04",
+        "motionAssetId": "mot_adv_chr_cmn_pos-010_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "アイドルにとって最高の宝物だから\nもらえると嬉しくて\n読んでると力が湧いてくるんです。",
+        "voiceAssetId": "sud_vo_home_rei-05-chia-00_talk-01-05",
+        "motionAssetId": "mot_adv_chr_cmn_glad-002_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "この宝物に見合うものを\nファンのみんなに届けられるように\n私も頑張らないといけませんね。",
+        "voiceAssetId": "sud_vo_home_rei-05-chia-00_talk-01-06",
+        "motionAssetId": "mot_adv_chr_cmn_glad-001_in",
+        "additionMotionAssetId": ""
+      }
+    ]
+  },
+  {
     "homeTalkId": "home-talk-card-rei-05-fest-00-talk-01",
     "characterId": "char-rei",
     "placeType": 1,

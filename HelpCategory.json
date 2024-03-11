@@ -3461,6 +3461,41 @@
     ]
   },
   {
+    "id": "help_content-help-mosaic",
+    "type": 3,
+    "title": "ガチャミッション",
+    "order": 16,
+    "targetTypes": [
+      186
+    ],
+    "contents": [
+      {
+        "helpContentId": "help_content-tips-mosaic-01",
+        "title": "ミッション",
+        "text": "ミッション内容を確認することができます。 ミッションをクリアすることで、報酬を獲得するためのPtを獲得することができます。 ミッションはイベント期間中のみ挑戦・受け取り可能です。",
+        "order": 1,
+        "targetTypes": [],
+        "assetIds": []
+      },
+      {
+        "helpContentId": "help_content-tips-mosaic-02",
+        "title": "交換報酬",
+        "text": "ミッション達成によって獲得した「Pt」を消費することで、報酬を獲得することができます。 獲得に必要なPtは報酬ごとに異なり、獲得するための条件が設定されている報酬も存在します。",
+        "order": 2,
+        "targetTypes": [],
+        "assetIds": []
+      },
+      {
+        "helpContentId": "help_content-tips-mosaic-03",
+        "title": "累計報酬",
+        "text": "報酬の交換によって消費した累計のPt数に応じて、累計報酬が獲得できます。",
+        "order": 3,
+        "targetTypes": [],
+        "assetIds": []
+      }
+    ]
+  },
+  {
     "id": "help_content-help-race",
     "type": 3,
     "title": "VENUSレース",

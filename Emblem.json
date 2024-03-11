@@ -5220,6 +5220,24 @@
     "isViewableInInactive": false
   },
   {
+    "id": "emb-gvg-season-033-top001",
+    "name": "ユニオンシーズン33 No.1",
+    "assetId": "gvg-season-033-top001",
+    "order": 403310,
+    "description": "ユニオンライブシーズン33 で1位獲得",
+    "autoProvideConditionId": "",
+    "isViewableInInactive": false
+  },
+  {
+    "id": "emb-gvg-season-033-top010",
+    "name": "ユニオンシーズン33 TOP10",
+    "assetId": "gvg-season-033-top010",
+    "order": 403320,
+    "description": "ユニオンライブシーズン33 で10位以内獲得",
+    "autoProvideConditionId": "",
+    "isViewableInInactive": false
+  },
+  {
     "id": "emb-highscore-15-0",
     "name": "lumière",
     "assetId": "area_15_100",
@@ -5335,6 +5353,15 @@
     "order": 141000,
     "description": "「夏の思い出メッセージミッション」",
     "autoProvideConditionId": ""
+  },
+  {
+    "id": "emb-mission-mosaic-24-0311",
+    "name": "繋ぐ、みんなの想い",
+    "assetId": "mission-24-0311",
+    "order": 141001,
+    "description": "「繋ぐ、みんなの想い」ミッション",
+    "autoProvideConditionId": "",
+    "isViewableInInactive": false
   },
   {
     "id": "emb-promotion-24-0129-ymk",
@@ -6017,6 +6044,33 @@
     "assetId": "pvp-season-092-top100",
     "order": 309230,
     "description": "VENUSバトルシーズン92で100位以内獲得",
+    "autoProvideConditionId": "",
+    "isViewableInInactive": false
+  },
+  {
+    "id": "emb-pvp-season-093-top001",
+    "name": "VENUSシーズン93 No.1",
+    "assetId": "pvp-season-093-top001",
+    "order": 309310,
+    "description": "VENUSバトルシーズン93で1位獲得",
+    "autoProvideConditionId": "",
+    "isViewableInInactive": false
+  },
+  {
+    "id": "emb-pvp-season-093-top010",
+    "name": "VENUSシーズン93 TOP10",
+    "assetId": "pvp-season-093-top010",
+    "order": 309320,
+    "description": "VENUSバトルシーズン93で10位以内獲得",
+    "autoProvideConditionId": "",
+    "isViewableInInactive": false
+  },
+  {
+    "id": "emb-pvp-season-093-top100",
+    "name": "VENUSシーズン93 TOP100",
+    "assetId": "pvp-season-093-top100",
+    "order": 309330,
+    "description": "VENUSバトルシーズン93で100位以内獲得",
     "autoProvideConditionId": "",
     "isViewableInInactive": false
   },

@@ -6413,10 +6413,32 @@
     "shortDescription": ""
   },
   {
+    "id": "ef-beat_score_up-3-target-all-22",
+    "name": "全員にビートスコア上昇効果",
+    "type": 17,
+    "description": "全員に3段階ビートスコア上昇効果[22ビート]",
+    "grade": 3,
+    "maxGrade": 20,
+    "skillTargetId": "target-all",
+    "limitBreakMaxGrade": 21,
+    "shortDescription": ""
+  },
+  {
     "id": "ef-beat_score_up-3-target-all-27",
     "name": "全員にビートスコア上昇効果",
     "type": 17,
     "description": "全員に3段階ビートスコア上昇効果[27ビート]",
+    "grade": 3,
+    "maxGrade": 20,
+    "skillTargetId": "target-all",
+    "limitBreakMaxGrade": 21,
+    "shortDescription": ""
+  },
+  {
+    "id": "ef-beat_score_up-3-target-all-31",
+    "name": "全員にビートスコア上昇効果",
+    "type": 17,
+    "description": "全員に3段階ビートスコア上昇効果[31ビート]",
     "grade": 3,
     "maxGrade": 20,
     "skillTargetId": "target-all",
@@ -6589,6 +6611,17 @@
     "shortDescription": ""
   },
   {
+    "id": "ef-beat_score_up-4-target-all-31",
+    "name": "全員にビートスコア上昇効果",
+    "type": 17,
+    "description": "全員に4段階ビートスコア上昇効果[31ビート]",
+    "grade": 4,
+    "maxGrade": 20,
+    "skillTargetId": "target-all",
+    "limitBreakMaxGrade": 21,
+    "shortDescription": ""
+  },
+  {
     "id": "ef-beat_score_up-4-target-all-32",
     "name": "全員にビートスコア上昇効果",
     "type": 17,
@@ -6615,6 +6648,17 @@
     "name": "全員にビートスコア上昇効果",
     "type": 17,
     "description": "全員に4段階ビートスコア上昇効果[38ビート]",
+    "grade": 4,
+    "maxGrade": 20,
+    "skillTargetId": "target-all",
+    "limitBreakMaxGrade": 21,
+    "shortDescription": ""
+  },
+  {
+    "id": "ef-beat_score_up-4-target-all-40",
+    "name": "全員にビートスコア上昇効果",
+    "type": 17,
+    "description": "全員に4段階ビートスコア上昇効果[40ビート]",
     "grade": 4,
     "maxGrade": 20,
     "skillTargetId": "target-all",
@@ -35123,6 +35167,28 @@
     "limitBreakMaxGrade": 0
   },
   {
+    "id": "ef-score_get_by_skill_success_rate_up-3200-chart_dependence",
+    "name": "スコア獲得-スキル成功率が高い程効果上昇",
+    "type": 54,
+    "description": "320%のスコア獲得、スキル成功率が高い程効果上昇",
+    "shortDescription": "",
+    "grade": 0,
+    "maxGrade": 0,
+    "skillTargetId": "",
+    "limitBreakMaxGrade": 0
+  },
+  {
+    "id": "ef-score_get_by_skill_success_rate_up-3300-chart_dependence",
+    "name": "スコア獲得-スキル成功率が高い程効果上昇",
+    "type": 54,
+    "description": "330%のスコア獲得、スキル成功率が高い程効果上昇",
+    "shortDescription": "",
+    "grade": 0,
+    "maxGrade": 0,
+    "skillTargetId": "",
+    "limitBreakMaxGrade": 0
+  },
+  {
     "id": "ef-score_get_by_skill_success_rate_up-3400-chart_dependence",
     "name": "スコア獲得-スキル成功率が高い程効果上昇",
     "type": 54,
@@ -45947,6 +46013,39 @@
     "shortDescription": ""
   },
   {
+    "id": "ef-skill_success_rate_up-2-target-character_type-3-1-26",
+    "name": "サポータータイプ1人にスキル成功率上昇効果",
+    "type": 37,
+    "description": "サポータータイプ1人に2段階スキル成功率上昇効果[26ビート]",
+    "grade": 2,
+    "maxGrade": 10,
+    "skillTargetId": "target-character_type-3-1",
+    "limitBreakMaxGrade": 11,
+    "shortDescription": ""
+  },
+  {
+    "id": "ef-skill_success_rate_up-2-target-character_type-3-1-28",
+    "name": "サポータータイプ1人にスキル成功率上昇効果",
+    "type": 37,
+    "description": "サポータータイプ1人に2段階スキル成功率上昇効果[28ビート]",
+    "grade": 2,
+    "maxGrade": 10,
+    "skillTargetId": "target-character_type-3-1",
+    "limitBreakMaxGrade": 11,
+    "shortDescription": ""
+  },
+  {
+    "id": "ef-skill_success_rate_up-2-target-character_type-3-1-30",
+    "name": "サポータータイプ1人にスキル成功率上昇効果",
+    "type": 37,
+    "description": "サポータータイプ1人に2段階スキル成功率上昇効果[30ビート]",
+    "grade": 2,
+    "maxGrade": 10,
+    "skillTargetId": "target-character_type-3-1",
+    "limitBreakMaxGrade": 11,
+    "shortDescription": ""
+  },
+  {
     "id": "ef-skill_success_rate_up-2-target-character_type-3-2-25",
     "name": "サポータータイプ2人にスキル成功率上昇効果",
     "type": 37,
@@ -46405,6 +46504,39 @@
     "grade": 3,
     "maxGrade": 10,
     "skillTargetId": "target-character_type-2-2",
+    "limitBreakMaxGrade": 11,
+    "shortDescription": ""
+  },
+  {
+    "id": "ef-skill_success_rate_up-3-target-character_type-3-1-30",
+    "name": "サポータータイプ1人にスキル成功率上昇効果",
+    "type": 37,
+    "description": "サポータータイプ1人に3段階スキル成功率上昇効果[30ビート]",
+    "grade": 3,
+    "maxGrade": 10,
+    "skillTargetId": "target-character_type-3-1",
+    "limitBreakMaxGrade": 11,
+    "shortDescription": ""
+  },
+  {
+    "id": "ef-skill_success_rate_up-3-target-character_type-3-1-34",
+    "name": "サポータータイプ1人にスキル成功率上昇効果",
+    "type": 37,
+    "description": "サポータータイプ1人に3段階スキル成功率上昇効果[34ビート]",
+    "grade": 3,
+    "maxGrade": 10,
+    "skillTargetId": "target-character_type-3-1",
+    "limitBreakMaxGrade": 11,
+    "shortDescription": ""
+  },
+  {
+    "id": "ef-skill_success_rate_up-3-target-character_type-3-1-38",
+    "name": "サポータータイプ1人にスキル成功率上昇効果",
+    "type": 37,
+    "description": "サポータータイプ1人に3段階スキル成功率上昇効果[38ビート]",
+    "grade": 3,
+    "maxGrade": 10,
+    "skillTargetId": "target-character_type-3-1",
     "limitBreakMaxGrade": 11,
     "shortDescription": ""
   },
@@ -46904,10 +47036,32 @@
     "shortDescription": ""
   },
   {
+    "id": "ef-skill_success_rate_up-4-target-character_type-1-2-20",
+    "name": "スコアラータイプ2人にスキル成功率上昇効果",
+    "type": 37,
+    "description": "スコアラータイプ2人に4段階スキル成功率上昇効果[20ビート]",
+    "grade": 4,
+    "maxGrade": 10,
+    "skillTargetId": "target-character_type-1-2",
+    "limitBreakMaxGrade": 11,
+    "shortDescription": ""
+  },
+  {
     "id": "ef-skill_success_rate_up-4-target-character_type-1-2-23",
     "name": "スコアラータイプ2人にスキル成功率上昇効果",
     "type": 37,
     "description": "スコアラータイプ2人に4段階スキル成功率上昇効果[23ビート]",
+    "grade": 4,
+    "maxGrade": 10,
+    "skillTargetId": "target-character_type-1-2",
+    "limitBreakMaxGrade": 11,
+    "shortDescription": ""
+  },
+  {
+    "id": "ef-skill_success_rate_up-4-target-character_type-1-2-24",
+    "name": "スコアラータイプ2人にスキル成功率上昇効果",
+    "type": 37,
+    "description": "スコアラータイプ2人に4段階スキル成功率上昇効果[24ビート]",
     "grade": 4,
     "maxGrade": 10,
     "skillTargetId": "target-character_type-1-2",
@@ -47043,6 +47197,28 @@
     "grade": 4,
     "maxGrade": 10,
     "skillTargetId": "target-character_type-3-2",
+    "limitBreakMaxGrade": 11,
+    "shortDescription": ""
+  },
+  {
+    "id": "ef-skill_success_rate_up-4-target-dance-1-20",
+    "name": "ダンスタイプ1人にスキル成功率上昇効果",
+    "type": 37,
+    "description": "ダンスタイプ1人に4段階スキル成功率上昇効果[20ビート]",
+    "grade": 4,
+    "maxGrade": 10,
+    "skillTargetId": "target-dance-1",
+    "limitBreakMaxGrade": 11,
+    "shortDescription": ""
+  },
+  {
+    "id": "ef-skill_success_rate_up-4-target-dance-1-24",
+    "name": "ダンスタイプ1人にスキル成功率上昇効果",
+    "type": 37,
+    "description": "ダンスタイプ1人に4段階スキル成功率上昇効果[24ビート]",
+    "grade": 4,
+    "maxGrade": 10,
+    "skillTargetId": "target-dance-1",
     "limitBreakMaxGrade": 11,
     "shortDescription": ""
   },
@@ -47531,6 +47707,17 @@
     "shortDescription": ""
   },
   {
+    "id": "ef-skill_success_rate_up-5-target-character_type-1-2-24",
+    "name": "スコアラータイプ2人にスキル成功率上昇効果",
+    "type": 37,
+    "description": "スコアラータイプ2人に5段階スキル成功率上昇効果[24ビート]",
+    "grade": 5,
+    "maxGrade": 10,
+    "skillTargetId": "target-character_type-1-2",
+    "limitBreakMaxGrade": 11,
+    "shortDescription": ""
+  },
+  {
     "id": "ef-skill_success_rate_up-5-target-character_type-1-2-28",
     "name": "スコアラータイプ2人にスキル成功率上昇効果",
     "type": 37,
@@ -47670,6 +47857,28 @@
     "grade": 5,
     "maxGrade": 10,
     "skillTargetId": "target-character_type-3-2",
+    "limitBreakMaxGrade": 11,
+    "shortDescription": ""
+  },
+  {
+    "id": "ef-skill_success_rate_up-5-target-dance-1-24",
+    "name": "ダンスタイプ1人にスキル成功率上昇効果",
+    "type": 37,
+    "description": "ダンスタイプ1人に5段階スキル成功率上昇効果[24ビート]",
+    "grade": 5,
+    "maxGrade": 10,
+    "skillTargetId": "target-dance-1",
+    "limitBreakMaxGrade": 11,
+    "shortDescription": ""
+  },
+  {
+    "id": "ef-skill_success_rate_up-5-target-dance-1-28",
+    "name": "ダンスタイプ1人にスキル成功率上昇効果",
+    "type": 37,
+    "description": "ダンスタイプ1人に5段階スキル成功率上昇効果[28ビート]",
+    "grade": 5,
+    "maxGrade": 10,
+    "skillTargetId": "target-dance-1",
     "limitBreakMaxGrade": 11,
     "shortDescription": ""
   },
@@ -48176,6 +48385,28 @@
     "grade": 6,
     "maxGrade": 10,
     "skillTargetId": "target-character_type-3-2",
+    "limitBreakMaxGrade": 11,
+    "shortDescription": ""
+  },
+  {
+    "id": "ef-skill_success_rate_up-6-target-dance-1-28",
+    "name": "ダンスタイプ1人にスキル成功率上昇効果",
+    "type": 37,
+    "description": "ダンスタイプ1人に6段階スキル成功率上昇効果[28ビート]",
+    "grade": 6,
+    "maxGrade": 10,
+    "skillTargetId": "target-dance-1",
+    "limitBreakMaxGrade": 11,
+    "shortDescription": ""
+  },
+  {
+    "id": "ef-skill_success_rate_up-6-target-dance-1-32",
+    "name": "ダンスタイプ1人にスキル成功率上昇効果",
+    "type": 37,
+    "description": "ダンスタイプ1人に6段階スキル成功率上昇効果[32ビート]",
+    "grade": 6,
+    "maxGrade": 10,
+    "skillTargetId": "target-dance-1",
     "limitBreakMaxGrade": 11,
     "shortDescription": ""
   },

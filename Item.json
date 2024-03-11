@@ -720,6 +720,18 @@
     "isPhotoShootingCharacterOnly": false
   },
   {
+    "id": "item-dream-generate-dream-24-0316",
+    "name": "イメトレマニュアル",
+    "assetId": "dream-generate",
+    "description": "イメージトレーニングのステージ生成に使用する",
+    "howToGet": "イメージトレーニング",
+    "type": 10001,
+    "value": 1,
+    "order": 1000,
+    "salePrice": 0,
+    "isPhotoShootingCharacterOnly": false
+  },
+  {
     "id": "item-exchange-2nd-anniversary-medal-23-0528",
     "name": "2周年記念メダル",
     "assetId": "medal-2nd-anniversary",
@@ -2748,6 +2760,18 @@
     "isPhotoShootingCharacterOnly": false
   },
   {
+    "id": "item-gacha_point-pick-set-bloom-24-0311",
+    "name": "繋ぐ、みんなの想いガチャPt",
+    "assetId": "gacha-point",
+    "description": "該当するガチャページの「ガチャPt」から\nガチャPtを消費してアイドルを獲得できる",
+    "type": 9,
+    "value": 1,
+    "order": 140,
+    "howToGet": "",
+    "salePrice": 0,
+    "isPhotoShootingCharacterOnly": false
+  },
+  {
     "id": "item-gacha_point-pickup-21-0712",
     "name": "光射す海宴ガチャPt",
     "assetId": "gacha-point",
@@ -3564,6 +3588,18 @@
     "isPhotoShootingCharacterOnly": false
   },
   {
+    "id": "item-gacha_point-select-01-24-0313",
+    "name": "選べる★5サポーターガチャPt",
+    "assetId": "gacha-point",
+    "description": "該当するガチャページの「ガチャPt」から\nガチャPtを消費してアイドルを獲得できる",
+    "type": 9,
+    "value": 1,
+    "order": 140,
+    "howToGet": "",
+    "salePrice": 0,
+    "isPhotoShootingCharacterOnly": false
+  },
+  {
     "id": "item-gacha_ticket",
     "name": "ガチャチケ",
     "assetId": "gacha-ticket-normal",
@@ -3596,6 +3632,18 @@
     "type": 8,
     "value": 1,
     "order": 100,
+    "salePrice": 0,
+    "isPhotoShootingCharacterOnly": false
+  },
+  {
+    "id": "item-gacha_ticket-24-0311-01",
+    "name": "「繋ぐ、みんなの想い」専用ガチャチケ",
+    "assetId": "gacha-ticket-just",
+    "description": "「繋ぐ、みんなの想い」ガチャを1回引くことができる\n使用期限終了後は消失します",
+    "howToGet": "繋ぐ、みんなの想いミッション",
+    "type": 8,
+    "value": 1,
+    "order": 1000,
     "salePrice": 0,
     "isPhotoShootingCharacterOnly": false
   },
@@ -4808,6 +4856,18 @@
     "type": 3001,
     "value": 1,
     "order": 99,
+    "salePrice": 0,
+    "isPhotoShootingCharacterOnly": false
+  },
+  {
+    "id": "item-mosaic_pt_24-0311",
+    "name": "ミッションPt",
+    "assetId": "mosaic-pt",
+    "description": "イベント報酬と交換することができます\nイベント終了後はコインに変換されます",
+    "howToGet": "繋ぐ、みんなの想いミッション",
+    "type": 3001,
+    "value": 1,
+    "order": 1000,
     "salePrice": 0,
     "isPhotoShootingCharacterOnly": false
   },
