@@ -1892,6 +1892,17 @@
     ]
   },
   {
+    "id": "con-paid_stone-1350",
+    "resources": [
+      {
+        "resourceType": 16,
+        "amount": 1350,
+        "resourceIds": [],
+        "subResourceIds": []
+      }
+    ]
+  },
+  {
     "id": "con-paid_stone-1500",
     "resources": [
       {
@@ -6761,6 +6772,19 @@
         "resourceType": 1,
         "resourceIds": [
           "item-exchange-ticket-24-0214"
+        ],
+        "amount": 1,
+        "subResourceIds": []
+      }
+    ]
+  },
+  {
+    "id": "cos-item-exchange-ticket-24-0319",
+    "resources": [
+      {
+        "resourceType": 1,
+        "resourceIds": [
+          "item-exchange-ticket-24-0319"
         ],
         "amount": 1,
         "subResourceIds": []

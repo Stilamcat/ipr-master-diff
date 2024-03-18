@@ -5310,6 +5310,15 @@
     "isViewableInInactive": false
   },
   {
+    "id": "emb-login-1000",
+    "name": "仕事一筋",
+    "assetId": "login-1000",
+    "isViewableInInactive": true,
+    "order": 100091,
+    "description": "累計ログイン日数1000日以上",
+    "autoProvideConditionId": ""
+  },
+  {
     "id": "emb-love-23-0514-true",
     "name": "「もし恋 ~もしも君と恋をしたら~ 一ノ瀬怜編」",
     "assetId": "love-23-0514",
@@ -6071,6 +6080,33 @@
     "assetId": "pvp-season-093-top100",
     "order": 309330,
     "description": "VENUSバトルシーズン93で100位以内獲得",
+    "autoProvideConditionId": "",
+    "isViewableInInactive": false
+  },
+  {
+    "id": "emb-pvp-season-094-top001",
+    "name": "VENUSシーズン94 No.1",
+    "assetId": "pvp-season-094-top001",
+    "order": 309410,
+    "description": "VENUSバトルシーズン94で1位獲得",
+    "autoProvideConditionId": "",
+    "isViewableInInactive": false
+  },
+  {
+    "id": "emb-pvp-season-094-top010",
+    "name": "VENUSシーズン94 TOP10",
+    "assetId": "pvp-season-094-top010",
+    "order": 309420,
+    "description": "VENUSバトルシーズン94で10位以内獲得",
+    "autoProvideConditionId": "",
+    "isViewableInInactive": false
+  },
+  {
+    "id": "emb-pvp-season-094-top100",
+    "name": "VENUSシーズン94 TOP100",
+    "assetId": "pvp-season-094-top100",
+    "order": 309430,
+    "description": "VENUSバトルシーズン94で100位以内獲得",
     "autoProvideConditionId": "",
     "isViewableInInactive": false
   },

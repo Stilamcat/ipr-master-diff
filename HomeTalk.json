@@ -1472,6 +1472,50 @@
     ]
   },
   {
+    "homeTalkId": "home-talk-card-hrk-05-pajm-00-talk-01",
+    "characterId": "char-hrk",
+    "placeType": 1,
+    "conditionId": "cd-st-read-st-card-hrk-05-pajm-00-03",
+    "firstPriority": 9900,
+    "weight": 1,
+    "callPatternId": "call-pattern-card-hrk-05-pajm-00",
+    "choiceText": "何を買うんですか？",
+    "managerText": "何を買うんですか？",
+    "reliability": 5,
+    "characterTalks": [
+      {
+        "text": "もちろん、\n{user}君の\nパジャマを買いによ。",
+        "voiceAssetId": "sud_vo_home_hrk-05-pajm-00_talk-01-01",
+        "motionAssetId": "mot_adv_chr_cmn_pos-002_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "あの日以来、\nパジャマやルームウェアに\nハマってるんだけど…",
+        "voiceAssetId": "sud_vo_home_hrk-05-pajm-00_talk-01-02",
+        "motionAssetId": "mot_adv_chr_cmn_talk-003_in",
+        "additionMotionAssetId": "mot_all_chr_cmn_facial-001_in"
+      },
+      {
+        "text": "着心地のいいパジャマだと\nすっごくよく眠れるの。",
+        "voiceAssetId": "sud_vo_home_hrk-05-pajm-00_talk-01-03",
+        "motionAssetId": "mot_adv_chr_cmn_glad-012_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "{user}君って\n忙しくてあまり眠れてないでしょ？\n睡眠の質を上げていきましょう。",
+        "voiceAssetId": "sud_vo_home_hrk-05-pajm-00_talk-01-04",
+        "motionAssetId": "mot_adv_chr_cmn_pos-020_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "プレゼントしてもいいんだけど\nサイズのこともあるから。\n一緒に買いに行くのがいいかなって",
+        "voiceAssetId": "sud_vo_home_hrk-05-pajm-00_talk-01-05",
+        "motionAssetId": "mot_adv_chr_cmn_talk-014_in",
+        "additionMotionAssetId": "mot_all_chr_cmn_facial-014_in"
+      }
+    ]
+  },
+  {
     "homeTalkId": "home-talk-card-hrk-05-sail-00-talk-01",
     "characterId": "char-hrk",
     "placeType": 1,

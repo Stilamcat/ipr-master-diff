@@ -33044,6 +33044,17 @@
     "limitBreakMaxGrade": 0
   },
   {
+    "id": "ef-score_get_by_more_combo_count-11100-chart_dependence",
+    "name": "スコア獲得-コンボ数が多い程効果上昇",
+    "type": 8,
+    "description": "1110%のスコア獲得、コンボ数が多い程効果上昇",
+    "shortDescription": "",
+    "grade": 0,
+    "maxGrade": 0,
+    "skillTargetId": "",
+    "limitBreakMaxGrade": 0
+  },
+  {
     "id": "ef-score_get_by_more_combo_count-11200-chart_dependence",
     "name": "スコア獲得-コンボ数が多い程効果上昇",
     "type": 8,
@@ -33125,6 +33136,17 @@
     "name": "スコア獲得-コンボ数が多い程効果上昇",
     "type": 8,
     "description": "1320%のスコア獲得、コンボ数が多い程効果上昇",
+    "shortDescription": "",
+    "grade": 0,
+    "maxGrade": 0,
+    "skillTargetId": "",
+    "limitBreakMaxGrade": 0
+  },
+  {
+    "id": "ef-score_get_by_more_combo_count-13900-chart_dependence",
+    "name": "スコア獲得-コンボ数が多い程効果上昇",
+    "type": 8,
+    "description": "1390%のスコア獲得、コンボ数が多い程効果上昇",
     "shortDescription": "",
     "grade": 0,
     "maxGrade": 0,
@@ -33473,6 +33495,17 @@
     "limitBreakMaxGrade": 0
   },
   {
+    "id": "ef-score_get_by_more_combo_count-8300-chart_dependence",
+    "name": "スコア獲得-コンボ数が多い程効果上昇",
+    "type": 8,
+    "description": "830%のスコア獲得、コンボ数が多い程効果上昇",
+    "shortDescription": "",
+    "grade": 0,
+    "maxGrade": 0,
+    "skillTargetId": "",
+    "limitBreakMaxGrade": 0
+  },
+  {
     "id": "ef-score_get_by_more_combo_count-8400-chart_dependence",
     "name": "スコア獲得-コンボ数が多い程効果上昇",
     "type": 8,
@@ -33528,6 +33561,17 @@
     "limitBreakMaxGrade": 0
   },
   {
+    "id": "ef-score_get_by_more_combo_count-9000-chart_dependence",
+    "name": "スコア獲得-コンボ数が多い程効果上昇",
+    "type": 8,
+    "description": "900%のスコア獲得、コンボ数が多い程効果上昇",
+    "shortDescription": "",
+    "grade": 0,
+    "maxGrade": 0,
+    "skillTargetId": "",
+    "limitBreakMaxGrade": 0
+  },
+  {
     "id": "ef-score_get_by_more_combo_count-9100-chart_dependence",
     "name": "スコア獲得-コンボ数が多い程効果上昇",
     "type": 8,
@@ -33543,6 +33587,17 @@
     "name": "スコア獲得-コンボ数が多い程効果上昇",
     "type": 8,
     "description": "960%のスコア獲得、コンボ数が多い程効果上昇",
+    "shortDescription": "",
+    "grade": 0,
+    "maxGrade": 0,
+    "skillTargetId": "",
+    "limitBreakMaxGrade": 0
+  },
+  {
+    "id": "ef-score_get_by_more_combo_count-9700-chart_dependence",
+    "name": "スコア獲得-コンボ数が多い程効果上昇",
+    "type": 8,
+    "description": "970%のスコア獲得、コンボ数が多い程効果上昇",
     "shortDescription": "",
     "grade": 0,
     "maxGrade": 0,
@@ -35325,6 +35380,39 @@
     "name": "スコア獲得-スキル成功率が高い程効果上昇",
     "type": 54,
     "description": "460%のスコア獲得、スキル成功率が高い程効果上昇",
+    "shortDescription": "",
+    "grade": 0,
+    "maxGrade": 0,
+    "skillTargetId": "",
+    "limitBreakMaxGrade": 0
+  },
+  {
+    "id": "ef-score_get_by_skill_success_rate_up-4800-chart_dependence",
+    "name": "スコア獲得-スキル成功率が高い程効果上昇",
+    "type": 54,
+    "description": "480%のスコア獲得、スキル成功率が高い程効果上昇",
+    "shortDescription": "",
+    "grade": 0,
+    "maxGrade": 0,
+    "skillTargetId": "",
+    "limitBreakMaxGrade": 0
+  },
+  {
+    "id": "ef-score_get_by_skill_success_rate_up-5000-chart_dependence",
+    "name": "スコア獲得-スキル成功率が高い程効果上昇",
+    "type": 54,
+    "description": "500%のスコア獲得、スキル成功率が高い程効果上昇",
+    "shortDescription": "",
+    "grade": 0,
+    "maxGrade": 0,
+    "skillTargetId": "",
+    "limitBreakMaxGrade": 0
+  },
+  {
+    "id": "ef-score_get_by_skill_success_rate_up-5300-chart_dependence",
+    "name": "スコア獲得-スキル成功率が高い程効果上昇",
+    "type": 54,
+    "description": "530%のスコア獲得、スキル成功率が高い程効果上昇",
     "shortDescription": "",
     "grade": 0,
     "maxGrade": 0,
@@ -48789,6 +48877,28 @@
     "name": "自身にスキル成功率上昇効果",
     "type": 37,
     "description": "自身に7段階スキル成功率上昇効果[29ビート]",
+    "grade": 7,
+    "maxGrade": 10,
+    "skillTargetId": "target-self",
+    "limitBreakMaxGrade": 11,
+    "shortDescription": ""
+  },
+  {
+    "id": "ef-skill_success_rate_up-7-target-self-32",
+    "name": "自身にスキル成功率上昇効果",
+    "type": 37,
+    "description": "自身に7段階スキル成功率上昇効果[32ビート]",
+    "grade": 7,
+    "maxGrade": 10,
+    "skillTargetId": "target-self",
+    "limitBreakMaxGrade": 11,
+    "shortDescription": ""
+  },
+  {
+    "id": "ef-skill_success_rate_up-7-target-self-38",
+    "name": "自身にスキル成功率上昇効果",
+    "type": 37,
+    "description": "自身に7段階スキル成功率上昇効果[38ビート]",
     "grade": 7,
     "maxGrade": 10,
     "skillTargetId": "target-self",
@@ -63855,6 +63965,17 @@
     "shortDescription": ""
   },
   {
+    "id": "ef-vocal_boost-5-target-self-25",
+    "name": "自身にボーカルブースト効果",
+    "type": 56,
+    "description": "自身に5段階ボーカルブースト効果[25ビート]",
+    "grade": 5,
+    "maxGrade": 20,
+    "skillTargetId": "target-self",
+    "limitBreakMaxGrade": 21,
+    "shortDescription": ""
+  },
+  {
     "id": "ef-vocal_boost-5-target-self-29",
     "name": "自身にボーカルブースト効果",
     "type": 56,
@@ -63914,6 +64035,17 @@
     "name": "自身にボーカルブースト効果",
     "type": 56,
     "description": "自身に6段階ボーカルブースト効果[25ビート]",
+    "grade": 6,
+    "maxGrade": 20,
+    "skillTargetId": "target-self",
+    "limitBreakMaxGrade": 21,
+    "shortDescription": ""
+  },
+  {
+    "id": "ef-vocal_boost-6-target-self-29",
+    "name": "自身にボーカルブースト効果",
+    "type": 56,
+    "description": "自身に6段階ボーカルブースト効果[29ビート]",
     "grade": 6,
     "maxGrade": 20,
     "skillTargetId": "target-self",
@@ -63987,10 +64119,32 @@
     "shortDescription": ""
   },
   {
+    "id": "ef-vocal_boost-7-target-self-33",
+    "name": "自身にボーカルブースト効果",
+    "type": 56,
+    "description": "自身に7段階ボーカルブースト効果[33ビート]",
+    "grade": 7,
+    "maxGrade": 20,
+    "skillTargetId": "target-self",
+    "limitBreakMaxGrade": 21,
+    "shortDescription": ""
+  },
+  {
     "id": "ef-vocal_boost-7-target-self-37",
     "name": "自身にボーカルブースト効果",
     "type": 56,
     "description": "自身に7段階ボーカルブースト効果[37ビート]",
+    "grade": 7,
+    "maxGrade": 20,
+    "skillTargetId": "target-self",
+    "limitBreakMaxGrade": 21,
+    "shortDescription": ""
+  },
+  {
+    "id": "ef-vocal_boost-7-target-self-38",
+    "name": "自身にボーカルブースト効果",
+    "type": 56,
+    "description": "自身に7段階ボーカルブースト効果[38ビート]",
     "grade": 7,
     "maxGrade": 20,
     "skillTargetId": "target-self",
@@ -64007,6 +64161,28 @@
     "skillTargetId": "target-self",
     "limitBreakMaxGrade": 21,
     "shortDescription": ""
+  },
+  {
+    "id": "ef-vocal_down-10-target-opponent_same_position-32",
+    "name": "同じレーンの相手にボーカル低下効果",
+    "type": 31,
+    "description": "[ライブバトルのみ]同じレーンの相手に10段階ボーカル低下効果[32ビート]",
+    "grade": 10,
+    "maxGrade": 20,
+    "skillTargetId": "target-opponent_same_position",
+    "shortDescription": "",
+    "limitBreakMaxGrade": 0
+  },
+  {
+    "id": "ef-vocal_down-10-target-opponent_same_position-38",
+    "name": "同じレーンの相手にボーカル低下効果",
+    "type": 31,
+    "description": "[ライブバトルのみ]同じレーンの相手に10段階ボーカル低下効果[38ビート]",
+    "grade": 10,
+    "maxGrade": 20,
+    "skillTargetId": "target-opponent_same_position",
+    "shortDescription": "",
+    "limitBreakMaxGrade": 0
   },
   {
     "id": "ef-vocal_down-10-target-opponent_same_position-40",
@@ -64856,6 +65032,28 @@
     "limitBreakMaxGrade": 0
   },
   {
+    "id": "ef-vocal_down-8-target-opponent_same_position-20",
+    "name": "同じレーンの相手にボーカル低下効果",
+    "type": 31,
+    "description": "[ライブバトルのみ]同じレーンの相手に8段階ボーカル低下効果[20ビート]",
+    "grade": 8,
+    "maxGrade": 20,
+    "skillTargetId": "target-opponent_same_position",
+    "shortDescription": "",
+    "limitBreakMaxGrade": 0
+  },
+  {
+    "id": "ef-vocal_down-8-target-opponent_same_position-26",
+    "name": "同じレーンの相手にボーカル低下効果",
+    "type": 31,
+    "description": "[ライブバトルのみ]同じレーンの相手に8段階ボーカル低下効果[26ビート]",
+    "grade": 8,
+    "maxGrade": 20,
+    "skillTargetId": "target-opponent_same_position",
+    "shortDescription": "",
+    "limitBreakMaxGrade": 0
+  },
+  {
     "id": "ef-vocal_down-8-target-opponent_same_position-28",
     "name": "同じレーンの相手にボーカル低下効果",
     "type": 31,
@@ -65039,6 +65237,17 @@
     "grade": 9,
     "maxGrade": 20,
     "skillTargetId": "target-opponent_character_type-1-2",
+    "shortDescription": "",
+    "limitBreakMaxGrade": 0
+  },
+  {
+    "id": "ef-vocal_down-9-target-opponent_same_position-26",
+    "name": "同じレーンの相手にボーカル低下効果",
+    "type": 31,
+    "description": "[ライブバトルのみ]同じレーンの相手に9段階ボーカル低下効果[26ビート]",
+    "grade": 9,
+    "maxGrade": 20,
+    "skillTargetId": "target-opponent_same_position",
     "shortDescription": "",
     "limitBreakMaxGrade": 0
   },
