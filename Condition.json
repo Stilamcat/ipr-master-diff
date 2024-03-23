@@ -30716,6 +30716,28 @@
     ]
   },
   {
+    "id": "cd-ex-st-part-limited-11-open",
+    "settings": [
+      {
+        "term": {
+          "nowAfter": "1711249200000",
+          "nowBefore": "1711897199000"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-ex-st-part-limited-11-open-01",
+    "settings": [
+      {
+        "term": {
+          "nowAfter": "1711249200000",
+          "nowBefore": "1711897199000"
+        }
+      }
+    ]
+  },
+  {
     "id": "cd-ex-story-part-birthday-01-open",
     "settings": [
       {
@@ -33094,6 +33116,17 @@
       {
         "term": {
           "nowAfter": "1703386800000",
+          "nowBefore": "0"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-exchange-photo-medal-24-0324",
+    "settings": [
+      {
+        "term": {
+          "nowAfter": "1711249200000",
           "nowBefore": "0"
         }
       }
@@ -95928,6 +95961,17 @@
     ]
   },
   {
+    "id": "cd-special-shop-pack-24-0319-0327-dokan-close",
+    "settings": [
+      {
+        "term": {
+          "nowAfter": "1710817200000",
+          "nowBefore": "1711249199000"
+        }
+      }
+    ]
+  },
+  {
     "id": "cd-special-shop-pack-24-0319-0327-main-083",
     "settings": [
       {
@@ -113608,6 +113652,17 @@
     ]
   },
   {
+    "id": "cd-time-exchange-photo-medal-24-0324",
+    "settings": [
+      {
+        "term": {
+          "nowAfter": "1711249200000",
+          "nowBefore": "1719197999000"
+        }
+      }
+    ]
+  },
+  {
     "id": "cd-time-exchange-pvp-open",
     "settings": [
       {
@@ -114013,6 +114068,17 @@
         "term": {
           "nowAfter": "1703386800000",
           "nowBefore": "1706713199000"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-time-exchange-situation-illust-24-0324",
+    "settings": [
+      {
+        "term": {
+          "nowAfter": "1711249200000",
+          "nowBefore": "1714489199000"
         }
       }
     ]
@@ -125185,6 +125251,81 @@
     ]
   },
   {
+    "id": "cd-time-gacha-premium-24-0324",
+    "settings": [
+      {
+        "term": {
+          "nowAfter": "1711249200000",
+          "nowBefore": "1713927599000"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-time-gacha-premium-24-0324-01",
+    "settings": [
+      {
+        "term": {
+          "nowAfter": "1711249200000",
+          "nowBefore": "1711551599000"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-time-gacha-premium-24-0324-02",
+    "settings": [
+      {
+        "term": {
+          "nowAfter": "1713625199000",
+          "nowBefore": "1713927599000"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-time-gacha-premium-24-0324-possession-hair-mna-hair-00",
+    "settings": [
+      {
+        "notSatisfyCondition": {
+          "conditionId": "cd-time-gacha-premium-shop_top_premium-shop-pack-24-0324-02"
+        },
+        "term": {
+          "nowAfter": "1711249200000",
+          "nowBefore": "1713927599000"
+        },
+        "obtainHair": {
+          "hairId": "hair-mna-hair-00"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-time-gacha-premium-24-0324-possession-hair-mna-hair-00-not",
+    "settings": [
+      {
+        "term": {
+          "nowAfter": "1711249200000",
+          "nowBefore": "1713927599000"
+        },
+        "notAllObtainHairs": {
+          "hairIds": [
+            "hair-mna-hair-00"
+          ]
+        }
+      },
+      {
+        "term": {
+          "nowAfter": "1711249200000",
+          "nowBefore": "1713927599000"
+        },
+        "purchaseShop": {
+          "shopItemId": "shop_top_premium-shop-pack-24-0324-02"
+        }
+      }
+    ]
+  },
+  {
     "id": "cd-time-gacha-premium-shop-23-1024",
     "settings": [
       {
@@ -125213,6 +125354,17 @@
         "term": {
           "nowAfter": "1703386800000",
           "nowBefore": "1706065199000"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-time-gacha-premium-shop-24-0324",
+    "settings": [
+      {
+        "term": {
+          "nowAfter": "1711249200000",
+          "nowBefore": "1713927599000"
         }
       }
     ]
@@ -125273,6 +125425,16 @@
       {
         "purchaseShop": {
           "shopItemId": "shop_top_premium-shop-pack-23-1224-04"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-time-gacha-premium-shop_top_premium-shop-pack-24-0324-02",
+    "settings": [
+      {
+        "purchaseShop": {
+          "shopItemId": "shop_top_premium-shop-pack-24-0324-02"
         }
       }
     ]

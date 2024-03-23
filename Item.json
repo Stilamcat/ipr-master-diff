@@ -1140,6 +1140,18 @@
     "isPhotoShootingCharacterOnly": false
   },
   {
+    "id": "item-exchange-ticket-mna-premium-24-0324",
+    "name": "★5プレミアム契約書",
+    "assetId": "card-exchange-05-situation-illust",
+    "description": "★5シチュエーションイラスト交換所で好きなメンバーと交換できるチケット",
+    "howToGet": "プレミアムガチャチケショップ",
+    "type": 10,
+    "value": 1,
+    "order": 140,
+    "salePrice": 0,
+    "isPhotoShootingCharacterOnly": false
+  },
+  {
     "id": "item-exchange-ticket-premium-23-0624",
     "name": "★5プレミアム契約書",
     "assetId": "card-exchange-05-situation-illust",
@@ -1277,6 +1289,18 @@
     "assetId": "gacha-ticket-premium",
     "description": "有効期限：入手後180日\nプレミアムガチャを引くことができる",
     "howToGet": "ショップなど",
+    "type": 8,
+    "value": 1,
+    "order": 140,
+    "salePrice": 0,
+    "isPhotoShootingCharacterOnly": false
+  },
+  {
+    "id": "item-gacha-premium-ticket-free-24-0324",
+    "name": "無料プレミアムガチャチケ",
+    "assetId": "gacha-ticket-premium-free",
+    "description": "プレミアムガチャを引くことができる",
+    "howToGet": "プレミアムガチャに遷移",
     "type": 8,
     "value": 1,
     "order": 140,
