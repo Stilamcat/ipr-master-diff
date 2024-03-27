@@ -4934,6 +4934,56 @@
     ]
   },
   {
+    "homeTalkId": "home-talk-card-rui-05-fest-01-talk-01",
+    "characterId": "char-rui",
+    "placeType": 1,
+    "conditionId": "cd-st-read-st-card-rui-05-fest-01-03",
+    "firstPriority": 9900,
+    "weight": 1,
+    "callPatternId": "call-pattern-card-rui-05-fest-01",
+    "choiceText": "雨降って地固まるだな\n優とぶつかることは\n今までなかったのか？",
+    "managerText": "雨降って地固まるだな\n優とぶつかることは\n今までなかったのか？",
+    "reliability": 5,
+    "characterTalks": [
+      {
+        "text": "私達は普段から仲がいいので\n口論になるようなことは\nほとんどありません。",
+        "voiceAssetId": "sud_vo_home_rui-05-fest-01_talk-01-01",
+        "motionAssetId": "mot_adv_chr_cmn_pos-005_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "それに、優はいつも私の味方で\n私がやりたいことは\n尊重してくれましたから。",
+        "voiceAssetId": "sud_vo_home_rui-05-fest-01_talk-01-02",
+        "motionAssetId": "mot_adv_chr_cmn_glad-009_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "それでいて、気がつくと\n話し合いでちゃっかり自分の意見を\n通していたりして…",
+        "voiceAssetId": "sud_vo_home_rui-05-fest-01_talk-01-03",
+        "motionAssetId": "mot_adv_chr_cmn_talk-006_in",
+        "additionMotionAssetId": "mot_all_chr_cmn_facial-001_in"
+      },
+      {
+        "text": "あのしたたかなトークスキルは\n優ならではですね。\n私には真似出来そうにありません。",
+        "voiceAssetId": "sud_vo_home_rui-05-fest-01_talk-01-04",
+        "motionAssetId": "mot_adv_chr_cmn_pos-010_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "だから、今回のように正面から意見\nをぶつけ合うことはめずらしくて\n考えさせられる経験でした。",
+        "voiceAssetId": "sud_vo_home_rui-05-fest-01_talk-01-05",
+        "motionAssetId": "mot_adv_chr_cmn_talk-004_in",
+        "additionMotionAssetId": "mot_all_chr_cmn_facial-001_in"
+      },
+      {
+        "text": "心から信頼する相手だからこそ\nちゃんとぶつかり合うことも\n時には必要なのかもしれませんね。",
+        "voiceAssetId": "sud_vo_home_rui-05-fest-01_talk-01-06",
+        "motionAssetId": "mot_adv_chr_cmn_think-009_in",
+        "additionMotionAssetId": ""
+      }
+    ]
+  },
+  {
     "homeTalkId": "home-talk-card-rui-05-idol-00-talk-01",
     "characterId": "char-rui",
     "placeType": 1,
@@ -7130,6 +7180,56 @@
         "voiceAssetId": "sud_vo_home_yu-05-fest-00_talk-01-06",
         "motionAssetId": "mot_adv_chr_cmn_talk-021_in",
         "additionMotionAssetId": "mot_all_chr_cmn_facial-034_in"
+      }
+    ]
+  },
+  {
+    "homeTalkId": "home-talk-card-yu-05-fest-01-talk-01",
+    "characterId": "char-yu",
+    "placeType": 1,
+    "conditionId": "cd-st-read-st-card-yu-05-fest-01-03",
+    "firstPriority": 9900,
+    "weight": 1,
+    "callPatternId": "call-pattern-card-yu-05-fest-01",
+    "choiceText": "どうなったんだ？",
+    "managerText": "どうなったんだ？",
+    "reliability": 5,
+    "characterTalks": [
+      {
+        "text": "そらもう突飛な意見が\nぎょうさん出まくったわ。",
+        "voiceAssetId": "sud_vo_home_yu-05-fest-01_talk-01-01",
+        "motionAssetId": "mot_adv_chr_cmn_pos-009_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "瑠依ちゃんなんか、実際に\n空から落ちながらPVを撮ろう\nなんて言い出して…",
+        "voiceAssetId": "sud_vo_home_yu-05-fest-01_talk-01-02",
+        "motionAssetId": "mot_adv_chr_cmn_pos-020_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "すみれちゃんも面白そうとか\n同意するし、大変やったわぁ。",
+        "voiceAssetId": "sud_vo_home_yu-05-fest-01_talk-01-03",
+        "motionAssetId": "mot_adv_chr_cmn_think-006_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "CG使えば済む話やのに…\nでも、そういうところが\nあの二人らしいやん？",
+        "voiceAssetId": "sud_vo_home_yu-05-fest-01_talk-01-04",
+        "motionAssetId": "mot_adv_chr_cmn_glad-001_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "いつか計画してみよかな\nスカイダイビングをしながらの\nMV撮影…",
+        "voiceAssetId": "sud_vo_home_yu-05-fest-01_talk-01-05",
+        "motionAssetId": "mot_adv_chr_cmn_think-009_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "もちろん、撮影役は\n{user}さんな。\nあはは、よろしゅうな～",
+        "voiceAssetId": "sud_vo_home_yu-05-fest-01_talk-01-06",
+        "motionAssetId": "mot_adv_chr_cmn_glad-003_in",
+        "additionMotionAssetId": ""
       }
     ]
   },

@@ -1566,6 +1566,25 @@
     "receiveConditionId": "cd-time-login-24-0320-0402"
   },
   {
+    "id": "login_bonus-campaign-24-0328-01",
+    "name": "TRINITYAiLE\nフェス開催記念",
+    "description": "5日間の特別なログインボーナス",
+    "type": 2,
+    "assetId": "login-campaign-24-0328-01",
+    "topColorCode": "00CEFF",
+    "bottomColorCode": "D0FFA0",
+    "priority": 10,
+    "rewardIds": [
+      "rd_auto;item;item-gacha-free-ticket-1s-24-0328;10",
+      "rd_auto;item;item-gacha-free-ticket-1s-24-0328;10",
+      "rd_auto;item;item-gacha-free-ticket-1s-24-0328;10",
+      "rd_auto;item;item-gacha-free-ticket-1s-24-0328;10",
+      "rd_auto;item;item-gacha-free-ticket-1s-24-0328;10"
+    ],
+    "openConditionId": "cd-time-login-24-0328-0401",
+    "receiveConditionId": "cd-time-login-24-0328-0408"
+  },
+  {
     "id": "login_bonus-normal-01",
     "name": "デイリー",
     "description": "毎日もらえるログインボーナス",

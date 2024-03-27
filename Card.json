@@ -9305,6 +9305,67 @@
     "homeTalks": []
   },
   {
+    "id": "card-rui-05-fest-01",
+    "assetId": "rui-05-fest-01",
+    "name": "空駆ける絆の翼",
+    "description": "その手をとって連れていくわ\r\n誰も知らない雲の向こうへ",
+    "type": 2,
+    "characterId": "char-rui",
+    "initialRarity": 5,
+    "cardParameterId": "card-param-01",
+    "vocalRatioPermil": 429,
+    "danceRatioPermil": 320,
+    "visualRatioPermil": 281,
+    "staminaRatioPermil": 900,
+    "cardLevelReleaseId": "card_level_release_1",
+    "skillId1": "sk-rui-05-fest-01-1",
+    "skillId2": "sk-rui-05-fest-01-2",
+    "skillId3": "sk-rui-05-fest-01-3",
+    "activityAbilityId": "aab-promotion_accessory_multi_step_reward_up",
+    "order": 366,
+    "releaseDate": "1711508400000",
+    "rewardCostumeId": "cos-rui-fest-02",
+    "imageType1": 3,
+    "displayPositionX1": -0.037,
+    "displayPositionY1": -0.115,
+    "displayScale1": 1.3,
+    "highlightDisplayPositionX1": 0.062,
+    "highlightDisplayPositionY1": -0.007,
+    "highlightDisplayScale1": 1.1,
+    "imageType2": 3,
+    "displayPositionX2": -0.037,
+    "displayPositionY2": -0.115,
+    "displayScale2": 1.3,
+    "highlightDisplayPositionX2": 0.062,
+    "highlightDisplayPositionY2": -0.007,
+    "highlightDisplayScale2": 1.1,
+    "obtainMessage": "沢山の絆が、\n私達の羽を強くした",
+    "stories": [
+      {
+        "storyId": "st-card-rui-05-fest-01-01"
+      },
+      {
+        "storyId": "st-card-rui-05-fest-01-02"
+      },
+      {
+        "storyId": "st-card-rui-05-fest-01-03"
+      }
+    ],
+    "messages": [
+      {
+        "messageId": "message-card-rui-05-fest-01",
+        "telephoneId": ""
+      },
+      {
+        "telephoneId": "tel-card-rui-05-fest-01",
+        "messageId": ""
+      }
+    ],
+    "liveAbilityId": "",
+    "rewardHairId": "",
+    "homeTalks": []
+  },
+  {
     "id": "card-rui-05-idol-00",
     "assetId": "rui-05-idol-00",
     "name": "ありのままの姿で",
@@ -13608,6 +13669,67 @@
       },
       {
         "telephoneId": "tel-card-yu-05-fest-00",
+        "messageId": ""
+      }
+    ],
+    "activityAbilityId": "",
+    "rewardHairId": "",
+    "homeTalks": []
+  },
+  {
+    "id": "card-yu-05-fest-01",
+    "assetId": "yu-05-fest-01",
+    "name": "君と広げた絆の翼",
+    "description": "絶対に辿り着くって決めたんや\r\n誰も知らない道の先まで",
+    "type": 3,
+    "characterId": "char-yu",
+    "initialRarity": 5,
+    "cardParameterId": "card-param-01",
+    "vocalRatioPermil": 310,
+    "danceRatioPermil": 272,
+    "visualRatioPermil": 418,
+    "staminaRatioPermil": 1000,
+    "cardLevelReleaseId": "card_level_release_1",
+    "skillId1": "sk-yu-05-fest-01-1",
+    "skillId2": "sk-yu-05-fest-01-2",
+    "skillId3": "sk-yu-05-fest-01-3",
+    "liveAbilityId": "lba-special_skill_score_multiply",
+    "order": 367,
+    "releaseDate": "1711508400000",
+    "rewardCostumeId": "cos-yu-fest-02",
+    "imageType1": 3,
+    "displayPositionX1": 0.142,
+    "displayPositionY1": 0.083,
+    "displayScale1": 1.2,
+    "highlightDisplayPositionX1": -0.225,
+    "highlightDisplayPositionY1": 0.197,
+    "highlightDisplayScale1": 0.9,
+    "imageType2": 3,
+    "displayPositionX2": 0.142,
+    "displayPositionY2": 0.083,
+    "displayScale2": 1.2,
+    "highlightDisplayPositionX2": -0.225,
+    "highlightDisplayPositionY2": 0.197,
+    "highlightDisplayScale2": 0.9,
+    "obtainMessage": "一人じゃこんなところまで、\n来れへんかった",
+    "stories": [
+      {
+        "storyId": "st-card-yu-05-fest-01-01"
+      },
+      {
+        "storyId": "st-card-yu-05-fest-01-02"
+      },
+      {
+        "storyId": "st-card-yu-05-fest-01-03"
+      }
+    ],
+    "messages": [
+      {
+        "messageId": "message-card-yu-05-fest-01",
+        "telephoneId": ""
+      },
+      {
+        "telephoneId": "tel-card-yu-05-fest-01",
         "messageId": ""
       }
     ],

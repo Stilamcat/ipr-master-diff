@@ -648,6 +648,18 @@
     "isPhotoShootingCharacterOnly": false
   },
   {
+    "id": "item-daily_quest_ticket_sp-24-0327",
+    "name": "スペシャルパス",
+    "assetId": "quest-daily-special",
+    "description": "デイリーライブ【スペシャル】に挑戦できる\nイベント終了後は消失します",
+    "howToGet": "ショップなど",
+    "type": 2006,
+    "value": 1,
+    "order": 220,
+    "salePrice": 0,
+    "isPhotoShootingCharacterOnly": false
+  },
+  {
     "id": "item-dream-generate-dream-23-0912",
     "name": "イメトレマニュアル",
     "assetId": "dream-generate",
@@ -1128,6 +1140,18 @@
     "isPhotoShootingCharacterOnly": false
   },
   {
+    "id": "item-exchange-ticket-24-0328",
+    "name": "★5契約書",
+    "assetId": "card-exchange-05",
+    "description": "★5アイドル交換所で好きな\nメンバーと交換できるチケット",
+    "howToGet": "TRINITYAiLEフェス開催記念ドリームギフトガチャ",
+    "type": 10,
+    "value": 1,
+    "order": 140,
+    "salePrice": 0,
+    "isPhotoShootingCharacterOnly": false
+  },
+  {
     "id": "item-exchange-ticket-fes-dream-23-1226",
     "name": "★5フェス契約書",
     "assetId": "card-exchange-05-23-1226",
@@ -1277,6 +1301,18 @@
     "assetId": "gacha-free-ticket-1s",
     "description": "有効期限：入手後7日\nチケットガチャを1回引くことができる",
     "howToGet": "1000日記念特別プレゼントキャンペーンなど",
+    "type": 8,
+    "value": 1,
+    "order": 140,
+    "salePrice": 0,
+    "isPhotoShootingCharacterOnly": false
+  },
+  {
+    "id": "item-gacha-free-ticket-1s-24-0328",
+    "name": "無料ガチャチケ",
+    "assetId": "gacha-free-ticket-1s",
+    "description": "有効期限：入手後7日\nチケットガチャを1回引くことができる",
+    "howToGet": "TRINITYAiLEフェス開催記念特別ログインボーナス",
     "type": 8,
     "value": 1,
     "order": 140,
@@ -1704,6 +1740,18 @@
     "isPhotoShootingCharacterOnly": false
   },
   {
+    "id": "item-gacha_point-fs-select-24-0327",
+    "name": "選べるアイプラフェスガチャPt",
+    "assetId": "gacha-point",
+    "description": "該当するガチャページの「ガチャPt」から\nガチャPtを消費してアイドルを獲得できる",
+    "type": 9,
+    "value": 1,
+    "order": 140,
+    "howToGet": "",
+    "salePrice": 0,
+    "isPhotoShootingCharacterOnly": false
+  },
+  {
     "id": "item-gacha_point-fs-set-bloom-21-1228",
     "name": "アイプラフェスガチャPt",
     "assetId": "gacha-point",
@@ -1837,6 +1885,18 @@
   },
   {
     "id": "item-gacha_point-fs-set-bloom-23-1226",
+    "name": "アイプラフェスガチャPt",
+    "assetId": "gacha-point",
+    "description": "該当するガチャページの「ガチャPt」から\nガチャPtを消費してアイドルを獲得できる",
+    "type": 9,
+    "value": 1,
+    "order": 140,
+    "howToGet": "",
+    "salePrice": 0,
+    "isPhotoShootingCharacterOnly": false
+  },
+  {
+    "id": "item-gacha_point-fs-set-bloom-24-0327",
     "name": "アイプラフェスガチャPt",
     "assetId": "gacha-point",
     "description": "該当するガチャページの「ガチャPt」から\nガチャPtを消費してアイドルを獲得できる",
@@ -3396,6 +3456,18 @@
     "isPhotoShootingCharacterOnly": false
   },
   {
+    "id": "item-gacha_point-rev-select-01-24-0402",
+    "name": "選べる★5復刻ガチャPt",
+    "assetId": "gacha-point",
+    "description": "該当するガチャページの「ガチャPt」から\nガチャPtを消費してアイドルを獲得できる",
+    "type": 9,
+    "value": 1,
+    "order": 140,
+    "howToGet": "",
+    "salePrice": 0,
+    "isPhotoShootingCharacterOnly": false
+  },
+  {
     "id": "item-gacha_point-select-01-21-1206",
     "name": "選べる★5バッファーガチャPt",
     "assetId": "gacha-point",
@@ -4080,6 +4152,18 @@
     "isPhotoShootingCharacterOnly": false
   },
   {
+    "id": "item-ladder_pt_24-0327-raid",
+    "name": "報酬Pt",
+    "assetId": "marathon-raid-pt",
+    "description": "ミニマルチリンクスイベントで報酬を獲得することができます\nイベント終了後はコインに変換されます",
+    "howToGet": "ミニマルチリンクスイベント",
+    "type": 8001,
+    "value": 1,
+    "order": 100,
+    "salePrice": 0,
+    "isPhotoShootingCharacterOnly": false
+  },
+  {
     "id": "item-league_medal",
     "name": "リーグメダル",
     "assetId": "medal-league",
@@ -4668,7 +4752,31 @@
     "isPhotoShootingCharacterOnly": false
   },
   {
+    "id": "item-mini-marathon-raid_medal-24-0327",
+    "name": "リンクスメダル",
+    "assetId": "medal-marathon",
+    "description": "BOXガチャを引くことができます\nイベント終了後はコインに変換されます",
+    "howToGet": "ミニマルチリンクスイベント",
+    "type": 4001,
+    "value": 1,
+    "order": 1000,
+    "salePrice": 0,
+    "isPhotoShootingCharacterOnly": false
+  },
+  {
     "id": "item-mini-marathon-raid_quest_unlock-23-1226",
+    "name": "解放Pt",
+    "assetId": "marathon-release-pt",
+    "description": "ミニマルチリンクスイベントの解放Ptです\nイベント終了後はコインに変換されます",
+    "howToGet": "ミニマルチリンクスイベント",
+    "type": 5002,
+    "value": 1,
+    "order": 1002,
+    "salePrice": 0,
+    "isPhotoShootingCharacterOnly": false
+  },
+  {
+    "id": "item-mini-marathon-raid_quest_unlock-24-0327",
     "name": "解放Pt",
     "assetId": "marathon-release-pt",
     "description": "ミニマルチリンクスイベントの解放Ptです\nイベント終了後はコインに変換されます",
@@ -4692,7 +4800,31 @@
     "isPhotoShootingCharacterOnly": false
   },
   {
+    "id": "item-mini-marathon-raid_raid-stamina_recovery-24-0327",
+    "name": "協力キャンディ",
+    "assetId": "marathon-raid-stamina-recovery-raid",
+    "description": "ミニマルチリンクスの協力スタミナを回復します\nイベント終了後はコインに変換されます",
+    "howToGet": "プロモーション、ファンイベントなど",
+    "type": 5003,
+    "value": 10,
+    "order": 1001,
+    "salePrice": 0,
+    "isPhotoShootingCharacterOnly": false
+  },
+  {
     "id": "item-mini-marathon-raid_stamina_recovery-23-1226",
+    "name": "リンクスキャンディ",
+    "assetId": "marathon-stamina-recovery",
+    "description": "ミニマルチリンクスのスタミナを回復します\nイベント終了後はコインに変換されます",
+    "howToGet": "ハイスコアライブ、プロモーション、ファンイベント、ショップなど",
+    "type": 5001,
+    "value": 20,
+    "order": 1001,
+    "salePrice": 0,
+    "isPhotoShootingCharacterOnly": false
+  },
+  {
+    "id": "item-mini-marathon-raid_stamina_recovery-24-0327",
     "name": "リンクスキャンディ",
     "assetId": "marathon-stamina-recovery",
     "description": "ミニマルチリンクスのスタミナを回復します\nイベント終了後はコインに変換されます",
@@ -6040,6 +6172,18 @@
     "name": "繋ぐ、みんなのピース★5確定ガチャチケ",
     "assetId": "shop-gacha-ticket-r5",
     "description": "繋ぐ、みんなのピース★5アイドル1人確定チケットガチャを1回引くことができる\n使用期限終了後は消失します",
+    "howToGet": "ショップ",
+    "type": 8,
+    "value": 1,
+    "order": 100,
+    "salePrice": 0,
+    "isPhotoShootingCharacterOnly": false
+  },
+  {
+    "id": "item-shop-gacha-ticket-r5-24-0327",
+    "name": "★5アイドル1人確定アイプラフェスガチャチケ",
+    "assetId": "shop-gacha-ticket-r5",
+    "description": "★5アイドル1人確定アイプラフェスチケットガチャを1回引くことができる\n使用期限終了後は消失します",
     "howToGet": "ショップ",
     "type": 8,
     "value": 1,
